@@ -3,3 +3,7 @@ jagran.com##.ads
 achhikhabar.com###text-50 a
 achhikhabar.com###text-49 a
 achhikhabar.com##div[id^="achhi-"]
+achhisoch.com###text-18
+achhisoch.com###text-24
+achhisoch.com###text-25
+achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
