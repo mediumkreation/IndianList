@@ -3,3 +3,4 @@ jagran.com##.ads
 achhikhabar.com###text-50 a
 achhikhabar.com###text-49 a
 achhikhabar.com##div[id^="achhi-"]
+gyanipandit.com##.aalb-product-carousel-unit
