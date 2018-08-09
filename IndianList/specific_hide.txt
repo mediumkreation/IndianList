@@ -3,8 +3,17 @@ jagran.com##.ads
 achhikhabar.com###text-50 a
 achhikhabar.com###text-49 a
 achhikhabar.com##div[id^="achhi-"]
+gyanipandit.com##.aalb-product-carousel-unit
+aapkisafalta.com###text-54
 achhisoch.com###text-18
 achhisoch.com###text-24
 achhisoch.com###text-25
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
+jugantor.com##.advertisement
+jugantor.com##a[href*="eximbankbd.com"]:only-child
+jugantor.com##a[href*="fsiblbd.com"]:only-child
+jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
+shoutmehindi.com##.coupon_dealtop
+supportmeindia.com##.offer-box
+supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
