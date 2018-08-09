@@ -11,3 +11,5 @@ jugantor.com##.advertisement
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
+supportmeindia.com##.offer-box
+supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
