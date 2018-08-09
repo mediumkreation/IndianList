@@ -1,2 +1,2 @@
-# EasyListIndia
-Easy List India
+# IndianList
+
