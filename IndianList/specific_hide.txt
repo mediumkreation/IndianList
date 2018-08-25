@@ -17,3 +17,5 @@ jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
+athavannews.com##.header-adbanner
+athavannews.com##.bulk-img-ads
