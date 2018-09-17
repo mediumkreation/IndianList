@@ -17,6 +17,7 @@ jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
+patrikai.com###slide-holder
 battinews.com##a[href*="ad.battinews.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 sanjevani.com##.site-header-banner
