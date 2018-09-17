@@ -18,3 +18,8 @@ shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
 battinews.com##a[href*="ad.battinews.com"]
+dinamalar.com##a[href*="indianimprints.com/?"]
+sanjevani.com##.site-header-banner
+prajavani.net##.pj-ad-card
+anandalok.com##a[href*="jeevansathi.com"]
+sabjanta.info###text-4
