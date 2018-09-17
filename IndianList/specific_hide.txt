@@ -18,3 +18,4 @@ shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
 anandalok.com##a[href*="jeevansathi.com"]
+sabjanta.info###text-4
