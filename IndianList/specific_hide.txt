@@ -17,6 +17,12 @@ jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
+vanakkamlondon.com###text-10
+vanakkamlondon.com##a[href*="mysrilankanstay.com"]
+vanakkamlondon.com###text-20
+vanakkamlondon.com###text-4
+vanakkamlondon.com###text-7
+vanakkamlondon.com###text-21
 patrikai.com###slide-holder
 battinews.com##a[href*="ad.battinews.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
