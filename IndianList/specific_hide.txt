@@ -23,3 +23,10 @@ vanakkamlondon.com###text-20
 vanakkamlondon.com###text-4
 vanakkamlondon.com###text-7
 vanakkamlondon.com###text-21
+patrikai.com###slide-holder
+battinews.com##a[href*="ad.battinews.com"]
+dinamalar.com##a[href*="indianimprints.com/?"]
+sanjevani.com##.site-header-banner
+prajavani.net##.pj-ad-card
+anandalok.com##a[href*="jeevansathi.com"]
+sabjanta.info###text-4
