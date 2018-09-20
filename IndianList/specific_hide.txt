@@ -17,6 +17,7 @@ jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
+elugutips.in##.obi_random_banners_posts
 pallibatani.com##div[data-structure="12"]
 ap7am.com###advt-dtindex
 vanakkamlondon.com###text-10
