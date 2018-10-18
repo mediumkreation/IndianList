@@ -22,4 +22,5 @@ dinamalar.com##a[href*="indianimprints.com/?"]
 sanjevani.com##.site-header-banner
 prajavani.net##.pj-ad-card
 anandalok.com##a[href*="jeevansathi.com"]
+battinews.com###HTML3
 sabjanta.info###text-4
