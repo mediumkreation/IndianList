@@ -28,6 +28,8 @@ jugantor.com##a[href*="fsiblbd.com"]:only-child
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
+battinews.com###HTML3
+sabjanta.info###text-4
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
