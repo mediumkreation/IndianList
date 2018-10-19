@@ -27,12 +27,9 @@ jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
-
 shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
-
-
 anandalok.com##a[href*="jeevansathi.com"]
 battinews.com###HTML3
 sabjanta.info###text-4
