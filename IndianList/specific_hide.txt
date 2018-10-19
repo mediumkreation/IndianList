@@ -1,21 +1,43 @@
-kannadaprabha.com##.div_main_right_banner_other
-jagran.com##.ads
-achhikhabar.com###text-50 a
-achhikhabar.com###text-49 a
-achhikhabar.com##div[id^="achhi-"]
-gyanipandit.com##.aalb-product-carousel-unit
-aapkisafalta.com###text-54
+ap7am.com###advt-dtindex
+patrikai.com###slide-holder
+vanakkamlondon.com###text-10
 achhisoch.com###text-18
+vanakkamlondon.com###text-20
+vanakkamlondon.com###text-21
 achhisoch.com###text-24
 achhisoch.com###text-25
-achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
-aajkaal.in##a[href*="wbjeeb.in"] img:only-child
+sabjanta.info,vanakkamlondon.com###text-4
+achhikhabar.com###text-49 a
+achhikhabar.com###text-50 a
+aapkisafalta.com###text-54
+vanakkamlondon.com###text-7
+gyanipandit.com##.aalb-product-carousel-unit
+jagran.com##.ads
 jugantor.com##.advertisement
+lankamurasu.com##.code-block
+shoutmehindi.com##.coupon_dealtop
+kannadaprabha.com##.div_main_right_banner_other
+elugutips.in,hinditips.com##.obi_random_banners_posts
+supportmeindia.com##.offer-box
+supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
+prajavani.net##.pj-ad-card
+sanjevani.com##.site-header-banner
+battinews.com##a[href*="ad.battinews.com"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
+dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
+
 shoutmehindi.com##.coupon_dealtop
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box+a[href*="go/hostgatorindia"]
 
 
+anandalok.com##a[href*="jeevansathi.com"]
+battinews.com###HTML3
+sabjanta.info###text-4
+vanakkamlondon.com##a[href*="mysrilankanstay.com"]
+achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
+aajkaal.in##a[href*="wbjeeb.in"] img:only-child
+pallibatani.com##div[data-structure="12"]
+achhikhabar.com##div[id^="achhi-"]
