@@ -38,3 +38,4 @@ achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+rojgarlive.com###popup_indiv2
