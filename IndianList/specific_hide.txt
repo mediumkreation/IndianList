@@ -39,3 +39,8 @@ aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 rojgarlive.com###popup_indiv2
+manithan.com##.siderbar-eds
+manithan.com##.advert
+manithan.com###dfp_banner_header_panel+span
+manithan.com###recommendations
+manithan.com##span[id]> iframe[id]:only-child

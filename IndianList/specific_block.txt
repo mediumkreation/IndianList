@@ -19,3 +19,5 @@
 ||jugantor.com^*/dada%20new.gif
 ||vavuniyanet.com^*Advent$image
 ||vavuniyanet.com^*Poonthottam$image
+||parsely.com^$third-party,domain=manithan.com
+||cloudfront.net^$third-party,domain=manithan.com
