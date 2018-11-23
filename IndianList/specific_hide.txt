@@ -39,4 +39,4 @@ aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 rojgarlive.com###popup_indiv2
-indiatimes.com##a[onclick*="eskcl/click.htm"]
+indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
