@@ -1,3 +1,4 @@
+telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 ap7am.com###advt-dtindex
 patrikai.com###slide-holder
 vanakkamlondon.com###text-10
