@@ -1,3 +1,4 @@
+||ssl-images-amazon.com^$third-party,domain=vasundhara.net
 -ads-$image,domain=asomiyapratidin.in
 ||jugantor.com^*/dada%20new.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
