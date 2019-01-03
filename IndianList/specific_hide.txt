@@ -1,3 +1,4 @@
+eastcoastdaily.com##.stream-item-mag
 gvtjob.com##.e3lan-below_header
 gvtjob.com###text-29
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
