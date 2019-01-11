@@ -2,6 +2,7 @@
 ||nepalsandesh.com^*430x224.jpeg
 ||nepalsandesh.com^*768x399.jpeg
 ||nepalsandesh.com^*650x338.jpeg
+||hindilok.com/promo/images/$image
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
 -ads-$image,domain=asomiyapratidin.in
 ||jugantor.com^*/dada%20new.gif

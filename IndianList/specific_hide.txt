@@ -1,6 +1,8 @@
 nepalsandesh.com##.bannerNews
 crimecontrolnews.com##.td-a-rec
 vasundhara.net##a[href*="amzn.to"]
+hindilok.com##a[href*="ojassoft"]
+hindilok.com##a[href*="astrosage.com"]
 eastcoastdaily.com##.stream-item-mag
 gvtjob.com##.e3lan-below_header
 gvtjob.com###text-29
