@@ -9,6 +9,7 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 ap7am.com###advt-dtindex
 patrikai.com###slide-holder
 vanakkamlondon.com###text-10
+himalini.com##.banner-promotions-wrapper
 achhisoch.com###text-18
 vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21

@@ -4,6 +4,8 @@
 ||nepalsandesh.com^*650x338.jpeg
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
 -ads-$image,domain=asomiyapratidin.in
+ad.gif$image,domain=himalini.com
+720x90$image,domain=himalini.com
 ||jugantor.com^*/dada%20new.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||ntnews.com^*-AD.jpg
