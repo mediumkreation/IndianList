@@ -15,7 +15,10 @@ achhikhabar.com###text-50 a
 aapkisafalta.com###text-54
 vanakkamlondon.com###text-7
 gyanipandit.com##.aalb-product-carousel-unit
+narayanionline.com##.add_middle
 jagran.com##.ads
+narayanionline.com##.advertiesment-header
+narayanionline.com##.advertiesment-main > a:only-child
 jugantor.com##.advertisement
 nepalsandesh.com##.bannerNews
 lankamurasu.com##.code-block
@@ -28,10 +31,12 @@ elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
+narayanionline.com##.post-advertiesment
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 vasundhara.net##a[href*="amzn.to"]
