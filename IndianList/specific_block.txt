@@ -2,6 +2,9 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 ||filmdon.com/images/add.jpg
+||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
+||filmdon.com/images/add.jpg
+||hindilok.com/promo/images/$image
 ||jugantor.com^*/dada%20new.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||nepalsandesh.com^*430x224.jpeg
