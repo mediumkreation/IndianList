@@ -1,6 +1,6 @@
--300x300$domain=ajabgjab.com
+-300x300.$domain=ajabgjab.com
 -ads-$image,domain=asomiyapratidin.in
-_336x280$domain=ajabgjab.com
+_336x280.$domain=ajabgjab.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||ajabgjab.com/FeedifySW.js
 ||feedify.net^$third-party,domain=ajabgjab.com
