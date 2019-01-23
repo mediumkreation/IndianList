@@ -1,7 +1,8 @@
 nepalsandesh.com##.bannerNews
 crimecontrolnews.com##.td-a-rec
 vasundhara.net##a[href*="amzn.to"]
-medianp.com##section[id^="text-"]
+medianp.com###text-6
+medianp.com###text-10
 eastcoastdaily.com##.stream-item-mag
 gvtjob.com##.e3lan-below_header
 gvtjob.com###text-29
