@@ -1,3 +1,13 @@
+nepalsandesh.com##.bannerNews
+crimecontrolnews.com##.td-a-rec
+vasundhara.net##a[href*="amzn.to"]
+medianp.com###text-6
+medianp.com###text-10
+eastcoastdaily.com##.stream-item-mag
+gvtjob.com##.e3lan-below_header
+gvtjob.com###text-29
+kamuktastories.com##.enhanced-text-widget
+telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
