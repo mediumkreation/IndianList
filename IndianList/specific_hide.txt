@@ -1,3 +1,8 @@
+narayanionline.com##.add_middle
+narayanionline.com##.advertiesment-header
+narayanionline.com##.advertiesment-main > a:only-child
+narayanionline.com##.post-advertiesment
+narayanionline.com##[alt="advertiesment"]
 battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
