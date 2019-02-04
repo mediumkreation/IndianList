@@ -53,6 +53,7 @@ lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
+samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 dinamalar.com##a[href*="indianimprints.com/?"]
