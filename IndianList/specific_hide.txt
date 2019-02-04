@@ -1,18 +1,8 @@
-nepalsandesh.com##.bannerNews
-crimecontrolnews.com##.td-a-rec
-vasundhara.net##a[href*="amzn.to"]
-medianp.com###text-6
-medianp.com###text-10
-eastcoastdaily.com##.stream-item-mag
-gvtjob.com##.e3lan-below_header
-gvtjob.com###text-29
-kamuktastories.com##.enhanced-text-widget
-telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
 patrikai.com###slide-holder
-vanakkamlondon.com###text-10
+medianp.com,vanakkamlondon.com###text-10
 achhisoch.com###text-18
 vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
@@ -25,7 +15,9 @@ achhikhabar.com###text-49 a
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 aapkisafalta.com###text-54
+medianp.com###text-6
 vanakkamlondon.com###text-7
+bhaskar.com###top-nav15
 gyanipandit.com##.aalb-product-carousel-unit
 jagran.com##.ads
 jugantor.com##.advertisement
@@ -50,6 +42,7 @@ lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
+bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 dinamalar.com##a[href*="indianimprints.com/?"]
