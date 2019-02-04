@@ -7,7 +7,7 @@ battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
 patrikai.com###slide-holder
-vanakkamlondon.com###text-10
+medianp.com,vanakkamlondon.com###text-10
 achhisoch.com###text-18
 vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
@@ -15,16 +15,23 @@ achhisoch.com###text-24
 achhisoch.com###text-25
 gvtjob.com###text-29
 sabjanta.info,vanakkamlondon.com###text-4
+mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
+mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 aapkisafalta.com###text-54
+medianp.com###text-6
 vanakkamlondon.com###text-7
+janamsakshi.org###topleftAd
+janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
 narayanionline.com##.add_middle
 jagran.com##.ads
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 jugantor.com##.advertisement
+asianmetronews.com##.banner
+himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 lankamurasu.com##.code-block
 shoutmehindi.com##.coupon_dealtop
