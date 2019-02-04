@@ -1,3 +1,8 @@
+narayanionline.com##.add_middle
+narayanionline.com##.advertiesment-header
+narayanionline.com##.advertiesment-main > a:only-child
+narayanionline.com##.post-advertiesment
+narayanionline.com##[alt="advertiesment"]
 battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
@@ -20,7 +25,10 @@ vanakkamlondon.com###text-7
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
+narayanionline.com##.add_middle
 jagran.com##.ads
+narayanionline.com##.advertiesment-header
+narayanionline.com##.advertiesment-main > a:only-child
 jugantor.com##.advertisement
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
@@ -35,10 +43,12 @@ elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
+narayanionline.com##.post-advertiesment
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 vasundhara.net##a[href*="amzn.to"]
