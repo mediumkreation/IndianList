@@ -1,8 +1,3 @@
-narayanionline.com##.add_middle
-narayanionline.com##.advertiesment-header
-narayanionline.com##.advertiesment-main > a:only-child
-narayanionline.com##.post-advertiesment
-narayanionline.com##[alt="advertiesment"]
 battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
@@ -39,6 +34,7 @@ kannadaprabha.com##.div_main_right_banner_other
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 lankasri.com##.f-single
+lakshmipur24.com##.header_ad_block advertisement
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
