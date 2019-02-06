@@ -1,8 +1,3 @@
-narayanionline.com##.add_middle
-narayanionline.com##.advertiesment-header
-narayanionline.com##.advertiesment-main > a:only-child
-narayanionline.com##.post-advertiesment
-narayanionline.com##[alt="advertiesment"]
 battinews.com###HTML3
 ap7am.com###advt-dtindex
 rojgarlive.com###popup_indiv2
@@ -14,6 +9,7 @@ vanakkamlondon.com###text-21
 achhisoch.com###text-24
 achhisoch.com###text-25
 gvtjob.com###text-29
+bdkhobor24.com###text-3
 sabjanta.info,vanakkamlondon.com###text-4
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
@@ -48,6 +44,8 @@ sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+bdkhobor24.com##.topadlft
+bdkhobor24.com##.topadrt
 narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
