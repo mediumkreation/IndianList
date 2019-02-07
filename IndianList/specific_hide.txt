@@ -1,10 +1,6 @@
-narayanionline.com##.add_middle
-narayanionline.com##.advertiesment-header
-narayanionline.com##.advertiesment-main > a:only-child
-narayanionline.com##.post-advertiesment
-narayanionline.com##[alt="advertiesment"]
 battinews.com###HTML3
 ap7am.com###advt-dtindex
+banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
 patrikai.com###slide-holder
 medianp.com,vanakkamlondon.com###text-10
@@ -44,6 +40,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
+banglatelegraph.com##.sentbe-top
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
