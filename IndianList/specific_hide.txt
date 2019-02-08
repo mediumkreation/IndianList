@@ -24,7 +24,7 @@ narayanionline.com##.add_middle
 jagran.com##.ads
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
-jugantor.com##.advertisement
+jugantor.com,lakshmipur24.com##.advertisement
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
@@ -34,7 +34,7 @@ kannadaprabha.com##.div_main_right_banner_other
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 lankasri.com##.f-single
-lakshmipur24.com##.header_ad_block advertisement
+lakshmipur24.com##.header_ad_block
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
