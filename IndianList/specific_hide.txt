@@ -18,6 +18,7 @@ achhikhabar.com###text-50 a
 aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
+bhaskar.com###top-nav15
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
@@ -51,6 +52,7 @@ lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
+bhaskar.com##a[href*="crwdcntrl.net"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
