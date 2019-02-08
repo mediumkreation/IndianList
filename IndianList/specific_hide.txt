@@ -1,4 +1,5 @@
 battinews.com###HTML3
+thereport24.com###add-place
 ap7am.com###advt-dtindex
 banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
@@ -40,6 +41,7 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
+thereport24.com##.idlc
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
@@ -50,6 +52,7 @@ sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+thereport24.com##.top-add-left4
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 narayanionline.com##[alt="advertiesment"]
