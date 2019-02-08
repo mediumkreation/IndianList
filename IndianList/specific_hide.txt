@@ -9,6 +9,7 @@ vanakkamlondon.com###text-21
 achhisoch.com###text-24
 achhisoch.com###text-25
 gvtjob.com###text-29
+bdkhobor24.com###text-3
 sabjanta.info,vanakkamlondon.com###text-4
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
@@ -18,8 +19,13 @@ aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
 bhaskar.com###top-nav15
+janamsakshi.org###topleftAd
+janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
+narayanionline.com##.add_middle
 jagran.com##.ads
+narayanionline.com##.advertiesment-header
+narayanionline.com##.advertiesment-main > a:only-child
 jugantor.com##.advertisement
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
@@ -34,15 +40,20 @@ elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
+narayanionline.com##.post-advertiesment
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+bdkhobor24.com##.topadlft
+bdkhobor24.com##.topadrt
+narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
+samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 dinamalar.com##a[href*="indianimprints.com/?"]
