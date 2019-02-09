@@ -2,9 +2,9 @@
 -ads-$image,domain=asomiyapratidin.in
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
-?w=640&$image,domain=himalini.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif^domain=narayanionline.com
+?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||ajabgjab.com/FeedifySW.js
@@ -18,6 +18,9 @@ _336x280.$domain=ajabgjab.com
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hindilok.com/promo/images/$image
 ||jugantor.com^*/dada%20new.gif
+||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
+||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
+||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||namasteandhra.com^*/VisitorsCoverage_Banner.jpg
