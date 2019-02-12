@@ -22,6 +22,7 @@ aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
 bhaskar.com###top-nav15
+vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
@@ -73,6 +74,7 @@ achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 hindilok.com##a[href*="ojassoft"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
+vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
