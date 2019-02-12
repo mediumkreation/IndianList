@@ -46,6 +46,8 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
+manoramaonline.com##.mm-banner970-90-ad
+manoramaonline.com##.mm-other-ad
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
