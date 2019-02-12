@@ -1,7 +1,9 @@
 battinews.com###HTML3
 ap7am.com###advt-dtindex
+manithan.com###dfp_banner_header_panel + span
 banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
+manithan.com###recommendations
 patrikai.com###slide-holder
 medianp.com,vanakkamlondon.com###text-10
 achhisoch.com###text-18
@@ -20,41 +22,50 @@ aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
 bhaskar.com###top-nav15
+vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
+lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 narayanionline.com##.add_middle
 jagran.com##.ads
+manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
-jugantor.com,lakshmipur24.com##.advertisement
+bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 lankamurasu.com##.code-block
 shoutmehindi.com##.coupon_dealtop
+ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
+manoramaonline.com##.mm-banner970-90-ad
+manoramaonline.com##.mm-other-ad
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
 banglatelegraph.com##.sentbe-top
+manithan.com##.siderbar-eds
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+ukmalayalampathram.com##.top-flash
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
+janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
@@ -69,6 +80,8 @@ achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 hindilok.com##a[href*="ojassoft"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
+vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+manithan.com##span[id] > iframe[id]:only-child

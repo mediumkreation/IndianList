@@ -17,6 +17,9 @@ _336x280.$domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hindilok.com/promo/images/$image
+||janayugomonline.com^*/business_plus.jpg
+||janayugomonline.com^*/comsol10082019.gif
+||janayugomonline.com^*/gramakarsha01082018.jpg
 ||jugantor.com^*/dada%20new.gif
 ||malabarinews.com^*/5-5-01.jpg
 ||malabarinews.com^*/calicuthelp.jpg
@@ -29,6 +32,11 @@ _336x280.$domain=ajabgjab.com
 ||malabarinews.com^*/marc-animation.jpg
 ||malabarinews.com^*/needhu-8.jpg
 ||malabarinews.com^*/presentation-pgdi.jpg
+||kasaragod.com^*/ALfalah_Hypermarket.gif
+||kasaragod.com^*/Masters_Roving_EYE.gif
+||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
+||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
+||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||namasteandhra.com^*/VisitorsCoverage_Banner.jpg
@@ -78,6 +86,14 @@ _336x280.$domain=ajabgjab.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||ukmalayalampathram.com/addHome/
+||ukmalayalampathram.com/addTopLeft/
+||ukmalayalampathram.com/bannerAddHead/
+||ukmalayalampathram.com/images/indraneelam_builders.gif
+||ukmalayalampathram.com/images/jew.gif
+||ukmalayalampathram.com/images/lmr.gif
+||ukmalayalampathram.com/images/paulnminna.gif
+||ukmalayalampathram.com/images/visal.gif
 ||vanakkamlondon.com^*web_ad
 ||vavuniyanet.com^*Advent$image
 ||vavuniyanet.com^*Poonthottam$image
@@ -86,3 +102,7 @@ _336x280.$domain=ajabgjab.com
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
+||zoftcdn.com^*/andracards_banner_300x80.png
+||zoftcdn.com^*/blueocean.jpg
+||zoftcdn.com^*/citysun.jpg
+||zoftcdn.com^*/vesta.jpg
