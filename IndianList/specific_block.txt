@@ -75,3 +75,7 @@ _336x280.$domain=ajabgjab.com
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
+||zoftcdn.com^*/andracards_banner_300x80.png
+||zoftcdn.com^*/blueocean.jpg
+||zoftcdn.com^*/citysun.jpg
+||zoftcdn.com^*/vesta.jpg
