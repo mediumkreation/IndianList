@@ -1,7 +1,9 @@
 battinews.com###HTML3
 ap7am.com###advt-dtindex
+manithan.com###dfp_banner_header_panel + span
 banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
+manithan.com###recommendations
 patrikai.com###slide-holder
 medianp.com,vanakkamlondon.com###text-10
 achhisoch.com###text-18
@@ -26,6 +28,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 sudinamonline.com##.add
 narayanionline.com##.add_middle
 jagran.com##.ads
+manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 jugantor.com,lakshmipur24.com##.advertisement
@@ -46,6 +49,7 @@ supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
 banglatelegraph.com##.sentbe-top
+manithan.com##.siderbar-eds
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
@@ -72,3 +76,4 @@ indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Fei
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+manithan.com##span[id] > iframe[id]:only-child

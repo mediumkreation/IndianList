@@ -2,9 +2,9 @@
 -ads-$image,domain=asomiyapratidin.in
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
-?w=640&$image,domain=himalini.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif^domain=narayanionline.com
+?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||ajabgjab.com/FeedifySW.js
