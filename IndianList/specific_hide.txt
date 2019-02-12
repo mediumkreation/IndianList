@@ -39,6 +39,7 @@ himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 lankamurasu.com##.code-block
 shoutmehindi.com##.coupon_dealtop
+ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
@@ -56,6 +57,7 @@ sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
+ukmalayalampathram.com##.top-flash
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 narayanionline.com##[alt="advertiesment"]
