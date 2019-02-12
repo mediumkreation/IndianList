@@ -65,6 +65,7 @@ bdkhobor24.com##.topadrt
 narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
+janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
