@@ -13,6 +13,7 @@ _336x280.$domain=ajabgjab.com
 ||biyanitimes.com^*/biyanitimes1.jpg
 ||biyanitimes.com^*/biyanitimes2.jpg
 ||biyanitimes.com^*/gurukpo_ad.jpg
+||blogspot.com^*web%2Bad$domain=vallikkunnu.com
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
@@ -21,6 +22,11 @@ _336x280.$domain=ajabgjab.com
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
 ||jugantor.com^*/dada%20new.gif
+||kasaragod.com^*/ALfalah_Hypermarket.gif
+||kasaragod.com^*/Masters_Roving_EYE.gif
+||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
+||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
+||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
 ||malabarinews.com^*/5-5-01.jpg
 ||malabarinews.com^*/calicuthelp.jpg
 ||malabarinews.com^*/goodwill-1-300x295.gif
@@ -32,11 +38,6 @@ _336x280.$domain=ajabgjab.com
 ||malabarinews.com^*/marc-animation.jpg
 ||malabarinews.com^*/needhu-8.jpg
 ||malabarinews.com^*/presentation-pgdi.jpg
-||kasaragod.com^*/ALfalah_Hypermarket.gif
-||kasaragod.com^*/Masters_Roving_EYE.gif
-||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
-||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
-||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||namasteandhra.com^*/VisitorsCoverage_Banner.jpg
