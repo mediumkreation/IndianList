@@ -30,6 +30,7 @@ lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 narayanionline.com##.add_middle
 jagran.com##.ads
+doolnews.com##.adv_box_3x25
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
@@ -46,6 +47,8 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
+doolnews.com##.horiz_adv_area
+doolnews.com##.long_adv_area
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 elugutips.in,hinditips.com##.obi_random_banners_posts
