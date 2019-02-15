@@ -54,6 +54,8 @@ supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
 banglatelegraph.com##.sentbe-top
+newsmoments.in##.side-300x100
+newsmoments.in##.side-300x250
 manithan.com##.siderbar-eds
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
