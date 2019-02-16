@@ -78,6 +78,7 @@ anandalok.com##a[href*="jeevansathi.com"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 hindilok.com##a[href*="ojassoft"]
+deepika.com##a[href*="redirectadvt.aspx?"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 vorerbangladesh.com##a[onclick*="outbound-widget"]
