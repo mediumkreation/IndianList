@@ -53,6 +53,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
+nepalipatra.com##.rd-ads
 banglatelegraph.com##.sentbe-top
 manithan.com##.siderbar-eds
 sanjevani.com##.site-header-banner
