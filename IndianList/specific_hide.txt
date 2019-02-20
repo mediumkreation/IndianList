@@ -32,6 +32,7 @@ vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
+nepaljapan.com##.ad
 lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 narayanionline.com##.add_middle
@@ -45,6 +46,7 @@ dainiknepal.com##.advt_bx
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
+nepaljapan.com##.category_ads_3_cols
 lankamurasu.com##.code-block
 shoutmehindi.com##.coupon_dealtop
 ukmalayalampathram.com##.div_ad_rgt
@@ -54,6 +56,7 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
+nepaljapan.com##.headline_below_ad
 tnilive.com##.lefta
 doolnews.com##.horiz_adv_area
 doolnews.com##.long_adv_area
@@ -70,8 +73,10 @@ banglatelegraph.com##.sentbe-top
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 manithan.com##.siderbar-eds
+nepaljapan.com##.single-news-ad
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
+nepaljapan.com##.taza_ad
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
 ukmalayalampathram.com##.top-flash
@@ -100,4 +105,5 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+nepaljapan.com##img[alt="ads"]
 manithan.com##span[id] > iframe[id]:only-child
