@@ -24,6 +24,7 @@ _336x280.$domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hindilok.com/promo/images/$image
+||imgur.com$third-party,domain=nepalipatra.com
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
