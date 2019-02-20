@@ -41,6 +41,7 @@ manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
+dainiknepal.com##.advt_bx
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
