@@ -13,6 +13,8 @@
 450-x-222_px.jpg?$domain=osnepal.com
 450by250.jpg?$domain=osnepal.com
 450x250.jpg?$domain=osnepal.com
+/add/*$domain=thereport24.com
+/banner/*$domain=thereport24.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif^domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
@@ -38,6 +40,8 @@ _336x280.$domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hindilok.com/promo/images/$image
+||imgur.com^$third-party,domain=braveindianews.com
+||imgur.com$third-party,domain=nepalipatra.com
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||imgur.com$third-party,domain=nepalipatra.com
 ||janayugomonline.com^*/business_plus.jpg
@@ -121,6 +125,8 @@ _336x280.$domain=ajabgjab.com
 ||sanjevani.com^*/Excel-advt-Intternet-10-6x20.jpg
 ||sanjevani.com^*/Tamara-web-add-August-2018.jpg
 ||sanjevani.com^*/Tejumasala-web-add.gif
+||specials.manoramaonline.com^*/promo-book-appointment.jpg
+||specials.manoramaonline.com^*/qk-doc-promo-02.png
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
