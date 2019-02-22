@@ -17,7 +17,7 @@ _336x280.$domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hindilok.com/promo/images/$image
-||i.imgur.com$third-party,domain=braveindianews.com
+||imgur.com^$third-party,domain=braveindianews.com
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
