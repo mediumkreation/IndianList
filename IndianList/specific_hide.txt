@@ -1,4 +1,5 @@
 battinews.com###HTML3
+malabarflash.com###ad
 ap7am.com###advt-dtindex
 manithan.com###dfp_banner_header_panel + span
 banglatelegraph.com###media_image-2
@@ -6,16 +7,21 @@ rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
 medianp.com,vanakkamlondon.com###text-10
+tnilive.com###text-11
+tnilive.com###text-14
 achhisoch.com###text-18
-vanakkamlondon.com###text-20
+tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
-achhisoch.com###text-24
+tnilive.com###text-23
+achhisoch.com,tnilive.com###text-24
 achhisoch.com###text-25
+tnilive.com###text-27
 gvtjob.com###text-29
-bdkhobor24.com###text-3
+bdkhobor24.com,tnilive.com###text-3
 sabjanta.info,vanakkamlondon.com###text-4
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
+tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 aapkisafalta.com###text-54
@@ -26,17 +32,22 @@ vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
+nepaljapan.com##.ad
 lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 narayanionline.com##.add_middle
 jagran.com##.ads
+doolnews.com##.adv_box_3x25
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
+dainiknepal.com##.advt_bx
 asianmetronews.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
+bizmandu.com##.biz-header-ad
+nepaljapan.com##.category_ads_3_cols
 lankamurasu.com##.code-block
 shoutmehindi.com##.coupon_dealtop
 ukmalayalampathram.com##.div_ad_rgt
@@ -46,6 +57,10 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
+nepaljapan.com##.headline_below_ad
+tnilive.com##.lefta
+doolnews.com##.horiz_adv_area
+doolnews.com##.long_adv_area
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 elugutips.in,hinditips.com##.obi_random_banners_posts
@@ -53,10 +68,16 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
+nepalipatra.com##.rd-ads
+tnilive.com##.righta
 banglatelegraph.com##.sentbe-top
+newsmoments.in##.side-300x100
+newsmoments.in##.side-300x250
 manithan.com##.siderbar-eds
+nepaljapan.com##.single-news-ad
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
+nepaljapan.com##.taza_ad
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
 ukmalayalampathram.com##.top-flash
@@ -78,10 +99,12 @@ anandalok.com##a[href*="jeevansathi.com"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 hindilok.com##a[href*="ojassoft"]
+deepika.com##a[href*="redirectadvt.aspx?"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+nepaljapan.com##img[alt="ads"]
 manithan.com##span[id] > iframe[id]:only-child
