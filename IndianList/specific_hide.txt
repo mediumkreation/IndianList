@@ -1,6 +1,6 @@
 battinews.com###HTML3
-thereport24.com###add-place
 malabarflash.com###ad
+thereport24.com###add-place
 ap7am.com###advt-dtindex
 manithan.com###dfp_banner_header_panel + span
 banglatelegraph.com###media_image-2
@@ -44,7 +44,7 @@ narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
 dainiknepal.com##.advt_bx
-asianmetronews.com##.banner
+asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 bizmandu.com##.biz-header-ad
@@ -57,10 +57,11 @@ gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
+dcnepal.com##.full-banner
 lakshmipur24.com##.header_ad_block
-thereport24.com##.idlc
 nepaljapan.com##.headline_below_ad
 doolnews.com##.horiz_adv_area
+thereport24.com##.idlc
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
 manoramaonline.com##.mm-banner970-90-ad
@@ -86,6 +87,7 @@ thereport24.com##.top-add-left4
 ukmalayalampathram.com##.top-flash
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
+dcnepal.com##.topbanner
 narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
