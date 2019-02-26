@@ -1,6 +1,6 @@
 battinews.com###HTML3
-thereport24.com###add-place
 malabarflash.com###ad
+thereport24.com###add-place
 ap7am.com###advt-dtindex
 manithan.com###dfp_banner_header_panel + span
 banglatelegraph.com###media_image-2
@@ -58,9 +58,9 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
-thereport24.com##.idlc
 nepaljapan.com##.headline_below_ad
 doolnews.com##.horiz_adv_area
+thereport24.com##.idlc
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
 manoramaonline.com##.mm-banner970-90-ad
