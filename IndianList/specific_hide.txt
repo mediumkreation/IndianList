@@ -3,6 +3,7 @@ malabarflash.com###ad
 thereport24.com###add-place
 ap7am.com###advt-dtindex
 manithan.com###dfp_banner_header_panel + span
+bspabla.com###heatmapthemead-primary-sidebar
 banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
@@ -44,6 +45,7 @@ narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
 dainiknepal.com##.advt_bx
+bspabla.com##.amzn_wdgt
 asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
