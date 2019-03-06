@@ -2,7 +2,7 @@
 -ads-$image,domain=asomiyapratidin.in
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
-960-x-90*.gif$domain=bizmandu.com
+960*.gif|$domain=bizmandu.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
