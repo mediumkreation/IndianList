@@ -98,6 +98,7 @@ janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
+ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
