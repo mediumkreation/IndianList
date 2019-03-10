@@ -58,7 +58,9 @@ _336x280.$domain=ajabgjab.com
 ||hamrosandesh.com^*/300-x-84.gif
 ||hamrosandesh.com^*/house.jpg
 ||hindilok.com/promo/images/$image
+||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
+||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||imgur.com$third-party,domain=nepalipatra.com
 ||imgur.com^$third-party,domain=braveindianews.com
 ||janayugomonline.com^*/business_plus.jpg
@@ -127,6 +129,14 @@ _336x280.$domain=ajabgjab.com
 ||nepalsandesh.com^*650x338.jpeg
 ||nepalsandesh.com^*768x399.jpeg
 ||nepalsandesh.com^*SUNRISE.gif
+||news24nepal.tv^*/1545978837-century-bank-768x685.gif
+||news24nepal.tv^*/century-bank.jpg
+||news24nepal.tv^*/gajabkologo-large.jpg
+||news24nepal.tv^*/ime.gif
+||news24nepal.tv^*/Nexcon-AMT-1180x-90-px-1.gif
+||news24nepal.tv^*/rijals.jpg
+||news24nepal.tv^*/salttrading.gif
+||news24nepal.tv^*/tensberg_beer_1110x80.gif
 ||newsmoments.in^*/Chemmannur.jpg
 ||nrimalayalee.com^*/12-shoy-cheriyan-300x85.gif
 ||nrimalayalee.com^*/535x*.gif
