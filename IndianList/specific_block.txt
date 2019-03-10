@@ -23,6 +23,7 @@ _336x280.$domain=ajabgjab.com
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
+||bigyapan.hamropatro.com$third-party,domain=ratopati.com
 ||biyanitimes.com^*/biyanitimes1.jpg
 ||biyanitimes.com^*/biyanitimes2.jpg
 ||biyanitimes.com^*/gurukpo_ad.jpg
