@@ -3,6 +3,7 @@
 -ads-$image,domain=asomiyapratidin.in
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
+960*.gif|$domain=bizmandu.com
 /add/*$domain=thereport24.com
 /banner/*$domain=thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
@@ -16,7 +17,7 @@
 450by250.jpg?$domain=osnepal.com
 450x250.jpg?$domain=osnepal.com
 ?add.gif|$domain=narayanionline.com
-?final*.gif^domain=narayanionline.com
+?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
@@ -28,9 +29,14 @@ _336x280.$domain=ajabgjab.com
 ||biyanitimes.com^*/gurukpo_ad.jpg
 ||bizmandu.com^*/headbanner
 ||bizmandu.com^*/midbanner
+||bizmandu.com^*/splash
 ||bizmandu.com^*/topbanner
 ||blogspot.com^*/City%2Bbag%2Bcopy.png
 ||blogspot.com^*/LIYA%2BADVT.PNG
+||blogspot.com^*web%2Bad$domain=vallikkunnu.com
+||chavakkadonline.com^*/mehandi-add-size-1-1.jpg
+||chavakkadonline.com^*/SECUDZONE-ADD-IN-ONLINE.jpg
+||chavakkadonline.com^*/whitemen-ad-2.jpg
 ||blogspot.com^*/s1600/01.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/s1600/1.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/s1600/35721691_914621818710050_1764063254537043968_n%2B%25281%2529.jpg$domain=arghakhanchi.com
