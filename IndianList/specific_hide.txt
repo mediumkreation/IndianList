@@ -1,7 +1,9 @@
+sakshi.com###.block-block-145
 battinews.com###HTML3
 malabarflash.com###ad
 thereport24.com###add-place
 ap7am.com###advt-dtindex
+sakshi.com###block-block-141--2
 manithan.com###dfp_banner_header_panel + span
 bspabla.com###heatmapthemead-primary-sidebar
 banglatelegraph.com###media_image-2
@@ -26,6 +28,7 @@ achhikhabar.com###text-49 a
 tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
+mbmnewsnetwork.com###text-52
 aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
@@ -35,10 +38,12 @@ janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
 nepaljapan.com##.ad
+eenadu.net##.ad-block-300
 lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 narayanionline.com##.add_middle
 jagran.com##.ads
+eenadu.net##.ads680-30
 doolnews.com##.adv_box_3x25
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
@@ -51,7 +56,7 @@ himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 bizmandu.com##.biz-header-ad
 nepaljapan.com##.category_ads_3_cols
-lankamurasu.com##.code-block
+lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
 shoutmehindi.com##.coupon_dealtop
 ukmalayalampathram.com##.div_ad_rgt
@@ -76,6 +81,7 @@ prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
 nepalipatra.com##.rd-ads
 tnilive.com##.righta
+bizmandu.com##.roadblock
 banglatelegraph.com##.sentbe-top
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
@@ -98,6 +104,7 @@ janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
+ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
