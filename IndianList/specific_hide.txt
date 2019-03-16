@@ -10,8 +10,9 @@ banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
-medianp.com,vanakkamlondon.com###text-10
-tnilive.com###text-11
+medianp.com,tamil.com,vanakkamlondon.com###text-10
+tamil.com,tnilive.com###text-11
+tamil.com###text-13
 tnilive.com###text-14
 achhisoch.com###text-18
 tnilive.com,vanakkamlondon.com###text-20
