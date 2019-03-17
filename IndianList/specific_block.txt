@@ -3,7 +3,6 @@
 -ads-$image,domain=asomiyapratidin.in
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
-960*.gif|$domain=bizmandu.com
 /add/*$domain=thereport24.com
 /banner/*$domain=thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
@@ -16,6 +15,7 @@
 450-x-222_px.jpg?$domain=osnepal.com
 450by250.jpg?$domain=osnepal.com
 450x250.jpg?$domain=osnepal.com
+960*.gif|$domain=bizmandu.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
@@ -33,10 +33,6 @@ _336x280.$domain=ajabgjab.com
 ||bizmandu.com^*/topbanner
 ||blogspot.com^*/City%2Bbag%2Bcopy.png
 ||blogspot.com^*/LIYA%2BADVT.PNG
-||blogspot.com^*web%2Bad$domain=vallikkunnu.com
-||chavakkadonline.com^*/mehandi-add-size-1-1.jpg
-||chavakkadonline.com^*/SECUDZONE-ADD-IN-ONLINE.jpg
-||chavakkadonline.com^*/whitemen-ad-2.jpg
 ||blogspot.com^*/s1600/01.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/s1600/1.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/s1600/35721691_914621818710050_1764063254537043968_n%2B%25281%2529.jpg$domain=arghakhanchi.com
@@ -58,6 +54,7 @@ _336x280.$domain=ajabgjab.com
 ||dcnepal.com^*/midadvertise/
 ||dcnepal.com^*/sideadvertise/
 ||deepika.com^*/Ziva_slide_15_9_18.jpg
+||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eenadupratibha.net^*/balabharatam.jpg
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
@@ -161,8 +158,8 @@ _336x280.$domain=ajabgjab.com
 ||osnepal.com^*/him-samjhauta.jpg
 ||osnepal.com^*/Motherland-Nepal.jpg
 ||osnepal.com^*/Surya-Sharma.jpg
-||pressnote.in/images/hzl.jpg
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
+||pressnote.in/images/hzl.jpg
 ||punjabtimesusa.com^*-225x300
 ||punjabtimesusa.com^*-300x16
 ||samachar4media.com^*/277x277%20(1).gif
