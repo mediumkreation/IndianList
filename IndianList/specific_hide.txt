@@ -5,6 +5,7 @@ thereport24.com###add-place
 ap7am.com###advt-dtindex
 sakshi.com###block-block-141--2
 manithan.com###dfp_banner_header_panel + span
+ethiri.com###header-helpful
 bspabla.com###heatmapthemead-primary-sidebar
 banglatelegraph.com###media_image-2
 rojgarlive.com###popup_indiv2
@@ -55,6 +56,7 @@ asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 bizmandu.com##.biz-header-ad
+ethiri.com##.brand_wrapper .tagline
 nepaljapan.com##.category_ads_3_cols
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
@@ -98,6 +100,7 @@ bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 dcnepal.com##.topbanner
 narayanionline.com##[alt="advertiesment"]
+ethiri.com##[class*="ads_"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 janayugomonline.com##a[href*="advetorial"]
