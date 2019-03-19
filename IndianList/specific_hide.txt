@@ -55,6 +55,7 @@ narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
 dainiknepal.com##.advt_bx
 bspabla.com##.amzn_wdgt
+manabadi.co.in##.backg-g
 asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
@@ -65,6 +66,7 @@ hamrosandesh.com##.container-ad
 shoutmehindi.com##.coupon_dealtop
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
+manabadi.co.in##.dsc-banners
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner

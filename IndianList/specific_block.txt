@@ -31,6 +31,7 @@ _336x280.$domain=ajabgjab.com
 ||bizmandu.com^*/midbanner
 ||bizmandu.com^*/splash
 ||bizmandu.com^*/topbanner
+||blogspot.com^$third-party,domain=manabadi.co.in
 ||blogspot.com^*/City%2Bbag%2Bcopy.png
 ||blogspot.com^*/LIYA%2BADVT.PNG
 ||blogspot.com^*/s1600/01.jpg$domain=arghakhanchi.com
@@ -177,9 +178,9 @@ _336x280.$domain=ajabgjab.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
-||thisaikaddi.com^*/logo-header.png
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
+||thisaikaddi.com^*/logo-header.png
 ||ukmalayalampathram.com/addHome/
 ||ukmalayalampathram.com/addTopLeft/
 ||ukmalayalampathram.com/bannerAddHead/
