@@ -4,6 +4,7 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
+/ads/*$domain=jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
@@ -69,6 +70,7 @@ _336x280.$domain=ajabgjab.com
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
+||jugantor.com^*/Banner.jpg
 ||jugantor.com^*/dada%20new.gif
 ||kasaragod.com^*/ALfalah_Hypermarket.gif
 ||kasaragod.com^*/Masters_Roving_EYE.gif
@@ -177,9 +179,9 @@ _336x280.$domain=ajabgjab.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
-||thisaikaddi.com^*/logo-header.png
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
+||thisaikaddi.com^*/logo-header.png
 ||ukmalayalampathram.com/addHome/
 ||ukmalayalampathram.com/addTopLeft/
 ||ukmalayalampathram.com/bannerAddHead/
