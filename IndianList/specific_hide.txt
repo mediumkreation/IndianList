@@ -94,7 +94,7 @@ nepaljapan.com##.single-news-ad
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 nepaljapan.com##.taza_ad
-crimecontrolnews.com##.td-a-rec
+crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
 lankasri.com##.today-eds-wrap
 thereport24.com##.top-add-left4
 ukmalayalampathram.com##.top-flash
