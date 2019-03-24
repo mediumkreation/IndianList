@@ -24,6 +24,7 @@ _336x280.$domain=ajabgjab.com
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
+||bigyapan.hamropatro.com^$third-party,domain=ujyaaloonline.com
 ||biyanitimes.com^*/biyanitimes1.jpg
 ||biyanitimes.com^*/biyanitimes2.jpg
 ||biyanitimes.com^*/gurukpo_ad.jpg
@@ -177,9 +178,10 @@ _336x280.$domain=ajabgjab.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
-||thisaikaddi.com^*/logo-header.png
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
+||thisaikaddi.com^*/logo-header.png
+||totalkannada.com/images/client/remove/
 ||ukmalayalampathram.com/addHome/
 ||ukmalayalampathram.com/addTopLeft/
 ||ukmalayalampathram.com/bannerAddHead/
@@ -188,6 +190,7 @@ _336x280.$domain=ajabgjab.com
 ||ukmalayalampathram.com/images/lmr.gif
 ||ukmalayalampathram.com/images/paulnminna.gif
 ||ukmalayalampathram.com/images/visal.gif
+||unncdn.prixa.net/media/promoted_contents$domain=ujyaaloonline.com
 ||vaavaa.co.uk^*/Ad%20Furniture.jpg
 ||vaavaa.co.uk^*/Adv
 ||vaavaa.co.uk^*/jkaccountants2.jpg

@@ -8,6 +8,7 @@ sakshi.com###block-block-141--2
 manithan.com###dfp_banner_header_panel + span
 bspabla.com###heatmapthemead-primary-sidebar
 banglatelegraph.com###media_image-2
+ujyaaloonline.com###myCarousel
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
@@ -40,7 +41,7 @@ vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 gyanipandit.com##.aalb-product-carousel-unit
-nepaljapan.com##.ad
+nepaljapan.com,ujyaaloonline.com##.ad
 eenadu.net##.ad-block-300
 lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
@@ -129,5 +130,6 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 manithan.com##span[id] > iframe[id]:only-child
