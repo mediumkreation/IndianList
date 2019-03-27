@@ -4,7 +4,7 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
-/banner/*$domain=thereport24.com
+/banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
 300_500.jpg?$domain=osnepal.com
@@ -158,6 +158,10 @@ _336x280.$domain=ajabgjab.com
 ||osnepal.com^*/him-samjhauta.jpg
 ||osnepal.com^*/Motherland-Nepal.jpg
 ||osnepal.com^*/Surya-Sharma.jpg
+||paristamil.com/box_client1.php
+||paristamil.com/info$image
+||paristamil.com/info_images/ta_client$image
+||paristamil.com/layout_images/index/acs30x25.jpg
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
 ||pressnote.in/images/hzl.jpg
 ||punjabtimesusa.com^*-225x300
@@ -171,6 +175,7 @@ _336x280.$domain=ajabgjab.com
 ||sanjevani.com^*/Excel-advt-Intternet-10-6x20.jpg
 ||sanjevani.com^*/Tamara-web-add-August-2018.jpg
 ||sanjevani.com^*/Tejumasala-web-add.gif
+||sankathi24.com^*/publicity/$image
 ||specials.manoramaonline.com^*/promo-book-appointment.jpg
 ||specials.manoramaonline.com^*/qk-doc-promo-02.png
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
@@ -178,6 +183,9 @@ _336x280.$domain=ajabgjab.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||thisaikaddi.com^*/logo-header.png
+||thinakkathir.com^*/thiru-50.gif
+||thisaikaddi.com^*/content-ad.jpg
 ||ukmalayalampathram.com/addHome/
 ||ukmalayalampathram.com/addTopLeft/
 ||ukmalayalampathram.com/bannerAddHead/
@@ -199,6 +207,7 @@ _336x280.$domain=ajabgjab.com
 ||vayanamuri.com^*/Kairali.gif
 ||vayanamuri.com^*/keralabusinessdirectory.gif
 ||visalaandhra.com^*-add-*.jpg
+||voscast.com^*/&stream2$domain=visarnews.com
 ||wenepali.com^*/apex.gif
 ||wenepali.com^*/asmita.gif
 ||wenepali.com^*/astar.gif
