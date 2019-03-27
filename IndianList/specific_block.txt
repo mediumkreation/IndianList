@@ -157,6 +157,10 @@ _336x280.$domain=ajabgjab.com
 ||osnepal.com^*/him-samjhauta.jpg
 ||osnepal.com^*/Motherland-Nepal.jpg
 ||osnepal.com^*/Surya-Sharma.jpg
+||paristamil.com/box_client1.php
+||paristamil.com/info$image
+||paristamil.com/info_images/ta_client$image
+||paristamil.com/layout_images/index/acs30x25.jpg
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
 ||pressnote.in/images/hzl.jpg
 ||punjabtimesusa.com^*-225x300
@@ -170,6 +174,7 @@ _336x280.$domain=ajabgjab.com
 ||sanjevani.com^*/Excel-advt-Intternet-10-6x20.jpg
 ||sanjevani.com^*/Tamara-web-add-August-2018.jpg
 ||sanjevani.com^*/Tejumasala-web-add.gif
+||sankathi24.com^*/publicity/$image
 ||specials.manoramaonline.com^*/promo-book-appointment.jpg
 ||specials.manoramaonline.com^*/qk-doc-promo-02.png
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
