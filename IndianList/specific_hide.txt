@@ -52,7 +52,7 @@ doolnews.com##.adv_box_3x25
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
-bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
+bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
 dainiknepal.com##.advt_bx
 bspabla.com##.amzn_wdgt
 asianmetronews.com,dcnepal.com##.banner
