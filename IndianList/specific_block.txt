@@ -4,6 +4,7 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
+/ads/*$domain=jugantor.com
 /ads/*$domain=dharitri.com
 /banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
@@ -75,6 +76,7 @@ _336x280.$domain=ajabgjab.com
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
+||jugantor.com^*/Banner.jpg
 ||jugantor.com^*/dada%20new.gif
 ||kasaragod.com^*/ALfalah_Hypermarket.gif
 ||kasaragod.com^*/Masters_Roving_EYE.gif
