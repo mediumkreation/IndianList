@@ -99,8 +99,8 @@ ukmalayalampathram.com##.top-flash
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 dcnepal.com##.topbanner
+ethiri.com##.widget_ads_easy_widget
 narayanionline.com##[alt="advertiesment"]
-ethiri.com##[class*="ads_"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 janayugomonline.com##a[href*="advetorial"]
@@ -117,6 +117,7 @@ anandalok.com##a[href*="jeevansathi.com"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 hindilok.com##a[href*="ojassoft"]
+ethiri.com##a[href*="pipaffiliates.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
