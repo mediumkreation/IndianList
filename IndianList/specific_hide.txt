@@ -117,6 +117,7 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 visarnews.com##a[href*="goo.gl/18LXwT"]
+onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
