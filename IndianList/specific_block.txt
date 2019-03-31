@@ -4,8 +4,7 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
-/ads/*$domain=jugantor.com
-/ads/*$domain=dharitri.com
+/ads/*$domain=dharitri.com|jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com

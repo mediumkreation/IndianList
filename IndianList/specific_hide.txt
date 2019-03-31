@@ -106,6 +106,7 @@ bdkhobor24.com##.topadrt
 dcnepal.com##.topbanner
 chauthiduniya.com##.widget_media_image
 narayanionline.com##[alt="advertiesment"]
+dinakaran.com##[class*="boxad"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 janayugomonline.com##a[href*="advetorial"]
