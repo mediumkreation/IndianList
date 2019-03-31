@@ -135,3 +135,8 @@ pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 nepaljapan.com##img[alt="ads"]
 manithan.com##span[id] > iframe[id]:only-child
+lankadeepa.lk##a[href*="/images/ads/"]
+tharunaya.us###ads6
+tharunaya.us###module_02_mainbox3:-abp-has(a[href*="/lagnapalapala"])
+derana.lk,adaderana.lk###onload-popup
+derana.lk,adaderana.lk##.in.fade.modal-backdrop
