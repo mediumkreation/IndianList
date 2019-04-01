@@ -1,6 +1,7 @@
 -300x300.$domain=ajabgjab.com
 -add.png?$domain=osnepal.com
 -ads-$image,domain=asomiyapratidin.in
+-Advt-$domain=sanjevani.com
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
