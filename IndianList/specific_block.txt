@@ -324,6 +324,10 @@ _336x280.$domain=ajabgjab.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||thepark63.com$third-party,domain=puthiyathalaimurai.com
+||thinakkathir.com^*/thiru-50.gif
+||thisaikaddi.com^*/content-ad.jpg
+||thisaikaddi.com^*/logo-header.png
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
 ||thisaikaddi.com^*/logo-header.png
