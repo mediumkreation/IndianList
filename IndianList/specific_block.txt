@@ -98,6 +98,7 @@ _336x280.$domain=ajabgjab.com
 ||bigyapan.hamropatro.com$third-party,domain=ratopati.com
 ||bigyapan.hamropatro.com^$third-party,domain=ujyaaloonline.com
 ||bccfalna.com/BccFalnaAD.png
+||bigyapan.hamropatro.com$third-party,domain=himalkhabar.com
 ||biyanitimes.com^*/biyanitimes1.jpg
 ||biyanitimes.com^*/biyanitimes2.jpg
 ||biyanitimes.com^*/gurukpo_ad.jpg
@@ -138,6 +139,7 @@ _336x280.$domain=ajabgjab.com
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hamrosandesh.com^*/300-x-84.gif
 ||hamrosandesh.com^*/house.jpg
+||himalkhabar.com^*/banner/
 ||hellonepalkorea.com^*/ad_photos/
 ||himalisherpa.com/play_benner.php
 ||hindilok.com/promo/images/$image
