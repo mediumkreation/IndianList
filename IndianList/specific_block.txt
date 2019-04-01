@@ -1,6 +1,8 @@
 -300x300.$domain=ajabgjab.com
 -add.png?$domain=osnepal.com
 -ads-$image,domain=asomiyapratidin.in
+-ADV-$domain=brtnepal.com
+-adv.$domain=brtnepal.com
 -Advt-$domain=sanjevani.com
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
@@ -61,7 +63,6 @@ _336x280.$domain=ajabgjab.com
 ||aarthiknews.com^*/RBBM_NEPALI_Last.gif
 ||aarthiknews.com^*/Subisu-300x132_-250-Digital-ko-sath-ma.gif
 ||aarthiknews.com^*/unnamed-file.gif
-=======
 ||abnews24.com^*/abnews-hameem.jpg
 ||abnews24.com^*/banglabichitra.gif
 ||abnews24.com^*/Beximco-Add.gif
