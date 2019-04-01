@@ -6,6 +6,7 @@ thereport24.com###add-place
 ap7am.com###advt-dtindex
 sakshi.com###block-block-141--2
 manithan.com###dfp_banner_header_panel + span
+ethiri.com###header-helpful
 bspabla.com###heatmapthemead-primary-sidebar
 banglatelegraph.com###media_image-2
 ujyaaloonline.com###myCarousel
@@ -61,6 +62,7 @@ asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
 bizmandu.com##.biz-header-ad
+ethiri.com##.brand_wrapper .tagline
 nepaljapan.com##.category_ads_3_cols
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
@@ -107,6 +109,7 @@ ukmalayalampathram.com##.top-flash
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 dcnepal.com##.topbanner
+ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com##.widget_media_image
 narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
@@ -126,6 +129,7 @@ anandalok.com##a[href*="jeevansathi.com"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 hindilok.com##a[href*="ojassoft"]
+ethiri.com##a[href*="pipaffiliates.com"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
 visarnews.com##a[href*="tubetamil.com"]
