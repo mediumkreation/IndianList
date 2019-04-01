@@ -4,6 +4,8 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
+/ads/*$domain=jugantor.com
+/ads/*$domain=dharitri.com
 /banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
@@ -21,9 +23,11 @@
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
+||aajkaal.in/images/nabc.jpg
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
+||bccfalna.com/BccFalnaAD.png
 ||biyanitimes.com^*/biyanitimes1.jpg
 ||biyanitimes.com^*/biyanitimes2.jpg
 ||biyanitimes.com^*/gurukpo_ad.jpg
@@ -31,6 +35,7 @@ _336x280.$domain=ajabgjab.com
 ||bizmandu.com^*/midbanner
 ||bizmandu.com^*/splash
 ||bizmandu.com^*/topbanner
+||blogspot.com^$third-party,domain=manabadi.co.in
 ||blogspot.com^*/City%2Bbag%2Bcopy.png
 ||blogspot.com^*/LIYA%2BADVT.PNG
 ||blogspot.com^*/s1600/01.jpg$domain=arghakhanchi.com
@@ -54,6 +59,9 @@ _336x280.$domain=ajabgjab.com
 ||dcnepal.com^*/midadvertise/
 ||dcnepal.com^*/sideadvertise/
 ||deepika.com^*/Ziva_slide_15_9_18.jpg
+||deshabhimani.com^*/aimfillcampus.gif
+||deshabhimani.com^*/Kerala-Tourism-ad.gif
+||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eenadupratibha.net^*/balabharatam.jpg
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
@@ -69,6 +77,7 @@ _336x280.$domain=ajabgjab.com
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
+||jugantor.com^*/Banner.jpg
 ||jugantor.com^*/dada%20new.gif
 ||kanchanmoni.com/nazrul_ad_logo_1.jpg
 ||kanchanmoni.com/Trust%20Rubber%20Stamps%20bangla%20lok%20samaj%20copy.jpg
@@ -159,6 +168,10 @@ _336x280.$domain=ajabgjab.com
 ||osnepal.com^*/him-samjhauta.jpg
 ||osnepal.com^*/Motherland-Nepal.jpg
 ||osnepal.com^*/Surya-Sharma.jpg
+||paristamil.com/box_client1.php
+||paristamil.com/info$image
+||paristamil.com/info_images/ta_client$image
+||paristamil.com/layout_images/index/acs30x25.jpg
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
 ||pressnote.in/images/hzl.jpg
 ||punjabtimesusa.com^*-225x300
@@ -173,6 +186,7 @@ _336x280.$domain=ajabgjab.com
 ||sanjevani.com^*/Tamara-web-add-August-2018.jpg
 ||sanjevani.com^*/Tejumasala-web-add.gif
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
+||sankathi24.com^*/publicity/$image
 ||specials.manoramaonline.com^*/promo-book-appointment.jpg
 ||specials.manoramaonline.com^*/qk-doc-promo-02.png
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
