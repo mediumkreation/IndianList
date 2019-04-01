@@ -53,9 +53,10 @@ doolnews.com##.adv_box_3x25
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
-bdlive24.com,jugantor.com,lakshmipur24.com##.advertisement
+bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
 dainiknepal.com##.advt_bx
 bspabla.com##.amzn_wdgt
+manabadi.co.in##.backg-g
 asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
@@ -66,6 +67,7 @@ hamrosandesh.com##.container-ad
 shoutmehindi.com##.coupon_dealtop
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
+manabadi.co.in##.dsc-banners
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
@@ -94,6 +96,7 @@ manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
+ibctamil.com##.t-eds
 nepaljapan.com##.taza_ad
 crimecontrolnews.com##.td-a-rec
 lankasri.com##.today-eds-wrap
@@ -102,6 +105,7 @@ ukmalayalampathram.com##.top-flash
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 dcnepal.com##.topbanner
+chauthiduniya.com##.widget_media_image
 narayanionline.com##[alt="advertiesment"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
