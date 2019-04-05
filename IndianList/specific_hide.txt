@@ -83,6 +83,12 @@ thereport24.com##.idlc
 ratopati.com##.inline_disp
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
+fastnewsbd.com##.mainadvert
+fastnewsbd.com##.mainadvert2
+fastnewsbd.com##.mainadvert3
+fastnewsbd.com##.mainadvert6
+fastnewsbd.com##.mainadvert7
+fastnewsbd.com##.mainadvert8
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 elugutips.in,hinditips.com##.obi_random_banners_posts
@@ -124,8 +130,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
