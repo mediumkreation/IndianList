@@ -47,6 +47,8 @@ eenadu.net##.ad-block-300
 lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 sheershanews.com##.add-inner
+u71news.com##.add-left
+u71news.com##.add-right
 narayanionline.com##.add_middle
 jagran.com##.ads
 eenadu.net##.ads680-30
@@ -124,8 +126,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
