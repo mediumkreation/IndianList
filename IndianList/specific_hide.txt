@@ -45,6 +45,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 nepaljapan.com,ujyaaloonline.com##.ad
 eenadu.net##.ad-block-300
 lifeglint.com##.ad_bottom_lip
+aswamedham.com##.ad_sec
 sudinamonline.com##.add
 sheershanews.com##.add-inner
 narayanionline.com##.add_middle
@@ -124,8 +125,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
