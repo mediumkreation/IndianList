@@ -9,6 +9,7 @@
 /add/*$domain=thereport24.com
 /ads/*$domain=dharitri.com|jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
+/banners/*$domain=tamil.srilankamirror.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
 300_500.jpg?$domain=osnepal.com
@@ -25,8 +26,7 @@
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
-||abhiyan.com.np^*/Om-Cement-2x5.jpg
-||abhiyan.com.np^*/Subisu-263-x-150.gif
+||aajkaal.in/images/nabc.jpg
 ||aarthiknews.com^*/1000x100.jpg
 ||aarthiknews.com^*/1068x100px_NIC.gif
 ||aarthiknews.com^*/1090x98PX.gif
@@ -64,6 +64,8 @@ _336x280.$domain=ajabgjab.com
 ||aarthiknews.com^*/RBBM_NEPALI_Last.gif
 ||aarthiknews.com^*/Subisu-300x132_-250-Digital-ko-sath-ma.gif
 ||aarthiknews.com^*/unnamed-file.gif
+||abhiyan.com.np^*/Om-Cement-2x5.jpg
+||abhiyan.com.np^*/Subisu-263-x-150.gif
 ||abnews24.com^*/abnews-hameem.jpg
 ||abnews24.com^*/banglabichitra.gif
 ||abnews24.com^*/Beximco-Add.gif
@@ -91,14 +93,12 @@ _336x280.$domain=ajabgjab.com
 ||abnews24.com^*/unihelth.gif
 ||abnews24.com^*/Well-Add.gif
 ||abnews24.com^*/Yousuf.gif
-||aajkaal.in/images/nabc.jpg
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
-||bigyapan.hamropatro.com$third-party,domain=ratopati.com
-||bigyapan.hamropatro.com^$third-party,domain=ujyaaloonline.com
 ||bccfalna.com/BccFalnaAD.png
-||bigyapan.hamropatro.com$third-party,domain=himalkhabar.com
+||bigyapan.hamropatro.com$third-party,domain=himalkhabar.com|ratopati.com
+||bigyapan.hamropatro.com^$third-party,domain=ujyaaloonline.com
 ||biyanitimes.com^*/biyanitimes1.jpg
 ||biyanitimes.com^*/biyanitimes2.jpg
 ||biyanitimes.com^*/gurukpo_ad.jpg
@@ -140,9 +140,9 @@ _336x280.$domain=ajabgjab.com
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hamrosandesh.com^*/300-x-84.gif
 ||hamrosandesh.com^*/house.jpg
-||himalkhabar.com^*/banner/
 ||hellonepalkorea.com^*/ad_photos/
 ||himalisherpa.com/play_benner.php
+||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
@@ -244,8 +244,6 @@ _336x280.$domain=ajabgjab.com
 ||osnepal.com^*/him-samjhauta.jpg
 ||osnepal.com^*/Motherland-Nepal.jpg
 ||osnepal.com^*/Surya-Sharma.jpg
-||prabhatkhabar.com^*/kashmir_vastraylaya.gif
-||pressnote.in/images/hzl.jpg
 ||paristamil.com/box_client1.php
 ||paristamil.com/info$image
 ||paristamil.com/info_images/ta_client$image
@@ -316,8 +314,8 @@ _336x280.$domain=ajabgjab.com
 ||sanjevani.com^*/Excel-advt-Intternet-10-6x20.jpg
 ||sanjevani.com^*/Tamara-web-add-August-2018.jpg
 ||sanjevani.com^*/Tejumasala-web-add.gif
-||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
 ||sankathi24.com^*/publicity/$image
+||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
 ||specials.manoramaonline.com^*/promo-book-appointment.jpg
 ||specials.manoramaonline.com^*/qk-doc-promo-02.png
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
@@ -326,9 +324,6 @@ _336x280.$domain=ajabgjab.com
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
 ||thepark63.com$third-party,domain=puthiyathalaimurai.com
-||thinakkathir.com^*/thiru-50.gif
-||thisaikaddi.com^*/content-ad.jpg
-||thisaikaddi.com^*/logo-header.png
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
 ||thisaikaddi.com^*/logo-header.png

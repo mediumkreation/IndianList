@@ -25,7 +25,7 @@ achhisoch.com,tnilive.com###text-24
 achhisoch.com###text-25
 tnilive.com###text-27
 gvtjob.com###text-29
-bdkhobor24.com,tnilive.com###text-3
+bdkhobor24.com,theneeweb.net,tnilive.com###text-3
 allaiyoor.com###text-32
 sabjanta.info,vanakkamlondon.com###text-4
 mbmnewsnetwork.com###text-48
@@ -61,6 +61,7 @@ manabadi.co.in##.backg-g
 asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
+srilankamirror.com##.bannergroup
 bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
 nepaljapan.com##.category_ads_3_cols
@@ -124,8 +125,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
