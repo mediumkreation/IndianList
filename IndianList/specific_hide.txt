@@ -98,6 +98,7 @@ newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
+ctgtimes.com##.single_ads_top
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
@@ -124,8 +125,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
