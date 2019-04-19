@@ -1,6 +1,15 @@
 sakshi.com###.block-block-145
 battinews.com###HTML3
 visarnews.com###HTML5
+poonththalir.blogspot.com###Image119
+poonththalir.blogspot.com###Image125
+poonththalir.blogspot.com###Image16
+poonththalir.blogspot.com###Image2
+poonththalir.blogspot.com###Image25
+poonththalir.blogspot.com###Image33
+poonththalir.blogspot.com###Image4
+poonththalir.blogspot.com###Image85
+poonththalir.blogspot.com###LinkList21
 malabarflash.com###ad
 thereport24.com###add-place
 ap7am.com###advt-dtindex
@@ -124,8 +133,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
