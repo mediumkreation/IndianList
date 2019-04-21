@@ -1,6 +1,8 @@
 sakshi.com###.block-block-145
 battinews.com###HTML3
 visarnews.com###HTML5
+madawalaenews.com###Image2
+madawalaenews.com###Image4
 malabarflash.com###ad
 thereport24.com###add-place
 ap7am.com###advt-dtindex
@@ -49,6 +51,7 @@ sudinamonline.com##.add
 sheershanews.com##.add-inner
 narayanionline.com##.add_middle
 jagran.com##.ads
+madawalaenews.com##.ads-big
 eenadu.net##.ads680-30
 doolnews.com##.adv_box_3x25
 manithan.com##.advert
