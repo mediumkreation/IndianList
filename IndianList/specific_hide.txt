@@ -61,11 +61,15 @@ manabadi.co.in##.backg-g
 asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
 nepalsandesh.com##.bannerNews
+anytechtune.com##.big-add
 bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
 nepaljapan.com##.category_ads_3_cols
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
+anytechtune.com##.contentadd
+anytechtune.com##.contentadd-in
+anytechtune.com##.contentadd-mid
 shoutmehindi.com##.coupon_dealtop
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
@@ -75,6 +79,7 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 dcnepal.com##.full-banner
+anytechtune.com##.headadd
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
 nepaljapan.com##.headline_below_ad
@@ -91,6 +96,7 @@ supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
 nepalipatra.com##.rd-ads
+anytechtune.com##.reseller-add
 tnilive.com##.righta
 bizmandu.com##.roadblock
 banglatelegraph.com##.sentbe-top
