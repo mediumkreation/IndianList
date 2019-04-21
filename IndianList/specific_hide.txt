@@ -74,12 +74,15 @@ gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
+pchelpcenterbd.com##.featured-post-ads
 dcnepal.com##.full-banner
+pchelpcenterbd.com##.fullwidhtads
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
 nepaljapan.com##.headline_below_ad
 doolnews.com##.horiz_adv_area
 thereport24.com##.idlc
+pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
@@ -90,6 +93,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
+pchelpcenterbd.com##.pragads
 nepalipatra.com##.rd-ads
 tnilive.com##.righta
 bizmandu.com##.roadblock
@@ -103,6 +107,7 @@ eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
 nepaljapan.com##.taza_ad
 crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
+pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
 thereport24.com##.top-add-left4
 ukmalayalampathram.com##.top-flash
