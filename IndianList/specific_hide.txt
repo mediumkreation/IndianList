@@ -89,6 +89,8 @@ elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 prajavani.net##.pj-ad-card
+rtvonline.com##.popup_blackoverlay
+rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
 nepalipatra.com##.rd-ads
 tnilive.com##.righta
@@ -124,8 +126,8 @@ bhaskar.com##a[href*="crwdcntrl.net"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
-currentgk.in##a[href*="hindugodwallpaper.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
