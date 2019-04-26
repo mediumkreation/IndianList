@@ -80,6 +80,7 @@ gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
+sathyamonline.com##.fl-im-container
 dcnepal.com##.full-banner
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
@@ -98,6 +99,7 @@ fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
+sathyamonline.com##.nsads
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
@@ -106,6 +108,7 @@ narayanionline.com##.post-advertiesment
 nepalipatra.com##.rd-ads
 tnilive.com##.righta
 bizmandu.com##.roadblock
+sathyamonline.com##.sAds
 banglatelegraph.com##.sentbe-top
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
