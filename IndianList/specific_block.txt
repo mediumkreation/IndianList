@@ -394,6 +394,10 @@ _banner$image,domain=poriborton.com
 ||sanjevani.com^*/Tejumasala-web-add.gif
 ||sankathi24.com^*/publicity/$image
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
+||specials.manoramaonline.com^*/promo-book-appointment.jpg
+||specials.manoramaonline.com^*/qk-doc-promo-02.png
+||ssl-images-amazon.com^$third-party,domain=vasundhara.net
+||suprobhat.com^*/pedrollo-web
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
 ||sathyamonline.com^*/55764285_795295840836224_2810504952143675392_o.jpg
 ||sathyamonline.com^*/banner-qkdoc-pediatrics-01.jpg
