@@ -8,7 +8,10 @@
 /ad.gif?$domain=himalini.com
 /add/*$domain=thereport24.com
 /Ads/*$domain=bd-journal.com
+/add/*$domain=sylhettoday24.news|thereport24.com
 /ads/*$domain=dharitri.com|jugantor.com
+/add/*$domain=thereport24.com
+/ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
@@ -137,6 +140,7 @@ _336x280.$domain=ajabgjab.com
 ||deshabhimani.com^*/Kerala-Tourism-ad.gif
 ||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eenadupratibha.net^*/balabharatam.jpg
+||fastnewsbd.com/images/parasut.jpg
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
