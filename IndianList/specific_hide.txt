@@ -58,7 +58,8 @@ manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
-dainiknepal.com##.advt_bx
+dainiknepal.com,enepalese.com##.advt_bx
+enepalese.com##.advt_r
 bspabla.com##.amzn_wdgt
 manabadi.co.in##.backg-g
 newsbna.com##.bannar
