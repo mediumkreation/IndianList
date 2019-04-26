@@ -129,6 +129,7 @@ ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com##.widget_media_image
 narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
+adiyakkamangalam.com##a.external
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 janayugomonline.com##a[href*="advetorial"]
