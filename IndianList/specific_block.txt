@@ -163,6 +163,7 @@ _banner$image,domain=poriborton.com
 ||deshabhimani.com^*/Kerala-Tourism-ad.gif
 ||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eenadupratibha.net^*/balabharatam.jpg
+||fbs.com$third-party,domain=tamilleader.com
 ||epathram.com^*/clubpenguin.jpg
 ||enepalese.com^*/aero-1.gif
 ||enepalese.com^*/azt.gif
