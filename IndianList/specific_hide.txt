@@ -109,10 +109,12 @@ nepaljapan.com##.headline_below_ad
 pressbarta.com##.home_right_ads
 sylhettoday24.news##.home_add
 doolnews.com##.horiz_adv_area
+tips4blog.com##.hot_rwc_ads
 thereport24.com##.idlc
 ratopati.com##.inline_disp
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
+tips4blog.com##.mid_rwc_ads
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
 fastnewsbd.com##.mainadvert3
