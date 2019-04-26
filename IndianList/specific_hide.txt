@@ -87,6 +87,7 @@ manabadi.co.in##.backg-g
 newsbna.com##.bannar
 asianmetronews.com,dcnepal.com##.banner
 himalini.com##.banner-promotions-wrapper
+osnepal.com##.banner-wrapper
 nepalsandesh.com##.bannerNews
 srilankamirror.com##.bannergroup
 bizmandu.com##.biz-header-ad

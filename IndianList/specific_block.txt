@@ -313,6 +313,7 @@ _banner$image,domain=poriborton.com
 ||ntnews.com^*-AD.jpg
 ||ntnews.com^*/CO-General.jpg
 ||onsnews.com^*/Ujjwan-Tara-Sachool
+||osnepal.com^*/0019-03-8fa7cb78fd69d4e8d3aeccf789aab7ef.jpg
 ||osnepal.com^*/anil-jee.jpg
 ||osnepal.com^*/Bimash-B-Shrestha.jpg
 ||osnepal.com^*/him-samjhauta.jpg
@@ -492,6 +493,14 @@ _banner$image,domain=poriborton.com
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
+||wp.com^*/anil-jee$domain=osnepal.com
+||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
+||wp.com^*/Liberty-Tax-Service11$domain=osnepal.com
+||wp.com^*/Motherland-Nepal$domain=osnepal.com
+||wp.com^*/purano-nulet$domain=osnepal.com
+||wp.com^*/shubha-love$domain=osnepal.com
+||wp.com^*/Surya-Sharma$domain=osnepal.com
+||wp.com^*/YATRA-AD-TP$domain=osnepal.com
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
 ||zoftcdn.com^*/andracards_banner_300x80.png
 ||zoftcdn.com^*/blueocean.jpg
