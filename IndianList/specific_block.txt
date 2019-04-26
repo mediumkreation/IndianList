@@ -100,6 +100,7 @@ _336x280.$domain=ajabgjab.com
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
+||bccfalna.com/BccFalnaAD.png
 ||aswamedham.com^*/flowersadvt.gif
 ||bccfalna.com/BccFalnaAD.png
 ||bccfalna.com/BccFalnaAD.png
@@ -171,6 +172,9 @@ _336x280.$domain=ajabgjab.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||imgur.com$third-party,domain=nepalipatra.com
 ||imgur.com^$third-party,domain=braveindianews.com
+||ipathram.com^*/newyupp_01ea0.jpg
+||ipathram.com^*/nkbanner_d3f7c.jpg
+||ipathram.com^*/spicebazar_ad_cfcad.jpg
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
