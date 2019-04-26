@@ -18,6 +18,7 @@
 /add/*$domain=thereport24.com
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
+/offers/*$image,domain=priyo.com
 /banners/*$domain=tamil.srilankamirror.com
 /banners/*$domain=kannadigaworld.com
 1140-x-100_px.jpg?$domain=osnepal.com

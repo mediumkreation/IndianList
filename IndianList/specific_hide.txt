@@ -118,6 +118,7 @@ sathyamonline.com##.nsads
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
+priyo.com##.offer_grid
 prajavani.net##.pj-ad-card
 narayanionline.com##.post-advertiesment
 nepalipatra.com##.rd-ads
