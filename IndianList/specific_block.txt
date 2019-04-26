@@ -176,6 +176,7 @@ _banner$image,domain=poriborton.com
 ||fastnewsbd.com/images/parasut.jpg
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
+||gbnews24.com^*/nn$image
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hamrosandesh.com^*/300-x-84.gif
 ||hamrosandesh.com^*/house.jpg
