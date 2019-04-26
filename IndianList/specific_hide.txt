@@ -126,6 +126,8 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 prajavani.net##.pj-ad-card
+rtvonline.com##.popup_blackoverlay
+rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
 nepalipatra.com##.rd-ads
 tnilive.com##.righta
