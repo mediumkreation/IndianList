@@ -100,6 +100,7 @@ _336x280.$domain=ajabgjab.com
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
+||bccfalna.com/BccFalnaAD.png
 ||badhusha.com/banner/$domain=adiyakkamangalam.com
 ||bccfalna.com/BccFalnaAD.png
 ||bccfalna.com/BccFalnaAD.png
@@ -418,6 +419,7 @@ _336x280.$domain=ajabgjab.com
 ||wenepali.com^*/the_british_college.gif
 ||wenepali.com^*/travel_cons.gif
 ||wenepali.com^*/verma.gif
+||worldtamilswin.com^*/addimages/
 ||wp.com/tv5news.in/wp-content/uploads/*_Landing.$domain=tv5news.in
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
