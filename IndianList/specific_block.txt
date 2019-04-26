@@ -10,6 +10,7 @@
 /ad.gif?$domain=himalini.com
 /add/*$image,domain=domain=u71news.com|thereport24.com
 /add/*$domain=thereport24.com
+/add/*$image,domain=poriborton.com
 /Ads-$domain=dailyceylon.com
 /Ads/*$domain=bd-journal.com
 /add/*$domain=sylhettoday24.news|thereport24.com
@@ -34,6 +35,7 @@
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
+_banner$image,domain=poriborton.com
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||aajkaal.in/images/nabc.jpg
 ||aarthiknews.com^*/1000x100.jpg
