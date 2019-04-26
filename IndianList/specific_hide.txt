@@ -51,6 +51,7 @@ u71news.com##.add-left
 u71news.com##.add-right
 narayanionline.com##.add_middle
 jagran.com##.ads
+khullamanch.com##.ads-container
 eenadu.net##.ads680-30
 bdrtnn.net##.adv
 doolnews.com##.adv_box_3x25
