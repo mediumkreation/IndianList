@@ -1,5 +1,6 @@
 -300x300.$domain=ajabgjab.com
 -add.png?$domain=osnepal.com
+-Ads-$domain=dailyceylon.com
 -ads-$image,domain=asomiyapratidin.in
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
@@ -8,6 +9,7 @@
 /ad.gif?$domain=himalini.com
 /add/*$image,domain=domain=u71news.com|thereport24.com
 /add/*$domain=thereport24.com
+/Ads-$domain=dailyceylon.com
 /Ads/*$domain=bd-journal.com
 /add/*$domain=sylhettoday24.news|thereport24.com
 /ads/*$domain=dharitri.com|jugantor.com
@@ -146,6 +148,7 @@ _336x280.$domain=ajabgjab.com
 ||chavakkadonline.com^*/SECUDZONE-ADD-IN-ONLINE.jpg
 ||chavakkadonline.com^*/whitemen-ad-2.jpg
 ||currentgk.files.wordpress.com/2015/02/navratri.jpg
+||dailyceylon.com^*/DCAds2016-Watcher.gif
 ||dcnepal.com^*/headbanner/
 ||dcnepal.com^*/midadvertise/
 ||dcnepal.com^*/sideadvertise/
