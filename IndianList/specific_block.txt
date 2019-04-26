@@ -397,6 +397,9 @@ _banner$image,domain=poriborton.com
 ||specials.manoramaonline.com^*/promo-book-appointment.jpg
 ||specials.manoramaonline.com^*/qk-doc-promo-02.png
 ||ssl-images-amazon.com^$third-party,domain=vasundhara.net
+||sustnews24.com^*_n-150x27
+||sustnews24.com^*_n-300x54
+||sustnews24.com^*_n-495x89
 ||suprobhat.com^*/pedrollo-web
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
 ||sathyamonline.com^*/55764285_795295840836224_2810504952143675392_o.jpg
