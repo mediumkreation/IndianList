@@ -17,7 +17,11 @@ sakshi.com###block-block-141--2
 manithan.com###dfp_banner_header_panel + span
 ethiri.com###header-helpful
 bspabla.com###heatmapthemead-primary-sidebar
-banglatelegraph.com###media_image-2
+banglatelegraph.com,sasthabangla.com###media_image-2
+sasthabangla.com###media_image-3
+sasthabangla.com###media_image-4
+sasthabangla.com###media_image-6
+sasthabangla.com###media_image-8
 ujyaaloonline.com###myCarousel
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
