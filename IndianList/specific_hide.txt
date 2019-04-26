@@ -47,6 +47,8 @@ eenadu.net##.ad-block-300
 lifeglint.com##.ad_bottom_lip
 sudinamonline.com##.add
 sheershanews.com##.add-inner
+u71news.com##.add-left
+u71news.com##.add-right
 narayanionline.com##.add_middle
 jagran.com##.ads
 eenadu.net##.ads680-30
@@ -79,11 +81,18 @@ dcnepal.com##.full-banner
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
 nepaljapan.com##.headline_below_ad
+sylhettoday24.news##.home_add
 doolnews.com##.horiz_adv_area
 thereport24.com##.idlc
 ratopati.com##.inline_disp
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
+fastnewsbd.com##.mainadvert
+fastnewsbd.com##.mainadvert2
+fastnewsbd.com##.mainadvert3
+fastnewsbd.com##.mainadvert6
+fastnewsbd.com##.mainadvert7
+fastnewsbd.com##.mainadvert8
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 elugutips.in,hinditips.com##.obi_random_banners_posts
