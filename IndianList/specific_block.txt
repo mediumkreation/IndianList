@@ -7,7 +7,12 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$image,domain=domain=u71news.com|thereport24.com
+/add/*$domain=thereport24.com
+/Ads/*$domain=bd-journal.com
+/add/*$domain=sylhettoday24.news|thereport24.com
 /ads/*$domain=dharitri.com|jugantor.com
+/add/*$domain=thereport24.com
+/ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
@@ -96,6 +101,8 @@ _336x280.$domain=ajabgjab.com
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
 ||bccfalna.com/BccFalnaAD.png
+||bd-journal.com^*/sibl_web.gif
+||bd-journal.com^*/walton5-3-19.gif
 ||bigyapan.hamropatro.com$third-party,domain=himalkhabar.com|ratopati.com
 ||bigyapan.hamropatro.com^$third-party,domain=ujyaaloonline.com
 ||biyanitimes.com^*/biyanitimes1.jpg
@@ -134,6 +141,7 @@ _336x280.$domain=ajabgjab.com
 ||deshabhimani.com^*/Kerala-Tourism-ad.gif
 ||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eenadupratibha.net^*/balabharatam.jpg
+||fastnewsbd.com/images/parasut.jpg
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
