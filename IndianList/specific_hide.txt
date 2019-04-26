@@ -1,6 +1,8 @@
 sakshi.com###.block-block-145
 battinews.com###HTML3
 visarnews.com###HTML5
+madawalaenews.com###Image2
+madawalaenews.com###Image4
 poonththalir.blogspot.com###Image119
 poonththalir.blogspot.com###Image125
 poonththalir.blogspot.com###Image16
@@ -69,6 +71,7 @@ u71news.com##.add-left
 u71news.com##.add-right
 narayanionline.com##.add_middle
 jagran.com##.ads
+madawalaenews.com##.ads-big
 khullamanch.com##.ads-container
 eenadu.net##.ads680-30
 bdrtnn.net##.adv
