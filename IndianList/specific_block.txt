@@ -330,6 +330,7 @@ _banner$image,domain=poriborton.com
 ||pchelpcenterbd.com^*/LinuxHostLab700x100_4.gif
 ||pchelplinebd.com^*/easeus-970x90.png
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
+||presearch.org^*/ban-$image
 ||pressnote.in/images/hzl.jpg
 ||primenewsbd.com^*/Orion.png
 ||primenewsbd.com^*/Pubali-bank.png
