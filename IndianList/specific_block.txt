@@ -6,6 +6,7 @@
 -Advt-$domain=sanjevani.com
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
+/add/*$image,domain=domain=u71news.com|thereport24.com
 /add/*$domain=thereport24.com
 /Ads/*$domain=bd-journal.com
 /add/*$domain=sylhettoday24.news|thereport24.com
