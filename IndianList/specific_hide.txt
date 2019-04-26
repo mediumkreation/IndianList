@@ -128,6 +128,7 @@ newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
+ctgtimes.com##.single_ads_top
 sanjevani.com##.site-header-banner
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
