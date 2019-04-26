@@ -164,6 +164,7 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 manithan.com##span[id] > iframe[id]:only-child
