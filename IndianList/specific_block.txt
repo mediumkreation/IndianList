@@ -21,6 +21,7 @@
 /offers/*$image,domain=priyo.com
 /banners/*$domain=tamil.srilankamirror.com
 /banners/*$domain=kannadigaworld.com
+/add/*$domain=sylhetview24.net
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
 300_500.jpg?$domain=osnepal.com
@@ -37,6 +38,11 @@
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 _banner$image,domain=poriborton.com
+||tamilcnn.lk^*/banquet-hall.jpg
+||tamilcnn.lk^*/pizzawings.gif
+||jaijaidinbd.com^*/ad_
+||dailydinkal.net/epaper/ad/
+||dainiksylhet.com^*/add-ful-1.jpg
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||aajkaal.in/images/nabc.jpg
 ||aarthiknews.com^*/1000x100.jpg
