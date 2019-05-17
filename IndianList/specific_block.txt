@@ -21,6 +21,7 @@
 /offers/*$image,domain=priyo.com
 /banners/*$domain=tamil.srilankamirror.com
 /banners/*$domain=kannadigaworld.com
+/add/*$domain=sylhetview24.net
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
 300_500.jpg?$domain=osnepal.com
