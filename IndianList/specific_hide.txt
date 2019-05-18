@@ -1,4 +1,3 @@
-nepalijanta.com##.nepalijanta-ad
 sakshi.com###.block-block-145
 battinews.com###HTML3
 visarnews.com###HTML5
@@ -139,6 +138,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
+nepalijanta.com##.nepalijanta-ad
 sathyamonline.com##.nsads
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box

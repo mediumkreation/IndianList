@@ -32,8 +32,6 @@
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 _banner$image,domain=poriborton.com
-||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
-||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||aajkaal.in/images/nabc.jpg
 ||aarthiknews.com^*/1000x100.jpg
@@ -509,6 +507,8 @@ _banner$image,domain=poriborton.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
 ||wp.com^*/Liberty-Tax-Service11$domain=osnepal.com
 ||wp.com^*/Motherland-Nepal$domain=osnepal.com
+||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
+||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
 ||wp.com^*/purano-nulet$domain=osnepal.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
