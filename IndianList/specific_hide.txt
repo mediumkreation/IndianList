@@ -82,7 +82,7 @@ doolnews.com##.adv_box_3x25
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
-bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
+bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,ournewsbd.net##.advertisement
 dainiksylhet.com##.advsingle
 dainiknepal.com,enepalese.com##.advt_bx
 enepalese.com##.advt_r
@@ -144,6 +144,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 onlinekhabar.com##.okam-each-ad
+ournewsbd.net##.onads
 prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
@@ -172,7 +173,7 @@ sherpurtimes.com##.top-biggapon
 ukmalayalampathram.com##.top-flash
 onlinekhabar.com##.top__ads
 bdkhobor24.com##.topadlft
-bdkhobor24.com##.topadrt
+bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
