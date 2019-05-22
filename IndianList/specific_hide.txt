@@ -28,6 +28,9 @@ ujyaaloonline.com###myCarousel
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
+emalayalee.com###slideshow
+emalayalee.com###slideshow2
+emalayalee.com###slideshow3
 medianp.com,tamil.com,vanakkamlondon.com###text-10
 tamil.com,tnilive.com###text-11
 tamil.com###text-13
@@ -126,6 +129,9 @@ tips4blog.com##.hot_rwc_ads
 thereport24.com##.idlc
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
+emalayalee.com##.item1
+emalayalee.com##.item3
+emalayalee.com##.item4
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
 fastnewsbd.com##.mainadvert
@@ -179,6 +185,7 @@ chauthiduniya.com,comillarbarta.com##.widget_media_image
 narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
+emalayalee.com##a.newlink[target="_blank"]
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
 janayugomonline.com##a[href*="advetorial"]
