@@ -14,6 +14,7 @@ poonththalir.blogspot.com###LinkList21
 malabarflash.com###ad
 thereport24.com###add-place
 professorsbd.com###addv
+seithy.com###ads400px
 ap7am.com###advt-dtindex
 sakshi.com###block-block-141--2
 manithan.com###dfp_banner_header_panel + span
@@ -75,6 +76,7 @@ narayanionline.com##.add_middle
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
 khullamanch.com##.ads-container
+seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
@@ -97,6 +99,7 @@ nepalsandesh.com##.bannerNews
 srilankamirror.com##.bannergroup
 bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
+seithy.com##.briefNewsAd
 nepaljapan.com##.category_ads_3_cols
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
@@ -116,6 +119,7 @@ dcnepal.com##.full-banner
 pchelpcenterbd.com##.fullwidhtads
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
+seithy.com##.header_adbar
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
 tamilcnnlk.com##.home-section-ad
@@ -174,6 +178,7 @@ onlinekhabar.com##.top__ads
 bdkhobor24.com##.topadlft
 bdkhobor24.com##.topadrt
 dcnepal.com##.topbanner
+seithy.com##.toppageadsindexheader
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
 narayanionline.com##[alt="advertiesment"]
@@ -202,6 +207,7 @@ hindilok.com##a[href*="ojassoft"]
 ethiri.com##a[href*="pipaffiliates.com"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
+seithy.com##a[href*="splads"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
