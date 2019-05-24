@@ -172,6 +172,7 @@ _banner$image,domain=poriborton.com
 ||fbs.com$third-party,domain=tamilleader.com
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
+||filmybuzz.com/images/Ecommerce-Website-Design.jpg
 ||gbnews24.com^*/nn$image
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hamrosandesh.com^*/300-x-84.gif
