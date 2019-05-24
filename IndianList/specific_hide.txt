@@ -79,6 +79,9 @@ eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
 doolnews.com##.adv_box_3x25
+radionrn.com##.adver-half
+radionrn.com##.adver-mkks
+radionrn.com##.adver-rightmkks
 manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
@@ -127,6 +130,7 @@ thereport24.com##.idlc
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
 tnilive.com##.lefta
+radionrn.com##.logo-adverimg
 doolnews.com##.long_adv_area
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
