@@ -94,7 +94,7 @@ musicjoymedia.com##.banner-half
 himalini.com##.banner-promotions-wrapper
 osnepal.com##.banner-wrapper
 nepalsandesh.com##.bannerNews
-srilankamirror.com##.bannergroup
+srilankamirror.com,tcvonline.co.in##.bannergroup
 bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
 nepaljapan.com##.category_ads_3_cols
