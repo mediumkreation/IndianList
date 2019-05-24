@@ -181,6 +181,7 @@ _banner$image,domain=poriborton.com
 ||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
+||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||imgur.com$third-party,domain=nepalipatra.com

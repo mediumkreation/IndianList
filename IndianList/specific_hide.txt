@@ -30,6 +30,7 @@ manithan.com###recommendations
 patrikai.com###slide-holder
 medianp.com,tamil.com,vanakkamlondon.com###text-10
 tamil.com,tnilive.com###text-11
+globaltamilnews.net###text-12
 tamil.com###text-13
 tnilive.com###text-14
 achhisoch.com###text-18
@@ -52,6 +53,7 @@ mbmnewsnetwork.com###text-52
 aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
+globaltamilnews.net###text-8
 bhaskar.com###top-nav15
 vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
