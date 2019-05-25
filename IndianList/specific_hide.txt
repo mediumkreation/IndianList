@@ -114,6 +114,7 @@ sathyamonline.com##.fl-im-container
 professorsbd.com##.for_add
 dcnepal.com##.full-banner
 pchelpcenterbd.com##.fullwidhtads
+ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
 telugumirchi.com##.headerad2
@@ -124,6 +125,7 @@ pressbarta.com##.home_right_ads
 doolnews.com##.horiz_adv_area
 tips4blog.com##.hot_rwc_ads
 thereport24.com##.idlc
+ekuruvi.com##.in-pan-ad
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
 tnilive.com##.lefta
@@ -134,6 +136,7 @@ fastnewsbd.com##.mainadvert3
 fastnewsbd.com##.mainadvert6
 fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
+ekuruvi.com##.mid-had
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
@@ -156,11 +159,13 @@ sathyamonline.com##.sAds
 banglatelegraph.com##.sentbe-top
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
+ekuruvi.com##.side-bar-big-ads
 onlinekhabar.com##.side__add
 manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
 ctgtimes.com##.single_ads_top
 sanjevani.com##.site-header-banner
+ekuruvi.com##.span-2 a:only-child
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
 nepaljapan.com##.taza_ad
@@ -168,6 +173,7 @@ crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
 pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
 thereport24.com##.top-add-left4
+ekuruvi.com##.top-bar-left-nav
 sherpurtimes.com##.top-biggapon
 ukmalayalampathram.com##.top-flash
 onlinekhabar.com##.top__ads
