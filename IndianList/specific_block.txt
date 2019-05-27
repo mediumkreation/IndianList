@@ -452,6 +452,7 @@ _banner$image,domain=poriborton.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||thavady.com/gifs/greetings/tamils4news.jpg
 ||thepark63.com$third-party,domain=puthiyathalaimurai.com
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
