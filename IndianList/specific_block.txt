@@ -100,6 +100,7 @@ _banner$image,domain=poriborton.com
 ||abnews24.com^*/unihelth.gif
 ||abnews24.com^*/Well-Add.gif
 ||abnews24.com^*/Yousuf.gif
+||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
 ||ajabgjab.com/FeedifySW.js
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
