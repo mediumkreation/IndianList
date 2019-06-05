@@ -32,7 +32,6 @@
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 _banner$image,domain=poriborton.com
-||ctr24.com/wp-content/uploads/2016/09/Cashpoints-1_gif.gif
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||aajkaal.in/images/nabc.jpg
 ||aarthiknews.com^*/1000x100.jpg
@@ -149,6 +148,7 @@ _banner$image,domain=poriborton.com
 ||comillarbarta.com^*/ad-Prann-RFL.gif
 ||comillarbarta.com^*/US-Travels-1.gif
 ||comillaweb.com^*/ibikroy_ads.jpg
+||ctr24.com/wp-content/uploads/2016/09/Cashpoints-1_gif.gif
 ||currentgk.files.wordpress.com/2015/02/navratri.jpg
 ||dailyceylon.com^*/DCAds2016-Watcher.gif
 ||dailydinkal.net/epaper/ad/
