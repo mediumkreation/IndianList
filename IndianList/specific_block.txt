@@ -1,6 +1,7 @@
 -300x300.$domain=ajabgjab.com
 -add.png?$domain=osnepal.com
 -Ads-$domain=dailyceylon.com
+-ads-$domain=meelparvai.net
 -ads-$image,domain=asomiyapratidin.in
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
@@ -248,6 +249,8 @@ _banner$image,domain=poriborton.com
 ||malabarinews.com^*/presentation-pgdi.jpg
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
+||meelparvai.net^*/Payanam-
+||meelparvai.net^*/Vaiharai-
 ||musicjoymedia.com^*/2075-7-16.gif
 ||musicjoymedia.com^*/asian-paints1.gif
 ||musicjoymedia.com^*/film-11-768x225.jpg
