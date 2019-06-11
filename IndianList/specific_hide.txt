@@ -72,6 +72,7 @@ shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 narayanionline.com##.add_middle
+channelionline.com##.adloc-is-banner
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
 khullamanch.com##.ads-container
@@ -108,6 +109,7 @@ manabadi.co.in##.dsc-banners
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
+channelionline.com##.eyli
 lankasri.com##.f-single
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
