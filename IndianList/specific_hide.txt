@@ -29,7 +29,7 @@ rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
 medianp.com,tamil.com,vanakkamlondon.com###text-10
-tamil.com,tnilive.com###text-11
+muslimkural.com,tamil.com,tnilive.com###text-11
 tamil.com###text-13
 tnilive.com###text-14
 achhisoch.com###text-18
@@ -52,6 +52,8 @@ mbmnewsnetwork.com###text-52
 aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
+muslimkural.com###text-8
+muslimkural.com###text-9
 bhaskar.com###top-nav15
 vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
