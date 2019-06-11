@@ -181,6 +181,7 @@ dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
 lankasri.com##a[href*="/adpage"]
 battinews.com##a[href*="ad.battinews.com"]
+protidinersangbad.com##a[href*="ads-page"]
 janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
