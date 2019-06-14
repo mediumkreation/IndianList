@@ -72,6 +72,7 @@ shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 narayanionline.com##.add_middle
+hamrosandesh.com##.admana-plugin
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
 khullamanch.com##.ads-container
