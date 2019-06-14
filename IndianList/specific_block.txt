@@ -180,8 +180,16 @@ _banner$image,domain=poriborton.com
 ||himalisherpa.com/play_benner.php
 ||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
+||i0.wp.com/www.osnepal.com/wp-content/uploads/2019/05/Jatrai-Jatra-TP.jpg
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
+||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/anil.jpg
+||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/honda.jpg
+||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/pakrin.jpg
+||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/yagya-law.jpg
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
+||i2.wp.com/www.osnepal.com/wp-content/uploads/2019/05/anil11.jpg
+||i2.wp.com/www.osnepal.com/wp-content/uploads/2019/05/osnepal-tv.jpg
+||i2.wp.com/www.osnepal.com/wp-content/uploads/2019/06/himalyan-travels.png
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||imgur.com$third-party,domain=nepalipatra.com
 ||imgur.com^$third-party,domain=braveindianews.com
