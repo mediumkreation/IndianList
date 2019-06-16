@@ -67,6 +67,8 @@ sudinamonline.com##.add
 sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
+samachar4media.com##.add-text
+samachar4media.com##.add-text + a:last-child
 sylhetview24.net##.add_2_part
 shobshomoy.com##.add_440
 shobshomoy.com##.add_910
