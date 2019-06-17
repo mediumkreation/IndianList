@@ -205,6 +205,7 @@ deepika.com##a[href*="redirectadvt.aspx?"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
+pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 kannadigaworld.com##a[onclick*="banner"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 vorerbangladesh.com##a[onclick*="outbound-widget"]
