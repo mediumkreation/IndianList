@@ -144,6 +144,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 onlinekhabar.com##.okam-each-ad
+startalkbd.com##.penci_single_ad_after_content
 prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
