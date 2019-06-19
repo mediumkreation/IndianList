@@ -452,6 +452,10 @@ _banner$image,domain=poriborton.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||thenepaltoday.com^*/1100x100-arthasarokar.gif
+||thenepaltoday.com^*/1140-1305.gif
+||thenepaltoday.com^*/780X96_2.gif
+||thenepaltoday.com^*/sejal.gif
 ||thepark63.com$third-party,domain=puthiyathalaimurai.com
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg

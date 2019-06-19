@@ -74,7 +74,7 @@ onlinekhabar.com##.add__fullwidth
 narayanionline.com##.add_middle
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
-khullamanch.com##.ads-container
+khullamanch.com,thenepaltoday.com##.ads-container
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
