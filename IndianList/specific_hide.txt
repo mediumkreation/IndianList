@@ -1,4 +1,5 @@
 sakshi.com###.block-block-145
+bdipo.com###BDIPO_ad_id
 battinews.com###HTML3
 visarnews.com###HTML5
 poonththalir.blogspot.com###Image119
@@ -83,6 +84,7 @@ manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
+bdipo.com##.advertisements
 dainiksylhet.com##.advsingle
 dainiknepal.com,enepalese.com##.advt_bx
 enepalese.com##.advt_r
