@@ -74,7 +74,7 @@ onlinekhabar.com##.add__fullwidth
 narayanionline.com##.add_middle
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
-khullamanch.com##.ads-container
+khullamanch.com,thenepaltoday.com##.ads-container
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
@@ -138,6 +138,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
+nepalijanta.com##.nepalijanta-ad
 sathyamonline.com##.nsads
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
