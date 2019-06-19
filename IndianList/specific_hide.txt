@@ -1,4 +1,5 @@
 sakshi.com###.block-block-145
+bdipo.com###BDIPO_ad_id
 battinews.com###HTML3
 visarnews.com###HTML5
 poonththalir.blogspot.com###Image119
@@ -74,7 +75,7 @@ onlinekhabar.com##.add__fullwidth
 narayanionline.com##.add_middle
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
-khullamanch.com##.ads-container
+khullamanch.com,thenepaltoday.com##.ads-container
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
@@ -83,6 +84,7 @@ manithan.com##.advert
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
+bdipo.com##.advertisements
 dainiksylhet.com##.advsingle
 dainiknepal.com,enepalese.com##.advt_bx
 enepalese.com##.advt_r
@@ -139,6 +141,7 @@ nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 somoynews.tv##.mySlideBox
+nepalijanta.com##.nepalijanta-ad
 sathyamonline.com##.nsads
 elugutips.in,hinditips.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
@@ -204,6 +207,7 @@ hindilok.com##a[href*="ojassoft"]
 ethiri.com##a[href*="pipaffiliates.com"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
+tamilserialtoday-247.net##a[href*="reviewmaster.info"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
