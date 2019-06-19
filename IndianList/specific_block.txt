@@ -189,6 +189,8 @@ _banner$image,domain=poriborton.com
 ||ipathram.com^*/nkbanner_d3f7c.jpg
 ||ipathram.com^*/spicebazar_ad_cfcad.jpg
 ||jaijaidinbd.com^*/ad_
+||jalleda.com/images/blogbook.jpg
+||jalleda.com/images/keyboard.png
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
@@ -231,6 +233,7 @@ _banner$image,domain=poriborton.com
 ||khullaManch.com^*/suren1.gif
 ||khullaManch.com^*/tibet-nepal.png
 ||khullaManch.com^*/ZenTravels-Sep2017.gif
+||kinige.com/images/klogo.png$domain=jalleda.com
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
 ||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
