@@ -140,6 +140,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
+somoynews.tv##.mySlideBox
 nepalijanta.com##.nepalijanta-ad
 sathyamonline.com##.nsads
 elugutips.in,hinditips.com##.obi_random_banners_posts
@@ -183,6 +184,7 @@ narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
 lankasri.com##a[href*="/adpage"]
+somoynews.tv##a[href*="?ref="]
 battinews.com##a[href*="ad.battinews.com"]
 janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
