@@ -64,7 +64,7 @@ primenewsbd.com##.ad-box
 lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 pchelplinebd.com##.adcontainer
-sudinamonline.com##.add
+dailysports24.com,sudinamonline.com##.add
 sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
@@ -81,6 +81,7 @@ nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
 doolnews.com##.adv_box_3x25
 manithan.com##.advert
+dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com##.advertisement
