@@ -9,7 +9,7 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com
-/add/*$image,domain=domain=u71news.com|poriborton.com|thereport24.com
+/add/*$image,domain=domain=u71news.com|poriborton.com|sharenews24.com|thereport24.com
 /Ads-$domain=dailyceylon.com
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
@@ -180,8 +180,10 @@ _banner$image,domain=poriborton.com
 ||himalisherpa.com/play_benner.php
 ||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
+||hometamil.info^$third-party,domain=tamilserialtoday-247.net
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
+||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||imgur.com$third-party,domain=nepalipatra.com
 ||imgur.com^$third-party,domain=braveindianews.com
@@ -189,6 +191,8 @@ _banner$image,domain=poriborton.com
 ||ipathram.com^*/nkbanner_d3f7c.jpg
 ||ipathram.com^*/spicebazar_ad_cfcad.jpg
 ||jaijaidinbd.com^*/ad_
+||jalleda.com/images/blogbook.jpg
+||jalleda.com/images/keyboard.png
 ||janayugomonline.com^*/business_plus.jpg
 ||janayugomonline.com^*/comsol10082019.gif
 ||janayugomonline.com^*/gramakarsha01082018.jpg
@@ -231,6 +235,8 @@ _banner$image,domain=poriborton.com
 ||khullaManch.com^*/suren1.gif
 ||khullaManch.com^*/tibet-nepal.png
 ||khullaManch.com^*/ZenTravels-Sep2017.gif
+||kinige.com/images/kinigebannerImage.png$domain=suravara.com
+||kinige.com/images/klogo.png$domain=jalleda.com
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
 ||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
@@ -356,6 +362,7 @@ _banner$image,domain=poriborton.com
 ||punjabinewsonline.com^*/Vpoweblogo-
 ||punjabtimesusa.com^*-225x300
 ||punjabtimesusa.com^*-300x16
+||purbanchal.com/img/tribune-tower.jpg
 ||ratopati.prixa.net^*/1140-130.gif
 ||ratopati.prixa.net^*/1140x140_1.gif
 ||ratopati.prixa.net^*/1140x90PX.gif
@@ -456,6 +463,10 @@ _banner$image,domain=poriborton.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||thenepaltoday.com^*/1100x100-arthasarokar.gif
+||thenepaltoday.com^*/1140-1305.gif
+||thenepaltoday.com^*/780X96_2.gif
+||thenepaltoday.com^*/sejal.gif
 ||thepark63.com$third-party,domain=puthiyathalaimurai.com
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
@@ -511,6 +522,8 @@ _banner$image,domain=poriborton.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
 ||wp.com^*/Liberty-Tax-Service11$domain=osnepal.com
 ||wp.com^*/Motherland-Nepal$domain=osnepal.com
+||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
+||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
 ||wp.com^*/purano-nulet$domain=osnepal.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
