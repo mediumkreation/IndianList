@@ -163,6 +163,8 @@ _banner$image,domain=poriborton.com
 ||deshabhimani.com^*/Kerala-Tourism-ad.gif
 ||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eenadupratibha.net^*/balabharatam.jpg
+||emalayalee.com/imgs.php?photo=$image
+||emalayalee.com/imgs/$image
 ||enepalese.com^*/aero-1.gif
 ||enepalese.com^*/azt.gif
 ||enepalese.com^*/everest.gif
