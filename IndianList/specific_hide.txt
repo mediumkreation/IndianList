@@ -100,7 +100,7 @@ enepalese.com##.advt_r
 bspabla.com##.amzn_wdgt
 manabadi.co.in##.backg-g
 newsbna.com##.bannar
-asianmetronews.com,dcnepal.com##.banner
+asianmetronews.com,dcnepal.com,globalmalayalam.com##.banner
 musicjoymedia.com##.banner-half
 himalini.com##.banner-promotions-wrapper
 osnepal.com##.banner-wrapper
@@ -141,6 +141,7 @@ rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
+globalmalayalam.com##.innerAdColum
 tnilive.com##.lefta
 doolnews.com##.long_adv_area
 fastnewsbd.com##.mainadvert
