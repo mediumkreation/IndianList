@@ -195,6 +195,7 @@ _banner$image,domain=poriborton.com
 ||hindilok.com/promo/images/$image
 ||hometamil.info^$third-party,domain=tamilserialtoday-247.net
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
+||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
