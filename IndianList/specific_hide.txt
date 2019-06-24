@@ -93,6 +93,9 @@ eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
 doolnews.com##.adv_box_3x25
+radionrn.com##.adver-half
+radionrn.com##.adver-mkks
+radionrn.com##.adver-rightmkks
 manithan.com##.advert
 dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
@@ -151,6 +154,7 @@ emalayalee.com##.item3
 emalayalee.com##.item4
 globalmalayalam.com##.innerAdColum
 tnilive.com##.lefta
+radionrn.com##.logo-adverimg
 doolnews.com##.long_adv_area
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
