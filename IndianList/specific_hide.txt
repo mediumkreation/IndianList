@@ -38,6 +38,7 @@ emalayalee.com###slideshow
 emalayalee.com###slideshow2
 emalayalee.com###slideshow3
 medianp.com,tamil.com,vanakkamlondon.com###text-10
+muslimkural.com,tamil.com,tnilive.com###text-11
 tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
 tamil.com###text-13
@@ -62,6 +63,8 @@ mbmnewsnetwork.com###text-52
 aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
+muslimkural.com###text-8
+muslimkural.com###text-9
 globaltamilnews.net###text-8
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
