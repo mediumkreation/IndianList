@@ -93,6 +93,7 @@ rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
 narayanionline.com##.add_middle
+channelionline.com##.adloc-is-banner
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
 seithy.com##.ads400pxinner
@@ -137,6 +138,7 @@ manabadi.co.in##.dsc-banners
 gvtjob.com##.e3lan-below_header
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
+channelionline.com##.eyli
 lankasri.com##.f-single
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
