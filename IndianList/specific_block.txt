@@ -205,6 +205,7 @@ _banner$image,domain=poriborton.com
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
+||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
 ||imgur.com$third-party,domain=nepalipatra.com
 ||imgur.com^$third-party,domain=braveindianews.com
 ||ipathram.com^*/newyupp_01ea0.jpg
@@ -517,6 +518,12 @@ _banner$image,domain=poriborton.com
 ||tamilcnnlk.com/banner
 ||tamilkurinji.net/images_/Side%20dish-300x250.jpg
 ||tamilmanam.net/v3_images/harvard_tamil_chair.png
+||tamilolli.com/images/kannaa.jpg
+||tamilolli.com/images/rami.jpg
+||tamilolli.com/images/tamildesam.jpg
+||tamilolli.com/images/thinakkathir.jpg
+||tamilolli.com/wp-content/themes/tamilolli/images/jettojel.png
+||tamilolli.com/wp-content/themes/tamilolli/images/media-asia.png
 ||telugumirchi.com^*/majili-banner.jpg
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
