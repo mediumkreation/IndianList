@@ -191,7 +191,7 @@ narayanionline.com##.no-vigyapan-single
 somoynews.tv##.mySlideBox
 nepalijanta.com##.nepalijanta-ad
 sathyamonline.com##.nsads
-elugutips.in,hinditips.com##.obi_random_banners_posts
+elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
@@ -234,6 +234,7 @@ onlinekhabar.com##.top__ads
 bdkhobor24.com##.topadlft
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
+tnilive.com##.vmagazine_lite_medium_ad
 unmadmagazine.com##.twp-adv-header
 seithy.com##.toppageadsindexheader
 ethiri.com##.widget_ads_easy_widget
