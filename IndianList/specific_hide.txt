@@ -86,6 +86,8 @@ dailysports24.com,sudinamonline.com##.add
 sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
+samachar4media.com##.add-text
+samachar4media.com##.add-text + a:last-child
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
 dailynewsbd24.com##.add_03
