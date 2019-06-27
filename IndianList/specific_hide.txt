@@ -249,6 +249,7 @@ unmadmagazine.com##.twp-adv-header
 seithy.com##.toppageadsindexheader
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
+36garhi.com##.widget_supermag_ad
 narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
@@ -269,9 +270,11 @@ jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+36garhi.com##a[href*="gurturgoth.com"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
+36garhi.com##a[href*="indiblogger.in"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
 jamuna.tv##a[href*="ksrm.com.bd"]
