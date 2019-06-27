@@ -199,6 +199,7 @@ rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
 pchelpcenterbd.com##.pragads
 nepalipatra.com##.rd-ads
+unmadmagazine.com##.right_bottom_ad_section
 tnilive.com##.righta
 bizmandu.com##.roadblock
 sathyamonline.com##.sAds
@@ -229,6 +230,7 @@ onlinekhabar.com##.top__ads
 bdkhobor24.com##.topadlft
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
+unmadmagazine.com##.twp-adv-header
 seithy.com##.toppageadsindexheader
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
