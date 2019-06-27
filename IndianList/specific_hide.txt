@@ -288,6 +288,7 @@ kannadigaworld.com##a[onclick*="banner"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
+ratopati.com##div.trc-content-sponsored
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
