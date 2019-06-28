@@ -39,13 +39,12 @@ rosemalayalam.com###myCarousel2
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
-alaikal.com###supermag_ad-12
 emalayalee.com###slideshow
 emalayalee.com###slideshow2
 emalayalee.com###slideshow3
+alaikal.com###supermag_ad-12
 medianp.com,tamil.com,vanakkamlondon.com###text-10
 muslimkural.com,tamil.com,tnilive.com###text-11
-tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
 tamil.com###text-13
 tnilive.com###text-14
@@ -71,9 +70,8 @@ mbmnewsnetwork.com###text-52
 aapkisafalta.com###text-54
 medianp.com###text-6
 vanakkamlondon.com###text-7
-muslimkural.com###text-8
+globaltamilnews.net,muslimkural.com###text-8
 muslimkural.com###text-9
-globaltamilnews.net###text-8
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 bhaskar.com###top-nav15
@@ -87,8 +85,7 @@ primenewsbd.com##.ad-box
 lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 pchelplinebd.com##.adcontainer
-sharebiz.net,sudinamonline.com##.add
-dailysports24.com,sudinamonline.com##.add
+dailysports24.com,sharebiz.net,sudinamonline.com##.add
 sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
@@ -106,12 +103,12 @@ rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
 narayanionline.com##.add_middle
-hamrosandesh.com##.admana-plugin
 channelionline.com##.adloc-is-banner
+hamrosandesh.com##.admana-plugin
 jagran.com,nepalesediaspora.com##.ads
 madawalaenews.com##.ads-big
-seithy.com##.ads400pxinner
 khullamanch.com,thenepaltoday.com##.ads-container
+seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
@@ -136,8 +133,8 @@ musicjoymedia.com##.banner-half
 himalini.com##.banner-promotions-wrapper
 osnepal.com##.banner-wrapper
 nepalsandesh.com##.bannerNews
-srilankamirror.com,tcvonline.co.in##.bannergroup
 rosemalayalam.com##.banner_slider
+srilankamirror.com,tcvonline.co.in##.bannergroup
 bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
@@ -159,8 +156,8 @@ sathyamonline.com##.fl-im-container
 professorsbd.com##.for_add
 dcnepal.com##.full-banner
 pchelpcenterbd.com##.fullwidhtads
-ekuruvi.com##.header-banner
 myfirstshow.com##.hb-img
+ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
@@ -172,15 +169,15 @@ pressbarta.com##.home_right_ads
 doolnews.com##.horiz_adv_area
 tips4blog.com##.hot_rwc_ads
 thereport24.com##.idlc
-ekuruvi.com##.in-pan-ad
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
+ekuruvi.com##.in-pan-ad
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
+globalmalayalam.com##.innerAdColum
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
-globalmalayalam.com##.innerAdColum
 tnilive.com##.lefta
 radionrn.com##.logo-adverimg
 doolnews.com##.long_adv_area
@@ -195,18 +192,18 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
-narayanionline.com##.no-vigyapan-section
-narayanionline.com##.no-vigyapan-single
 somoynews.tv##.mySlideBox
 nepalijanta.com##.nepalijanta-ad
+narayanionline.com##.no-vigyapan-section
+narayanionline.com##.no-vigyapan-single
 sathyamonline.com##.nsads
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 onlinekhabar.com##.okam-each-ad
-startalkbd.com##.penci_single_ad_after_content
 ournewsbd.net##.onads
+startalkbd.com##.penci_single_ad_after_content
 prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
@@ -231,8 +228,7 @@ eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
 nepaljapan.com##.taza_ad
 crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
-irinjalakuda.com##.td-banner-wrap-full
-kalakkalcinema.com##.td-banner-wrap-full
+irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
 thereport24.com##.top-add-left4
@@ -244,9 +240,9 @@ onlinekhabar.com##.top__ads
 bdkhobor24.com##.topadlft
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
-tnilive.com##.vmagazine_lite_medium_ad
-unmadmagazine.com##.twp-adv-header
 seithy.com##.toppageadsindexheader
+unmadmagazine.com##.twp-adv-header
+tnilive.com##.vmagazine_lite_medium_ad
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
 36garhi.com##.widget_supermag_ad
@@ -288,9 +284,9 @@ ethiri.com##a[href*="pipaffiliates.com"]
 tamilolli.com##a[href*="pna-aerial.fr"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
-tamildaily.com##a[href*="tamiltv.com"]
-seithy.com##a[href*="splads"]
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
+seithy.com##a[href*="splads"]
+tamildaily.com##a[href*="tamiltv.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child

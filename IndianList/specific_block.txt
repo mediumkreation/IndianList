@@ -45,9 +45,9 @@
 ?w=640&$image,domain=himalini.com
 _336x280.$domain=ajabgjab.com
 _banner$image,domain=poriborton.com
+||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
 ||2.bp.blogspot.com/-HPD8Q-_QY4c/XIDtfTQVWAI/AAAAAAAAodQ/OkDJ6Lyl7dwciuxwqGgqTjXRFIvGBDstACLcBGAs/s1600/53327642_2040231206054757_8053306401486798848_n%2B%25281%2529.jpg
 ||4.bp.blogspot.com/-8CwtHLIuRqk/XIDteWrDOlI/AAAAAAAAodM/Oeg_4y78p8wAmoeGRMm1wua6VlEHDAmVQCLcBGAs/s1600/52757154_2040231449388066_4347266876540190720_n%2B%25281%2529.jpg
-||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
 ||4pm.co.in/wp-content/uploads/2015/05/Capture1.png
 ||aajkaal.in/images/nabc.jpg
 ||aarthiknews.com^*/1000x100.jpg
@@ -262,8 +262,10 @@ _banner$image,domain=poriborton.com
 ||himalisherpa.com/play_benner.php
 ||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
+||hometamil.info^$third-party,domain=tamilserialtoday-247.net
 ||i0.wp.com/www.osnepal.com/wp-content/uploads/2019/05/Jatrai-Jatra-TP.jpg
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
+||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
 ||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/anil.jpg
 ||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/honda.jpg
 ||i1.wp.com/www.osnepal.com/wp-content/uploads/2019/05/pakrin.jpg
@@ -272,10 +274,6 @@ _banner$image,domain=poriborton.com
 ||i2.wp.com/www.osnepal.com/wp-content/uploads/2019/05/anil11.jpg
 ||i2.wp.com/www.osnepal.com/wp-content/uploads/2019/05/osnepal-tv.jpg
 ||i2.wp.com/www.osnepal.com/wp-content/uploads/2019/06/himalyan-travels.png
-||hometamil.info^$third-party,domain=tamilserialtoday-247.net
-||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
-||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
-||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
@@ -333,9 +331,9 @@ _banner$image,domain=poriborton.com
 ||khullaManch.com^*/suren1.gif
 ||khullaManch.com^*/tibet-nepal.png
 ||khullaManch.com^*/ZenTravels-Sep2017.gif
-||lankasee.com/wp-content/uploads/2015/01/42596418_136104064010787_337896205436583936_n.jpg
 ||kinige.com/images/kinigebannerImage.png$domain=suravara.com
 ||kinige.com/images/klogo.png$domain=jalleda.com
+||lankasee.com/wp-content/uploads/2015/01/42596418_136104064010787_337896205436583936_n.jpg
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
 ||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
@@ -529,6 +527,8 @@ _banner$image,domain=poriborton.com
 ||punjabinewsonline.com^*/Vpoweblogo-
 ||punjabtimesusa.com^*-225x300
 ||punjabtimesusa.com^*-300x16
+||purbanchal.com/img/tribune-tower.jpg
+||puttalamonline.com/wp-content/uploads/2017/05/BTM360x80.png
 ||ratopati.prixa.net/media/1140-130_2.gif
 ||ratopati.prixa.net/media/1140-X-90-pxl.gif
 ||ratopati.prixa.net/media/1140x90.gif
@@ -566,8 +566,6 @@ _banner$image,domain=poriborton.com
 ||ratopati.prixa.net/media/Sagarmatha-School.gif
 ||ratopati.prixa.net/media/Samman-Bachat-990px-X-90px.gif
 ||ratopati.prixa.net/media/WagonR_825x100px.jpg
-||puttalamonline.com/wp-content/uploads/2017/05/BTM360x80.png
-||purbanchal.com/img/tribune-tower.jpg
 ||ratopati.prixa.net^*/1140-130.gif
 ||ratopati.prixa.net^*/1140x140_1.gif
 ||ratopati.prixa.net^*/1140x90PX.gif
