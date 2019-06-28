@@ -488,6 +488,11 @@ _banner$image,domain=poriborton.com
 ||nrimalayalee.com^*/wifi221.gif
 ||ntnews.com^*-AD.jpg
 ||ntnews.com^*/CO-General.jpg
+||odhikar.news/templates/adhikar-v1/images/Joy-bd.png
+||odhikar.news/templates/adhikar-v1/images/market24.jpg
+||odhikar.news/templates/adhikar-v1/images/Niet-Desktop.gif
+||odhikar.news/templates/adhikar-v1/images/nift_new.gif
+||odhikar.news/templates/adhikar-v1/images/Sonargao.png
 ||onsnews.com^*/Ujjwan-Tara-Sachool
 ||osnepal.com^*/0019-03-8fa7cb78fd69d4e8d3aeccf789aab7ef.jpg
 ||osnepal.com^*/anil-jee.jpg
