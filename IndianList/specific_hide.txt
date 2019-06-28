@@ -82,6 +82,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 nepaljapan.com,ujyaaloonline.com##.ad
 eenadu.net##.ad-block-300
 primenewsbd.com##.ad-box
+odhikar.news##.adSlides
 lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 pchelplinebd.com##.adcontainer
@@ -192,6 +193,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
+odhikar.news##.myAdBox
 somoynews.tv##.mySlideBox
 nepalijanta.com##.nepalijanta-ad
 narayanionline.com##.no-vigyapan-section
