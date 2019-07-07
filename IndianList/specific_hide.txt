@@ -297,6 +297,7 @@ seithy.com##a[href*="splads"]
 tamildaily.com##a[href*="tamiltv.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
+reporter.live##a[href*="utm_medium=banner"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 kannadigaworld.com##a[onclick*="banner"]
