@@ -148,6 +148,7 @@ ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 manabadi.co.in##.dsc-banners
 gvtjob.com##.e3lan-below_header
+uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 channelionline.com##.eyli
@@ -155,6 +156,7 @@ lankasri.com##.f-single
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
 professorsbd.com##.for_add
+uukmanews.com##.full-ad-wrp
 dcnepal.com##.full-banner
 pchelpcenterbd.com##.fullwidhtads
 myfirstshow.com##.hb-img
