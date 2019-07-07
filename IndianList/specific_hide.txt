@@ -156,6 +156,7 @@ lankasri.com##.f-single
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
 professorsbd.com##.for_add
+nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 dcnepal.com##.full-banner
 pchelpcenterbd.com##.fullwidhtads
@@ -177,6 +178,7 @@ rosemalayalam.com##.img_2_logo
 ekuruvi.com##.in-pan-ad
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
+nepalpati.com##.inner-page-ful-ad-btm
 globalmalayalam.com##.innerAdColum
 emalayalee.com##.item1
 emalayalee.com##.item3
@@ -217,6 +219,7 @@ nepalipatra.com##.rd-ads
 unmadmagazine.com##.right_bottom_ad_section
 tnilive.com##.righta
 bizmandu.com##.roadblock
+nepalpati.com##.rojgar-img-blk
 sathyamonline.com##.sAds
 banglatelegraph.com##.sentbe-top
 newsmoments.in##.side-300x100
