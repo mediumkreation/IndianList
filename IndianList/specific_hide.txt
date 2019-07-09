@@ -298,6 +298,7 @@ visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
 seithy.com##a[href*="splads"]
+vikatan.com##a[href*="sponsored-content"] + div
 tamildaily.com##a[href*="tamiltv.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
