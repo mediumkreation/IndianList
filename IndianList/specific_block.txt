@@ -692,6 +692,8 @@ _banner$image,domain=poriborton.com
 ||sustnews24.com^*_n-300x54
 ||sustnews24.com^*_n-495x89
 ||tamilauthors.com/gnanam.jpg
+||tamilcinemaz.com^*/cpm-back.jpg
+||tamilcinemaz.com^*/cpm-top.jpg
 ||tamilcnn.lk^*/banquet-hall.jpg
 ||tamilcnn.lk^*/pizzawings.gif
 ||tamilcnnlk.com/banner
