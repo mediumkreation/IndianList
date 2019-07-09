@@ -25,6 +25,8 @@ manithan.com###dfp_banner_header_panel + span
 puttalamonline.com###head-imgput
 ethiri.com###header-helpful
 bspabla.com###heatmapthemead-primary-sidebar
+tamilcinemaz.com###itro_opaco
+tamilcinemaz.com###itro_popup
 canvasmagazine.com.bd###media_image-10
 canvasmagazine.com.bd###media_image-11
 canvasmagazine.com.bd###media_image-18
@@ -63,7 +65,7 @@ careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
-tnilive.com###text-5
+tamilcinemaz.com,tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 mbmnewsnetwork.com###text-52
@@ -251,6 +253,7 @@ bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
 seithy.com##.toppageadsindexheader
 unmadmagazine.com##.twp-adv-header
+tamilcinemaz.com##.vl-header-ads
 tnilive.com##.vmagazine_lite_medium_ad
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
