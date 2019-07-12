@@ -175,6 +175,7 @@ pressbarta.com##.home_right_ads
 doolnews.com##.horiz_adv_area
 tips4blog.com##.hot_rwc_ads
 thereport24.com##.idlc
+neervely.ca##.img-ads > li > img
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 ekuruvi.com##.in-pan-ad
