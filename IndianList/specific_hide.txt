@@ -80,6 +80,9 @@ bhaskar.com###top-nav15
 vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
+pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
+pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
+pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 gyanipandit.com##.aalb-product-carousel-unit
 nepaljapan.com,ujyaaloonline.com,virakesari.lk##.ad
 eenadu.net##.ad-block-300
@@ -270,6 +273,8 @@ protidinersangbad.com##a[href*="ads-page"]
 janayugomonline.com##a[href*="advetorial"]
 vasundhara.net##a[href*="amzn.to"]
 hindilok.com##a[href*="astrosage.com"]
+pannagam.com##a[href*="baluasiaadd"]
+pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 tamildaily.com##a[href*="cinefield.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
@@ -300,6 +305,7 @@ deepika.com##a[href*="redirectadvt.aspx?"]
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
 seithy.com##a[href*="splads"]
 vikatan.com##a[href*="sponsored-content"] + div
+pannagam.com##a[href*="stsstudio.com"]
 tamildaily.com##a[href*="tamiltv.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
