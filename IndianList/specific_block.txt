@@ -237,6 +237,7 @@ _banner$image,domain=poriborton.com
 ||e-jaffna.com^*/speeditnet.png
 ||e4media.net^$third-party,domain=samachar4media.com
 ||edu.tamilclone.com^*/blog_ad_artsuit_en.png
+||eelamsun.com^*/eelamsunadgif.gif
 ||eelamtimes.com/files/4_2.jpg
 ||eelamtimes.com/img/add1.jpg
 ||eenadupratibha.net^*/balabharatam.jpg
