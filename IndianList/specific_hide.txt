@@ -40,6 +40,7 @@ sasthabangla.com###media_image-8
 ujyaaloonline.com###myCarousel
 rosemalayalam.com###myCarousel2
 lankadeepa.lk###myModal1
+saaravita.lk###openModal1
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
@@ -91,6 +92,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 nepaljapan.com,ujyaaloonline.com,virakesari.lk##.ad
 eenadu.net##.ad-block-300
 primenewsbd.com##.ad-box
+saaravita.lk##.ad1
 odhikar.news##.adSlides
 lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
