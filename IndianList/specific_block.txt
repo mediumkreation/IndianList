@@ -460,6 +460,7 @@ _banner$image,domain=poriborton.com
 ||narayanionline.com^*/pic-1.jpg
 ||narayanionline.com^*/study_in_japan.png
 ||narayanionline.com^*/Webp.net-gifmaker.gif
+||nchs.edu.lk^$third-party,domain=ada.lk
 ||neervely.ca/images/bala.jpg
 ||nepalesediaspora.com^*/dynamictax.jpg
 ||nepalesediaspora.com^*/mtEverestEl.jpg
