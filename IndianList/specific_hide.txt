@@ -130,7 +130,8 @@ doolnews.com##.adv_box_3x25
 radionrn.com##.adver-half
 radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
-manithan.com##.advert
+ada.lk,manithan.com##.advert
+ada.lk##.advert-single
 dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
