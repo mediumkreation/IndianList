@@ -271,6 +271,7 @@ _banner$image,domain=poriborton.com
 ||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
 ||hometamil.info^$third-party,domain=tamilserialtoday-247.net
+||i0.wp.com/sajhatv.com/wp-content/uploads/2017/06/Slap-the-Deal-Banner.gif
 ||i0.wp.com/www.osnepal.com/wp-content/uploads/2019/05/Jatrai-Jatra-TP.jpg
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
@@ -837,6 +838,7 @@ _banner$image,domain=poriborton.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
 ||wp.com^*/YATRA-AD-TP$domain=osnepal.com
+||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
 ||zoftcdn.com^*/andracards_banner_300x80.png
 ||zoftcdn.com^*/blueocean.jpg
