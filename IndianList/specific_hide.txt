@@ -56,6 +56,7 @@ globaltamilnews.net###text-12
 swisspungudutivu.com,tamil.com###text-13
 tnilive.com###text-14
 trttamilolli.com###text-15
+trttamilolli.com###text-16
 e-jaffna.com###text-17
 achhisoch.com###text-18
 tnilive.com,vanakkamlondon.com###text-20
@@ -66,7 +67,7 @@ achhisoch.com,trttamilolli.com###text-25
 tnilive.com###text-27
 gvtjob.com###text-29
 bdkhobor24.com,theneeweb.net,tnilive.com###text-3
-e-jaffna.com###text-31
+e-jaffna.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
 ajithfans.com,sabjanta.info,vanakkamlondon.com###text-4
 trttamilolli.com###text-40
