@@ -12,6 +12,7 @@
 -Advt-$domain=sanjevani.com
 -banner-$domain=channelionline.com
 -Banner-$domain=sherpurtimes.com
+-Campaign_$image,domain=publictv.in
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com

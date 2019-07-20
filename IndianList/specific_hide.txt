@@ -127,6 +127,7 @@ eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 bdrtnn.net,dainiksylhet.com##.adv
 doolnews.com##.adv_box_3x25
+publictv.in##.adv_swiper1
 radionrn.com##.adver-half
 radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
@@ -237,6 +238,7 @@ rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
 pchelpcenterbd.com##.pragads
+publictv.in##.pt-adv
 nepalipatra.com##.rd-ads
 unmadmagazine.com##.right_bottom_ad_section
 tnilive.com##.righta
