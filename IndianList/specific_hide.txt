@@ -154,6 +154,8 @@ bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
 nepaljapan.com##.category_ads_3_cols
+arthosuchak.com##.category_c_ad
+arthosuchak.com##.category_e_ad
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
 shoutmehindi.com##.coupon_dealtop
@@ -167,6 +169,7 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 channelionline.com##.eyli
 lankasri.com##.f-single
+arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
 professorsbd.com##.for_add
@@ -198,6 +201,7 @@ globalmalayalam.com##.innerAdColum
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
+arthosuchak.com##.lead-after
 tnilive.com##.lefta
 radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
@@ -240,10 +244,12 @@ bizmandu.com##.roadblock
 nepalpati.com##.rojgar-img-blk
 sathyamonline.com##.sAds
 banglatelegraph.com##.sentbe-top
+arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 ekuruvi.com##.side-bar-big-ads
 onlinekhabar.com##.side__add
+arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
 ctgtimes.com##.single_ads_top
