@@ -261,7 +261,9 @@ manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
 ctgtimes.com##.single_ads_top
 sanjevani.com##.site-header-banner
+kaumudiplus.com##.sp-ad-row
 ekuruvi.com##.span-2 a:only-child
+kaumudiplus.com##.spnsrd-ad
 veeravengaikal.com##.sppb-addon-clients
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
