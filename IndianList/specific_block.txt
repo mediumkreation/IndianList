@@ -307,6 +307,7 @@ _banner$image,domain=poriborton.com
 ||himalkhabar.com^*/banner/
 ||hindilok.com/promo/images/$image
 ||hometamil.info^$third-party,domain=tamilserialtoday-247.net
+||i-news24.com/images/iglweb.gif
 ||i0.wp.com/sajhatv.com/wp-content/uploads/2017/06/Slap-the-Deal-Banner.gif
 ||i0.wp.com/www.arthosuchak.com/wp-content/uploads/2015/04/moshishor.gif
 ||i0.wp.com/www.arthosuchak.com/wp-content/uploads/2015/06/pisl.gif
