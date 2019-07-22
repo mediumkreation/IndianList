@@ -913,6 +913,7 @@ _banner$image,domain=poriborton.com
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
 ||wp.com^*/YATRA-AD-TP$domain=osnepal.com
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
+||wp.com^*www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
 ||zoftcdn.com^*/andracards_banner_300x80.png
 ||zoftcdn.com^*/blueocean.jpg
