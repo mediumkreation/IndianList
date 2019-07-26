@@ -109,6 +109,9 @@ dailysports24.com,sharebiz.net,sudinamonline.com##.add
 sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
+thebengalitimes.com##.add-section
+thebengalitimes.com##.add-sectionb
+thebengalitimes.com##.add-sectionw
 samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
 dailynewsbd24.com##.add_01
