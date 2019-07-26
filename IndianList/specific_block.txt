@@ -119,6 +119,11 @@ _banner$image,domain=poriborton.com
 ||abnews24.com^*/Yousuf.gif
 ||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
 ||ajabgjab.com/FeedifySW.js
+||ajkerpatrika.com^*/electra_new.jpg
+||ajkerpatrika.com^*/logo.png
+||ajkerpatrika.com^*/palli-bazar-logo-illustrator-transparent_1.png
+||ajkerpatrika.com^*/Probashi-Palli_3.png
+||ajkerpatrika.com^*/sjibl.gif
 ||andhravilas.net/images/mahi130x200.gif
 ||appusami.com^*/Thejomaya%20Ad1.jpg
 ||appusami.com^*/Thejomaya%20Ad2.jpg
