@@ -308,6 +308,7 @@ _banner$image,domain=poriborton.com
 ||gbnews24.com^*/nn$image
 ||globalmalayalam.com/images/header_banner.jpg
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
+||goo.gl^$image,domain=kvartha.com
 ||gurukpo.com^*/Counseling.jpg$third-party
 ||hamrosandesh.com/wp-content/uploads/2019/05/Shrestha-Santosh.gif
 ||hamrosandesh.com^*/300-x-84.gif
