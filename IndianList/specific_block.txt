@@ -429,6 +429,7 @@ _banner$image,domain=poriborton.com
 ||malabarinews.com^*/presentation-pgdi.jpg
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
+||manoramaonline.com^*/promotions/$image
 ||meelparvai.net^*/Payanam-
 ||meelparvai.net^*/Vaiharai-
 ||metrovaartha.com^*/homebanner/
