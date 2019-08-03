@@ -1,6 +1,7 @@
 -300x300.$domain=ajabgjab.com
 -ad-for$image,domain=channelionline.com
 -ad.jpg|$domain=channelionline.com
+-Add-$image,domain=chauthiduniya.com
 -add.png?$domain=osnepal.com
 -Ads-$domain=dailyceylon.com
 -ads-$domain=meelparvai.net
@@ -258,6 +259,7 @@ _banner$image,domain=poriborton.com
 ||chavakkadonline.com^*/mehandi-add-size-1-1.jpg
 ||chavakkadonline.com^*/SECUDZONE-ADD-IN-ONLINE.jpg
 ||chavakkadonline.com^*/whitemen-ad-2.jpg
+||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
 ||comillarbarta.com^*/5417263302230107715.gif
 ||comillarbarta.com^*/ad-Prann-RFL.gif
 ||comillarbarta.com^*/US-Travels-1.gif
