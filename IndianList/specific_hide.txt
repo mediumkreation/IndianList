@@ -184,6 +184,7 @@ gvtjob.com##.e3lan-below_header
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
+chauthiduniya.com##.evo-header-banner
 channelionline.com##.eyli
 lankasri.com##.f-single
 arthosuchak.com##.feature_area_lead_news_ad
