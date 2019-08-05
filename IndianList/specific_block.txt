@@ -798,6 +798,8 @@ _banner$image,domain=poriborton.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||teluguwishesh.com^*/lenspick2.jpg
+||teluguwishesh.com^*/sqaad3.jpg
 ||thavady.com/gifs/greetings/tamils4news.jpg
 ||thenepaltoday.com^*/1100x100-arthasarokar.gif
 ||thenepaltoday.com^*/1140-1305.gif
