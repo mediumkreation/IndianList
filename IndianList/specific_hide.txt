@@ -375,6 +375,7 @@ eelamalar.com##a[href*="veeramaravarkal.com"]
 eelamalar.com##a[href*="veeravengaikal.com"]
 eelamalar.com##a[href*="verkal.com"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
+banglanews24.com##a[href*="womansworldbd.com"]
 eelamalar.com##a[href*="yaalvaakai.com"]
 pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 kannadigaworld.com##a[onclick*="banner"]
