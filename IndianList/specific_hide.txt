@@ -175,6 +175,7 @@ arthosuchak.com##.category_c_ad
 arthosuchak.com##.category_e_ad
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
+teluguwishesh.com##.content-holder-tvshowvaluevision
 shoutmehindi.com##.coupon_dealtop
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 ukmalayalampathram.com##.div_ad_rgt
@@ -303,6 +304,7 @@ tnilive.com##.vmagazine_lite_medium_ad
 ethiri.com##.widget_ads_easy_widget
 chauthiduniya.com,comillarbarta.com##.widget_media_image
 36garhi.com##.widget_supermag_ad
+teluguwishesh.com##.wishesh-add
 narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
