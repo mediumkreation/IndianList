@@ -22,7 +22,7 @@
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
 /banner/*$domain=tamil.com|thereport24.com
-/banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in
+/banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /offers/*$image,domain=priyo.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
