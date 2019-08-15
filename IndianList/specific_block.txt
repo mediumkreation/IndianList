@@ -10,6 +10,7 @@
 -ads.jpg|$domain=channelionline.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
+-advert.jpg|$domain=samakalam.com
 -Advt-$domain=sanjevani.com
 -banner-$domain=channelionline.com
 -Banner-$domain=sherpurtimes.com
