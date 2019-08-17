@@ -70,7 +70,7 @@ trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com###text-17
 achhisoch.com###text-18
-anaicoddai.com###text-2
+anaicoddai.com,yarlosai.com###text-2
 tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
 tnilive.com###text-23
@@ -191,7 +191,7 @@ nethgossip.lk##.display-lap
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 manabadi.co.in##.dsc-banners
-gvtjob.com##.e3lan-below_header
+gvtjob.com,yarlosai.com##.e3lan-below_header
 ceylonradio.co.uk##.e3lan-top
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
