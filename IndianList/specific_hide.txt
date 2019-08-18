@@ -176,6 +176,8 @@ osnepal.com##.banner-wrapper
 nepalsandesh.com##.bannerNews
 rosemalayalam.com##.banner_slider
 srilankamirror.com,tcvonline.co.in##.bannergroup
+valvainews.org##.bannertopimg
+valvainews.org##.bannertopimg2
 bizmandu.com##.biz-header-ad
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
