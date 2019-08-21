@@ -417,6 +417,5 @@ infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
-infosrilankanews.info##img[alt='Ad']
 pressnote.in##img[alt^="Advert"]
 manithan.com##span[id] > iframe[id]:only-child
