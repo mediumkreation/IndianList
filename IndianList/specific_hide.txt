@@ -412,8 +412,11 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 ratopati.com##div.trc-content-sponsored
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+infosrilankanews.info##html12
+infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
+infosrilankanews.info##img[alt='Ad']
 pressnote.in##img[alt^="Advert"]
 manithan.com##span[id] > iframe[id]:only-child
