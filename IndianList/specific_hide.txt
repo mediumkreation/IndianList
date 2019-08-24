@@ -124,6 +124,7 @@ janamsakshi.org###toprightAd
 pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
+gujarattimesusa.com##.a-single
 gyanipandit.com##.aalb-product-carousel-unit
 nepaljapan.com,ujyaaloonline.com,virakesari.lk##.ad
 eenadu.net##.ad-block-300
@@ -323,6 +324,7 @@ sherpurtimes.com##.top-biggapon
 ukmalayalampathram.com##.top-flash
 rosemalayalam.com##.top-news-ad
 onlinekhabar.com##.top__ads
+gujarattimesusa.com##.topad
 bdkhobor24.com##.topadlft
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
