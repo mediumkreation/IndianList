@@ -184,6 +184,7 @@ newsbna.com##.bannar
 asianmetronews.com,dcnepal.com,globalmalayalam.com##.banner
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
+gramajyothi.com##.banner-right
 osnepal.com##.banner-wrapper
 nepalsandesh.com##.bannerNews
 rosemalayalam.com##.banner_slider
@@ -339,6 +340,7 @@ adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 lankasri.com##a[href*="/adpage"]
 somoynews.tv##a[href*="?ref="]
+gramajyothi.com##a[href*="SeemasEdappally"]
 battinews.com##a[href*="ad.battinews.com"]
 protidinersangbad.com##a[href*="ads-page"]
 janayugomonline.com##a[href*="advetorial"]
@@ -347,6 +349,8 @@ eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
 pannagam.com##a[href*="baluasiaadd"]
 gkprashnuttar.com##a[href*="bit.ly"]
+gramajyothi.com##a[href*="bobychemmanur.com"]
+gramajyothi.com##a[href*="brahminsgroup.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 tamildaily.com##a[href*="cinefield.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
@@ -367,24 +371,30 @@ visarnews.com##a[href*="goo.gl/18LXwT"]
 36garhi.com##a[href*="gurturgoth.com"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
+gramajyothi.com##a[href*="hotelapsara.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 36garhi.com##a[href*="indiblogger.in"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
+gramajyothi.com##a[href*="kalyansilks.com"]
 kvartha.com##a[href*="kasargodvartha.com"]
 jamuna.tv##a[href*="ksrm.com.bd"]
+gramajyothi.com##a[href*="lunars.com"]
 akkinikkunchu.com##a[href*="lycamobile.com.au"]
 akkinikkunchu.com##a[href*="lycatv.tv"]
 akkinikkunchu.com##a[href*="mks.net.au"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 akkinikkunchu.com##a[href*="naamtamilar.org.au"]
+gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
+gramajyothi.com##a[href*="nirapara.com"]
 hindilok.com##a[href*="ojassoft"]
 kvartha.com##a[href*="pace.edu.in"]
 tamilolli.com##a[href*="periyarkural.com"]
 ethiri.com##a[href*="pipaffiliates.com"]
 tamilolli.com##a[href*="pna-aerial.fr"]
 eelamalar.com##a[href*="pulikalinkural.com"]
+gramajyothi.com##a[href*="pulimoottilonline.com"]
 eelamalar.com##a[href*="puliveeram.wordpress.com"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
@@ -417,5 +427,6 @@ infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
+gramajyothi.com##img[alt="banner"]
 pressnote.in##img[alt^="Advert"]
 manithan.com##span[id] > iframe[id]:only-child

@@ -960,6 +960,9 @@ _banner$image,domain=poriborton.com
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||wp.com^*www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
+||youtube.com/embed/1ljpiLRAAho
+||youtube.com/embed/ixacW9YeJD0
+||youtube.com/embed/wuZ5Az_ANLU
 ||zoftcdn.com^*/andracards_banner_300x80.png
 ||zoftcdn.com^*/blueocean.jpg
 ||zoftcdn.com^*/citysun.jpg
