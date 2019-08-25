@@ -242,6 +242,9 @@ neervely.ca##.img-ads > li > img
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 ekuruvi.com##.in-pan-ad
+amadershomoy.com##.index_ads_one
+amadershomoy.com##.index_ads_three
+amadershomoy.com##.index_ads_two
 pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
 nepalpati.com##.inner-page-ful-ad-btm
