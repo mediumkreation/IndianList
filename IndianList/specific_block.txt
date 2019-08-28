@@ -2,7 +2,9 @@
 -ad-for$image,domain=channelionline.com
 -ad.jpg|$domain=channelionline.com
 -Add-$image,domain=chauthiduniya.com
+-add.gif|$image,domain=abcnepal.tv
 -add.png?$domain=osnepal.com
+-add.png|$image,domain=abcnepal.tv
 -Ads-$domain=dailyceylon.com
 -ads-$domain=meelparvai.net
 -ads-$image,domain=asomiyapratidin.in
@@ -961,6 +963,10 @@ _banner$image,domain=poriborton.com
 ||wp.com^*osnepal.com/wp-content/uploads/2019/05/yagya-law.jpg
 ||wp.com^*osnepal.com/wp-content/uploads/2019/06/himalyan-travels.png
 ||wp.com^*osnepal.com/wp-content/uploads/2019/07/himalaya.png
+||wp.com^*www.abcnepal.tv*/1000-x-152.gif
+||wp.com^*www.abcnepal.tv*/avataran-book-priz.gif
+||wp.com^*www.abcnepal.tv*/book25.png
+||wp.com^*www.abcnepal.tv*/yath.gif
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||wp.com^*www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
