@@ -18,7 +18,7 @@
 /720x90.gif?$domain=himalini.com
 /ad.gif?$domain=himalini.com
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com
-/add/*$image,domain=domain=u71news.com|poriborton.com|sharenews24.com|thereport24.com
+/add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
 /Ads-$domain=dailyceylon.com
 /ads.jpg|$domain=natunsomoy.net
 /ads/*$domain=andhrapatrika.in
