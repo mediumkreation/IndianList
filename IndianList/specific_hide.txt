@@ -82,7 +82,7 @@ trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com###text-17
 achhisoch.com###text-18
-anaicoddai.com,attachowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,parichowk.com,yarlosai.com###text-2
 tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
 tnilive.com###text-23
@@ -90,7 +90,7 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 achhisoch.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-bdkhobor24.com,theneeweb.net,tnilive.com###text-3
+bdkhobor24.com,parichowk.com,theneeweb.net,tnilive.com###text-3
 e-jaffna.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
 anaicoddai.com###text-36
