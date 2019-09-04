@@ -82,7 +82,7 @@ trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com###text-17
 achhisoch.com###text-18
-anaicoddai.com,attachowk.com,parichowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,parichowk.com,vijaychowk.com,yarlosai.com###text-2
 tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
 tnilive.com###text-23
@@ -405,7 +405,7 @@ kvartha.com##a[href*="pace.edu.in"]
 tamilolli.com##a[href*="periyarkural.com"]
 ethiri.com##a[href*="pipaffiliates.com"]
 tamilolli.com##a[href*="pna-aerial.fr"]
-attachowk.com##a[href*="prabhatnamkeen.com"]
+attachowk.com,vijaychowk.com##a[href*="prabhatnamkeen.com"]
 eelamalar.com##a[href*="pulikalinkural.com"]
 gramajyothi.com##a[href*="pulimoottilonline.com"]
 eelamalar.com##a[href*="puliveeram.wordpress.com"]
