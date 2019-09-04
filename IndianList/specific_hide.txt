@@ -43,6 +43,7 @@ ap7am.com###advt-dtindex
 ilamai.com###banner
 sakshi.com###block-block-141--2
 tamilvoicenews.com###custom_html-2
+uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 teluguwishesh.com###djslider875
 puttalamonline.com###head-imgput
@@ -54,6 +55,7 @@ karainagar.com###ivrss_holder1
 valampurii.lk###main_middle_right_advert
 canvasmagazine.com.bd###media_image-10
 canvasmagazine.com.bd###media_image-11
+uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
 banglatelegraph.com,sasthabangla.com###media_image-2
@@ -348,13 +350,17 @@ narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
+uttranews.com##a[href*="-advt-"]
+uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
+uttranews.com##a[href*="/hayat/"]
 attachowk.com##a[href*="?advert="]
 somoynews.tv##a[href*="?ref="]
 gramajyothi.com##a[href*="SeemasEdappally"]
 battinews.com##a[href*="ad.battinews.com"]
 protidinersangbad.com##a[href*="ads-page"]
 janayugomonline.com##a[href*="advetorial"]
+uttranews.com##a[href*="advt-new"]
 vasundhara.net##a[href*="amzn.to"]
 eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
@@ -368,6 +374,7 @@ samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
 loksangbad.com##a[href*="deshihost.com"]
+uttranews.com##a[href*="edu_ministrial"]
 eelamalar.com##a[href*="eelamhomeland.com"]
 eelamalar.com##a[href*="eelamview.com"]
 eelamalar.com##a[href*="eelamwallpapers.com"]
@@ -385,11 +392,13 @@ onsnews.com##a[href*="hons.com"]
 gramajyothi.com##a[href*="hotelapsara.com"]
 dinamalar.com##a[href*="indianimprints.com/?"]
 36garhi.com##a[href*="indiblogger.in"]
+uttranews.com##a[href*="jai_shree"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 ekusheysangbad.com##a[href*="jb.com.bd"]
 anandalok.com##a[href*="jeevansathi.com"]
 gramajyothi.com##a[href*="kalyansilks.com"]
 kvartha.com##a[href*="kasargodvartha.com"]
+uttranews.com##a[href*="kolkata_2"]
 jamuna.tv##a[href*="ksrm.com.bd"]
 gramajyothi.com##a[href*="lunars.com"]
 akkinikkunchu.com##a[href*="lycamobile.com.au"]
@@ -405,6 +414,7 @@ kvartha.com##a[href*="pace.edu.in"]
 tamilolli.com##a[href*="periyarkural.com"]
 ethiri.com##a[href*="pipaffiliates.com"]
 tamilolli.com##a[href*="pna-aerial.fr"]
+uttranews.com##a[href*="pokhran_hindi"]
 attachowk.com,vijaychowk.com##a[href*="prabhatnamkeen.com"]
 eelamalar.com##a[href*="pulikalinkural.com"]
 gramajyothi.com##a[href*="pulimoottilonline.com"]
@@ -421,9 +431,15 @@ eelamalar.com##a[href*="thesakkatru.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 reporter.live##a[href*="utm_medium=banner"]
+uttranews.com##a[href*="uttranews.com/ad-"]
 eelamalar.com##a[href*="veeramaravarkal.com"]
 eelamalar.com##a[href*="veeravengaikal.com"]
 eelamalar.com##a[href*="verkal.com"]
+uttranews.com##a[href*="wa0009"]
+uttranews.com##a[href*="wa0013"]
+uttranews.com##a[href*="wa0014"]
+uttranews.com##a[href*="wa0015"]
+uttranews.com##a[href*="wa0017"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 banglanews24.com##a[href*="womansworldbd.com"]
 eelamalar.com##a[href*="yaalvaakai.com"]
