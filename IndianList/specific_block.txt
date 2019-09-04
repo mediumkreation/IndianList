@@ -970,6 +970,10 @@ _banner$image,domain=poriborton.com
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||wp.com^*www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
+||yespunjab.com^*/Capt-Independence-Day-Eng.gif
+||yespunjab.com^*/JIT-Ind-Day-Ad-Kaku
+||yespunjab.com^*/Kaku-Ahluwalia-Pbi-Ad.jpg
+||yespunjab.com^*/Madan-Lal-Dhingra-Ad.gif
 ||youtube.com/embed/1ljpiLRAAho
 ||youtube.com/embed/ixacW9YeJD0
 ||youtube.com/embed/wuZ5Az_ANLU

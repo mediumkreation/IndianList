@@ -351,11 +351,13 @@ dinakaran.com##[class*="boxad"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 uttranews.com##a[href*="-advt-"]
+yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
 uttranews.com##a[href*="/hayat/"]
 attachowk.com##a[href*="?advert="]
 somoynews.tv##a[href*="?ref="]
+yespunjab.com##a[href*="Amarinder-Madan-Lal-Dhingra-Ad-English"]
 gramajyothi.com##a[href*="SeemasEdappally"]
 battinews.com##a[href*="ad.battinews.com"]
 protidinersangbad.com##a[href*="ads-page"]
@@ -450,6 +452,7 @@ kannadigaworld.com##a[onclick*="banner"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
+yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 ratopati.com##div.trc-content-sponsored
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
