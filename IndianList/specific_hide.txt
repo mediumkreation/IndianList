@@ -119,6 +119,7 @@ globaltamilnews.net,muslimkural.com###text-8
 muslimkural.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
+lastnewsbd.com###top-banner
 bhaskar.com###top-nav15
 vorerbangladesh.com###top-stories
 janamsakshi.org###topleftAd
@@ -127,6 +128,7 @@ pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 natunsomoy.net##.Ad-Section
+lastnewsbd.com##.Photo_top_banner
 gujarattimesusa.com##.a-single
 gyanipandit.com##.aalb-product-carousel-unit
 kushtianews24.com##.above-banner
@@ -259,6 +261,7 @@ globalmalayalam.com##.innerAdColum
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
+lastnewsbd.com##.lastnews_add_1
 arthosuchak.com##.lead-after
 tnilive.com##.lefta
 radionrn.com##.logo-adverimg
@@ -279,6 +282,7 @@ manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 odhikar.news##.myAdBox
 somoynews.tv##.mySlideBox
+lastnewsbd.com##.myadd
 kilinochchinews.com##.navbar-ad-section
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
