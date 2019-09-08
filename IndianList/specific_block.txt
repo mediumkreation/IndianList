@@ -30,6 +30,7 @@
 /banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /offers/*$image,domain=priyo.com
 /rec728.jpg|$domain=politics.lk
+/sponsors/*$image,domain=wahcricket.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
 300_500.jpg?$domain=osnepal.com
