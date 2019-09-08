@@ -30,6 +30,7 @@
 /banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /offers/*$image,domain=priyo.com
 /rec728.jpg|$domain=politics.lk
+/sponsors/$image,domain=wahcricket.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
 300_500.jpg?$domain=osnepal.com
@@ -63,8 +64,8 @@ _banner$image,domain=poriborton.com
 ||aarthiknews.com^*/1000x100.jpg
 ||aarthiknews.com^*/1068x100px_NIC.gif
 ||aarthiknews.com^*/1090x98PX.gif
-||aarthiknews.com^*/1140X100.gif
-||aarthiknews.com^*/1190x90-2.gif
+||aarthiknews.com^*/1140X100.gifirinjalakuda.com,kalakkalcinema.co
+||aarthiknews.com^*/1190x90-2.gifirinjalakuda.com,kalakkalcinema.co
 ||aarthiknews.com^*/15112017-laxmi-bank.gif
 ||aarthiknews.com^*/21032018_NCC_BANK.jpg
 ||aarthiknews.com^*/218-x-206.gif
@@ -232,10 +233,10 @@ _banner$image,domain=poriborton.com
 ||canvasmagazine.com.bd^*/Pages-4.jpg
 ||canvasmagazine.com.bd^*/Pages-5-489x640.jpg
 ||canvasmagazine.com.bd^*/Pages-5.jpg
-||canvasmagazine.com.bd^*/Pages-6-489x640.jpg
-||canvasmagazine.com.bd^*/Pages-6.jpg
-||canvasmagazine.com.bd^*/Pages-8-489x640.jpg
-||canvasmagazine.com.bd^*/Pages-8.jpg
+||canvasmagazine.com.bd^*/Pages-6-489x64/sponsors/$image,domain=wahcricket.com0.jpg
+||canvasmagazine.com.bd^*/Pages-6.jpg/sponsors/$image,domain=wahcricket.com
+||canvasmagazine.com.bd^*/Pages-8-489x64/sponsors/$image,domain=wahcricket.com0.jpg
+||canvasmagazine.com.bd^*/Pages-8.jpg/sponsors/$image,domain=wahcricket.com
 ||ceylonradio.co.uk^*/awidimu.gif
 ||chandpur-kantho.com^*/ajkermatlab.jpg
 ||chandpur-kantho.com^*/imaginComputer.gif
