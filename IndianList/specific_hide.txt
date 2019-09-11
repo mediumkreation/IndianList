@@ -249,6 +249,7 @@ pressbarta.com##.home_right_ads
 doolnews.com##.horiz_adv_area
 tips4blog.com##.hot_rwc_ads
 thereport24.com##.idlc
+samacharplus.com##.img-add
 neervely.ca##.img-ads > li > img
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
@@ -340,6 +341,7 @@ sherpurtimes.com##.top-biggapon
 ukmalayalampathram.com##.top-flash
 rosemalayalam.com##.top-news-ad
 onlinekhabar.com##.top__ads
+samacharplus.com##.top_advertize
 gujarattimesusa.com##.topad
 bdkhobor24.com##.topadlft
 bdkhobor24.com,ournewsbd.net##.topadrt
