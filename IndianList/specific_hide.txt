@@ -244,6 +244,7 @@ seithy.com##.header_adbar
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
 tamilcnnlk.com##.home-section-ad
+muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
 pressbarta.com##.home_right_ads
 doolnews.com##.horiz_adv_area
@@ -339,6 +340,7 @@ thereport24.com##.top-add-left4
 ekuruvi.com##.top-bar-left-nav
 sherpurtimes.com##.top-biggapon
 ukmalayalampathram.com##.top-flash
+muhurtham.com##.top-links-form
 rosemalayalam.com##.top-news-ad
 onlinekhabar.com##.top__ads
 samacharplus.com##.top_advertize
