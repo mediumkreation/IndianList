@@ -606,6 +606,7 @@ _banner$image,domain=poriborton.com
 ||odhikar.news/templates/adhikar-v1/images/nift_new.gif
 ||odhikar.news/templates/adhikar-v1/images/Sonargao.png
 ||onsnews.com^*/Ujjwan-Tara-Sachool
+||onwebbox.com$domain=rakhewaldaily.com
 ||osnepal.com^*/0019-03-8fa7cb78fd69d4e8d3aeccf789aab7ef.jpg
 ||osnepal.com^*/anil-jee.jpg
 ||osnepal.com^*/Bimash-B-Shrestha.jpg
@@ -648,6 +649,7 @@ _banner$image,domain=poriborton.com
 ||punjabtimesusa.com^*-300x16
 ||purbanchal.com/img/tribune-tower.jpg
 ||puttalamonline.com/wp-content/uploads/2017/05/BTM360x80.png
+||rakhewaldaily.com^*/345Final%20logo%20(1).jpg
 ||ramailochha.com^*/550x100-hajar-juni-samma
 ||ramailochha.com^*/550x100-maruni
 ||ramailochha.com^*/550x100-password
