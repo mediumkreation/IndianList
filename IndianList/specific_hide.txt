@@ -46,6 +46,7 @@ tamilvoicenews.com###custom_html-2
 uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 teluguwishesh.com###djslider875
+jaianndata.com###gdgallery-container-2
 puttalamonline.com###head-imgput
 ethiri.com###header-helpful
 bspabla.com###heatmapthemead-primary-sidebar
@@ -148,6 +149,7 @@ lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 pchelplinebd.com##.adcontainer
 dailysports24.com,sharebiz.net,sudinamonline.com##.add
+jaianndata.com##.add-block
 sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
@@ -274,6 +276,7 @@ tnilive.com##.lefta
 radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
 doolnews.com##.long_adv_area
+jaianndata.com##.main-tp-adds
 gnewsbd24.com##.mainada
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
@@ -315,6 +318,7 @@ tnilive.com##.righta
 bizmandu.com##.roadblock
 nepalpati.com##.rojgar-img-blk
 sathyamonline.com##.sAds
+jaianndata.com##.scnd-add
 banglatelegraph.com##.sentbe-top
 arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
