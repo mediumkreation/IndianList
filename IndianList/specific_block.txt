@@ -965,8 +965,10 @@ _banner$image,domain=poriborton.com
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
 ||wp.com^*/anil-jee$domain=osnepal.com
+||wp.com^*/hot-news-update.gif$domain=sabguru.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
 ||wp.com^*/Liberty-Tax-Service11$domain=osnepal.com
+||wp.com^*/marrymatching.jpg$domain=sabguru.com
 ||wp.com^*/Motherland-Nepal$domain=osnepal.com
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
