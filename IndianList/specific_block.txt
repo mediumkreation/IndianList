@@ -431,6 +431,7 @@ _banner$image,domain=poriborton.com
 ||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
 ||livepress24.com^*/sotota.png
+||loksansar.in^*/Rajani-tea.jpg
 ||malabarinews.com/wp-content/uploads/2013/12/sameeksha-.jpg
 ||malabarinews.com/wp-content/uploads/2019/03/james.jpg
 ||malabarinews.com/wp-content/uploads/2019/03/present-james.gif
@@ -973,6 +974,7 @@ _banner$image,domain=poriborton.com
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
+||wp.com^*/add$image,domain=loksansar.in
 ||wp.com^*/anil-jee$domain=osnepal.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
