@@ -868,16 +868,6 @@ _banner$image,domain=poriborton.com
 ||tips4blog.com^*/domain-registration.png
 ||topnewskerala.com^*/newspaper-rec728.jpg
 ||topnewskerala.com^*/oxygen-ad.jpg
-||torontotamil.com^*/ahilan2.jpg
-||torontotamil.com^*/aircomplus.gif
-||torontotamil.com^*/ambika-gif.gif
-||torontotamil.com^*/asiyan2-ani.gif
-||torontotamil.com^*/jcs_hall.gif
-||torontotamil.com^*/kulex.gif
-||torontotamil.com^*/rogers-sundar.gif
-||torontotamil.com^*/valli_kannan.gif
-||torontotamil.com^*/yathavan.jpg
-||torontotamil.com^*/yogi-and-partners.gif
 ||totalkannada.com/images/client/remove/
 ||trttamilolli.com/wp-content/uploads/2019/05/02.jpg
 ||trttamilolli.com^*/Ampaal-2.jpg
@@ -978,6 +968,7 @@ _banner$image,domain=poriborton.com
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
+||wp.com^$image,domain=torontotamil.com
 ||wp.com^*/add$image,domain=loksansar.in
 ||wp.com^*/anil-jee$domain=osnepal.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
