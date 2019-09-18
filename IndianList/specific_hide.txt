@@ -84,8 +84,8 @@ medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,muslimkural.com,tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
 swisspungudutivu.com,tamil.com###text-13
-anaicoddai.com,tnilive.com###text-14
-trttamilolli.com###text-15
+anaicoddai.com,dailypunjabtimes.com,tnilive.com###text-14
+dailypunjabtimes.com,trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com###text-17
 achhisoch.com###text-18
@@ -103,7 +103,7 @@ allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,sabjanta.info,vanakkamlondon.com###text-4
+ajithfans.com,dailypunjabtimes.com,sabjanta.info,vanakkamlondon.com###text-4
 trttamilolli.com###text-40
 trttamilolli.com###text-42
 careerintelligencebd.com###text-45
@@ -118,7 +118,7 @@ aapkisafalta.com###text-54
 anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-medianp.com###text-6
+dailypunjabtimes.com,medianp.com###text-6
 vanakkamlondon.com###text-7
 globaltamilnews.net,muslimkural.com###text-8
 muslimkural.com###text-9
