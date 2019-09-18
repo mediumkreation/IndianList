@@ -1,5 +1,6 @@
 -300x300.$domain=ajabgjab.com
 -ad-for$image,domain=channelionline.com
+-ad.gif|$domain=5dariyanews.com
 -ad.jpg|$domain=channelionline.com
 -Add-$image,domain=chauthiduniya.com
 -add.gif|$image,domain=abcnepal.tv
