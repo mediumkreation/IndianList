@@ -286,6 +286,7 @@ fastnewsbd.com##.mainadvert6
 fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
 gnewsbd24.com##.maniio
+divyamarathi.bhaskar.com##.mb_ads_title
 ekuruvi.com##.mid-had
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
@@ -369,6 +370,7 @@ chauthiduniya.com,comillarbarta.com##.widget_media_image
 teluguwishesh.com##.wishesh-add
 narayanionline.com##[alt="advertiesment"]
 dinakaran.com##[class*="boxad"]
+divyamarathi.bhaskar.com##[id*="_ad_"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 uttranews.com##a[href*="-advt-"]
