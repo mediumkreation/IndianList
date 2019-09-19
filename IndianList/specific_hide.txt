@@ -326,6 +326,7 @@ newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 ekuruvi.com##.side-bar-big-ads
 onlinekhabar.com##.side__add
+sanjevani.com##.sidebar-right > .widget_text > h5
 arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
 nepaljapan.com##.single-news-ad
