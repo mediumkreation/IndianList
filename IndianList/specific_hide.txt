@@ -47,6 +47,7 @@ tamilvoicenews.com###custom_html-2
 uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 teluguwishesh.com###djslider875
+elokasha.com###eloka-google
 jaianndata.com###gdgallery-container-2
 puttalamonline.com###head-imgput
 ethiri.com###header-helpful
