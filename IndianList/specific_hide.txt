@@ -199,7 +199,7 @@ enepalese.com##.advt_r
 bspabla.com##.amzn_wdgt
 manabadi.co.in##.backg-g
 newsbna.com##.bannar
-asianmetronews.com,dcnepal.com,globalmalayalam.com##.banner
+asianmetronews.com,dcnepal.com,globalmalayalam.com,punjabmailusa.com##.banner
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
