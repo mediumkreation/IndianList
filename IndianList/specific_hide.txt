@@ -218,6 +218,7 @@ seithy.com##.briefNewsAd
 nepaljapan.com##.category_ads_3_cols
 arthosuchak.com##.category_c_ad
 arthosuchak.com##.category_e_ad
+madhyamam.com##.clock-container
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 hamrosandesh.com##.container-ad
 teluguwishesh.com##.content-holder-tvshowvaluevision
