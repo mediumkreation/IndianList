@@ -244,6 +244,7 @@ nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 dcnepal.com##.full-banner
 pchelpcenterbd.com##.fullwidhtads
+medianp.com##.fullwidth-header-ads-wrapper
 trttamilolli.com##.galboxcontainer
 myfirstshow.com##.hb-img
 ekuruvi.com##.header-banner
