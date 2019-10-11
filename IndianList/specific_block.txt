@@ -32,6 +32,7 @@
 /ads/*$domain=andhrapatrika.in
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
+/advertesment/*$image,domain=projonmokantho.com
 /ADVT-$domain=jaianndata.com
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
