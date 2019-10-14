@@ -39,6 +39,7 @@
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/$domain=namasteandhra.com
+/mbl-$image,domain=ppbd.news
 /offers/*$image,domain=priyo.com
 /rec728.jpg|$domain=politics.lk
 /sponsors/*$image,domain=wahcricket.com
@@ -673,6 +674,12 @@ _n.jpg|$domain=hmnews24.com
 ||pchelpcenterbd.com^*/LinuxHostLab700x100_4.gif
 ||pchelplinebd.com^*/easeus-970x90.png
 ||photobangla.agency^*/brangkings-400.jpg
+||ppbd.news^*/Bashundhara-Cement.png
+||ppbd.news^*/citybank.png
+||ppbd.news^*/goodManTravels.gif
+||ppbd.news^*/mbl-mashik.jpg
+||ppbd.news^*/regent_hospital.gif
+||ppbd.news^*/walton8-8-19.gif
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
 ||presearch.org^*/ban-$image
 ||pressnote.in/images/hzl.jpg
