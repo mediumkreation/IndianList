@@ -308,7 +308,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
-odhikar.news##.myAdBox
+odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
 lastnewsbd.com##.myadd
 kilinochchinews.com##.navbar-ad-section
