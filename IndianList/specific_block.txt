@@ -3,6 +3,7 @@
 -ad-for$image,domain=channelionline.com
 -ad.gif|$domain=5dariyanews.com
 -ad.jpg|$domain=channelionline.com
+-AD_$domain=ptbnewsbd.com
 -Add-$image,domain=chauthiduniya.com
 -add.gif|$image,domain=abcnepal.tv
 -add.png?$domain=osnepal.com
@@ -22,6 +23,7 @@
 -Banner.gif$image,domain=sajhatv.com
 -Campaign_$image,domain=publictv.in
 /720x90.gif?$domain=himalini.com
+/AD-$domain=ptbnewsbd.com
 /ad-jd-$domain=jaianndata.com
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com
