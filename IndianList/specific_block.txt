@@ -24,7 +24,7 @@
 /720x90.gif?$domain=himalini.com
 /ad-jd-$domain=jaianndata.com
 /ad.gif?$domain=himalini.com
-/ad.jpg|$domain=bbc24news.com
+/ad.jpg|$domain=banglapostbd.com|bbc24news.com
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
 /Ads-$domain=dailyceylon.com
@@ -192,6 +192,7 @@ _n.jpg|$domain=hmnews24.com
 ||badhusha.com/banner/$domain=adiyakkamangalam.com
 ||bangladeshbani24.com^*/rashiFoll.jpg
 ||banglanews24.com^*/woman-world20160731144950.jpg
+||banglapostbd.com^*/Shah-AManat-Head.png
 ||banglatelegraph.com^*/cosmetics-ad.gif
 ||banglatelegraph.com^*/sentbe-BT.png
 ||banglatimes.com/add.jpg
