@@ -24,7 +24,7 @@
 /720x90.gif?$domain=himalini.com
 /ad-jd-$domain=jaianndata.com
 /ad.gif?$domain=himalini.com
-/ad.jpg|$domain=bbc24news.com
+/ad.jpg|$domain=banglapostbd.com|bbc24news.com
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
 /Ads-$domain=dailyceylon.com
