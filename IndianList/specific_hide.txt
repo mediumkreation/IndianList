@@ -363,6 +363,7 @@ crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
 loksansar.in##.td-adspot-title + a
 politics.lk##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
+alertnews24.com##.text-html
 namasteandhra.com##.three_ads
 pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
