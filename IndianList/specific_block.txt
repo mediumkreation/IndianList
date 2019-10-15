@@ -18,6 +18,7 @@
 -adv.$domain=brtnepal.com
 -advert.jpg|$domain=samakalam.com
 -Advt-$domain=sanjevani.com
+-bannar.jpg|$domain=kurigramlive.com
 -banner-$domain=channelionline.com
 -Banner-$domain=sherpurtimes.com
 -Banner.gif$image,domain=sajhatv.com
