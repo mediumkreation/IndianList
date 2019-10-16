@@ -1028,6 +1028,7 @@ _n.jpg|$domain=hmnews24.com
 ||wp.com^*/anil-jee$domain=osnepal.com
 ||wp.com^*/banner-travel$domain=nirpakhawaaz.in
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
+||wp.com^*/icb.gif$domain=dhakanews24.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
 ||wp.com^*/Liberty-Tax-Service11$domain=osnepal.com
 ||wp.com^*/marrymatching.jpg$domain=sabguru.com
