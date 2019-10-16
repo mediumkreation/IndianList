@@ -5,7 +5,7 @@ thattungal.com###HTML13
 thattungal.com###HTML16
 thattungal.com###HTML18
 battinews.com,thattungal.com###HTML3
-eelanesan.com,visarnews.com###HTML5
+eelanesan.com,malabarflash.com,visarnews.com###HTML5
 bhopalsamachar.com,hamaramahanagar.in,thattungal.com###Image1
 malabarflash.com,nepalmother.com,thattungal.com###Image10
 nepalmother.com,thattungal.com###Image11
@@ -26,7 +26,7 @@ poonththalir.blogspot.com###Image25
 bestghazals.net,thattungal.com###Image3
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
-madawalaenews.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image4
+madawalaenews.com,malabarflash.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image4
 thattungal.com###Image5
 thattungal.com###Image6
 malabarflash.com,thattungal.com###Image7
