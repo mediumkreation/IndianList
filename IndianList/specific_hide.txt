@@ -57,7 +57,7 @@ tamilcinemaz.com###itro_opaco
 tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 valampurii.lk###main_middle_right_advert
-canvasmagazine.com.bd###media_image-10
+canvasmagazine.com.bd,dhakardak-bd.com###media_image-10
 canvasmagazine.com.bd###media_image-11
 uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
@@ -66,7 +66,8 @@ banglatelegraph.com,sasthabangla.com###media_image-2
 bangladaily24.com,sasthabangla.com###media_image-3
 sasthabangla.com###media_image-4
 sasthabangla.com###media_image-6
-sasthabangla.com###media_image-8
+dhakardak-bd.com,sasthabangla.com###media_image-8
+dhakardak-bd.com###media_image-9
 legendnews.in###metaslider_703
 legendnews.in###metaslider_709
 legendnews.in###metaslider_714
