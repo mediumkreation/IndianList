@@ -44,6 +44,7 @@ ap7am.com###advt-dtindex
 ilamai.com###banner
 sakshi.com###block-block-141--2
 tamilvoicenews.com###custom_html-2
+bdcrictime.com###custom_html-5
 uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 teluguwishesh.com###djslider875
@@ -87,7 +88,7 @@ medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,muslimkural.com,tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
 swisspungudutivu.com,tamil.com###text-13
-anaicoddai.com,dailypunjabtimes.com,tnilive.com###text-14
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com###text-17
