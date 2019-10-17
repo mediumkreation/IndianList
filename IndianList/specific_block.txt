@@ -233,6 +233,9 @@ _n.jpg|$domain=hmnews24.com
 ||blogspot.com^*/s1600/FotoFlexer_Photo.jpg$domain=arghakhanchi.com
 ||blogspot.com^*web%2Bad$domain=vallikkunnu.com
 ||blogvarta.com/images/viewmefast.png
+||boichitranews24.com^*/ap-2.jpg
+||boichitranews24.com^*/islamibank.gif
+||boichitranews24.com^*/walton.jpg
 ||boxoffice70mm.com^*/bg-1.jpg
 ||bspabla.com^*/happy-blogging.jpg
 ||canvasmagazine.com.bd^*/268x341.gif
