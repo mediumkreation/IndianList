@@ -519,5 +519,5 @@ ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 pressnote.in##img[alt^="Advert"]
-section[id^="id"]
+chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
