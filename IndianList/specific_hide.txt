@@ -83,6 +83,7 @@ saaravita.lk###openModal1
 rojgarlive.com###popup_indiv2
 manithan.com###recommendations
 patrikai.com###slide-holder
+makkalkural.net###slider
 emalayalee.com###slideshow
 emalayalee.com###slideshow2
 emalayalee.com###slideshow3
@@ -260,6 +261,7 @@ pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
 trttamilolli.com##.galboxcontainer
 myfirstshow.com##.hb-img
+makkalkural.net##.header-ads-wrapper
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 manoramaonline.com##.header-sponser-left
