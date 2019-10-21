@@ -500,6 +500,7 @@ uttranews.com##a[href*="wa0013"]
 uttranews.com##a[href*="wa0014"]
 uttranews.com##a[href*="wa0015"]
 uttranews.com##a[href*="wa0017"]
+nbs24.org##a[href*="waltonbd.com"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 tnews247.com##a[href*="webacademy-edu.com"]
 banglanews24.com##a[href*="womansworldbd.com"]
