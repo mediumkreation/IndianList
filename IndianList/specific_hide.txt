@@ -186,6 +186,7 @@ rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
 narayanionline.com##.add_middle
 snn24.com##.addtop_header
+snn24.com##.addtop_inner img[data-filename]
 channelionline.com##.adloc-is-banner
 hamrosandesh.com##.admana-plugin
 ekusheysangbad.com,jagran.com,nepalesediaspora.com##.ads
