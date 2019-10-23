@@ -506,6 +506,7 @@ aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 tnews247.com##a[href*="webacademy-edu.com"]
 banglanews24.com##a[href*="womansworldbd.com"]
 eelamalar.com##a[href*="yaalvaakai.com"]
+pravasiexpress.com##a[href*='japan-it.jp'] img
 pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 kannadigaworld.com##a[onclick*="banner"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
