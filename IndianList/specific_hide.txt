@@ -405,6 +405,7 @@ dinakaran.com##[class*="boxad"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
+ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
 yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
