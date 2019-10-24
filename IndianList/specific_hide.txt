@@ -390,6 +390,7 @@ onlinekhabar.com##.top__ads
 samacharplus.com##.top_advertize
 gujarattimesusa.com##.topad
 bdkhobor24.com##.topadlft
+dhakatoday.com##.topadr
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
 seithy.com##.toppageadsindexheader
@@ -525,5 +526,6 @@ ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 pressnote.in##img[alt^="Advert"]
+dhakatoday.com##img[src*="mediabell.net"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
