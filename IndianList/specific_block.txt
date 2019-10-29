@@ -48,6 +48,7 @@
 /sponsors/*$image,domain=wahcricket.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140x90.jpg?$domain=osnepal.com
+290x180_c.jpg|$domain=karaihinducanada.com
 300_500.jpg?$domain=osnepal.com
 300x450.jpg?$domain=osnepal.com
 350x250.jpg?$domain=osnepal.com
