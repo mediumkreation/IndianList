@@ -494,6 +494,7 @@ _n.jpg|$domain=hmnews24.com
 ||malabarinews.com^*/pandoora-final-1.jpg
 ||malabarinews.com^*/presentation-pgdi.jpg
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
+||malayalamexpress.in^*/Malayalamexpress_Direct_1168x109_MAL-01.jpg
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||manoramaonline.com^*/promotions/$image
 ||mawbima.lk/Maw_ad.html
