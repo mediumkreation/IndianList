@@ -47,7 +47,7 @@ ap7am.com###advt-dtindex
 ilamai.com###banner
 sakshi.com###block-block-141--2
 tamilvoicenews.com###custom_html-2
-bdcrictime.com###custom_html-5
+bdcrictime.com,techtamil.com###custom_html-5
 uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 teluguwishesh.com###djslider875
@@ -88,6 +88,7 @@ makkalkural.net###slider
 emalayalee.com###slideshow
 emalayalee.com###slideshow2
 emalayalee.com###slideshow3
+techtamil.com###sp_widget_post_slider-2
 alaikal.com###supermag_ad-12
 medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,muslimkural.com,tamil.com,tnilive.com###text-11
