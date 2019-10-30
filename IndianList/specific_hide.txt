@@ -85,6 +85,7 @@ manithan.com###recommendations
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
 makkalkural.net###slider
+tamiltradepost.com###slider48
 emalayalee.com###slideshow
 emalayalee.com###slideshow2
 emalayalee.com###slideshow3
@@ -277,6 +278,7 @@ univarta.com##.header_bottom_ad
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
 bangla-news24.com##.home-e3lan
+tamiltradepost.com##.home-mid-banner
 tamilcnnlk.com##.home-section-ad
 muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
@@ -374,6 +376,7 @@ kaumudiplus.com##.spnsrd-ad
 veeravengaikal.com##.sppb-addon-clients
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
+tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
 crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
 loksansar.in##.td-adspot-title + a
