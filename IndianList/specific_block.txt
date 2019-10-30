@@ -44,6 +44,7 @@
 /bannersads/$domain=namasteandhra.com
 /mbl-$image,domain=ppbd.news
 /offers/*$image,domain=priyo.com
+/output_$image,domain=tamiltradepost.com
 /rec728.jpg|$domain=politics.lk
 /sponsors/*$image,domain=wahcricket.com
 1140-x-100_px.jpg?$domain=osnepal.com
