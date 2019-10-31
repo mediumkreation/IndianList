@@ -42,6 +42,7 @@
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/$domain=namasteandhra.com
+/block_$image,domain=ntvtelugu.com
 /mbl-$image,domain=ppbd.news
 /offers/*$image,domain=priyo.com
 /output_$image,domain=tamiltradepost.com
