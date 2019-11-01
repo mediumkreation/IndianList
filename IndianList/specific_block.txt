@@ -14,7 +14,7 @@
 -ads-$image,domain=asomiyapratidin.in
 -Ads-$image,domain=bdtoday24.com
 -ads-for$image,domain=channelionline.com
--ads.jpg|$domain=channelionline.com
+-ads.jpg|$domain=bigulnews.tv|channelionline.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
 -advert.jpg|$domain=samakalam.com
