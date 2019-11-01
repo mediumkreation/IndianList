@@ -23,6 +23,7 @@
 -banner-$domain=channelionline.com
 -Banner-$domain=sherpurtimes.com
 -Banner.gif$image,domain=sajhatv.com
+-Banner.jpeg|$domain=telugubullet.com
 -Campaign_$image,domain=publictv.in
 /720x90.gif?$domain=himalini.com
 /AD-$domain=ptbnewsbd.com
