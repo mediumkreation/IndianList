@@ -71,6 +71,7 @@
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
+@@||bbarta24.net/templates/bbarta/images/main-logo.png
 _336x280.$domain=ajabgjab.com
 _add.jpg|$domain=politics.lk
 _banner$image,domain=poriborton.com
@@ -210,6 +211,8 @@ _n.jpg|$domain=hmnews24.com
 ||bartabangla.com^*/artwin.jpg
 ||bartabangla.com^*/ons.jpg
 ||battinaatham.net^*/obituary/fgdfg.gif
+||bbarta24.com/templates/bbarta/images/
+||bbarta24.net/templates/bbarta/images/
 ||bccfalna.com/BccFalnaAD.png
 ||bd-journal.com^*/sibl_web.gif
 ||bd-journal.com^*/walton5-3-19.gif
