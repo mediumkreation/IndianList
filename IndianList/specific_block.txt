@@ -72,6 +72,8 @@
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
+@@||imgur.com^0xhs9wf.png|$domain=news71online.com
+@@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 _336x280.$domain=ajabgjab.com
 _add.jpg|$domain=politics.lk
 _banner$image,domain=poriborton.com
@@ -395,7 +397,7 @@ _n.jpg|$domain=hmnews24.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
 ||imgur.com$third-party,domain=nepalipatra.com
-||imgur.com^$third-party,domain=braveindianews.com
+||imgur.com^$third-party,domain=braveindianews.com|news71online.com
 ||ipathram.com^*/newyupp_01ea0.jpg
 ||ipathram.com^*/nkbanner_d3f7c.jpg
 ||ipathram.com^*/spicebazar_ad_cfcad.jpg
