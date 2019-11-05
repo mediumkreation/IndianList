@@ -417,6 +417,7 @@ adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
+bangladeshonline24.com##a[href*=".ac.bd"]
 yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
