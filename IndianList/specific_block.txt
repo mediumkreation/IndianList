@@ -1,8 +1,8 @@
 -300x300.$domain=ajabgjab.com
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
--ad.gif|$domain=5dariyanews.com
--ad.jpg|$domain=channelionline.com
+-ad.gif|$domain=5dariyanews.com|sharetimes24.com
+-ad.jpg|$domain=channelionline.com|sharetimes24.com|thebarta24.com
 -ad.png?$domain=onenewsbd.com
 -AD_$domain=ptbnewsbd.com
 -Add-$image,domain=chauthiduniya.com
@@ -75,6 +75,7 @@
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 _336x280.$domain=ajabgjab.com
+_ad.jpg|$domain=sharetimes24.com|thebarta24.com
 _add.jpg|$domain=politics.lk
 _banner$image,domain=poriborton.com
 _n.jpg|$domain=hmnews24.com
@@ -889,6 +890,8 @@ Ad_.png?$domain=bangladeshonline24.com
 ||sharebiz.net/wp-content/uploads/2019/05/Berger-1.jpg
 ||sharebiz.net/wp-content/uploads/2019/05/Populer-Life-1.jpg
 ||sharebiz.net/wp-content/uploads/2019/05/ShareBiz.gif
+||sharetimes24.com^*/njad-1-e1469984210958.jpg
+||sharetimes24.com^*/saifpowertech.sharetimes.gif
 ||shobshomoy.com^*/Marchblink725X60.jpg
 ||shobshomoy.com^*/robi407x75.gif
 ||shortpixel.ai^$domain=dainiksylhet.com
@@ -947,6 +950,10 @@ Ad_.png?$domain=bangladeshonline24.com
 ||teluguwishesh.com^*/yp-add.jpg
 ||thannambikkai.org/images/magazine/IMaruthuvamadv.jpg
 ||thavady.com/gifs/greetings/tamils4news.jpg
+||thebarta24.com^*/basic-bank.adv1_.gif
+||thebarta24.com^*/icbad.png
+||thebarta24.com^*/nationalfeedad2.gif
+||thebarta24.com^*/saifpowertech.sharetimes.gif
 ||thenepaltoday.com^*/1100x100-arthasarokar.gif
 ||thenepaltoday.com^*/1140-1305.gif
 ||thenepaltoday.com^*/780X96_2.gif
