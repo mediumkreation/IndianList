@@ -5,10 +5,12 @@
 -ad.jpg|$domain=channelionline.com|sharetimes24.com|thebarta24.com
 -ad.png?$domain=onenewsbd.com
 -AD_$domain=ptbnewsbd.com
+-add-$domain=barishaltimes.com
 -Add-$image,domain=chauthiduniya.com
 -add.gif|$image,domain=abcnepal.tv
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
+-Add_$domain=barishaltimes.com
 -Ads-$domain=dailyceylon.com
 -ads-$domain=meelparvai.net
 -ads-$image,domain=asomiyapratidin.in
@@ -213,6 +215,11 @@ Ad_.png?$domain=bangladeshonline24.com
 ||banglatelegraph.com^*/sentbe-BT.png
 ||banglatimes.com/add.jpg
 ||banglatimes.com^*/s.jpg
+||barishaltimes.com^*/Anchor-2.png
+||barishaltimes.com^*/Arafat-Paint.png
+||barishaltimes.com^*/MEP-Gang-Such.jpg
+||barishaltimes.com^*/Shikder-Gp.png
+||barishaltimes.com^*/Shovo-Tr.jpg
 ||bartabangla.com^*/artwin.jpg
 ||bartabangla.com^*/ons.jpg
 ||battinaatham.net^*/obituary/fgdfg.gif
@@ -681,6 +688,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ||newsbna.com^*/coperchimney.jpg
 ||newsdesk24.com^*/local_ad_
 ||newsmoments.in^*/Chemmannur.jpg
+||nextzenbd.com/add/$third-party
 ||nirapadnews.com^*/Nisacha-Online-Banner-Final-Dt-16.06.15.jpg
 ||nrimalayalee.com^*/12-shoy-cheriyan-300x85.gif
 ||nrimalayalee.com^*/535x*.gif
