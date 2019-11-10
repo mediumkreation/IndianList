@@ -457,6 +457,7 @@ jugantor.com##a[href*="fsiblbd.com"]:only-child
 currentgk.in##a[href*="gkprashnuttar.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
 36garhi.com##a[href*="gurturgoth.com"]
+thahakhabar.com##a[href*="himalayaswater.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 gramajyothi.com##a[href*="hotelapsara.com"]
@@ -534,7 +535,7 @@ infosrilankanews.info##html12
 infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 newsdesk24.com##img[alt ='ad']
-hamrokhelkud.com,ujyaaloonline.com##img[alt="ad"]
+hamrokhelkud.com,thahakhabar.com,ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 pressnote.in##img[alt^="Advert"]

@@ -155,6 +155,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ||abnews24.com^*/unihelth.gif
 ||abnews24.com^*/Well-Add.gif
 ||abnews24.com^*/Yousuf.gif
+||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
 ||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
 ||ajabgjab.com/FeedifySW.js
 ||ajkerpatrika.com^*/electra_new.jpg
@@ -866,6 +867,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ||ratopati.prixa.net^*/Tir_1140-x-90_2.gif
 ||ratopati.prixa.net^*/unnamed.jpg
 ||ratopati.prixa.net^*/unnamed_1.gif
+||raxcdn.com/media/*.gif|$third-party,domain=thahakhabar.com
 ||reporter.live^*/chungath-300.jpg
 ||reporter.live^*/chunkath-png.png
 ||royalharbinger.com^$third-party,domain=pressnote.in
