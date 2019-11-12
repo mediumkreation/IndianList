@@ -47,6 +47,7 @@
 /bannersads/$domain=namasteandhra.com
 /bigyapan/*$domain=setopati.com
 /block_$image,domain=ntvtelugu.com
+/malabarinews.com^*/isha-chamyam.gif
 /mbl-$image,domain=ppbd.news
 /offers/*$image,domain=priyo.com
 /output_$image,domain=tamiltradepost.com
@@ -84,6 +85,13 @@ _add.jpg|$domain=politics.lk
 _banner$image,domain=poriborton.com
 _n.jpg|$domain=hmnews24.com
 Ad_.png?$domain=bangladeshonline24.com
+malabarinews.com^*/1.jpg
+malabarinews.com^*/malabari.png
+malabarinews.com^*/sameeksha.png
+malabarinews.com^*/Soccer-Cty_Jeep.jpg
+malabarinews.com^*/soccer-gk.gif
+malabarinews.com^*/soccer-sameeksha.gif
+malabarinews.com^*/WhatsApp-Image
 nayapage.com##a[href*="gurkhasfinance.com.np"]
 ||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
 ||2.bp.blogspot.com/-HPD8Q-_QY4c/XIDtfTQVWAI/AAAAAAAAodQ/OkDJ6Lyl7dwciuxwqGgqTjXRFIvGBDstACLcBGAs/s1600/53327642_2040231206054757_8053306401486798848_n%2B%25281%2529.jpg
