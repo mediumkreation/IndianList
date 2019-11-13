@@ -1144,6 +1144,7 @@ nayapage.com##a[href*="gurkhasfinance.com.np"]
 ||wp.com^*/add$image,domain=loksansar.in
 ||wp.com^*/anil-jee$domain=osnepal.com
 ||wp.com^*/banner-travel$domain=nirpakhawaaz.in
+||wp.com^*/cjmc-new-add-$domain=pariwartankhabar.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
 ||wp.com^*/icb.gif$domain=dhakanews24.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
@@ -1155,6 +1156,7 @@ nayapage.com##a[href*="gurkhasfinance.com.np"]
 ||wp.com^*/purano-nulet$domain=osnepal.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
+||wp.com^*/visit-nepal-$domain=pariwartankhabar.com
 ||wp.com^*/YATRA-AD-TP$domain=osnepal.com
 ||wp.com^*osnepal.com/wp-content/uploads/2019/05/anil.jpg
 ||wp.com^*osnepal.com/wp-content/uploads/2019/05/anil11.jpg
