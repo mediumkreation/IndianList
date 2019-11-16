@@ -46,6 +46,7 @@ torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 ilamai.com###banner
 sakshi.com###block-block-141--2
+varthabharati.in###block-block-263--2
 tamilvoicenews.com###custom_html-2
 bdcrictime.com,techtamil.com###custom_html-5
 uttranews.com###custom_html-9
@@ -441,6 +442,7 @@ eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
 pannagam.com##a[href*="baluasiaadd"]
 gkprashnuttar.com##a[href*="bit.ly"]
+varthabharati.in##a[href*="bitmangalore.edu.in"]
 gramajyothi.com##a[href*="bobychemmanur.com"]
 gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
@@ -520,6 +522,7 @@ tnews247.com##a[href*="valokichu.com"]
 eelamalar.com##a[href*="veeramaravarkal.com"]
 eelamalar.com##a[href*="veeravengaikal.com"]
 eelamalar.com##a[href*="verkal.com"]
+varthabharati.in##a[href*="vishwasbawa.com"]
 uttranews.com##a[href*="wa0009"]
 uttranews.com##a[href*="wa0013"]
 uttranews.com##a[href*="wa0014"]
