@@ -158,6 +158,7 @@ ekusheysangbad.com,mazzakoonline.com,nepaljapan.com,ujyaaloonline.com,virakesari
 eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
 saaravita.lk##.ad1
+arthasarokar.com##.ad50
 odhikar.news##.adSlides
 ekusheysangbad.com##.ad_area1
 ekusheysangbad.com##.ad_area2
@@ -200,6 +201,7 @@ hindi.cricketnmore.com##.ads-space
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
+arthasarokar.com##.adsspace
 bdrtnn.net,dainiksylhet.com,thuglak.com,uttamhindu.com##.adv
 doolnews.com##.adv_box_3x25
 publictv.in##.adv_swiper1
@@ -230,6 +232,7 @@ rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
+arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
 nirpakhawaaz.in##.bookingaff
 ethiri.com##.brand_wrapper .tagline
@@ -412,6 +415,7 @@ chauthiduniya.com,comillarbarta.com##.widget_media_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
 narayanionline.com##[alt="advertiesment"]
+arthasarokar.com##[class*="bigyapan"]
 dinakaran.com##[class*="boxad"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 adiyakkamangalam.com##a.external
@@ -456,6 +460,7 @@ eelamalar.com##a[href*="eelaveechu.net"]
 eelamalar.com##a[href*="eelavenkai.blogspot.com"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 jugantor.com##a[href*="fsiblbd.com"]:only-child
+arthasarokar.com##a[href*="garimabank.com.np"]
 currentgk.in##a[href*="gkprashnuttar.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
 36garhi.com##a[href*="gurturgoth.com"]
@@ -480,7 +485,9 @@ akkinikkunchu.com##a[href*="lycatv.tv"]
 akkinikkunchu.com##a[href*="mks.net.au"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 akkinikkunchu.com##a[href*="naamtamilar.org.au"]
+arthasarokar.com##a[href*="nabilbank.com"]
 gramajyothi.com##a[href*="nagarjunaayurveda.com"]
+arthasarokar.com##a[href*="nbbl.com.np"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 gramajyothi.com##a[href*="nirapara.com"]
 hindilok.com##a[href*="ojassoft"]
