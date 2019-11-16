@@ -35,6 +35,7 @@
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
 /AddImages/$domain=thurannakathu.com
+/ADDS-$image,domain=prajapragathi.com
 /Ads-$domain=dailyceylon.com
 /ads.jpg|$domain=natunsomoy.net
 /ads/*$domain=andhrapatrika.in
@@ -807,6 +808,7 @@ varthabharati.in^*/WSN-UDAYAVANI-1.gif
 ||ppbd.news^*/regent_hospital.gif
 ||ppbd.news^*/walton8-8-19.gif
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
+||prajapragathi.com^*/FINAL_NAGARAJ.gif
 ||presearch.org^*/ban-$image
 ||pressnote.in/images/hzl.jpg
 ||primenewsbd.com^*/Orion.png
