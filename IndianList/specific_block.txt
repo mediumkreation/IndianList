@@ -86,6 +86,7 @@ _add.jpg|$domain=politics.lk
 _banner$image,domain=poriborton.com
 _n.jpg|$domain=hmnews24.com
 Ad_.png?$domain=bangladeshonline24.com
+batmidar.in^*/rec300.jpg
 malabarinews.com^*/1.jpg
 malabarinews.com^*/malabari.png
 malabarinews.com^*/sameeksha.png
