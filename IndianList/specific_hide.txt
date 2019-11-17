@@ -178,6 +178,7 @@ thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
 samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
+dainikpurbokone.net##.addVertise
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
 dailynewsbd24.com##.add_03
