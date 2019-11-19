@@ -32,6 +32,7 @@
 /ad-jd-$domain=jaianndata.com
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com
+/add.jpg|$domain=sheershakhobor.com
 /add/*$domain=sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
 /AddImages/$domain=thurannakathu.com
