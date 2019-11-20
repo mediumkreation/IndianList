@@ -468,6 +468,7 @@ jugantor.com##a[href*="fsiblbd.com"]:only-child
 arthasarokar.com##a[href*="garimabank.com.np"]
 currentgk.in##a[href*="gkprashnuttar.com"]
 visarnews.com##a[href*="goo.gl/18LXwT"]
+nayapage.com##a[href*="gurkhasfinance.com.np"]
 36garhi.com##a[href*="gurturgoth.com"]
 thahakhabar.com##a[href*="himalayaswater.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
