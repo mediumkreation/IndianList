@@ -93,6 +93,7 @@ chakarianews.com^*/city-has-19-04-19.jpg
 chakarianews.com^*/cm-add-03-08-2019.jpg
 chakarianews.com^*/dr-mahammodul-hoque.jpg
 chakarianews.com^*/uniq-has-247x300.jpg
+habiganjexpress.com^*/biggapon.gif
 malabarinews.com^*/1.jpg
 malabarinews.com^*/malabari.png
 malabarinews.com^*/sameeksha.png
@@ -425,6 +426,9 @@ varthabharati.in^*/WSN-UDAYAVANI-1.gif
 ||goo.gl^$image,domain=kvartha.com
 ||gujaratabroad.ca^*/imperial%20pest%20control.jpg
 ||gurukpo.com^*/Counseling.jpg$third-party
+||habiganjexpress.com^*/0000000.jpg
+||habiganjexpress.com^*/AD-.jpg
+||habiganjexpress.com^*/AD-2.jpg
 ||hamrokhelkud.com^*/Annal-Jyoti.gif
 ||hamrokhelkud.com^*/casa.gif
 ||hamrokhelkud.com^*/century.jpg
