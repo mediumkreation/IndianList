@@ -472,6 +472,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
+||icetoday.net^*/aura-add-
 ||imgur.com^$third-party,domain=braveindianews.com|nepalipatra.com|news71online.com
 ||ipathram.com^*/newyupp_01ea0.jpg
 ||ipathram.com^*/nkbanner_d3f7c.jpg
