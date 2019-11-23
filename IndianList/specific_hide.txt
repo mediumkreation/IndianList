@@ -241,6 +241,7 @@ bizmandu.com##.biz-header-ad
 nirpakhawaaz.in##.bookingaff
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
+doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
 arthosuchak.com##.category_c_ad
 arthosuchak.com##.category_e_ad
@@ -403,6 +404,7 @@ ukmalayalampathram.com##.top-flash
 muhurtham.com##.top-links-form
 rosemalayalam.com##.top-news-ad
 onlinekhabar.com##.top__ads
+doshdik.com##.top_add
 samacharplus.com##.top_advertize
 gujarattimesusa.com##.topad
 bdkhobor24.com##.topadlft
