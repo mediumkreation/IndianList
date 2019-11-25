@@ -521,6 +521,7 @@ vikatan.com##a[href*="sponsored-content"] + div
 pannagam.com##a[href*="stsstudio.com"]
 eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
+sharebiz.net##a[href*="target="]
 ourmyliddy.com##a[href*="tel:"]
 eelamalar.com##a[href*="thesakkatru.com"]
 visarnews.com##a[href*="tubetamil.com"]
