@@ -226,7 +226,7 @@ enepalese.com##.advt_r
 bspabla.com##.amzn_wdgt
 canvasmagazine.com.bd##.aside_add
 manabadi.co.in##.backg-g
-newsbna.com##.bannar
+newsbna.com,rajshahinews24.com##.bannar
 asianmetronews.com,dcnepal.com,globalmalayalam.com,punjabmailusa.com##.banner
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
