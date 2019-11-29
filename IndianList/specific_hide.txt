@@ -269,6 +269,7 @@ bbc24news.com##.featad
 arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
+sahilonline.net##.flexslider-eid
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
 nepalpati.com##.full-ad-img
