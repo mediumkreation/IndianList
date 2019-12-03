@@ -990,10 +990,13 @@ Ad_.png?$domain=bangladeshonline24.com
 ||reporter.live^*/chunkath-png.png
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rtvonline.com^*/best-300X250.gif
+||rtvonline.com^*/bongo_desktop28.png
 ||rtvonline.com^*/dw_logo1.jpg
+||rtvonline.com^*/fb-Cover-Photo.png
 ||rtvonline.com^*/fsibl.jpg
 ||rtvonline.com^*/ksrm6-4-19.jpg
 ||rtvonline.com^*/linnex9-8-18._new.jpg
+||rtvonline.com^*/shijang.jpg
 ||rtvonline.com^*/shopno_new.jpg
 ||rtvonline.com^*/walton_new.gif
 ||sabjanta.info^*/banner-1.jpg
