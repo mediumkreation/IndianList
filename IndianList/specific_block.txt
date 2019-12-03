@@ -79,6 +79,7 @@
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
+@@||bonikbarta.net^*/970x90-3-acc.gif
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 _336x280.$domain=ajabgjab.com
@@ -292,6 +293,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ||boichitranews24.com^*/ap-2.jpg
 ||boichitranews24.com^*/islamibank.gif
 ||boichitranews24.com^*/walton.jpg
+||bonikbarta.net^*/default_banner/
 ||boxoffice70mm.com^*/bg-1.jpg
 ||bspabla.com^*/happy-blogging.jpg
 ||campuslive24.com^*/BHBFC.jpg
