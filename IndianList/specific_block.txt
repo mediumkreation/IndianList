@@ -33,7 +33,7 @@
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com
 /add.jpg|$domain=sheershakhobor.com
-/add/*$domain=sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com
+/add/*$domain=habiganj-samachar.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
 /AddImages/$domain=thurannakathu.com
 /ADDS-$image,domain=prajapragathi.com
@@ -80,6 +80,7 @@
 ?w=640&$image,domain=himalini.com
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
 @@||bonikbarta.net^*/970x90-3-acc.gif
+@@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 _336x280.$domain=ajabgjab.com
