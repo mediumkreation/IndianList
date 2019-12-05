@@ -401,6 +401,7 @@ alertnews24.com##.text-html
 namasteandhra.com##.three_ads
 pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
+beanibazarnews24.com##.top-add
 thereport24.com##.top-add-left4
 ekuruvi.com##.top-bar-left-nav
 sherpurtimes.com##.top-biggapon
@@ -428,6 +429,7 @@ teluguwishesh.com##.wishesh-add
 narayanionline.com##[alt="advertiesment"]
 arthasarokar.com##[class*="bigyapan"]
 dinakaran.com##[class*="boxad"]
+beanibazarnews24.com##[class^="add-"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
