@@ -7,7 +7,7 @@
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
 -Add-$image,domain=chauthiduniya.com
--add.gif|$image,domain=abcnepal.tv
+-add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
@@ -268,7 +268,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ||bizmandu.com^*/midbanner
 ||bizmandu.com^*/splash
 ||bizmandu.com^*/topbanner
-||blogspot.com^$third-party,domain=manabadi.co.in
+||blogspot.com^$third-party,domain=amarsylhet24.com|manabadi.co.in
 ||blogspot.com^*/1140x100px.gif$domain=arthasarokar.com
 ||blogspot.com^*/1190x104%2B%25281%2529.gif$domain=arthasarokar.com
 ||blogspot.com^*/1190x90.gif$domain=arthasarokar.com
