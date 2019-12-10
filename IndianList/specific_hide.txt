@@ -84,6 +84,7 @@ rosemalayalam.com###myCarousel2
 lankadeepa.lk###myModal1
 saaravita.lk###openModal1
 rojgarlive.com###popup_indiv2
+bhalukanews.com###primary img[alt="ads"]
 manithan.com###recommendations
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
@@ -503,6 +504,7 @@ jamuna.tv##a[href*="ksrm.com.bd"]
 gramajyothi.com##a[href*="lunars.com"]
 akkinikkunchu.com##a[href*="lycamobile.com.au"]
 akkinikkunchu.com##a[href*="lycatv.tv"]
+bhalukanews.com##a[href*="mastercafebd"]
 akkinikkunchu.com##a[href*="mks.net.au"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 akkinikkunchu.com##a[href*="naamtamilar.org.au"]
@@ -561,6 +563,7 @@ indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Fei
 vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
+bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
