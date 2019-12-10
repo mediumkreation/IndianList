@@ -427,9 +427,11 @@ vaarte.com##.vmagazine_medium_ad
 ethiri.com##.widget_ads_easy_widget
 trttamilolli.com##.widget_html_javascript_adder
 chauthiduniya.com,comillarbarta.com##.widget_media_image
+purbelinews.com##.widget_sp_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
 narayanionline.com##[alt="advertiesment"]
+purbelinews.com##[class$="-ads"]
 arthasarokar.com##[class*="bigyapan"]
 dinakaran.com##[class*="boxad"]
 beanibazarnews24.com##[class^="add-"]
