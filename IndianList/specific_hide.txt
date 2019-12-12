@@ -331,6 +331,7 @@ radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
 doolnews.com##.long_adv_area
 jaianndata.com##.main-tp-adds
+vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 gnewsbd24.com##.mainada
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
@@ -416,7 +417,7 @@ rosemalayalam.com##.top-news-ad
 onlinekhabar.com##.top__ads
 doshdik.com##.top_add
 samacharplus.com##.top_advertize
-gujarattimesusa.com##.topad
+gujarattimesusa.com,vijaykarnatakaepaper.com##.topad
 bdkhobor24.com##.topadlft
 dhakatoday.com##.topadr
 bdkhobor24.com,ournewsbd.net##.topadrt
