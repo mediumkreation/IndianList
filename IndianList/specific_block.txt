@@ -26,6 +26,7 @@
 -Banner-$domain=sherpurtimes.com
 -Banner.gif$image,domain=sajhatv.com
 -Banner.jpeg|$domain=telugubullet.com
+-Banner.jpg|$domain=shamolbangla24.com
 -Campaign_$image,domain=publictv.in
 /720x90.gif?$domain=himalini.com
 /AD-$domain=ptbnewsbd.com
@@ -35,6 +36,7 @@
 /add.jpg|$domain=sheershakhobor.com
 /add/*$domain=habiganj-samachar.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
+/add_$domain=shamolbangla24.com
 /AddImages/$domain=thurannakathu.com
 /ADDS-$image,domain=prajapragathi.com
 /Ads-$domain=dailyceylon.com
@@ -1056,6 +1058,7 @@ ads.jpg|$domain=meherpurnews.com
 ||sathyamonline.com^*/Web-banner-Malayalam-728-x-90.jpg
 ||sathyamonline.com^*/Webp.net-gifmaker-2-1.gif
 ||shadhinbangla24.com.bd^*/pubali-bank-2.gif
+||shamolbangla24.com^*/Ad-ok.jpg
 ||shamolbangla24.com^*/Hashem.gif
 ||shamolbangla24.com^*/Hostshine-AD.gif
 ||sharebiz.net^*/2nd-Cup-Final.gif
