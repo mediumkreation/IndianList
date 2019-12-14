@@ -62,6 +62,7 @@
 1140x90.jpg?$domain=osnepal.com
 290x180_c.jpg|$domain=karaihinducanada.com
 300_500.jpg?$domain=osnepal.com
+300X250.jpg|$domain=rtvonline.com
 300x450.jpg?$domain=osnepal.com
 350x250.jpg?$domain=osnepal.com
 36garhi.com^*/IFCO-ad1.jpg
@@ -1027,10 +1028,13 @@ ads.jpg|$domain=meherpurnews.com
 ||rtvonline.com^*/dw_logo1.jpg
 ||rtvonline.com^*/fb-Cover-Photo.png
 ||rtvonline.com^*/fsibl.jpg
+||rtvonline.com^*/ksrm6-12-19.jpg
 ||rtvonline.com^*/ksrm6-4-19.jpg
 ||rtvonline.com^*/linnex9-8-18._new.jpg
 ||rtvonline.com^*/shijang.jpg
+||rtvonline.com^*/SHIjANG_NEW.jpg
 ||rtvonline.com^*/shopno_new.jpg
+||rtvonline.com^*/walton9-12-19.gif
 ||rtvonline.com^*/walton_new.gif
 ||sabjanta.info^*/banner-1.jpg
 ||sabjanta.info^*/SolutiontechBanE.jpg
