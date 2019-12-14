@@ -576,7 +576,7 @@ infosrilankanews.info##html12
 infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 newsdesk24.com##img[alt ='ad']
-hamrokhelkud.com,thahakhabar.com,ujyaaloonline.com##img[alt="ad"]
+hamrokhelkud.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
