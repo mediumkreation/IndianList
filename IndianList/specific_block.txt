@@ -453,7 +453,10 @@ ads.jpg|$domain=meherpurnews.com
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||filmybuzz.com/images/Ecommerce-Website-Design.jpg
+||gbnews24.com/gf.gif
+||gbnews24.com^*/dd1.gif
 ||gbnews24.com^*/nn$image
+||gbnews24.com^*/robi.gif
 ||globalmalayalam.com/images/header_banner.jpg
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
 ||globalsylhet.com^*/inter.jpg
