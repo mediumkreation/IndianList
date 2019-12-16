@@ -86,6 +86,7 @@
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
+@@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
 _336x280.$domain=ajabgjab.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com
 _add.jpg|$domain=politics.lk
@@ -1275,6 +1276,7 @@ ads.jpg|$domain=meherpurnews.com
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
 ||wp.com^$image,domain=torontotamil.com
+||wp.com^$third-party,domain=radionrn.com
 ||wp.com^*/add$image,domain=loksansar.in
 ||wp.com^*/ADD-03$domain=mymensinghpratidin.com
 ||wp.com^*/anil-jee$domain=osnepal.com
