@@ -1026,6 +1026,7 @@ ads.jpg|$domain=meherpurnews.com
 ||raxcdn.com/media/*.gif|$third-party,domain=thahakhabar.com
 ||reporter.live^*/chungath-300.jpg
 ||reporter.live^*/chunkath-png.png
+||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rtvonline.com^*/best-300X250.gif
 ||rtvonline.com^*/bongo_desktop28.png
