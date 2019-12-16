@@ -447,6 +447,7 @@ beanibazarnews24.com##[class^="add-"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
+irinjalakuda.com##a.td_spot_img_all
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
 bangladeshonline24.com##a[href*=".ac.bd"]
