@@ -886,6 +886,8 @@ ads.jpg|$domain=meherpurnews.com
 ||paristamil.com/info$image
 ||paristamil.com/info_images/ta_client$image
 ||paristamil.com/layout_images/index/acs30x25.jpg
+||pba.agency^*/brangkings-400.jpg
+||pba.agency^*/lpg-ads-final.jpg
 ||pchelpcenterbd.com^*/domain-hosting.png
 ||pchelpcenterbd.com^*/Linux-Host-Lab-300x300_4.gif
 ||pchelpcenterbd.com^*/LinuxHostLab700x100_4.gif
