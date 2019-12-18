@@ -1,6 +1,6 @@
 ||admana.net$third-party
 ||admitad.com^$third-party,domain=hellonepalkorea.com
-||adstudio.cloud^$third-party,domain=ada.lk|aperata.net|dinamina.lk|lankadeepa.lk|lankanewsweb.net|madawalaenews.com|saaravita.lk|silumina.lk
+||adstudio.cloud^$third-party
 ||desipearl.com^$third-party,domain=malabarinews.com
 ||gceleritasads.com^$third-party
 ||tinkerta.com^$third-party
