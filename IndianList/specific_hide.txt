@@ -581,6 +581,7 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
+scotnepal.com##div.vc_single_image-wrapper
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 infosrilankanews.info##html12
