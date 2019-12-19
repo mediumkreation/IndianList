@@ -290,8 +290,10 @@ ads.jpg|$domain=meherpurnews.com
 ||blogspot.com^*/garima%2Bbank%2Bartha%2Bsarokar.gif$domain=arthasarokar.com
 ||blogspot.com^*/KitabYatra_Gif$domain=arthasarokar.com
 ||blogspot.com^*/LIYA%2BADVT.PNG$domain=arthasarokar.com
+||blogspot.com^*/logo.gif$domain=pungudutivu.info
 ||blogspot.com^*/Machhabank.gif$domain=arthasarokar.com
 ||blogspot.com^*/nepal%2Blife.gif$domain=arthasarokar.com
+||blogspot.com^*/output_lankann.gif$domain=pungudutivu.info
 ||blogspot.com^*/prabhu%2Bfinal.gif$domain=arthasarokar.com
 ||blogspot.com^*/r.gif$domain=arthasarokar.com
 ||blogspot.com^*/s1600/01.jpg$domain=arghakhanchi.com
@@ -306,6 +308,8 @@ ads.jpg|$domain=meherpurnews.com
 ||blogspot.com^*/s1600/40196834_1127894217359436_8911726332228927488_n%2B%25281%2529.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/s1600/51818483_401216183974971_7705428326982090752_o.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/s1600/FotoFlexer_Photo.jpg$domain=arghakhanchi.com
+||blogspot.com^*/sunwc.gif$domain=pungudutivu.info
+||blogspot.com^*/tamilmarn.gif$domain=pungudutivu.info
 ||blogspot.com^*web%2Bad$domain=vallikkunnu.com
 ||blogvarta.com/images/viewmefast.png
 ||boichitranews24.com^*/ap-2.jpg
