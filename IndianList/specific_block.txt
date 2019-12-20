@@ -1291,6 +1291,7 @@ ads.jpg|$domain=meherpurnews.com
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
 ||wp.com^$image,domain=torontotamil.com
 ||wp.com^$third-party,domain=radionrn.com
+||wp.com^*/250-x-350.jpg$domain=tnn.lk
 ||wp.com^*/add$image,domain=loksansar.in
 ||wp.com^*/ADD-03$domain=mymensinghpratidin.com
 ||wp.com^*/anil-jee$domain=osnepal.com
