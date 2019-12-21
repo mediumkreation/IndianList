@@ -52,6 +52,7 @@
 /bannersads/$domain=namasteandhra.com
 /bigyapan/*$domain=setopati.com
 /block_$image,domain=ntvtelugu.com
+/bn/add/*$domain=24updatenews.com
 /malabarinews.com^*/isha-chamyam.gif
 /mbl-$image,domain=ppbd.news
 /offers/*$image,domain=priyo.com
