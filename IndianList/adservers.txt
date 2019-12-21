@@ -3,5 +3,6 @@
 ||adstudio.cloud^$third-party
 ||desipearl.com^$third-party,domain=malabarinews.com
 ||gceleritasads.com^$third-party
+||limray.com^$third-party,domain=uttranews.com
 ||tinkerta.com^$third-party
 ||wizardsbd.com^$third-party

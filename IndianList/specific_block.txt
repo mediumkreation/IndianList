@@ -1300,13 +1300,17 @@ ads.jpg|$domain=meherpurnews.com
 ||wp.com^*/cjmc-new-add-$domain=pariwartankhabar.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
 ||wp.com^*/icb.gif$domain=dhakanews24.com
+||wp.com^*/IMG-20181101-WA0043.jpg$domain=uttranews.com
 ||wp.com^*/kagajpatra_ad-TP$domain=osnepal.com
+||wp.com^*/kumaun-jwellers.jpg$domain=uttranews.com
 ||wp.com^*/Liberty-Tax-Service11$domain=osnepal.com
+||wp.com^*/lic.jpeg$domain=uttranews.com
 ||wp.com^*/marrymatching.jpg$domain=sabguru.com
 ||wp.com^*/Motherland-Nepal$domain=osnepal.com
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
 ||wp.com^*/purano-nulet$domain=osnepal.com
+||wp.com^*/shivalik-river-retreat.jpg$domain=uttranews.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
 ||wp.com^*/visit-nepal-$domain=pariwartankhabar.com
