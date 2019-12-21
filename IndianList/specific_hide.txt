@@ -445,6 +445,7 @@ chauthiduniya.com,comillarbarta.com##.widget_media_image
 purbelinews.com##.widget_sp_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
+uttranews.com##.wpcnt
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
 arthasarokar.com##[class*="bigyapan"]
