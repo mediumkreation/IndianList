@@ -1313,6 +1313,7 @@ ads.jpg|$domain=meherpurnews.com
 ||wp.com^*/Motherland-Nepal$domain=osnepal.com
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
+||wp.com^*/Orthozen_NewsSide_Kannada.png$domain=tv5kannada.com
 ||wp.com^*/purano-nulet$domain=osnepal.com
 ||wp.com^*/shivalik-river-retreat.jpg$domain=uttranews.com
 ||wp.com^*/shubha-love$domain=osnepal.com
