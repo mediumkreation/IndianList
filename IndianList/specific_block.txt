@@ -909,6 +909,7 @@ ads.jpg|$domain=meherpurnews.com
 ||polikai.com^*/makalsports.jpg
 ||polikai.com^*/misad300x250.gif
 ||polikai.com^*/sivantv.jpg
+||popupmaker.com^$third-party,domain=vijayavani.net
 ||ppbd.news^*/Bashundhara-Cement.png
 ||ppbd.news^*/citybank.png
 ||ppbd.news^*/goodManTravels.gif
