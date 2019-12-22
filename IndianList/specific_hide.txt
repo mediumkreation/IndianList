@@ -101,7 +101,7 @@ medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,muslimkural.com,tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
 swisspungudutivu.com,tamil.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,tnilive.com###text-14
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,porospor.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com,vanakkamlondon.com###text-17
@@ -139,7 +139,7 @@ anaicoddai.com###text-58
 dailypunjabtimes.com,medianp.com###text-6
 vanakkamlondon.com###text-7
 globaltamilnews.net,muslimkural.com###text-8
-muslimkural.com,vaarte.com###text-9
+muslimkural.com,porospor.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 bdtoday24.com###text-html-widget-25
