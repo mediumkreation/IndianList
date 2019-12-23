@@ -519,6 +519,9 @@ ads.jpg|$domain=meherpurnews.com
 ||icetoday.net^*/aura-add-
 ||imageshack.com^$third-party,domain=karaitivunews.com
 ||imgur.com^$third-party,domain=braveindianews.com|nepalipatra.com|news71online.com
+||industryhit.com^*/1140b-2-1-1-1-1.jpg
+||industryhit.com^*/ad1-1-1-1-1-1-1-1.jpg
+||industryhit.com^*/LP-e$image
 ||ipathram.com^*/newyupp_01ea0.jpg
 ||ipathram.com^*/nkbanner_d3f7c.jpg
 ||ipathram.com^*/spicebazar_ad_cfcad.jpg
