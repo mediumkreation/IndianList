@@ -141,7 +141,7 @@ anaicoddai.com###text-58
 dailypunjabtimes.com,medianp.com###text-6
 vanakkamlondon.com###text-7
 globaltamilnews.net,muslimkural.com###text-8
-muslimkural.com,porospor.com,vaarte.com###text-9
+muslimkural.com,porospor.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 bdtoday24.com###text-html-widget-25
@@ -366,6 +366,7 @@ nepalkhabar.com##.nk-sidebar-ads
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 sathyamonline.com##.nsads
+shreekanchanpath.com##.nv-header-ads-area
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
