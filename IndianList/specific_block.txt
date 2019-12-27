@@ -469,6 +469,7 @@ ads.jpg|$domain=meherpurnews.com
 ||gbnews24.com^*/dd1.gif
 ||gbnews24.com^*/nn$image
 ||gbnews24.com^*/robi.gif
+||giphy.com^$third-party,domain=shreekanchanpath.com
 ||globalmalayalam.com/images/header_banner.jpg
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
 ||globalsylhet.com^*/inter.jpg
@@ -1121,6 +1122,10 @@ ads.jpg|$domain=meherpurnews.com
 ||shobshomoy.com^*/Marchblink725X60.jpg
 ||shobshomoy.com^*/robi407x75.gif
 ||shortpixel.ai^$domain=dainiksylhet.com
+||shreekanchanpath.com/wp-content/uploads/2019/11/New-Era
+||shreekanchanpath.com^*/Protien-World-Video_snip.jpg
+||shreekanchanpath.com^*/WhatsApp-Image-2019-12-22-at-4.33.52-PM.jpeg
+||shreekanchanpath.com^*/WhatsApp-Image-2019-12-26-at-12.06.03-655x1024.jpeg
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
 ||sivantv.com^*/3.gif
