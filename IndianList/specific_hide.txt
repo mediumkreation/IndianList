@@ -452,6 +452,7 @@ chauthiduniya.com,comillarbarta.com##.widget_media_image
 purbelinews.com##.widget_sp_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
+sajagindia.com##.wpb_raw_code
 uttranews.com##.wpcnt
 tollywood.net##[alt*=" ad"]
 narayanionline.com##[alt="advertiesment"]
@@ -566,6 +567,7 @@ channelionline.com##a[href*="thepalacelife.com/"]
 eelamalar.com##a[href*="thesakkatru.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
+sajagindia.com##a[href*="uihmt.com"]
 reporter.live##a[href*="utm_medium=banner"]
 uttranews.com##a[href*="uttranews.com/ad-"]
 tnews247.com##a[href*="valokichu.com"]
