@@ -8,7 +8,7 @@
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
 -Add-$image,domain=chauthiduniya.com
--add-$image,domain=dainikazadi.net
+-add-$image,domain=dainikazadi.net|samarneetinews.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
