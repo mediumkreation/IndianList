@@ -183,6 +183,7 @@ ads.jpg|$domain=meherpurnews.com
 ||ajkerpatrika.com^*/Probashi-Palli_3.png
 ||ajkerpatrika.com^*/sjibl.gif
 ||ajkersylhet.com^*/Leading-Univercity-1.jpg
+||amazonaws.com/deshsanchar*/nibl_240x103.gif
 ||andhravilas.net/images/mahi130x200.gif
 ||appusami.com^*/Thejomaya%20Ad1.jpg
 ||appusami.com^*/Thejomaya%20Ad2.jpg
@@ -275,7 +276,7 @@ ads.jpg|$domain=meherpurnews.com
 ||bideshbangla24.com^*/IMG_2701
 ||bideshbangla24.com^*/IMG_2820
 ||bigyapan.hamropatro.com$third-party,domain=himalkhabar.com|ratopati.com
-||bigyapan.hamropatro.com^$third-party,domain=ujyaaloonline.com
+||bigyapan.hamropatro.com^$third-party,domain=deshsanchar.com|ujyaaloonline.com
 ||biharnews24.com/images/0.jpg
 ||biharnews24.com/images/1.jpg
 ||biyanitimes.com^*/biyanitimes1.jpg

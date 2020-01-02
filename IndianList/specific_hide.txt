@@ -601,6 +601,7 @@ achhikhabar.com##div[id^="achhi-"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
+deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
 hamrokhelkud.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
