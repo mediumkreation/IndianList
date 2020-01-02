@@ -457,6 +457,7 @@ uttranews.com##.wpcnt
 tollywood.net##[alt*=" ad"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
+kendrabindu.com##[class*="_coffee"]
 arthasarokar.com##[class*="bigyapan"]
 dinakaran.com##[class*="boxad"]
 beanibazarnews24.com##[class^="add-"]
