@@ -227,6 +227,7 @@ ada.lk##.advert-single
 dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
+bikashnews.com##.advertise
 nobat.com##.advertise-ifrme
 bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net##.advertisement
 bdipo.com##.advertisements
@@ -348,6 +349,7 @@ fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
 gnewsbd24.com##.maniio
 divyamarathi.bhaskar.com##.mb_ads_title
+bikashnews.com##.menu_ad
 ekuruvi.com##.mid-had
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
