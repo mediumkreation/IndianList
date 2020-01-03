@@ -74,8 +74,9 @@ banglatelegraph.com,sasthabangla.com###media_image-2
 bangladaily24.com,globalsylhet.com,sasthabangla.com###media_image-3
 sasthabangla.com###media_image-4
 sasthabangla.com###media_image-6
+filmybahar.com###media_image-7
 dhakardak-bd.com,sasthabangla.com###media_image-8
-dhakardak-bd.com###media_image-9
+dhakardak-bd.com,filmybahar.com###media_image-9
 legendnews.in###metaslider_703
 legendnews.in###metaslider_709
 legendnews.in###metaslider_714
