@@ -1,6 +1,7 @@
 -300x300.$domain=ajabgjab.com
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
+-ad-new.jpeg|$domain=swatvasamachar.com
 -ad.gif|$domain=5dariyanews.com|sharetimes24.com
 -ad.jpg|$domain=channelionline.com|dirt-sheet.com|sharetimes24.com|thebarta24.com
 -Ad.jpg|$domain=dirt-sheet.com
