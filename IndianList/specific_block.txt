@@ -652,6 +652,7 @@ Banner-$image,domain=reportersnepal.com
 ||kinige.com/images/klogo.png$domain=jalleda.com
 ||kishoreganjnews.com/asset/images/citylab.jpg
 ||kishoreganjnews.com/niramoy.jpg
+||krishnanews.com^*/IMG-20190511-WA0001.jpg
 ||kuakatanews.com^*/1-300x250.png
 ||kuakatanews.com^*/2-5-300x150.jpg
 ||lankadeepa.lk^*/advr_880ca80979.jpg
