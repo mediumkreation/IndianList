@@ -278,8 +278,8 @@ nethgossip.lk##.display-lap
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 manabadi.co.in##.dsc-banners
-gvtjob.com,yarlosai.com##.e3lan-below_header
-ceylonradio.co.uk##.e3lan-top
+gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
+ceylonradio.co.uk,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
