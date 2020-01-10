@@ -49,6 +49,7 @@
 /ads/*$domain=andhrapatrika.in
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
+/adv-$domain=devbhoomimedia.com
 /advertesment/*$image,domain=projonmokantho.com
 /ADVT-$domain=jaianndata.com
 /banner-$image,domain=bikashnews.com
