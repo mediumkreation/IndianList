@@ -279,6 +279,7 @@ ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 manabadi.co.in##.dsc-banners
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
+news127.com##.e3lan-bottom
 news127.com##.e3lan-post
 ceylonradio.co.uk,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
@@ -292,6 +293,7 @@ arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
 sahilonline.net##.flexslider-eid
+news127.com##.footer-bottom
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
 nepalpati.com##.full-ad-img
