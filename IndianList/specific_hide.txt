@@ -470,7 +470,7 @@ purbelinews.com##.widget_sp_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
 sajagindia.com##.wpb_raw_code
-uttranews.com##.wpcnt
+devbhoomimedia.com,uttranews.com##.wpcnt
 tollywood.net##[alt*=" ad"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
