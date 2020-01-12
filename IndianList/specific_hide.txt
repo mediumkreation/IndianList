@@ -233,7 +233,7 @@ narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bikashnews.com##.advertise
 nobat.com##.advertise-ifrme
-bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net##.advertisement
+bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net,timesofmalwa.in##.advertisement
 bdipo.com##.advertisements
 divaina.com##.advertisments
 dainiksylhet.com##.advsingle
