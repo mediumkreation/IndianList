@@ -343,6 +343,7 @@ Banner-$image,domain=reportersnepal.com
 ||blogspot.com^*/1190x104%2B%25281%2529.gif$domain=arthasarokar.com
 ||blogspot.com^*/1190x90.gif$domain=arthasarokar.com
 ||blogspot.com^*/1200X100%2B%25282%2529.gif$domain=arthasarokar.com
+||blogspot.com^*/250x250-$domain=timesofmalwa.in
 ||blogspot.com^*/bfs.gif$domain=arthasarokar.com
 ||blogspot.com^*/century-bank-final.gif$domain=arthasarokar.com
 ||blogspot.com^*/City%2Bbag%2Bcopy.png$domain=arthasarokar.com
