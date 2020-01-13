@@ -240,6 +240,7 @@ dainiksylhet.com##.advsingle
 dainiknepal.com,enepalese.com##.advt_bx
 enepalese.com##.advt_r
 osnepal.com##.alignnone.size-full
+hulchalnews24.com##.alignnone.size-medium
 bspabla.com##.amzn_wdgt
 canvasmagazine.com.bd##.aside_add
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
