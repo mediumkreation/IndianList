@@ -47,6 +47,8 @@ udayavani.com###ads
 seithy.com###ads400px
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
+andhrajyothy.com###aimgMain
+andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
 ilamai.com###banner
 sakshi.com###block-block-141--2
@@ -240,6 +242,7 @@ bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com
 bdipo.com##.advertisements
 divaina.com##.advertisments
 dainiksylhet.com##.advsingle
+andhrajyothy.com##.advt-bg
 dainiknepal.com,enepalese.com##.advt_bx
 enepalese.com##.advt_r
 osnepal.com##.alignnone.size-full
