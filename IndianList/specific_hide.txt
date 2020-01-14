@@ -92,6 +92,7 @@ saaravita.lk###openModal1
 rojgarlive.com###popup_indiv2
 bhalukanews.com###primary img[alt="ads"]
 manithan.com###recommendations
+dinamalar.com###selum
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
 makkalkural.net###slider
@@ -614,6 +615,7 @@ indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Fei
 vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
+dinamalar.com##amp-embed[type="taboola"]
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
