@@ -55,6 +55,7 @@ tamilvoicenews.com###custom_html-2
 bdcrictime.com,techtamil.com###custom_html-5
 aajtak24live.in,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
+pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
 elokasha.com###eloka-google
 jaianndata.com###gdgallery-container-2
@@ -618,6 +619,7 @@ ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+pudhari.news##div[id^="taboola-article-thumbnails-"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
