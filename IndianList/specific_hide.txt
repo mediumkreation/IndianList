@@ -47,6 +47,8 @@ udayavani.com###ads
 seithy.com###ads400px
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
+andhrajyothy.com###aimgMain
+andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
 ilamai.com###banner
 sakshi.com###block-block-141--2
@@ -55,6 +57,7 @@ tamilvoicenews.com###custom_html-2
 bdcrictime.com,techtamil.com###custom_html-5
 aajtak24live.in,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
+pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
 elokasha.com###eloka-google
 jaianndata.com###gdgallery-container-2
@@ -91,6 +94,7 @@ saaravita.lk###openModal1
 rojgarlive.com###popup_indiv2
 bhalukanews.com###primary img[alt="ads"]
 manithan.com###recommendations
+dinamalar.com###selum
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
 makkalkural.net###slider
@@ -159,6 +163,7 @@ janamsakshi.org###toprightAd
 pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
+samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
 dainiksylhet.com##.DAdd
 ajkermymensingh.com##.DHeaderBanner
@@ -184,7 +189,7 @@ pchelplinebd.com##.adcontainer
 ajkersylhet.com,dailysports24.com,kannada.news18.com,sharebiz.net,somoyerkantha.com,sudinamonline.com##.add
 jaianndata.com##.add-block
 ajkersylhet.com##.add-image
-sheershanews.com##.add-inner
+khabar247.com,sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
 thebengalitimes.com##.add-sec
@@ -233,18 +238,20 @@ narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bikashnews.com##.advertise
 nobat.com##.advertise-ifrme
-bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net##.advertisement
+bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net,timesofmalwa.in##.advertisement
 bdipo.com##.advertisements
 divaina.com##.advertisments
 dainiksylhet.com##.advsingle
+andhrajyothy.com##.advt-bg
 dainiknepal.com,enepalese.com##.advt_bx
 enepalese.com##.advt_r
 osnepal.com##.alignnone.size-full
+hulchalnews24.com##.alignnone.size-medium
 bspabla.com##.amzn_wdgt
 canvasmagazine.com.bd##.aside_add
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 manabadi.co.in##.backg-g
-newsbna.com,newspabna.com,rajshahinews24.com##.bannar
+alokitoteknaf.com,newsbna.com,newspabna.com,rajshahinews24.com##.bannar
 asianmetronews.com,dcnepal.com,globalmalayalam.com,punjabmailusa.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 musicjoymedia.com##.banner-half
@@ -462,6 +469,8 @@ tamilcinemaz.com##.vl-header-ads
 tnilive.com##.vmagazine_lite_medium_ad
 vaarte.com##.vmagazine_medium_ad
 dainikazadi.net##.w3-top-ads-desktop
+vikatan.com##.widget300xauto
+vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 ethiri.com##.widget_ads_easy_widget
 trttamilolli.com##.widget_html_javascript_adder
@@ -470,7 +479,7 @@ purbelinews.com##.widget_sp_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
 sajagindia.com##.wpb_raw_code
-uttranews.com##.wpcnt
+devbhoomimedia.com,uttranews.com##.wpcnt
 tollywood.net##[alt*=" ad"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
@@ -613,11 +622,13 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 pressmirchi.com##adnblock
+dinamalar.com##amp-embed[type="taboola"]
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+pudhari.news##div[id^="taboola-article-thumbnails-"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]

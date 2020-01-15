@@ -35,7 +35,10 @@
 -Campaign_$image,domain=publictv.in
 /720x90.gif?$domain=himalini.com
 /AD-$domain=ptbnewsbd.com
+/ad-*-300$domain=pahareralo.com
+/ad-*x300$domain=pahareralo.com
 /ad-jd-$domain=jaianndata.com
+/ad-saint$domain=pahareralo.com
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com
 /add.jpg|$domain=sheershakhobor.com
@@ -49,8 +52,10 @@
 /ads/*$domain=andhrapatrika.in
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
+/adv-$domain=devbhoomimedia.com
 /advertesment/*$image,domain=projonmokantho.com
 /ADVT-$domain=jaianndata.com
+/ajadds/$domain=andhrajyothy.com
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
@@ -342,6 +347,7 @@ Banner-$image,domain=reportersnepal.com
 ||blogspot.com^*/1190x104%2B%25281%2529.gif$domain=arthasarokar.com
 ||blogspot.com^*/1190x90.gif$domain=arthasarokar.com
 ||blogspot.com^*/1200X100%2B%25282%2529.gif$domain=arthasarokar.com
+||blogspot.com^*/250x250-$domain=timesofmalwa.in
 ||blogspot.com^*/bfs.gif$domain=arthasarokar.com
 ||blogspot.com^*/century-bank-final.gif$domain=arthasarokar.com
 ||blogspot.com^*/City%2Bbag%2Bcopy.png$domain=arthasarokar.com
@@ -914,6 +920,7 @@ Banner-$image,domain=reportersnepal.com
 ||newschattogram24.com^*/babul-kaba-hajj-
 ||newschattogram24.com^*/final-png.png
 ||newschattogram24.com^*/Screenshot_14
+||newscoxsbazar.com^*/radient-fish-world-02.19.jpg
 ||newsdesk24.com^*/local_ad_
 ||newsmoments.in^*/Chemmannur.jpg
 ||newsstate.com^*/webtech.gif
@@ -968,6 +975,8 @@ Banner-$image,domain=reportersnepal.com
 ||pahar24.com^*/microwebtechnology.png
 ||pahar24.com^*/web-banner-2
 ||pahar24.com^*/zillaparishad_sm.jpg
+||pahareralo.com^*/banner-212x300.jpg
+||pahareralo.com^*/banner.jpg
 ||pahilopost.com^*/headbanner/
 ||pahilopost.com^*/midadvertise/
 ||paristamil.com/box_client1.php
@@ -1205,6 +1214,8 @@ Banner-$image,domain=reportersnepal.com
 ||shreekanchanpath.com^*/Protien-World-Video_snip.jpg
 ||shreekanchanpath.com^*/WhatsApp-Image-2019-12-22-at-4.33.52-PM.jpeg
 ||shreekanchanpath.com^*/WhatsApp-Image-2019-12-26-at-12.06.03-655x1024.jpeg
+||sidelook.in^*/2019/01/9$image
+||sidelook.in^*/JP-Tecno-Park-2-copy
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
 ||sivantv.com^*/3.gif
