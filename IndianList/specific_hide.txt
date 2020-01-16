@@ -286,6 +286,7 @@ kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 nethgossip.lk##.display-lap
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
+prajavani.net##.dk_only
 manabadi.co.in##.dsc-banners
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 news127.com##.e3lan-bottom
@@ -376,6 +377,7 @@ nepalesediaspora.com##.midads
 rosemalayalam.com##.middle_add_image_top
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
+prajavani.net##.mob_only
 bn24live.in##.mom-e3lanat-wrap
 odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
