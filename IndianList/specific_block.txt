@@ -40,7 +40,7 @@
 /ad-jd-$domain=jaianndata.com
 /ad-saint$domain=pahareralo.com
 /ad.gif?$domain=himalini.com
-/ad.jpg|$domain=banglapostbd.com|bbc24news.com
+/ad.jpg|$domain=banglapostbd.com|bbc24news.com|teknafnews24.com
 /add.jpg|$domain=sheershakhobor.com
 /add/*$domain=habiganj-samachar.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
@@ -1262,6 +1262,7 @@ Banner-$image,domain=reportersnepal.com
 ||tamilvoicenews.com^*/cinefield300x250-1.gif
 ||tamilvoicenews.com^*/tamiltv300x250-1.gif
 ||tarunbharat.com^*/add-
+||teknafnews24.com^*/71489491_496192041171769_5843779348145897472_n.jpg
 ||telugumirchi.com^*/majili-banner.jpg
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
