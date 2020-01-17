@@ -29,6 +29,7 @@
 -Banner-$domain=sherpurtimes.com
 -Banner-$image,domain=bikashnews.com
 -Banner.gif$image,domain=sajhatv.com
+-banner.gif|$domain=teknafnews71.com
 -Banner.jpeg|$domain=telugubullet.com
 -Banner.jpg|$domain=shamolbangla24.com
 -Banner_$image,domain=bikashnews.com
