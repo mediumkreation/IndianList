@@ -1273,6 +1273,7 @@ Banner-$image,domain=reportersnepal.com
 ||telugunris.com^*add-banner
 ||telugutimes.net/images/bayarea/
 ||telugutimes.net/images/realestate/
+||telugutimes.net/images/ritepros.jpg
 ||teluguwishesh.com^*/igreetnow.jpg
 ||teluguwishesh.com^*/lenspick2.jpg
 ||teluguwishesh.com^*/right-ad300x250-olay.jpg
