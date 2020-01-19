@@ -448,6 +448,7 @@ loksansar.in##.td-adspot-title + a
 politics.lk##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 pagetamil.com##.td-header-sp-recs
+haldwanilive.com##.td-ss-main-sidebar
 vijayavani.net##.td_spot_img_all
 alertnews24.com##.text-html
 namasteandhra.com##.three_ads
@@ -485,6 +486,19 @@ chauthiduniya.com,comillarbarta.com##.widget_media_image
 purbelinews.com##.widget_sp_image
 36garhi.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
+haldwanilive.com##.wp-image-11804
+haldwanilive.com##.wp-image-12006
+haldwanilive.com##.wp-image-13563
+haldwanilive.com##.wp-image-14949
+haldwanilive.com##.wp-image-15579
+haldwanilive.com##.wp-image-17023
+haldwanilive.com##.wp-image-19962
+haldwanilive.com##.wp-image-23270
+haldwanilive.com##.wp-image-24832
+haldwanilive.com##.wp-image-25412
+haldwanilive.com##.wp-image-25705
+haldwanilive.com##.wp-image-26920
+haldwanilive.com##.wp-image-28396
 sajagindia.com##.wpb_raw_code
 devbhoomimedia.com,uttranews.com##.wpcnt
 tollywood.net##[alt*=" ad"]

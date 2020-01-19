@@ -23,6 +23,7 @@
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
 -advert.jpg|$domain=samakalam.com
+-advt-$domain=haldwanilive.com
 -Advt-$domain=sanjevani.com
 -bannar.jpg|$domain=kurigramlive.com
 -banner-$domain=channelionline.com
@@ -555,6 +556,9 @@ Banner-$image,domain=reportersnepal.com
 ||habiganjexpress.com^*/AD-.jpg
 ||habiganjexpress.com^*/AD-2.jpg
 ||habiganjexpress.com^*/biggapon.gif
+||haldwanilive.com^*/12-1-1024x626.jpg
+||haldwanilive.com^*/admission-open-abm
+||haldwanilive.com^*/max-face-clinic
 ||hamrokhelkud.com^*/Annal-Jyoti.gif
 ||hamrokhelkud.com^*/casa.gif
 ||hamrokhelkud.com^*/century.jpg
