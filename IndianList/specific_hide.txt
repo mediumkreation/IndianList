@@ -663,5 +663,6 @@ gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
 pressnote.in##img[alt^="Advert"]
 dhakatoday.com##img[src*="mediabell.net"]
+dainiki.com##section img.attachment-full
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
