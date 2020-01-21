@@ -43,6 +43,7 @@
 /ad-saint$domain=pahareralo.com
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com|teknafnews24.com
+/ADD.jpg|$domain=gourbarta24.com
 /add.jpg|$domain=sheershakhobor.com
 /add/*$domain=habiganj-samachar.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com
 /add/*$image,domain=poriborton.com|sharenews24.com|thereport24.com|u71news.com
@@ -106,7 +107,7 @@
 _300-x$image,domain=bikashnews.com
 _336x280.$domain=ajabgjab.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com
-_add.jpg|$domain=politics.lk
+_add.jpg|$domain=gourbarta24.com|politics.lk
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
 _n.jpg|$domain=hmnews24.com
@@ -548,6 +549,8 @@ Banner-$image,domain=reportersnepal.com
 ||globalsylhet.com^*/inter.jpg
 ||globalsylhet.com^*/vad-
 ||goo.gl^$image,domain=kvartha.com
+||gourbarta24.com^*/bijoy$image
+||gourbarta24.com^*/Royel-School-Colleg-Liflet-
 ||gujaratabroad.ca^*/imperial%20pest%20control.jpg
 ||gulfmalayaly.com^*/naseem-$image
 ||guruchandali.com^*/guru_collegest1.png
