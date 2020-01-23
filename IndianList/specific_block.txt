@@ -71,6 +71,7 @@
 /offers/*$image,domain=priyo.com
 /output_$image,domain=tamiltradepost.com
 /rec728.jpg|$domain=politics.lk
+/robiad/$domain=bd-pratidin.com
 /sponsors/*$image,domain=wahcricket.com
 1140-x-100_px.jpg?$domain=osnepal.com
 1140X100.gif|$domain=nayapage.com
