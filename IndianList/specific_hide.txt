@@ -273,6 +273,7 @@ valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
 arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
+sankathi24.com##.block-adverts
 nirpakhawaaz.in##.bookingaff
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
