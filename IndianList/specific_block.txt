@@ -11,6 +11,7 @@
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|samarneetinews.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
+-add.jpg|$domain=teluguwishesh.com
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
