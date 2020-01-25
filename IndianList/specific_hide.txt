@@ -40,6 +40,8 @@ nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 thattungal.com###Image9
 poonththalir.blogspot.com###LinkList21
+puthiyathalaimurai.com###__ads1
+puthiyathalaimurai.com###__ads2
 malabarflash.com###ad
 thereport24.com###add-place
 professorsbd.com###addv
@@ -317,6 +319,7 @@ sahilonline.net##.flexslider-eid
 news127.com##.footer-bottom
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
+puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 dcnepal.com##.full-banner
