@@ -113,6 +113,7 @@ _ad.jpg|$domain=sharetimes24.com|thebarta24.com
 _add.jpg|$domain=gourbarta24.com|politics.lk
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
+_banner_$domain=neplays.com
 _n.jpg|$domain=hmnews24.com
 Ad.gif|$domain=reportersnepal.com
 Ad_.png?$domain=bangladeshonline24.com
@@ -893,6 +894,12 @@ Banner-$image,domain=reportersnepal.com
 ||nepalsandesh.com^*650x338.jpeg
 ||nepalsandesh.com^*768x399.jpeg
 ||nepalsandesh.com^*SUNRISE.gif
+||neplays.com^*/century-final.gif
+||neplays.com^*/daami-music.gif
+||neplays.com^*/kelme.gif
+||neplays.com^*/Mount.gif
+||neplays.com^*/NLIC-02.gif
+||neplays.com^*/RBB.gif
 ||nethfm.lk/banners/$domain=nethgossip.lk
 ||netrigun.com^*-316x120
 ||netrigun.com^*/3251gif-kadi.gif
