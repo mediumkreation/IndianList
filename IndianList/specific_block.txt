@@ -558,7 +558,7 @@ Banner-$image,domain=reportersnepal.com
 ||gbnews24.com^*/dd1.gif
 ||gbnews24.com^*/nn$image
 ||gbnews24.com^*/robi.gif
-||giphy.com^$third-party,domain=shreekanchanpath.com
+||giphy.com^$third-party,domain=shreekanchanpath.com|uttareralo24.com
 ||globalmalayalam.com/images/header_banner.jpg
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
 ||globalsylhet.com^*/inter.jpg
