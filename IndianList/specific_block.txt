@@ -285,6 +285,7 @@ Banner-$image,domain=reportersnepal.com
 ||bccfalna.com/BccFalnaAD.png
 ||bd-journal.com^*/sibl_web.gif
 ||bd-journal.com^*/walton5-3-19.gif
+||bdcurrentnews24.com^*/newspaper-rec$image
 ||bdmorning.com/public/adds/
 ||bdmorning.com^*/walton.gif
 ||bdnewsdesk.com/images/star_cure.jpg
