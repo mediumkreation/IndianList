@@ -115,6 +115,7 @@ _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
 _banner_$domain=neplays.com
 _n.jpg|$domain=hmnews24.com
+ad.gif|$domain=gobikhobor.com
 Ad.gif|$domain=reportersnepal.com
 Ad_.png?$domain=bangladeshonline24.com
 ads.jpg|$domain=meherpurnews.com
@@ -565,6 +566,8 @@ Banner-$image,domain=reportersnepal.com
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
 ||globalsylhet.com^*/inter.jpg
 ||globalsylhet.com^*/vad-
+||gobikhobor.com^*/3-11.jpg
+||gobikhobor.com^*/FB_IMG_1522395982074.jpg
 ||goo.gl^$image,domain=kvartha.com
 ||gourbarta24.com^*/bijoy$image
 ||gourbarta24.com^*/Royel-School-Colleg-Liflet-
