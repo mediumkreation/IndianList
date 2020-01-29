@@ -114,7 +114,8 @@ _add.jpg|$domain=gourbarta24.com|politics.lk
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
 _banner_$domain=neplays.com
-_n.jpg|$domain=hmnews24.com
+_n-300x277.jpg|$domain=barishalcrimenews.com
+_n.jpg|$domain=barishalcrimenews.com|hmnews24.com
 ad.gif|$domain=gobikhobor.com
 Ad.gif|$domain=reportersnepal.com
 Ad_.png?$domain=bangladeshonline24.com
@@ -273,6 +274,7 @@ Banner-$image,domain=reportersnepal.com
 ||banglatimes.com^*/s.jpg
 ||bankingkhabar.com^*/1140X100.gif
 ||bankingkhabar.com^*/810x90.gif
+||barishalcrimenews.com^*/Ad$image
 ||barishaltimes.com^*/Anchor-2.png
 ||barishaltimes.com^*/Arafat-Paint.png
 ||barishaltimes.com^*/MEP-Gang-Such.jpg
