@@ -71,6 +71,7 @@ sachkaujala.com###herald_video_widget-2
 tamilcinemaz.com###itro_opaco
 tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
+edainikpurbokone.net###left-top-holder
 bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
 canvasmagazine.com.bd,dhakardak-bd.com###media_image-10
@@ -184,6 +185,7 @@ ekusheysangbad.com,mazzakoonline.com,nepaljapan.com,ujyaaloonline.com,virakesari
 eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
 bangladesherkhela.com##.ad-header-below
+edainikpurbokone.net##.ad-left-holder
 saaravita.lk##.ad1
 arthasarokar.com##.ad50
 odhikar.news##.adSlides
