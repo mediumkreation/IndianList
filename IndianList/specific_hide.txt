@@ -488,6 +488,7 @@ dhakatoday.com##.topadr
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
 seithy.com##.toppageadsindexheader
+dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
 unmadmagazine.com##.twp-adv-header
 tamilcinemaz.com##.vl-header-ads
@@ -673,6 +674,7 @@ malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
 hamrokhelkud.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
+dhakareport24.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
