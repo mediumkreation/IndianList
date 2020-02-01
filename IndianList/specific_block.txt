@@ -120,6 +120,7 @@ _n.jpg|$domain=barishalcrimenews.com|hmnews24.com
 ad.gif|$domain=gobikhobor.com
 Ad.gif|$domain=reportersnepal.com
 Ad_.png?$domain=bangladeshonline24.com
+add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
 Banner-$image,domain=reportersnepal.com
 |bikashnews.com^*/MEGA_MEGA-MAYA-BACHAT-KHATA_300x150pixels.gif
