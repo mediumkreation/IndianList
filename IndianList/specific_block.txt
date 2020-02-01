@@ -110,6 +110,7 @@
 _300-x$image,domain=bikashnews.com
 _336x280.$domain=ajabgjab.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com
+_add-$domain=pba.agency
 _add.jpg|$domain=gourbarta24.com|politics.lk
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
@@ -1026,6 +1027,7 @@ Banner-$image,domain=reportersnepal.com
 ||paristamil.com/layout_images/index/acs30x25.jpg
 ||pba.agency^*/brangkings-400.jpg
 ||pba.agency^*/lpg-ads-final.jpg
+||pba.agency^*/Sky-Wagon.jpg
 ||pchelpcenterbd.com^*/domain-hosting.png
 ||pchelpcenterbd.com^*/Linux-Host-Lab-300x300_4.gif
 ||pchelpcenterbd.com^*/LinuxHostLab700x100_4.gif
