@@ -68,6 +68,9 @@ ethiri.com###header-helpful
 sanjeevanisamachar.com###header-right-section
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
+chhapratoday.com###image_gallery_36934
+chhapratoday.com###image_gallery_37522
+chhapratoday.com###image_gallery_37524
 tamilcinemaz.com###itro_opaco
 tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
@@ -313,6 +316,8 @@ ceylonradio.co.uk,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
+chhapratoday.com##.entry-the-content img.aligncenter.size-full
+chhapratoday.com##.entry-the-content img.alignnone.size-full
 chauthiduniya.com##.evo-header-banner
 channelionline.com##.eyli
 lankasri.com##.f-single
@@ -488,6 +493,7 @@ bdkhobor24.com,ournewsbd.net##.topadlft
 dhakatoday.com##.topadr
 bdkhobor24.com,ournewsbd.net##.topadrt
 dcnepal.com##.topbanner
+chhapratoday.com##.topbar-inner .hgrid-span-12
 seithy.com##.toppageadsindexheader
 dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
