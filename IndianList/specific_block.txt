@@ -102,6 +102,7 @@
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
+@@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
@@ -294,6 +295,11 @@ Banner-$image,domain=reportersnepal.com
 ||bd-journal.com^*/sibl_web.gif
 ||bd-journal.com^*/walton5-3-19.gif
 ||bdcurrentnews24.com^*/newspaper-rec$image
+||bdjahan.com^*/59fefeaa182f8.gif
+||bdjahan.com^*/add-$image
+||bdjahan.com^*/add.jpg
+||bdjahan.com^*/bkash.gif
+||bdjahan.com^*/newspaper-rec728.jpg
 ||bdmorning.com/public/adds/
 ||bdmorning.com^*/walton.gif
 ||bdnewsdesk.com/images/star_cure.jpg
