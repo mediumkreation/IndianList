@@ -279,6 +279,10 @@ Banner-$image,domain=reportersnepal.com
 ||banglatimes.com^*/s.jpg
 ||bankingkhabar.com^*/1140X100.gif
 ||bankingkhabar.com^*/810x90.gif
+||barisaltribune.com^*/engineerbd.png
+||barisaltribune.com^*/euro.png
+||barisaltribune.com^*/Shikder-Gp-1-1.png
+||barisaltribune.com^*/sikder-21.png
 ||barishalcrimenews.com^*/Ad$image
 ||barishaltimes.com^*/Anchor-2.png
 ||barishaltimes.com^*/Arafat-Paint.png
