@@ -1472,7 +1472,7 @@ Banner-$image,domain=reportersnepal.com
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
 ||wp.com^$image,domain=torontotamil.com
-||wp.com^$third-party,domain=radionrn.com
+||wp.com^$third-party,domain=crimeexpressbd.com|radionrn.com
 ||wp.com^*/250-x-350.jpg$domain=tnn.lk
 ||wp.com^*/262-185bankingkhabar.gif?$domain=bankingkhabar.com
 ||wp.com^*/300x150-Swornim.gif$domain=bankingkhabar.com

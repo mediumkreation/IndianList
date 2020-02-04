@@ -273,7 +273,7 @@ canvasmagazine.com.bd##.aside_add
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 manabadi.co.in##.backg-g
 alokitoteknaf.com,kansatnews24.com,newsbna.com,newspabna.com,rajshahinews24.com##.bannar
-asianmetronews.com,dcnepal.com,globalmalayalam.com,punjabmailusa.com##.banner
+asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,punjabmailusa.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
@@ -283,6 +283,7 @@ rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
+crimeexpressbd.com##.biggapon
 arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
 sankathi24.com##.block-adverts
