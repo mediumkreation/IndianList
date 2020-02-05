@@ -1440,6 +1440,9 @@ Banner-$image,domain=reportersnepal.com
 ||valvainews.org/bg/$image
 ||vanakkamlondon.com^*/WPH-VKL-header-33.jpg
 ||vanakkamlondon.com^*web_ad
+||varendrabarta.com^*/320px-X-280px.gif
+||varendrabarta.com^*/mbl.jpg
+||varendrabarta.com^*/Varendra-Barta.jpg
 ||varthabharati.in^*/WSN-UDAYAVANI-1.gif
 ||vavuniyanet.com^*/Singer.jpg
 ||vavuniyanet.com^*Advent$image
