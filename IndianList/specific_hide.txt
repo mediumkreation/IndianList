@@ -324,6 +324,7 @@ chhapratoday.com##.entry-the-content img.alignnone.size-full
 chauthiduniya.com##.evo-header-banner
 channelionline.com##.eyli
 lankasri.com##.f-single
+onnodristy.com##.facebook_title + .video
 bbc24news.com##.featad
 arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
