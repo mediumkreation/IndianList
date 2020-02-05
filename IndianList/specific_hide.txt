@@ -583,6 +583,7 @@ eelamalar.com##a[href*="eelavarkural.blogspot.com"]
 eelamalar.com##a[href*="eelaveechu.net"]
 eelamalar.com##a[href*="eelavenkai.blogspot.com"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
+times-bd24.com##a[href*="facebook.com/Future-Company-"]
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 arthasarokar.com##a[href*="garimabank.com.np"]
 currentgk.in##a[href*="gkprashnuttar.com"]
