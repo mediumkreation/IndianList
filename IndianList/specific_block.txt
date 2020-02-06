@@ -4,7 +4,6 @@
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad.gif|$domain=5dariyanews.com|sharetimes24.com
 -ad.jpg|$domain=channelionline.com|dirt-sheet.com|sharetimes24.com|thebarta24.com
--Ad.jpg|$domain=dirt-sheet.com
 -ad.png?$domain=onenewsbd.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
@@ -502,8 +501,6 @@ Banner-$image,domain=reportersnepal.com
 ||dainikroorkee.com^*/IMG-20191129-WA0001-300x420.jpg
 ||dainikroorkee.com^*/IMG-20191231-WA0012-300x420.jpg
 ||dainikroorkee.com^*/IMG-20191231-WA0013-300x420.jpg
-||dainikroorkee.com^*/wp-content/uploads/2019/11/IMG-20191129-WA0001-300x420.jpg
-||dainikroorkee.com^*/wp-content/uploads/2019/12/IMG-20191231-WA0013-300x420.jpg
 ||dainiksylhet.com^*/add-ful-1.jpg
 ||dcnepal.com^*/headbanner/
 ||dcnepal.com^*/midadvertise/
@@ -972,7 +969,6 @@ Banner-$image,domain=reportersnepal.com
 ||newsbna.com^*/coperchimney-300x110.jpg
 ||newsbna.com^*/coperchimney.jpg
 ||newschattogram24.com^*/Babul-kaba-
-||newschattogram24.com^*/babul-kaba-hajj-
 ||newschattogram24.com^*/final-png.png
 ||newschattogram24.com^*/Screenshot_14
 ||newscoxsbazar.com^*/radient-fish-world-02.19.jpg
@@ -1037,8 +1033,7 @@ Banner-$image,domain=reportersnepal.com
 ||pahilopost.com^*/headbanner/
 ||pahilopost.com^*/midadvertise/
 ||paristamil.com/box_client1.php
-||paristamil.com/info$image
-||paristamil.com/info_images/ta_client$image
+||paristamil.com/info/images/kerala-mooligai-vaithiyam-oil-massage-2.jpg
 ||paristamil.com/layout_images/index/acs30x25.jpg
 ||pba.agency^*/brangkings-400.jpg
 ||pba.agency^*/lpg-ads-final.jpg

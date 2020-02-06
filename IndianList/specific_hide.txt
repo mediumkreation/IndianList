@@ -55,6 +55,7 @@ chakarianews.com###akismet_widget-2
 ilamai.com###banner
 sakshi.com###block-block-141--2
 varthabharati.in###block-block-263--2
+paristamil.com###box
 tamilvoicenews.com###custom_html-2
 bdcrictime.com,techtamil.com###custom_html-5
 aajtak24live.in,uttranews.com###custom_html-9
@@ -269,6 +270,7 @@ enepalese.com##.advt_r
 osnepal.com##.alignnone.size-full
 hulchalnews24.com##.alignnone.size-medium
 bspabla.com##.amzn_wdgt
+paristamil.com##.annonce_head
 canvasmagazine.com.bd##.aside_add
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 manabadi.co.in##.backg-g
@@ -341,6 +343,9 @@ khelpati.com##.full-bigyapan
 pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
 trttamilolli.com##.galboxcontainer
+paristamil.com##.group1
+paristamil.com##.group2
+paristamil.com##.group3
 myfirstshow.com##.hb-img
 akhonsamoy.com##.header-ads-area
 makkalkural.net##.header-ads-wrapper
@@ -478,6 +483,7 @@ irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 pagetamil.com##.td-header-sp-recs
 haldwanilive.com##.td-ss-main-sidebar
 vijayavani.net##.td_spot_img_all
+paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 namasteandhra.com##.three_ads
 pchelpcenterbd.com##.title_below_ads
@@ -696,3 +702,5 @@ dhakatoday.com##img[src*="mediabell.net"]
 dainiki.com##section img.attachment-full
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
+paristamil.com##table[width="98%"] div.title
+paristamil.com##table[width="98%"] h2.cat_title
