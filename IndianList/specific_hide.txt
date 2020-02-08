@@ -182,7 +182,10 @@ samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
 dainiksylhet.com##.DAdd
 ajkermymensingh.com##.DHeaderBanner
+banglanewsca.com##.Front-page-Right-Side-Ad
 lastnewsbd.com##.Photo_top_banner
+banglanewsca.com##.Single-Post-Left-Side-Ad
+banglanewsca.com##.Single-Post-Right-Sidebar-Ad
 keralakaumudi.com##.a-300-250
 keralakaumudi.com##.a-728-90
 gujarattimesusa.com,rajdhanidaily.com##.a-single
@@ -338,6 +341,7 @@ telegramnews24.com##.fluid-width-video-wrapper
 news127.com##.footer-bottom
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
+banglanewsca.com##.front-page-ad
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
@@ -359,6 +363,7 @@ krishakjagat.org##.header-subscription
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 univarta.com##.header_bottom_ad
+banglanewsca.com##.header_top_ad_area_2
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
 bangla-news24.com##.home-e3lan
