@@ -334,6 +334,7 @@ arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 sathyamonline.com##.fl-im-container
 sahilonline.net##.flexslider-eid
+telegramnews24.com##.fluid-width-video-wrapper
 news127.com##.footer-bottom
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
@@ -690,6 +691,7 @@ achhikhabar.com##div[id^="achhi-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
+telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
