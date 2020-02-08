@@ -56,6 +56,7 @@
 /ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
 /adv-$domain=devbhoomimedia.com
 /advertesment/*$image,domain=projonmokantho.com
+/advertiesment/*$domain=suryasamachar.com
 /ADVT-$domain=jaianndata.com
 /ajadds/*$domain=andhrajyothy.com
 /banner-$image,domain=bikashnews.com
