@@ -472,6 +472,10 @@ Banner-$image,domain=reportersnepal.com
 ||chavakkadonline.com^*/whitemen-ad-2.jpg
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
 ||cloudinary.com^*/cement-add3.jpg$domain=firstbihar.com
+||cninews24.com^*/BARTA_BICHITRA_CNI_ad.jpg
+||cninews24.com^*/DIVINE_GROUP_cni_news.gif
+||cninews24.com^*/popularserver.gif
+||cninews24.com^*/VIDEO_EDITING_AD_CNI_NEWS-1.gif
 ||comillarbarta.com^*/5417263302230107715.gif
 ||comillarbarta.com^*/ad-Prann-RFL.gif
 ||comillarbarta.com^*/US-Travels-1.gif
