@@ -466,6 +466,7 @@ newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 ekuruvi.com##.side-bar-big-ads
 onlinekhabar.com##.side__add
+beanibazarview24.com##.sidebar [id^="media_image"]
 sanjevani.com##.sidebar-right > .widget_text > h5
 arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
@@ -554,6 +555,7 @@ dinakaran.com##[class*="boxad"]
 beanibazarnews24.com##[class^="add-"]
 channelionline.com##[data-adid]
 divyamarathi.bhaskar.com##[id*="_ad_"]
+beanibazarview24.com##[id^="custom_html"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 irinjalakuda.com##a.td_spot_img_all
