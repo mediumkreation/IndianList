@@ -122,8 +122,8 @@ punnalaikkadduvan.com###supermag_ad-3
 medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,muslimkural.com,tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
-swisspungudutivu.com,tamil.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,porospor.com,tnilive.com###text-14
+irinjalakudalive.com,swisspungudutivu.com,tamil.com###text-13
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com,vanakkamlondon.com###text-17
