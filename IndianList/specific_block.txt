@@ -1544,6 +1544,7 @@ Banner-$image,domain=reportersnepal.com
 ||wp.com^*www.abcnepal.tv*/yath.gif
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||wp.com^*www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
+||wpsoul.com^$image,domain=shokherkrishi.com
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
 ||yespunjab.com^*/Capt-Independence-Day-Eng.gif
 ||yespunjab.com^*/Innokids-New.jpg
