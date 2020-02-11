@@ -23,7 +23,7 @@
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
 -advert.jpg|$domain=samakalam.com
--advt-$domain=haldwanilive.com
+-advt-$domain=haldwanilive.com|irinjalakudalive.com
 -Advt-$domain=sanjevani.com
 -bannar.jpg|$domain=kurigramlive.com
 -banner-$domain=channelionline.com
@@ -667,6 +667,9 @@ Banner-$image,domain=reportersnepal.com
 ||ipathram.com^*/spicebazar_ad_cfcad.jpg
 ||irinjalakuda.com^*/tally-ace-copy.jpg
 ||irinjalakuda.com^*/updated-copy.jpg
+||irinjalakudalive.com^*/ambili-jewl.jpg
+||irinjalakudalive.com^*/inside_out_728.gif
+||irinjalakudalive.com^*/villa-rent-mas-728.jpg
 ||ittefaq.com.bd^*/gari4-10-19.jpg
 ||ittefaq.com.bd^*/office-space4-10-19.jpg
 ||jaijaidinbd.com^*/ad_
