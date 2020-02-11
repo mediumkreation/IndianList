@@ -79,7 +79,7 @@ edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
-canvasmagazine.com.bd,dhakardak-bd.com###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com###media_image-10
 canvasmagazine.com.bd###media_image-11
 uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
@@ -87,9 +87,9 @@ canvasmagazine.com.bd###media_image-19
 banglatelegraph.com,sasthabangla.com###media_image-2
 bangladaily24.com,globalsylhet.com,sasthabangla.com###media_image-3
 sasthabangla.com###media_image-4
-sasthabangla.com###media_image-6
-filmybahar.com###media_image-7
-dhakardak-bd.com,sasthabangla.com###media_image-8
+bijoynewsbd24.com,sasthabangla.com###media_image-6
+bijoynewsbd24.com,filmybahar.com###media_image-7
+bijoynewsbd24.com,dhakardak-bd.com,sasthabangla.com###media_image-8
 dhakardak-bd.com,filmybahar.com###media_image-9
 legendnews.in###metaslider_703
 legendnews.in###metaslider_709
