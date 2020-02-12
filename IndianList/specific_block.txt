@@ -66,7 +66,6 @@
 /bigyapan/*$domain=khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
 /bn/add/*$domain=24updatenews.com
-/malabarinews.com^*/isha-chamyam.gif
 /mbl-$image,domain=ppbd.news
 /NEW_GIF_$domain=clickmandu.com
 /offers/*$image,domain=priyo.com
@@ -829,6 +828,7 @@ clickmandu.gif|$domain=clickmandu.com
 ||malabarinews.com^*/Soccer-Cty_Jeep.jpg
 ||malabarinews.com^*/soccer-gk.gif
 ||malabarinews.com^*/soccer-sameeksha.gif
+||malabarinews.com^*/soccer.jpg
 ||malabarinews.com^*/WhatsApp-Image
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||malayalamexpress.in^*/Malayalamexpress_Direct_1168x109_MAL-01.jpg
