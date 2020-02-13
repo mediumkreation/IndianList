@@ -40,6 +40,7 @@ nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 thattungal.com###Image9
 poonththalir.blogspot.com###LinkList21
+pnews.co.in###SidebarWidgets-S1
 puthiyathalaimurai.com###__ads1
 puthiyathalaimurai.com###__ads2
 malabarflash.com###ad
@@ -715,6 +716,7 @@ nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
 pressnote.in##img[alt^="Advert"]
+pnews.co.in##img[id^="Image"]
 dhakatoday.com##img[src*="mediabell.net"]
 dainiki.com##section img.attachment-full
 chennaitodaynews.com##section[id^="id"]
