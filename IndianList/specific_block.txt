@@ -488,7 +488,6 @@ clickmandu.gif|$domain=clickmandu.com
 ||clickmandu.com^*/airline-300x200a.gif
 ||clickmandu.com^*/Clickmandu-300x150px.jpg
 ||clickmandu.com^*/clickmandu-300x250.gif
-||clickmandu.com^*/Clickmandu-300x250.gif
 ||clickmandu.com^*/Clickmandu_250x150.gif
 ||clickmandu.com^*/Clickmandu_850x105-pxl.gif
 ||clickmandu.com^*/dish-home-1.gif
