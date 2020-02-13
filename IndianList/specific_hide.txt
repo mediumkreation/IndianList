@@ -193,6 +193,7 @@ business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
 kushtianews24.com##.above-banner
 ekusheysangbad.com,mazzakoonline.com,nepaljapan.com,ujyaaloonline.com,virakesari.lk##.ad
+pratyeknewslive.com##.ad--widget
 eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
 bangladesherkhela.com##.ad-header-below
@@ -310,6 +311,7 @@ teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
 dthreeonline.com##.content-middle-ads
+pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 roorkeehub.com##.custom-banners-cycle-slideshow
 deshabhimani.com##.db-scnAd2
