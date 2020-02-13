@@ -138,21 +138,21 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 achhisoch.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-bdkhobor24.com,parichowk.com,tennews.in,theneeweb.net,tnilive.com###text-3
+bdkhobor24.com,orthosongbad.com,parichowk.com,tennews.in,theneeweb.net,tnilive.com###text-3
 achhikhabar.com###text-30
 e-jaffna.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,dailypunjabtimes.com,karaihinducanada.com,sabjanta.info,vanakkamlondon.com###text-4
+ajithfans.com,dailypunjabtimes.com,karaihinducanada.com,orthosongbad.com,sabjanta.info,vanakkamlondon.com###text-4
 trttamilolli.com###text-40
 trttamilolli.com###text-42
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
-shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
+orthosongbad.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 anaicoddai.com,mbmnewsnetwork.com###text-52
@@ -160,7 +160,7 @@ aapkisafalta.com###text-54
 anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-dailypunjabtimes.com,medianp.com###text-6
+dailypunjabtimes.com,medianp.com,orthosongbad.com###text-6
 vanakkamlondon.com###text-7
 globaltamilnews.net,muslimkural.com###text-8
 muslimkural.com,porospor.com,shreekanchanpath.com,vaarte.com###text-9
@@ -254,6 +254,7 @@ eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 arthasarokar.com##.adsspace
 bdrtnn.net,dainiksylhet.com,samakal.com,thuglak.com,uttamhindu.com##.adv
+orthosongbad.com##.adv-img
 doolnews.com##.adv_box_3x25
 alokitomymensingh24.com##.adv_single
 publictv.in##.adv_swiper1
@@ -328,6 +329,7 @@ news127.com##.e3lan-post
 ceylonradio.co.uk,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
+orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -356,6 +358,7 @@ trttamilolli.com##.galboxcontainer
 paristamil.com##.group1
 paristamil.com##.group2
 paristamil.com##.group3
+orthosongbad.com##.h_ads
 myfirstshow.com##.hb-img
 akhonsamoy.com##.header-ads-area
 makkalkural.net##.header-ads-wrapper
@@ -474,9 +477,11 @@ newsmoments.in##.side-300x250
 ekuruvi.com##.side-bar-big-ads
 onlinekhabar.com##.side__add
 beanibazarview24.com##.sidebar [id^="media_image"]
+orthosongbad.com##.sidebar-adv img
 sanjevani.com##.sidebar-right > .widget_text > h5
 arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
+orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 ctgtimes.com##.single_ads_top
 snn24.com##.single_before_ad
