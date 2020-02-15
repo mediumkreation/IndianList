@@ -503,7 +503,7 @@ nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
 politics.lk##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
-pagetamil.com##.td-header-sp-recs
+insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 haldwanilive.com##.td-ss-main-sidebar
 vijayavani.net##.td_spot_img_all
 paristamil.com##.text-center > table[width="98%"]
