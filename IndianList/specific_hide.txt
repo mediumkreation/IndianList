@@ -14,7 +14,7 @@ chapainawabganjnews.com###HTML7
 rknewsofindia.com###HTML8
 bhopalsamachar.com,hamaramahanagar.in,thattungal.com###Image1
 malabarflash.com,nepalmother.com,thattungal.com###Image10
-nepalmother.com,thattungal.com###Image11
+malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
 nepalmother.com,thattungal.com###Image12
 poonththalir.blogspot.com###Image125
@@ -29,16 +29,16 @@ hamaramahanagar.in,madawalaenews.com,poonththalir.blogspot.com,thattungal.com###
 thattungal.com###Image20
 nepalmother.com###Image23
 poonththalir.blogspot.com###Image25
-bestghazals.net,madawalaenews.com,thattungal.com###Image3
+bestghazals.net,madawalaenews.com,malabarflash.com,thattungal.com###Image3
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 hamaramahanagar.in,madawalaenews.com,malabarflash.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image4
-hamaramahanagar.in,thattungal.com###Image5
-thattungal.com###Image6
+hamaramahanagar.in,malabarflash.com,thattungal.com###Image5
+malabarflash.com,thattungal.com###Image6
 hamaramahanagar.in,malabarflash.com,thattungal.com###Image7
 nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
-thattungal.com###Image9
+malabarflash.com,thattungal.com###Image9
 poonththalir.blogspot.com###LinkList21
 pnews.co.in###SidebarWidgets-S1
 puthiyathalaimurai.com###__ads1
@@ -397,6 +397,7 @@ pchelpcenterbd.com##.indexadsone
 ratopati.com##.inline_disp
 mannarkkadlive.com##.inner-add
 nepalpati.com##.inner-page-ful-ad-btm
+malabarflash.com##.inner-post-ads
 globalmalayalam.com##.innerAdColum
 emalayalee.com##.item1
 emalayalee.com##.item3
