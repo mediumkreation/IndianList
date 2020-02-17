@@ -187,6 +187,7 @@ banglanewsca.com##.Front-page-Right-Side-Ad
 lastnewsbd.com##.Photo_top_banner
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
+weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 keralakaumudi.com##.a-728-90
 gujarattimesusa.com,rajdhanidaily.com##.a-single
@@ -253,9 +254,10 @@ seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 nepalesediaspora.com##.adsgo
 arthasarokar.com##.adsspace
-bdrtnn.net,dainiksylhet.com,samakal.com,thuglak.com,uttamhindu.com##.adv
+bdrtnn.net,dainiksylhet.com,samakal.com,thuglak.com,uttamhindu.com,weeklynepal.com##.adv
 orthosongbad.com##.adv-img
 doolnews.com##.adv_box_3x25
+weeklynepal.com##.adv_side
 alokitomymensingh24.com##.adv_single
 publictv.in##.adv_swiper1
 radionrn.com##.adver-half
