@@ -203,6 +203,7 @@ edainikpurbokone.net##.ad-left-holder
 saaravita.lk##.ad1
 arthasarokar.com##.ad50
 odhikar.news##.adSlides
+dcnepal.com##.ad__space
 ekusheysangbad.com##.ad_area1
 ekusheysangbad.com##.ad_area2
 ekusheysangbad.com##.ad_area3
@@ -357,6 +358,7 @@ khelpati.com##.full-bigyapan
 pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
 trttamilolli.com##.galboxcontainer
+dcnepal.com##.gam-ad-position-wrap
 paristamil.com##.group1
 paristamil.com##.group2
 paristamil.com##.group3
