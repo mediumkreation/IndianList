@@ -245,7 +245,7 @@ gourbarta24.com##.adds-sm
 snn24.com##.addtop_header
 snn24.com##.addtop_inner img[data-filename]
 udayavani.com##.adliadworld
-channelionline.com##.adloc-is-banner
+channelionline.com,setoshikhar.com##.adloc-is-banner
 hamrosandesh.com##.admana-plugin
 deshabhimani.com##.adone > div
 dailymatobad.com,ekusheysangbad.com,jagran.com,nepalesediaspora.com,pariwartankhabar.com,reportersnepal.com##.ads
@@ -377,6 +377,7 @@ univarta.com##.header_bottom_ad
 banglanewsca.com##.header_top_ad_area_2
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
+setoshikhar.com##.hmxbiekzq
 bangla-news24.com##.home-e3lan
 tamiltradepost.com##.home-mid-banner
 chttoday.com##.home-page-top-right-add
