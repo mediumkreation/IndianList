@@ -86,7 +86,7 @@ canvasmagazine.com.bd###media_image-11
 uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
-banglatelegraph.com,sasthabangla.com###media_image-2
+banglatelegraph.com,deshersangbad.com,sasthabangla.com###media_image-2
 bangladaily24.com,globalsylhet.com,sasthabangla.com###media_image-3
 muldharpost.com,sasthabangla.com###media_image-4
 muldharpost.com###media_image-5
@@ -330,9 +330,9 @@ kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
 manabadi.co.in##.dsc-banners
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
-news127.com##.e3lan-bottom
-news127.com##.e3lan-post
-ceylonradio.co.uk,news127.com##.e3lan-top
+deshersangbad.com,news127.com##.e3lan-bottom
+deshersangbad.com,news127.com##.e3lan-post
+ceylonradio.co.uk,deshersangbad.com,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
 orthosongbad.com##.entry-ads-top
