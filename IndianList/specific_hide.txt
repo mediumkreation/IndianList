@@ -237,6 +237,7 @@ shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
+provatnews.com##.add_banner
 rosemalayalam.com##.add_image_ryt
 rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
@@ -486,6 +487,7 @@ arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 ekuruvi.com##.side-bar-big-ads
+provatnews.com##.sideAdd
 onlinekhabar.com##.side__add
 beanibazarview24.com##.sidebar [id^="media_image"]
 orthosongbad.com##.sidebar-adv img
@@ -724,6 +726,7 @@ scotnepal.com##div.vc_single_image-wrapper
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
+provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 telegramnews24.com##iframe[name^="fitvid"]
