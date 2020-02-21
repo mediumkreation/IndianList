@@ -246,6 +246,7 @@ narayanionline.com##.add_middle
 protikhon.com##.adds
 gourbarta24.com##.adds-lg
 gourbarta24.com##.adds-sm
+ntnews.com##.addsn
 snn24.com##.addtop_header
 snn24.com##.addtop_inner img[data-filename]
 udayavani.com##.adliadworld
