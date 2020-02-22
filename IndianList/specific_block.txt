@@ -7,6 +7,7 @@
 -ad.png?$domain=onenewsbd.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
+-ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|samarneetinews.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
