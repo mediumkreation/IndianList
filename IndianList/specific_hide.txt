@@ -338,7 +338,7 @@ deshersangbad.com,news127.com##.e3lan-post
 ceylonradio.co.uk,deshersangbad.com,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
-orthosongbad.com##.entry-ads-top
+bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -369,7 +369,7 @@ dcnepal.com##.gam-ad-position-wrap
 paristamil.com##.group1
 paristamil.com##.group2
 paristamil.com##.group3
-orthosongbad.com##.h_ads
+bdbarrta24.com,orthosongbad.com##.h_ads
 myfirstshow.com##.hb-img
 akhonsamoy.com##.header-ads-area
 makkalkural.net##.header-ads-wrapper
@@ -491,7 +491,7 @@ ekuruvi.com##.side-bar-big-ads
 provatnews.com##.sideAdd
 onlinekhabar.com##.side__add
 beanibazarview24.com##.sidebar [id^="media_image"]
-orthosongbad.com##.sidebar-adv img
+bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 sanjevani.com##.sidebar-right > .widget_text > h5
 arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
