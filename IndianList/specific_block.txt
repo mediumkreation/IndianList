@@ -114,6 +114,7 @@ _add-$domain=pba.agency
 _add.jpg|$domain=gourbarta24.com|politics.lk
 _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
+_Advt.gif|$domain=kasaragod.com
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
 _banner_$domain=neplays.com
