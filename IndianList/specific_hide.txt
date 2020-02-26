@@ -519,7 +519,7 @@ eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
-crimecontrolnews.com,punjabinewsonline.com##.td-a-rec
+crimecontrolnews.com,moviemirchi24.com,punjabinewsonline.com##.td-a-rec
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
 politics.lk##.td-banner-bg
