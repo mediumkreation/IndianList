@@ -58,6 +58,7 @@ devbhoomidarshan17.com###banner-10
 sakshi.com###block-block-141--2
 varthabharati.in###block-block-263--2
 paristamil.com###box
+thepublicworld.com###custom_html-11
 tamilvoicenews.com###custom_html-2
 bdcrictime.com,techtamil.com###custom_html-5
 aajtak24live.in,uttranews.com###custom_html-9
@@ -140,9 +141,9 @@ anaicoddai.com,attachowk.com,gobikhobor.com,parichowk.com,vijaychowk.com,yarlosa
 tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
 vanakkamlondon.com###text-22
-tnilive.com###text-23
+thepublicworld.com,tnilive.com###text-23
 achhisoch.com,tnilive.com,trttamilolli.com###text-24
-achhisoch.com,trttamilolli.com###text-25
+achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
 bdkhobor24.com,orthosongbad.com,parichowk.com,tennews.in,theneeweb.net,tnilive.com###text-3
@@ -380,6 +381,7 @@ bdbarrta24.com,orthosongbad.com##.h_ads
 myfirstshow.com##.hb-img
 akhonsamoy.com##.header-ads-area
 dainikpana.com,makkalkural.net##.header-ads-wrapper
+thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 manoramaonline.com##.header-sponser-left
