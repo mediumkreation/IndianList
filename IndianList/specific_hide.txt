@@ -97,6 +97,10 @@ dhakardak-bd.com,filmybahar.com###media_image-9
 legendnews.in###metaslider_703
 legendnews.in###metaslider_709
 legendnews.in###metaslider_714
+biharpatrika.in###metaslider_7568
+biharpatrika.in###metaslider_7646
+biharpatrika.in###metaslider_7731
+biharpatrika.in###metaslider_widget-2
 tharunaya.us###module_03_ads300x250
 cinemapettai.com###mvp-leader-wrap
 ujyaaloonline.com###myCarousel
@@ -155,7 +159,7 @@ careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
-orthosongbad.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
+biharpatrika.in,orthosongbad.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 anaicoddai.com,mbmnewsnetwork.com###text-52
