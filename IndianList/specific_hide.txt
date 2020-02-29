@@ -82,7 +82,7 @@ edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
-bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,postpati.com###media_image-10
 canvasmagazine.com.bd###media_image-11
 uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
@@ -302,7 +302,7 @@ canvasmagazine.com.bd##.aside_add
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 manabadi.co.in##.backg-g
 alokitoteknaf.com,aznewsbd24.com,ektibd.com,kansatnews24.com,newsbna.com,newspabna.com,rajshahinews24.com##.bannar
-asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,punjabmailusa.com##.banner
+asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,postpati.com,punjabmailusa.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
@@ -436,6 +436,8 @@ lekalionline.com##.lekali_online_adv
 lankanewsweb.net##.lnw-ad
 radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
+postpati.com##.long_adv .widget_media_image:before
+postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
 jaianndata.com##.main-tp-adds
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
