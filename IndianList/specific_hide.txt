@@ -235,6 +235,7 @@ gourbarta24.com##.add-slider
 samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
 dirt-sheet.com##.add-widget
+deshkonews.com##.add-wrap
 dainikpurbokone.net##.addVertise
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
