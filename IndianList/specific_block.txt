@@ -822,7 +822,10 @@ clickmandu.gif|$domain=clickmandu.com
 ||kazirbazar.com^*/ad-1.jpg
 ||kelimandala.lankadeepa.lk^*/advr_
 ||keralaexpress.com^*/banners
+||keralaonlinenews.com^*/atlas-$image
 ||keralaonlinenews.com^*/banner
+||keralaonlinenews.com^*/Pallithara-main-page-sidebar
+||keralaonlinenews.com^*/thamburan-lottary-tpba-OCTOBER-2019900100-2nd-1.jpg
 ||khabor.com^*/728%E0%A6%8290-ad.png
 ||khabor.com^*/USBD-Travels-and-tours-FLYERS-2019.png
 ||khullaManch.com^*/49150649_412639672608122_7323661178100514816_n.gif
