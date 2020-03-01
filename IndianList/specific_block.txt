@@ -521,6 +521,7 @@ clickmandu.gif|$domain=clickmandu.com
 ||comillarbarta.com^*/US-Travels-1.gif
 ||comillaweb.com^*/ibikroy_ads.jpg
 ||cotlasweb.in^$third-party,domain=citypostlive.com
+||cotlasweb.in^*/web-design.png
 ||coxbangla.com^*/asian-age.jpg
 ||coxsbazarmail.com^*/11034333_763234950438934_4063562812591477683_
 ||coxsbazarmail.com^*/15319534_1807013382905030_1269988571_n.jpg
@@ -847,6 +848,8 @@ clickmandu.gif|$domain=clickmandu.com
 ||kinige.com/images/klogo.png$domain=jalleda.com
 ||kishoreganjnews.com/asset/images/citylab.jpg
 ||kishoreganjnews.com/niramoy.jpg
+||kositimes.com^*/IMG-20200216-WA0007.jpg
+||kositimes.com^*/WhatsApp-Image-2019-12-28-at-12.18.12-PM.jpeg
 ||krishnanews.com^*/IMG-20190511-WA0001.jpg
 ||kuakatanews.com^*/1-300x250.png
 ||kuakatanews.com^*/2-5-300x150.jpg
