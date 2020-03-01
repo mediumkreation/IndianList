@@ -1657,6 +1657,7 @@ clickmandu.gif|$domain=clickmandu.com
 ||wp.com^*/262-185bankingkhabar.gif?$domain=bankingkhabar.com
 ||wp.com^*/300x150-Swornim.gif$domain=bankingkhabar.com
 ||wp.com^*/Abhimaani-vasathi-01-726x1024.jpeg$domain=eesanje.com
+||wp.com^*/AD-2x2.png$domain=corporatesangbad.com
 ||wp.com^*/add$image,domain=loksansar.in
 ||wp.com^*/ADD-03$domain=mymensinghpratidin.com
 ||wp.com^*/anil-jee$domain=osnepal.com
