@@ -674,6 +674,7 @@ clickmandu.gif|$domain=clickmandu.com
 ||haldwanilive.com^*/12-1-1024x626.jpg
 ||haldwanilive.com^*/admission-open-abm
 ||haldwanilive.com^*/max-face-clinic
+||hamrokhelkud.com^$third-party,domain=visionnepaltv.com
 ||hamrokhelkud.com^*/Annal-Jyoti.gif
 ||hamrokhelkud.com^*/casa.gif
 ||hamrokhelkud.com^*/century.jpg
@@ -1626,6 +1627,7 @@ clickmandu.gif|$domain=clickmandu.com
 ||veeravengaikal.com^*/ew.png
 ||veeravengaikal.com^*/verkal.png
 ||visalaandhra.com^*-add-*.jpg
+||visionnepaltv.com^*/Ads-Vision.jpg
 ||voscast.com^*/&stream2$domain=visarnews.com
 ||vvtuk.com^*/MATHAVAN.gif
 ||vvtuk.com^*/sre-edited.jpg
