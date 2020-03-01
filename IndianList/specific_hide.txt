@@ -55,6 +55,7 @@ andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
 ilamai.com###banner
 devbhoomidarshan17.com###banner-10
+tibrakhabar.com###black-studio-tinymce-30
 sakshi.com###block-block-141--2
 varthabharati.in###block-block-263--2
 paristamil.com###box
@@ -517,6 +518,7 @@ ctgtimes.com##.single_ads_top
 snn24.com##.single_before_ad
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
+tibrakhabar.com##.siteorigin-widget-tinymce
 reportersnepal.com##.small-arthik-widget
 nittaa.com##.smashwords-widget
 kaumudiplus.com##.sp-ad-row
