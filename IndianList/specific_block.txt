@@ -1681,7 +1681,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
 ||wp.com^*/Nirapad-pani.jpg$domain=uttaranews24.com
 ||wp.com^*/Orthozen_NewsSide_Kannada.png$domain=tv5kannada.com
+||wp.com^*/prkash-finel.jpg$domain=creativenewsexpress.com
 ||wp.com^*/purano-nulet$domain=osnepal.com
+||wp.com^*/Sahas-Homeopathic$domain=creativenewsexpress.com
 ||wp.com^*/shivalik-river-retreat.jpg$domain=uttranews.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Sidebar_Ads.gif$domain=uttaranews24.com
