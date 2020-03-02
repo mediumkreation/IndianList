@@ -435,6 +435,7 @@ emalayalee.com##.item4
 karobardaily.com##.kd-ad-horizontal
 lastnewsbd.com##.lastnews_add_1
 arthosuchak.com##.lead-after
+jayhosh.com##.leaderboard-wrapper
 thebengalitimes.com##.lefr-box
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
@@ -766,6 +767,7 @@ pressnote.in##img[alt^="Advert"]
 pnews.co.in##img[id^="Image"]
 dhakatoday.com##img[src*="mediabell.net"]
 dainiki.com##section img.attachment-full
+jayhosh.com##section.widget_media_image
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
 paristamil.com##table[width="98%"] div.title
