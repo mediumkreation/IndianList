@@ -9,7 +9,7 @@
 -add-$domain=barishaltimes.com
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
--add-$image,domain=dainikazadi.net|samarneetinews.com
+-add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.jpg|$domain=bangladeshkantha.com|teluguwishesh.com
 -add.png?$domain=osnepal.com
@@ -639,6 +639,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||filmdon.com/images/add.jpg
 ||filmybuzz.com/images/Ecommerce-Website-Design.jpg
+||filmyfanda.com^*/oppo.png
 ||firstbihar.com/Media/parcha/
 ||gbnews24.com/gf.gif
 ||gbnews24.com^*/dd1.gif
