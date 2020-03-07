@@ -209,6 +209,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ajabgjab.com/FeedifySW.js
 ||ajayabharat.com^*/output_0Qoh7Q.gif
 ||ajayabharat.com^*/WhatsApp-Image-2019-12-23-at-2.00.23-PM
+||ajker-comilla.com^*/ad-02.jpg
+||ajker-comilla.com^*/ajker.jpg
+||ajker-comilla.com^*/Comilla-travels-01.jpg
 ||ajkerpatrika.com^*/electra_new.jpg
 ||ajkerpatrika.com^*/logo.png
 ||ajkerpatrika.com^*/palli-bazar-logo-illustrator-transparent_1.png
@@ -1257,6 +1260,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||punjabtimesusa.com^*-300x16
 ||punnalaikkadduvan.com^*/supermag-add
 ||purbanchal.com/img/tribune-tower.jpg
+||purbashabd24.com^$third-party,domain=ajker-comilla.com
 ||puttalamonline.com/wp-content/uploads/2017/05/BTM360x80.png
 ||rajbarinews24.com^*/ADD_-RANA-ELECTRONIC-01.jpg
 ||rajbarinews24.com^*/poster-final-it-ghor-1.jpg
