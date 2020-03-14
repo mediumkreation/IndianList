@@ -507,11 +507,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||clickmandu.com^*/airline-300x200a.gif
 ||clickmandu.com^*/Clickmandu-300x150px.jpg
 ||clickmandu.com^*/clickmandu-300x250.gif
-||clickmandu.com^*/Clickmandu-300x250.gif
 ||clickmandu.com^*/Clickmandu_250x150.gif
 ||clickmandu.com^*/Clickmandu_850x105-pxl.gif
-||clickmandu.com^*/dish-home-1.gif
-||clickmandu.com^*/dish-home-clickmandu-1.gif
+||clickmandu.com^*/dish-home-$image
 ||clickmandu.com^*/dollar-card-gif.gif
 ||clickmandu.com^*/Fixed-Lending-1140x90-final.jpg
 ||clickmandu.com^*/garima_ashoj_1.gif
@@ -519,14 +517,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||clickmandu.com^*/IGI-GIF-Banner_NEW.gif
 ||clickmandu.com^*/ime-pay-300x150-1.gif
 ||clickmandu.com^*/machhapuchre-$image
-||clickmandu.com^*/Machhapuchre-800-x-100.gif
 ||clickmandu.com^*/NEW_GIF_008__-JEEVAN-SARATHI_1140-90.gif
 ||clickmandu.com^*/NEW_GIF_011_CI_300-200.gif
 ||clickmandu.com^*/New_option_EIC_Clickmandu_300-x-200-pxl-1.gif
 ||clickmandu.com^*/nlg-insurance.gif
 ||clickmandu.com^*/nmb-bank.gif
 ||clickmandu.com^*/prabhu$image
-||clickmandu.com^*/prabhu-1000x100-Salary.jpg
 ||clickmandu.com^*/premier-animation-300-140.gif
 ||clickmandu.com^*/shikhar-inssurance.gif
 ||clickmandu.com^*/United-Finance.gif
