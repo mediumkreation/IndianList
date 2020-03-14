@@ -748,6 +748,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||imgur.com^$third-party,domain=braveindianews.com|nepalipatra.com|news71online.com
 ||industryhit.com^*/1140b-2-1-1-1-1.jpg
 ||industryhit.com^*/ad1-1-1-1-1-1-1-1.jpg
+||industryhit.com^*/landingpage.jpg
 ||industryhit.com^*/LP-e$image
 ||insurancekhabar.com^*/2018/10/05.gif
 ||insurancekhabar.com^*/ajod-onsurance.gif
