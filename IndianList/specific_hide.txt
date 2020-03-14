@@ -339,6 +339,7 @@ arthosuchak.com##.category_c_ad
 arthosuchak.com##.category_e_ad
 madhyamam.com##.clock-container
 lankamurasu.com,mbmnewsnetwork.com##.code-block
+newstodaynetwork.com##.code-block-1
 bankingkhabar.com##.codeneric_uam_link
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
@@ -486,7 +487,7 @@ amanpath.in##.mvp-flex-ad
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
 lastnewsbd.com##.myadd
-canadauthayan.ca##.n2-section-smartslider
+canadauthayan.ca,newstodaynetwork.com##.n2-section-smartslider
 kilinochchinews.com##.navbar-ad-section
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
@@ -552,7 +553,7 @@ eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
-crimecontrolnews.com,moviemirchi24.com,punjabinewsonline.com##.td-a-rec
+crimecontrolnews.com,moviemirchi24.com,newstodaynetwork.com,punjabinewsonline.com##.td-a-rec
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
@@ -763,6 +764,7 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
+newstodaynetwork.com##aside.ai_widget
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
