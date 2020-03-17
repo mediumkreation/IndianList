@@ -65,7 +65,7 @@
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
-/bigyapan/*$domain=khelpati.com|setopati.com
+/bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
 /bn/add/*$domain=24updatenews.com
 /mbl-$image,domain=ppbd.news
