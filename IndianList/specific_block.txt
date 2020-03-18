@@ -1296,7 +1296,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||primenewsbd.com^*/rupaliBank_new.gif
 ||primenewsbd.com^*/walton.png
 ||prixa.net^*/sadak_ra_sawari_banner-_white_2Fi4KPbRQP.png$domain=ujyaaloonline.com
-||prothomkhabor.com^$third-party,domain=comillarkhabor.com
+||prothomkhabor.com^$third-party,domain=comillarkhabor.com|protichhobi.com
+||protichhobi.com^*/Dhaka-Bazar-24-online-shop-in-Bangladesh.gif
+||protichhobi.com^*/dhakabazar24.png
 ||protidinersangbad.com^*/fsibl.jpg
 ||pudhuvaioli.com^*/VCC-01.jpg
 ||pulikalinkuralradio.com^*/aruchunaa-300x65.png
