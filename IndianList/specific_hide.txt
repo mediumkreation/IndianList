@@ -95,6 +95,7 @@ chapaidarpon.com###media_image-24
 bangladaily24.com,dainikkhojkhabar.live,globalsylhet.com,keralaonlinenews.com,sasthabangla.com###media_image-3
 muldharpost.com,sasthabangla.com###media_image-4
 dainikkhojkhabar.live,keralaonlinenews.com,muldharpost.com###media_image-5
+onlinepana.com###media_image-51
 bijoynewsbd24.com,dainikkhojkhabar.live,muldharpost.com,sasthabangla.com###media_image-6
 bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com###media_image-7
 bijoynewsbd24.com,dainikkhojkhabar.live,dhakardak-bd.com,sasthabangla.com###media_image-8
@@ -271,7 +272,7 @@ udayavani.com##.adliadworld
 channelionline.com,setoshikhar.com##.adloc-is-banner
 hamrosandesh.com##.admana-plugin
 deshabhimani.com##.adone > div
-dailymatobad.com,ekusheysangbad.com,jagran.com,nepalesediaspora.com,pariwartankhabar.com,reportersnepal.com##.ads
+dailymatobad.com,ekusheysangbad.com,jagran.com,nepalesediaspora.com,onlinepana.com,pariwartankhabar.com,reportersnepal.com##.ads
 madawalaenews.com##.ads-big
 khullamanch.com,thenepaltoday.com##.ads-container
 hindi.cricketnmore.com##.ads-space
@@ -325,6 +326,7 @@ am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
 nagariknetwork.com##.below-article-ad
+onlinepana.com##.betn-add
 crimeexpressbd.com##.biggapon
 arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
