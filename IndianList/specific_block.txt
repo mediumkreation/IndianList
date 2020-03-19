@@ -1618,6 +1618,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||thenewshimachal.com^*/Contact-for-Hydro-Turbines.jpg
 ||thenewshimachal.com^*/hpht-.jpg
 ||thepark63.com$third-party,domain=puthiyathalaimurai.com
+||thereport24.com^$image,third-party,domain=ajkerkhabor.com
 ||thinakkathir.com^*/thiru-50.gif
 ||thisaikaddi.com^*/content-ad.jpg
 ||thisaikaddi.com^*/logo-header.png
