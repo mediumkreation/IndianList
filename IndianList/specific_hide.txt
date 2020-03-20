@@ -223,7 +223,9 @@ eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
 bangladesherkhela.com##.ad-header-below
 edainikpurbokone.net##.ad-left-holder
-saaravita.lk,uttaranews24.com##.ad1
+alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
+alorkantho24.news##.ad3
+alorkantho24.news##.ad4
 arthasarokar.com##.ad50
 odhikar.news##.adSlides
 dcnepal.com##.ad__space
@@ -557,6 +559,7 @@ tibrakhabar.com##.siteorigin-widget-tinymce
 reportersnepal.com##.small-arthik-widget
 nittaa.com##.smashwords-widget
 kaumudiplus.com##.sp-ad-row
+alorkantho24.news##.spad
 ekuruvi.com##.span-2 a:only-child
 kaumudiplus.com##.spnsrd-ad
 veeravengaikal.com##.sppb-addon-clients
