@@ -253,6 +253,7 @@ samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
+sangbad-gallery.com##.addAd
 dainikpurbokone.net##.addVertise
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
@@ -395,6 +396,7 @@ telegramnews24.com##.fluid-width-video-wrapper
 news127.com##.footer-bottom
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
+sangbad-gallery.com##.four_advertisement
 banglanewsca.com##.front-page-ad
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
@@ -601,6 +603,7 @@ seithy.com##.toppageadsindexheader
 dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
 nagariknetwork.com##.travel-add
+sangbad-gallery.com##.two_advertisement
 unmadmagazine.com##.twp-adv-header
 valaitamil.com##.upper_links
 changetv.press##.vc_custom_1546328500609
