@@ -63,7 +63,15 @@ varthabharati.in###block-block-263--2
 paristamil.com###box
 thepublicworld.com###custom_html-11
 tamilvoicenews.com###custom_html-2
+ddnews24x7.com###custom_html-26
+ddnews24x7.com###custom_html-31
+ddnews24x7.com###custom_html-39
+ddnews24x7.com###custom_html-44
+ddnews24x7.com###custom_html-47
+ddnews24x7.com###custom_html-48
 bdcrictime.com,techtamil.com###custom_html-5
+ddnews24x7.com###custom_html-51
+ddnews24x7.com###custom_html-53
 aajtak24live.in,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
@@ -202,6 +210,7 @@ pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
+ddnews24x7.com###wonderplugincarousel-1
 samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
 dainiksylhet.com,surmanews24.com##.DAdd
