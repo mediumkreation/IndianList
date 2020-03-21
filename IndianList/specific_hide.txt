@@ -271,7 +271,7 @@ rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
 narayanionline.com##.add_middle
 sancharkendra.com##.addb
-aznewsbd24.com##.addd
+aznewsbd24.com,mediadabali.com##.addd
 protikhon.com##.adds
 gourbarta24.com##.adds-lg
 gourbarta24.com##.adds-sm
@@ -558,6 +558,7 @@ snn24.com##.single_before_ad
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
+mediadabali.com##.sm-ads
 reportersnepal.com##.small-arthik-widget
 nittaa.com##.smashwords-widget
 kaumudiplus.com##.sp-ad-row
