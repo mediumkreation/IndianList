@@ -15,6 +15,7 @@
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
+-adds-$domain=ddnews24x7.com
 -Ads-$domain=dailyceylon.com
 -ads-$domain=meelparvai.net
 -ads-$image,domain=asomiyapratidin.in
@@ -598,6 +599,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dcnepal.com^*/headbanner/
 ||dcnepal.com^*/midadvertise/
 ||dcnepal.com^*/sideadvertise/
+||ddnews24x7.com^*/18.05.2019.jpg
+||ddnews24x7.com^*/Karati450.jpg
+||ddnews24x7.com^*/Shree-ShyamAllaince.jpg
 ||deepika.com^*/Ziva_slide_15_9_18.jpg
 ||deshabhimani.com^*/aimfillcampus.gif
 ||deshabhimani.com^*/Kerala-Tourism-ad.gif
