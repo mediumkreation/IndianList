@@ -318,7 +318,7 @@ narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
 bikashnews.com##.advertise
 nobat.com##.advertise-ifrme
-bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net,timesofmalwa.in##.advertisement
+bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,timesofmalwa.in##.advertisement
 bdipo.com##.advertisements
 divaina.com##.advertisments
 chapainews.com##.advrts
@@ -517,6 +517,7 @@ canadauthayan.ca,newstodaynetwork.com##.n2-section-smartslider
 kilinochchinews.com##.navbar-ad-section
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
+prothomalo.com##.news_inner_spcl_ad
 biswabanglanews.com,mirrorlive24.com##.news_portal_ads_banner
 nepalkhabar.com##.nk-sidebar-ads
 narayanionline.com##.no-vigyapan-section
