@@ -281,9 +281,12 @@ rosemalayalam.com##.add_img_mid
 narayanionline.com##.add_middle
 sancharkendra.com##.addb
 aznewsbd24.com,mediadabali.com##.addd
-protikhon.com##.adds
+otvnepal.com,protikhon.com##.adds
 gourbarta24.com##.adds-lg
 gourbarta24.com##.adds-sm
+otvnepal.com##.adds_menu
+otvnepal.com##.adds_rajn
+otvnepal.com##.adds_side
 ntnews.com##.addsn
 snn24.com##.addtop_header
 snn24.com##.addtop_inner img[data-filename]
@@ -578,6 +581,7 @@ kaumudiplus.com##.spnsrd-ad
 veeravengaikal.com##.sppb-addon-clients
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
+otvnepal.com##.taja-adds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
 crimecontrolnews.com,moviemirchi24.com,newstodaynetwork.com,punjabinewsonline.com##.td-a-rec
