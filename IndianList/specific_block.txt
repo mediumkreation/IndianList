@@ -1208,6 +1208,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||newsbna.com^*/2017-03-11-1.jpg
 ||newsbna.com^*/coperchimney-300x110.jpg
 ||newsbna.com^*/coperchimney.jpg
+||newsbritant.com^*/ad_
+||newsbritant.com^*/orient-$image
 ||newschattogram24.com^*/Babul-kaba-
 ||newschattogram24.com^*/final-png.png
 ||newschattogram24.com^*/Screenshot_14
