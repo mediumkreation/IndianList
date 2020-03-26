@@ -230,6 +230,7 @@ ekusheysangbad.com,mazzakoonline.com,nepaljapan.com,shomoynews.net,ujyaaloonline
 pratyeknewslive.com##.ad--widget
 eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
+khabardabali.com##.ad-half-middle
 bangladesherkhela.com##.ad-header-below
 edainikpurbokone.net##.ad-left-holder
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
@@ -319,6 +320,7 @@ narayanionline.com##.advertiesment-main > a:only-child
 bikashnews.com##.advertise
 nobat.com##.advertise-ifrme
 bdlive24.com,chandpur-kantho.com,jugantor.com,lakshmipur24.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,timesofmalwa.in##.advertisement
+khabardabali.com##.advertisement-primary
 bdipo.com##.advertisements
 divaina.com##.advertisments
 chapainews.com##.advrts
@@ -414,6 +416,7 @@ banglanewsca.com##.front-page-ad
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
+khabardabali.com##.full-adv-row
 dcnepal.com##.full-banner
 khelpati.com##.full-bigyapan
 pchelpcenterbd.com##.fullwidhtads
@@ -474,6 +477,7 @@ emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
 karobardaily.com##.kd-ad-horizontal
+khabardabali.com##.kdb-topAdd
 lastnewsbd.com##.lastnews_add_1
 arthosuchak.com##.lead-after
 jayhosh.com##.leaderboard-wrapper
@@ -484,6 +488,7 @@ lankanewsweb.net##.lnw-ad
 radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
 filmyfanda.com##.long-ads
+khabardabali.com##.long-vertical-ad
 postpati.com##.long_adv .widget_media_image:before
 postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
