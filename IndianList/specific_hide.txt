@@ -152,11 +152,12 @@ medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,khagracharipratidin.com,muslimkural.com,tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
 irinjalakudalive.com,swisspungudutivu.com,tamil.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,tnilive.com###text-14
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,sambadsaradin.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 trttamilolli.com###text-16
 anaicoddai.com,e-jaffna.com,vanakkamlondon.com###text-17
-achhisoch.com###text-18
+achhisoch.com,sambadsaradin.com###text-18
+sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,kositimes.com,moviemandu.com,parichowk.com,vijaychowk.com,yarlosai.com###text-2
 tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
@@ -190,8 +191,8 @@ irruppu.com###text-577
 anaicoddai.com###text-58
 dailypunjabtimes.com,medianp.com,orthosongbad.com###text-6
 vanakkamlondon.com###text-7
-globaltamilnews.net,muslimkural.com###text-8
-kositimes.com,muslimkural.com,porospor.com,shreekanchanpath.com,vaarte.com###text-9
+globaltamilnews.net,muslimkural.com,sambadsaradin.com###text-8
+kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 uttareralo24.com###text-html-widget-2
@@ -250,7 +251,7 @@ ajkersylhet.com,aznewsbd24.com,dailysports24.com,kannada.news18.com,sharebiz.net
 sancharkendra.com##.add-2
 jaianndata.com##.add-block
 nagariknetwork.com##.add-container
-ajkersylhet.com##.add-image
+ajkersylhet.com,sambadsaradin.com##.add-image
 khabar247.com,sheershanews.com##.add-inner
 u71news.com##.add-left
 u71news.com##.add-right
@@ -687,6 +688,7 @@ battinews.com##a[href*="ad.battinews.com"]
 protidinersangbad.com##a[href*="ads-page"]
 janayugomonline.com##a[href*="advetorial"]
 uttranews.com##a[href*="advt-new"]
+sambadsaradin.com##a[href*="ajdg.solutions"]
 uttarbangasambad.com,vasundhara.net##a[href*="amzn.to"]
 eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
