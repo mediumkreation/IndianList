@@ -62,10 +62,11 @@ sakshi.com###block-block-141--2
 varthabharati.in###block-block-263--2
 paristamil.com###box
 thepublicworld.com###custom_html-11
-tamilvoicenews.com###custom_html-2
+news127.com,tamilvoicenews.com###custom_html-2
 ddnews24x7.com###custom_html-26
 ddnews24x7.com###custom_html-31
 ddnews24x7.com###custom_html-39
+news127.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
@@ -94,7 +95,7 @@ enepalese.com###logo_middle
 bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
 bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,postpati.com###media_image-10
-canvasmagazine.com.bd###media_image-11
+canvasmagazine.com.bd,news127.com###media_image-11
 uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
