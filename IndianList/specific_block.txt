@@ -309,6 +309,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||barisaltribune.com^*/euro.png
 ||barisaltribune.com^*/Shikder-Gp-1-1.png
 ||barisaltribune.com^*/sikder-21.png
+||barishalcrimenews.com/wp-content/uploads/2020/01/AnchorAD$image
+||barishalcrimenews.com/wp-content/uploads/2020/01/ShikderAD$image
+||barishalcrimenews.com/wp-content/uploads/2020/01/SuvoAD1$image
+||barishalcrimenews.com/wp-content/uploads/2020/01/website-ad$image
 ||barishalcrimenews.com^*/Ad$image
 ||barishaltimes.com^*/Anchor-2.png
 ||barishaltimes.com^*/Arafat-Paint.png
