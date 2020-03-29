@@ -91,7 +91,7 @@ chhapratoday.com###image_gallery_37524
 tamilcinemaz.com###itro_opaco
 tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
-edainikpurbokone.net###left-top-holder
+edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
@@ -137,6 +137,7 @@ rojgarlive.com###popup_indiv2
 bhalukanews.com###primary img[alt="ads"]
 industryhit.com###pum-15632
 manithan.com###recommendations
+edainikazadi.net###right-holder
 dinamalar.com###selum
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
@@ -235,7 +236,7 @@ eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
 khabardabali.com##.ad-half-middle
 bangladesherkhela.com##.ad-header-below
-edainikpurbokone.net##.ad-left-holder
+edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
