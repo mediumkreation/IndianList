@@ -26,7 +26,7 @@
 -adv.$domain=brtnepal.com
 -adv.gif|$domain=bikashnews.com
 -advert.jpg|$domain=samakalam.com
--advt-$domain=haldwanilive.com|irinjalakudalive.com
+-advt-$domain=chhapratoday.com|haldwanilive.com|irinjalakudalive.com
 -Advt-$domain=sanjevani.com
 -bannar.jpg|$domain=kurigramlive.com
 -banner-$domain=channelionline.com
@@ -524,6 +524,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||chavakkadonline.com^*/mehandi-add-size-1-1.jpg
 ||chavakkadonline.com^*/SECUDZONE-ADD-IN-ONLINE.jpg
 ||chavakkadonline.com^*/whitemen-ad-2.jpg
+||chhapratoday.com/wp-content/uploads/2020/03/IMG-20200316-WA0027
 ||clickmandu.com^*/15-Aug-2019-banner-home-loan-300x125.gif
 ||clickmandu.com^*/300by100clickmandu.gif
 ||clickmandu.com^*/300x125.gif
