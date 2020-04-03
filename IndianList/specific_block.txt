@@ -37,6 +37,7 @@
 -Banner.jpeg|$domain=telugubullet.com
 -Banner.jpg|$domain=shamolbangla24.com
 -Banner_$image,domain=bikashnews.com
+-bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
 /720x90.gif?$domain=himalini.com
 /AD-$domain=ptbnewsbd.com
