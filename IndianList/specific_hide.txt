@@ -122,7 +122,7 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-biharpatrika.in###metaslider_widget-2
+biharpatrika.in,pnews.co.in###metaslider_widget-2
 tharunaya.us###module_03_ads300x250
 cinemapettai.com###mvp-leader-wrap
 ujyaaloonline.com###myCarousel
@@ -148,6 +148,7 @@ emalayalee.com###slideshow
 emalayalee.com###slideshow2
 emalayalee.com###slideshow3
 techtamil.com###sp_widget_post_slider-2
+pnews.co.in###stream-item-widget-1
 bestnow.in###stream-item-widget-5
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
