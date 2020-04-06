@@ -64,6 +64,7 @@ paristamil.com###box
 thepublicworld.com###custom_html-11
 news127.com,tamilvoicenews.com###custom_html-2
 ddnews24x7.com###custom_html-26
+samastipurtown.com###custom_html-3
 ddnews24x7.com###custom_html-31
 ddnews24x7.com###custom_html-39
 news127.com###custom_html-4
@@ -826,6 +827,7 @@ pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
+samastipurtown.com##figure.wp-caption
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
