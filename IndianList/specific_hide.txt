@@ -97,7 +97,7 @@ enepalese.com###logo_middle
 bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
 bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,postpati.com###media_image-10
-canvasmagazine.com.bd,news127.com###media_image-11
+canvasmagazine.com.bd,news127.com,scgnews.in###media_image-11
 uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
@@ -114,8 +114,8 @@ dainikkhojkhabar.live,keralaonlinenews.com,muldharpost.com###media_image-5
 onlinepana.com###media_image-51
 bijoynewsbd24.com,dainikkhojkhabar.live,muldharpost.com,sasthabangla.com###media_image-6
 bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com###media_image-7
-bijoynewsbd24.com,dainikkhojkhabar.live,dhakardak-bd.com,sasthabangla.com###media_image-8
-dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com###media_image-9
+bijoynewsbd24.com,dainikkhojkhabar.live,dhakardak-bd.com,sasthabangla.com,scgnews.in###media_image-8
+dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,scgnews.in###media_image-9
 moviemandu.com###metaslider_1316
 dainikroorkee.com###metaslider_288
 dainikroorkee.com###metaslider_295
@@ -647,6 +647,7 @@ tamilcinemaz.com##.vl-header-ads
 tnilive.com##.vmagazine_lite_medium_ad
 vaarte.com##.vmagazine_medium_ad
 dainikazadi.net##.w3-top-ads-desktop
+scgnews.in##.widget-ad-image
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
