@@ -129,6 +129,8 @@ biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
 biharpatrika.in,pnews.co.in###metaslider_widget-2
+digitalnewslive.com###metaslider_widget-3
+digitalnewslive.com###metaslider_widget-5
 tharunaya.us###module_03_ads300x250
 cinemapettai.com###mvp-leader-wrap
 ujyaaloonline.com###myCarousel
@@ -594,6 +596,8 @@ sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
 newsbritant.com##.slider-ad1
+digitalnewslive.com##.slider_2
+digitalnewslive.com##.slider_3
 mediadabali.com##.sm-ads
 reportersnepal.com##.small-arthik-widget
 sonalinews.com##.small-side-banner-wrapper
