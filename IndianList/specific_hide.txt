@@ -355,6 +355,7 @@ creativenewsexpress.com##.banner-ad-top-single
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
+khabarhub.com##.banner-widget
 nepalsandesh.com##.bannerNews
 rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
@@ -490,6 +491,7 @@ emalayalee.com##.item3
 emalayalee.com##.item4
 karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
+khabarhub.com##.khabarhub-inner-ads
 lastnewsbd.com##.lastnews_add_1
 arthosuchak.com##.lead-after
 jayhosh.com##.leaderboard-wrapper
@@ -616,6 +618,7 @@ teznews.com,vijayavani.net##.td_spot_img_all
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 namasteandhra.com##.three_ads
+khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
 beanibazarnews24.com##.top-add
