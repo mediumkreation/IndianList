@@ -163,7 +163,7 @@ punnalaikkadduvan.com###supermag_ad-3
 medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,tamil.com,tnilive.com###text-11
 globaltamilnews.net###text-12
-irinjalakudalive.com,swisspungudutivu.com,tamil.com###text-13
+irinjalakudalive.com,janakhabar.com,swisspungudutivu.com,tamil.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,sambadsaradin.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 trttamilolli.com###text-16
@@ -329,6 +329,8 @@ radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 ada.lk,manithan.com,tamilan24.com##.advert
 ada.lk##.advert-single
+janakhabar.com##.advert_sec1_left
+janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
