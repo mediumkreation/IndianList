@@ -849,6 +849,7 @@ telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
+kantipath.com##img[alt*="add"]
 hamrokhelkud.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 dhakareport24.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
