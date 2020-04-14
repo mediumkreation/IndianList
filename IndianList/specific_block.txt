@@ -2,7 +2,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
--ad.gif|$domain=5dariyanews.com|clickmandu.com|sharetimes24.com
+-ad.gif|$domain=5dariyanews.com|clickmandu.com|sharetimes24.com|simpaninews.com
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
 -ad.png?$domain=onenewsbd.com
 -AD_$domain=ptbnewsbd.com
@@ -1646,6 +1646,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sidelook.in^*/2019/01/9$image
 ||sidelook.in^*/JP-Tecno-Park-2-copy
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
+||simpaninews.com/wp-content/uploads/2018/09/gif-forex.gif
+||simpaninews.com^*/ad_$image
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
 ||sivantv.com^*/3.gif
 ||sivantv.com^*/ad02.gif
