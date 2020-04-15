@@ -289,12 +289,13 @@ shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
-natuncumilla.com##.add_area
+europemalayali.co.uk,natuncumilla.com##.add_area
 provatnews.com##.add_banner
 rosemalayalam.com##.add_image_ryt
 rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
+europemalayali.co.uk##.add_inner_news
 narayanionline.com##.add_middle
 sancharkendra.com##.addb
 aznewsbd24.com,mediadabali.com##.addd
