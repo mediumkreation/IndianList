@@ -153,8 +153,8 @@ makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
 tamiltradepost.com###slider48
 emalayalee.com###slideshow
-emalayalee.com###slideshow2
-emalayalee.com###slideshow3
+emalayalee.com,pravasi.us###slideshow2
+emalayalee.com,pravasi.us###slideshow3
 techtamil.com###sp_widget_post_slider-2
 pnews.co.in###stream-item-widget-1
 newstruthlive.com###stream-item-widget-12
