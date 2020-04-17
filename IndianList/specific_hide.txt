@@ -64,6 +64,7 @@ sakshi.com###block-block-145
 varthabharati.in###block-block-263--2
 paristamil.com###box
 thepublicworld.com###custom_html-11
+ggsnews24.com###custom_html-19
 news127.com,tamilvoicenews.com###custom_html-2
 ddnews24x7.com###custom_html-26
 samastipurtown.com###custom_html-3
@@ -76,7 +77,7 @@ ddnews24x7.com###custom_html-48
 bdcrictime.com,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
-aajtak24live.in,uttranews.com###custom_html-9
+aajtak24live.in,ggsnews24.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
@@ -104,7 +105,11 @@ uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
 banglatelegraph.com,dainikkhojkhabar.live,deshersangbad.com,jabalpurdarpan.in,sasthabangla.com###media_image-2
+ggsnews24.com###media_image-21
 chapaidarpon.com###media_image-24
+ggsnews24.com###media_image-26
+ggsnews24.com###media_image-27
+ggsnews24.com###media_image-28
 bangladaily24.com,dainikkhojkhabar.live,globalsylhet.com,keralaonlinenews.com,sasthabangla.com###media_image-3
 starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
