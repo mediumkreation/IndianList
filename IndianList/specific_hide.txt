@@ -611,6 +611,7 @@ sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
 newsbritant.com##.slider-ad1
+bhilwarahalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 mediadabali.com##.sm-ads
@@ -868,6 +869,7 @@ dhakareport24.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
+bhilwarahalchal.com##img[alt="news"]
 banglanews24.com##img[alt="walton"]
 pressnote.in##img[alt^="Advert"]
 pnews.co.in##img[id^="Image"]
