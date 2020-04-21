@@ -65,7 +65,7 @@ varthabharati.in###block-block-263--2
 paristamil.com###box
 thepublicworld.com###custom_html-11
 ggsnews24.com###custom_html-19
-news127.com,tamilvoicenews.com###custom_html-2
+news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 ddnews24x7.com###custom_html-26
 samastipurtown.com###custom_html-3
 ddnews24x7.com###custom_html-31
@@ -535,6 +535,7 @@ fastnewsbd.com##.mainadvert8
 gnewsbd24.com##.maniio
 cninews24.com##.map
 divyamarathi.bhaskar.com##.mb_ads_title
+thamilan.lk##.mbs
 bikashnews.com##.menu_ad
 bankingkhabar.com##.meroads
 ekuruvi.com##.mid-had
