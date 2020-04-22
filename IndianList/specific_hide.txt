@@ -77,6 +77,7 @@ ddnews24x7.com###custom_html-48
 bdcrictime.com,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
+emediacreative.in###custom_html-7
 aajtak24live.in,ggsnews24.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
