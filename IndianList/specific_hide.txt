@@ -90,6 +90,7 @@ ethiri.com###header-helpful
 sanjeevanisamachar.com###header-right-section
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
+omexpress.in###hugeit_slider_widget-4
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -364,6 +365,7 @@ bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
 inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
+omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 manabadi.co.in##.backg-g
 alokitoteknaf.com,aznewsbd24.com,cplusbd.net,ektibd.com,kansatnews24.com,newsbna.com,newspabna.com,rajshahinews24.com,sylhetmail24.com##.bannar
@@ -463,7 +465,7 @@ bdbarrta24.com,orthosongbad.com##.h_ads
 myfirstshow.com##.hb-img
 corporatesangbad.com##.header-add
 akhonsamoy.com##.header-ads-area
-dainikpana.com,makkalkural.net##.header-ads-wrapper
+dainikpana.com,makkalkural.net,omexpress.in##.header-ads-wrapper
 thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
