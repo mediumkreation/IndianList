@@ -58,11 +58,13 @@ andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
 ilamai.com###banner
 devbhoomidarshan17.com###banner-10
+bangalorewaves.com###bannerclassfd
 tibrakhabar.com###black-studio-tinymce-30
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
 varthabharati.in###block-block-263--2
 paristamil.com###box
+bangalorewaves.com###classlistmain
 thepublicworld.com###custom_html-11
 ggsnews24.com###custom_html-19
 news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
@@ -310,6 +312,7 @@ europemalayali.co.uk##.add_inner_news
 narayanionline.com##.add_middle
 sancharkendra.com##.addb
 aznewsbd24.com,mediadabali.com##.addd
+bangalorewaves.com##.addima
 otvnepal.com,protikhon.com##.adds
 gourbarta24.com##.adds-lg
 gourbarta24.com##.adds-sm

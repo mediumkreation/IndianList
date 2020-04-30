@@ -103,6 +103,8 @@
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
+@@||bangalorewaves.com/images/Banner/classifieds.jpg
+@@||bangalorewaves.com/images/Banner/website-ad.jpg
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
@@ -285,6 +287,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||badhusha.com/banner/$domain=adiyakkamangalam.com
 ||badikhabar.in/wp-content/uploads/2018/03/kadam-g-final-1-300x188.jpg
 ||badikhabar.in/wp-content/uploads/2018/03/raj-33979444542160-large-300x220.jpg
+||bangalorewaves.com/images/addbanner/
+||bangalorewaves.com/images/addbannersmall/
+||bangalorewaves.com/images/Banner/
+||bangalorewaves.com/images/BW-Shopping-Ad-03.jpg
 ||bangla.campuslive24.com^*/dbbl-2016-11-07-10-54-27.jpg
 ||bangla.campuslive24.com^*/hamdard-uni-2016-11-07-10-41-27.gif
 ||bangla.campuslive24.com^*/IBN_SINA-2016-11-07-10-50-29.gif
@@ -427,6 +433,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bizmandu.com^*/midbanner
 ||bizmandu.com^*/splash
 ||bizmandu.com^*/topbanner
+||blogs.bangalorewaves.com/images/buzinessone.jpg
 ||blogspot.com^$third-party,domain=amarsylhet24.com|manabadi.co.in
 ||blogspot.com^*/1140x100px.gif$domain=arthasarokar.com
 ||blogspot.com^*/1190x104%2B%25281%2529.gif$domain=arthasarokar.com
