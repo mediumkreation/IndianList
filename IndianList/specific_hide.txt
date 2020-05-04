@@ -56,6 +56,8 @@ ap7am.com###advt-dtindex
 andhrajyothy.com###aimgMain
 andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
+kahalenews.com###attachment_43256
+kahalenews.com###attachment_44092
 ilamai.com###banner
 devbhoomidarshan17.com###banner-10
 bangalorewaves.com###bannerclassfd
@@ -378,6 +380,7 @@ asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,khobor24gh
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
 creativenewsexpress.com##.banner-ad-top-single
+kahalenews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
@@ -405,6 +408,7 @@ arthosuchak.com##.category_e_ad
 madhyamam.com##.clock-container
 lankamurasu.com,mbmnewsnetwork.com##.code-block
 newstodaynetwork.com##.code-block-1
+kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
