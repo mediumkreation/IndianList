@@ -321,7 +321,7 @@ bangalorewaves.com##.addima
 otvnepal.com,protikhon.com##.adds
 gourbarta24.com##.adds-lg
 gourbarta24.com##.adds-sm
-otvnepal.com##.adds_menu
+otvnepal.com,swadeshnepal.com##.adds_menu
 otvnepal.com##.adds_rajn
 otvnepal.com##.adds_side
 ntnews.com##.addsn
