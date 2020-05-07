@@ -482,7 +482,7 @@ ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
-corporatesangbad.com##.header__banner
+corporatesangbad.com,upayuktha.com##.header__banner
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 univarta.com##.header_bottom_ad
@@ -588,6 +588,7 @@ supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
+upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
