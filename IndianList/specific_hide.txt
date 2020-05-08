@@ -6,6 +6,7 @@ thattungal.com###HTML13
 madhepurakhabar.com,thattungal.com###HTML16
 madhepurakhabar.com,thattungal.com###HTML18
 chilahatiweb.com###HTML2
+importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 chilahatiweb.com###HTML4
 chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
@@ -38,7 +39,7 @@ hamaramahanagar.in,madawalaenews.com,malabarflash.com,nepalmother.com,poonththal
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,thattungal.com###Image5
 madhepuratimes.com,malabarflash.com,thattungal.com###Image6
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,thattungal.com###Image7
-nepalmother.com,thattungal.com###Image8
+importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 madhepuratimes.com,malabarflash.com,thattungal.com###Image9
 poonththalir.blogspot.com###LinkList21
@@ -154,6 +155,7 @@ lankadeepa.lk###myModal1
 thevoices.in###mycarousel-273
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
+importmirror.com###p-vila
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 rojgarlive.com###popup_indiv2
