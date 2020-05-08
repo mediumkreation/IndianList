@@ -377,7 +377,7 @@ omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 manabadi.co.in##.backg-g
 alokitoteknaf.com,aznewsbd24.com,cplusbd.net,ektibd.com,kansatnews24.com,newsbna.com,newspabna.com,rajshahinews24.com,sylhetmail24.com##.bannar
-asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,khobor24ghonta.com,postpati.com,punjabmailusa.com##.banner
+asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
 creativenewsexpress.com##.banner-ad-top-single
