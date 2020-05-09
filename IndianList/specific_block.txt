@@ -4,6 +4,7 @@
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|sharetimes24.com|simpaninews.com
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
+-Ad.jpg|$domain=cinemapluz.com
 -ad.png?$domain=onenewsbd.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
