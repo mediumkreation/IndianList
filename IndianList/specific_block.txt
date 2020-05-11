@@ -2,7 +2,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
--ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|sharetimes24.com|simpaninews.com
+-ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|satkarpost.com|sharetimes24.com|simpaninews.com
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
 -Ad.jpg|$domain=cinemapluz.com
 -ad.png?$domain=onenewsbd.com
@@ -1674,6 +1674,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sathyamonline.com^*/Sathyam_online_Direct_1000x70_MAL-01-2.jpg
 ||sathyamonline.com^*/Web-banner-Malayalam-728-x-90.jpg
 ||sathyamonline.com^*/Webp.net-gifmaker-2-1.gif
+||satkarpost.com/wp-content/uploads/2019/05/maruti-may-1140x100pix.gif
 ||secureservercdn.net^*/IMG-20191114-WA0006$domain=samastipurtown.com
 ||secureservercdn.net^*/IMG-20191114-WA0007$domain=samastipurtown.com
 ||secureservercdn.net^*/IMG-20191217-WA0010$domain=samastipurtown.com
