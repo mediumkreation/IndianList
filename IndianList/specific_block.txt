@@ -112,6 +112,7 @@
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
+@@||shilapatra.com/uploads/bigyapan/1563530826.jpg
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
 _300-x$image,domain=bikashnews.com
 _336x280.$domain=ajabgjab.com
@@ -1699,6 +1700,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sherpurnews24.com^*/Logos_gra$image
 ||sherpurtimes.com^*/16564_203008234_f742e58bb79b713bc6f17a52c741b6cf.gif
 ||sherpurtimes.com^*/Sherpur-times-Winter.gif
+||shilapatra.com/uploads/bigyapan/
 ||shobshomoy.com^*/Marchblink725X60.jpg
 ||shobshomoy.com^*/robi407x75.gif
 ||shortpixel.ai^$domain=dainiksylhet.com
