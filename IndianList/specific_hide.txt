@@ -889,6 +889,8 @@ malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
 kantipath.com##img[alt*="add"]
+onlinemarg.com##img[alt="1205X128"]
+onlinemarg.com##img[alt="Header Ad"]
 hamrokhelkud.com,knanayaworld.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 dhakareport24.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
