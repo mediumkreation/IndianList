@@ -368,8 +368,8 @@ divaina.com##.advertisments
 chapainews.com##.advrts
 dainiksylhet.com##.advsingle
 andhrajyothy.com##.advt-bg
-dainiknepal.com,enepalese.com##.advt_bx
-enepalese.com##.advt_r
+dainiknepal.com,enepalese.com,samayapost.com##.advt_bx
+enepalese.com,samayapost.com##.advt_r
 osnepal.com##.alignnone.size-full
 hulchalnews24.com##.alignnone.size-medium
 bspabla.com##.amzn_wdgt
