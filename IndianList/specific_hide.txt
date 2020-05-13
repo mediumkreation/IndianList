@@ -72,14 +72,14 @@ thepublicworld.com###custom_html-11
 ggsnews24.com###custom_html-19
 news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 ddnews24x7.com###custom_html-26
-samastipurtown.com###custom_html-3
+jagprerna.com,samastipurtown.com###custom_html-3
 ddnews24x7.com###custom_html-31
 ddnews24x7.com###custom_html-39
 news127.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-bdcrictime.com,techtamil.com###custom_html-5
+bdcrictime.com,jagprerna.com,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 emediacreative.in###custom_html-7
@@ -159,6 +159,7 @@ importmirror.com###p-vila
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 rojgarlive.com###popup_indiv2
+jagprerna.com###post-7708
 bhalukanews.com###primary img[alt="ads"]
 industryhit.com###pum-15632
 manithan.com###recommendations
@@ -181,9 +182,9 @@ newstruthlive.com###stream-item-widget-12
 bestnow.in###stream-item-widget-5
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
-medianp.com,tamil.com,vanakkamlondon.com###text-10
-anaicoddai.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,tamil.com,tnilive.com###text-11
-globaltamilnews.net###text-12
+jagprerna.com,medianp.com,tamil.com,vanakkamlondon.com###text-10
+anaicoddai.com,jagprerna.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,tamil.com,tnilive.com###text-11
+globaltamilnews.net,jagprerna.com###text-12
 irinjalakudalive.com,janakhabar.com,swisspungudutivu.com,tamil.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,sambadsaradin.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
@@ -191,7 +192,7 @@ trttamilolli.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
 sambadsaradin.com###text-19
-anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,kositimes.com,moviemandu.com,parichowk.com,vijaychowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,vijaychowk.com,yarlosai.com###text-2
 tnilive.com,vanakkamlondon.com###text-20
 vanakkamlondon.com###text-21
 vanakkamlondon.com###text-22
@@ -200,21 +201,21 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-bdkhobor24.com,dailymomenshahi.com,moviemandu.com,orthosongbad.com,parichowk.com,tennews.in,theneeweb.net,tnilive.com###text-3
+bdkhobor24.com,dailymomenshahi.com,jagprerna.com,moviemandu.com,orthosongbad.com,parichowk.com,tennews.in,theneeweb.net,tnilive.com###text-3
 achhikhabar.com###text-30
 e-jaffna.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,dailypunjabtimes.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,sabjanta.info,vanakkamlondon.com###text-4
+ajithfans.com,dailypunjabtimes.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,sabjanta.info,vanakkamlondon.com###text-4
 trttamilolli.com###text-40
 trttamilolli.com###text-42
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
-biharpatrika.in,orthosongbad.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
+biharpatrika.in,jagprerna.com,orthosongbad.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 anaicoddai.com,mbmnewsnetwork.com###text-52
@@ -222,10 +223,10 @@ aapkisafalta.com###text-54
 anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-dailypunjabtimes.com,medianp.com,orthosongbad.com###text-6
-apnades.in,vanakkamlondon.com###text-7
+dailypunjabtimes.com,jagprerna.com,medianp.com,orthosongbad.com###text-6
+apnades.in,jagprerna.com,vanakkamlondon.com###text-7
 dmoitry.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com###text-8
-kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
+jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 uttareralo24.com###text-html-widget-2
