@@ -1325,6 +1325,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||neplays.com^*/NLIC-02.gif
 ||neplays.com^*/RBB.gif
 ||nethfm.lk/banners/$domain=nethgossip.lk
+||nethfm.lk/banners/img/seylan_stay_safe.png
 ||netrigun.com^*-316x120
 ||netrigun.com^*/3251gif-kadi.gif
 ||netrigun.com^*/asian-food_city_02.gif
