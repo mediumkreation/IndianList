@@ -659,7 +659,8 @@ tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
 crimecontrolnews.com,moviemirchi24.com,newstodaynetwork.com,punjabinewsonline.com##.td-a-rec
 myagdikali.com##.td-a-rec-id-custom-spot
-aapkiaawaz.net##.td-a-rec-id-sidebar
+headlinenews.lk##.td-a-rec-id-header
+aapkiaawaz.net,headlinenews.lk##.td-a-rec-id-sidebar
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
