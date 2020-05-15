@@ -633,6 +633,7 @@ manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
+ghazipuraajkal.com##.single-post-content img.alignnone
 ctgtimes.com##.single_ads_top
 snn24.com##.single_before_ad
 sanjevani.com##.site-header-banner
