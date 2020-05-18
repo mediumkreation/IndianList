@@ -372,6 +372,7 @@ dainiksylhet.com##.advsingle
 andhrajyothy.com##.advt-bg
 dainiknepal.com,enepalese.com,samayapost.com##.advt_bx
 enepalese.com,samayapost.com##.advt_r
+updatenews360.com##.aft-sticky-sidebar
 osnepal.com##.alignnone.size-full
 hulchalnews24.com##.alignnone.size-medium
 bspabla.com##.amzn_wdgt
@@ -490,6 +491,7 @@ krishakjagat.org##.header-subscription
 corporatesangbad.com,upayuktha.com##.header__banner
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
+updatenews360.com##.header_ads_slide
 univarta.com##.header_bottom_ad
 natuncumilla.com##.header_date_sidebar
 banglanewsca.com##.header_top_ad_area_2
