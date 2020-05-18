@@ -912,6 +912,7 @@ pressnote.in##img[alt^="Advert"]
 pnews.co.in##img[id^="Image"]
 dhakatoday.com##img[src*="mediabell.net"]
 dainiki.com##section img.attachment-full
+lokpath.com##section.widget img:only-child
 jayhosh.com##section.widget_media_image
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
