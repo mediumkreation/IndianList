@@ -1989,6 +1989,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*/banner-travel$domain=nirpakhawaaz.in
 ||wp.com^*/bef3a7acf8de4d81bda39bbdc3265d32_18image$domain=uttaranews24.com
 ||wp.com^*/cjmc-new-add-$domain=pariwartankhabar.com
+||wp.com^*/eastern-$image,domain=indiavisionmedia.com
 ||wp.com^*/gandaki.jpg?$domain=bankingkhabar.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
 ||wp.com^*/icb.gif$domain=dhakanews24.com
