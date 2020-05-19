@@ -654,6 +654,7 @@ alorkantho24.news##.spad
 ekuruvi.com##.span-2 a:only-child
 kaumudiplus.com##.spnsrd-ad
 veeravengaikal.com##.sppb-addon-clients
+keralanewshunt.com##.st-banner
 eastcoastdaily.com##.stream-item-mag
 ibctamil.com##.t-eds
 otvnepal.com##.taja-adds

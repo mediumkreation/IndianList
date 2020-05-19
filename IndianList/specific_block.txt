@@ -1014,6 +1014,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||kazirbazar.com^*/ad-1.jpg
 ||kelimandala.lankadeepa.lk^*/advr_
 ||keralaexpress.com^*/banners
+||keralanewshunt.com/images/coirfed%20cut.jpg
+||keralanewshunt.com/images/csb.jpg
+||keralanewshunt.com/images/Kerafednew.jpg
 ||keralaonlinenews.com^*/atlas-$image
 ||keralaonlinenews.com^*/banner
 ||keralaonlinenews.com^*/Pallithara-main-page-sidebar
