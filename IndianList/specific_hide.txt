@@ -675,6 +675,7 @@ paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 indiavisionmedia.com##.thd
 namasteandhra.com##.three_ads
+netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
 lankasri.com##.today-eds-wrap
@@ -704,6 +705,8 @@ unmadmagazine.com##.twp-adv-header
 thesaturdaynews.com##.under_more_hit_advertisement
 valaitamil.com##.upper_links
 changetv.press##.vc_custom_1546328500609
+netmalayalam.com##.vc_figure
+netmalayalam.com##.vc_slide
 tamilcinemaz.com##.vl-header-ads
 tnilive.com##.vmagazine_lite_medium_ad
 vaarte.com##.vmagazine_medium_ad
