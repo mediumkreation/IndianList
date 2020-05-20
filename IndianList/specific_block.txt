@@ -121,6 +121,7 @@ __add$domain=natuncumilla.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com
 _AD_GIF$domain=kahalenews.com
 _add-$domain=pba.agency
+_add.gif|$domain=malayalamtodayonline.com
 _add.jpg|$domain=gourbarta24.com|politics.lk
 _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
@@ -1162,6 +1163,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||malabarinews.com^*/WhatsApp-Image
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||malayalamexpress.in^*/Malayalamexpress_Direct_1168x109_MAL-01.jpg
+||malayalamtodayonline.com/wp-content/themes/malayalam/images/innerpagesidebar.gif
 ||malayalamuk.com/wp-content/uploads/2017/10/M-Vision21.gif
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||manoramaonline.com^*/promotions/$image

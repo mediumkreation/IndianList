@@ -48,6 +48,7 @@ puthiyathalaimurai.com###__ads1
 puthiyathalaimurai.com###__ads2
 malabarflash.com###ad
 thereport24.com###add-place
+malayalamtodayonline.com###add_slider_header_banner
 lnstarnews.com###add_wrapper
 professorsbd.com###addv
 udayavani.com###ads
@@ -67,6 +68,7 @@ sakshi.com###block-block-141--2
 sakshi.com###block-block-145
 varthabharati.in###block-block-263--2
 paristamil.com###box
+malayalamtodayonline.com###boxes
 bangalorewaves.com###classlistmain
 thepublicworld.com###custom_html-11
 ggsnews24.com###custom_html-19
@@ -314,6 +316,7 @@ onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
 europemalayali.co.uk,natuncumilla.com##.add_area
 provatnews.com##.add_banner
+malayalamtodayonline.com##.add_bnk_img
 rosemalayalam.com##.add_image_ryt
 rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
