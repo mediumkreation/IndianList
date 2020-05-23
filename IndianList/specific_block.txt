@@ -867,9 +867,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i0.wp.com/sajhatv.com/wp-content/uploads/2017/06/Slap-the-Deal-Banner.gif
 ||i0.wp.com/www.arthosuchak.com/wp-content/uploads/2015/04/moshishor.gif
 ||i0.wp.com/www.arthosuchak.com/wp-content/uploads/2015/06/pisl.gif
+||i0.wp.com/www.sallerikhabar.com/wp-content/uploads/2020/02/ntc1050x100px_1.gif
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
+||i1.wp.com/www.sallerikhabar.com/wp-content/uploads/2019/09/1567317741.gif
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
+||i2.wp.com/www.sallerikhabar.com/wp-content/uploads/2020/02/1580622357.gif
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
@@ -942,6 +945,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||jaijaidinbd.com^*/ad_
 ||jalleda.com/images/blogbook.jpg
 ||jalleda.com/images/keyboard.png
+||janaboli.com^$third-party,domain=sallerikhabar.com
 ||janapati.net/wp-content/uploads/2020/02/vlkn.jpg
 ||janapati.net/wp-content/uploads/2020/03/femina-sadi-1.jpg
 ||janapati.net/wp-content/uploads/2020/03/new-budha-nn.jpg
