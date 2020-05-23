@@ -396,6 +396,7 @@ kahalenews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
 himalini.com,pularvu.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
+ekusheypatrika.com##.banner-section
 khabarhub.com##.banner-widget
 nepalsandesh.com##.bannerNews
 rosemalayalam.com##.banner_slider
