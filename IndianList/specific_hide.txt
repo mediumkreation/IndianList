@@ -450,6 +450,7 @@ uukmanews.com##.each-side-ads > a
 kamuktastories.com##.enhanced-text-widget
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
+newswings.online##.entry-content .alignnone:only-child
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -579,6 +580,7 @@ manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
+newswings.online##.mom-e3lanat
 bn24live.in##.mom-e3lanat-wrap
 amanpath.in##.mvp-flex-ad
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
