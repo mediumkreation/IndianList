@@ -1178,6 +1178,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||malayalamexpress.in^*/Malayalamexpress_Direct_1168x109_MAL-01.jpg
 ||malayalamtodayonline.com/wp-content/themes/malayalam/images/innerpagesidebar.gif
 ||malayalamuk.com/wp-content/uploads/2017/10/M-Vision21.gif
+||malayalanad.com/images/advt$image
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||manoramaonline.com^*/promotions/$image
 ||mawbima.lk/Maw_ad.html
