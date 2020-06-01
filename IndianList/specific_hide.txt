@@ -919,6 +919,7 @@ deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
 kantipath.com##img[alt*="add"]
 onlinemarg.com##img[alt="1205X128"]
+newswayanad.in##img[alt="Ad"]
 onlinemarg.com##img[alt="Header Ad"]
 farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 dhakareport24.com##img[alt="add"]
