@@ -13,7 +13,7 @@
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
--add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|teluguwishesh.com
+-add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|teluguwishesh.com
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
@@ -1477,6 +1477,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||paristamil.com/box_client1.php
 ||paristamil.com/info/images/kerala-mooligai-vaithiyam-oil-massage-2.jpg
 ||paristamil.com/layout_images/index/acs30x25.jpg
+||patheo24.com/wp-content/uploads/2018/12/IQRA$image
+||patheo24.com/wp-content/uploads/2019/07/patheo-islahulbd.jpg
+||patheo24.com/wp-content/uploads/2019/11/1111.jpg
+||patheo24.com/wp-content/uploads/2020/01/wwwwwwwwwwwwwwwwwwwwwwwwwwww.jpg
 ||pathramonline.com/wp-content/uploads/2020/04/cemmannur-1.jpg
 ||pba.agency^*/brangkings-400.jpg
 ||pba.agency^*/lpg-ads-final.jpg
