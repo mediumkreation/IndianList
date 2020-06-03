@@ -396,6 +396,7 @@ creativenewsexpress.com##.banner-ad-bottom-single
 creativenewsexpress.com##.banner-ad-top-single
 kahalenews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
+bholarbani.com##.banner-img
 himalini.com,pularvu.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
@@ -688,6 +689,7 @@ teznews.com,vijayavani.net##.td_spot_img_all
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 indiavisionmedia.com##.thd
+bholarbani.com##.thedailytext-advertise
 namasteandhra.com##.three_ads
 netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
