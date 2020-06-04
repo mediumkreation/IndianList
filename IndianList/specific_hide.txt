@@ -909,6 +909,7 @@ newsdeskkannada.com##aside.widget_simpleimage
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
+unitednripost.com##div[class*=" ads_"]
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
