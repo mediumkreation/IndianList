@@ -618,6 +618,7 @@ supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
+nawidunia.com##.owl-carousel
 upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 prajavani.net##.pj-ad-card
