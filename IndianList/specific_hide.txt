@@ -175,6 +175,8 @@ buxarkhabar.com###rich_webSlider1_2
 edainikazadi.net###right-holder
 kodanki.in###secondary
 dinamalar.com###selum
+haryananewsonline.com###sidebar-primary-sidebar
+haryananewsonline.com###sidebar-secondary-sidebar
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
 makkalkural.net###slider
@@ -655,6 +657,7 @@ manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
+haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 ctgtimes.com##.single_ads_top
 snn24.com##.single_before_ad
