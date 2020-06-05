@@ -116,7 +116,7 @@ jantabulletin.wordpress.com###media_gallery-2
 jantabulletin.wordpress.com###media_gallery-3
 bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,postpati.com###media_image-10
 canvasmagazine.com.bd,news127.com,scgnews.in###media_image-11
-uttranews.com###media_image-15
+punjabbaani.com,uttranews.com###media_image-15
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
 banglatelegraph.com,dainikkhojkhabar.live,deshersangbad.com,jabalpurdarpan.in,nationaldunia.com,puthusudar.lk,sasthabangla.com###media_image-2
@@ -210,21 +210,21 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-bdkhobor24.com,dailymomenshahi.com,jagprerna.com,moviemandu.com,orthosongbad.com,parichowk.com,tennews.in,theneeweb.net,tnilive.com###text-3
+bdkhobor24.com,dailymomenshahi.com,jagprerna.com,moviemandu.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 achhikhabar.com###text-30
 e-jaffna.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,dailypunjabtimes.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,sabjanta.info,vanakkamlondon.com###text-4
+ajithfans.com,dailypunjabtimes.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,punjabbaani.com,sabjanta.info,vanakkamlondon.com###text-4
 trttamilolli.com###text-40
 trttamilolli.com###text-42
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
-biharpatrika.in,jagprerna.com,orthosongbad.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
+biharpatrika.in,jagprerna.com,orthosongbad.com,punjabbaani.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 anaicoddai.com,mbmnewsnetwork.com###text-52
@@ -412,6 +412,7 @@ rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
+punjabbaani.com##.bdaia-e3-container
 nabaz-e-punjab.com##.bdaia-widget-e3
 nagariknetwork.com##.below-article-ad
 onlinepana.com##.betn-add
