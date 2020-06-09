@@ -1184,6 +1184,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||malayalamuk.com/wp-content/uploads/2017/10/M-Vision21.gif
 ||malayalanad.com/images/advt$image
 ||malayalilife.com/assets/uploads/banner/
+||maloutlive.com/wp-content/uploads/2019/06/food-malout.jpg
+||maloutlive.com/wp-content/uploads/2020/05/sd-school-malout-1.jpg
 ||malwanews.com/wp-content/uploads/2017/08/ranovation.jpg
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||manoramaonline.com^*/promotions/$image
