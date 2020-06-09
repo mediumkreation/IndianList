@@ -256,6 +256,9 @@ pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
+despardesweekly.co.uk###widget_sp_image-2
+despardesweekly.co.uk###widget_sp_image-3
+despardesweekly.co.uk###widget_sp_image-7
 ddnews24x7.com###wonderplugincarousel-1
 samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
@@ -652,6 +655,7 @@ onlinekhabar.com##.side__add
 sancharkendra.com##.sidea
 beanibazarview24.com##.sidebar [id^="media_image"]
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
+despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 sajhapost.com##.sidebarAd-new
 arthosuchak.com##.sidebar_google_ad
