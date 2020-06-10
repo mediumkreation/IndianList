@@ -628,6 +628,7 @@ prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
+agraleaks.com##.post-content > figure > img:only-child
 mannarkkadlive.com##.post-inner-image
 pchelpcenterbd.com##.pragads
 publictv.in##.pt-adv
@@ -646,6 +647,8 @@ theindianstate.in##.sb-banner
 jaianndata.com##.scnd-add
 ns7.tv##.seithigalad
 banglatelegraph.com##.sentbe-top
+agraleaks.com##.sgpb-popup-dialog-main-div-wrapper
+agraleaks.com##.sgpb-popup-overlay
 arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
