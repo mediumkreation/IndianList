@@ -2,7 +2,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
--ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|satkarpost.com|sharetimes24.com|simpaninews.com
+-ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
 -Ad.jpg|$domain=cinemapluz.com
 -ad.jpg|$domain=indiaaajkal.in
@@ -1916,6 +1916,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||thisaikaddi.com^*/logo-header.png
 ||thuglak.com/images/paperad.jpg
 ||timeskerala.com^*/970X90_ONAM_TIMESKERALA_ONLINE_19AUG19_MJ.jpg
+||timesofnellore.com/wp-content/uploads/2018/09/naturesvalley.jpg
 ||tips4blog.com^*/domain-registration.png
 ||tollywood.net^*/landing_page$image
 ||topnewskerala.com^*/newspaper-rec728.jpg
