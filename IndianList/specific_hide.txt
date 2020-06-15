@@ -623,7 +623,7 @@ priyo.com##.offer_grid
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 nawidunia.com##.owl-carousel
-upayuktha.com##.penci-banner-box
+breakingtube.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
@@ -773,6 +773,7 @@ haldwanilive.com##.wp-image-25705
 haldwanilive.com##.wp-image-26920
 haldwanilive.com##.wp-image-28396
 sajagindia.com##.wpb_raw_code
+breakingtube.com##.wpb_video_widget
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
