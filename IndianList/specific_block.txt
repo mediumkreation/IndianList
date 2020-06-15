@@ -7,6 +7,7 @@
 -Ad.jpg|$domain=cinemapluz.com
 -ad.jpg|$domain=indiaaajkal.in
 -ad.png?$domain=onenewsbd.com
+-Ad.png|$domain=dailyghagot.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
 -ADD-$domain=shomoynews.net
@@ -647,6 +648,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dailycomillanews.com^*/website.gif
 ||dailydinkal.net/epaper/ad/
 ||dailygazipuronline.com^*/60617657_1102721863245100_7060284768373440512_n
+||dailyghagot.com/wp-content/uploads/2019/07/Sorno-Vobon.png
 ||dailyjanatarnews.com^*/123.png
 ||dailyjanatarnews.com^*/janani-new.gif
 ||dailykesari.com^*/TMV-add-
