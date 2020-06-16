@@ -313,6 +313,7 @@ nagariknetwork.com,thebengalitimes.com##.add-section
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
 gourbarta24.com##.add-slider
+cnibd.net##.add-space
 samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
 dirt-sheet.com##.add-widget
