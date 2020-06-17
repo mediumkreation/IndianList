@@ -114,7 +114,7 @@ bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
 jantabulletin.wordpress.com###media_gallery-2
 jantabulletin.wordpress.com###media_gallery-3
-bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,postpati.com###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,parbatyachattagram.com,postpati.com###media_image-10
 canvasmagazine.com.bd,news127.com,scgnews.in###media_image-11
 mirrortoday.in###media_image-14
 punjabbaani.com,uttranews.com###media_image-15
@@ -136,7 +136,7 @@ muldharpost.com,sasthabangla.com###media_image-4
 dainikkhojkhabar.live,keralaonlinenews.com,muldharpost.com,newsplus.lk###media_image-5
 onlinepana.com###media_image-51
 bijoynewsbd24.com,dainikkhojkhabar.live,kannurvarthakal.in,mirrortoday.in,muldharpost.com,sasthabangla.com###media_image-6
-bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com###media_image-7
+bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,parbatyachattagram.com###media_image-7
 bijoynewsbd24.com,dainikkhojkhabar.live,dhakardak-bd.com,kannurvarthakal.in,newsplus.lk,sasthabangla.com,scgnews.in###media_image-8
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,scgnews.in###media_image-9
 democratictvnews.com###media_video-6
@@ -456,7 +456,7 @@ ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
 manabadi.co.in##.dsc-banners
-greenbanglanews.com,jamunanewsbd.com,kasaragod.com##.e3lan
+greenbanglanews.com,jamunanewsbd.com,kasaragod.com,parbatyachattagram.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
