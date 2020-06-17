@@ -632,6 +632,7 @@ rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
 agraleaks.com##.post-content > figure > img:only-child
 mannarkkadlive.com##.post-inner-image
+telugutimes.net##.post-sidebar-area
 pchelpcenterbd.com##.pragads
 publictv.in##.pt-adv
 nepalipatra.com##.rd-ads
