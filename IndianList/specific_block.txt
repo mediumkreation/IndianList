@@ -16,6 +16,7 @@
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|teluguwishesh.com
+-Add.jpg|$domain=suprovatsatkhira.com
 -add.png?$domain=osnepal.com
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
@@ -1865,6 +1866,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||stocktimes24.com^*/shop-land-e1537936605250.png
 ||sundayshalom.com^*/sunday-shalom$image
 ||suprobhat.com^*/pedrollo-web
+||suprovatsatkhira.com/wp-content/uploads/2019/06/china.gif
+||suprovatsatkhira.com/wp-content/uploads/2019/11/Barsa-Resort-Tourism-Add-
+||suprovatsatkhira.com/wp-content/uploads/2019/11/CHINA-BANGL-ADD-
 ||surmanews24.com^*/86848839_2792229974201639_4924484861642670080_n.jpg
 ||surmanews24.com^*/mirror-e1559380548934.jpg
 ||sustnews24.com^*_n-150x27
