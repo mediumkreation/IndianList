@@ -11,7 +11,7 @@ kasargodvartha.com###HTML20
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 chilahatiweb.com###HTML4
-chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
+battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com###HTML6
 chapainawabganjnews.com,madhepurakhabar.com###HTML7
 madhepurakhabar.com,rknewsofindia.com###HTML8
