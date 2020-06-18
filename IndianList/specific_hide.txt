@@ -187,6 +187,7 @@ emalayalee.com###slideshow
 emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
 techtamil.com###sp_widget_post_slider-2
+ourislam24.net###spc-ads
 pnews.co.in###stream-item-widget-1
 newstruthlive.com###stream-item-widget-12
 bestnow.in###stream-item-widget-5
@@ -712,6 +713,7 @@ alertnews24.com##.text-html
 indiavisionmedia.com##.thd
 bholarbani.com##.thedailytext-advertise
 namasteandhra.com##.three_ads
+ourislam24.net##.ti-ads
 netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
