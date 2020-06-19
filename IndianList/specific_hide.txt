@@ -73,6 +73,7 @@ paristamil.com###box
 malayalamtodayonline.com###boxes
 bangalorewaves.com###classlistmain
 thepublicworld.com###custom_html-11
+kalaroanews.com###custom_html-13
 ggsnews24.com###custom_html-19
 news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 ddnews24x7.com###custom_html-26
@@ -86,7 +87,7 @@ ddnews24x7.com###custom_html-48
 bdcrictime.com,jagprerna.com,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
-emediacreative.in###custom_html-7
+emediacreative.in,kalaroanews.com###custom_html-7
 aajtak24live.in,ggsnews24.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
@@ -200,8 +201,8 @@ globaltamilnews.net,jagprerna.com###text-12
 irinjalakudalive.com,janakhabar.com,swisspungudutivu.com,tamil.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,sambadsaradin.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
-trttamilolli.com###text-16
-anaicoddai.com,apnades.in,e-jaffna.com,vanakkamlondon.com###text-17
+kalaroanews.com,trttamilolli.com###text-16
+anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
 sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,vijaychowk.com,yarlosai.com###text-2
