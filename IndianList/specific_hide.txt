@@ -398,6 +398,7 @@ osnepal.com##.alignnone.size-full
 hulchalnews24.com##.alignnone.size-medium
 bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
+voiceofsatkhira.com##.article-body-banner
 inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
