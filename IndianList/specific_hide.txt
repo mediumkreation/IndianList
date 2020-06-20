@@ -74,6 +74,7 @@ malayalamtodayonline.com###boxes
 bangalorewaves.com###classlistmain
 thepublicworld.com###custom_html-11
 kalaroanews.com###custom_html-13
+notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 ddnews24x7.com###custom_html-26
@@ -246,7 +247,13 @@ uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
 bdtoday24.com###text-html-widget-35
 bdtoday24.com###text-html-widget-41
+notunerkotha.com###tie-block_1375
+notunerkotha.com###tie-block_1947
+notunerkotha.com###tie-block_2330
 cgtop36.com###tie-block_3472
+notunerkotha.com###tie-block_428
+notunerkotha.com###tie-block_629
+notunerkotha.com###tie-block_972
 bareillylive.com###tie-slider-widget-2
 bareillylive.com###tie-slider-widget-9
 lastnewsbd.com###top-banner
