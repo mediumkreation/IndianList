@@ -935,6 +935,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
 ||icetoday.net^*/aura-add-
+||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
 ||imageshack.com^$third-party,domain=karaitivunews.com
 ||imgur.com^$third-party,domain=braveindianews.com|nepalipatra.com|news71online.com
 ||indiaaajkal.in/wp-content/uploads/2018/01/4cd9722a6166e45fb6849cd55c720780-marketing-program-online-marketing
