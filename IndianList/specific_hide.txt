@@ -294,6 +294,7 @@ banglanewsca.com##.Front-page-Right-Side-Ad
 lastnewsbd.com##.Photo_top_banner
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
+tamil.oneindia.com##._adr_abp_container
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 keralakaumudi.com##.a-728-90
@@ -461,6 +462,7 @@ nepaljapan.com##.category_ads_3_cols
 arthosuchak.com##.category_c_ad
 arthosuchak.com##.category_e_ad
 madhyamam.com##.clock-container
+tamil.oneindia.com##.cmscontent-top
 lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code-block
 newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
@@ -647,6 +649,7 @@ elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
+tamil.oneindia.com##.oiad
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 nawidunia.com##.owl-carousel
