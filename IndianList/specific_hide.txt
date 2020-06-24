@@ -652,6 +652,7 @@ ournewsbd.net##.onads
 nawidunia.com##.owl-carousel
 breakingtube.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
+jugantor.com##.pg-ad
 prajavani.net##.pj-ad-card
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
