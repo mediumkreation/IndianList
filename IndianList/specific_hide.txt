@@ -617,6 +617,7 @@ thamilan.lk##.mbs
 bikashnews.com##.menu_ad
 bankingkhabar.com##.meroads
 satwadhara.news##.metaslider
+punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
