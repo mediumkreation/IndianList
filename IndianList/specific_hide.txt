@@ -742,6 +742,7 @@ paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 indiavisionmedia.com##.thd
 bholarbani.com##.thedailytext-advertise
+natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
 namasteandhra.com##.three_ads
 ourislam24.net##.ti-ads
 netmalayalam.com##.tigDiv
