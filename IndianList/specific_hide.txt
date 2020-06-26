@@ -483,6 +483,7 @@ nethgossip.lk##.display-lap
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
+doolnews.com##.dool-ad
 manabadi.co.in##.dsc-banners
 greenbanglanews.com,jamunanewsbd.com,kasaragod.com,parbatyachattagram.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
