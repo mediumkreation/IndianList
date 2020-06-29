@@ -491,6 +491,7 @@ deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
 ceylonradio.co.uk,deshersangbad.com,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
+keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
@@ -586,6 +587,7 @@ emalayalee.com##.item4
 kakakhabarilaal.com##.kakak-after-content
 karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
+keralaonlinenews.com##.keral-widget
 khabarhub.com##.khabarhub-inner-ads
 kannurnewsonline.com##.ktmjq
 lastnewsbd.com##.lastnews_add_1
