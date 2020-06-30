@@ -76,7 +76,7 @@ thepublicworld.com###custom_html-11
 kalaroanews.com###custom_html-13
 notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
-news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
+januday.com,news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 ddnews24x7.com###custom_html-26
 jagprerna.com,samastipurtown.com###custom_html-3
 ddnews24x7.com###custom_html-31
@@ -154,8 +154,8 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-biharpatrika.in,mahekasansar.com,pnews.co.in###metaslider_widget-2
-digitalnewslive.com,mahekasansar.com###metaslider_widget-3
+biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
+digitalnewslive.com,januday.com,mahekasansar.com###metaslider_widget-3
 mahekasansar.com###metaslider_widget-4
 digitalnewslive.com###metaslider_widget-5
 tharunaya.us###module_03_ads300x250
