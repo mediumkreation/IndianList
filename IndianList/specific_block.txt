@@ -14,6 +14,7 @@
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
+-add.gif|$domain=wenepali.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|teluguwishesh.com
 -Add.jpg|$domain=suprovatsatkhira.com
@@ -2168,6 +2169,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||vromoninfo.com/wp-content/uploads/2020/04/Webp.net-gifmaker.gif
 ||vvtuk.com^*/MATHAVAN.gif
 ||vvtuk.com^*/sre-edited.jpg
+||wenepali.com/wp-content/uploads/2020/01/B-Tour.gif
 ||wenepali.com^*/apex.gif
 ||wenepali.com^*/asmita.gif
 ||wenepali.com^*/astar.gif
