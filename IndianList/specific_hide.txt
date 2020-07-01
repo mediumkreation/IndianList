@@ -661,8 +661,8 @@ breakingtube.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 jugantor.com##.pg-ad
 prajavani.net##.pj-ad-card
-rtvonline.com##.popup_blackoverlay
-rtvonline.com##.popup_whiteoverlay
+abnews24.com,rtvonline.com##.popup_blackoverlay
+abnews24.com,rtvonline.com##.popup_whiteoverlay
 narayanionline.com##.post-advertiesment
 agraleaks.com##.post-content > figure > img:only-child
 mannarkkadlive.com##.post-inner-image
