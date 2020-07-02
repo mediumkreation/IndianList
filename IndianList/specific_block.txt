@@ -1303,6 +1303,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||mekhadooth.com/wp-content/uploads/2019/05/unnamed-1.jpg
 ||mekhadooth.com/wp-content/uploads/2019/05/WhatsApp-Image-2019-06-06-at-2.50.17-PM.jpeg
 ||mekhadooth.com/wp-content/uploads/2019/09/IMG-20190917-WA0142.jpg
+||merodomain.com^$third-party,domain=nepalinepali.com
 ||metromirror.lk/wp-content/uploads/2020/06/104873562_3016354278445973_425451848029153432_n-1$image
 ||metromirror.lk/wp-content/uploads/2020/06/105915371_3016353408446060_1835668036530507058_n-1$image
 ||metromirror.lk/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-20-at-9.06.25-AM
