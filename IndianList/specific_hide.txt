@@ -484,6 +484,7 @@ nethgossip.lk##.display-lap
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
+gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 manabadi.co.in##.dsc-banners
 greenbanglanews.com,jamunanewsbd.com,kasaragod.com,parbatyachattagram.com##.e3lan
@@ -685,6 +686,7 @@ theindianstate.in##.sb-banner
 jaianndata.com##.scnd-add
 ns7.tv##.seithigalad
 banglatelegraph.com##.sentbe-top
+gulfmalayaly.com##.sep
 agraleaks.com##.sgpb-popup-dialog-main-div-wrapper
 agraleaks.com##.sgpb-popup-overlay
 arthosuchak.com##.share_market_ad1
