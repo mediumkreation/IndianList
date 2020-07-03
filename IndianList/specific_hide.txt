@@ -98,6 +98,7 @@ elokasha.com###eloka-google
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
+anytechtune.com###headadd
 punjabinational.ca###header-aside
 ethiri.com###header-helpful
 sanjeevanisamachar.com###header-right-section
@@ -220,10 +221,10 @@ dailypunjabtimes.com,trttamilolli.com###text-15
 kalaroanews.com,trttamilolli.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
-sambadsaradin.com###text-19
+anytechtune.com,sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,vijaychowk.com,yarlosai.com###text-2
 tnilive.com,vanakkamlondon.com###text-20
-vanakkamlondon.com###text-21
+anytechtune.com,vanakkamlondon.com###text-21
 vanakkamlondon.com###text-22
 thepublicworld.com,tnilive.com###text-23
 achhisoch.com,tnilive.com,trttamilolli.com###text-24
@@ -673,6 +674,7 @@ pchelpcenterbd.com##.pragads
 publictv.in##.pt-adv
 rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
+anytechtune.com##.reseller-add
 pakwangali.in##.right-add
 unmadmagazine.com##.right_bottom_ad_section
 deshprotikhon.com##.right_sidebar
