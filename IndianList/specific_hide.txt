@@ -323,7 +323,7 @@ ekusheysangbad.com##.ad_area3
 lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 hmtvlive.com##.ad_unit_wrapper
-pchelplinebd.com##.adcontainer
+pchelplinebd.com,rajnitiprotidin.com##.adcontainer
 ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,dailysports24.com,kannada.news18.com,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com##.add
 sancharkendra.com##.add-2
 khobor24ghonta.com##.add-bg-02
@@ -671,6 +671,7 @@ mannarkkadlive.com##.post-inner-image
 telugutimes.net##.post-sidebar-area
 pchelpcenterbd.com##.pragads
 publictv.in##.pt-adv
+rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
 pakwangali.in##.right-add
 unmadmagazine.com##.right_bottom_ad_section
