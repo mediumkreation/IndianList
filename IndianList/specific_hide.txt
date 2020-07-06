@@ -196,6 +196,7 @@ kannadaprabha.com###section_content_check_469
 kannadaprabha.com###section_content_check_518
 dinamalar.com###selum
 haryananewsonline.com###sidebar-primary-sidebar
+madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 pradeepamonline.com###sidebar1
 patrikai.com###slide-holder
