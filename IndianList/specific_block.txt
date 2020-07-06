@@ -36,7 +36,7 @@
 -advt-$domain=chhapratoday.com|haldwanilive.com|irinjalakudalive.com
 -Advt-$domain=sanjevani.com
 -bannar.jpg|$domain=kurigramlive.com
--banner-$domain=channelionline.com
+-banner-$domain=channelionline.com|gbnews24.com
 -Banner-$domain=sherpurtimes.com
 -Banner-$image,domain=bikashnews.com
 -Banner.gif$image,domain=sajhatv.com
@@ -845,6 +845,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||firstbihar.com/Media/parcha/
 ||freelancerstory.com/wp-content/uploads/2016/09/web-hosting-from-sylhost.png
 ||gbnews24.com/gf.gif
+||gbnews24.com/wp-content/uploads/2020/01/Untitled-1.gif
+||gbnews24.com/wp-content/uploads/2020/02/gf.gif
+||gbnews24.com/wp-content/uploads/2020/04/sadievent.jpg
 ||gbnews24.com^*/dd1.gif
 ||gbnews24.com^*/nn$image
 ||gbnews24.com^*/robi.gif
