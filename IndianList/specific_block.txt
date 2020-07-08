@@ -811,8 +811,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ejjdin.com^*/one_bank.gif
 ||ekuruvi.com^*/Raj_nadarajha.gif
 ||ekusheypatrika.com/wp-content/themes/ekushey/assets/img/php_family.gif
+||emalayalee.com/imgs%20(2).jpg
+||emalayalee.com/imgs%20(3).jpg
 ||emalayalee.com/imgs.php?photo=$image
 ||emalayalee.com/imgs/$image
+||emalayalee.com/maharani.jpg
 ||emungaru.com/wp-content/uploads/2017/11/sURA.jpeg
 ||emungaru.com/wp-content/uploads/2018/05/Alvas-1.jpg
 ||emungaru.com/wp-content/uploads/2019/10/Jayalakshmi-Bejai-Logo-scaled.jpg
