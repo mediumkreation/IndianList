@@ -1845,6 +1845,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ratopati.prixacdn.net/media/super-man_300x150.gif
 ||ratopati.prixacdn.net/media/unnamed.gif
 ||raxcdn.com/media/*.gif|$third-party,domain=thahakhabar.com
+||reporter.live/news/wp-content/themes/reporter_v2/images/livelaw_vertical.jpg
 ||reporter.live^*/chungath-300.jpg
 ||reporter.live^*/chunkath-png.png
 ||reportersnepal.com^*/05.gif
