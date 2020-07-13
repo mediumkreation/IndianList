@@ -683,6 +683,7 @@ mannarkkadlive.com##.post-inner-image
 telugutimes.net##.post-sidebar-area
 pchelpcenterbd.com##.pragads
 publictv.in##.pt-adv
+pagetamil.com##.pum-content
 rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
 anytechtune.com##.reseller-add
@@ -848,6 +849,7 @@ beanibazarnews24.com##[class^="add-"]
 asomiyapratidin.in,channelionline.com##[data-adid]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
+pagetamil.com##[id^="td_uid_3"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 irinjalakuda.com##a.td_spot_img_all
