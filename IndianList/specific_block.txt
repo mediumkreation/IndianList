@@ -234,6 +234,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||abnews24.com^*/unihelth.gif
 ||abnews24.com^*/Well-Add.gif
 ||abnews24.com^*/Yousuf.gif
+||abplive.com//testfeeds/banners/
 ||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
 ||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
 ||agraleaks.com/wp-content/uploads/2020/03/cancer.jpg
