@@ -976,6 +976,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||imagekhabar.com/wp-content/uploads/2020/06/imgads.gif
 ||imageshack.com^$third-party,domain=karaitivunews.com
 ||imgur.com^$third-party,domain=braveindianews.com|mawanellanews.com|nepalipatra.com|news71online.com
+||india.com/wp-content/uploads/2020/04/CULT-WorkoutFH-BANNER-300x250.png
 ||indiaaajkal.in/wp-content/uploads/2018/01/4cd9722a6166e45fb6849cd55c720780-marketing-program-online-marketing
 ||indiaaajkal.in/wp-content/uploads/2018/01/Original-Sony-banner
 ||indiaaajkal.in/wp-content/uploads/2020/03/IMG-20200309-WA0002-150x150.jpg
