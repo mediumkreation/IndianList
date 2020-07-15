@@ -653,7 +653,7 @@ somoynews.tv##.mySlideBox
 lastnewsbd.com##.myadd
 news13.in##.n13_home_adv4
 canadauthayan.ca,newstodaynetwork.com##.n2-section-smartslider
-kannurvarthakal.in,kilinochchinews.com##.navbar-ad-section
+kannurvarthakal.in,kilinochchinews.com,punjabiakhbar.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
