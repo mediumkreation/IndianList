@@ -996,6 +996,13 @@ newsdeskkannada.com##aside.widget_simpleimage
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
+punjabiherald.co.nz##div[aria-label="27.jpg"]
+punjabiherald.co.nz##div[aria-label="30.jpg"]
+punjabiherald.co.nz##div[aria-label="31.jpg"]
+punjabiherald.co.nz##div[aria-label="Auction "]
+punjabiherald.co.nz##div[aria-label="Banner-2.jpg"]
+punjabiherald.co.nz##div[aria-label="HSB-TOP-ADD-2a.jpg"]
+punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
 unitednripost.com##div[class*=" ads_"]
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
