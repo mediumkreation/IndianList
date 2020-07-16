@@ -822,7 +822,7 @@ trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
 sadeaalaradio.co.nz##.widget_smartslider3
 purbelinews.com##.widget_sp_image
-36garhi.com##.widget_supermag_ad
+36garhi.com,jaihindnewspaper.com##.widget_supermag_ad
 teluguwishesh.com##.wishesh-add
 haldwanilive.com##.wp-image-11804
 haldwanilive.com##.wp-image-12006
