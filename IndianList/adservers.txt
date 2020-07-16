@@ -1,5 +1,6 @@
 ||admana.net$third-party
 ||admitad.com^$third-party,domain=hellonepalkorea.com
+||adsfry.com^$third-party
 ||adstudio.cloud^$third-party
 ||desipearl.com^$third-party,domain=malabarinews.com
 ||faridpurprotidin.com^$third-party,domain=sundarbontimes.com
