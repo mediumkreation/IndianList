@@ -726,6 +726,7 @@ nepaljapan.com##.single-news-ad
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 ctgtimes.com##.single_ads_top
+snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
