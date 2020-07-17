@@ -745,6 +745,7 @@ manoramaonline.com##.special-banner-block
 kaumudiplus.com##.spnsrd-ad
 veeravengaikal.com##.sppb-addon-clients
 keralanewshunt.com##.st-banner
+banglapostbd.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 natunbarta.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com##.stream-item-widget
