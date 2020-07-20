@@ -790,6 +790,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||diptonews24.com^*/t300.png
 ||diptonews24.com^*/tufan.jpg
 ||dirt-sheet.com^*/ad-occ2.jpg
+||divaina.com/daily/images/kumara_welgama.jpg
 ||divyahimachal.com/wp-content/uploads/2019/07/728%C3%9790-2.jpg
 ||dmoitry.com/wp-content/uploads/2019/01/8958804071048280181.gif
 ||dmoitry.com/wp-content/uploads/2019/02/7901618809467532714.gif
@@ -845,6 +846,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||epurbodesh.com^*/coxsbazarad.gif
 ||esangbadkonika.com^*/ad/
 ||europemalayali.co.uk/images/BM_new.jpg
+||evartha.in/wp-content/themes/nextline_evartha_v2/images/280x250.jpg
+||evartha.in/wp-content/themes/nextline_evartha_v2/images/bds.jpg
+||evartha.in/wp-content/themes/nextline_evartha_v2/images/chemmannur_center_middle.jpg
+||evartha.in/wp-content/themes/nextline_evartha_v2/images/kalyan_evartha.jpg
 ||eveningkerala.com^*/Evening_Karala_Direct
 ||eveningkerala.com^*/facebook11080
 ||expresskerala.com/wp-content/themes/nextline_exkerala/images/PicsArt_09.png
@@ -2422,4 +2427,3 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||zoftcdn.com^*/citysun.jpg
 ||zoftcdn.com^*/vesta.jpg
 ||zoombangla.com/wp-content/uploads/2020/06/Zoombangla_1280X90.jpg
-||divaina.com/daily/images/kumara_welgama.jpg
