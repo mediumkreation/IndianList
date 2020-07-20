@@ -79,7 +79,7 @@ notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 hastakshep.com,januday.com,news127.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 ddnews24x7.com###custom_html-26
-hastakshep.com,jagprerna.com,samastipurtown.com###custom_html-3
+barisaltoday.com,hastakshep.com,jagprerna.com,samastipurtown.com###custom_html-3
 ddnews24x7.com###custom_html-31
 ddnews24x7.com###custom_html-39
 news127.com###custom_html-4
@@ -89,7 +89,7 @@ ddnews24x7.com###custom_html-48
 bdcrictime.com,jagprerna.com,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
-emediacreative.in,kalaroanews.com###custom_html-7
+barisaltoday.com,emediacreative.in,kalaroanews.com###custom_html-7
 aajtak24live.in,ggsnews24.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
@@ -129,7 +129,7 @@ punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
-banglatelegraph.com,dainikkhojkhabar.live,deshersangbad.com,jabalpurdarpan.in,meherpurnews.com,nationaldunia.com,puthusudar.lk,sasthabangla.com###media_image-2
+banglatelegraph.com,barisaltoday.com,dainikkhojkhabar.live,deshersangbad.com,jabalpurdarpan.in,meherpurnews.com,nationaldunia.com,puthusudar.lk,sasthabangla.com###media_image-2
 ggsnews24.com###media_image-21
 chapaidarpon.com###media_image-24
 ggsnews24.com###media_image-26
@@ -259,7 +259,7 @@ aapkisafalta.com###text-54
 anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-dailypunjabtimes.com,jagprerna.com,medianp.com,orthosongbad.com###text-6
+barisaltoday.com,dailypunjabtimes.com,jagprerna.com,medianp.com,orthosongbad.com###text-6
 apnades.in,jagprerna.com,vanakkamlondon.com###text-7
 dmoitry.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com###text-8
 jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
