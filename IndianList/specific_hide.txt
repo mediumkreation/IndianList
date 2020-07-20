@@ -524,6 +524,7 @@ arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 nagariknetwork.com##.first-add
 nagariknetwork.com##.fixed-ad
+newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
 sahilonline.net##.flexslider-eid
 telegramnews24.com##.fluid-width-video-wrapper
@@ -619,6 +620,7 @@ khabardabali.com##.long-vertical-ad
 postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
 beautynewsnepal.com##.lwig
+newsfirst.lk##.main-ad-half
 jaianndata.com##.main-tp-adds
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 gnewsbd24.com##.mainada
