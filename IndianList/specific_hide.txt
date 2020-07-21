@@ -213,6 +213,7 @@ emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
 techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
+lokaantar.com###stickyAdBottom
 pnews.co.in###stream-item-widget-1
 newstruthlive.com###stream-item-widget-12
 bestnow.in###stream-item-widget-5
@@ -460,6 +461,8 @@ nagariknetwork.com##.below-article-ad
 gorkhapatraonline.com##.below-samachar-add
 onlinepana.com##.betn-add
 crimeexpressbd.com##.biggapon
+lokaantar.com##.bigyapan-gif-gallery
+lokaantar.com##.bigyapan-title
 arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
 sankathi24.com##.block-adverts
