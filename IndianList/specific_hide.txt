@@ -200,6 +200,7 @@ kannadaprabha.com###section_content_check_468
 kannadaprabha.com###section_content_check_469
 kannadaprabha.com###section_content_check_518
 dinamalar.com###selum
+vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 haryananewsonline.com###sidebar-primary-sidebar
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
@@ -245,14 +246,14 @@ allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,cnewsbangla.com,dailypunjabtimes.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,punjabbaani.com,sabjanta.info,vanakkamlondon.com###text-4
+ajithfans.com,cnewsbangla.com,dailypunjabtimes.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,punjabbaani.com,sabjanta.info,vakeesam.com,vanakkamlondon.com###text-4
 trttamilolli.com###text-40
 trttamilolli.com###text-42
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 achhikhabar.com###text-49 a
-biharpatrika.in,jagprerna.com,navsancharsamachar.com,orthosongbad.com,punjabbaani.com,satkhira24news.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
+biharpatrika.in,jagprerna.com,navsancharsamachar.com,orthosongbad.com,punjabbaani.com,satkhira24news.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
 mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 anaicoddai.com,mbmnewsnetwork.com###text-52
@@ -713,7 +714,7 @@ ns7.tv##.seithigalad
 banglatelegraph.com##.sentbe-top
 gulfmalayaly.com##.sep
 agraleaks.com##.sgpb-popup-dialog-main-div-wrapper
-agraleaks.com##.sgpb-popup-overlay
+agraleaks.com,vakeesam.com##.sgpb-popup-overlay
 arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
