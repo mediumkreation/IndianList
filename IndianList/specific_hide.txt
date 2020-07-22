@@ -22,10 +22,10 @@ poonththalir.blogspot.com###Image119
 madhepuratimes.com,nepalmother.com,thattungal.com###Image12
 poonththalir.blogspot.com###Image125
 madhepuratimes.com,thattungal.com###Image13
-madhepuratimes.com,thattungal.com###Image14
+arthasarokar.com,madhepuratimes.com,thattungal.com###Image14
 madhepuratimes.com,thattungal.com###Image15
 madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image16
-madhepuratimes.com,thattungal.com###Image17
+arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
 battinews.com,hamaramahanagar.in,madawalaenews.com,madhepuratimes.com,poonththalir.blogspot.com,thattungal.com###Image2
@@ -65,6 +65,7 @@ kahalenews.com###attachment_44092
 ilamai.com###banner
 devbhoomidarshan17.com###banner-10
 bangalorewaves.com###bannerclassfd
+arthasarokar.com###bigyapan_top_right_logo
 tibrakhabar.com###black-studio-tinymce-30
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
@@ -452,6 +453,7 @@ gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 khabarhub.com##.banner-widget
 nepalsandesh.com##.bannerNews
+arthasarokar.com##.banner_bigyapan
 rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
@@ -459,6 +461,7 @@ valvainews.org##.bannertopimg2
 punjabbaani.com##.bdaia-e3-container
 nabaz-e-punjab.com##.bdaia-widget-e3
 nagariknetwork.com##.below-article-ad
+arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 onlinepana.com##.betn-add
 crimeexpressbd.com##.biggapon
