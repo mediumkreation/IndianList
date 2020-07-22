@@ -139,6 +139,7 @@ _n-300x277.jpg|$domain=barishalcrimenews.com
 _n.jpg|$domain=barishalcrimenews.com|hmnews24.com
 ad.gif|$domain=gobikhobor.com
 Ad.gif|$domain=reportersnepal.com
+ad.jpg|$domain=bslnews24.com
 Ad_.png?$domain=bangladeshonline24.com
 add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
@@ -533,6 +534,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||borendronews.com/wp-content/uploads/2020/02/83396855_580840169434281_7488237083568373760_n.jpg
 ||borendronews.com/wp-content/uploads/2020/02/83801531_943884642673476_894154174608965632_n.jpg
 ||boxoffice70mm.com^*/bg-1.jpg
+||bslnews24.com/wp-content/uploads/2019/09/IT.jpg
+||bslnews24.com/wp-content/uploads/2019/10/UGV-ADD_W2020-copy.jpg
 ||bspabla.com^*/happy-blogging.jpg
 ||burdwantoday.com/wp-content/uploads/2020/03/IMG_20200229_062347
 ||buxarkhabar.com/wp-content/uploads/2018/10/27-octu-add.jpg
