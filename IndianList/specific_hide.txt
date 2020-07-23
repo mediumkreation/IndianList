@@ -536,6 +536,7 @@ nagariknetwork.com##.fixed-ad
 newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
 sahilonline.net##.flexslider-eid
+donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
 news127.com##.footer-bottom
 pradeepamonline.com##.footer-widgets-wrap
