@@ -107,6 +107,7 @@ ethiri.com###header-helpful
 sanjeevanisamachar.com###header-right-section
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
+samudrapari.com###home-top-sidebar
 akkinikkunchu.com###html-2
 akkinikkunchu.com###html-3
 akkinikkunchu.com###html-4
@@ -224,7 +225,7 @@ alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 jagprerna.com,medianp.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,jagprerna.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,tamil.com,tnilive.com###text-11
-globaltamilnews.net,jagprerna.com###text-12
+globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
 irinjalakudalive.com,janakhabar.com,swisspungudutivu.com,tamil.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,porospor.com,sambadsaradin.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
@@ -633,6 +634,7 @@ postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
 beautynewsnepal.com##.lwig
 newsfirst.lk##.main-ad-half
+samudrapari.com##.main-news-ads
 jaianndata.com##.main-tp-adds
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 gnewsbd24.com##.mainada
@@ -654,6 +656,7 @@ ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
+samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
