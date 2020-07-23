@@ -1,5 +1,6 @@
 -ad-mob
 -ad-space-
+-advt-
 -Magazine-Ad-
 /ad-gm-
 /adss/*$domain=tharunaya.us
