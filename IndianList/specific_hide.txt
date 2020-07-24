@@ -477,6 +477,7 @@ nirpakhawaaz.in##.bookingaff
 nagariknetwork.com##.box-news-ad
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
+rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
 arthosuchak.com##.category_c_ad
@@ -691,6 +692,7 @@ ournewsbd.net##.onads
 nawidunia.com##.owl-carousel
 breakingtube.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
+rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
 prajavani.net##.pj-ad-card
 abnews24.com,rtvonline.com##.popup_blackoverlay
