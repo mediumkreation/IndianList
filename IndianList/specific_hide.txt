@@ -784,6 +784,7 @@ loksansar.in##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
+ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 haldwanilive.com##.td-ss-main-sidebar
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
