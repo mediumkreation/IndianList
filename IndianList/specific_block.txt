@@ -1992,8 +1992,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rtvonline.com/templates/rtv-v1/images/itel.jpg
+||rtvonline.com/templates/rtv-v1/images/spark.pngbanner_820x100.jpg
 ||rtvonline.com/templates/rtv-v1/images/techno25-6-2020.png
-||rtvonline.com/templates/rtv-v1/images/walton-300x100.jpg
+||rtvonline.com/templates/rtv-v1/images/walton-$image
+
 ||rtvonline.com^*/best-300X250.gif
 ||rtvonline.com^*/bongo_desktop28.png
 ||rtvonline.com^*/dw_logo1.jpg
