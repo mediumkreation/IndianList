@@ -783,6 +783,7 @@ tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
 crimecontrolnews.com,lawyerteluguweekly.com,moviemirchi24.com,newstodaynetwork.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com##.td-a-rec
 bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
+enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 khulnatimes.com##.td-a-rec-id-content_inline
 myagdikali.com##.td-a-rec-id-custom-spot
 headlinenews.lk##.td-a-rec-id-header
@@ -793,6 +794,7 @@ politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
+enavamaratha.com##.td-post-content img.aligncenter
 haldwanilive.com##.td-ss-main-sidebar
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
