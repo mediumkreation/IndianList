@@ -347,6 +347,7 @@ ajkersylhet.com,sambadsaradin.com##.add-image
 sharebarta.com##.add-imgae
 khabar247.com,sheershanews.com##.add-inner
 u71news.com##.add-left
+bnewskolhapur.com##.add-place
 u71news.com##.add-right
 thebengalitimes.com##.add-sec
 nagariknetwork.com,thebengalitimes.com##.add-section
@@ -569,6 +570,7 @@ paristamil.com##.group3
 bdbarrta24.com,orthosongbad.com##.h_ads
 myfirstshow.com##.hb-img
 corporatesangbad.com##.header-add
+bnewskolhapur.com##.header-add-place
 akhonsamoy.com##.header-ads-area
 dainikpana.com,makkalkural.net,omexpress.in##.header-ads-wrapper
 thepublicworld.com##.header-advertise
