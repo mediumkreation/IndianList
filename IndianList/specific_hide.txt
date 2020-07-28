@@ -511,6 +511,7 @@ prajavani.net##.dk_only
 gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 manabadi.co.in##.dsc-banners
+doshdik.com##.duble_advertisement
 greenbanglanews.com,jamunanewsbd.com,kasaragod.com,parbatyachattagram.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com##.e3lan-bottom
@@ -1042,6 +1043,7 @@ infosrilankanews.info##html12
 infosrilankanews.info##html2
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
+doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 deshsanchar.com##img.alignnone.size-full
 newsdesk24.com##img[alt ='ad']
 kantipath.com##img[alt*="add"]
