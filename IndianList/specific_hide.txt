@@ -478,6 +478,7 @@ nirpakhawaaz.in##.bookingaff
 nagariknetwork.com##.box-news-ad
 ethiri.com##.brand_wrapper .tagline
 seithy.com##.briefNewsAd
+everestdainik.com##.bstyle-list ~ .post
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
