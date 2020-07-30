@@ -634,7 +634,7 @@ lekalionline.com##.lekali_online_adv
 lankanewsweb.net##.lnw-ad
 radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
-filmyfanda.com##.long-ads
+ebrightnepal.com,filmyfanda.com##.long-ads
 khabardabali.com##.long-vertical-ad
 postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area

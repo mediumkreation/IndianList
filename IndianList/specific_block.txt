@@ -853,6 +853,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||e-jaffna.com^*/speedit_add_gif.gif
 ||e-jaffna.com^*/speeditnet.png
 ||e4media.net^$third-party,domain=samachar4media.com
+||ebrightnepal.com/wp-content/uploads/2020/03/aama.gif
+||ebrightnepal.com/wp-content/uploads/2020/03/momo.gif
+||ebrightnepal.com/wp-content/uploads/2020/03/safal-motors.gif
+||ebrightnepal.com/wp-content/uploads/2020/03/suzuki-offer.gif
+||ebrightnepal.com/wp-content/uploads/2020/04/web-designing-nepal.jpg
 ||edu.tamilclone.com^*/blog_ad_artsuit_en.png
 ||eelamsun.com^*/eelamsunadgif.gif
 ||eelamtimes.com/files/4_2.jpg
