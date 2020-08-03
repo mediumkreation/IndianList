@@ -708,6 +708,7 @@ agraleaks.com##.post-content > figure > img:only-child
 mannarkkadlive.com##.post-inner-image
 telugutimes.net##.post-sidebar-area
 pchelpcenterbd.com##.pragads
+deshsanchar.com##.promotion
 publictv.in##.pt-adv
 pagetamil.com##.pum-content
 rajnitiprotidin.com##.qvzk
