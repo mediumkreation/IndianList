@@ -688,6 +688,7 @@ narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 sathyamonline.com##.nsads
 shreekanchanpath.com##.nv-header-ads-area
+patrikai.com##.oad
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
