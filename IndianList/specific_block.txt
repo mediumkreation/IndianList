@@ -1999,6 +1999,15 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||reporter.live/news/wp-content/themes/reporter_v2/images/livelaw_vertical.jpg
 ||reporter.live^*/chungath-300.jpg
 ||reporter.live^*/chunkath-png.png
+||reportersnepal.com/wp-content/uploads/2020/05/1100x120-vianet.gif
+||reportersnepal.com/wp-content/uploads/2020/06/10-37-46-FINAL.gif
+||reportersnepal.com/wp-content/uploads/2020/06/19-48-19-Bhatbhateni.gif
+||reportersnepal.com/wp-content/uploads/2020/06/cancer-council-nepall-$image
+||reportersnepal.com/wp-content/uploads/2020/06/Final-Ad-1.gif
+||reportersnepal.com/wp-content/uploads/2020/07/300x150-ktm1.gif
+||reportersnepal.com/wp-content/uploads/2020/07/hamropatro_316x100px.gif
+||reportersnepal.com/wp-content/uploads/2020/07/Reporters-club-262x150-1.gif
+||reportersnepal.com/wp-content/uploads/2020/07/Salt-Trading-1.gif
 ||reportersnepal.com^*/05.gif
 ||reportersnepal.com^*/1100-x-120_web_ndn_kartik-076-page-001
 ||reportersnepal.com^*/1100x120-NIC-super$image
@@ -2018,6 +2027,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||reportersnepal.com^*/sooriya-long.gif
 ||reportersnepal.com^*/SP-825pix_red.gif
 ||reportersnepal.com^*/UnineLife-.gif
+||reportersnepal.com^*/X-offer.gif
 ||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rtvonline.com/templates/rtv-v1/images/itel.jpg
