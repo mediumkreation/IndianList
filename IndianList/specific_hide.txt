@@ -132,7 +132,7 @@ punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 canvasmagazine.com.bd###media_image-18
 canvasmagazine.com.bd###media_image-19
-banglatelegraph.com,barisaltoday.com,dainikkhojkhabar.live,deshersangbad.com,jabalpurdarpan.in,meherpurnews.com,nationaldunia.com,puthusudar.lk,sasthabangla.com###media_image-2
+banglatelegraph.com,barisaltoday.com,dainikkhojkhabar.live,dainiknayak.com,deshersangbad.com,jabalpurdarpan.in,meherpurnews.com,nationaldunia.com,puthusudar.lk,sasthabangla.com###media_image-2
 ggsnews24.com###media_image-21
 chapaidarpon.com###media_image-24
 ggsnews24.com###media_image-26
@@ -523,6 +523,7 @@ uukmanews.com##.each-side-ads > a
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
+dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
