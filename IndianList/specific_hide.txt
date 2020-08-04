@@ -555,6 +555,7 @@ mathagal.net##.ft-advert
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
+sansarnews.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 dcnepal.com##.full-banner
 khelpati.com##.full-bigyapan
@@ -682,6 +683,7 @@ kannurvarthakal.in,kilinochchinews.com,prajawani.in,punjabiakhbar.com##.navbar-a
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
+sansarnews.com##.news-style-six-ads
 prothomalo.com##.news_inner_spcl_ad
 biswabanglanews.com,mirrorlive24.com##.news_portal_ads_banner
 nepalkhabar.com##.nk-sidebar-ads
@@ -755,6 +757,7 @@ nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
+sansarnews.com##.single-sidebar-ads
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
