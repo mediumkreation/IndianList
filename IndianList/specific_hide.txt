@@ -656,6 +656,7 @@ cninews24.com##.map
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
+bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
 satwadhara.news##.metaslider
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
