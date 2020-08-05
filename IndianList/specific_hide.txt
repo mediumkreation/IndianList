@@ -744,6 +744,7 @@ baahrakhari.com##.side-bigyaapan
 provatnews.com##.sideAdd
 onlinekhabar.com##.side__add
 sancharkendra.com##.sidea
+barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 beanibazarview24.com##.sidebar [id^="media_image"]
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 despardesweekly.co.uk##.sidebar-right
