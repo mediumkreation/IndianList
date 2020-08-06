@@ -1904,6 +1904,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rapidprnews.com^*/dream.jpg
 ||rapidprnews.com^*/islami_bank.gif
 ||ratopanda.com^$third-party,domain=hamrakura.com
+||ratopanda.com^render?$third-party
 ||ratopati.prixa.net/media/1140-130_2.gif
 ||ratopati.prixa.net/media/1140-X-90-pxl.gif
 ||ratopati.prixa.net/media/1140x90.gif
