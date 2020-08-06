@@ -893,6 +893,7 @@ boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
 tollywood.net##[alt*=" ad"]
+munaadi.com##[alt="Munaadi Ad"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
 kendrabindu.com##[class*="_coffee"]
