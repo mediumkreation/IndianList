@@ -98,6 +98,7 @@ pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
 barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com###eloka-google
+rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
@@ -206,6 +207,7 @@ kannadaprabha.com###section_content_check_469
 kannadaprabha.com###section_content_check_518
 dinamalar.com###selum
 vakeesam.com###sgpb-popup-dialog-main-div-wrapper
+rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 haryananewsonline.com###sidebar-primary-sidebar
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
