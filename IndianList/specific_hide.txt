@@ -1085,6 +1085,7 @@ coxsbazarnews.com##img[alt="cbn"]
 bhilwarahalchal.com##img[alt="news"]
 banglanews24.com##img[alt="walton"]
 pressnote.in##img[alt^="Advert"]
+suprovatsydney.com.au##img[class^="custom_adgroup_"]
 pnews.co.in##img[id^="Image"]
 dhakatoday.com##img[src*="mediabell.net"]
 dainiki.com##section img.attachment-full
