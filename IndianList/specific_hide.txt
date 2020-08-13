@@ -496,6 +496,7 @@ tamilmithran.com##.cine_ad
 madhyamam.com##.clock-container
 tamil.oneindia.com##.cmscontent-top
 lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code-block
+samajbad.tv##.code-block > img
 newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
@@ -1070,6 +1071,7 @@ achhikhabar.com##div[id^="achhi-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 samastipurtown.com##figure.wp-caption
+samajbad.tv##figure.wpb_wrapper
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
