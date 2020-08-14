@@ -575,7 +575,7 @@ pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
 ctgpratidin.com##.fxozitmah
 trttamilolli.com##.galboxcontainer
-dcnepal.com##.gam-ad-position-wrap
+dcnepal.com,merofilm.com##.gam-ad-position-wrap
 joynewsbd.com,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 paristamil.com##.group1
