@@ -14,7 +14,7 @@
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
--add.gif|$domain=wenepali.com
+-add.gif|$domain=somoysongbad.com|wenepali.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|ramailochha.com|teluguwishesh.com
 -Add.jpg|$domain=suprovatsatkhira.com
@@ -2309,6 +2309,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||skytvbd.com/wp-content/uploads/2019/12/rec300.jpg
 ||skytvbd.com/wp-content/uploads/2019/12/rec728.jpg
 ||sokaleralo.com^*/rongdhong-ad-
+||somoysongbad.com/wp-content/uploads/2020/05/Rohman-honda.gif
 ||sonalisangbad.com^*-ad-
 ||sonalisangbad.com^*/ad-
 ||southlive.in^*/Dec.-Campaign_South-Live_970x250pxl_KL.jpg
