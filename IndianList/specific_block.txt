@@ -16,7 +16,7 @@
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
 -add.gif|$domain=wenepali.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
--add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|teluguwishesh.com
+-add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|ramailochha.com|teluguwishesh.com
 -Add.jpg|$domain=suprovatsatkhira.com
 -add.png?$domain=osnepal.com
 -add.png|$domain=kalaroanews.com
@@ -106,6 +106,7 @@
 450-x-222_px.jpg?$domain=osnepal.com
 450by250.jpg?$domain=osnepal.com
 450x250.jpg?$domain=osnepal.com
+540X100-$domain=ramailochha.com
 880x90-$image,domain=bikashnews.com
 960*.gif|$domain=bizmandu.com
 ?add.gif|$domain=narayanionline.com
@@ -1971,6 +1972,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rajdhanidaily.com^*/krisibikasbank.gif
 ||rajshahinews24.com^*/Ruprekha-02-1.jpg
 ||rakhewaldaily.com^*/345Final%20logo%20(1).jpg
+||ramailochha.com/wp-content/uploads/2020/01/500x100-sanglo.jpg
+||ramailochha.com/wp-content/uploads/2020/02/mygg2_web_250x417
 ||ramailochha.com^*/550x100-hajar-juni-samma
 ||ramailochha.com^*/550x100-maruni
 ||ramailochha.com^*/550x100-password
