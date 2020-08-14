@@ -192,6 +192,7 @@ edainikazadi.net###right-holder
 kungumam.co.in###road
 kodanki.in###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
+fenirshomoy.com###secondary .vl-advertisment
 kannadaprabha.com###section_content_check_452
 kannadaprabha.com###section_content_check_454
 kannadaprabha.com###section_content_check_455
@@ -865,7 +866,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 netmalayalam.com##.vc_slide
 krushival.in##.video-news-section
-mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
+fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 tnilive.com##.vmagazine_lite_medium_ad
 vaarte.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
