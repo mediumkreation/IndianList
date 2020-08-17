@@ -4,9 +4,22 @@ This is an adblock filter list supplement for [EasyList](https://github.com/easy
 
 ### Specialization
 
-বাংলা (ভারত), ગુજરાતી (ભારત), भारतीय, ਪੰਜਾਬੀ (ਭਾਰਤ)
+|Language | In Local
+|---        |----| 
+| Hindi     | हिंदी
+| Bengali   | বাংলা 
+| Gujarati  | ગુજરાતી 
+| Punjabi   | ਪੰਜਾਬੀ
+| Assamese  | অসমীয়া
+| Marathi   | मराठी
+| Tamil     | தமிழ்
+| Malayalam | മലയാളം  
+| Telugu    | తెలుగు
+| Kannada   | ಕನ್ನಡ
+| Odiya     | ଓଡ଼ିଆ
+| Nepali    | नेपाली
+| Sinhala   | සිංහල
 
-Bengali (Inde), Gujarati (Inde), Indienne, Pendjabi (Inde)
 
 ### Install 
 
