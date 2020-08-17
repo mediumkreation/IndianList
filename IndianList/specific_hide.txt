@@ -376,7 +376,7 @@ shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
-europemalayali.co.uk,natuncumilla.com##.add_area
+europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 provatnews.com##.add_banner
 malayalamtodayonline.com##.add_bnk_img
 ridoyachandpur.com##.add_content
@@ -598,8 +598,9 @@ lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 univarta.com##.header_bottom_ad
-natuncumilla.com##.header_date_sidebar
+fenirkotha.com,natuncumilla.com##.header_date_sidebar
 banglanewsca.com##.header_top_ad_area_2
+fenirkotha.com##.header_top_banner
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
 setoshikhar.com##.hmxbiekzq
