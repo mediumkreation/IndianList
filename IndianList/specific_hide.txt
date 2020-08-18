@@ -152,6 +152,7 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,kannurvarthakal.in,mirror
 bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,parbatyachattagram.com,prajawani.in###media_image-7
 bijoynewsbd24.com,dainikkhojkhabar.live,dhakardak-bd.com,kannurvarthakal.in,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in###media_image-8
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,scgnews.in,tamilnewsstar.com###media_image-9
+hpnewsatl.com###media_video-2
 democratictvnews.com###media_video-6
 middleeastchandrika.com###mep_0
 idunammaooru.in###metaslider_10258
@@ -671,6 +672,7 @@ fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
 gnewsbd24.com##.maniio
 cninews24.com##.map
+hpnewsatl.com##.master-slider
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
@@ -877,7 +879,7 @@ netmalayalam.com##.vc_slide
 krushival.in##.video-news-section
 fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 tnilive.com##.vmagazine_lite_medium_ad
-vaarte.com##.vmagazine_medium_ad
+hpnewsatl.com,vaarte.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
 dainikazadi.net##.w3-top-ads-desktop
 sajhapost.com##.white-bg-half-ad
