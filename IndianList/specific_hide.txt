@@ -510,6 +510,7 @@ samajbad.tv##.code-block > img
 newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
+news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
 teluguwishesh.com##.content-holder-tvshowvaluevision
