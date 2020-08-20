@@ -314,6 +314,7 @@ dainiksylhet.com,surmanews24.com##.DAdd
 bdprojonmo71.com##.DAdvertisement
 ajkermymensingh.com##.DHeaderBanner
 banglanewsca.com##.Front-page-Right-Side-Ad
+khabarpahad.com##.InArtilce-AdSlot01
 lastnewsbd.com##.Photo_top_banner
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
@@ -676,7 +677,7 @@ fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
 gnewsbd24.com##.maniio
 cninews24.com##.map
-hpnewsatl.com##.master-slider
+hpnewsatl.com,khabarpahad.com##.master-slider
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
