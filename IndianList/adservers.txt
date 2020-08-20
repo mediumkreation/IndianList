@@ -2,6 +2,7 @@
 ||admitad.com^$third-party,domain=hellonepalkorea.com
 ||adsfry.com^$third-party
 ||adstudio.cloud^$third-party
+||aj2031.online^$third-party
 ||desipearl.com^$third-party,domain=malabarinews.com
 ||faridpurprotidin.com^$third-party,domain=sundarbontimes.com
 ||gceleritasads.com^$third-party
