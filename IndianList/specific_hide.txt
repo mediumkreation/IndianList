@@ -646,6 +646,7 @@ globalmalayalam.com##.innerAdColum
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
+dainikjharkhand.com##.ixnf
 kakakhabarilaal.com##.kakak-after-content
 karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
@@ -1079,7 +1080,7 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 clickmandu.com##a[target="_blank"] img:only-child
-pressmirchi.com##adnblock
+dainikjharkhand.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 newstodaynetwork.com##aside.ai_widget
 newsdeskkannada.com##aside.widget_simpleimage
