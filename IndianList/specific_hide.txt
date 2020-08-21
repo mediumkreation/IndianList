@@ -383,7 +383,7 @@ onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
 europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
-provatnews.com##.add_banner
+n7india.com,provatnews.com##.add_banner
 malayalamtodayonline.com##.add_bnk_img
 ridoyachandpur.com##.add_content
 rosemalayalam.com##.add_image_ryt
