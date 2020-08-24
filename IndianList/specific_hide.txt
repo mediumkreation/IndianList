@@ -552,6 +552,7 @@ bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 kannurnewsonline.com##.entry-content figure.wp-block-image
+news1hindustan.com##.entry-content iframe
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -599,7 +600,7 @@ myfirstshow.com##.hb-img
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 akhonsamoy.com##.header-ads-area
-dainikpana.com,makkalkural.net,omexpress.in##.header-ads-wrapper
+dainikpana.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
 thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
