@@ -886,6 +886,7 @@ deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
 unmadmagazine.com##.twp-adv-header
 thesaturdaynews.com##.under_more_hit_advertisement
+rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 newstodayjharkhand.com##.uris-slider-post-title
 changetv.press##.vc_custom_1546328500609
@@ -904,6 +905,7 @@ vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 ethiri.com##.widget_ads_easy_widget
 koshionline.com##.widget_advertisement-bar
+rsnewslive.com##.widget_awaken_medium_rectangle_ad
 swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
