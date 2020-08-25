@@ -516,6 +516,7 @@ samajbad.tv##.code-block > img
 newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
+3pm.in##.colombiatracked
 news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
