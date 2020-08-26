@@ -1093,6 +1093,7 @@ clickmandu.com##a[target="_blank"] img:only-child
 dainikjharkhand.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 newstodaynetwork.com##aside.ai_widget
+yeskathmandu.com##aside.widget_media_image
 newsdeskkannada.com##aside.widget_simpleimage
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 ratopati.com##div.trc-content-sponsored
