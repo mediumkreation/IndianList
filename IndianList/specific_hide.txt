@@ -89,7 +89,7 @@ news127.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-bdcrictime.com,jagprerna.com,techtamil.com###custom_html-5
+bdcrictime.com,jagprerna.com,muznews.net,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com###custom_html-7
@@ -184,6 +184,7 @@ saaravita.lk###openModal1
 crickethimalaya.com###ouibounce-modal
 importmirror.com###p-vila
 janasanchar.com###panel-31350-5-1-1
+muznews.net###panel-38-0-1-1
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 rojgarlive.com###popup_indiv2
@@ -899,6 +900,7 @@ netmalayalam.com##.vc_figure
 netmalayalam.com##.vc_slide
 krushival.in##.video-news-section
 fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
+muznews.net##.vmagazine-lite-medium-rectangle-ad
 tnilive.com##.vmagazine_lite_medium_ad
 hpnewsatl.com,vaarte.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
