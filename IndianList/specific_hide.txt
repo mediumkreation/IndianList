@@ -842,6 +842,7 @@ nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
+news1today.in##.td-fix-index img:only-child
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 vadakaravoice.com##.td-main-sidebar aside
