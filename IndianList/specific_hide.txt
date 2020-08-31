@@ -6,7 +6,7 @@ kasargodvartha.com###HTML11
 thattungal.com###HTML13
 madhepurakhabar.com,thattungal.com###HTML16
 madhepurakhabar.com,thattungal.com###HTML18
-chilahatiweb.com###HTML2
+24upnews.com,chilahatiweb.com###HTML2
 kasargodvartha.com###HTML20
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
@@ -216,8 +216,10 @@ kannadaprabha.com###section_content_check_518
 dinamalar.com###selum
 vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
+24upnews.com###sidebar-left-1
 haryananewsonline.com###sidebar-primary-sidebar
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
+24upnews.com###sidebar-right-1
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
 pradeepamonline.com###sidebar1
