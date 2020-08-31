@@ -7,6 +7,7 @@ thattungal.com###HTML13
 madhepurakhabar.com,thattungal.com###HTML16
 madhepurakhabar.com,thattungal.com###HTML18
 chilahatiweb.com###HTML2
+24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
@@ -785,6 +786,7 @@ provatnews.com##.sideAdd
 onlinekhabar.com##.side__add
 sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
+24upnews.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 beanibazarview24.com##.sidebar [id^="media_image"]
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
