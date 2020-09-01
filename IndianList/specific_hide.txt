@@ -573,6 +573,7 @@ nagariknetwork.com##.first-add
 nagariknetwork.com##.fixed-ad
 newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
+dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
@@ -810,6 +811,7 @@ ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
 sancharkendra.com##.skada
 sancharkendra.com##.skadd
+dainik4media.com##.slick-slide
 newsbritant.com##.slider-ad1
 newsoneindia.com,newstodayjharkhand.com##.slider-pro
 bhilwarahalchal.com##.slider2
@@ -924,6 +926,7 @@ swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
+dainik4media.com##.widget_nivo_slider_widget
 sadeaalaradio.co.nz##.widget_smartslider3
 moolbato.com##.widget_sow-image
 purbelinews.com##.widget_sp_image
