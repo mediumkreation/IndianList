@@ -56,6 +56,7 @@
 /ad-saint$domain=pahareralo.com
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com|teknafnews24.com
+/ADD-$domain=tejastoday.com
 /ADD.jpg|$domain=gourbarta24.com
 /add.jpg|$domain=sheershakhobor.com
 /add/*$image,domain=habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
@@ -122,6 +123,7 @@
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
+@@||tejastoday.com^*/ADD-TEJAS
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
 _300-x$image,domain=bikashnews.com
 _336x280.$domain=ajabgjab.com
@@ -2540,6 +2542,17 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||techzonetv.com^*/Black-Friday-Blowout-1.png
 ||techzonetv.com^*/microwebtechnology.png
 ||techzonetv.com^*/Visit-Now.png
+||tejastoday.com/storage/2020/02/PicsArt_12-27-11.48.18-1-1.jpg
+||tejastoday.com/storage/2020/06/Lotus$image
+||tejastoday.com/storage/2020/06/Pizza-Pairadise-12062020.jpg
+||tejastoday.com/storage/2020/06/Saurabh-singh$image
+||tejastoday.com/storage/2020/07/Shree-Balram-Yadav-Janseva-Inter-College
+||tejastoday.com/storage/2020/08/Happy-Independence-Day-from-Pizza-Paradise-TEJASTODAY
+||tejastoday.com/storage/2020/08/Happy-Independence-day-Lotus-Beauty-Parlour-Boutique-Center-Mohalla-Nakhas-Jaunpur-Mo.-9721480645-7007896494
+||tejastoday.com/storage/2020/08/On-behalf-of-Jaunpur-branch-of-Power-Laborers-Panchayat-Uttar-Pradesh-hearty-greetings-to-all-countrymen-on-Independence-Day.-TEJASTODAY
+||tejastoday.com/storage/2020/08/On-behalf-of-the-outgoing-District-Vice-President-Raj-Yadav-of-Samajwadi-Party-Lohia-Vahini-heartfelt-Happy-Independence-Day-to-the-people.-TEJASTODAY
+||tejastoday.com/storage/2020/08/Pizza$image
+||tejastoday.com/storage/2020/08/The-grand-opening-of-the-much-awaited-restaurant-Pizza-Paradise-in-Jaunpur-TEJASTODAY
 ||teknafnews24.com^*/71489491_496192041171769_5843779348145897472_n.jpg
 ||teknaftoday.com^*/82108662_776442482841664_2469380348639707136_n
 ||teknolozee.com^*/rezistro-banner.png
