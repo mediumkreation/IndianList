@@ -131,7 +131,9 @@ jantabulletin.wordpress.com###media_gallery-2
 jantabulletin.wordpress.com###media_gallery-3
 bijoynewsbd24.com,canvasmagazine.com.bd,dhakardak-bd.com,parbatyachattagram.com,postpati.com###media_image-10
 canvasmagazine.com.bd,news127.com,scgnews.in###media_image-11
-mirrortoday.in###media_image-14
+jansaamna.com###media_image-12
+jansaamna.com###media_image-13
+jansaamna.com,mirrortoday.in###media_image-14
 punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 canvasmagazine.com.bd###media_image-18
@@ -151,8 +153,8 @@ starbanglanews.net###media_image-35
 berartimes.com,muldharpost.com,sasthabangla.com###media_image-4
 dainikkhojkhabar.live,keralaonlinenews.com,muldharpost.com,newsplus.lk###media_image-5
 onlinepana.com###media_image-51
-bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,kannurvarthakal.in,mirrortoday.in,muldharpost.com,prajawani.in,sasthabangla.com###media_image-6
-bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,parbatyachattagram.com,prajawani.in###media_image-7
+bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,mirrortoday.in,muldharpost.com,prajawani.in,sasthabangla.com###media_image-6
+bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,jansaamna.com,parbatyachattagram.com,prajawani.in###media_image-7
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,dhakardak-bd.com,kannurvarthakal.in,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in###media_image-8
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,scgnews.in,tamilnewsstar.com###media_image-9
 hpnewsatl.com###media_video-2
@@ -544,7 +546,7 @@ gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-greenbanglanews.com,jamunanewsbd.com,kasaragod.com,parbatyachattagram.com##.e3lan
+greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
