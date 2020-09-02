@@ -1128,6 +1128,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
 ||icetoday.net^*/aura-add-
 ||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
+||ideatvnews.com/wp-content/uploads/2020/07/web_store-front.jpg
 ||imagekhabar.com/wp-content/uploads/2020/06/ima.gif
 ||imagekhabar.com/wp-content/uploads/2020/06/imgads.gif
 ||imageshack.com^$third-party,domain=karaitivunews.com
@@ -2439,6 +2440,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||shobshomoy.com^*/Marchblink725X60.jpg
 ||shobshomoy.com^*/robi407x75.gif
 ||shortpixel.ai^$domain=dainiksylhet.com
+||shortpixel.ai^*9853049042272558631$domain=ideatvnews.com
 ||shreekanchanpath.com/wp-content/uploads/2019/11/New-Era
 ||shreekanchanpath.com/wp-content/uploads/2020/03/arun-singh-sisodiya-704x1024.jpg
 ||shreekanchanpath.com/wp-content/uploads/2020/03/haritege-school-656x1024.jpg
