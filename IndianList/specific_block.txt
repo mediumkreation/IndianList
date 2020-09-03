@@ -24,7 +24,7 @@
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
--Ads-$domain=dailyceylon.com
+-Ads-$domain=dailyceylon.com|gopalganj.org
 -ads-$domain=meelparvai.net
 -ads-$image,domain=asomiyapratidin.in
 -Ads-$image,domain=bdtoday24.com
