@@ -249,7 +249,7 @@ irinjalakudalive.com,janakhabar.com,livekhagaria.in,swisspungudutivu.com,tamil.c
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,tnilive.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 kalaroanews.com,trttamilolli.com,zoombangla.com###text-16
-anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,vanakkamlondon.com###text-17
+anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,vijaychowk.com,yarlosai.com###text-2
@@ -284,7 +284,7 @@ anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
 barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,orthosongbad.com###text-6
-apnades.in,bdtodays.net,jagprerna.com,shomoynews.com,vanakkamlondon.com###text-7
+apnades.in,bdtodays.net,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
 dmoitry.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com,siwanbazar.com###text-8
 jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
