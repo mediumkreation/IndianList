@@ -18,6 +18,7 @@
 -add.gif|$domain=somoysongbad.com|wenepali.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|ramailochha.com|teluguwishesh.com
+-ADD.jpg|$domain=bishwanathbd24.com
 -Add.jpg|$domain=suprovatsatkhira.com
 -add.png?$domain=osnepal.com
 -add.png|$domain=kalaroanews.com
