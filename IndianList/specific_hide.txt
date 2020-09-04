@@ -841,6 +841,7 @@ banglapostbd.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 jagatbhumi.com,natunbarta.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com##.stream-item-widget
+awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 otvnepal.com##.taja-adds
 tamiltradepost.com##.tamil-widget
