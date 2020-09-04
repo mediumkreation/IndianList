@@ -80,7 +80,7 @@ humhindustanilive.com###content .master-slider-parent
 valampurii.lk###custom-ads-2
 thepublicworld.com###custom_html-11
 kalaroanews.com###custom_html-13
-notunerkotha.com###custom_html-17
+muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 amritvarshanews.in,hastakshep.com,januday.com,news127.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 siwanonline.com###custom_html-21
@@ -555,6 +555,7 @@ deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
 ceylonradio.co.uk,deshersangbad.com,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
+muznews.online##.elementor-widget-image-carousel
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
@@ -1168,6 +1169,7 @@ dainiki.com##section img.attachment-full
 nayapage.com##section.widget img:not(.wp-image-243554)
 lokpath.com##section.widget img:only-child
 jayhosh.com##section.widget_media_image
+muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
 paristamil.com##table[width="98%"] div.title
