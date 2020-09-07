@@ -254,8 +254,8 @@ kalaroanews.com,manvadhikartimes.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,sambadsaradin.com###text-19
-anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,vijaychowk.com,yarlosai.com###text-2
-tnilive.com,vanakkamlondon.com###text-20
+anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,vijaychowk.com,yarlosai.com###text-2
+hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
 vanakkamlondon.com###text-22
 thepublicworld.com,tnilive.com###text-23
@@ -615,7 +615,7 @@ myfirstshow.com##.hb-img
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 akhonsamoy.com##.header-ads-area
-dainikpana.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
+dainikpana.com,hindi24news.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
 thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
