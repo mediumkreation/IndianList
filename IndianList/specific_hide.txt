@@ -79,6 +79,7 @@ bangalorewaves.com###classlistmain
 humhindustanilive.com###content .master-slider-parent
 valampurii.lk###custom-ads-2
 thepublicworld.com###custom_html-11
+metroplus.online###custom_html-12
 kalaroanews.com###custom_html-13
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
@@ -621,6 +622,7 @@ ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
+metroplus.online##.header-wraper .fullwidthabanner
 corporatesangbad.com,upayuktha.com##.header__banner
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
