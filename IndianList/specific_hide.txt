@@ -49,6 +49,7 @@ poonththalir.blogspot.com###LinkList21
 pnews.co.in###SidebarWidgets-S1
 puthiyathalaimurai.com###__ads1
 puthiyathalaimurai.com###__ads2
+raajdhaninews.com###a2a_follow_widget-8
 dailykaratoa.com,malabarflash.com###ad
 thereport24.com###add-place
 malayalamtodayonline.com###add_slider_header_banner
@@ -1142,7 +1143,7 @@ punjabiherald.co.nz##div[aria-label="Banner-2.jpg"]
 punjabiherald.co.nz##div[aria-label="HSB-TOP-ADD-2a.jpg"]
 punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
 unitednripost.com##div[class*=" ads_"]
-moulvibazar24.com##div[data-adid]
+moulvibazar24.com,raajdhaninews.com##div[data-adid]
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
