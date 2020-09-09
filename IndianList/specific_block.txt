@@ -603,7 +603,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||blogspot.com^*/s1600/FotoFlexer_Photo.jpg$domain=arghakhanchi.com
 ||blogspot.com^*/sunwc.gif$domain=pungudutivu.info
 ||blogspot.com^*/tamilmarn.gif$domain=pungudutivu.info
+||blogspot.com^*Buxar%2BAbloom%2BService.gif$domain=buxarpatrika.com
+||blogspot.com^*Post%2BB%2Bgif.gif$domain=buxarpatrika.com
 ||blogspot.com^*web%2Bad$domain=vallikkunnu.com
+||blogspot.com^*Webp.net-gifmaker$domain=buxarpatrika.com
 ||blogvarta.com/images/viewmefast.png
 ||boichitranews24.com^*/ap-2.jpg
 ||boichitranews24.com^*/islamibank.gif

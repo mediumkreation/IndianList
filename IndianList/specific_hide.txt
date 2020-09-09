@@ -806,7 +806,7 @@ provatnews.com##.sideAdd
 onlinekhabar.com##.side__add
 sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
-24upnews.com##.sidebar .widget.Image
+24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 beanibazarview24.com##.sidebar [id^="media_image"]
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
