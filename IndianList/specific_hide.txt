@@ -877,6 +877,7 @@ vadakaravoice.com##.td-main-sidebar aside
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
 haldwanilive.com##.td-ss-main-sidebar
+newspage13.com##.td_block_image_box
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
 paristamil.com##.text-center > table[width="98%"]
