@@ -1134,7 +1134,7 @@ dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 newstodaynetwork.com##aside.ai_widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
-yeskathmandu.com##aside.widget_media_image
+updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
