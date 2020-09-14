@@ -367,7 +367,7 @@ hmtvlive.com##.ad_unit_wrapper
 ratopati.com##.adalyticsblock
 khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
 ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,dailysports24.com,kannada.news18.com,kathmandupati.com,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com,sunamganjersomoy.com##.add
-ratopost.com,sancharkendra.com##.add-2
+motivatenews.com.np,ratopost.com,sancharkendra.com##.add-2
 khobor24ghonta.com##.add-bg-02
 jaianndata.com##.add-block
 nagariknetwork.com##.add-container
@@ -410,6 +410,7 @@ rosemalayalam.com##.add_img_mid
 europemalayali.co.uk##.add_inner_news
 narayanionline.com##.add_middle
 sancharkendra.com##.addb
+motivatenews.com.np##.addc img
 aznewsbd24.com,mediadabali.com##.addd
 bangalorewaves.com##.addima
 otvnepal.com,protikhon.com##.adds
@@ -805,7 +806,7 @@ baahrakhari.com##.side-bigyaapan
 gournadi24.com##.side-indent .wgs-ads:first-child
 provatnews.com##.sideAdd
 onlinekhabar.com##.side__add
-sancharkendra.com##.sidea
+motivatenews.com.np,sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
