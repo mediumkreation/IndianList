@@ -489,7 +489,7 @@ asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,khobor24gh
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
 creativenewsexpress.com##.banner-ad-top-single
-kahalenews.com##.banner-ad-wrap
+kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
 bholarbani.com##.banner-img
 biharnewstv.in,delhiuptodate.com,himalini.com,navpradesh.com,pularvu.com,sorejomin.com##.banner-promotions-wrapper
@@ -796,6 +796,7 @@ ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 sathyamonline.com##.sAds
 theindianstate.in##.sb-banner
+sheikhpuranews.com##.sb-widget-ad
 jaianndata.com##.scnd-add
 ns7.tv##.seithigalad
 banglatelegraph.com##.sentbe-top
