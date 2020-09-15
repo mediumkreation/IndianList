@@ -2590,6 +2590,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||shatabdinews.com/uploadedBanner/83.jpg
 ||shatgambujbarta.com/media/PhotoGallery/2018November/Untitled-1-1901220905.gif
 ||sheershakhobor.com/wp-content/themes/main/assets/img/ads.jpg
+||sheikhpuranews.com/wp-content/uploads/2020/09/studio-$image
+||sheikhpuranews.com^*/dlps32010935-$image
+||sheikhpuranews.com^*/wp-$image
 ||sherpurnews24.com^*/adsmurad$image
 ||sherpurnews24.com^*/bdweb.png
 ||sherpurnews24.com^*/Logos_gra$image
