@@ -1001,6 +1001,8 @@ beanibazarview24.com##[id^="custom_html"]
 pagetamil.com##[id^="td_uid_3"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
+biharnews7.com##a.post-middle-banner
+biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
