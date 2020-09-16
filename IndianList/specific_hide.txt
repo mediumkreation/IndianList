@@ -1140,6 +1140,7 @@ dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 newstodaynetwork.com##aside.ai_widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
+bihardootnews.com##aside.widget_media_gallery
 updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 newsdeskkannada.com##aside.widget_simpleimage
@@ -1199,3 +1200,4 @@ chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
 paristamil.com##table[width="98%"] div.title
 paristamil.com##table[width="98%"] h2.cat_title
+bihardootnews.com##tagdiv
