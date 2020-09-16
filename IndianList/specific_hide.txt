@@ -133,11 +133,11 @@ bd-pratidin.com###main-container
 valampurii.lk###main_middle_right_advert
 jantabulletin.wordpress.com###media_gallery-2
 jantabulletin.wordpress.com###media_gallery-3
-bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,news21live.in,parbatyachattagram.com,postpati.com###media_image-10
+aryavartposts.com,bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,news21live.in,parbatyachattagram.com,postpati.com###media_image-10
 canvasmagazine.com.bd,news127.com,scgnews.in###media_image-11
 jansaamna.com###media_image-12
-jansaamna.com###media_image-13
-jansaamna.com,mirrortoday.in###media_image-14
+aryavartposts.com,jansaamna.com###media_image-13
+aryavartposts.com,jansaamna.com,mirrortoday.in###media_image-14
 punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 canvasmagazine.com.bd###media_image-18
@@ -1159,6 +1159,7 @@ unitednripost.com##div[class*=" ads_"]
 moulvibazar24.com,raajdhaninews.com##div[data-adid]
 pallibatani.com##div[data-structure="12"]
 achhikhabar.com##div[id^="achhi-"]
+aryavartposts.com##div[id^="aryav-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
