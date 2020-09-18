@@ -900,7 +900,7 @@ alertnews24.com##.text-html
 indiavisionmedia.com##.thd
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
-despunjab.ca##.theiaStickySidebar .stream-item-widget
+despunjab.ca,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 navpradesh.com##.theiaStickySidebar .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
