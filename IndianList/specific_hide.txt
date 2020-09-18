@@ -80,8 +80,9 @@ malayalamtodayonline.com###boxes
 bangalorewaves.com###classlistmain
 humhindustanilive.com###content .master-slider-parent
 valampurii.lk###custom-ads-2
-thepublicworld.com###custom_html-11
-metroplus.online###custom_html-12
+thesunrisetoday.com###custom_html-10
+thepublicworld.com,thesunrisetoday.com###custom_html-11
+metroplus.online,thesunrisetoday.com###custom_html-12
 kalaroanews.com###custom_html-13
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
@@ -168,6 +169,7 @@ bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,jansaamna.com,manvadhikar
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,dhakardak-bd.com,kannurvarthakal.in,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in###media_image-8
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,scgnews.in,tamilnewsstar.com###media_image-9
 hpnewsatl.com###media_video-2
+thesunrisetoday.com###media_video-3
 democratictvnews.com###media_video-6
 middleeastchandrika.com###mep_0
 idunammaooru.in###metaslider_10258
