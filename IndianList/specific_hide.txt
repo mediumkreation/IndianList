@@ -839,6 +839,7 @@ barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 hotnewsindia.com##.sidebar > .widget_custom_html
 beanibazarview24.com##.sidebar [id^="media_image"]
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
+creativenewsexpress.com##.sidebar-inner > section.widget_media_image
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
