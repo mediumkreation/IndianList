@@ -130,6 +130,7 @@
 _300-x$image,domain=bikashnews.com
 _336x280.$domain=ajabgjab.com
 __add$domain=natuncumilla.com
+_ad.jpeg|$domain=usamibanglanews.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com
 _AD_GIF$domain=kahalenews.com
 _add-$domain=pba.agency
@@ -2931,6 +2932,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||upayuktha.com/wp-content/uploads/2020/01/Shree-Bharathi-Group-of-institution
 ||update24.net/images/jadukor.com.gif
 ||updatesatkhira.com/wp-content/uploads/2017/12/ad.jpg
+||usamibanglanews.com/wp-content/uploads/2019/05/add2-e1558119625817.jpg
 ||usanewsonline.com/wp-content/uploads/2017/09/people-tech.png
 ||usanewsonline.com/wp-content/uploads/2017/11/business-cards-mamun-final.png
 ||usanewsonline.com/wp-content/uploads/2017/11/Parkchester-Pharmacy-final.png
