@@ -756,7 +756,7 @@ abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
 lastnewsbd.com##.myadd
 news13.in##.n13_home_adv4
-bordernewsmirror.com,canadauthayan.ca,newstodaynetwork.com,zamania.in##.n2-section-smartslider
+bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 kannurvarthakal.in,kilinochchinews.com,prajawani.in,punjabiakhbar.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
@@ -840,6 +840,7 @@ beanibazarview24.com##.sidebar [id^="media_image"]
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
+mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
