@@ -918,6 +918,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dhakatoday.com^*/pran_milk
 ||dhakatoday.com^*/regent_new
 ||dhoomkharidi.com/media/DK%20Promo/site/dhoomkharidibanner.jpg$domain=bhelpoori.com
+||digicube.net.in^$third-party,domain=benkiyabale.com
 ||digitalbanglanews.com/wp-content/uploads/2019/01/aristaadd.gif
 ||digitalmalayali.com/resources/ad/
 ||digitaloceanspaces.com^*/275-220.gif$domain=nepalaaja.com
