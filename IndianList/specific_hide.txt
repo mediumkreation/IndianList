@@ -591,6 +591,7 @@ deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
 ceylonradio.co.uk,deshersangbad.com,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
+alertchhattisgarh.com##.elementor-element-37731bf
 muznews.online##.elementor-widget-image-carousel
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
