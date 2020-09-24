@@ -127,6 +127,9 @@
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
 @@||tejastoday.com^*/ADD-TEJAS
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
+@@||youngvarta.com/uploads/blocks/block_5e8dae57e47c1.JPG
+@@||youngvarta.com/uploads/blocks/block_5f056e0ef2e59.gif
+@@||youngvarta.com/uploads/blocks/block_5f60882628309.jpg
 _300-x$image,domain=bikashnews.com
 _336x280.$domain=ajabgjab.com
 __add$domain=natuncumilla.com
@@ -3145,6 +3148,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||yespunjab.com^*/Kaku-Ahluwalia-Pbi-Ad.jpg
 ||yespunjab.com^*/Madan-Lal-Dhingra-Ad.gif
 ||yespunjab.com^*/SVEEP-2019.jpg
+||youngvarta.com/uploads/blocks/
+||youngvarta.com/uploads/images/img_5eb60e9adf0a08-58588082-48284153.gif
 ||youtube.com/embed/1ljpiLRAAho
 ||youtube.com/embed/ixacW9YeJD0
 ||youtube.com/embed/o19SibpQEcI
