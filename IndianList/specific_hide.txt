@@ -351,6 +351,7 @@ ddnews24x7.com###wonderplugincarousel-1
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bharatdarshannews.com###wowslider-container3
+citynewsexpress.com##.-indx
 samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
 eyenews.news##.DADD
@@ -362,6 +363,7 @@ khabarpahad.com##.InArtilce-AdSlot01
 lastnewsbd.com##.Photo_top_banner
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
+citynewsexpress.com##.Tollywood-indx
 tamil.oneindia.com##._adr_abp_container
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
