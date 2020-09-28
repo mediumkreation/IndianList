@@ -782,6 +782,7 @@ sudinamonline.com##.news-addheight
 sansarnews.com##.news-style-six-ads
 prothomalo.com##.news_inner_spcl_ad
 biswabanglanews.com,mirrorlive24.com##.news_portal_ads_banner
+newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
 nepalkhabar.com##.nk-sidebar-ads
