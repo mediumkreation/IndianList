@@ -375,6 +375,8 @@ cialive.in##.ad .carousel
 pratyeknewslive.com##.ad--widget
 eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
+vijayapatha.in##.ad-description
+vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 bangladesherkhela.com##.ad-header-below
@@ -458,6 +460,7 @@ deshabhimani.com##.adone > div
 canadanepal.com,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,laligurash.com,mediadabali.com,nepalesediaspora.com,newsbihani.com,onlinepana.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,tamilan24.com##.ads
 madawalaenews.com##.ads-big
 khullamanch.com,thenepaltoday.com##.ads-container
+vijayapatha.in#@#.ads-image
 hindi.cricketnmore.com##.ads-space
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
