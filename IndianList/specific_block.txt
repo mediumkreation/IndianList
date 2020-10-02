@@ -1607,6 +1607,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||lktcdn.prixa.net/media/565x90_tata.gif
 ||lktcdn.prixa.net/media/595x90px.gif
 ||lktcdn.prixa.net/media/700X110.gif
+||lktcdn.prixa.net^$third-party,domain=apnepal.com
 ||lokpati.com/wp-content/uploads/2019/05/pathaway-latest-111.gif
 ||lokpati.com/wp-content/uploads/2019/07/67614313_370074496900862_7355401085202202624_o$image
 ||lokpati.com/wp-content/uploads/2019/07/Future-Global-yesse-design-1.gif
