@@ -403,7 +403,7 @@ ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,dailysports24.com,hamroeconomy.
 newsbijoy.com##.add .textwidget > h3.title
 motivatenews.com.np,ratopost.com,sancharkendra.com##.add-2
 khobor24ghonta.com##.add-bg-02
-jaianndata.com##.add-block
+aajkasach.in,jaianndata.com##.add-block
 nagariknetwork.com##.add-container
 ajkersylhet.com,sambadsaradin.com##.add-image
 sharebarta.com##.add-imgae
@@ -1264,3 +1264,4 @@ manithan.com##span[id] > iframe[id]:only-child
 paristamil.com##table[width="98%"] div.title
 paristamil.com##table[width="98%"] h2.cat_title
 bihardootnews.com##tagdiv
+aajkasach.in##ul.post h3.widget-title
