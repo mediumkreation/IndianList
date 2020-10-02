@@ -1216,6 +1216,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||imagekhabar.com/wp-content/uploads/2020/06/ima.gif
 ||imagekhabar.com/wp-content/uploads/2020/06/imgads.gif
 ||imageshack.com^$third-party,domain=karaitivunews.com
+||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||imgur.com^$third-party,domain=alltophere.com|braveindianews.com|mawanellanews.com|nepalinsider.com|nepalipatra.com|news71online.com
 ||inbcn.in/admin/view/upload/btp.jpg
