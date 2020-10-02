@@ -1205,6 +1205,7 @@ newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
 grenonews.com##aside.widget_text
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
+bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabiherald.co.nz##div[aria-label="27.jpg"]
