@@ -249,6 +249,7 @@ dinamalar.com###selum
 vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 yazhnews.com###sidebar
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
+news27.org###sidebar .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
