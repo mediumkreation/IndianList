@@ -984,6 +984,7 @@ uukmanews.com##.tp-ad
 nagariknetwork.com##.travel-add
 deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
+britishkairali.co.uk##.twp-ad
 unmadmagazine.com##.twp-adv-header
 thesaturdaynews.com##.under_more_hit_advertisement
 rsnewslive.com##.unite-gallery
@@ -1263,7 +1264,7 @@ dainiki.com##section img.attachment-full
 khabarhub.com##section.widget
 nayapage.com##section.widget img:not(.wp-image-243554)
 lokpath.com##section.widget img:only-child
-jayhosh.com##section.widget_media_image
+britishkairali.co.uk,jayhosh.com##section.widget_media_image
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
