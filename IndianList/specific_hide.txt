@@ -743,6 +743,7 @@ postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
 beautynewsnepal.com##.lwig
 newsfirst.lk##.main-ad-half
+punjabiakhbaar.ca##.main-content .stream-item
 samudrapari.com##.main-news-ads
 jaianndata.com##.main-tp-adds
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
@@ -915,7 +916,7 @@ cinenxt.com,jugasankha.in##.stream-item
 banglapostbd.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 jagatbhumi.com,natunbarta.com##.stream-item-top-wrapper
-keralabhooshanam.com,natunbarta.com##.stream-item-widget
+keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca##.stream-item-widget
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 otvnepal.com##.taja-adds
