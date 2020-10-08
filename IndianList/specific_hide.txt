@@ -575,6 +575,7 @@ newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
+janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
 3pm.in##.colombiatracked
 news24delhi.com##.container .container #page-sidebar
