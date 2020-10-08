@@ -358,6 +358,7 @@ bharatdarshannews.com###wowslider-container3
 citynewsexpress.com##.-indx
 samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
+janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
 dainiksylhet.com,surmanews24.com,weeklydesh.co.uk##.DAdd
 bdprojonmo71.com##.DAdvertisement
@@ -527,7 +528,7 @@ creativenewsexpress.com##.banner-ad-top-single
 kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
 bholarbani.com##.banner-img
-biharnewstv.in,delhiuptodate.com,himalini.com,navpradesh.com,pularvu.com,sorejomin.com##.banner-promotions-wrapper
+biharnewstv.in,delhiuptodate.com,himalini.com,janashaktinews.com,navpradesh.com,pularvu.com,sorejomin.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 khabarhub.com##.banner-widget
