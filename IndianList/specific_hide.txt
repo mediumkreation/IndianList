@@ -1009,6 +1009,7 @@ scgnews.in##.widget-ad-image
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
+jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
 koshionline.com##.widget_advertisement-bar
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
