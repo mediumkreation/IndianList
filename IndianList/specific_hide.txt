@@ -1198,6 +1198,7 @@ banglanews24.com##a[href*="womansworldbd.com"]
 eelamalar.com##a[href*="yaalvaakai.com"]
 newstodaynetwork.com##a[href*="youtu.be/yEWmOfXJRX8"]
 pravasiexpress.com##a[href*='japan-it.jp'] img
+bantwaltimes.com##a[href^="/advertisements/advts/"]
 pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 kannadigaworld.com##a[onclick*="banner"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
