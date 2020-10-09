@@ -1085,6 +1085,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||filmykhabar.com/data/web_banner/20200812121913_ac47ca986d0f2acc56ed564d9682e64d@filmykhabar.com.gif
 ||filmykhabar.com/data/web_banner/20200813072430_ec801730c086b0255954ae487a3fabb5@filmykhabar.com.gif
 ||firstbihar.com/Media/parcha/
+||foodchannel.com^$third-party,domain=sameera.co.in
 ||freelancerstory.com/wp-content/uploads/2016/09/web-hosting-from-sylhost.png
 ||gadikannadiga.com/promos/1601184138_IMG-20200927-WA0015.jpg
 ||gbnews24.com/gf.gif
