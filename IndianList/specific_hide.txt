@@ -636,7 +636,7 @@ dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
-goodmorningindia.net##.footer-adv
+goodmorningindia.net,rkexpose.com##.footer-adv
 news127.com##.footer-bottom
 gionews.in##.footer-widget .widget_media_image
 pradeepamonline.com##.footer-widgets-wrap
