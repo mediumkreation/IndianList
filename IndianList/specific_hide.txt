@@ -115,7 +115,7 @@ puttalamonline.com###head-imgput
 anytechtune.com###headadd
 punjabinational.ca###header-aside
 ethiri.com###header-helpful
-sanjeevanisamachar.com###header-right-section
+primepunjab.com,sanjeevanisamachar.com###header-right-section
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 samudrapari.com###home-top-sidebar
@@ -226,7 +226,7 @@ buxarkhabar.com###rich_webSlider1_1
 buxarkhabar.com###rich_webSlider1_2
 edainikazadi.net###right-holder
 kungumam.co.in###road
-kodanki.in###secondary
+kodanki.in,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 charchitbihar.com###secondary aside.widget_media_image
