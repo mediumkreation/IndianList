@@ -196,9 +196,10 @@ biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
 biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
-digitalnewslive.com,januday.com,mahekasansar.com###metaslider_widget-3
-mahekasansar.com###metaslider_widget-4
+digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
+mahekasansar.com,npg.news###metaslider_widget-4
 digitalnewslive.com###metaslider_widget-5
+npg.news###metaslider_widget-6
 tharunaya.us###module_03_ads300x250
 cinemapettai.com###mvp-leader-wrap
 ujyaaloonline.com###myCarousel
