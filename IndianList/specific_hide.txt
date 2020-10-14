@@ -210,6 +210,7 @@ cialive.in###myCarouselv
 kathmandupati.com###myModal
 lankadeepa.lk###myModal1
 thevoices.in###mycarousel-273
+ratopati.com###news-modal
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
 crickethimalaya.com###ouibounce-modal
@@ -1264,7 +1265,7 @@ kantipath.com##img[alt*="add"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
 onlinemarg.com##img[alt="Header Ad"]
-farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
+farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 dhakareport24.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
 gramajyothi.com##img[alt="banner"]
