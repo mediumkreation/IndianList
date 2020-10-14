@@ -130,6 +130,7 @@ tamilcinemaz.com###itro_opaco
 tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 kalpa.news###layerslider_1
+vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 bd-pratidin.com###main-container
@@ -645,6 +646,7 @@ telegramnews24.com##.fluid-width-video-wrapper
 goodmorningindia.net,rkexpose.com##.footer-adv
 news127.com##.footer-bottom
 gionews.in##.footer-widget .widget_media_image
+vorerbangladesh.com##.footer-widgets aside.widget_text
 pradeepamonline.com##.footer-widgets-wrap
 professorsbd.com##.for_add
 sangbad-gallery.com##.four_advertisement
