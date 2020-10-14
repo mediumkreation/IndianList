@@ -986,6 +986,7 @@ shatabdinews.com##.topAdv
 onlinekhabar.com##.top__ads
 doshdik.com##.top_add
 samacharplus.com##.top_advertize
+nrimalayalee.com##.top_most_news_post_ad
 gujarattimesusa.com,vijaykarnatakaepaper.com##.topad
 bdkhobor24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 dhakatoday.com##.topadr
@@ -1240,6 +1241,9 @@ punjabiherald.co.nz##div[aria-label="Banner-2.jpg"]
 punjabiherald.co.nz##div[aria-label="HSB-TOP-ADD-2a.jpg"]
 punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
 unitednripost.com##div[class*=" ads_"]
+nrimalayalee.com##div[class*="_bottom_ad"]
+nrimalayalee.com##div[class*="_right_ad"]
+nrimalayalee.com##div[class*="inner-main-ad"]
 suddione.com##div[class^="suddi-after-content_"]
 moulvibazar24.com,raajdhaninews.com##div[data-adid]
 pallibatani.com##div[data-structure="12"]
