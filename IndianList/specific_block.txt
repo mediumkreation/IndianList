@@ -2651,10 +2651,15 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||reportersnepal.com^*/X-offer.gif
 ||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
+||rtvonline.com/templates/rtv-v1/images/bangal_dtl.gif
+||rtvonline.com/templates/rtv-v1/images/bangal_h.gif
+||rtvonline.com/templates/rtv-v1/images/Evaly20-8-2020.jpg
 ||rtvonline.com/templates/rtv-v1/images/itel.jpg
+||rtvonline.com/templates/rtv-v1/images/smc_970X90.jpg
 ||rtvonline.com/templates/rtv-v1/images/spark.png
 ||rtvonline.com/templates/rtv-v1/images/techno25-6-2020.png
 ||rtvonline.com/templates/rtv-v1/images/walton-$image
+||rtvonline.com/templates/rtv-v1/images/walton_update_creative.jpeg
 ||rtvonline.com^*/best-300X250.gif
 ||rtvonline.com^*/bongo_desktop28.png
 ||rtvonline.com^*/dw_logo1.jpg
