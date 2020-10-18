@@ -11,6 +11,7 @@
 ||limray.com^$third-party,domain=uttranews.com
 ||purplepatch.online^$third-party
 ||rugiomyh2vmr.com
+||thegoodplan.ovh/promo.php$popup
 ||tinkerta.com^$third-party
 ||uutew.info^$third-party
 ||wizardsbd.com^$third-party
