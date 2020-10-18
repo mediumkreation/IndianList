@@ -123,6 +123,7 @@
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
+@@||img.setopaty.com/uploads/bigyaapan/1582009187.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
@@ -1254,6 +1255,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||imageshack.com^$third-party,domain=karaitivunews.com
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
+||img.setopaty.com/uploads/bigyaapan/
 ||imgur.com^$third-party,domain=alltophere.com|braveindianews.com|mawanellanews.com|nepalinsider.com|nepalipatra.com|news71online.com
 ||inbcn.in/admin/view/upload/btp.jpg
 ||inbcn.in/admin/view/upload/web%20.jpg
