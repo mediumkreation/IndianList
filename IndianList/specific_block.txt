@@ -264,6 +264,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||abnews24.com^*/Yousuf.gif
 ||abplive.com//testfeeds/banners/
 ||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
+||adhunikdaur.com/webdata/ranbhumiexpress.com/media/
 ||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
 ||adnlive24.com/webdata/adnlive24.com/media/1547646966adn_live_add.JPG
 ||agraleaks.com/wp-content/uploads/2020/03/cancer.jpg
@@ -639,7 +640,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||borendronews.com/wp-content/uploads/2020/02/83396855_580840169434281_7488237083568373760_n.jpg
 ||borendronews.com/wp-content/uploads/2020/02/83801531_943884642673476_894154174608965632_n.jpg
 ||boxoffice70mm.com^*/bg-1.jpg
-||breakingaajtaknews.com/ws/breakingaajtaknewscom/news/201908/breaking_add_new123.JPG
 ||britbangla24.com/wp-content/uploads/2019/09/BANGLACARPETS-1-288x165.jpg
 ||britbangla24.com/wp-content/uploads/2020/07/western_union.jpg
 ||bslnews24.com/wp-content/uploads/2019/09/IT.jpg
