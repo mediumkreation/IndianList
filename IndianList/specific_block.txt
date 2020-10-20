@@ -2677,6 +2677,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rtvonline.com/templates/rtv-v1/images/bangal_dtl.gif
 ||rtvonline.com/templates/rtv-v1/images/bangal_h.gif
+||rtvonline.com/templates/rtv-v1/images/bengal_dtl.jpg
+||rtvonline.com/templates/rtv-v1/images/bengal_home.jpg
 ||rtvonline.com/templates/rtv-v1/images/Evaly20-8-2020.jpg
 ||rtvonline.com/templates/rtv-v1/images/itel.jpg
 ||rtvonline.com/templates/rtv-v1/images/smc_970X90.jpg
