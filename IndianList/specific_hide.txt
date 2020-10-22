@@ -1298,6 +1298,7 @@ pnews.co.in##img[id^="Image"]
 dhakatoday.com##img[src*="mediabell.net"]
 dainiki.com##section img.attachment-full
 khabarhub.com##section.widget
+karobardaily.com##section.widget > a:only-child
 nayapage.com##section.widget img:not(.wp-image-243554)
 lokpath.com##section.widget img:only-child
 britishkairali.co.uk,jayhosh.com##section.widget_media_image
