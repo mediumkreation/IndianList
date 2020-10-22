@@ -975,6 +975,7 @@ cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 despunjab.ca,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 navpradesh.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+udaipurkiran.com##.theiaStickySidebar > .widget_text
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
 namasteandhra.com##.three_ads
