@@ -1094,6 +1094,7 @@ biharnews7.com##a.post-middle-banner
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
+newsagencyindia.com##a[data-anchor*="wincompete"]
 uttranews.com##a[href*="-advt-"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 yespunjab.com##a[href*="/Capt-IDay-English"]
