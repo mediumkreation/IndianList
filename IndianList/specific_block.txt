@@ -2386,7 +2386,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||polikai.com^*/sivantv.jpg
 ||pollysangbad.com/wp-content/uploads/2019/09/rec728.jpg
 ||popupmaker.com^$third-party,domain=vijayavani.net
+||ppbd.news/templates/web-v1/images/CDBL-Newspaper-AD.jpg
+||ppbd.news/templates/web-v1/images/idcol.jpg
+||ppbd.news/templates/web-v1/images/walton1-10-2020.jpg
 ||ppbd.news/templates/web-v1/images/walton14-7-2020.jpg
+||ppbd.news^*/Ads/
 ||ppbd.news^*/Bashundhara-Cement.png
 ||ppbd.news^*/citybank.png
 ||ppbd.news^*/goodManTravels.gif
