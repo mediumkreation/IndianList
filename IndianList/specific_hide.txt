@@ -93,7 +93,7 @@ amritvarshanews.in,hastakshep.com,januday.com,minoritiesnews.com,news127.com,sat
 siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
 barisaltoday.com,dubaivartha.com,hastakshep.com,jagprerna.com,khabarstate.com,marginalised.in,muznews.in,samastipurtown.com###custom_html-3
-ddnews24x7.com###custom_html-31
+ddnews24x7.com,thedastak24.com###custom_html-31
 ddnews24x7.com###custom_html-39
 news127.com###custom_html-4
 ddnews24x7.com###custom_html-44
@@ -1051,7 +1051,7 @@ ghazipurkhabar.co.in##.widget_revslider
 sadeaalaradio.co.nz##.widget_smartslider3
 moolbato.com##.widget_sow-image
 purbelinews.com##.widget_sp_image
-36garhi.com,jaihindnewspaper.com##.widget_supermag_ad
+36garhi.com,jaihindnewspaper.com,thedastak24.com##.widget_supermag_ad
 chandrikadaily.qa##.widget_viral_advertisement
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
