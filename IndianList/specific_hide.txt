@@ -437,6 +437,7 @@ gourbarta24.com##.add-slider
 cnibd.net##.add-space
 samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
+krishibajar.com##.add-top
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 sangbad-gallery.com##.addAd
