@@ -566,7 +566,7 @@ filmykhabar.com##.belowslideshow
 onlinepana.com##.betn-add
 crimeexpressbd.com##.biggapon
 safalkhabar.com##.bigyapan
-lokaantar.com##.bigyapan-gif-gallery
+lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
 lokaantar.com##.bigyapan-title
 arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
