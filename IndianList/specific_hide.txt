@@ -620,7 +620,7 @@ gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com##.e3lan
+ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
@@ -1049,7 +1049,7 @@ insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
 dainik4media.com##.widget_nivo_slider_widget
-ghazipurkhabar.co.in##.widget_revslider
+ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sadeaalaradio.co.nz##.widget_smartslider3
 moolbato.com##.widget_sow-image
 purbelinews.com##.widget_sp_image
