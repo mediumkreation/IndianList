@@ -576,6 +576,7 @@ bn24live.in##.bn-lg
 nirpakhawaaz.in##.bookingaff
 nagariknetwork.com##.box-news-ad
 ethiri.com##.brand_wrapper .tagline
+mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
 everestdainik.com##.bstyle-list ~ .post
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
