@@ -1423,6 +1423,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||janpravaslive.tv/wp-content/uploads/2017/12/shiv-traders.jpg
 ||jantakiawaz.org^*/RDESController?command=rdm.Picture$image
 ||jayakesarionline.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-16-at-12.28.10-PM.jpeg
+||jdmmc.com.np^$third-party,domain=rastriyakhabar.com
 ||jeewanaadhar.com/wp-content/uploads/2017/05/pennews-banner
 ||jillavarthakal.com^*/malabargd.jpg
 ||jugantor.com^*/Banner.jpg
@@ -2884,6 +2885,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sawalnepal.com/wp-content/uploads/2020/07/damak-nagar-ad-gif.gif
 ||sawalnepal.com/wp-content/uploads/2020/10/am-dental
 ||secureservercdn.net/160.153.137.14/28c.946.myftpupload.com/wp-content/uploads/2019/08/Rotti-Shop-New1$image
+||secureservercdn.net/198.71.233.107/cmk.e47.myftpupload.com/wp-content/uploads/2020/08/Gokarneshwar-Nagarpalika
 ||secureservercdn.net^*/IMG-20191114-WA0006$domain=samastipurtown.com
 ||secureservercdn.net^*/IMG-20191114-WA0007$domain=samastipurtown.com
 ||secureservercdn.net^*/IMG-20191217-WA0010$domain=samastipurtown.com
