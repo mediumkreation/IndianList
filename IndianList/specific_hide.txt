@@ -253,6 +253,7 @@ kannadaprabha.com###section_content_check_467
 kannadaprabha.com###section_content_check_468
 kannadaprabha.com###section_content_check_469
 kannadaprabha.com###section_content_check_518
+sawalnepal.com###section_right .ad
 dinamalar.com###selum
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 yazhnews.com###sidebar
@@ -263,6 +264,7 @@ madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
 pradeepamonline.com###sidebar1
+sawalnepal.com###sing_cont .ad
 patrikai.com###slide-holder
 makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
@@ -393,6 +395,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 kushtianews24.com##.above-banner
 ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
+sawalnepal.com##.ad .single-below
 pratyeknewslive.com##.ad--widget
 eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
