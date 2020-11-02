@@ -161,6 +161,7 @@ ads.jpg|$domain=meherpurnews.com
 Banner-$image,domain=reportersnepal.com
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com
+ttinews.in/add/
 WebAd.jpg|$domain=vasundharadeep.news
 |bikashnews.com^*/MEGA_MEGA-MAYA-BACHAT-KHATA_300x150pixels.gif
 ||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
@@ -3243,6 +3244,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||truevisionnews.com/wp-content/uploads/2018/04/300-x-250-pix.jpg
 ||truevisionnews.com/wp-content/uploads/2020/01/CHEMMANNUR-copy.jpg
 ||trustnews24.com/wp-content/uploads/2020/09/raipur-auto-rice.gif
+||ttinews.in/images/wa.jpeg
 ||twentyfournews.com^*/Clint.jpg
 ||udaipurkiran.com/wp-content/uploads/2020/05/mds-600x600.jpg
 ||ujjawalprabhat.com/wp-content/uploads/2020/05/10cric-1.jpg
