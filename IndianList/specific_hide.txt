@@ -87,6 +87,7 @@ thesunrisetoday.com###custom_html-10
 thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com###custom_html-12
 kalaroanews.com###custom_html-13
+arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 amritvarshanews.in,hastakshep.com,januday.com,minoritiesnews.com,news127.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
@@ -972,7 +973,7 @@ bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 khulnatimes.com##.td-a-rec-id-content_inline
 myagdikali.com##.td-a-rec-id-custom-spot
-hamarahathras.com,headlinenews.lk,middleeastchandrika.com##.td-a-rec-id-header
+arthosuchak.com,hamarahathras.com,headlinenews.lk,middleeastchandrika.com##.td-a-rec-id-header
 aapkiaawaz.net,headlinenews.lk,himkhabar.com,onebanglanews.com##.td-a-rec-id-sidebar
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
