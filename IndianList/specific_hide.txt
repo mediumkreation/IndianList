@@ -323,7 +323,7 @@ mbmnewsnetwork.com###text-50
 achhikhabar.com###text-50 a
 anaicoddai.com,mbmnewsnetwork.com###text-52
 aapkisafalta.com###text-54
-anaicoddai.com###text-57
+anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
 barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,orthosongbad.com###text-6
@@ -648,6 +648,8 @@ newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
 janayugomonline.com##.envira-gallery-wrap
+himalayapost.com##.et-waypoint
+himalayapost.com##.et_pb_code_8
 chauthiduniya.com##.evo-header-banner
 channelionline.com##.eyli
 lankasri.com##.f-single
@@ -715,6 +717,7 @@ banglanewsca.com##.header_top_ad_area_2
 fenirkotha.com##.header_top_banner
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
+himalayapost.com##.himal-content_3
 setoshikhar.com##.hmxbiekzq
 bangla-news24.com##.home-e3lan
 dabangmedia.com##.home-gallery.photo-gallery
@@ -843,6 +846,7 @@ priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
+himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 nawidunia.com##.owl-carousel
 breakingtube.com,kheldhaba.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
