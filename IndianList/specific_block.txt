@@ -2748,6 +2748,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ratopost.com/wp-content/uploads/2020/05/Birtamod$image
 ||ratopost.com/wp-content/uploads/2020/06/gauriganj$image
 ||raxcdn.com/media/*.gif|$third-party,domain=thahakhabar.com
+||realbulletin.in/mynewsadmin/img/add/add1548668647.jpeg
+||realbulletin.in/mynewsadmin/img/add/add1561545198.jpeg
+||realbulletin.in/mynewsadmin/img/add/add1565001491.jpeg
+||realbulletin.in/mynewsadmin/img/add/add1580287776.jpeg
+||realbulletin.in/mynewsadmin/img/add/add1580287809.jpeg
 ||reporter.live/news/wp-content/themes/reporter_v2/images/livelaw_vertical.jpg
 ||reporter.live^*/chungath-300.jpg
 ||reporter.live^*/chunkath-png.png
