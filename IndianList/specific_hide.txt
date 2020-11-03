@@ -86,7 +86,11 @@ valampurii.lk###custom-ads-2
 thesunrisetoday.com###custom_html-10
 thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com###custom_html-12
+sharebazarnews.com###custom_html-1291
+sharebazarnews.com###custom_html-1292
+sharebazarnews.com###custom_html-1293
 kalaroanews.com###custom_html-13
+sharebazarnews.com###custom_html-1371
 arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
@@ -333,6 +337,7 @@ barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,ort
 bdmetronews24.com###text-68
 apnades.in,barisaltoday.com,bdtodays.net,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
 dmoitry.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com,siwanbazar.com,vyavasthadarpan.com###text-8
+sharebazarnews.com###text-882
 jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
