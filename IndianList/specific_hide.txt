@@ -225,6 +225,7 @@ chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
+alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
 industryhit.com###pum-15632
 nirapadnews.com###quads-adad11_widget
@@ -703,7 +704,7 @@ corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 akhonsamoy.com##.header-ads-area
 dainikpana.com,hindi24news.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
-thepublicworld.com##.header-advertise
+alokitoshitalakha.com,thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 manoramaonline.com##.header-sponser-left
