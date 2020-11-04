@@ -1322,7 +1322,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
-||imgur.com^$third-party,domain=alltophere.com|braveindianews.com|mawanellanews.com|nepalinsider.com|nepalipatra.com|news71online.com
+||imgur.com^$third-party,domain=alltophere.com|braveindianews.com|esudurkhabar.com|mawanellanews.com|nepalinsider.com|nepalipatra.com|news71online.com
 ||inbcn.in/admin/view/upload/btp.jpg
 ||inbcn.in/admin/view/upload/web%20.jpg
 ||india.com/wp-content/uploads/2020/04/CULT-WorkoutFH-BANNER-300x250.png
