@@ -4,6 +4,7 @@
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
+-ad.jpeg|$domain=newsmindia.com
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
 -Ad.jpg|$domain=cinemapluz.com
 -ad.jpg|$domain=indiaaajkal.in
@@ -2235,6 +2236,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||newsharpal.in^*/ITI-Website-Offer
 ||newskadaba.com/wp-content/uploads/2019/12/TWP_AD_GIF-2.gif
 ||newslivemp.com/wp-content/uploads/2018/05/ipl.jpg
+||newsmindia.com/wp-content/uploads/2020/10/shamford
 ||newsmoments.in^*/Chemmannur.jpg
 ||newsnarayanganj.net/wp-content/uploads/2020/09/add-i-communication
 ||newsncr.in/wp-content/uploads/2017/10/IMG-20171014-WA0004
