@@ -858,7 +858,7 @@ onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 nawidunia.com##.owl-carousel
-breakingtube.com,kheldhaba.com,upayuktha.com##.penci-banner-box
+breakingtube.com,kheldhaba.com,newsallbangladesh.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
