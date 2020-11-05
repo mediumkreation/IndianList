@@ -1332,6 +1332,7 @@ karobardaily.com##section.widget > a:only-child
 nayapage.com##section.widget img:not(.wp-image-243554)
 lokpath.com##section.widget img:only-child
 britishkairali.co.uk,jayhosh.com##section.widget_media_image
+cityonclick.in##section.widget_metaslider_widget
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
