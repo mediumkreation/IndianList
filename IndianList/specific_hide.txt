@@ -492,6 +492,7 @@ gandakitimes.com##.adds_taja img
 ntnews.com##.addsn
 snn24.com##.addtop_header
 snn24.com##.addtop_inner img[data-filename]
+agrinewsnetwork.in##.ader_ads
 udayavani.com##.adliadworld
 channelionline.com,setoshikhar.com##.adloc-is-banner
 hamrosandesh.com##.admana-plugin
