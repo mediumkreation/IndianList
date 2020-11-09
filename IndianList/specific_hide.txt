@@ -145,7 +145,7 @@ kathmandutoday.com###main_body
 valampurii.lk###main_middle_right_advert
 jantabulletin.wordpress.com###media_gallery-2
 jantabulletin.wordpress.com###media_gallery-3
-pressbangla24.com###media_gallery-4
+pressbangla24.com,webreporter.co.in###media_gallery-4
 aryavartposts.com,bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,news21live.in,parbatyachattagram.com,postpati.com###media_image-10
 canvasmagazine.com.bd,news127.com,scgnews.in###media_image-11
 jansaamna.com###media_image-12
@@ -153,8 +153,8 @@ aryavartposts.com,jansaamna.com###media_image-13
 aryavartposts.com,jansaamna.com,mirrortoday.in###media_image-14
 punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
-canvasmagazine.com.bd###media_image-18
-canvasmagazine.com.bd###media_image-19
+canvasmagazine.com.bd,webreporter.co.in###media_image-18
+canvasmagazine.com.bd,webreporter.co.in###media_image-19
 banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikkhojkhabar.live,dainiknayak.com,deshersangbad.com,himalayonlinemedia.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,national18news.com,nationaldunia.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,upnewz.in,ziotamil.in###media_image-2
 ggsnews24.com###media_image-21
 chapaidarpon.com,voiceofbihar.in###media_image-24
@@ -1308,6 +1308,7 @@ corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 tejastoday.com##div[id^="tdi_55_"]
+webreporter.co.in##div[id^="webre-"]
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
