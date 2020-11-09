@@ -9,6 +9,7 @@
 ||gceleritasads.com^$third-party
 ||idwq.info^$third-party
 ||limray.com^$third-party,domain=uttranews.com
+||pclicc1.com^$third-party
 ||purplepatch.online^$third-party
 ||rugiomyh2vmr.com
 ||thegoodplan.ovh/promo.php$popup
