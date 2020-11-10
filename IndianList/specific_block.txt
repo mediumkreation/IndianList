@@ -3551,6 +3551,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
 ||wp.com^*/visit-nepal-$domain=pariwartankhabar.com
 ||wp.com^*/YATRA-AD-TP$domain=osnepal.com
+||wp.com^*ganthan.com/wp-content/uploads/add-$image
 ||wp.com^*muznews.online*/add-$image
 ||wp.com^*muznews.online*/Atithi-Hotel_$image
 ||wp.com^*muznews.online*/design-1$image
