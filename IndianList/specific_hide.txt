@@ -1085,6 +1085,7 @@ swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
+up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sadeaalaradio.co.nz##.widget_smartslider3
