@@ -2923,6 +2923,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sangbad-gallery.com^*/add-09.jpg
 ||sangbad-gallery.com^*/Untitled-1-copy-5.jpg
 ||sangbad-gallery.com^*/webnewsdesign.com_
+||sangritimes.com/laravel/public/front/img/content/placeholder_$image
 ||sanjeevanisamachar.com/wp-content/uploads/2020/01/Vanya-add
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/03/SJS-internest-1.jpg
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/05/patel.jpg
