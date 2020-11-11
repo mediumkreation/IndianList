@@ -671,6 +671,7 @@ chhapratoday.com##.entry-the-content img.alignnone.size-full
 janayugomonline.com##.envira-gallery-wrap
 himalayapost.com##.et-waypoint
 himalayapost.com##.et_pb_code_8
+tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 channelionline.com##.eyli
 lankasri.com##.f-single
@@ -975,6 +976,8 @@ kaumudiplus.com##.spnsrd-ad
 abasangthandp.com##.sponsers
 swarajnewstoday.com##.sponsored
 veeravengaikal.com##.sppb-addon-clients
+tandavnews.com##.spu-bg
+tandavnews.com##.spu-box
 keralanewshunt.com##.st-banner
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
