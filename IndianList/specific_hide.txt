@@ -450,7 +450,7 @@ dailysabuj.com##.add-longhead
 bnewskolhapur.com##.add-place
 u71news.com##.add-right
 thebengalitimes.com##.add-sec
-nagariknetwork.com,thebengalitimes.com##.add-section
+malisamajsocial.com,nagariknetwork.com,thebengalitimes.com##.add-section
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
 gourbarta24.com##.add-slider
