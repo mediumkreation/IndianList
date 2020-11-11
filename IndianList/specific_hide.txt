@@ -1279,7 +1279,7 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 clickmandu.com##a[target="_blank"] img:only-child
-dainikjharkhand.com,pressmirchi.com##adnblock
+dainikjharkhand.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 newstodaynetwork.com##aside.ai_widget
