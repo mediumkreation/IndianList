@@ -163,7 +163,7 @@ ggsnews24.com,voiceofbihar.in###media_image-26
 ggsnews24.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,voiceofbihar.in###media_image-28
 cg24x7.news###media_image-29
-amritvarshanews.in,bangladaily24.com,dainikkhojkhabar.live,fenirzamin.com,globalsylhet.com,hindustandailynews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,pahar24.com,puthusudar.lk,sasthabangla.com###media_image-3
+amritvarshanews.in,bangladaily24.com,dainikkhojkhabar.live,fenirzamin.com,globalsylhet.com,hindustandailynews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com###media_image-3
 cg24x7.news,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
 starbanglanews.net###media_image-33
@@ -179,11 +179,11 @@ madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
 madhyabhoomikeboal.com###media_image-53
 madhyabhoomikeboal.com###media_image-56
-bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,mirrortoday.in,muldharpost.com,prajawani.in,sasthabangla.com###media_image-6
+bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,mirrortoday.in,muldharpost.com,prajawani.in,sasthabangla.com,theblastkhabar.com###media_image-6
 madhyabhoomikeboal.com###media_image-60
 bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,prajawani.in###media_image-7
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in###media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,scgnews.in,tamilnewsstar.com###media_image-9
@@ -302,7 +302,7 @@ irinjalakudalive.com,janakhabar.com,livekhagaria.in,swisspungudutivu.com,tamil.c
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,tnilive.com,vyavasthadarpan.com###text-14
 dailypunjabtimes.com,trttamilolli.com###text-15
 kalaroanews.com,manvadhikartimes.com,trttamilolli.com,zoombangla.com###text-16
-anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,vanakkamlondon.com###text-17
+anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,udaipurnewschannel.in,vijaychowk.com,yarlosai.com###text-2
