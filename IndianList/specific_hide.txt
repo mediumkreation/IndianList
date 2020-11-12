@@ -655,6 +655,7 @@ uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
 tamilwin.com##.eds300
 alertchhattisgarh.com##.elementor-element-37731bf
+khabardarinews.com##.elementor-widget-image
 muznews.online##.elementor-widget-image-carousel
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 metrovaartha.com##.embed-responsive-16by9
@@ -847,7 +848,7 @@ lastnewsbd.com##.myadd
 news13.in##.n13_home_adv4
 bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
-kannurvarthakal.in,kilinochchinews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
+kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
@@ -981,6 +982,7 @@ veeravengaikal.com##.sppb-addon-clients
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 keralanewshunt.com##.st-banner
+khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 cinenxt.com,jugasankha.in,liveupweb.com##.stream-item
