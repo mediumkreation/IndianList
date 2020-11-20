@@ -2864,6 +2864,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||reportersnepal.com^*/X-offer.gif
 ||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
+||rsnews24.com/mynewsadmin/img/add/
 ||rtvonline.com/templates/rtv-v1/images/bangal_dtl.gif
 ||rtvonline.com/templates/rtv-v1/images/bangal_h.gif
 ||rtvonline.com/templates/rtv-v1/images/bengal_dtl.jpg
