@@ -840,7 +840,7 @@ news13.in##.mobadv-4
 kathmandupati.com##.modal-backdrop
 suryakhabar.com##.mom-e3lan
 newswings.online##.mom-e3lanat
-bn24live.in,bornamelanews24.com##.mom-e3lanat-wrap
+bn24live.in,bornamelanews24.com,vishalindia.in##.mom-e3lanat-wrap
 amanpath.in##.mvp-flex-ad
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
