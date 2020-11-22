@@ -1352,6 +1352,7 @@ suprovatsydney.com.au##img[class^="custom_adgroup_"]
 pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 dhakatoday.com##img[src*="mediabell.net"]
+dainikjaltedeep.com##marquee
 dainiki.com##section img.attachment-full
 khabarhub.com,pariwartankhabar.com##section.widget
 karobardaily.com##section.widget > a:only-child
