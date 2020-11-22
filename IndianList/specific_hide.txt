@@ -1355,6 +1355,7 @@ pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 dhakatoday.com##img[src*="mediabell.net"]
 dainikjaltedeep.com##marquee
+momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 dainiki.com##section img.attachment-full
 khabarhub.com,pariwartankhabar.com##section.widget
 karobardaily.com##section.widget > a:only-child
