@@ -95,7 +95,7 @@ arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 amritvarshanews.in,filmaniaentertainment.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
-siwanonline.com###custom_html-21
+chhattisgarhvaibhav.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
 barisaltoday.com,dubaivartha.com,hastakshep.com,jagprerna.com,khabarstate.com,livehalchal.com,marginalised.in,muznews.in,samastipurtown.com###custom_html-3
 ddnews24x7.com,thedastak24.com###custom_html-31
@@ -725,7 +725,7 @@ alokitosonargaon.com##.head_bottom_add
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 akhonsamoy.com##.header-ads-area
-dainikpana.com,hindi24news.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
+chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
