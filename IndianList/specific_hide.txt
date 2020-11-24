@@ -141,6 +141,7 @@ vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 bd-pratidin.com###main-container
+p2pnews.co###main-content > .ml-slider
 kathmandutoday.com###main_body
 valampurii.lk###main_middle_right_advert
 jantabulletin.wordpress.com###media_gallery-2
