@@ -340,7 +340,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,orthosongbad.com###text-6
+barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,mitanbhoomi.com,orthosongbad.com###text-6
 bdmetronews24.com###text-68
 apnades.in,barisaltoday.com,bdtodays.net,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
 dmoitry.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com,siwanbazar.com,vyavasthadarpan.com###text-8
@@ -990,7 +990,8 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 cinenxt.com,jugasankha.in,liveupweb.com##.stream-item
-banglapostbd.com##.stream-item-below-post-content
+mitanbhoomi.com##.stream-item-above-post
+banglapostbd.com,mitanbhoomi.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 jagatbhumi.com,natunbarta.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca##.stream-item-widget
