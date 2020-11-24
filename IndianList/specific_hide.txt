@@ -706,6 +706,7 @@ sansarnews.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 dcnepal.com##.full-banner
 khelpati.com##.full-bigyapan
+dineshkhabar.com##.fullSizeAdBnr
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
