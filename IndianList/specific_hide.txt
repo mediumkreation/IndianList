@@ -623,6 +623,7 @@ tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
 3pm.in##.colombiatracked
+sajhapost.com##.commercial-add
 news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
