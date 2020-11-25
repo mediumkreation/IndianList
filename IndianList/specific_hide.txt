@@ -603,6 +603,7 @@ ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
 everestdainik.com##.bstyle-list ~ .post
+kaimurlive.com##.bwg_container
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
