@@ -952,6 +952,7 @@ despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
+ambalanews24.com##.sidebarVoteAd
 arthosuchak.com##.sidebar_google_ad
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
@@ -1189,6 +1190,7 @@ tamildaily.com##a[href*="cinefield.com"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
+ambalanews24.com##a[href*="daraz.com.bd"]
 loksangbad.com##a[href*="deshihost.com"]
 uttranews.com##a[href*="edu_ministrial"]
 eelamalar.com##a[href*="eelamhomeland.com"]
