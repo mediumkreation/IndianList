@@ -737,6 +737,7 @@ ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
+dailyreportbd.com##.header-top-right
 metroplus.online##.header-wraper .fullwidthabanner
 corporatesangbad.com,upayuktha.com##.header__banner
 lakshmipur24.com##.header_ad_block
