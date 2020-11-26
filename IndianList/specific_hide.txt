@@ -95,7 +95,7 @@ arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 amritvarshanews.in,filmaniaentertainment.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
-chhattisgarhvaibhav.com,siwanonline.com###custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
 barisaltoday.com,dubaivartha.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarstate.com,livehalchal.com,marginalised.in,muznews.in,samastipurtown.com###custom_html-3
 ddnews24x7.com,thedastak24.com###custom_html-31
@@ -109,7 +109,7 @@ ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com###custom_html-7
 mynews36.com###custom_html-8
-aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,uttranews.com###custom_html-9
+aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
