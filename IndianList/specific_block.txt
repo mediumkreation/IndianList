@@ -3611,6 +3611,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*/Motherland-Nepal$domain=osnepal.com
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/11/1328256665-2.gif
 ||wp.com^*/nepalijanta.com/wp-content/uploads/2018/12/aaa-1.jpg
+||wp.com^*/NEW_GIF_012_SMART_670-90.gif
 ||wp.com^*/Nirapad-pani.jpg$domain=uttaranews24.com
 ||wp.com^*/nnnn.jpg$domain=oporadhsangbad.com
 ||wp.com^*/Orthozen_NewsSide_Kannada.png$domain=tv5kannada.com

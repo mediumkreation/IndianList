@@ -506,6 +506,7 @@ channelionline.com,setoshikhar.com##.adloc-is-banner
 hamrosandesh.com##.admana-plugin
 deshabhimani.com##.adone > div
 canadanepal.com,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,laligurash.com,mediadabali.com,nepalesediaspora.com,newsbihani.com,onlinepana.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,sutranews.com,tamilan24.com##.ads
+mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 madawalaenews.com##.ads-big
 khullamanch.com,thenepaltoday.com##.ads-container
 vijayapatha.in#@#.ads-image
