@@ -1109,6 +1109,7 @@ dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sadeaalaradio.co.nz##.widget_smartslider3
 moolbato.com##.widget_sow-image
+eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 purbelinews.com##.widget_sp_image
 36garhi.com,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 chandrikadaily.qa##.widget_viral_advertisement
