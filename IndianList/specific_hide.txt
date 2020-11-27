@@ -1376,6 +1376,7 @@ dainiki.com##section img.attachment-full
 khabarhub.com,pariwartankhabar.com##section.widget
 karobardaily.com##section.widget > a:only-child
 nayapage.com##section.widget img:not(.wp-image-243554)
+jagarannews.com##section.widget img:not(.wp-image-85373)
 lokpath.com##section.widget img:only-child
 britishkairali.co.uk,jayhosh.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
