@@ -1372,6 +1372,7 @@ suprovatsydney.com.au##img[class^="custom_adgroup_"]
 pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 dhakatoday.com##img[src*="mediabell.net"]
+sankalpakhabar.com##main section.sk_banner
 dainikjaltedeep.com##marquee
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 dainiki.com##section img.attachment-full
@@ -1380,7 +1381,7 @@ karobardaily.com##section.widget > a:only-child
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 lokpath.com##section.widget img:only-child
-britishkairali.co.uk,jayhosh.com##section.widget_media_image
+britishkairali.co.uk,jayhosh.com,sankalpakhabar.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
