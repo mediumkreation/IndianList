@@ -511,6 +511,7 @@ mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 madawalaenews.com##.ads-big
 khullamanch.com,thenepaltoday.com##.ads-container
 vijayapatha.in#@#.ads-image
+agnijwala.com##.ads-sec
 hindi.cricketnmore.com##.ads-space
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
