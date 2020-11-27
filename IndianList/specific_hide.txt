@@ -352,6 +352,7 @@ uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
 bdtoday24.com###text-html-widget-35
 bdtoday24.com###text-html-widget-41
+sarkarimanthan.com###text-html-widget-6
 notunerkotha.com###tie-block_1375
 notunerkotha.com###tie-block_1947
 notunerkotha.com###tie-block_2330
@@ -651,7 +652,7 @@ gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com##.e3lan
+ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com,sarkarimanthan.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
