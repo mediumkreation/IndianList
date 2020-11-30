@@ -188,6 +188,9 @@ bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakar
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,scgnews.in,tamilnewsstar.com###media_image-9
+derbykhabar.com###media_video-16
+derbykhabar.com###media_video-17
+derbykhabar.com###media_video-18
 hpnewsatl.com###media_video-2
 thesunrisetoday.com###media_video-3
 madhyabhoomikeboal.com###media_video-5
@@ -1114,6 +1117,7 @@ swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
+derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
