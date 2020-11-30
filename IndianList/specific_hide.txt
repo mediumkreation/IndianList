@@ -273,6 +273,8 @@ rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 news27.org###sidebar .widget_media_image
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
+newsportals.in###sidebar-right > .widget_media_gallery
+newsportals.in###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
@@ -574,7 +576,7 @@ creativenewsexpress.com##.banner-ad-bottom-single
 creativenewsexpress.com##.banner-ad-top-single
 kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
-bholarbani.com##.banner-img
+bholarbani.com,newsportals.in##.banner-img
 biharnewstv.in,delhiuptodate.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,navpradesh.com,pularvu.com,sorejomin.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
@@ -663,6 +665,7 @@ uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
 tamilwin.com##.eds300
 alertchhattisgarh.com##.elementor-element-37731bf
+newsportals.in##.elementor-image > a[href="#"] img
 khabardarinews.com##.elementor-widget-image
 muznews.online##.elementor-widget-image-carousel
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
@@ -675,6 +678,7 @@ malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
+newsportals.in##.entry-content img
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
