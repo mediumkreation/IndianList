@@ -836,6 +836,7 @@ bikashnews.com##.menu_ad
 bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
 satwadhara.news##.metaslider
+glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 ekuruvi.com##.mid-had
 clickmandu.com##.mid_box

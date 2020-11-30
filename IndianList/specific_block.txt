@@ -1215,6 +1215,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ghatanarabichar.com^*/saudi$image
 ||giphy.com$domain=rangpursangbad.com
 ||giphy.com^$third-party,domain=shreekanchanpath.com|sunamganj24.com|uttareralo24.com
+||glimeindianews.in/wp-content/uploads/2020/10/jhol.png
+||glimeindianews.in/wp-content/uploads/2020/10/WhatsApp-Image-2020-11-16-at-10.16.20-AM-667x1024.jpeg
 ||globalmalayalam.com/images/header_banner.jpg
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
 ||globalsylhet.com^*/inter.jpg
