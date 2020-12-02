@@ -1121,7 +1121,7 @@ jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
 koshionline.com##.widget_advertisement-bar
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
-purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
+manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
