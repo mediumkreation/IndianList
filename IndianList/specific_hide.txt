@@ -748,6 +748,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,makkalkural.net,news1hind
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
+purvanchalpost.com##.header-image-wrap
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
@@ -921,6 +922,7 @@ prothomshomoy.com##.proth-after-content
 gandaknews.com##.psmorhug
 publictv.in##.pt-adv
 pagetamil.com##.pum-content
+purvanchalpost.com##.purva-widget
 rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
 anytechtune.com##.reseller-add
@@ -1119,7 +1121,7 @@ jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
 koshionline.com##.widget_advertisement-bar
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
-swapnilbangladesh.com##.widget_custom_html
+purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
