@@ -861,6 +861,7 @@ manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
 kathmandupati.com##.modal-backdrop
+jagratilahar.com##.modal-body
 suryakhabar.com##.mom-e3lan
 newswings.online##.mom-e3lanat
 bn24live.in,bornamelanews24.com,vishalindia.in##.mom-e3lanat-wrap
@@ -987,6 +988,7 @@ tibrakhabar.com##.siteorigin-widget-tinymce
 sancharkendra.com##.skada
 sancharkendra.com##.skadd
 dainik4media.com##.slick-slide
+jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
@@ -1098,6 +1100,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 netmalayalam.com##.vc_slide
+jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
 dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
