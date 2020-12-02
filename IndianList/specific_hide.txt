@@ -319,7 +319,7 @@ anytechtune.com,vanakkamlondon.com###text-21
 vanakkamlondon.com###text-22
 thepublicworld.com,tnilive.com###text-23
 achhisoch.com,tnilive.com,trttamilolli.com###text-24
-achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
+aapkisafalta.com,achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
 aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,dailymomenshahi.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
@@ -349,6 +349,7 @@ anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
 barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,mitanbhoomi.com,orthosongbad.com,udaipurkiran.in###text-6
+aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 apnades.in,barisaltoday.com,bdtodays.net,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
 dmoitry.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com###text-8
