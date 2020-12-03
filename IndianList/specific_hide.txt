@@ -642,6 +642,7 @@ samayapost.com##.cont_break_ads
 news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
+bikashnews.com##.containerhome a[target="_blank"] img:only-child
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
@@ -799,6 +800,7 @@ mannarkkadlive.com##.inner-add
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
 globalmalayalam.com##.innerAdColum
+bikashnews.com##.innercontainer a[target="_blank"] img
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
@@ -934,6 +936,7 @@ unmadmagazine.com##.right_bottom_ad_section
 deshprotikhon.com##.right_sidebar
 tnilive.com##.righta
 janwani.in##.rightbarhds
+bikashnews.com##.rightside a[target="_blank"]
 gossiplankanews.com##.rimage
 deshprotikhon.com##.rishtside_img
 bizmandu.com##.roadblock
