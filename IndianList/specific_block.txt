@@ -22,7 +22,7 @@
 -ADD.jpg|$domain=bishwanathbd24.com
 -Add.jpg|$domain=suprovatsatkhira.com
 -add.png?$domain=osnepal.com
--add.png|$domain=kalaroanews.com
+-add.png|$domain=kalaroanews.com|sangbadsarabela.com
 -add.png|$image,domain=abcnepal.tv
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
