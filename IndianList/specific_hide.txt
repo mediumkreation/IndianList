@@ -1333,6 +1333,7 @@ dainikjharkhand.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 newstodaynetwork.com##aside.ai_widget
+sangbadsarabela.com##aside.sangb-widget
 24timestoday.com##aside.sidebar > div:not(.related_posts)
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bihardootnews.com##aside.widget_media_gallery
