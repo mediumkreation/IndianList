@@ -445,7 +445,7 @@ aswamedham.com##.ad_sec
 hmtvlive.com##.ad_unit_wrapper
 farakdhar.com,ratopati.com##.adalyticsblock
 kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
-ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,dailysports24.com,hamroeconomy.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,prabhatkiran.net,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
+ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,dailysports24.com,hamroeconomy.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,prabhatkiran.net,satkhiraprobaho.net,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
 gnewsbd24.com##.add iframe
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
@@ -1402,6 +1402,7 @@ dhakatoday.com##img[src*="mediabell.net"]
 sankalpakhabar.com##main section.sk_banner
 dainikjaltedeep.com##marquee
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
+satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 dainiki.com##section img.attachment-full
 khabarhub.com,pariwartankhabar.com##section.widget
 karobardaily.com##section.widget > a:only-child
