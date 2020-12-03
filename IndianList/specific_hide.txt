@@ -1061,6 +1061,7 @@ bholarbani.com##.thedailytext-advertise
 despunjab.ca,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 navpradesh.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
+sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
 namasteandhra.com##.three_ads
