@@ -1120,6 +1120,7 @@ dainikazadi.net##.w3-top-ads-desktop
 fastindianews.com##.well
 sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
+crimediarybd.com##.widget-body > p img
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
