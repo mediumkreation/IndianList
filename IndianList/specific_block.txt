@@ -278,6 +278,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||abnews24.com^*/Well-Add.gif
 ||abnews24.com^*/Yousuf.gif
 ||abplive.com//testfeeds/banners/
+||activenews24.com/admin/advertiseimg/5f6c50cee1ea6chanchol.gif
 ||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
 ||adhunikdaur.com/webdata/ranbhumiexpress.com/media/
 ||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
