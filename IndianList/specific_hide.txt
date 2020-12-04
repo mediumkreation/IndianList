@@ -801,6 +801,8 @@ nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
 globalmalayalam.com##.innerAdColum
 bikashnews.com##.innercontainer a[target="_blank"] img
+innews16.com##.innew-before-content
+innews16.com##.innew-widget
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
