@@ -1165,6 +1165,19 @@ haldwanilive.com##.wp-image-25412
 haldwanilive.com##.wp-image-25705
 haldwanilive.com##.wp-image-26920
 haldwanilive.com##.wp-image-28396
+reportsindia.in##.wp-image-62537
+reportsindia.in##.wp-image-62663
+reportsindia.in##.wp-image-71118
+reportsindia.in##.wp-image-71139
+reportsindia.in##.wp-image-73550
+reportsindia.in##.wp-image-73634
+reportsindia.in##.wp-image-73651
+reportsindia.in##.wp-image-73917
+reportsindia.in##.wp-image-74768
+reportsindia.in##.wp-image-74770
+reportsindia.in##.wp-image-74771
+reportsindia.in##.wp-image-74772
+reportsindia.in##.wp-image-75230
 ratopost.com##.wp-image-9728
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 sajagindia.com##.wpb_raw_code
@@ -1406,6 +1419,7 @@ pressnote.in##img[alt^="Advert"]
 suprovatsydney.com.au##img[class^="custom_adgroup_"]
 pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
+reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
 sankalpakhabar.com##main section.sk_banner
 dainikjaltedeep.com##marquee
