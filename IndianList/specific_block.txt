@@ -1384,6 +1384,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||imagekhabar.com/wp-content/uploads/2020/06/ima.gif
 ||imagekhabar.com/wp-content/uploads/2020/06/imgads.gif
 ||imageshack.com^$third-party,domain=karaitivunews.com
+||img.dekhapadhi.de/uploads/bigyaapan/
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
