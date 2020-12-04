@@ -921,6 +921,7 @@ purvanchal24.com##.post-footer [trbidi]
 mannarkkadlive.com##.post-inner-image
 telugutimes.net##.post-sidebar-area
 pchelpcenterbd.com##.pragads
+keralatimes.com##.prettyphoto
 kdnewslive.in##.progressContainer
 kdnewslive.in##.progressModal
 ekusheralo24.com##.promo
@@ -1064,6 +1065,7 @@ cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 despunjab.ca,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 navpradesh.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+keralatimes.com##.theiaStickySidebar > .penci-banner-box
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
@@ -1166,6 +1168,7 @@ haldwanilive.com##.wp-image-28396
 ratopost.com##.wp-image-9728
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 sajagindia.com##.wpb_raw_code
+keralatimes.com##.wpb_single_image figure
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 breakingtube.com##.wpb_video_widget
