@@ -338,6 +338,8 @@
 ||storage.googleapis.com/samugammedia-storage/2020/07/7077e644-samugammedia-ad.jpeg
 ||techmanyata.in/tm-ads/android.jpg$third-party
 ||thaiveedu.com/images/banners/local.gif
+||webthink.s3.ap-south-1.amazonaws.com/public/khabarbharti24x7/2020-07-03T184426424Z_unnamed%20copy%20copy.JPG
+||webthink.s3.ap-south-1.amazonaws.com/public/khabarbharti24x7/2020-07-04T154823842Z_vinovar%20factory.jpg
 ||youtube.com/embed/-pGjd8-iyDQ
 ||youtube.com/embed/5tDSbsDqekU
 ||youtube.com/embed/h_PXz0vN5H4
