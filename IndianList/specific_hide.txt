@@ -920,6 +920,7 @@ agraleaks.com##.post-content > figure > img:only-child
 purvanchal24.com##.post-footer [trbidi]
 mannarkkadlive.com##.post-inner-image
 telugutimes.net##.post-sidebar-area
+todaysheoharnews.com##.prachar
 pchelpcenterbd.com##.pragads
 keralatimes.com##.prettyphoto
 kdnewslive.in##.progressContainer
