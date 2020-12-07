@@ -295,6 +295,7 @@ tamiltradepost.com###slider48
 emalayalee.com###slideshow
 emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
+padmatimes24.com###small-news
 shrinaradmedia.com###smartslider3-2
 techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
@@ -334,7 +335,7 @@ allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,vakeesam.com,vanakkamlondon.com###text-4
+ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,vakeesam.com,vanakkamlondon.com###text-4
 himalini.com,trttamilolli.com###text-40
 trttamilolli.com###text-42
 udaydarpan.com###text-44
@@ -343,7 +344,7 @@ careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 udaydarpan.com###text-49
 achhikhabar.com###text-49 a
-biharpatrika.in,jagprerna.com,navsancharsamachar.com,orthosongbad.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
+biharpatrika.in,jagprerna.com,navsancharsamachar.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
 mbmnewsnetwork.com,udaydarpan.com###text-50
 achhikhabar.com###text-50 a
 udaydarpan.com###text-51
