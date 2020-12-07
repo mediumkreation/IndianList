@@ -70,6 +70,8 @@ kahalenews.com###attachment_44092
 ilamai.com###banner
 devbhoomidarshan17.com###banner-10
 bangalorewaves.com###bannerclassfd
+kusenews.com###belowflash
+kusenews.com###belowmainnews
 arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
 tibrakhabar.com###black-studio-tinymce-30
@@ -237,6 +239,7 @@ janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
+kusenews.com###pgc-7-1-1
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 alokitoshitalakha.com###primary aside.widget_text
@@ -1130,6 +1133,7 @@ fastindianews.com##.well
 sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
 crimediarybd.com##.widget-body > p img
+kusenews.com##.widget-header > img
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
