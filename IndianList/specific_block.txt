@@ -13,7 +13,7 @@
 -Ad.png|$domain=dailyghagot.com
 -ad.png|$domain=snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com
+-add-$domain=barishaltimes.com|sankalpanews.com
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
@@ -3030,6 +3030,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sankalpanews.com/wp-content/uploads/2020/01/Visit-Nepal-300x240-1.jpg
 ||sankalpanews.com/wp-content/uploads/2020/06/Add-2-Gokarnesor-Manthali.jpg
 ||sankalpanews.com/wp-content/uploads/2020/06/Banagalumukhi-add-1.jpg
+||sankalpanews.com/wp-content/uploads/2020/10/suryabinayek.jpg
 ||sankathi24.com^*/publicity/$image
 ||sansarpost.com/bhitra/2020/04/butwal.gif
 ||sansarpost.com/bhitra/2020/04/devdaha.gif
