@@ -1291,6 +1291,7 @@ newstodaynetwork.com##a[href*="narayan98.co.in"]
 arthasarokar.com##a[href*="nbbl.com.np"]
 reportersnepal.com##a[href*="nepallife.com.np"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
+odhikar.news##a[href*="niet.uk"] img
 gramajyothi.com##a[href*="nirapara.com"]
 hindilok.com##a[href*="ojassoft"]
 uttarbangasambad.com##a[href*="orchid.graphicxit.com"]
