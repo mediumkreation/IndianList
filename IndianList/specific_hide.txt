@@ -676,6 +676,7 @@ ceylonradio.co.uk,deshersangbad.com,news127.com##.e3lan-top
 uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
 tamilwin.com##.eds300
+manoramaonline.com##.el-banner-main-logo
 alertchhattisgarh.com##.elementor-element-37731bf
 newsportals.in##.elementor-image > a[href="#"] img
 khabardarinews.com##.elementor-widget-image
