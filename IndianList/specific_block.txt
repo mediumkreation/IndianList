@@ -23,15 +23,10 @@
 -ADD.jpg|$domain=bishwanathbd24.com
 -Add.jpg|$domain=suprovatsatkhira.com
 -add.png?$domain=osnepal.com
--add.png|$domain=kalaroanews.com|sangbadsarabela.com
--add.png|$image,domain=abcnepal.tv
+-add.png|$domain=abcnepal.tv|kalaroanews.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
--Ads-$domain=dailyceylon.com|gopalganj.org
--ads-$domain=meelparvai.net
--ads-$image,domain=asomiyapratidin.in
--Ads-$image,domain=bdtoday24.com
--ads-for$image,domain=channelionline.com
+-Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
 -ads.jpg|$domain=bigulnews.tv|channelionline.com|ctn24.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
