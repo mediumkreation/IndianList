@@ -1,6 +1,5 @@
 ||admana.net$third-party
 ||admitad.com^$third-party,domain=hellonepalkorea.com
-||ads2-adnow.com^$third-party
 ||adsfry.com^$third-party
 ||adstudio.cloud^$third-party
 ||aj2031.online^$third-party
@@ -9,11 +8,9 @@
 ||faridpurprotidin.com^$third-party,domain=sundarbontimes.com
 ||flickstree.com$third-party
 ||gceleritasads.com^$third-party
-||idwq.info^$third-party
 ||limray.com^$third-party,domain=uttranews.com
 ||pc5ads.com$third-party
 ||pclicc1.com^$third-party
-||purplepatch.online^$third-party
 ||rugiomyh2vmr.com
 ||thegoodplan.ovh/promo.php$popup
 ||tinkerta.com^$third-party

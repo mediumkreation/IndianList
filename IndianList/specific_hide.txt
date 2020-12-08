@@ -428,13 +428,11 @@ ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.co
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 pratyeknewslive.com##.ad--widget
-eenadu.net##.ad-block-300
 cs24bd.com,primenewsbd.com##.ad-box
 vijayapatha.in##.ad-description
 vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
-bangladesherkhela.com##.ad-header-below
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 alarmindia.in##.ad-slide
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
@@ -448,7 +446,6 @@ ekusheysangbad.com##.ad_area2
 ekusheysangbad.com##.ad_area3
 lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
-hmtvlive.com##.ad_unit_wrapper
 farakdhar.com,ratopati.com##.adalyticsblock
 kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
 ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,dailysports24.com,hamroeconomy.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,prabhatkiran.net,satkhiraprobaho.net,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
@@ -518,7 +515,6 @@ snn24.com##.addtop_header
 snn24.com##.addtop_inner img[data-filename]
 agrinewsnetwork.in##.ader_ads
 udayavani.com##.adliadworld
-channelionline.com,setoshikhar.com##.adloc-is-banner
 hamrosandesh.com##.admana-plugin
 deshabhimani.com##.adone > div
 canadanepal.com,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,laligurash.com,mediadabali.com,nepalesediaspora.com,newsbihani.com,onlinepana.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,sutranews.com,tamilan24.com##.ads
@@ -753,7 +749,6 @@ myfirstshow.com##.hb-img
 alokitosonargaon.com##.head_bottom_add
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
-akhonsamoy.com##.header-ads-area
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,makkalkural.net,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
@@ -870,7 +865,6 @@ nepalesediaspora.com##.midads
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 bigtvnews.com##.ml-slider
-manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -1112,7 +1106,6 @@ uukmanews.com##.tp-ad
 nagariknetwork.com##.travel-add
 deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
-britishkairali.co.uk##.twp-ad
 unmadmagazine.com##.twp-adv-header
 thesaturdaynews.com##.under_more_hit_advertisement
 rsnewslive.com##.unite-gallery

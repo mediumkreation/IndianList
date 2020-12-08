@@ -36,8 +36,6 @@
 -adv.$domain=brtnepal.com
 -adv.gif|$domain=bikashnews.com
 -advert.jpg|$domain=samakalam.com
--advt-$domain=chhapratoday.com|haldwanilive.com|irinjalakudalive.com
--Advt-$domain=sanjevani.com
 -bannar.jpg|$domain=kurigramlive.com
 -banner-$domain=channelionline.com|gbnews24.com
 -Banner-$domain=sherpurtimes.com
@@ -1802,7 +1800,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||lekalionline.com^*/yamaha-4.gif
 ||lekalionline.com^*/yavarest.gif
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
-||lifeglint.com^*/TTPL-ADVT-MATTER.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
 ||lipuleknews.com/wp-content/uploads/2020/05/Aalital-ad.jpg
 ||lipuleknews.com/wp-content/uploads/2020/05/Amargadhi-ad.gif
@@ -2441,7 +2438,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||odhikar.news/templates/adhikar-v1/images/Joy-bd.png
 ||odhikar.news/templates/adhikar-v1/images/market24.jpg
 ||odhikar.news/templates/adhikar-v1/images/Niet-Desktop.gif
-||odhikar.news/templates/adhikar-v1/images/nift_new.gif
 ||odhikar.news/templates/adhikar-v1/images/Sonargao.png
 ||odhikar.news^*/nift$image
 ||odhikar.news^*/sonargao15-9-19.png
@@ -2511,7 +2507,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||page11news.com/wp-content/uploads/IMG_20200817_215049
 ||page11news.com/wp-content/uploads/IMG_20200817_215113
 ||page11news.com/wp-content/uploads/output_pWTfsa$image
-||page11news.com/wp-content/uploads/output_pWTfsa-1.gif
 ||page11news.com/wp-content/uploads/Screenshot_2020-07-14-21-25-10-46$image
 ||pagetamil.com/wp-content/uploads/2020/06/News-heding-top.png
 ||pagetamil.com/wp-content/uploads/2020/07/original_size.gif
@@ -3016,7 +3011,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/03/SJS-internest-1.jpg
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/05/patel.jpg
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/05/rudashram.jpg
-||sanjevani.com^*/Excel-advt-Intternet-10-6x20.jpg
 ||sanjevani.com^*/IMG-20190905-WA0078.jpg
 ||sanjevani.com^*/old-age-internet.jpg
 ||sanjevani.com^*/Tamara-web-add-August-2018.jpg
@@ -3672,7 +3666,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*www.abcnepal.tv*/book25.png
 ||wp.com^*www.abcnepal.tv*/yath.gif
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
-||wp.com^*www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
 ||wpsoul.com^$image,domain=shokherkrishi.com
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
 ||yespunjab.com^*/Capt-Independence-Day-Eng.gif
