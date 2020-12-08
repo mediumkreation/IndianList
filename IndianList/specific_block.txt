@@ -11,6 +11,7 @@
 -Ad.jpg|$domain=thebdexpress.com
 -ad.png?$domain=onenewsbd.com
 -Ad.png|$domain=dailyghagot.com
+-ad.png|$domain=snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com
 -ADD-$domain=shomoynews.net
