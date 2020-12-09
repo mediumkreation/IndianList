@@ -1364,6 +1364,7 @@ haldwanilive.com##aside > .textwidget
 newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
 24timestoday.com##aside.sidebar > div:not(.related_posts)
+thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bihardootnews.com##aside.widget_media_gallery
 rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
