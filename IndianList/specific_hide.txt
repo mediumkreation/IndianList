@@ -68,6 +68,7 @@ chakarianews.com###akismet_widget-2
 padmatimes24.com###aside #sidebar
 kahalenews.com###attachment_43256
 kahalenews.com###attachment_44092
+dhaka18.com###awaken_video_widget-4
 ilamai.com###banner
 devbhoomidarshan17.com###banner-10
 bangalorewaves.com###bannerclassfd
@@ -594,6 +595,7 @@ biharnewstv.in,delhiuptodate.com,filmaniaentertainment.com,himalini.com,janashak
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 khabarhub.com##.banner-widget
+dhaka18.com##.banner21
 nepalsandesh.com##.bannerNews
 arthasarokar.com##.banner_bigyapan
 rosemalayalam.com##.banner_slider
