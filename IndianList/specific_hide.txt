@@ -1,8 +1,10 @@
 eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
 hamaramahanagar.in,kathiravan.com,lankamurasu.com,rajsamachar.com###HTML1
-chilahatiweb.com###HTML10
+chilahatiweb.com,jaldhakanews.com###HTML10
+jaldhakanews.com###HTML101
 kasargodvartha.com###HTML11
+jaldhakanews.com###HTML123
 thattungal.com###HTML13
 madhepurakhabar.com,thattungal.com###HTML16
 madhepurakhabar.com,thattungal.com###HTML18
@@ -11,11 +13,13 @@ chilahatiweb.com###HTML2
 kasargodvartha.com###HTML20
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
+jaldhakanews.com###HTML30
 chilahatiweb.com,shaharaman.com###HTML4
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com###HTML6
 chapainawabganjnews.com,madhepurakhabar.com###HTML7
-madhepurakhabar.com,rknewsofindia.com###HTML8
+jaldhakanews.com,madhepurakhabar.com,rknewsofindia.com###HTML8
+jaldhakanews.com###HTML9
 bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,probashbd.news,thattungal.com,vanniexpressnews.com,vijaytimes.com###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
