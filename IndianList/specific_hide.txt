@@ -840,6 +840,7 @@ beautynewsnepal.com##.lwig
 newsfirst.lk##.main-ad-half
 punjabiakhbaar.ca##.main-content .stream-item
 samudrapari.com##.main-news-ads
+reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 jaianndata.com##.main-tp-adds
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 gnewsbd24.com##.mainada
