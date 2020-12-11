@@ -624,7 +624,7 @@ bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
 bn24live.in##.bn-lg
-nirpakhawaaz.in##.bookingaff
+nirpakhawaaz.in,timetovisit.in##.bookingaff
 nagariknetwork.com##.box-news-ad
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
