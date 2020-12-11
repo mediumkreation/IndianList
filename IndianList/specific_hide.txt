@@ -647,6 +647,7 @@ newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
+channelrb.com##.col-md-3 .master-slider
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
 3pm.in##.colombiatracked
@@ -687,6 +688,7 @@ uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
 tamilwin.com##.eds300
 manoramaonline.com##.el-banner-main-logo
+channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 alertchhattisgarh.com##.elementor-element-37731bf
 newsportals.in##.elementor-image > a[href="#"] img
 khabardarinews.com##.elementor-widget-image
@@ -699,6 +701,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
+channelrb.com##.entry-content figure img[width="600"]
 kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 newsportals.in##.entry-content img
