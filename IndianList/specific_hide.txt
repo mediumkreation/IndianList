@@ -455,7 +455,7 @@ lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 farakdhar.com,ratopati.com##.adalyticsblock
 kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
-ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,dailysports24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,prabhatkiran.net,satkhiraprobaho.net,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
+ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,dailysports24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,prabhatkiran.net,satkhiraprobaho.net,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
 gnewsbd24.com##.add iframe
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
@@ -506,7 +506,7 @@ narayanionline.com##.add_middle
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 motivatenews.com.np##.addc img
-aznewsbd24.com,mediadabali.com##.addd
+aznewsbd24.com,mediadabali.com,natunbazar24.com##.addd
 bangalorewaves.com##.addima
 otvnepal.com,protikhon.com##.adds
 jubokantho.com##.adds-block
