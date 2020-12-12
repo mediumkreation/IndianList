@@ -1183,6 +1183,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||eyewitnesslivenews.com^*adv2.php
 ||eyewitnessnewsindia.com/wp-content/themes/nextline_v3.1/images/Spangles-Added1.jpg
 ||fastnewsbd.com/images/parasut.jpg
+||fbcdn.net^$third-party,domain=malayalammedia.one
 ||fbs.com$third-party,domain=tamilleader.com
 ||feedify.net^$third-party,domain=ajabgjab.com
 ||feninews.com/images/ads0000007.gif
@@ -1933,6 +1934,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||malayalamemagazine.com^*/ogilvia-design-studio-250.gif
 ||malayalamexpress.in/wp-content/uploads/2020/06/1168x109.jpg
 ||malayalamexpress.in^*/Malayalamexpress_Direct_1168x109_MAL-01.jpg
+||malayalammedia.one/UploadedFiles/Ads
 ||malayalamtodayonline.com/wp-content/themes/malayalam/images/innerpagesidebar.gif
 ||malayalamuk.com/wp-content/uploads/2017/10/M-Vision21.gif
 ||malayalanad.com/images/advt$image
