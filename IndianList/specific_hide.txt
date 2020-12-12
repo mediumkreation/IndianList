@@ -1136,7 +1136,7 @@ netmalayalam.com##.vc_slide
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
-dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
+apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 muznews.net##.vmagazine-lite-medium-rectangle-ad
 pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
 hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_ad
@@ -1245,6 +1245,7 @@ protidinersangbad.com##a[href*="ads-page"]
 janayugomonline.com##a[href*="advetorial"]
 uttranews.com##a[href*="advt-new"]
 sambadsaradin.com##a[href*="ajdg.solutions"]
+apnepal.com##a[href*="alljobvacancies.com"]
 bhaskarenews.com,hindlives.com,uttarbangasambad.com,vasundhara.net##a[href*="amzn.to"]
 khulasaonline.com##a[href*="angelbroking.com"]
 eelamalar.com##a[href*="aruchuna.com"]
