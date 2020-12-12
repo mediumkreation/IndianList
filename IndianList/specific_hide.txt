@@ -932,6 +932,7 @@ prajavani.net##.pj-ad-card
 bonikbarta.net##.popupCloseButton
 abnews24.com,rtvonline.com##.popup_blackoverlay
 abnews24.com,rtvonline.com##.popup_whiteoverlay
+jaljalakhabar.com##.post aside.widget_media_image
 narayanionline.com##.post-advertiesment
 nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
