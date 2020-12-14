@@ -1104,6 +1104,7 @@ aperata.net##.top-ads-block
 twentyfournews.com##.top-banner
 ekuruvi.com##.top-bar-left-nav
 sherpurtimes.com##.top-biggapon
+royalbulletin.in##.top-container1
 ukmalayalampathram.com##.top-flash
 muhurtham.com##.top-links-form
 rosemalayalam.com##.top-news-ad
@@ -1260,6 +1261,7 @@ gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 tamildaily.com##a[href*="cinefield.com"]
+royalbulletin.in##a[href*="click.htm?"][target="_blank"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
