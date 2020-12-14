@@ -845,6 +845,7 @@ nepaldubai.com##.logo-ads-header
 nepaldubai.com##.logo-ads-singlepage
 radionrn.com##.logo-adverimg
 metrovaartha.com##.logoBgAd
+dhunkhabar.com##.logo__ads
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 postpati.com##.long_adv a:not([href*="postpati.com"])
@@ -1387,7 +1388,7 @@ sangbadsarabela.com##aside.sangb-widget
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bihardootnews.com##aside.widget_media_gallery
-rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+dhunkhabar.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
