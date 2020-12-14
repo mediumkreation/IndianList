@@ -980,6 +980,7 @@ agraleaks.com,onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-over
 arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
+ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
 baahrakhari.com##.side-bigyaapan
 gournadi24.com##.side-indent .wgs-ads:first-child
@@ -1014,6 +1015,7 @@ sansarnews.com##.single-sidebar-ads
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
+ayodhyasamachar.com##.singlepage center > embed
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
