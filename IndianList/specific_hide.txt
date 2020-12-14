@@ -706,7 +706,7 @@ newswings.online##.entry-content .alignnone:only-child
 channelrb.com##.entry-content figure img[width="600"]
 kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
-newsportals.in##.entry-content img
+khabardekho.com,newsportals.in##.entry-content img
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -1045,6 +1045,7 @@ veeravengaikal.com##.sppb-addon-clients
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 keralanewshunt.com##.st-banner
+khabardekho.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
