@@ -294,6 +294,7 @@ madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
 pradeepamonline.com###sidebar1
+muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
 patrikai.com###slide-holder
 makkalkural.net###slider
@@ -1255,6 +1256,7 @@ sambadsaradin.com##a[href*="ajdg.solutions"]
 apnepal.com##a[href*="alljobvacancies.com"]
 bhaskarenews.com,hindlives.com,uttarbangasambad.com,vasundhara.net##a[href*="amzn.to"]
 khulasaonline.com##a[href*="angelbroking.com"]
+muslimmedia.info##a[href*="arabic.iirt.info"]
 eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
 pannagam.com##a[href*="baluasiaadd"]
