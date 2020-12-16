@@ -653,7 +653,7 @@ tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
-3pm.in##.colombiatracked
+3pm.in,kathir.news##.colombiatracked
 sajhapost.com##.commercial-add
 samayapost.com##.cont_break_ads
 news24delhi.com##.container .container #page-sidebar
@@ -1269,7 +1269,7 @@ gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 tamildaily.com##a[href*="cinefield.com"]
-royalbulletin.in##a[href*="click.htm?"][target="_blank"]
+kathir.news,royalbulletin.in##a[href*="click.htm?"][target="_blank"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
