@@ -591,7 +591,7 @@ omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 hindustanvision.com##.avtg3
 manabadi.co.in##.backg-g
-alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,cplusbd.net,ektibd.com,fenitribune.com,fulbarianews24.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,newsbna.com,newspabna.com,rajshahinews24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
+alokitoteknaf.com,aznewsbd24.com,banglanewstv.com,banglarkagoj.net,cplusbd.net,ektibd.com,fenitribune.com,fulbarianews24.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,newsbna.com,newspabna.com,rajshahinews24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
@@ -1019,6 +1019,7 @@ sansarnews.com##.single-sidebar-ads
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
+banglanewstv.com##.single_details .widget_area
 ayodhyasamachar.com##.singlepage center > embed
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
