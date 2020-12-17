@@ -146,6 +146,7 @@ _ads.png|$domain=prothomalo.com
 _Advt.gif|$domain=kasaragod.com
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
+_banner.gif|$domain=farakdhar.com
 _banner_$domain=neplays.com
 _n-300x277.jpg|$domain=barishalcrimenews.com
 _n.jpg|$domain=barishalcrimenews.com|hmnews24.com
