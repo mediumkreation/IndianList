@@ -337,7 +337,7 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 aapkisafalta.com,achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,dailymomenshahi.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,dailymomenshahi.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com###text-30
 e-jaffna.com,trttamilolli.com###text-31
@@ -1419,7 +1419,7 @@ bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
 patnapost.com##div[class^="patna-"]
 suddione.com##div[class^="suddi-after-content_"]
-justaction.in,moulvibazar24.com,raajdhaninews.com,sudurawaj.com##div[data-adid]
+justaction.in,moulvibazar24.com,odishanews365.com,raajdhaninews.com,sudurawaj.com##div[data-adid]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 aapnihathai.com##div[id^="aapni-"]
