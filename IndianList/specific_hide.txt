@@ -260,6 +260,7 @@ manithan.com###recommendations
 buxarkhabar.com###rich_webSlider1_1
 buxarkhabar.com###rich_webSlider1_2
 edainikazadi.net###right-holder
+chennairoyalcinema.com###right-sidebar aside.widget_sp_image
 kungumam.co.in###road
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
@@ -393,6 +394,7 @@ lastnewsbd.com###top-banner
 bhaskar.com###top-nav15
 vorerbangladesh.com###top-stories
 gossiplankanews.com###top1
+chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 mediapunjab.com###up_height img[src^="data:image"]
