@@ -242,6 +242,7 @@ ratopati.com###news-modal
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
 crickethimalaya.com,surabhisaloni.co.in###ouibounce-modal
+daynikekusherbani.com###p-add
 importmirror.com###p-vila
 muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
@@ -1427,6 +1428,7 @@ suddione.com##div[class^="suddi-after-content_"]
 justaction.in,moulvibazar24.com,odishanews365.com,raajdhaninews.com,sudurawaj.com##div[data-adid]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
+daynikekusherbani.com##div[id$="_ad"]
 aapnihathai.com##div[id^="aapni-"]
 achhikhabar.com##div[id^="achhi-"]
 aryavartposts.com##div[id^="aryav-"]
