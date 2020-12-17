@@ -848,6 +848,7 @@ nepaldubai.com##.logo-ads
 nepaldubai.com##.logo-ads-header
 nepaldubai.com##.logo-ads-singlepage
 radionrn.com##.logo-adverimg
+vtv24x7.com##.logo-right-wrapper
 metrovaartha.com##.logoBgAd
 dhunkhabar.com##.logo__ads
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
@@ -1425,6 +1426,7 @@ sudurkhabar.com##div[data-type="custom_code"]
 aapnihathai.com##div[id^="aapni-"]
 achhikhabar.com##div[id^="achhi-"]
 aryavartposts.com##div[id^="aryav-"]
+vtv24x7.com##div[id^="itro_"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
