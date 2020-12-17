@@ -1083,6 +1083,7 @@ irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 news1today.in##.td-fix-index img:only-child
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
+ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
