@@ -151,6 +151,7 @@ newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
+songbadpratidin.com###main .widget_media_image
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
 p2pnews.co###main-content > .ml-slider
