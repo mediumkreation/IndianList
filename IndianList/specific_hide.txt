@@ -506,6 +506,7 @@ snn24.com##.add_after_scroller
 europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
 n7india.com,provatnews.com##.add_banner
+gtamilnews.com##.add_block_hdefault
 malayalamtodayonline.com##.add_bnk_img
 ridoyachandpur.com##.add_content
 rosemalayalam.com##.add_image_ryt
@@ -678,6 +679,7 @@ shoutmehindi.com##.coupon_dealtop
 roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
+gtamilnews.com##.custom-html-widget iframe
 deshabhimani.com##.db-scnAd2
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
@@ -1227,6 +1229,7 @@ asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 breakingtube.com##.wpb_video_widget
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
+gtamilnews.com##.wpb_wrapper > .wpb_single_image
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 bnnbharat.com##.xembgt
 neplays.com##.yotcuzeh
@@ -1241,6 +1244,7 @@ beanibazarnews24.com##[class^="add-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
+gtamilnews.com##[id^="itro_"]
 pagetamil.com##[id^="td_uid_3"]
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
