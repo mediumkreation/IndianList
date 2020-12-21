@@ -147,6 +147,7 @@ tamilcinemaz.com###itro_opaco
 tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 kalpa.news###layerslider_1
+biharpatrika.in###lcs_ad
 newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
@@ -264,6 +265,7 @@ buxarkhabar.com###rich_webSlider1_1
 buxarkhabar.com###rich_webSlider1_2
 edainikazadi.net###right-holder
 chennairoyalcinema.com###right-sidebar aside.widget_sp_image
+biharpatrika.in###rma_masala
 kungumam.co.in###road
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
@@ -1190,7 +1192,7 @@ sadeaalaradio.co.nz##.widget_smartslider3
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 purbelinews.com##.widget_sp_image
-36garhi.com,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
+36garhi.com,biharpatrika.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
 chandrikadaily.qa##.widget_viral_advertisement
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
