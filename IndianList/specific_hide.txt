@@ -1414,7 +1414,7 @@ sangbadsarabela.com##aside.sangb-widget
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bihardootnews.com##aside.widget_media_gallery
-dhunkhabar.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+canamnews.com,dhunkhabar.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
