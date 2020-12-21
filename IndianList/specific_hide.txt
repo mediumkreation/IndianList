@@ -901,7 +901,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
-bigtvnews.com##.ml-slider
+bigtvnews.com,sharpbharat.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
