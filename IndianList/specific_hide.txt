@@ -93,7 +93,7 @@ humhindustanilive.com###content .master-slider-parent
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 valampurii.lk###custom-ads-2
 thesunrisetoday.com###custom_html-10
-thepublicworld.com,thesunrisetoday.com###custom_html-11
+satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
