@@ -1245,6 +1245,8 @@ kendrabindu.com##[class*="_coffee"]
 dinakaran.com##[class*="boxad"]
 beanibazarnews24.com##[class^="add-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
+kositimes.com##[data-adid] > p
+kositimes.com##[data-adid] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
 gtamilnews.com##[id^="itro_"]
