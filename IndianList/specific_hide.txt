@@ -156,6 +156,7 @@ songbadpratidin.com###main .widget_media_image
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
 p2pnews.co###main-content > .ml-slider
+newcinemaexpress.com###main-head .right
 kathmandutoday.com###main_body
 valampurii.lk###main_middle_right_advert
 jantabulletin.wordpress.com###media_gallery-2
@@ -1446,7 +1447,7 @@ daynikekusherbani.com##div[id$="_ad"]
 aapnihathai.com##div[id^="aapni-"]
 achhikhabar.com##div[id^="achhi-"]
 aryavartposts.com##div[id^="aryav-"]
-vtv24x7.com##div[id^="itro_"]
+newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
