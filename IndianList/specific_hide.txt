@@ -15,6 +15,7 @@ importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 jaldhakanews.com###HTML30
 chilahatiweb.com,shaharaman.com###HTML4
+tamilarul.net###HTML42
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com###HTML6
 chapainawabganjnews.com,madhepurakhabar.com###HTML7
@@ -1311,11 +1312,13 @@ eelamalar.com##a[href*="eelavarkural.blogspot.com"]
 eelamalar.com##a[href*="eelaveechu.net"]
 eelamalar.com##a[href*="eelavenkai.blogspot.com"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
+tamilarul.net##a[href*="facebook.com"] > img
 times-bd24.com##a[href*="facebook.com/Future-Company-"]
 hindlives.com##a[href*="fkrt.it"]
 jugantor.com##a[href*="fsiblbd.com"]:only-child
 arthasarokar.com##a[href*="garimabank.com.np"]
 currentgk.in##a[href*="gkprashnuttar.com"]
+tamilarul.net##a[href*="goo.gl/"] > img
 visarnews.com##a[href*="goo.gl/18LXwT"]
 channelionline.com##a[href*="guardianlife.com.bd"]
 nayapage.com##a[href*="gurkhasfinance.com.np"]
