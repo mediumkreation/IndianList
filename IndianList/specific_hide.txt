@@ -292,7 +292,7 @@ kannadaprabha.com###section_content_check_518
 sawalnepal.com###section_right .ad
 dinamalar.com###selum
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
-yazhnews.com###sidebar
+arthikawaj.com,yazhnews.com###sidebar
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 news27.org###sidebar .widget_media_image
 rjfnews.com###sidebar > .widget_media_image
@@ -1489,6 +1489,7 @@ pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
+arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 dainikjaltedeep.com##marquee
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
