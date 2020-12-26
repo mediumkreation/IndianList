@@ -473,6 +473,7 @@ farakdhar.com,ratopati.com##.adalyticsblock
 kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
 ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,dailysports24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,prabhatkiran.net,satkhiraprobaho.net,satkhiravision.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
+dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 gnewsbd24.com##.add iframe
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
 samadhannews.com##.add-banner
