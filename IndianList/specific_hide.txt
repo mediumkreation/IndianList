@@ -92,6 +92,7 @@ malayalamtodayonline.com###boxes
 bangalorewaves.com###classlistmain
 humhindustanilive.com###content .master-slider-parent
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
+odiannews.com###content section.widget_text
 valampurii.lk###custom-ads-2
 thesunrisetoday.com###custom_html-10
 satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
@@ -922,7 +923,7 @@ lastnewsbd.com##.myadd
 news13.in##.n13_home_adv4
 bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
-celluloidonline.com,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
+celluloidonline.com,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,odiannews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
