@@ -795,7 +795,7 @@ manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
 metroplus.online##.header-wraper .fullwidthabanner
-corporatesangbad.com,upayuktha.com##.header__banner
+corporatesangbad.com,dailysobujbarta.com,upayuktha.com##.header__banner
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
@@ -1462,6 +1462,7 @@ pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 tejastoday.com##div[id^="tdi_55_"]
 webreporter.co.in##div[id^="webre-"]
+dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
