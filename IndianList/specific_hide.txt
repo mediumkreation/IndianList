@@ -1076,7 +1076,7 @@ khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
-cinenxt.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
+cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
 mitanbhoomi.com##.stream-item-above-post
 banglapostbd.com,mitanbhoomi.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
@@ -1117,7 +1117,7 @@ alertnews24.com##.text-html
 indiavisionmedia.com##.thd
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
-despunjab.ca,shirshobindu.com##.theiaStickySidebar .stream-item-widget
+despunjab.ca,gandakivoice.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 anidda.lk,navpradesh.com,rajarhatbd.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
