@@ -572,6 +572,7 @@ keralaonlive.com##.advblock
 radionrn.com##.adver-half
 radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
+yugabdha.com##.adver-sec
 ada.lk,manithan.com,tamilan24.com##.advert
 ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
