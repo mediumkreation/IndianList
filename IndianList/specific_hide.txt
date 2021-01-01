@@ -136,6 +136,7 @@ crimecapital.in###header #sidebar
 punjabinational.ca###header-aside
 ethiri.com###header-helpful
 primepunjab.com,sanjeevanisamachar.com###header-right-section
+anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 samudrapari.com###home-top-sidebar
