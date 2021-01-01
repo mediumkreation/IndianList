@@ -139,6 +139,7 @@ _AD_GIF$domain=kahalenews.com
 _add-$domain=pba.agency
 _add.gif|$domain=malayalamtodayonline.com
 _add.jpg|$domain=gourbarta24.com|politics.lk
+_Ads.gif|$domain=deshbarta.news
 _ADS.gif|$domain=focusmohona.com
 _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
