@@ -697,6 +697,7 @@ kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
 ekusheysangbad.com##.details-page-side-banner
+dhakanewsexpress.com##.dhaka-content
 nethgossip.lk##.display-lap
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
@@ -1077,6 +1078,7 @@ swarajnewstoday.com##.sponsored
 veeravengaikal.com##.sppb-addon-clients
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
+dhakanewsexpress.com##.square_advertisement
 keralanewshunt.com##.st-banner
 khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
