@@ -200,7 +200,7 @@ madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
 madhyabhoomikeboal.com###media_image-53
 madhyabhoomikeboal.com###media_image-56
-bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,mirrortoday.in,muldharpost.com,prajawani.in,sasthabangla.com,theblastkhabar.com###media_image-6
+bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,mirrortoday.in,muldharpost.com,newindiatimes.news,prajawani.in,sasthabangla.com,theblastkhabar.com###media_image-6
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
 bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,prajawani.in,samnanews.com###media_image-7
@@ -303,6 +303,7 @@ rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 news27.org###sidebar .widget_media_image
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
+newindiatimes.news###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
