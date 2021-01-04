@@ -175,7 +175,7 @@ punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikkhojkhabar.live,dainiknayak.com,deshersangbad.com,himalayonlinemedia.com,hindlives.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikkhojkhabar.live,dainiknayak.com,deshersangbad.com,himalayonlinemedia.com,hindlives.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 ggsnews24.com,samnanews.com###media_image-21
 samacharsach.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
@@ -954,6 +954,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
+newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
