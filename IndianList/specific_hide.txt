@@ -1486,6 +1486,7 @@ malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 deshsanchar.com##img.alignnone.size-full
 kantipath.com##img[alt*="add"]
+vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
 onlinemarg.com##img[alt="Header Ad"]
