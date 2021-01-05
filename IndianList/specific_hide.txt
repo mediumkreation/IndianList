@@ -1033,6 +1033,7 @@ yuvabrigade.net##.sidebar > .widget_media_image
 beanibazarview24.com##.sidebar [id^="media_image"]
 dhangadhikhabar.com##.sidebar-add
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
+shineupindia.com##.sidebar-box a[ target="_blank"]
 creativenewsexpress.com##.sidebar-inner > section.widget_media_image
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
