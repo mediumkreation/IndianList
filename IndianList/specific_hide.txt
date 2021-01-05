@@ -1040,6 +1040,7 @@ mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
 arthosuchak.com##.sidebar_google_ad
+mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
 orthosongbad.com##.single-left-col
