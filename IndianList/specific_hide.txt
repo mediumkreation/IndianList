@@ -672,6 +672,7 @@ madhyamam.com##.clock-container
 tamil.oneindia.com##.cmscontent-top
 gujaratexclusive.in,lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code-block
 samajbad.tv##.code-block > img
+media24news.in##.code-block img
 newstodaynetwork.com##.code-block-1
 kahalenews.com##.code-block-3
 bankingkhabar.com##.codeneric_uam_link
