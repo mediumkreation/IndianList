@@ -209,7 +209,7 @@ madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
-dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com###media_image-9
+dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,upantaodisha.com###media_image-9
 derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
@@ -913,6 +913,7 @@ ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
+upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 bigtvnews.com,sharpbharat.com##.ml-slider
@@ -937,7 +938,7 @@ nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
 sansarnews.com##.news-style-six-ads
 prothomalo.com##.news_inner_spcl_ad
-biswabanglanews.com,mirrorlive24.com##.news_portal_ads_banner
+biswabanglanews.com,mirrorlive24.com,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
