@@ -242,6 +242,8 @@ digitalnewslive.com###metaslider_widget-5
 npg.news###metaslider_widget-6
 tharunaya.us###module_03_ads300x250
 cinemapettai.com###mvp-leader-wrap
+just36news.com###myCarouse3
+just36news.com###myCarouse4
 ujyaaloonline.com###myCarousel
 rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
@@ -1186,6 +1188,7 @@ netmalayalam.com##.vc_slide
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
+just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 muznews.net##.vmagazine-lite-medium-rectangle-ad
 pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
