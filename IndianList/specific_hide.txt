@@ -659,6 +659,7 @@ nagariknetwork.com##.box-news-ad
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
+budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
 everestdainik.com##.bstyle-list ~ .post
 kaimurlive.com##.bwg_container
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
@@ -804,6 +805,7 @@ alokitoshitalakha.com,thepublicworld.com##.header-advertise
 ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
+budaunamarprabhat.com##.header-inner #sidebar
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
