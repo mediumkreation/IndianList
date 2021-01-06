@@ -356,7 +356,7 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 aapkisafalta.com,achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,dailymomenshahi.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,dailymomenshahi.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com###text-30
 e-jaffna.com,trttamilolli.com###text-31
@@ -822,6 +822,7 @@ banglanewsca.com##.header_top_ad_area_2
 fenirkotha.com##.header_top_banner
 telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
+indiasamachar24.com##.herald-sidebar .widget_metaslider_widget
 himalayapost.com##.himal-content_3
 setoshikhar.com##.hmxbiekzq
 bangla-news24.com##.home-e3lan
