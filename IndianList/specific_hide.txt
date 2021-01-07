@@ -58,7 +58,7 @@ battirepnews.com###SidebarWidgets-S1 .widget.Image
 puthiyathalaimurai.com###__ads1
 puthiyathalaimurai.com###__ads2
 raajdhaninews.com###a2a_follow_widget-8
-dailykaratoa.com,malabarflash.com###ad
+dailykaratoa.com,malabarflash.com,mewartimes.com###ad
 headline24x7.com###adAboveHeader
 thereport24.com###add-place
 malayalamtodayonline.com###add_slider_header_banner
@@ -878,6 +878,7 @@ khabarhub.com##.khabarhub-inner-ads
 kannurnewsonline.com##.ktmjq
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
+mewartimes.com##.latest_postnav
 arthosuchak.com##.lead-after
 jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
