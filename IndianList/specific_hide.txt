@@ -1046,6 +1046,7 @@ hotnewsindia.com##.sideRight .custom-html-widget
 onlinekhabar.com##.side__add
 motivatenews.com.np,sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
+urjanchaltiger.in##.sideads-sec
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
