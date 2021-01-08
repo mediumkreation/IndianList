@@ -812,6 +812,7 @@ ekuruvi.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
+malayalamnewstimes.com##.header-right
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
@@ -940,6 +941,7 @@ jagratilahar.com##.modal-body
 suryakhabar.com##.mom-e3lan
 newswings.online##.mom-e3lanat
 bn24live.in,bornamelanews24.com,vishalindia.in##.mom-e3lanat-wrap
+malayalamnewstimes.com##.momizat-video
 amanpath.in##.mvp-flex-ad
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
