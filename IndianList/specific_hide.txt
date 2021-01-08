@@ -309,6 +309,7 @@ onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 arthikawaj.com,hariyarexpress.com,yazhnews.com###sidebar
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 news27.org###sidebar .widget_media_image
+digitalnewslive.com###sidebar .widget_metaslider_widget
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 newindiatimes.news###sidebar-right .widget_media_image
