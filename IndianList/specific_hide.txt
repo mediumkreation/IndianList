@@ -383,10 +383,10 @@ mbmnewsnetwork.com###text-48
 udaydarpan.com###text-49
 achhikhabar.com###text-49 a
 biharpatrika.in,chandankesari.com,jagprerna.com,navsancharsamachar.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
-mbmnewsnetwork.com,udaydarpan.com###text-50
+mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 achhikhabar.com###text-50 a
 udaydarpan.com###text-51
-anaicoddai.com,mbmnewsnetwork.com###text-52
+anaicoddai.com,mbmnewsnetwork.com,recentnepal.com###text-52
 aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
