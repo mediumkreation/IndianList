@@ -179,7 +179,7 @@ punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikkhojkhabar.live,dainiknayak.com,deshersangbad.com,himalayonlinemedia.com,hindlives.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikkhojkhabar.live,dainiknayak.com,deshersangbad.com,dhenkanalupdate.com,himalayonlinemedia.com,hindlives.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 samrudhaodisha.com###media_image-205
 ggsnews24.com,samnanews.com###media_image-21
 samacharsach.com###media_image-23
@@ -886,6 +886,7 @@ sabaikosamachar.com##.kp-header-logo--section .d-sm-block
 sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
 kannurnewsonline.com##.ktmjq
+dhenkanalupdate.com##.laneqsopxy-loc-block-ad
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
 mewartimes.com##.latest_postnav
@@ -1091,7 +1092,7 @@ sancharkendra.com##.skadd
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
-newsoneindia.com,newstodayjharkhand.com##.slider-pro
+dhenkanalupdate.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
 bhilwarahalchal.com##.slider2
 digitalnewslive.com##.slider_2
