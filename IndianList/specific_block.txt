@@ -2338,6 +2338,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||news1hindustan.com^*/mahendra-rana$image
 ||news1hindustan.com^*/news2add.jpg
 ||news1hindustan.com^*vigyapan
+||news1india.in^*_banner$image
 ||news21live.in/wp-content/uploads/2020/02/FB_IMG_1582082606900.jpg
 ||news21live.in/wp-content/uploads/2020/02/IMG-20200216-WA0070
 ||news21live.in/wp-content/uploads/2020/02/PicsArt_02-18-04.17.21$image
