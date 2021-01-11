@@ -880,6 +880,9 @@ karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
 keralaonlinenews.com##.keral-widget
 khabarhub.com##.khabarhub-inner-ads
+sabaikosamachar.com##.kp-header-logo--section .d-sm-block
+sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
+sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
 kannurnewsonline.com##.ktmjq
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
