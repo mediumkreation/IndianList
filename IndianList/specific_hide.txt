@@ -665,6 +665,7 @@ arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
+sudurpress.com##.block-inline-blockad-block
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 bn24live.in##.bn-lg
 nirpakhawaaz.in,timetovisit.in##.bookingaff
@@ -768,6 +769,7 @@ onnodristy.com##.facebook_title + .video
 bbc24news.com##.featad
 arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
+sudurpress.com##.field--name-field-ad-image
 nagariknetwork.com##.first-add
 nagariknetwork.com##.fixed-ad
 newsfirst.lk##.fixed-banner
