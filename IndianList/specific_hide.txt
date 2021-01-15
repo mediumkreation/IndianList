@@ -276,6 +276,7 @@ chhapratoday.com###pg-22-5
 kusenews.com###pgc-7-1-1
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
+upayuktha.com###primary .nivoSlider
 alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
 industryhit.com###pum-15632
@@ -1287,6 +1288,7 @@ odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 sajagindia.com##.wpb_raw_code
+upayuktha.com##.wpb_single_image .vc_figure
 keralatimes.com##.wpb_single_image figure
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
