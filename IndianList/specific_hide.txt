@@ -1127,6 +1127,7 @@ satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
 mitanbhoomi.com##.stream-item-above-post
+khabarbihar.in##.stream-item-above-post-content
 banglapostbd.com,mitanbhoomi.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
