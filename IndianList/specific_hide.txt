@@ -475,6 +475,7 @@ cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 pratyeknewslive.com##.ad--space
 pratyeknewslive.com##.ad--widget
+chhattisgarhaaj.com##.ad--widget-no
 cs24bd.com,primenewsbd.com##.ad-box
 vijayapatha.in##.ad-description
 vijayapatha.in##.ad-description + .widget-ad-image
