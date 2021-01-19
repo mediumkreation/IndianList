@@ -693,7 +693,8 @@ gujaratexclusive.in,lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code
 samajbad.tv##.code-block > img
 media24news.in##.code-block img
 newstodaynetwork.com##.code-block-1
-kahalenews.com##.code-block-3
+kahalenews.com,thebiharnews.com##.code-block-3
+thebiharnews.com##.code-block-6
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
