@@ -978,7 +978,7 @@ punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
-dailysharebazarprotidin.com##.np-header-ads-area
+dailysharebazarprotidin.com,dainikayodhyatimes.in##.np-header-ads-area
 sathyamonline.com##.nsads
 shreekanchanpath.com##.nv-header-ads-area
 patrikai.com##.oad
