@@ -330,6 +330,7 @@ zamania.in###sidebar-section-top
 pradeepamonline.com###sidebar1
 muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
+currentkhabar.com###sitebox-ad125-3
 patrikai.com###slide-holder
 makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
@@ -361,7 +362,7 @@ kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.c
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
-anaicoddai.com,attachowk.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,udaipurnewschannel.in,vijaychowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,priyochandpur.com,punjabimaaboli.com,udaipurnewschannel.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p ~ p
 gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
@@ -371,7 +372,7 @@ achhisoch.com,tnilive.com,trttamilolli.com###text-24
 aapkisafalta.com,achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
-aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com###text-30
 e-jaffna.com,trttamilolli.com###text-31
