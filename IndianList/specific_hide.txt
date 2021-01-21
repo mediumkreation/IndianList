@@ -583,6 +583,7 @@ seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 epaper.lokmat.com##.ads_699
 nepalesediaspora.com##.adsgo
+nepalpage.com##.adsimage img:not(.wp-image-143293)
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,samakal.com,thuglak.com,uttamhindu.com,weeklynepal.com##.adv
