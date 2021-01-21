@@ -587,6 +587,7 @@ arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,samakal.com,thuglak.com,uttamhindu.com,weeklynepal.com##.adv
 orthosongbad.com##.adv-img
+drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
 doolnews.com##.adv_box_3x25
@@ -733,6 +734,7 @@ kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
 gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
+drishtinews.com##.drishti-inner-ads
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
 ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com,sarkarimanthan.com##.e3lan
