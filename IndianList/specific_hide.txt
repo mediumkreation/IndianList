@@ -296,6 +296,7 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
+aajkakanpur.com###secondary .widget_media_image
 charchitbihar.com###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
 charchitbihar.com###secondary section.widget_media_image
