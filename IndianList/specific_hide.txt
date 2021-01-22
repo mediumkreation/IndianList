@@ -583,6 +583,7 @@ hindi.cricketnmore.com##.ads-space
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 epaper.lokmat.com##.ads_699
+janadeshexpress.in##.ads_top_disp
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 arthasarokar.com##.adsspace
@@ -1569,6 +1570,7 @@ pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
+janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 dainikjaltedeep.com##marquee
