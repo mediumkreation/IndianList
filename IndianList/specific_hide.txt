@@ -139,6 +139,7 @@ puttalamonline.com###head-imgput
 anytechtune.com###headadd
 crimecapital.in###header #sidebar
 punjabinational.ca###header-aside
+nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
 primepunjab.com,sanjeevanisamachar.com###header-right-section
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
