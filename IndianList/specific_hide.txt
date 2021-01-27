@@ -926,6 +926,7 @@ metrovaartha.com##.logoBgAd
 dhunkhabar.com##.logo__ads
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
+nationalpowernews.com##.long_ads1
 postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
 beautynewsnepal.com##.lwig
