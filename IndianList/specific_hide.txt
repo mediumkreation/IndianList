@@ -478,8 +478,8 @@ dailybhorerkolam.com##.abv-container:not(.p-right-0)
 ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
-pratyeknewslive.com##.ad--space
-pratyeknewslive.com##.ad--widget
+newsdnntv.com,pratyeknewslive.com##.ad--space
+newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 cs24bd.com,primenewsbd.com##.ad-box
 vijayapatha.in##.ad-description
@@ -828,6 +828,7 @@ paristamil.com##.group3
 bdbarrta24.com,orthosongbad.com##.h_ads
 myfirstshow.com##.hb-img
 alokitosonargaon.com##.head_bottom_add
+newsdnntv.com##.header--ad
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
