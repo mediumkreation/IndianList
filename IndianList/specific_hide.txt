@@ -856,6 +856,7 @@ telugumirchi.com##.headerad2
 nepaljapan.com##.headline_below_ad
 indiasamachar24.com##.herald-sidebar .widget_metaslider_widget
 himalayapost.com##.himal-content_3
+mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
 bangla-news24.com##.home-e3lan
 dabangmedia.com##.home-gallery.photo-gallery
@@ -1271,7 +1272,7 @@ derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 samnanews.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
-sadeaalaradio.co.nz##.widget_smartslider3
+mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 purbelinews.com##.widget_sp_image
