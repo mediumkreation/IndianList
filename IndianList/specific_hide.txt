@@ -226,7 +226,7 @@ dainikkhabarlayehain.com###media_video-13
 derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
-dubaivartha.com,hpnewsatl.com###media_video-2
+dubaivartha.com,globalnews24x7.com,hpnewsatl.com###media_video-2
 thesunrisetoday.com###media_video-3
 madhyabhoomikeboal.com,samnanews.com###media_video-5
 democratictvnews.com###media_video-6
@@ -410,7 +410,7 @@ sharebazarnews.com###text-882
 himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
-uttareralo24.com###text-html-widget-2
+globalnews24x7.com,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
 bdtoday24.com###text-html-widget-35
 bdtoday24.com###text-html-widget-41
