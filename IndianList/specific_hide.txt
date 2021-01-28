@@ -1138,6 +1138,7 @@ tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 dhakanewsexpress.com##.square_advertisement
 keralanewshunt.com##.st-banner
+tedmnews.com##.stay-connected-ads
 khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
@@ -1183,6 +1184,7 @@ newspage13.com##.td_block_image_box
 akkbd.com##.td_single_image_bg[target="_blank"]
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
+tedmnews.com##.technology-section-ads
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 indiavisionmedia.com##.thd
