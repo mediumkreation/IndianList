@@ -1324,6 +1324,7 @@ asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 breakingtube.com##.wpb_video_widget
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
+dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 bnnbharat.com##.xembgt
