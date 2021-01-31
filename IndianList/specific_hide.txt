@@ -229,6 +229,7 @@ derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 dubaivartha.com,globalnews24x7.com,hpnewsatl.com###media_video-2
 thesunrisetoday.com###media_video-3
+khabrainabhitak.org###media_video-4
 madhyabhoomikeboal.com,samnanews.com###media_video-5
 democratictvnews.com###media_video-6
 middleeastchandrika.com###mep_0
@@ -605,6 +606,7 @@ radionrn.com##.adver-half
 radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
+khabrainabhitak.org##.adver_banner
 ada.lk,manithan.com,tamilan24.com##.advert
 ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
@@ -1192,6 +1194,7 @@ alertnews24.com##.text-html
 indiavisionmedia.com##.thd
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
+khabrainabhitak.org##.theiaStickySidebar .ml-slider
 despunjab.ca,gandakivoice.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 anidda.lk,navpradesh.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
