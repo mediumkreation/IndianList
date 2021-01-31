@@ -98,6 +98,7 @@ bangalorewaves.com###classlistmain
 humhindustanilive.com###content .master-slider-parent
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 odiannews.com###content section.widget_text
+haryananewsexpress.com###covernews_posts_carousel-7
 valampurii.lk###custom-ads-2
 thesunrisetoday.com###custom_html-10
 satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
