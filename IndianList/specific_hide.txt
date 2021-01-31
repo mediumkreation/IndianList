@@ -1150,10 +1150,10 @@ bankura24x7.com##.story_content > .image-and-caption-wrapper
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
 mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
-banglapostbd.com,mitanbhoomi.com##.stream-item-below-post-content
+banglapostbd.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
-jagatbhumi.com,natunbarta.com,newschutney.com##.stream-item-top-wrapper
+jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca##.stream-item-widget
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
