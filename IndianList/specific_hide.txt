@@ -975,7 +975,7 @@ news13.in##.mobadv-4
 kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 suryakhabar.com##.mom-e3lan
-newswings.online##.mom-e3lanat
+everesttimes.net,newswings.online##.mom-e3lanat
 24newspress.com,bn24live.in,bornamelanews24.com,vishalindia.in##.mom-e3lanat-wrap
 malayalamnewstimes.com##.momizat-video
 amanpath.in##.mvp-flex-ad
@@ -1321,6 +1321,7 @@ reportsindia.in##.wp-image-74772
 reportsindia.in##.wp-image-75230
 odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
+everesttimes.net##.wpb_content_element > .wpb_wrapper
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 sajagindia.com##.wpb_raw_code
 upayuktha.com##.wpb_single_image .vc_figure
