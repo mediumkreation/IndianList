@@ -133,6 +133,7 @@ pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
 barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com###eloka-google
+cellitnews.com###example
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
