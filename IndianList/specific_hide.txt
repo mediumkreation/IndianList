@@ -508,6 +508,7 @@ ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,banglarsakal.c
 newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
+dailylalsabujer11nosectorofbd.com##.add > .widget_area img
 gnewsbd24.com##.add iframe
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
 samadhannews.com##.add-banner
