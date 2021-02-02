@@ -183,6 +183,7 @@ aryavartposts.com,dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
 aryavartposts.com,jansaamna.com,mirrortoday.in###media_image-14
 punjabbaani.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
+dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
 banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,ekhansangbad.com,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
@@ -747,7 +748,7 @@ doolnews.com##.dool-ad
 drishtinews.com##.drishti-inner-ads
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com,sarkarimanthan.com##.e3lan
+dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com,sarkarimanthan.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
