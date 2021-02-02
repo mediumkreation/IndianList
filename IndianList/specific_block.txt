@@ -2900,6 +2900,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rapidprnews.com^*/dream.jpg
 ||rapidprnews.com^*/islami_bank.gif
 ||rashtriyajandhara.com/wp-content/uploads/2020/02/bv-2
+||rastrasamvad.com/wp-content/uploads/2019/02/Saipoly-clinic-copy-web.jpg
+||rastrasamvad.com/wp-content/uploads/2019/10/footer-add.jpg
 ||ratopanda.com^$third-party,domain=hamrakura.com
 ||ratopanda.com^render?$third-party
 ||ratopati.prixa.net/media/1140-130_2.gif
