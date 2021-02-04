@@ -689,6 +689,7 @@ sudurpress.com##.block-inline-blockad-block
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 bn24live.in##.bn-lg
 nirpakhawaaz.in,timetovisit.in##.bookingaff
+bbcpunjab.com##.bot-ads
 nagariknetwork.com##.box-news-ad
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
