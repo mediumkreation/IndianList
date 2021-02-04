@@ -125,7 +125,7 @@ ddnews24x7.com###custom_html-48
 bdcrictime.com,jagprerna.com,muznews.net,newsganj.com,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
-newschutney.com###custom_html-6
+newschutney.com,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com###custom_html-7
 mynews36.com###custom_html-8
 aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
