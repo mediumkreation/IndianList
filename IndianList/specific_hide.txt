@@ -1447,6 +1447,7 @@ ctgpratidin.com,jamuna.tv##a[href*="ksrm.com.bd"]
 gramajyothi.com##a[href*="lunars.com"]
 akkinikkunchu.com##a[href*="lycamobile.com.au"]
 akkinikkunchu.com##a[href*="lycatv.tv"]
+maloutlive.com##a[href*="maloutonline.com/listing/"] > img:only-child
 bhalukanews.com##a[href*="mastercafebd"]
 akkinikkunchu.com##a[href*="mks.net.au"]
 vanakkamlondon.com##a[href*="mysrilankanstay.com"]
