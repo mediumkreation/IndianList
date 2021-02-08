@@ -885,6 +885,7 @@ pressbarta.com##.home_right_ads
 dinakaran.com##.homead300le10
 doolnews.com##.horiz_adv_area
 thecinematimes.com##.horizontal-adv
+krushival.in##.horizontal-google-ads
 tips4blog.com##.hot_rwc_ads
 daijiworld.com##.hpRightAdvt
 thereport24.com##.idlc
@@ -1266,6 +1267,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 netmalayalam.com##.vc_slide
+krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
