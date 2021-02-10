@@ -101,7 +101,7 @@ celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 odiannews.com###content section.widget_text
 haryananewsexpress.com###covernews_posts_carousel-7
 valampurii.lk###custom-ads-2
-thesunrisetoday.com###custom_html-10
+jaunpur24.com,thesunrisetoday.com###custom_html-10
 satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com###custom_html-12
 sharebazarnews.com###custom_html-1291
@@ -1168,10 +1168,11 @@ satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
-mitanbhoomi.com##.stream-item-above-post
+jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
 postpatrika.com##.stream-item-below-header
-banglapostbd.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
+jaunpur24.com##.stream-item-below-post
+banglapostbd.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com##.stream-item-top-wrapper
@@ -1535,7 +1536,7 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 clickmandu.com##a[target="_blank"] img:only-child
-dainikjharkhand.com,khabredinraat.com,pressmirchi.com##adnblock
+dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 haldwanilive.com##aside > .textwidget
