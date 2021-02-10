@@ -1185,8 +1185,8 @@ bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 khulnatimes.com##.td-a-rec-id-content_inline
 myagdikali.com##.td-a-rec-id-custom-spot
-arthosuchak.com,bbc71.com,dailyrajshahibarta.com,deshbanglabd24.com,hamarahathras.com,headlinenews.lk,indiapublickhabar.in,middleeastchandrika.com,nayanepalnews.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
-aadyashanewsman.in,aapkiaawaz.net,duniahalchal.in,headlinenews.lk,himkhabar.com,onebanglanews.com##.td-a-rec-id-sidebar
+amaderkhulna.net,arthosuchak.com,bbc71.com,dailyrajshahibarta.com,deshbanglabd24.com,hamarahathras.com,headlinenews.lk,indiapublickhabar.in,middleeastchandrika.com,nayanepalnews.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
+aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,duniahalchal.in,headlinenews.lk,himkhabar.com,onebanglanews.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
@@ -1269,7 +1269,7 @@ newstodayjharkhand.com##.uris-slider-post-title
 changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
-netmalayalam.com##.vc_slide
+amaderkhulna.net,netmalayalam.com##.vc_slide
 krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
