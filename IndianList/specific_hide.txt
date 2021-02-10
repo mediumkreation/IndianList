@@ -1186,10 +1186,10 @@ nepaljapan.com##.taza_ad
 ajkerarban.com,aloron71.com,anmnews.in,bilaspurlive.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,goodmorningnews.in,himachalplus.com,himwantpradeshnews.com,khabarexclusive24.com,kochivattom.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,moviemirchi24.com,muhimmathonline.com,nationone.tv,newsics.com,newsncr.in,newstodaynetwork.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,samayviews.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,touringtalkies.co##.td-a-rec
 bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
-khulnatimes.com##.td-a-rec-id-content_inline
+dewanganjnews.com,khulnatimes.com##.td-a-rec-id-content_inline
 myagdikali.com##.td-a-rec-id-custom-spot
-amaderkhulna.net,arthosuchak.com,bbc71.com,dailyrajshahibarta.com,deshbanglabd24.com,hamarahathras.com,headlinenews.lk,indiapublickhabar.in,middleeastchandrika.com,nayanepalnews.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
-aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,duniahalchal.in,headlinenews.lk,himkhabar.com,onebanglanews.com##.td-a-rec-id-sidebar
+amaderkhulna.net,arthosuchak.com,bbc71.com,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,hamarahathras.com,headlinenews.lk,indiapublickhabar.in,middleeastchandrika.com,nayanepalnews.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
+aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,onebanglanews.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in##.td-adspot-title + a
