@@ -210,7 +210,7 @@ pressbangla24.com,voiceofbihar.in###media_image-36
 voiceofbihar.in###media_image-38
 berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
 voiceofbihar.in###media_image-41
-dainandini.in,dainikkhojkhabar.live,dgnews.co.in,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,muldharpost.com,newsplus.lk###media_image-5
+dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,muldharpost.com,newsplus.lk###media_image-5
 madhyabhoomikeboal.com###media_image-50
 madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
@@ -768,9 +768,11 @@ tamilwin.com##.eds300
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 alertchhattisgarh.com##.elementor-element-37731bf
+himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 khabardarinews.com##.elementor-widget-image
 muznews.online##.elementor-widget-image-carousel
+himalipatrika.com.np##.elementor-widget-text-editor
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 metrovaartha.com##.embed-responsive-16by9
 kannurmetroonline.com##.embed-responsive-4by3
