@@ -1549,7 +1549,7 @@ sangbadsarabela.com##aside.sangb-widget
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bihardootnews.com##aside.widget_media_gallery
-canamnews.com,dhunkhabar.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+canamnews.com,dhunkhabar.com,minnal24.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 brajpatrika.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
