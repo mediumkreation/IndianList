@@ -1143,7 +1143,7 @@ sancharkendra.com##.skadd
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
-dhenkanalupdate.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
+dhenkanalupdate.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
 bhilwarahalchal.com##.slider2
 digitalnewslive.com##.slider_2
