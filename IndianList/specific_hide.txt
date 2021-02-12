@@ -72,6 +72,7 @@ seithy.com###ads400px
 news24nepal.tv###adv
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
+importmirror.com###adx
 andhrajyothy.com###aimgMain
 andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
@@ -137,6 +138,7 @@ barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com###eloka-google
 cellitnews.com###example
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
+importmirror.com###full-size-Ad
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
