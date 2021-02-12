@@ -591,7 +591,7 @@ agrinewsnetwork.in##.ader_ads
 udayavani.com##.adliadworld
 hamrosandesh.com##.admana-plugin
 deshabhimani.com##.adone > div
-anusandhan24.com,canadanepal.com,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,laligurash.com,mediadabali.com,motivatenews.com,nepalesediaspora.com,newsbihani.com,onlinepana.com,onlinepatrika.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,sutranews.com,tamilan24.com##.ads
+anusandhan24.com,canadanepal.com,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,laligurash.com,mediadabali.com,motivatenews.com,nepalesediaspora.com,news24bd.net,newsbihani.com,onlinepana.com,onlinepatrika.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,sutranews.com,tamilan24.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 gandakitimes.com##.ads aside:not(#custom_html-7)
 madawalaenews.com##.ads-big
@@ -661,7 +661,7 @@ omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 hindustanvision.com##.avtg3
 manabadi.co.in##.backg-g
-alokitoteknaf.com,aznewsbd24.com,banglanewstv.com,banglarkagoj.net,borendronews.com,cplusbd.net,dainikmymensinghpratidin.com,ektibd.com,fenitribune.com,fulbarianews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,newsbna.com,newspabna.com,rajshahinews24.com,setvnews24.com,somoyerdak24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
+alokitoteknaf.com,aznewsbd24.com,banglanewstv.com,banglarkagoj.net,borendronews.com,cplusbd.net,dainikmymensinghpratidin.com,ektibd.com,fenitribune.com,fulbarianews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,news24bd.net,newsbna.com,newspabna.com,rajshahinews24.com,setvnews24.com,somoyerdak24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in##.banner
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
@@ -1305,6 +1305,7 @@ newsofmithila.in##.widget_300x250_advertisement
 jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
 koshionline.com##.widget_advertisement-bar
+news24bd.net##.widget_area > img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com##.widget_esn_ad
@@ -1591,6 +1592,7 @@ achhikhabar.com##div[id^="achhi-"]
 aryavartposts.com##div[id^="aryav-"]
 banglarjanarob.com##div[id^="bangl-"]
 newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
+news24bd.net##div[id^="news2-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
