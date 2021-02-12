@@ -976,7 +976,7 @@ thamilan.lk##.mbs
 bikashnews.com##.menu_ad
 bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
-lalitpurfastnews.com,satwadhara.news##.metaslider
+lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 ekuruvi.com##.mid-had
