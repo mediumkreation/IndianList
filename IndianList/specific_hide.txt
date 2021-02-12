@@ -1639,6 +1639,7 @@ satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 dainiki.com##section img.attachment-full
 bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com##section.widget
 karobardaily.com##section.widget > a:only-child
+prasashan.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
