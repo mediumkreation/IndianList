@@ -111,6 +111,7 @@ sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
 kalaroanews.com###custom_html-13
 sharebazarnews.com###custom_html-1371
+uluberiasambad.in###custom_html-14
 arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
@@ -770,6 +771,7 @@ gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com,patrikajagat.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
 ceylonradio.co.uk,deshersangbad.com,laxminews24x7.com,news127.com##.e3lan-top
+uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
 tamilwin.com##.eds300
