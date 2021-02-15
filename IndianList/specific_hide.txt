@@ -605,6 +605,7 @@ epaper.lokmat.com##.ads_699
 janadeshexpress.in##.ads_top_disp
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
+onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,uttamhindu.com,weeklynepal.com##.adv
