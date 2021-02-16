@@ -612,6 +612,7 @@ onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,uttamhindu.com,weeklynepal.com##.adv
+gorkhalikhabar.com##.adv-box-wrap
 orthosongbad.com##.adv-img
 drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
@@ -633,7 +634,7 @@ janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
-bikashnews.com##.advertise
+bikashnews.com,gorkhalikhabar.com##.advertise
 livestorytime.com##.advertise-area
 nobat.com##.advertise-ifrme
 bonikbarta.net##.advertise_space2
