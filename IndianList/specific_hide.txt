@@ -87,7 +87,7 @@ kusenews.com###belowflash
 kusenews.com###belowmainnews
 arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
-tibrakhabar.com###black-studio-tinymce-30
+tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com###block-10
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
@@ -1324,6 +1324,7 @@ samnanews.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 purbelinews.com##.widget_sp_image
