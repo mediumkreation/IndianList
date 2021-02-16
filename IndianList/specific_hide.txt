@@ -1183,9 +1183,9 @@ satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
-jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
+gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
-postpatrika.com##.stream-item-below-header
+gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
 banglapostbd.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
