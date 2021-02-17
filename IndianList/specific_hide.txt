@@ -793,6 +793,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
+prabhatvaibhav.com##.entry-content > div > img
 channelrb.com##.entry-content figure img[width="600"]
 kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
@@ -1183,6 +1184,7 @@ satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
+prabhatvaibhav.com##.stream-item-above-header
 gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
 gnebangla.in,postpatrika.com##.stream-item-below-header
@@ -1239,7 +1241,7 @@ khabrainabhitak.org##.theiaStickySidebar .ml-slider
 despunjab.ca,gandakivoice.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 anidda.lk,navpradesh.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
-samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
+prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
