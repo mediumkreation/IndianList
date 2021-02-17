@@ -1370,7 +1370,7 @@ odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
-sajagindia.com##.wpb_raw_code
+sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 alamkikhabar.in##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 keralatimes.com##.wpb_single_image figure
