@@ -821,6 +821,7 @@ newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
 dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
+thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
 wishmaya.com##.footer-add
