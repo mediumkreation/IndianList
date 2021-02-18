@@ -1506,7 +1506,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
-||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|news71online.com|wowsansar.com
+||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|news71online.com|wowsansar.com
 ||inbcn.in/admin/view/upload/btp.jpg
 ||inbcn.in/admin/view/upload/web%20.jpg
 ||india.com/wp-content/uploads/2020/04/CULT-WorkoutFH-BANNER-300x250.png
