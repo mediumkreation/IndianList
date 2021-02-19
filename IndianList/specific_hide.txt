@@ -661,6 +661,7 @@ sansarpost.com##.allrounder-advertisement
 bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
+mbdwebnews.com##.article-content .ml-slider
 inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
@@ -1575,7 +1576,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 coxsbazarshomoy.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-canamnews.com,dhunkhabar.com,minnal24.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+canamnews.com,dhunkhabar.com,mbdwebnews.com,minnal24.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 brajpatrika.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
