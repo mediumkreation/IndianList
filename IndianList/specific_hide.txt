@@ -970,6 +970,7 @@ nationalpowernews.com##.long_ads1
 postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
 beautynewsnepal.com##.lwig
+71sangbad.com##.m_none > a[target="_blank"]
 dhadingupdate.com##.main-1
 newsfirst.lk##.main-ad-half
 punjabiakhbaar.ca##.main-content .stream-item
