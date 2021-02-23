@@ -333,7 +333,7 @@ dinamalar.com###selum
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 arthikawaj.com,hariyarexpress.com,yazhnews.com###sidebar
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
-news27.org###sidebar .widget_media_image
+news27.org,punjabnewslive.co.in###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
@@ -769,7 +769,7 @@ doolnews.com##.dool-ad
 drishtinews.com##.drishti-inner-ads
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,purvanchalnews.com,sarkarimanthan.com,thelastpagenews.com##.e3lan
+dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,thelastpagenews.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com,patrikajagat.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
