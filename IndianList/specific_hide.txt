@@ -796,6 +796,7 @@ bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 prabhatvaibhav.com##.entry-content > div > img
+duniyasamachar.com##.entry-content a img
 channelrb.com##.entry-content figure img[width="600"]
 kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
@@ -1672,6 +1673,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 britishkairali.co.uk,jayhosh.com,kubiyonews.com,sankalpakhabar.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
+duniyasamachar.com##section.widget_text
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
