@@ -1672,6 +1672,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 britishkairali.co.uk,jayhosh.com,kubiyonews.com,sankalpakhabar.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
+duniyasamachar.com##section.widget_text
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
