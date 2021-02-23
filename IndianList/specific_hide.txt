@@ -872,6 +872,7 @@ ekuruvi.com,onlinespardha.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
+digitalbharatnews.in##.header-inner .sidebar-col
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
@@ -1140,6 +1141,7 @@ arthosuchak.com##.sidebar_google_ad
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
+digitalbharatnews.in##.single-container > div
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
