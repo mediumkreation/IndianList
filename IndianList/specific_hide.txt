@@ -311,6 +311,7 @@ kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 aajkakanpur.com,vishwanews24.com###secondary .widget_media_image
+nagarikbahas.com###secondary .widget_sp_image
 charchitbihar.com###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
 charchitbihar.com###secondary section.widget_media_image
@@ -746,7 +747,7 @@ bikashnews.com##.containerhome a[target="_blank"] img:only-child
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
-dthreeonline.com##.content-middle-ads
+dthreeonline.com,nagarikbahas.com##.content-middle-ads
 pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 roorkeehub.com##.custom-banners-cycle-slideshow
@@ -1154,7 +1155,7 @@ snn24.com##.single_before_ad
 banglanewstv.com##.single_details .widget_area
 somoyersangbad.com##.single_page > .widget_area
 ayodhyasamachar.com##.singlepage center > embed
-janatakoaawaj.com,samabesionline.com##.site-header-ads
+janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
