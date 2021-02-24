@@ -116,6 +116,7 @@ arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
 amritvarshanews.in,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
+ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
 barisaltoday.com,dubaivartha.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarstate.com,livehalchal.com,marginalised.in,muznews.in,samastipurtown.com###custom_html-3
@@ -310,7 +311,7 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
-aajkakanpur.com,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 nagarikbahas.com###secondary .widget_sp_image
 charchitbihar.com###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
@@ -1007,7 +1008,7 @@ nepalesediaspora.com##.midads
 upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
-bigtvnews.com,sharpbharat.com##.ml-slider
+bigtvnews.com,ptbnews.in,sharpbharat.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
