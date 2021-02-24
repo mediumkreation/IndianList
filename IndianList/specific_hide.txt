@@ -1666,7 +1666,7 @@ dainikjaltedeep.com##marquee
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 dainiki.com##section img.attachment-full
-bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com##section.widget
+bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
 karobardaily.com##section.widget > a:only-child
 prasashan.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
