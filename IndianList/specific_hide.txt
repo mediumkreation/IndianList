@@ -1347,6 +1347,9 @@ purbelinews.com##.widget_sp_image
 chandrikadaily.qa##.widget_viral_advertisement
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
+newssunamganj.com##.wp-image-10388
+newssunamganj.com##.wp-image-10536
+newssunamganj.com##.wp-image-11042
 haldwanilive.com##.wp-image-11804
 haldwanilive.com##.wp-image-12006
 odishasambad.in##.wp-image-126002
@@ -1355,9 +1358,11 @@ bonggonews.com##.wp-image-13566
 haldwanilive.com##.wp-image-14949
 haldwanilive.com##.wp-image-15579
 haldwanilive.com##.wp-image-17023
+newssunamganj.com##.wp-image-19215
 ratopost.com##.wp-image-19317
 ratopost.com##.wp-image-19553
 haldwanilive.com##.wp-image-19962
+newssunamganj.com##.wp-image-2083
 haldwanilive.com##.wp-image-23270
 haldwanilive.com##.wp-image-24832
 haldwanilive.com##.wp-image-25412
@@ -1366,6 +1371,7 @@ haldwanilive.com##.wp-image-26920
 geetanjalipost.com##.wp-image-27299
 haldwanilive.com##.wp-image-28396
 bonggonews.com##.wp-image-352
+newssunamganj.com##.wp-image-3711
 reportsindia.in##.wp-image-62537
 reportsindia.in##.wp-image-62663
 reportsindia.in##.wp-image-71118
@@ -1379,6 +1385,7 @@ reportsindia.in##.wp-image-74770
 reportsindia.in##.wp-image-74771
 reportsindia.in##.wp-image-74772
 reportsindia.in##.wp-image-75230
+newssunamganj.com##.wp-image-77
 odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
 vidarbhaapla.com##.wpb_content_element
