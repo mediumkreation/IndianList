@@ -1008,7 +1008,7 @@ nepalesediaspora.com##.midads
 upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
-bigtvnews.com,ptbnews.in,sharpbharat.com##.ml-slider
+bigtvnews.com,ptbnews.in,sharpbharat.com,smacharaajtak.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -1590,6 +1590,7 @@ todaybhaskar.com##aside.widget_black_studio_tinymce
 coxsbazarshomoy.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
 canamnews.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+smacharaajtak.com##aside.widget_media_image > img
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 brajpatrika.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
