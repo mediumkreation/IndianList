@@ -146,7 +146,7 @@ telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
 crimecapital.in###header #sidebar
-punjabinational.ca###header-aside
+prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
 primepunjab.com,sanjeevanisamachar.com###header-right-section
@@ -216,7 +216,7 @@ pressbangla24.com,voiceofbihar.in###media_image-36
 voiceofbihar.in###media_image-38
 berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
 voiceofbihar.in###media_image-41
-amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,muldharpost.com,newsplus.lk###media_image-5
+amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,muldharpost.com,newsplus.lk,prothomshomoy.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
