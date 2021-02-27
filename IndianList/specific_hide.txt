@@ -126,12 +126,12 @@ news127.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-bdcrictime.com,jagprerna.com,muznews.net,newsganj.com,techtamil.com###custom_html-5
+bdcrictime.com,jagprerna.com,muznews.net,newsganj.com,pradhanavartha.in,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 newschutney.com,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com###custom_html-7
-mynews36.com###custom_html-8
+mynews36.com,pradhanavartha.in###custom_html-8
 aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
