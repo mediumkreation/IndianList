@@ -1009,6 +1009,7 @@ nepalesediaspora.com##.midads
 upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
+pradeshdainik.com##.min-global-adv
 bigtvnews.com,ptbnews.in,sharpbharat.com,smacharaajtak.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
@@ -1330,7 +1331,7 @@ vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
-koshionline.com##.widget_advertisement-bar
+koshionline.com,pradeshdainik.com##.widget_advertisement-bar
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
