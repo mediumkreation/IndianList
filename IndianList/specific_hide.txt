@@ -1394,6 +1394,7 @@ ratopost.com##.wp-image-9728
 vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
+keralatimes.com##.wpb_images_carousel
 sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 alamkikhabar.in##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
