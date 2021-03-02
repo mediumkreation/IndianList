@@ -380,7 +380,7 @@ anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhag
 dailypunjabtimes.com,trttamilolli.com###text-15
 kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
-achhisoch.com,sambadsaradin.com###text-18
+achhisoch.com,banglarkonthosor.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,priyochandpur.com,punjabimaaboli.com,sidhakura.net,udaipurnewschannel.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p ~ p
@@ -418,7 +418,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,mitanbhoomi.com,orthosongbad.com,udaipurkiran.in###text-6
+banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,mitanbhoomi.com,orthosongbad.com,udaipurkiran.in###text-6
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
