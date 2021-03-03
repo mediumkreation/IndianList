@@ -86,6 +86,7 @@ devbhoomidarshan17.com###banner-10
 bangalorewaves.com###bannerclassfd
 kusenews.com###belowflash
 kusenews.com###belowmainnews
+bankingsansar.com###bigyapan-top
 arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
 tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
@@ -643,6 +644,7 @@ nobat.com##.advertise-ifrme
 bonikbarta.net##.advertise_space2
 bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
 kanchanjanghaonline.com##.advertisement img
+bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
 dekhapadhi.com##.advertisement-three
 sangbadmail24.com##.advertisement_left_column
