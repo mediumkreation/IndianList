@@ -1066,6 +1066,7 @@ prajavani.net##.pj-ad-card
 bonikbarta.net##.popupCloseButton
 abnews24.com,rtvonline.com##.popup_blackoverlay
 abnews24.com,rtvonline.com##.popup_whiteoverlay
+cglivenews.co.in##.post > .a-single
 jaljalakhabar.com##.post aside.widget_media_image
 narayanionline.com##.post-advertiesment
 nayasabera.com##.post-body .tr-caption-container
@@ -1179,6 +1180,7 @@ mediadabali.com##.sm-ads
 reportersnepal.com##.small-arthik-widget
 sonalinews.com##.small-side-banner-wrapper
 nittaa.com##.smashwords-widget
+cglivenews.co.in##.soliloquy-container
 kaumudiplus.com##.sp-ad-row
 alorkantho24.news##.spad
 ekuruvi.com##.span-2 a:only-child
