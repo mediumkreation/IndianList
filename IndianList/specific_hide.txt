@@ -1327,6 +1327,7 @@ sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
 crimediarybd.com##.widget-body > p img
 kusenews.com##.widget-header > img
+daunnenews.com##.widget-shortcode:not(#custom_html-12)
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
@@ -1588,6 +1589,7 @@ dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 haldwanilive.com##aside > .textwidget
+daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
 24timestoday.com##aside.sidebar > div:not(.related_posts)
