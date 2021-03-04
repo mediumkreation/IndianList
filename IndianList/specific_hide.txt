@@ -1209,6 +1209,7 @@ khabarbihar.in##.stream-item-above-post-content
 gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
 azkersylhet.com,banglapostbd.com,hapurhulchul.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
+bankalive.net##.stream-item-inline-post
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com##.stream-item-top-wrapper
