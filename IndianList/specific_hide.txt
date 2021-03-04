@@ -89,6 +89,7 @@ kusenews.com###belowmainnews
 bankingsansar.com###bigyapan-top
 arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
+bigkhabar.com###bk_sidebar_8
 tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com###block-10
 sakshi.com###block-block-141--2
@@ -422,6 +423,7 @@ anaicoddai.com###text-58
 banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,mitanbhoomi.com,orthosongbad.com,udaipurkiran.in###text-6
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
+bigkhabar.com###text-69
 apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
 dmoitry.com,ekhansangbad.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com###text-8
 sharebazarnews.com###text-882
@@ -1278,7 +1280,7 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 lankasri.com##.today-eds-wrap
 malayalamuk.com##.top-ad4
-beanibazarnews24.com##.top-add
+beanibazarnews24.com,bigkhabar.com##.top-add
 thereport24.com##.top-add-left4
 aperata.net##.top-ads-block
 twentyfournews.com##.top-banner
