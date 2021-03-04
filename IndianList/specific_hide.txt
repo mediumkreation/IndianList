@@ -606,6 +606,7 @@ khullamanch.com,thenepaltoday.com##.ads-container
 vijayapatha.in#@#.ads-image
 agnijwala.com##.ads-sec
 hindi.cricketnmore.com##.ads-space
+thecgnews.com##.ads120_60-widget
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 epaper.lokmat.com##.ads_699
@@ -778,7 +779,7 @@ dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaa
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
-ceylonradio.co.uk,deshersangbad.com,laxminews24x7.com,news127.com##.e3lan-top
+ceylonradio.co.uk,deshersangbad.com,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
 uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
