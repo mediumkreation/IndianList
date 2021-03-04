@@ -876,7 +876,7 @@ corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
-bengaluruvartha.in##.header-ainfo
+bengaluruvartha.in,gujaratmirror.in##.header-ainfo
 ekuruvi.com,onlinespardha.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
@@ -1358,7 +1358,7 @@ tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 purbelinews.com##.widget_sp_image
-36garhi.com,biharpatrika.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
+36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
 chandrikadaily.qa##.widget_viral_advertisement
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
