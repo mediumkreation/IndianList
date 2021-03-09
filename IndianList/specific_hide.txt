@@ -101,6 +101,7 @@ paristamil.com###box
 malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
 bangalorewaves.com###classlistmain
+suddi9.com###colorcontentasash3
 humhindustanilive.com###content .master-slider-parent
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 odiannews.com###content section.widget_text
@@ -142,6 +143,7 @@ teluguwishesh.com###djslider875
 barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com###eloka-google
 cellitnews.com###example
+suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
 jaianndata.com###gdgallery-container-2
