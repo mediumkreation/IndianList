@@ -571,7 +571,7 @@ shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
-europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
+dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
 n7india.com,provatnews.com##.add_banner
 gtamilnews.com##.add_block_hdefault
@@ -867,6 +867,7 @@ medianp.com##.fullwidth-header-ads-wrapper
 hotnewsindia.com##.fullwidthbanner-container
 ctgpratidin.com##.fxozitmah
 trttamilolli.com##.galboxcontainer
+dainikdeshersathe.com##.gallery_section
 dcnepal.com,merofilm.com##.gam-ad-position-wrap
 sithmalyaya.com##.gear-best
 joynewsbd.com,rajdhanidaily.com##.gofollow
