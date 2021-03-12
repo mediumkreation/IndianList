@@ -322,7 +322,7 @@ aajkakanpur.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 nagarikbahas.com###secondary .widget_sp_image
 charchitbihar.com###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
-charchitbihar.com###secondary section.widget_media_image
+charchitbihar.com,uttarakhandkesari.in###secondary section.widget_media_image
 kannadaprabha.com###section_content_check_452
 kannadaprabha.com###section_content_check_454
 kannadaprabha.com###section_content_check_455
