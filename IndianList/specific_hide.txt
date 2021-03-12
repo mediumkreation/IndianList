@@ -103,6 +103,7 @@ amankishaan.news###bxnzmefcd-3
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
 humhindustanilive.com###content .master-slider-parent
+legalvoice24.com###content > .widget_text
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 odiannews.com###content section.widget_text
 haryananewsexpress.com###covernews_posts_carousel-7
@@ -429,7 +430,7 @@ aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
 apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
-dmoitry.com,ekhansangbad.com,globaltamilnews.net,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
+dmoitry.com,ekhansangbad.com,globaltamilnews.net,legalvoice24.com,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 sharebazarnews.com###text-882
 himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
