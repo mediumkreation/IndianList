@@ -1257,6 +1257,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
+nammabantwala.com##.td-post-content .td-a-rec
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
 haldwanilive.com##.td-ss-main-sidebar
@@ -1420,6 +1421,7 @@ reportsindia.in##.wp-image-75230
 newssunamganj.com##.wp-image-77
 odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
+nammabantwala.com##.wp-video
 vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
@@ -1628,6 +1630,7 @@ bihardootnews.com##aside.widget_media_gallery
 canamnews.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,rajsattapost.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
+nammabantwala.com##aside.widget_media_video
 brajpatrika.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
