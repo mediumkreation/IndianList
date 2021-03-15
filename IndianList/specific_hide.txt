@@ -120,11 +120,11 @@ uluberiasambad.in###custom_html-14
 arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
-amritvarshanews.in,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
+amritvarshanews.in,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
-barisaltoday.com,dubaivartha.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarstate.com,livehalchal.com,marginalised.in,muznews.in,samastipurtown.com###custom_html-3
+barisaltoday.com,dubaivartha.com,ekushershokal.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarstate.com,livehalchal.com,marginalised.in,muznews.in,samastipurtown.com###custom_html-3
 ddnews24x7.com,thedastak24.com###custom_html-31
 ddnews24x7.com###custom_html-39
 news127.com,uttarakhandhindinews.com###custom_html-4
@@ -1255,7 +1255,7 @@ techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
-ttncinema.com##.td-main-content-wrap .td-a-rec
+ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
