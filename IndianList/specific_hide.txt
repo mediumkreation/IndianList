@@ -1447,6 +1447,7 @@ narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
 kendrabindu.com##[class*="_coffee"]
 dinakaran.com##[class*="boxad"]
+pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 kositimes.com##[data-adid] > p
