@@ -502,12 +502,13 @@ business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
+ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 newsdnntv.com,pratyeknewslive.com##.ad--space
 eimuhurte.com,newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
+ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 vijayapatha.in##.ad-description
 vijayapatha.in##.ad-description + .widget-ad-image
@@ -692,6 +693,7 @@ bholarbani.com,newsportals.in##.banner-img
 ambalacoverage.com,biharnewstv.in,cibindianews.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,khabarworld.com,navpradesh.com,pularvu.com,shaktialmora.com,sorejomin.com,thefactshala.in,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
+ekagaj.com##.banner-top:not(.first)
 khabarhub.com##.banner-widget
 dhaka18.com##.banner21
 nepalsandesh.com##.bannerNews
@@ -1434,6 +1436,7 @@ dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 modernnewsindia.com##.wpwbs_banners
+ekagaj.com##.wrapper-box
 bnnbharat.com##.xembgt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
