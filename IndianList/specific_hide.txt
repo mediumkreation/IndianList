@@ -894,6 +894,7 @@ purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
+tv24live.com##.header-right-adv
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
