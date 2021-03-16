@@ -379,12 +379,12 @@ alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
 jagprerna.com,medianp.com,moonbreaking.com,samnanews.com,tamil.com,vanakkamlondon.com###text-10
-anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,samnanews.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
+anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
 moonramkonam.com###text-124
 irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,tnilive.com,vyavasthadarpan.com###text-14
-dailypunjabtimes.com,trttamilolli.com###text-15
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
+dailypunjabtimes.com,swadeshbani.com,trttamilolli.com###text-15
 kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,sambadsaradin.com###text-18
@@ -407,7 +407,7 @@ allaiyoor.com###text-32
 anaicoddai.com###text-36
 anaicoddai.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,vakeesam.com,vanakkamlondon.com###text-4
+ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
 himalini.com,trttamilolli.com###text-40
 trttamilolli.com###text-42
 udaydarpan.com###text-44
@@ -1064,7 +1064,7 @@ narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 dailysharebazarprotidin.com,dainikayodhyatimes.in##.np-header-ads-area
 sathyamonline.com##.nsads
-shreekanchanpath.com##.nv-header-ads-area
+shreekanchanpath.com,swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 supportmeindia.com##.offer-box
