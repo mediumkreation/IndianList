@@ -530,7 +530,7 @@ lifeglint.com##.ad_bottom_lip
 aswamedham.com##.ad_sec
 farakdhar.com,ratopati.com##.adalyticsblock
 kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
-ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,borendronews.com,coxsbazartimes.com,dailysports24.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
+ajkersylhet.com,alokitoteknaf.com,aznewsbd24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,borendronews.com,coxsbazartimes.com,dailysports24.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,newsatfirst.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
@@ -538,7 +538,7 @@ dailylalsabujer11nosectorofbd.com,shamoybarta.com##.add > .widget_area img
 gnewsbd24.com##.add iframe
 doiniksokalerbarta24.com,gangnirchokh.com,meghnanews.com.bd,meherpurpress.com##.add img
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
-samadhannews.com##.add-banner
+newsatfirst.com,samadhannews.com##.add-banner
 samadhannews.com##.add-banner-s
 khobor24ghonta.com##.add-bg-02
 aajkasach.in,jaianndata.com##.add-block
@@ -676,6 +676,7 @@ bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
 mbdwebnews.com##.article-content .ml-slider
+newsatfirst.com##.aside-add
 inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
