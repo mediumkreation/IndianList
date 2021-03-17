@@ -1004,6 +1004,7 @@ beautynewsnepal.com##.lwig
 71sangbad.com##.m_none > a[target="_blank"]
 dhadingupdate.com##.main-1
 newsfirst.lk##.main-ad-half
+hkgnews247.com##.main-and-sidebar .Image
 policevarthe.com##.main-bg .carousel
 punjabiakhbaar.ca##.main-content .stream-item
 samudrapari.com##.main-news-ads
