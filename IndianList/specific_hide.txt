@@ -618,6 +618,7 @@ thecgnews.com##.ads120_60-widget
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 epaper.lokmat.com##.ads_699
+dailyonusondhan.com##.ads_click_counter
 janadeshexpress.in##.ads_top_disp
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
