@@ -269,7 +269,7 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
+abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
 24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
 mahekasansar.com,npg.news###metaslider_widget-4
 digitalnewslive.com###metaslider_widget-5
@@ -440,6 +440,7 @@ janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 globalnews24x7.com,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
+abhitaknewsuk.in###text-html-widget-3
 bdtoday24.com###text-html-widget-35
 bdtoday24.com###text-html-widget-41
 sarkarimanthan.com###text-html-widget-6
@@ -1235,14 +1236,15 @@ cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokh
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
-gnebangla.in,postpatrika.com##.stream-item-below-header
+abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
-azkersylhet.com,banglapostbd.com,hapurhulchul.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
+abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 bankalive.net##.stream-item-inline-post
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca##.stream-item-widget
+abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
@@ -1379,6 +1381,7 @@ insurancekhabar.com##.widget_esn_ad
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
+abhitaknewsuk.in##.widget_media_video
 samnanews.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
