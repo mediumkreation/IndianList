@@ -323,6 +323,7 @@ nagarikbahas.com###secondary .widget_sp_image
 charchitbihar.com###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
 charchitbihar.com,uttarakhandkesari.in###secondary section.widget_media_image
+doabatimes.com###secondary-right
 kannadaprabha.com###section_content_check_452
 kannadaprabha.com###section_content_check_454
 kannadaprabha.com###section_content_check_455
@@ -890,7 +891,7 @@ corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
-bengaluruvartha.in,gujaratmirror.in##.header-ainfo
+bengaluruvartha.in,doabatimes.com,gujaratmirror.in##.header-ainfo
 ekuruvi.com,onlinespardha.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
