@@ -814,7 +814,8 @@ alertchhattisgarh.com##.elementor-element-37731bf
 himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 khabardarinews.com##.elementor-widget-image
-muznews.online##.elementor-widget-image-carousel
+24webnews.com,muznews.online##.elementor-widget-image-carousel
+24webnews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
 keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 metrovaartha.com##.embed-responsive-16by9
