@@ -1036,6 +1036,7 @@ ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
+shreesamachar.com##.middle-aside .news_portal_ads_banner
 upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
