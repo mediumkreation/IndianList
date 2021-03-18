@@ -146,6 +146,7 @@ barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com###eloka-google
 cellitnews.com###example
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
+keralavisiontv.com###foot-ad-wrap
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
 jaianndata.com###gdgallery-container-2
