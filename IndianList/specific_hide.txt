@@ -384,7 +384,7 @@ punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
 anbnews24.com###text-1
 jagprerna.com,medianp.com,moonbreaking.com,samnanews.com,tamil.com,vanakkamlondon.com###text-10
-anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
+anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
 moonramkonam.com###text-124
 irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
@@ -1299,7 +1299,7 @@ cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
-anidda.lk,navpradesh.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+anidda.lk,k24news.in,navpradesh.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
