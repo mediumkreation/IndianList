@@ -1308,6 +1308,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||eyewitnesslivenews.com^*adv2.php
 ||eyewitnessnewsindia.com/wp-content/themes/nextline_v3.1/images/Spangles-Added1.jpg
 ||fastnewsbd.com/images/parasut.jpg
+||fastnewsindia.co/Ad/96525.jpg
 ||fbcdn.net^$third-party,domain=malayalammedia.one
 ||fbs.com$third-party,domain=tamilleader.com
 ||feedify.net^$third-party,domain=ajabgjab.com
