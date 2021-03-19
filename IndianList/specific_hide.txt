@@ -1282,6 +1282,7 @@ nammabantwala.com##.td-post-content .td-a-rec
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
 haldwanilive.com##.td-ss-main-sidebar
+gionews.in##.td-ss-main-sidebar .slider-pro
 akkbd.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_image
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
