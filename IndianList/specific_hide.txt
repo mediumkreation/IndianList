@@ -524,6 +524,7 @@ vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
+nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec > .widget_media_image
 alarmindia.in##.ad-slide
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
