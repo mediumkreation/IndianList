@@ -346,7 +346,7 @@ dinamalar.com###selum
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 arthikawaj.com,hariyarexpress.com,yazhnews.com###sidebar
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
-news27.org,punjabnewslive.co.in###sidebar .widget_media_image
+dbnnews.in,news27.org,punjabnewslive.co.in###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
