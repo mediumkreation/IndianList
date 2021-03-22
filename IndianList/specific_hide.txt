@@ -5,7 +5,7 @@ arerajdarshan.com###FullWidthWidget-Top
 hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,unmaikal.com###HTML1
 chilahatiweb.com,jaldhakanews.com###HTML10
 jaldhakanews.com###HTML101
-kasargodvartha.com,khantinews.blogspot.com,newscity.co.in###HTML11
+kasargodvartha.com,khantinews.blogspot.com,newscity.co.in,rewanewsmedia.com###HTML11
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
 madhepurakhabar.com,thattungal.com###HTML16
@@ -21,10 +21,10 @@ chilahatiweb.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com###HTML6
-chapainawabganjnews.com,madhepurakhabar.com,vyganews.com###HTML7
+chapainawabganjnews.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
 jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,rknewsofindia.com###HTML8
 jaldhakanews.com###HTML9
-bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
+bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,rewanewsmedia.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
@@ -1217,6 +1217,7 @@ avnpost.com##.slider-section
 bhilwarahalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
+rewanewsmedia.com##.slideshow-container
 mediadabali.com##.sm-ads
 reportersnepal.com##.small-arthik-widget
 sonalinews.com##.small-side-banner-wrapper
