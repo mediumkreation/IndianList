@@ -180,6 +180,7 @@ vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 songbadpratidin.com###main .widget_media_image
+agrilife24.com###main-body .custom
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
 laxminews24x7.com,theexclusivestory.com###main-content .e3lan
@@ -1749,6 +1750,7 @@ sbharatnews.com##section.widget_media_gallery
 britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
+agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
