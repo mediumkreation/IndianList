@@ -814,6 +814,7 @@ channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-ma
 alertchhattisgarh.com##.elementor-element-37731bf
 himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
+delhicrimepress.com##.elementor-image-carousel-wrapper
 khabardarinews.com##.elementor-widget-image
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 24webnews.com##.elementor-widget-slides
