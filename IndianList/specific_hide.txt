@@ -1449,6 +1449,7 @@ ratopost.com##.wp-image-9728
 nammabantwala.com##.wp-video
 vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
+delhicrimepressnews.com##.wpb_content_element img
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 keralatimes.com##.wpb_images_carousel
 sajagindia.com,sangbaddiganta.com##.wpb_raw_code
