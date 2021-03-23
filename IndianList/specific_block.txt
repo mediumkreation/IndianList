@@ -1152,6 +1152,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||digitalbanglanews.com/wp-content/uploads/2019/01/aristaadd.gif
 ||digitalbharatnews.in/wp-content/uploads/2021/02/POSTER.jpeg
 ||digitalmalayali.com/resources/ad/
+||digitaloceanspaces.com^$third-party,domain=dekhapadhi.com
 ||digitaloceanspaces.com^*/275-220.gif$domain=nepalaaja.com
 ||digitaloceanspaces.com^*/nlic1100x100ad.gif$domain=nepalaaja.com
 ||dilersamachar.com/ai-content/themes/diler/img/modal-images.jpg
