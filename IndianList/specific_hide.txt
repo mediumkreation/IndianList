@@ -927,6 +927,7 @@ fenirkotha.com,natuncumilla.com##.header_date_sidebar
 banglanewsca.com##.header_top_ad_area_2
 fenirkotha.com##.header_top_banner
 telugumirchi.com##.headerad2
+shirurtaluka.com##.headeradvt
 nepaljapan.com##.headline_below_ad
 indiasamachar24.com##.herald-sidebar .widget_metaslider_widget
 himalayapost.com##.himal-content_3
@@ -1097,6 +1098,7 @@ onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 nawidunia.com##.owl-carousel
+shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
@@ -1112,6 +1114,8 @@ nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 purvanchal24.com##.post-footer [trbidi]
 mannarkkadlive.com##.post-inner-image
+shirurtaluka.com##.post-item-description p  a strong
+shirurtaluka.com##.post-item-description p img
 telugutimes.net##.post-sidebar-area
 hindikhabarwaala.com##.post-text img
 todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
