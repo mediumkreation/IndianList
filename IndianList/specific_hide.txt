@@ -215,7 +215,7 @@ ggsnews24.com,voiceofbihar.in###media_image-26
 ggsnews24.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,voiceofbihar.in###media_image-28
 cg24x7.news###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,bangladaily24.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com###media_image-3
 cg24x7.news,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
 starbanglanews.net###media_image-33
@@ -1031,7 +1031,7 @@ fastnewsbd.com##.mainadvert8
 gnewsbd24.com##.maniio
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
-hpnewsatl.com,khabarpahad.com##.master-slider
+ayushindianews.com,hpnewsatl.com,khabarpahad.com##.master-slider
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
@@ -1364,6 +1364,7 @@ newstodayjharkhand.com##.uris-slider-post-title
 changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
+ayushindianews.com##.vc_images_carousel
 amaderkhulna.net,netmalayalam.com##.vc_slide
 krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
