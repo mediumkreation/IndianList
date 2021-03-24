@@ -829,7 +829,7 @@ bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 prabhatvaibhav.com##.entry-content > div > img
-jangathatimes.com##.entry-content > p img
+emaatimes.com,jangathatimes.com##.entry-content > p img
 duniyasamachar.com##.entry-content a img
 channelrb.com##.entry-content figure img[width="600"]
 kannurnewsonline.com##.entry-content figure.wp-block-image
