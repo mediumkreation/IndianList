@@ -1112,6 +1112,7 @@ jaljalakhabar.com##.post aside.widget_media_image
 narayanionline.com##.post-advertiesment
 nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
+ghatanarabichar.com##.post-entry header section.widget
 purvanchal24.com##.post-footer [trbidi]
 mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
