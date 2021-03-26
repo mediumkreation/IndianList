@@ -1260,8 +1260,8 @@ abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,jaunpur24.com
 bankalive.net##.stream-item-inline-post
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
-jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com##.stream-item-top-wrapper
-keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca##.stream-item-widget
+jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
+keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca,thetadkanews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
 awajnews.com##.supsystic-slider-wrapper
