@@ -81,7 +81,7 @@ padmatimes24.com###aside #sidebar
 kahalenews.com###attachment_43256
 kahalenews.com###attachment_44092
 dhaka18.com###awaken_video_widget-4
-dinamina.lk,ilamai.com###banner
+dinamina.lk,ilamai.com,sitakundabarta.com###banner
 devbhoomidarshan17.com###banner-10
 bangalorewaves.com###bannerclassfd
 kusenews.com###belowflash
@@ -819,7 +819,7 @@ alertchhattisgarh.com##.elementor-element-37731bf
 himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
-khabardarinews.com##.elementor-widget-image
+khabardarinews.com,sitakundabarta.com##.elementor-widget-image
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 24webnews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
