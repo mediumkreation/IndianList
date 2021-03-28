@@ -149,6 +149,7 @@ suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 keralavisiontv.com###foot-ad-wrap
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
+chatganrbani.com###gallery-1
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
