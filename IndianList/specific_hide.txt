@@ -740,6 +740,7 @@ wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
 sudurpress.com##.block-inline-blockad-block
 nigranee.com##.block-wrapper ~ #webbank-ad-section
+dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in##.bn-lg
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 bbcpunjab.com##.bot-ads
