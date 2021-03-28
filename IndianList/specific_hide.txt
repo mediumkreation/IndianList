@@ -1121,6 +1121,7 @@ nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 ghatanarabichar.com##.post-entry header section.widget
 purvanchal24.com##.post-footer [trbidi]
+sonalibanglanews.com##.post-inner .code-block img
 mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
 shirurtaluka.com##.post-item-description p img
