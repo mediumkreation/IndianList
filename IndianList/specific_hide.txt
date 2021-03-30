@@ -1321,7 +1321,7 @@ cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
-anidda.lk,k24news.in,navpradesh.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+anidda.lk,k24news.in,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
@@ -1464,6 +1464,7 @@ newssunamganj.com##.wp-image-77
 dailyoporad.com##.wp-image-783
 odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
+newstodayjharkhand.com##.wp-post-author .code-block img
 nammabantwala.com##.wp-video
 vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
