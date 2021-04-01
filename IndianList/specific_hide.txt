@@ -180,6 +180,7 @@ newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
+newsuperbharat.com###main .widget_custom_html
 songbadpratidin.com###main .widget_media_image
 agrilife24.com###main-body .custom
 bd-pratidin.com###main-container
@@ -286,6 +287,7 @@ rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
 kathmandupati.com###myModal
 lankadeepa.lk###myModal1
+newsuperbharat.com###myVideo1
 thevoices.in###mycarousel-273
 ratopati.com###news-modal
 dailykhowai.com###news_portal_ads_banner-3
