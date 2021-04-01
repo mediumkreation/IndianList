@@ -733,6 +733,7 @@ onlinepana.com##.betn-add
 crimeexpressbd.com##.biggapon
 janatapati.com##.bigyaapan
 aayomail.com##.bigyaapan-box
+baahrakhari.com##.bigyaapan-item
 eadarsha.com,everestawaj.com,safalawaj.com,safalkhabar.com##.bigyapan
 janatapati.com##.bigyapan-box
 lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
@@ -890,7 +891,7 @@ uukmanews.com##.full-ad-wrp
 sansarnews.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 dcnepal.com##.full-banner
-khelpati.com##.full-bigyapan
+baahrakhari.com,khelpati.com##.full-bigyapan
 dineshkhabar.com##.fullSizeAdBnr
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
