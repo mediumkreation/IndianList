@@ -701,6 +701,7 @@ canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 hindustanvision.com##.avtg3
+dnewsnetwork.in##.awac img.image
 manabadi.co.in##.backg-g
 alokitoteknaf.com,aznewsbd24.com,banglanewstv.com,banglarkagoj.net,borendronews.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,ektibd.com,fenitribune.com,fulbarianews24.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,news24bd.net,newsbna.com,newspabna.com,rajshahinews24.com,satkhiratoday.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in##.banner
@@ -1084,7 +1085,7 @@ nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
 sansarnews.com##.news-style-six-ads
 prothomalo.com##.news_inner_spcl_ad
-biswabanglanews.com,mirrorlive24.com,nayabihar.com,upantaodisha.com##.news_portal_ads_banner
+biswabanglanews.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
@@ -1093,7 +1094,8 @@ nepalkhabar.com##.nk-sidebar-ads
 narayanionline.com##.no-premodal-md
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
-dailysharebazarprotidin.com,dainikayodhyatimes.in##.np-header-ads-area
+dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in##.np-header-ads-area
+dnewsnetwork.in##.np-home-bottom-section
 sathyamonline.com##.nsads
 shreekanchanpath.com,swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
@@ -1242,6 +1244,7 @@ cglivenews.co.in##.soliloquy-container
 kaumudiplus.com##.sp-ad-row
 alorkantho24.news##.spad
 ekuruvi.com##.span-2 a:only-child
+dnewsnetwork.in##.spcp-sidebar
 manoramaonline.com##.special-banner-block
 coxbangla.com##.special_featur
 kaumudiplus.com##.spnsrd-ad
