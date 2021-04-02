@@ -121,7 +121,7 @@ uluberiasambad.in###custom_html-14
 arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
-amritvarshanews.in,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
+amritvarshanews.in,buxaruptodate.com,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
@@ -379,7 +379,7 @@ shrinaradmedia.com###smartslider3-2
 techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
 lokaantar.com###stickyAdBottom
-pnews.co.in###stream-item-widget-1
+buxaruptodate.com,pnews.co.in###stream-item-widget-1
 navakeralanews.com,newstruthlive.com###stream-item-widget-12
 sangbadsafar.com###stream-item-widget-3
 nalandareporter.com###stream-item-widget-4
