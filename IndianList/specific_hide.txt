@@ -1490,6 +1490,7 @@ alamkikhabar.in,breakingtube.com##.wpb_video_widget
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
+ptcnews.tv##.wpb_wrapper aside.widget_media_image
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
