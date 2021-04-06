@@ -1315,6 +1315,7 @@ akkbd.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_im
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
+sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 newspage13.com##.td_block_image_box
 thebharatnews.net##.td_block_single_image
