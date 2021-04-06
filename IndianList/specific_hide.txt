@@ -925,6 +925,7 @@ ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
+jandarshannews.com##.header-nav-main.nav-right
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
 tv24live.com##.header-right-adv
 manoramaonline.com##.header-sponser-left
