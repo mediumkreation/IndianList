@@ -189,6 +189,7 @@ laxminews24x7.com,theexclusivestory.com###main-content .e3lan
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
 kathmandutoday.com###main_body
+abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
 samvadexpress.com###media_gallery-10
 jantabulletin.wordpress.com###media_gallery-2
