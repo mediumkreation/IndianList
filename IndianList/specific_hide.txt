@@ -1311,6 +1311,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
+dishadaily.com##.td-post-content .code-block
 nammabantwala.com##.td-post-content .td-a-rec
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
