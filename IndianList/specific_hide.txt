@@ -1002,6 +1002,7 @@ khabarhub.com##.khabarhub-inner-ads
 sabaikosamachar.com##.kp-header-logo--section .d-sm-block
 sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
+malayalamexpress.in##.kptcae-pubadban
 kannurnewsonline.com##.ktmjq
 lagatar.in##.lagat-between-content
 dhenkanalupdate.com##.laneqsopxy-loc-block-ad
@@ -1488,6 +1489,7 @@ delhicrimepressnews.com##.wpb_content_element img
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 keralatimes.com##.wpb_images_carousel
 sajagindia.com,sangbaddiganta.com##.wpb_raw_code
+malayalamexpress.in##.wpb_raw_code img
 alamkikhabar.in,farmsandfarmer24.com,munshiganjnews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 keralatimes.com##.wpb_single_image figure
