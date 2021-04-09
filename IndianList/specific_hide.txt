@@ -610,7 +610,7 @@ narayanionline.com##.add_middle
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 motivatenews.com.np##.addc img
-aznewsbd24.com,mediadabali.com,natunbazar24.com,shahnamabd.com##.addd
+aznewsbd24.com,mediadabali.com,natunbazar24.com,shahnamabd.com,songkalpo.net##.addd
 bangalorewaves.com##.addima
 khabarwaale.com,otvnepal.com,protikhon.com##.adds
 jubokantho.com##.adds-block
@@ -1235,6 +1235,7 @@ snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 banglanewstv.com##.single_details .widget_area
 somoyersangbad.com##.single_page > .widget_area
+songkalpo.net##.single_page_ad
 ayodhyasamachar.com##.singlepage center > embed
 janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
