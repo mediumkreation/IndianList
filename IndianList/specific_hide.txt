@@ -1024,6 +1024,7 @@ radionrn.com##.logo-adverimg
 vtv24x7.com##.logo-right-wrapper
 metrovaartha.com##.logoBgAd
 dhunkhabar.com##.logo__ads
+palikanews.com##.long-ad
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
