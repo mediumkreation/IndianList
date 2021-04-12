@@ -551,7 +551,7 @@ nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 farakdhar.com,ratopati.com##.adalyticsblock
 kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
-ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,aznewsbd24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,borendronews.com,coxsbazartimes.com,dailyshowadesherkhobor24.com,dailysports24.com,dokhinercrime.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,newsatfirst.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
+ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,aznewsbd24.com,bangla71news.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,borendronews.com,coxsbazartimes.com,dailyshowadesherkhobor24.com,dailysports24.com,dokhinercrime.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,newsatfirst.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
@@ -710,7 +710,7 @@ osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 hindustanvision.com##.avtg3
 dnewsnetwork.in##.awac img.image
 manabadi.co.in##.backg-g
-alokitoteknaf.com,aznewsbd24.com,banglanewstv.com,banglarkagoj.net,borendronews.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,ektibd.com,fenitribune.com,fulbarianews24.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,news24bd.net,newsbna.com,newspabna.com,rajshahinews24.com,satkhiratoday.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
+alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglanewstv.com,banglarkagoj.net,borendronews.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,ektibd.com,fenitribune.com,fulbarianews24.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,news24bd.net,newsbna.com,newspabna.com,rajshahinews24.com,satkhiratoday.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in##.banner
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
@@ -737,7 +737,7 @@ arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
 onlinepana.com##.betn-add
-crimeexpressbd.com##.biggapon
+bangla71news.com,crimeexpressbd.com##.biggapon
 janatapati.com##.bigyaapan
 aayomail.com##.bigyaapan-box
 baahrakhari.com##.bigyaapan-item
