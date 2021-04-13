@@ -194,7 +194,7 @@ kathmandutoday.com###main_body
 abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
 samvadexpress.com###media_gallery-10
-jantabulletin.wordpress.com###media_gallery-2
+bharatsarathi.com,jantabulletin.wordpress.com###media_gallery-2
 jalauntimessite.wordpress.com###media_gallery-28
 jantabulletin.wordpress.com###media_gallery-3
 pressbangla24.com,webreporter.co.in###media_gallery-4
@@ -231,6 +231,7 @@ mpnewscast.com,voiceofbihar.in###media_image-38
 berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
 voiceofbihar.in###media_image-41
 nationaltodaylive.com###media_image-42
+bharatsarathi.com###media_image-43
 amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,muldharpost.com,newsplus.lk,prothomshomoy.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 madhyabhoomikeboal.com,onlinepana.com###media_image-51
