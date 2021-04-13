@@ -58,6 +58,8 @@
 ||cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.dailyudaipur.com/wp-content/uploads/2019/06/web-design.jpg
 ||cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.dailyudaipur.com/wp-content/uploads/2019/08/dawat_restaurant-1.jpg
 ||cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.dailyudaipur.com/wp-content/uploads/2020/07/lic_add.jpeg
+||cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.thamilan.lk/wp-content/uploads/2020/06/19.jpg
+||cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.thamilan.lk/wp-content/uploads/2020/12/Blue-ocean.gif
 ||cdn.telugu.gulte.com/wp-content/uploads/2020/06/amaravati-v2.gif
 ||dainiki.com/wp-content/uploads/2020/10/MBL-GIF.gif
 ||enews.bd24report.com/wp-content/uploads/2020/06/safet-gps-01-03.png
