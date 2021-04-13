@@ -1756,6 +1756,7 @@ pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 tejastoday.com##div[id^="tdi_55_"]
 webreporter.co.in##div[id^="webre-"]
+voiceofmedia.lk##figure .prettyphoto
 dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
