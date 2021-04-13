@@ -289,7 +289,7 @@ just36news.com###myCarouse4
 himachalabhiabhi.com,ujyaaloonline.com###myCarousel
 rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
-kathmandupati.com###myModal
+bhilwarahalchal.com,kathmandupati.com###myModal
 lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
 thevoices.in###mycarousel-273
@@ -975,6 +975,7 @@ tips4blog.com##.hot_rwc_ads
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 thereport24.com##.idlc
+bhilwarahalchal.com##.image-post-slider
 samacharplus.com##.img-add
 neervely.ca##.img-ads > li > img
 rosemalayalam.com##.img_1_logo
@@ -1078,7 +1079,7 @@ bigtvnews.com,merabharatnews.com,ptbnews.in,sharpbharat.com,smacharaajtak.com##.
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
-kathmandupati.com##.modal-backdrop
+bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,newswings.online,pclive7.com##.mom-e3lanat
