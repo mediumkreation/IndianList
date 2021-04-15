@@ -1256,6 +1256,7 @@ ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
 sancharkendra.com##.skada
 sancharkendra.com##.skadd
+onlinedabali.com##.skpa
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
@@ -1307,6 +1308,7 @@ voiceofjhabua.com##.stream-title
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 adhunikdaur.com##.tab_265top_left
+onlinedabali.com##.tadd
 otvnepal.com##.taja-adds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
