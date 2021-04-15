@@ -779,6 +779,7 @@ chandrikadaily.qa##.chand-widget
 tamilmithran.com##.cine_ad
 madhyamam.com##.clock-container
 tamil.oneindia.com##.cmscontent-top
+livetvkerala.com##.cntarea img
 gujaratexclusive.in,lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code-block
 samajbad.tv##.code-block > img
 media24news.in##.code-block img
