@@ -104,6 +104,7 @@ amankishaan.news###bxnzmefcd-3
 nzpunjabinews.com###carouselExampleControls
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
+focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
 legalvoice24.com###content > .widget_text
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
