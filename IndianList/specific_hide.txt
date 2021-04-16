@@ -1417,6 +1417,7 @@ netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
 amaderkhulna.net,netmalayalam.com##.vc_slide
+odishasambad.in##.vc_widget_sidebar aside.widget_media_image
 krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
