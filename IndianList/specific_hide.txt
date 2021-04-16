@@ -764,6 +764,7 @@ bn24live.in##.bn-lg
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 bbcpunjab.com##.bot-ads
 nagariknetwork.com##.box-news-ad
+yugabdha.com##.box-sec-bg .slider
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
