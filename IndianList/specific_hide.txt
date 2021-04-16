@@ -795,6 +795,7 @@ tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
+odishareporter.in##.colombia
 3pm.in,janprahar.com,kathir.news,manoranjannama.com##.colombiatracked
 sajhapost.com##.commercial-add
 samayapost.com##.cont_break_ads
