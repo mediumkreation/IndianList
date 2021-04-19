@@ -362,7 +362,7 @@ readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
-newindiatimes.news,trustnews24.com###sidebar-right .widget_media_image
+newindiatimes.news,prameyanews7.com,trustnews24.com###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
