@@ -333,7 +333,7 @@ beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 aajkakanpur.com,jogiexpress.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 nagarikbahas.com###secondary .widget_sp_image
-charchitbihar.com###secondary aside.widget_media_image
+charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
 charchitbihar.com,uttarakhandkesari.in###secondary section.widget_media_image
 doabatimes.com###secondary-right
