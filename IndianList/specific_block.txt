@@ -1320,6 +1320,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||eyewitnessnewsindia.com/wp-content/themes/nextline_v3.1/images/Spangles-Added1.jpg
 ||fastnewsbd.com/images/parasut.jpg
 ||fastnewsindia.co/Ad/96525.jpg
+||fastnewsnetwork.in/wp-content/uploads/2021/03/Jindal-Panther.jpg
 ||fbcdn.net^$third-party,domain=malayalammedia.one
 ||fbs.com$third-party,domain=tamilleader.com
 ||feedify.net^$third-party,domain=ajabgjab.com
