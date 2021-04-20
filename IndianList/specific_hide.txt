@@ -1819,6 +1819,7 @@ prasashan.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
+youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
 britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
