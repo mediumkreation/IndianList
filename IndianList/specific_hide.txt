@@ -580,7 +580,7 @@ sharebarta.com##.add-imgae
 janaboli.com,khabar247.com,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
 u71news.com##.add-left
 dailysabuj.com##.add-longhead
-bnewskolhapur.com##.add-place
+bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
 thebengalitimes.com##.add-sec
 malisamajsocial.com,nagariknetwork.com,thebengalitimes.com##.add-section
