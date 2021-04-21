@@ -529,6 +529,7 @@ keralakaumudi.com##.a-728-90
 gujarattimesusa.com,rajdhanidaily.com##.a-single
 business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
+abbiharnews.com##.abbih-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
 ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
@@ -855,7 +856,7 @@ khabardarinews.com,sitakundabarta.com##.elementor-widget-image
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 24webnews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
-keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
+abbiharnews.com,keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 metrovaartha.com##.embed-responsive-16by9
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
@@ -864,9 +865,11 @@ bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 prabhatvaibhav.com##.entry-content > div > img
+abbiharnews.com##.entry-content > figure.wp-block-image
 emaatimes.com,jangathatimes.com##.entry-content > p img
 duniyasamachar.com##.entry-content a img
 channelrb.com##.entry-content figure img[width="600"]
+abbiharnews.com##.entry-content figure.is-resized
 kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 dainiknayak.com,khabardekho.com,newsportals.in##.entry-content img
