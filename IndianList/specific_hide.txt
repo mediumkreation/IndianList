@@ -1255,6 +1255,7 @@ beanibazarnews24.com##.single-news-widget > img.size-full
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 sansarnews.com##.single-sidebar-ads
+sawalnepal.com##.single-up img
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
