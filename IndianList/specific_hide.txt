@@ -1326,7 +1326,7 @@ onlinedabali.com##.tadd
 otvnepal.com##.taja-adds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
-ajkerarban.com,aloron71.com,anmnews.in,avadhtimes.net,bdindianews.in,bilaspurlive.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,ekattorer-kotha.com,goodmorningnews.in,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,innuonline.com,karavaldaily.com,khabarexclusive24.com,kholabarta24.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,moviemirchi24.com,muhimmathonline.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,samayviews.com,sansanikhejsamachar.in,saurashtrakranti.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,thestellarnews.com,touringtalkies.co,trendingnewshindi.live,vidarbhaapla.com,youthmukam.com##.td-a-rec
+ajkerarban.com,aloron71.com,anmnews.in,avadhtimes.net,bdindianews.in,bilaspurlive.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,ekattorer-kotha.com,goodmorningnews.in,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,innuonline.com,karavaldaily.com,khabarexclusive24.com,kholabarta24.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,moviemirchi24.com,muhimmathonline.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,sachkitop.com,samayviews.com,sansanikhejsamachar.in,saurashtrakranti.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,thestellarnews.com,touringtalkies.co,trendingnewshindi.live,vidarbhaapla.com,youthmukam.com##.td-a-rec
 bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 dewanganjnews.com,khulnatimes.com,siwanonline.com##.td-a-rec-id-content_inline
@@ -1347,8 +1347,10 @@ ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
 dishadaily.com##.td-post-content .code-block
 nammabantwala.com##.td-post-content .td-a-rec
+sachkitop.com##.td-post-content figure img
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
+sachkitop.com##.td-post-content p img
 haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
 akkbd.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_image
@@ -1730,7 +1732,7 @@ sangbadsarabela.com##aside.sangb-widget
 24timestoday.com##aside.sidebar > div:not(.related_posts)
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
-coxsbazarshomoy.com##aside.widget_custom_html
+coxsbazarshomoy.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
 buxaruptodate.com,canamnews.com,cumillarbarta.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
