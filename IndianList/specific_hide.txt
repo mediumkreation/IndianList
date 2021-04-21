@@ -494,7 +494,7 @@ pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
 breakingaajtaknews.com###widget-sidebar-0
 tv24live.com###widget-sidebar-1
-breakingaajtaknews.com###widget-sidebar-3
+breakingaajtaknews.com,hakikatnews.com###widget-sidebar-3
 kewalsachtimes.com###widget_sp_image-10
 kewalsachtimes.com###widget_sp_image-11
 himalayonlinemedia.com###widget_sp_image-12
