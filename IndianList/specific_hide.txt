@@ -1318,6 +1318,7 @@ jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.str
 keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca,thetadkanews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
+youthmukam.com##.su-image-carousel
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 adhunikdaur.com##.tab_265top_left
@@ -1325,7 +1326,7 @@ onlinedabali.com##.tadd
 otvnepal.com##.taja-adds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
-ajkerarban.com,aloron71.com,anmnews.in,avadhtimes.net,bdindianews.in,bilaspurlive.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,ekattorer-kotha.com,goodmorningnews.in,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,innuonline.com,karavaldaily.com,khabarexclusive24.com,kholabarta24.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,moviemirchi24.com,muhimmathonline.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,samayviews.com,sansanikhejsamachar.in,saurashtrakranti.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,thestellarnews.com,touringtalkies.co,trendingnewshindi.live,vidarbhaapla.com##.td-a-rec
+ajkerarban.com,aloron71.com,anmnews.in,avadhtimes.net,bdindianews.in,bilaspurlive.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,ekattorer-kotha.com,goodmorningnews.in,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,innuonline.com,karavaldaily.com,khabarexclusive24.com,kholabarta24.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,moviemirchi24.com,muhimmathonline.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,samayviews.com,sansanikhejsamachar.in,saurashtrakranti.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,thestellarnews.com,touringtalkies.co,trendingnewshindi.live,vidarbhaapla.com,youthmukam.com##.td-a-rec
 bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 dewanganjnews.com,khulnatimes.com,siwanonline.com##.td-a-rec-id-content_inline
@@ -1775,6 +1776,7 @@ news24bd.net##div[id^="news2-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
+youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
 webreporter.co.in##div[id^="webre-"]
 voiceofmedia.lk##figure .prettyphoto
