@@ -662,6 +662,7 @@ janadeshexpress.in##.ads_top_disp
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
+chakrapath.com##.adspace
 onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
