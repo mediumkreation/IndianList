@@ -1305,7 +1305,7 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
-cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
+cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com##.stream-item
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
@@ -1376,7 +1376,7 @@ cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
-anidda.lk,k24news.in,nandighoshatv.com,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+anidda.lk,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
