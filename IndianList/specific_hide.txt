@@ -1357,6 +1357,7 @@ sachkitop.com##.td-post-content p img
 haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
 akkbd.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_image
+krantimission.com##.td-ss-main-sidebar .widget_media_video
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
