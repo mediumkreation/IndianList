@@ -737,7 +737,7 @@ creativenewsexpress.com##.banner-ad-top-single
 kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
 bholarbani.com,newsportals.in##.banner-img
-ambalacoverage.com,biharnewstv.in,cibindianews.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,navpradesh.com,odiabarta.in,pularvu.com,shaktialmora.com,sorejomin.com,thefactshala.in,vishwakarmakiran.com##.banner-promotions-wrapper
+ambalacoverage.com,biharnewstv.in,cibindianews.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,livekhabar.com,navpradesh.com,odiabarta.in,pularvu.com,shaktialmora.com,sorejomin.com,thefactshala.in,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
