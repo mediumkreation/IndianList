@@ -209,8 +209,8 @@ canvasmagazine.com.bd,news127.com,samnanews.com,scgnews.in###media_image-11
 samrudhaodisha.com###media_image-115
 jansaamna.com,samnanews.com###media_image-12
 aryavartposts.com,dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
-aryavartposts.com,jansaamna.com,mirrortoday.in,odishatime.com###media_image-14
-anewsoffice.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
+aryavartposts.com,hindvatannews.com,jansaamna.com,mirrortoday.in,odishatime.com###media_image-14
+anewsoffice.com,hindvatannews.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
@@ -406,7 +406,7 @@ ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
-dailypunjabtimes.com,swadeshbani.com,trttamilolli.com###text-15
+dailypunjabtimes.com,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
 kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,sambadsaradin.com###text-18
