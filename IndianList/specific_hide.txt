@@ -1734,6 +1734,7 @@ dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 haldwanilive.com##aside > .textwidget
+bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
