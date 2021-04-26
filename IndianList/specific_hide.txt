@@ -287,7 +287,7 @@ biharpatrika.in###metaslider_7731
 abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
 24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
 mahekasansar.com,npg.news###metaslider_widget-4
-digitalnewslive.com###metaslider_widget-5
+digitalnewslive.com,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 tharunaya.us###module_03_ads300x250
 cinemapettai.com,lankac.news###mvp-leader-wrap
@@ -367,6 +367,7 @@ readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
+npg.news###sidebar-primary-sidebar .widget_media_image
 newindiatimes.news,prameyanews7.com,trustnews24.com###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
@@ -1100,7 +1101,7 @@ upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 pradeshdainik.com##.min-global-adv
-bigtvnews.com,merabharatnews.com,ptbnews.in,sharpbharat.com,smacharaajtak.com##.ml-slider
+bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,sharpbharat.com,smacharaajtak.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
