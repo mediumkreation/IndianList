@@ -1089,6 +1089,7 @@ bankingkhabar.com##.meroads
 lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
+newsdeskkannada.com##.mid-adv .row
 ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
