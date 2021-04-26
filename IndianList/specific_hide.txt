@@ -374,6 +374,7 @@ madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
 pradeepamonline.com###sidebar1
+kulalaworld.com###simpleimage-13
 muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
 currentkhabar.com###sitebox-ad125-3
@@ -1418,6 +1419,7 @@ bankbimaarthonity.com,biniyougbarta.com,doshdik.com##.top_add
 samacharplus.com##.top_advertize
 nrimalayalee.com##.top_most_news_post_ad
 gujarattimesusa.com,vijaykarnatakaepaper.com##.topad
+kulalaworld.com##.topadd
 bdkhobor24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyougbarta.com##.topadmid
 dhakatoday.com##.topadr
