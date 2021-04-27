@@ -320,6 +320,7 @@ jagprerna.com###post-7708
 upayuktha.com###primary .nivoSlider
 alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
+koshionline.com###primary section.widget_media_image
 industryhit.com###pum-15632
 nirapadnews.com###quads-adad11_widget
 goodnewsbharat.com###recent-post-slider-1
@@ -550,7 +551,7 @@ vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
-nepalsandesh.com##.ad-sec
+koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec > .widget_media_image
 alarmindia.in##.ad-slide
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
