@@ -761,8 +761,8 @@ filmykhabar.com##.belowslideshow
 onlinepana.com##.betn-add
 bangla71news.com,crimeexpressbd.com##.biggapon
 janatapati.com##.bigyaapan
-aayomail.com##.bigyaapan-box
-baahrakhari.com##.bigyaapan-item
+aayomail.com,himalkhabar.com##.bigyaapan-box
+baahrakhari.com,himalkhabar.com##.bigyaapan-item
 eadarsha.com,everestawaj.com,safalawaj.com,safalkhabar.com##.bigyapan
 janatapati.com##.bigyapan-box
 lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
