@@ -1864,6 +1864,7 @@ sbharatnews.com##section.widget_media_gallery
 britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
+dainiklivenews24.com##section.widget_text:not(#text-2)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 muznews.online##section[data-id="9a0f91e"]
 chennaitodaynews.com##section[id^="id"]
