@@ -579,6 +579,7 @@ dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoyb
 gnewsbd24.com##.add iframe
 alokitoshitalakha.com,bonggonews.com,crimebd.com,doiniksokalerbarta24.com,faridpursamachar.com,gangnirchokh.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com##.add img
 protisomoy.com##.add img.image
+dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
 newsatfirst.com,samadhannews.com##.add-banner
 samadhannews.com##.add-banner-s
