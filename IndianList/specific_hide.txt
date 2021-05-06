@@ -126,7 +126,7 @@ uluberiasambad.in###custom_html-14
 arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 ggsnews24.com###custom_html-19
-amritvarshanews.in,buxaruptodate.com,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
+amritvarshanews.in,buxaruptodate.com,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
@@ -1142,7 +1142,7 @@ sudinamonline.com##.news-addheight
 gorkhapatraonline.com##.news-inline-add
 sansarnews.com##.news-style-six-ads
 prothomalo.com##.news_inner_spcl_ad
-atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
