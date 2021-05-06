@@ -262,7 +262,7 @@ derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 dubaivartha.com,globalnews24x7.com,hpnewsatl.com###media_video-2
-thesunrisetoday.com###media_video-3
+apnades.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org###media_video-4
 madhyabhoomikeboal.com,samnanews.com###media_video-5
 democratictvnews.com###media_video-6
@@ -421,8 +421,8 @@ gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
 thepublicworld.com,tnilive.com###text-23
-achhisoch.com,tnilive.com,trttamilolli.com###text-24
-aapkisafalta.com,achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
+achhisoch.com,apnades.in,tnilive.com,trttamilolli.com###text-24
+aapkisafalta.com,achhisoch.com,apnades.in,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,gvtjob.com###text-29
 aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
