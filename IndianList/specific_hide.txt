@@ -1482,7 +1482,7 @@ vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
-koshionline.com,pradeshdainik.com##.widget_advertisement-bar
+hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
@@ -1583,6 +1583,7 @@ kendrabindu.com##[class*="_coffee"]
 dinakaran.com##[class*="boxad"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
+hamromat.com##[class^="sgpb-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 kositimes.com##[data-adid] > p
 kositimes.com##[data-adid] img
