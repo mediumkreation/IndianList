@@ -552,7 +552,7 @@ vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
-emalayalee.com##.ad-on-header
+emalayalee.com,pravasi.com##.ad-on-header
 koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec > .widget_media_image
 alarmindia.in##.ad-slide
