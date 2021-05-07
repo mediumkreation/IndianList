@@ -1062,7 +1062,7 @@ nepaldubai.com##.logo-ads
 nepaldubai.com##.logo-ads-header
 nepaldubai.com##.logo-ads-singlepage
 radionrn.com##.logo-adverimg
-vtv24x7.com##.logo-right-wrapper
+bcsuddi.com,vtv24x7.com##.logo-right-wrapper
 metrovaartha.com##.logoBgAd
 dhunkhabar.com##.logo__ads
 palikanews.com##.long-ad
