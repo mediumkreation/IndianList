@@ -1339,7 +1339,7 @@ bankalive.net##.stream-item-inline-post
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
-keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca,thetadkanews.com##.stream-item-widget
+keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
 youthmukam.com##.su-image-carousel
