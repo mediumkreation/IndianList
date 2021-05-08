@@ -1248,6 +1248,7 @@ onlinekhabar.com##.side__add
 motivatenews.com.np,sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
 urjanchaltiger.in##.sideads-sec
+pokharasports.com##.sidebar .stream-item-widget
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
@@ -1326,7 +1327,7 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
-cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com##.stream-item
+cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com##.stream-item
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
