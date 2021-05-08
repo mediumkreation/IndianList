@@ -609,6 +609,7 @@ dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 sangbad-gallery.com##.addAd
 bharatkiawaj24.com##.addBox
+newspagebd.com##.addMidle
 dainikpurbokone.net##.addVertise
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
@@ -1833,6 +1834,7 @@ onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
 dcnewsbd.com,news24bite.com##img[alt="Advertisement"]
 protidinerchitrobd.com##img[alt="Bex Bazar"]
+newspagebd.com##img[alt="Biggapon"]
 onlinemarg.com##img[alt="Header Ad"]
 farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 dhakareport24.com,khabarwaale.com##img[alt="add"]
