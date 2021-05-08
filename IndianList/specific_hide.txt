@@ -316,6 +316,7 @@ muznews.net###panel-38-0-1-1
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 kusenews.com###pgc-7-1-1
+dineshkhabar.com###popBlkAd
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 upayuktha.com###primary .nivoSlider
@@ -1466,6 +1467,7 @@ krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
+dineshkhabar.com##.view-advertisement
 just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 muznews.net##.vmagazine-lite-medium-rectangle-ad
