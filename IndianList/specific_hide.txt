@@ -394,6 +394,7 @@ padmatimes24.com###small-news
 shrinaradmedia.com###smartslider3-2
 shasakprashasak.com###sp-user2
 techtamil.com###sp_widget_post_slider-2
+khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
 lokaantar.com###stickyAdBottom
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
@@ -1043,6 +1044,7 @@ karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
 keralaonlinenews.com##.keral-widget
 khabarhub.com##.khabarhub-inner-ads
+khulasanewslive.in##.khulasanewslivewidget
 sabaikosamachar.com##.kp-header-logo--section .d-sm-block
 sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
@@ -1289,6 +1291,7 @@ banglanewstv.com##.single_details .widget_area
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 ayodhyasamachar.com##.singlepage center > embed
+khulasanewslive.in##.site-footer .featured-stories
 janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
