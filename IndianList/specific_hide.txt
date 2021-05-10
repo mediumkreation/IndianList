@@ -829,7 +829,7 @@ bikashnews.com##.containerhome a[target="_blank"] img:only-child
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
-dthreeonline.com,nagarikbahas.com##.content-middle-ads
+dthreeonline.com,googlepokhara.com,nagarikbahas.com##.content-middle-ads
 thecgnews.com##.content-wrap .e3lan-post
 bhilwarasamwad.com##.content_top:first-child .latest_slider
 pratyeknewslive.com##.counter--section
@@ -1293,7 +1293,7 @@ somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 ayodhyasamachar.com##.singlepage center > embed
 khulasanewslive.in##.site-footer .featured-stories
-janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
+googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
