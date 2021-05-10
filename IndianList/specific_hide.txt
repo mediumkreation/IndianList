@@ -1085,6 +1085,7 @@ hkgnews247.com##.main-and-sidebar .Image
 ajbangla.com##.main-banner
 policevarthe.com##.main-bg .carousel
 punjabiakhbaar.ca##.main-content .stream-item
+subhechhanews.com##.main-headera .advertise
 samudrapari.com##.main-news-ads
 bastarkiaawaz.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
