@@ -705,6 +705,7 @@ narayanionline.com##.advertiesment-main > a:only-child
 bikashnews.com,gorkhalikhabar.com##.advertise
 livestorytime.com##.advertise-area
 nobat.com##.advertise-ifrme
+pokharaexpress.com##.advertise-sec-header
 bonikbarta.net##.advertise_space2
 bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
 kanchanjanghaonline.com##.advertisement img
@@ -1878,7 +1879,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
 dainiklivenews24.com##section.widget_text:not(#text-2)
