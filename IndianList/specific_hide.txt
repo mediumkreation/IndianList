@@ -652,6 +652,7 @@ gandakitimes.com##.adds_taja img
 ntnews.com##.addsn
 avikaluttarakhand.com##.addtoany_content_bottom ~ div img
 snn24.com##.addtop_header
+jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 agrinewsnetwork.in##.ader_ads
 udayavani.com##.adliadworld
