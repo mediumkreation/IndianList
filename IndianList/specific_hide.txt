@@ -707,7 +707,7 @@ livestorytime.com##.advertise-area
 nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 bonikbarta.net##.advertise_space2
-bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
+bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
@@ -1776,7 +1776,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 coxsbazarshomoy.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,nepalawaj.com,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 nammabantwala.com##aside.widget_media_video
