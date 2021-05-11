@@ -986,7 +986,7 @@ updatenews360.com##.header_ads_slide
 newstaglive.com##.header_adver
 natunjug.com##.header_biggapon
 univarta.com##.header_bottom_ad
-bhilwarasamwad.com##.header_bottom_right
+bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
 fenirkotha.com,natuncumilla.com##.header_date_sidebar
 banglanewsca.com##.header_top_ad_area_2
 fenirkotha.com##.header_top_banner
@@ -1293,6 +1293,7 @@ ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 banglanewstv.com##.single_details .widget_area
+nagarprabha.org##.single_featured_slide
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 ayodhyasamachar.com##.singlepage center > embed
