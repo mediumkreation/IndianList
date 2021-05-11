@@ -285,7 +285,7 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
+abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in,samacharsach.com###metaslider_widget-2
 24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
 mahekasansar.com,npg.news###metaslider_widget-4
 digitalnewslive.com,npg.news###metaslider_widget-5
@@ -1121,7 +1121,7 @@ upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 pradeshdainik.com##.min-global-adv
-bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,sharpbharat.com,smacharaajtak.com##.ml-slider
+bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -1808,6 +1808,7 @@ amader-protidin.com##div[class^="customaddBox"]
 deshajtimes.com,deshantor.com##div[class^="desha-"]
 patnapost.com##div[class^="newsf-content"]
 patnapost.com##div[class^="patna-"]
+samacharsach.com##div[class^="samac-"]
 suddione.com##div[class^="suddi-after-content_"]
 akashjatra.com,gandaknews.com,justaction.in,makalukhabar.com,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
