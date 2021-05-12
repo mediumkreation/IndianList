@@ -414,11 +414,11 @@ moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 dailypunjabtimes.com,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
-kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
+fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
-anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,priyochandpur.com,punjabimaaboli.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,jagprerna.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,priyochandpur.com,punjabimaaboli.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p ~ p
 gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
@@ -427,11 +427,11 @@ thepublicworld.com,tnilive.com###text-23
 achhisoch.com,apnades.in,tnilive.com,trttamilolli.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
-anaicoddai.com,gvtjob.com###text-29
+anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
 aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com###text-30
-e-jaffna.com,satyamlive.com,trttamilolli.com###text-31
+e-jaffna.com,fatehnagarnews.com,satyamlive.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
 satyamlive.com###text-33
 satyamlive.com###text-35
