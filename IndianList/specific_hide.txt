@@ -1832,6 +1832,7 @@ tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
 webreporter.co.in##div[id^="webre-"]
+khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 voiceofmedia.lk##figure .prettyphoto
 dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
