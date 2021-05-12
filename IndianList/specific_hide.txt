@@ -641,7 +641,7 @@ bslnews24.com##.add_pad_bottom
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 motivatenews.com.np##.addc img
-aznewsbd24.com,mediadabali.com,natunbazar24.com,shahnamabd.com,songkalpo.net,uttorersomoy.com##.addd
+aznewsbd24.com,dailyjuboraj.com,mediadabali.com,natunbazar24.com,shahnamabd.com,songkalpo.net,uttorersomoy.com##.addd
 bangalorewaves.com##.addima
 khabarwaale.com,otvnepal.com,protikhon.com##.adds
 jubokantho.com##.adds-block
@@ -1260,6 +1260,7 @@ onlinekhabar.com##.side__add
 motivatenews.com.np,sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
 urjanchaltiger.in##.sideads-sec
+dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 pokharasports.com##.sidebar .stream-item-widget
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
