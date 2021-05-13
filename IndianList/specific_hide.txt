@@ -137,7 +137,7 @@ news127.com,newshaat.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-bdcrictime.com,jagprerna.com,muznews.net,newsganj.com,pradhanavartha.in,techtamil.com###custom_html-5
+bdcrictime.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,pradhanavartha.in,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 newschutney.com,sanskardarshan.in###custom_html-6
@@ -1287,6 +1287,7 @@ channelcox.com##.single-ditails + .add .widget_area
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
+ktmdainik.com##.single-post aside.widget_media_image
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 sansarnews.com##.single-sidebar-ads
