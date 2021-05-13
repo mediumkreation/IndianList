@@ -1583,6 +1583,7 @@ keralatimes.com##.wpb_single_image figure
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 alamkikhabar.in,breakingtube.com##.wpb_video_widget
+pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
