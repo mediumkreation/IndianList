@@ -1382,6 +1382,7 @@ politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
+thebharatnews.net##.td-footer-wrapper aside.widget_text img
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
