@@ -1378,7 +1378,7 @@ amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshah
 aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,khabarliveindia.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
-loksansar.in##.td-adspot-title + a
+loksansar.in,pathramonline.com##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
