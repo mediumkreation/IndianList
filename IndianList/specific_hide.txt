@@ -1231,6 +1231,7 @@ deshprotikhon.com##.rishtside_img
 bizmandu.com##.roadblock
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
+amarbarishal24.com##.row + .single_side_bar
 sathyamonline.com##.sAds
 theindianstate.in##.sb-banner
 nepalsamaya.com##.sb-bigyaapan
