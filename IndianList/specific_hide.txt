@@ -679,7 +679,7 @@ janadeshexpress.in##.ads_top_disp
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
-chakrapath.com##.adspace
+chakrapath.com,zoombangla.com##.adspace
 onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
@@ -796,6 +796,7 @@ ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
+zoombangla.com##.bsac-link
 everestdainik.com##.bstyle-list ~ .post
 kaimurlive.com##.bwg_container
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
