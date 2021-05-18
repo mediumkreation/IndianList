@@ -119,6 +119,7 @@
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
+@@||enewsmp.com/uploaded_files/banner_img/enewsmp.com5f181c1882f7434.jpeg
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||hindikhabarwaala.com/uploads/blocks/block_60158bda70d87.jpg
 @@||hollywoodkhabar.com/UserUploads/bigyapan/US_Immigration_LOGO.jpg
@@ -1309,6 +1310,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||enepalese.com^*/unnamed-1.png
 ||enepalese.com^*/zen.gif
 ||enews.bd24report.com/wp-content/uploads/2020/06/safet-gps-01-04-1-1.png
+||enewsmp.com/uploaded_files/banner_img/
 ||enkalthesam.com/wp-content/uploads/images-10-200x113.jpg
 ||enkalthesam.com/wp-content/uploads/yarlmann-300x100-update1.jpg
 ||epathram.com^*/clubpenguin.jpg
