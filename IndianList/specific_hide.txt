@@ -1320,7 +1320,7 @@ jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
-bhilwarahalchal.com##.slider2
+bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 rewanewsmedia.com##.slideshow-container
