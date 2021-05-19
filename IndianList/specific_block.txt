@@ -413,7 +413,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||aswamedham.com/uploads/cms_images/kccna
 ||aswamedham.com^*/flowersadvt.gif
 ||atalstambh.com/wsdata/wwwatalstambhcom/news/202103/atal.jpg
-||atharvnews.com/wp-content/uploads/2020/09/jetsor-300x155.jpg
+||atharvnews.com^*/jetsor
 ||athirvu.in^*/Bigg-Boss-Tamil-3-2019-1.png
 ||athirvu.in^*/tamiljournal.jpg
 ||avadh24.in/mynewsadmin/img/add/
