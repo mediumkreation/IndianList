@@ -1131,7 +1131,7 @@ upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 pradeshdainik.com##.min-global-adv
-bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com##.ml-slider
+bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -1392,6 +1392,7 @@ techvision24.com##.td-fix-index
 24ghonta.news##.td-fix-index img
 news1today.in##.td-fix-index img:only-child
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
+ujjwalhimachal.com##.td-g-rec
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
