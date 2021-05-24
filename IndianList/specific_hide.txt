@@ -1436,6 +1436,7 @@ tedmnews.com##.technology-section-ads
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 indiavisionmedia.com##.thd
+gujjujankari.in##.the_content > div[class^="gujju-content"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
