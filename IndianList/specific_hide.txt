@@ -141,7 +141,7 @@ bdcrictime.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,pradhanavart
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 newschutney.com,sanskardarshan.in###custom_html-6
-barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com###custom_html-7
+barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com,onlinenepal.com###custom_html-7
 mynews36.com,pradhanavartha.in###custom_html-8
 aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
@@ -1817,6 +1817,7 @@ coxsbazarshomoy.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
 buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,nepalawaj.com,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
+onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 nammabantwala.com##aside.widget_media_video
 brajpatrika.com##aside.widget_metaslider_widget
