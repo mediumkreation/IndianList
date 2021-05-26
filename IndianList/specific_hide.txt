@@ -1635,7 +1635,7 @@ beanibazarnews24.com##[class^="add-"]
 hamromat.com##[class^="sgpb-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 kositimes.com##[data-adid] > p
-kositimes.com##[data-adid] img
+ctgpratidin.com,kositimes.com##[data-adid] img
 garjachhattisgarhnews.com##[data-box_nu="wb7"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
