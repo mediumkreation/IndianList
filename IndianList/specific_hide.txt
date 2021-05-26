@@ -346,7 +346,7 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
-aajkakanpur.com,aapkachannelnews.co.in,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,ideaciti.com,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 nagarikbahas.com###secondary .widget_sp_image
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
@@ -831,6 +831,7 @@ samajbad.tv##.code-block > img
 media24news.in##.code-block img
 newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
+ideaciti.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
