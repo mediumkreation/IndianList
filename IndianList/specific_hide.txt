@@ -568,6 +568,7 @@ emalayalee.com,pravasi.com##.ad-on-header
 koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec > .widget_media_image
 alarmindia.in##.ad-slide
+news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
