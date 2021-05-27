@@ -2874,6 +2874,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||odhikar.news/templates/adhikar-v1/images/jachai_video.mp4
 ||odhikar.news/templates/adhikar-v1/images/Joy-bd.png
 ||odhikar.news/templates/adhikar-v1/images/market24.jpg
+||odhikar.news/templates/adhikar-v1/images/Newspaper-Banner-
 ||odhikar.news/templates/adhikar-v1/images/Niet-Desktop.gif
 ||odhikar.news/templates/adhikar-v1/images/Sonargao.png
 ||odhikar.news^*/nift$image
