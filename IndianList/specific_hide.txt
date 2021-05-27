@@ -114,8 +114,8 @@ avikaluttarakhand.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 haryananewsexpress.com###covernews_posts_carousel-7
 valampurii.lk###custom-ads-2
-jaunpur24.com,thesunrisetoday.com###custom_html-10
-satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
+dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
+dvgsuddi.com,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
@@ -137,10 +137,10 @@ news127.com,newshaat.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-bdcrictime.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,pradhanavartha.in,techtamil.com###custom_html-5
+bdcrictime.com,dvgsuddi.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,pradhanavartha.in,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
-newschutney.com,sanskardarshan.in###custom_html-6
+dvgsuddi.com,newschutney.com,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com,onlinenepal.com###custom_html-7
 mynews36.com,pradhanavartha.in###custom_html-8
 aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
