@@ -1206,6 +1206,7 @@ breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.co
 startalkbd.com##.penci_single_ad_after_content
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
+tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
 bonikbarta.net##.popupCloseButton
 abnews24.com,rtvonline.com##.popup_blackoverlay
