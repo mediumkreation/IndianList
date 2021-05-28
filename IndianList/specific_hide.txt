@@ -380,7 +380,7 @@ rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 npg.news###sidebar-primary-sidebar .widget_media_image
-newindiatimes.news,prameyanews7.com,trustnews24.com###sidebar-right .widget_media_image
+chirantannews.in,newindiatimes.news,prameyanews7.com,trustnews24.com###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
@@ -424,15 +424,15 @@ anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhag
 dailypunjabtimes.com,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
 fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
-achhisoch.com,banglarkonthosor.com,sambadsaradin.com###text-18
+achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
 anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,jagprerna.com,joyparajoy.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,priyochandpur.com,punjabimaaboli.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p ~ p
-gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
+chirantannews.in,gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
 thepublicworld.com,tnilive.com###text-23
-achhisoch.com,apnades.in,tnilive.com,trttamilolli.com###text-24
+achhisoch.com,apnades.in,chirantannews.in,tnilive.com,trttamilolli.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
