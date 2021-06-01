@@ -893,6 +893,7 @@ himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 khabardarinews.com,sitakundabarta.com##.elementor-widget-image
+namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 24webnews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
