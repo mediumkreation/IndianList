@@ -1427,6 +1427,7 @@ sachkitop.com##.td-post-content p img
 haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
+newsofmithila.in##.td-ss-main-sidebar .widget_custom_html
 akkbd.com,brajeshkibaat.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_image
 krantimission.com##.td-ss-main-sidebar .widget_media_video
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
