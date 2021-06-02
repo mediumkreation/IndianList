@@ -696,7 +696,7 @@ arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
-orthosongbad.com##.adv-img
+orthosongbad.com,sonalinews.com##.adv-img
 drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
