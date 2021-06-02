@@ -1348,6 +1348,7 @@ digitalnewslive.com##.slider_3
 rewanewsmedia.com##.slideshow-container
 mediadabali.com##.sm-ads
 reportersnepal.com##.small-arthik-widget
+agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
 nittaa.com##.smashwords-widget
 dinajpurnews24.com##.software
@@ -1696,6 +1697,7 @@ ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
 ambalanews24.com##a[href*="daraz.com.bd"]
 loksangbad.com##a[href*="deshihost.com"]
+agaminews.com##a[href*="drneem.com"]
 uttranews.com##a[href*="edu_ministrial"]
 eelamalar.com##a[href*="eelamhomeland.com"]
 eelamalar.com##a[href*="eelamview.com"]
