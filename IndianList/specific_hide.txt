@@ -1292,7 +1292,7 @@ dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 pokharasports.com##.sidebar .stream-item-widget
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
-aviralsamachar.com##.sidebar .widget_media_image
+aviralsamachar.com,newsnow24.com##.sidebar .widget_media_image
 chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
@@ -1510,6 +1510,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
+newsnow24.com##.vc_single_image-wrapper[rel="noopener"] .attachment-full
 amaderkhulna.net,netmalayalam.com##.vc_slide
 odishasambad.in##.vc_widget_sidebar aside.widget_media_image
 krushival.in##.vertical-google-ads
