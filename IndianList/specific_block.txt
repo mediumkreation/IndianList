@@ -14,7 +14,7 @@
 -Ad.png|$domain=dailyghagot.com
 -ad.png|$domain=snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|sankalpanews.com
+-add-$domain=barishaltimes.com|businesshour24.com|sankalpanews.com
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
@@ -818,6 +818,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||btnews24.in/wp-content/uploads/2018/01/fiverr-banner
 ||btnews24.in/wp-content/uploads/2018/01/Original-Sony-banner
 ||burdwantoday.com/wp-content/uploads/2020/03/IMG_20200229_062347
+||businesshour24.com/wp-content/uploads/2020/12/associate-oxyjen-businesshour24.gif
+||businesshour24.com/wp-content/uploads/2020/12/dominej.gif
+||businesshour24.com/wp-content/uploads/2021/05/Baraka-Patenga-Power-Limited.gif
 ||buxarkhabar.com/wp-content/uploads/2018/10/27-octu-add.jpg
 ||buxaruptodate.com^*/news-ab-
 ||bvnews.in/mynewsadmin/img/add/
