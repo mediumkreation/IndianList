@@ -3408,6 +3408,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rsnews24.com/mynewsadmin/img/add/
+||rtnnbd.net/bangla/ad/
+||rtnnbd.net/bangla/ads/
 ||rtvonline.com/templates/rtv-v1/images/bangal_dtl.gif
 ||rtvonline.com/templates/rtv-v1/images/bangal_h.gif
 ||rtvonline.com/templates/rtv-v1/images/bengal_dtl.jpg
