@@ -842,6 +842,7 @@ lankasudar.com,thebiharnews.com##.code-block-6
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
+banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
