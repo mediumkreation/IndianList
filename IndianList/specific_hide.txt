@@ -86,6 +86,7 @@ kahalenews.com###attachment_44092
 dhaka18.com###awaken_video_widget-4
 dinamina.lk,ilamai.com,sitakundabarta.com###banner
 devbhoomidarshan17.com###banner-10
+truevisionnews.com###bannerCarousel1
 bangalorewaves.com###bannerclassfd
 kusenews.com###belowflash
 kusenews.com###belowmainnews
@@ -1659,6 +1660,7 @@ garjachhattisgarhnews.com##[data-box_nu="wb7"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
 gtamilnews.com##[id^="itro_"]
+truevisionnews.com##[id^="sgpb-"]
 pagetamil.com##[id^="td_uid_3"]
 thestellarnews.com##[id^="thest-"]
 adiyakkamangalam.com##a.external
@@ -1894,6 +1896,9 @@ pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
+truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
+truevisionnews.com##div[id^="truev-"] > img
+truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
 webreporter.co.in##div[id^="webre-"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
