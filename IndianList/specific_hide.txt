@@ -242,7 +242,7 @@ starbanglanews.net###media_image-35
 pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 thefourthmirror.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
-berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
+berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
 voiceofbihar.in###media_image-41
 nationaltodaylive.com###media_image-42
 bharatsarathi.com,shreenews.in###media_image-43
@@ -293,7 +293,7 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,omexpress.in,pnews.co.in,samacharsach.com###metaslider_widget-2
+abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in,samacharsach.com###metaslider_widget-2
 24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
 mahekasansar.com,npg.news###metaslider_widget-4
 digitalnewslive.com,npg.news###metaslider_widget-5
@@ -1389,7 +1389,7 @@ gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
-abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
+abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 bankalive.net##.stream-item-inline-post
 eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
