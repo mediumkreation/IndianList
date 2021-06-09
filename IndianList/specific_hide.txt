@@ -1949,7 +1949,7 @@ arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 dainikjaltedeep.com##marquee
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
-pnn24.in#?#div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
+pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 dainiki.com##section img.attachment-full
 bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
