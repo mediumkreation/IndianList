@@ -1650,6 +1650,7 @@ probashibangla.tv##.zja
 khabreelal.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
 munaadi.com##[alt="Munaadi Ad"]
+kashishnews.com##[alt="add image"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
 yoyocial.news##[class*="  ad-"]
