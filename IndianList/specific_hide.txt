@@ -1004,6 +1004,7 @@ ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
+firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
 tv24live.com##.header-right-adv
@@ -1215,7 +1216,7 @@ newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
-nawidunia.com##.owl-carousel
+firstbihar.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
