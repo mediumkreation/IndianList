@@ -575,6 +575,7 @@ news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
+dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
 arthasarokar.com##.ad50
