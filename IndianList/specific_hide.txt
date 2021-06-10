@@ -156,7 +156,7 @@ narmadanchal.com###fn-before-content-sidebar
 keralavisiontv.com###foot-ad-wrap
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
-chatganrbani.com###gallery-1
+chatganrbani.com,uttareralo24.com###gallery-1
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
@@ -1340,6 +1340,7 @@ nagarprabha.org##.single_featured_slide
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 ayodhyasamachar.com##.singlepage center > embed
+uttareralo24.com##.singlepage-section .add
 khulasanewslive.in##.site-footer .featured-stories
 googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
