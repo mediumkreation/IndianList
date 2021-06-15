@@ -271,7 +271,7 @@ derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 dubaivartha.com,globalnews24x7.com,hpnewsatl.com###media_video-2
-apnades.in,thesunrisetoday.com###media_video-3
+apnades.in,jeevanutsahnews.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org###media_video-4
 madhyabhoomikeboal.com,samnanews.com###media_video-5
 democratictvnews.com###media_video-6
@@ -451,7 +451,7 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com###text-37
 anaicoddai.com###text-38
 satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
+ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
 himalini.com,trttamilolli.com###text-40
 trttamilolli.com###text-42
 udaydarpan.com###text-44
@@ -474,7 +474,7 @@ aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
 apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
-dmoitry.com,ekhansangbad.com,globaltamilnews.net,legalvoice24.com,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
+dmoitry.com,ekhansangbad.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 sharebazarnews.com###text-882
 divyalive.com,himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
