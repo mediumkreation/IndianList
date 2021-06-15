@@ -746,6 +746,7 @@ newsplus24x7.com##.advtertise
 updatenews360.com##.aft-sticky-sidebar
 ntcnewsmedia.com##.ai-attributes
 ajakoartha.com##.ajako_artha-advertisement-series
+malabarnews.com##.alertAdd
 osnepal.com##.alignnone.size-full
 hulchalnews24.com##.alignnone.size-medium
 sansarpost.com##.allrounder-advertisement
@@ -1142,6 +1143,8 @@ fastnewsbd.com##.mainadvert3
 fastnewsbd.com##.mainadvert6
 fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
+malabarnews.com##.malab-article-top-ads
+malabarnews.com##.malab-home-page-sidebar-2
 gnewsbd24.com##.maniio
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
@@ -1424,7 +1427,7 @@ dewanganjnews.com,khulnatimes.com,siwanonline.com##.td-a-rec-id-content_inline
 khulasaonline.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com##.td-a-rec-id-custom-spot
 amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
-aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,khabarliveindia.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
+aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in,pathramonline.com##.td-adspot-title + a
