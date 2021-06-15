@@ -295,9 +295,9 @@ biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
 abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in,samacharsach.com###metaslider_widget-2
-24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
-mahekasansar.com,npg.news###metaslider_widget-4
-digitalnewslive.com,npg.news###metaslider_widget-5
+24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-3
+mahekasansar.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-4
+digitalnewslive.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-5
 npg.news###metaslider_widget-6
 thefourthmirror.com###metaslider_widget-7
 tharunaya.us###module_03_ads300x250
@@ -1443,6 +1443,7 @@ sachkitop.com##.td-post-content figure img
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
 sachkitop.com##.td-post-content p img
+tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
