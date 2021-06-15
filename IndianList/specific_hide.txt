@@ -772,7 +772,7 @@ kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
 enewsmp.com##.banner-header
 bholarbani.com,newsportals.in##.banner-img
-ambalacoverage.com,biharnewstv.in,cibindianews.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,livekhabar.com,navpradesh.com,odiabarta.in,pularvu.com,real4news.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,vishwakarmakiran.com##.banner-promotions-wrapper
+ambalacoverage.com,biharnewstv.in,cibindianews.com,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,livekhabar.com,navpradesh.com,odiabarta.in,pularvu.com,real4news.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
