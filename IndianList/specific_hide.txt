@@ -1197,6 +1197,7 @@ nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
 gorkhapatraonline.com##.news-inline-add
 sansarnews.com##.news-style-six-ads
+bangla24x7.news##.news247_ads_banner_widget
 prothomalo.com##.news_inner_spcl_ad
 atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
