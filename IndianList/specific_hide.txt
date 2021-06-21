@@ -1860,7 +1860,7 @@ bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
-navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
+chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
 24timestoday.com##aside.sidebar > div:not(.related_posts)
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
@@ -1896,6 +1896,7 @@ nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
+chitrodesh.com##div[class*="stream-item"]
 bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
 amader-protidin.com##div[class^="customaddBox"]
