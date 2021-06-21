@@ -235,7 +235,7 @@ ggsnews24.com,voiceofbihar.in###media_image-26
 ggsnews24.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com,ulipur.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com,ulipur.com###media_image-3
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
@@ -1579,7 +1579,7 @@ bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_im
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 abhitaknewsuk.in,meherpurnews.com##.widget_media_video
-samnanews.com,up18news.com##.widget_metaslider_widget
+independentcitizennews.com,samnanews.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
