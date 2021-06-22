@@ -1408,8 +1408,8 @@ khabarbihar.in,pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
 abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
-bankalive.net##.stream-item-inline-post
-eastcoastdaily.com,natunbarta.com##.stream-item-mag
+amritvichar.com,bankalive.net##.stream-item-inline-post
+amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
 tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
@@ -1483,7 +1483,7 @@ gujjujankari.in##.the_content > div[class^="gujju-content"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
-despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
+amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 pangighatidanikapatrika.in##.theiaStickySidebar .widget_custom_html
 anidda.lk,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
