@@ -686,6 +686,7 @@ madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
 vijayapatha.in#@#.ads-image
+ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
 hindi.cricketnmore.com##.ads-space
 thecgnews.com##.ads120_60-widget
@@ -924,7 +925,7 @@ emaatimes.com,jangathatimes.com##.entry-content > p img
 duniyasamachar.com##.entry-content a img
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
-kannurnewsonline.com##.entry-content figure.wp-block-image
+ekattorbanglanews.com,kannurnewsonline.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 dainiknayak.com,khabardekho.com,newsportals.in##.entry-content img
 theeditors.net##.entry-content p img
@@ -1675,6 +1676,7 @@ yoyocial.news##[class*="  ad-"]
 kendrabindu.com##[class*="_coffee"]
 safalkhabar.com##[class*="advertisement"]
 dinakaran.com##[class*="boxad"]
+ekattorbanglanews.com##[class*="center-ads"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
 hamromat.com##[class^="sgpb-"]
