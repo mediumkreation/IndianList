@@ -1568,6 +1568,7 @@ scgnews.in##.widget-ad-image
 crimediarybd.com##.widget-body > p img
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
+sanskarnews.page##.widget.Image
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
