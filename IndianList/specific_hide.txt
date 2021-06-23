@@ -315,6 +315,7 @@ lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
 thevoices.in###mycarousel-273
 ratopati.com###news-modal
+punjabenews.com###newsSection img
 dailykhowai.com###news_portal_ads_banner-3
 taftishofcrime.com###newsphere_posts_slider-7
 onlinekhabar.com###ok18-roadblock-wrap
@@ -1102,6 +1103,7 @@ lagatar.in##.lagat-between-content
 dhenkanalupdate.com##.laneqsopxy-loc-block-ad
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
+punjabenews.com##.latest_post > img
 mewartimes.com##.latest_postnav
 arthosuchak.com##.lead-after
 jayhosh.com##.leaderboard-wrapper
