@@ -317,6 +317,8 @@ thevoices.in###mycarousel-273
 ratopati.com###news-modal
 punjabenews.com###newsSection img
 dailykhowai.com###news_portal_ads_banner-3
+citiupdate.com###newscard_horizontal_vertical_posts-3 .col-md-4:not(.first-col)
+citiupdate.com###newscard_horizontal_vertical_posts-8
 taftishofcrime.com###newsphere_posts_slider-7
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
