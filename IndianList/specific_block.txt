@@ -124,6 +124,8 @@
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||hindikhabarwaala.com/uploads/blocks/block_60158bda70d87.jpg
 @@||hollywoodkhabar.com/UserUploads/bigyapan/US_Immigration_LOGO.jpg
+@@||i.imgur.com/As2NFl1.jpg
+@@||i.imgur.com/h29ptDV.jpg
 @@||img.setopaty.com/uploads/bigyaapan/1582009187.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
@@ -1688,6 +1690,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
+||imgur.com^$domain=karnalbreakingnews.com
 ||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|news71online.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
 ||inbcn.in/admin/view/upload/btp.jpg
