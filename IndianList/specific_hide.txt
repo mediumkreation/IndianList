@@ -16,6 +16,7 @@ obolokon24.com###HTML19
 aapkimedia.com,chilahatiweb.com###HTML2
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
+kasargodvartha.com###HTML21
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
@@ -1983,6 +1984,7 @@ pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
+kasargodvartha.com##img[title="wellfitindia"]
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
