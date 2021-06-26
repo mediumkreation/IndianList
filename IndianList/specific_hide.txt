@@ -1145,7 +1145,7 @@ punjabiakhbaar.ca##.main-content .stream-item
 sharebazarnews.com##.main-header-ads
 subhechhanews.com##.main-headera .advertise
 samudrapari.com##.main-news-ads
-bastarkiaawaz.com##.main-sidebar .widget_media_image
+bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 jaianndata.com##.main-tp-adds
 digitalkhabar.com##.main-wrap div[data-adid]
