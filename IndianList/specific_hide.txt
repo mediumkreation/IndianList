@@ -929,7 +929,7 @@ emaatimes.com,jangathatimes.com##.entry-content > p img
 duniyasamachar.com##.entry-content a img
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
-ekattorbanglanews.com,kannurnewsonline.com##.entry-content figure.wp-block-image
+ekattorbanglanews.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 dainiknayak.com,khabardekho.com,newsportals.in##.entry-content img
 theeditors.net##.entry-content p img
@@ -1098,6 +1098,7 @@ khabardabali.com##.kdb-topAdd
 keralaonlinenews.com##.keral-widget
 khabarhub.com##.khabarhub-inner-ads
 khulasanewslive.in##.khulasanewslivewidget
+koyilandydiary.com##.koyil-widget
 sabaikosamachar.com##.kp-header-logo--section .d-sm-block
 sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
