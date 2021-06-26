@@ -2694,6 +2694,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||nerkazhcha.com/wp-content/uploads/2021/06/jobin_priyan_ad.png
 ||nerpatham.com/vol-no-04/images/2020/ads/soq-reg-3.jpg
 ||nerpatham.com/vol-no-04/images/peaceradio-02.jpg
+||nerpatham.com^*/ads/
 ||nethfm.lk/banners/$domain=nethgossip.lk
 ||nethfm.lk/banners/img/seylan_stay_safe.png
 ||netizennepal.com/wp-content/uploads/2020/11/Export-AD-1.gif
