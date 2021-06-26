@@ -1412,7 +1412,7 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
-satyagrahnews.in##.sticky-sidebar section.widget_media_image
+punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com##.stream-item
