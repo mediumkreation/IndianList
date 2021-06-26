@@ -832,6 +832,7 @@ zoombangla.com##.bsac-link
 everestdainik.com##.bstyle-list ~ .post
 kaimurlive.com##.bwg_container
 himachalnownews.com##.c_ad
+malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
