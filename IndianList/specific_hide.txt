@@ -142,7 +142,7 @@ news127.com,newshaat.com,tahalka24x7.com,uttarakhandhindinews.com###custom_html-
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-247superfast.com,bdcrictime.com,dvgsuddi.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com###custom_html-5
+247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
 dvgsuddi.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
@@ -489,8 +489,9 @@ janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 globalnews24x7.com,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
-abhitaknewsuk.in###text-html-widget-3
+abhitaknewsuk.in,globalpunjabtv.com###text-html-widget-3
 bdtoday24.com###text-html-widget-35
+globalpunjabtv.com###text-html-widget-4
 bdtoday24.com###text-html-widget-41
 sarkarimanthan.com###text-html-widget-6
 notunerkotha.com###tie-block_1375
