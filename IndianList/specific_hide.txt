@@ -729,7 +729,7 @@ radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
-ada.lk,manithan.com,tamilan24.com##.advert
+ada.lk,divyahimachal.com,manithan.com,tamilan24.com##.advert
 ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
@@ -885,6 +885,7 @@ roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
 gtamilnews.com##.custom-html-widget iframe
+divyahimachal.com##.customad
 deshabhimani.com##.db-scnAd2
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
