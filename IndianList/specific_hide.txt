@@ -1257,6 +1257,7 @@ jaljalakhabar.com##.post aside.widget_media_image
 narayanionline.com##.post-advertiesment
 nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
+khasokhas.com##.post-entry .code-block
 ghatanarabichar.com##.post-entry header section.widget
 purvanchal24.com##.post-footer [trbidi]
 sonalibanglanews.com##.post-inner .code-block img
@@ -1998,6 +1999,7 @@ cnin.co.in,dainikjaltedeep.com##marquee
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
+khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
 janatasamachar.com##section.widget > a > img
