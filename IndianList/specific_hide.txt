@@ -128,7 +128,6 @@ sharebazarnews.com###custom_html-1293
 ausamachar.com,jaihindtimes.in,kalaroanews.com###custom_html-13
 sharebazarnews.com###custom_html-1371
 uluberiasambad.in###custom_html-14
-arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,buxaruptodate.com,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,kishorgonj.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
@@ -840,8 +839,6 @@ malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
-arthosuchak.com##.category_c_ad
-arthosuchak.com##.category_e_ad
 unfoldbangla.com##.category_side
 makalukhabar.com##.cdbofrqam
 chandrikadaily.qa##.chand-before-content_5
@@ -956,7 +953,6 @@ channelionline.com##.eyli
 lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 bbc24news.com##.featad
-arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 sudurpress.com##.field--name-field-ad-image
 nagariknetwork.com##.first-add
@@ -1118,7 +1114,6 @@ prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
 punjabenews.com##.latest_post > img
 mewartimes.com##.latest_postnav
-arthosuchak.com##.lead-after
 jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
@@ -1314,7 +1309,6 @@ banglatelegraph.com##.sentbe-top
 gulfmalayaly.com##.sep
 agraleaks.com,raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 agraleaks.com,onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
-arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 sagarmatha.tv##.side-adv
@@ -1351,7 +1345,6 @@ sanjevani.com##.sidebar-right > .widget_text > h5
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
-arthosuchak.com##.sidebar_google_ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
@@ -1450,7 +1443,7 @@ khulasaonline.com##.td-a-rec-id-content_bottom > img
 dewanganjnews.com,khulnatimes.com,siwanonline.com##.td-a-rec-id-content_inline
 khulasaonline.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com##.td-a-rec-id-custom-spot
-amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
+amaderkhulna.net,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
 aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
