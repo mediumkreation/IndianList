@@ -14,6 +14,7 @@
 ||pc5ads.com$third-party
 ||pclicc1.com^$third-party
 ||rugiomyh2vmr.com
+||surfe.be^$third-party
 ||thegoodplan.ovh/promo.php$popup
 ||tinkerta.com^$third-party
 ||uutew.info^$third-party
