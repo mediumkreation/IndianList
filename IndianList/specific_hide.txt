@@ -233,8 +233,8 @@ samrudhaodisha.com###media_image-235
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,voiceofbihar.in###media_image-26
-ggsnews24.com,madhyabhoomikeboal.com###media_image-27
-ggsnews24.com,voiceofbihar.in###media_image-28
+ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
+ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
 alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com,ulipur.com###media_image-3
 purbelinews.com###media_image-30
@@ -247,8 +247,8 @@ crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-
 thefourthmirror.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
 berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
-voiceofbihar.in###media_image-41
-nationaltodaylive.com###media_image-42
+khabarpahad.com,voiceofbihar.in###media_image-41
+khabarpahad.com,nationaltodaylive.com###media_image-42
 bharatsarathi.com,shreenews.in###media_image-43
 crimebarta.com,shreenews.in###media_image-44
 amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,odishatime.com,prothomshomoy.com###media_image-5
@@ -1696,6 +1696,7 @@ dinakaran.com##[class*="boxad"]
 ekattorbanglanews.com##[class*="center-ads"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
+khabarpahad.com##[class^="khaba-"]
 hamromat.com##[class^="sgpb-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 kositimes.com##[data-adid] > p
