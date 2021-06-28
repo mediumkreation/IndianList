@@ -1153,6 +1153,7 @@ reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 jaianndata.com##.main-tp-adds
 digitalkhabar.com##.main-wrap div[data-adid]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
+hindustanvision.com##.main_header .ws_images
 gnewsbd24.com##.mainada
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
