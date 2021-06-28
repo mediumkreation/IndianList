@@ -359,6 +359,7 @@ fenirshomoy.com###secondary .vl-advertisment
 aajkakanpur.com,aapkachannelnews.co.in,ideaciti.com,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 legendnews.in###secondary .widget_metaslider_widget
 nagarikbahas.com###secondary .widget_sp_image
+phaddalo.com###secondary .widget_text
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
