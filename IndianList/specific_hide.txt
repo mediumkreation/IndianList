@@ -934,6 +934,7 @@ prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
 emaatimes.com,jangathatimes.com##.entry-content > p img
 duniyasamachar.com##.entry-content a img
+dailysatnadee.com##.entry-content div[data-adid]
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
 ekattorbanglanews.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
@@ -1663,6 +1664,7 @@ hpnewsatl.com,nammabantwala.com##.wp-video
 vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 delhicrimepressnews.com##.wpb_content_element img
+dailysatnadee.com##.wpb_content_element img:only-child
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 newscrime24.com##.wpb_gallery
 keralatimes.com##.wpb_images_carousel
