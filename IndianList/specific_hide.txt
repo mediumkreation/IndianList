@@ -1393,6 +1393,7 @@ digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 rewanewsmedia.com##.slideshow-container
 mediadabali.com##.sm-ads
+rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
@@ -2007,6 +2008,7 @@ madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 cnin.co.in,dainikjaltedeep.com##marquee
+rashtranayaknews.com##media_image-8
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
