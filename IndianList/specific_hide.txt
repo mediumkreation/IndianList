@@ -1508,7 +1508,7 @@ amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.c
 jagatbhumi.com##.theiaStickySidebar .wdslider
 pangighatidanikapatrika.in##.theiaStickySidebar .widget_custom_html
 anidda.lk,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
-ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
+ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
