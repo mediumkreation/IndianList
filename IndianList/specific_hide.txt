@@ -1507,7 +1507,7 @@ khabrainabhitak.org##.theiaStickySidebar .ml-slider
 amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 jagatbhumi.com##.theiaStickySidebar .wdslider
 pangighatidanikapatrika.in##.theiaStickySidebar .widget_custom_html
-anidda.lk,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+anidda.lk,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
