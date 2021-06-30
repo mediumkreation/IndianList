@@ -884,6 +884,7 @@ shoutmehindi.com##.coupon_dealtop
 roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
+arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 divyahimachal.com##.customad
 deshabhimani.com##.db-scnAd2
@@ -1452,7 +1453,7 @@ khulasaonline.com##.td-a-rec-id-content_bottom > img
 dewanganjnews.com,khulnatimes.com,siwanonline.com##.td-a-rec-id-content_inline
 khulasaonline.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com##.td-a-rec-id-custom-spot
-amaderkhulna.net,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
+amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
 aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
