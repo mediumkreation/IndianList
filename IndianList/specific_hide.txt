@@ -1172,6 +1172,7 @@ gnewsbd24.com##.maniio
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
 ayushindianews.com,hpnewsatl.com,khabarpahad.com##.master-slider
+newsspecial.in##.master-slider-main-widget
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
