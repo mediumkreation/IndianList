@@ -325,6 +325,7 @@ citiupdate.com###newscard_horizontal_vertical_posts-8
 taftishofcrime.com###newsphere_posts_slider-7
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
+patnalive.co.in###oppopo
 crickethimalaya.com,surabhisaloni.co.in,vijayavani.net###ouibounce-modal
 ratantimes.com###owl-demo1
 daynikekusherbani.com###p-add
@@ -833,6 +834,7 @@ yugabdha.com##.box-sec-bg .slider
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
+patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
 zoombangla.com##.bsac-link
 everestdainik.com##.bstyle-list ~ .post
