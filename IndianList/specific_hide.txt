@@ -841,7 +841,8 @@ patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
 zoombangla.com##.bsac-link
 everestdainik.com##.bstyle-list ~ .post
-kaimurlive.com##.bwg_container
+cgjanadesh.com,kaimurlive.com##.bwg_container
+cgjanadesh.com##.bwp_gallery_slideshow
 himachalnownews.com##.c_ad
 malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
