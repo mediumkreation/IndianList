@@ -554,6 +554,7 @@ punjabiinholland.com##.AdvtRight
 janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
 dainiksylhet.com,surmanews24.com,weeklydesh.co.uk##.DAdd
+sylheterdak.com.bd##.DAdd img
 bdprojonmo71.com##.DAdvertisement
 ajkermymensingh.com##.DHeaderBanner
 banglanewsca.com##.Front-page-Right-Side-Ad
@@ -1554,6 +1555,7 @@ bdkhobor24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com,biniyougbarta.com##.topadmid
 dhakatoday.com##.topadr
 bdkhobor24.com,ournewsbd.net##.topadrt
+sylheterdak.com.bd##.topadv
 banglavashi.com,dcnepal.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
