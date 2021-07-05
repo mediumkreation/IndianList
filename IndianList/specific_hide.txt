@@ -241,11 +241,11 @@ ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
 alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com,ulipur.com###media_image-3
 purbelinews.com###media_image-30
-cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
+cg24x7.news,cgnews24x7.wordpress.com,news20live.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
-starbanglanews.net###media_image-33
-starbanglanews.net###media_image-34
-starbanglanews.net###media_image-35
+news20live.com,starbanglanews.net###media_image-33
+news20live.com,starbanglanews.net###media_image-34
+news20live.com,starbanglanews.net###media_image-35
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 thefourthmirror.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
@@ -1439,7 +1439,7 @@ jaunpur24.com##.stream-item-below-post
 abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 amritvichar.com,bankalive.net##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
-bhartianews.com,tamilveedhi.com##.stream-item-top
+bhartianews.com,news20live.com,tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
