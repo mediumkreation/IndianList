@@ -321,7 +321,7 @@ lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
 thevoices.in###mycarousel-273
 ratopati.com###news-modal
-punjabenews.com###newsSection img
+indianewscentre.in,punjabenews.com###newsSection img
 dailykhowai.com###news_portal_ads_banner-3
 citiupdate.com###newscard_horizontal_vertical_posts-3 .col-md-4:not(.first-col)
 citiupdate.com###newscard_horizontal_vertical_posts-8
@@ -2018,6 +2018,7 @@ lalsobujerkontho.com##img[src*="Modhomoti-"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
 kasargodvartha.com##img[title="wellfitindia"]
+indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
