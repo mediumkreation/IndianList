@@ -1223,7 +1223,7 @@ news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
-celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,odiannews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
+celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
@@ -1981,6 +1981,7 @@ dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
+mediapoint24.com##footer .widget_media_image
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
