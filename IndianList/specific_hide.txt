@@ -1709,7 +1709,6 @@ neplays.com##.yotcuzeh
 probashibangla.tv##.zja
 khabreelal.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
-munaadi.com##[alt="Munaadi Ad"]
 kashishnews.com##[alt="add image"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
@@ -1991,6 +1990,7 @@ telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 deshsanchar.com##img.alignnone.size-full
+munaadi.com##img[alt$=" Ad"]
 kantipath.com##img[alt*="add"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
@@ -2042,7 +2042,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
 dainiklivenews24.com##section.widget_text:not(#text-2)
