@@ -1601,7 +1601,7 @@ hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_a
 kositimes.com##.vqtu
 livestorytime.com##.w3-section
 dainikazadi.net##.w3-top-ads-desktop
-fastindianews.com##.well
+fastindianews.com,shatabdinews.com##.well
 sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
 crimediarybd.com##.widget-body > p img
