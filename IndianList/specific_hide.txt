@@ -878,7 +878,8 @@ janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
-3pm.in,cinereporters.com,janprahar.com,kathir.news,manoranjannama.com,uttarakhandpost.com##.colombiatracked
+khabreelal.com##.colombiaonesuccess iframe
+3pm.in,cinereporters.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,uttarakhandpost.com##.colombiatracked
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
@@ -1716,6 +1717,7 @@ bnnbharat.com##.xembgt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
 khabreelal.com##.zox-post-ad-wrap
+khabreelal.com#?##AS_O_LHS_1 div:-abp-has( > div > a > h2:last-child)
 tollywood.net##[alt*=" ad"]
 kashishnews.com##[alt="add image"]
 narayanionline.com##[alt="advertiesment"]
