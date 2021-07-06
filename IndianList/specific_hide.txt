@@ -357,6 +357,7 @@ buxarkhabar.com###rich_webSlider1_2
 edainikazadi.net###right-holder
 daynikekusherbani.com###right-sidebar .widget_bar a img
 chennairoyalcinema.com###right-sidebar aside.widget_sp_image
+mekhrajbairwa.com###right-sidebar-inner
 samachardoot.com###right_banner
 biharpatrika.in###rma_masala
 kungumam.co.in###road
@@ -1083,6 +1084,7 @@ krushival.in##.horizontal-google-ads
 tips4blog.com##.hot_rwc_ads
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
+mekhrajbairwa.com##.hustle-layout
 thereport24.com##.idlc
 bhilwarahalchal.com##.image-post-slider
 samacharplus.com##.img-add
