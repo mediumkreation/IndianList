@@ -945,6 +945,7 @@ punjabbaani.com##.entry-content .stream-item
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
 emaatimes.com,jangathatimes.com##.entry-content > p img
+news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
 dailysatnadee.com##.entry-content div[data-adid]
 channelrb.com##.entry-content figure img[width="600"]
