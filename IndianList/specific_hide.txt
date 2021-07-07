@@ -1355,6 +1355,7 @@ urjanchaltiger.in##.sideads-sec
 dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
+cgwall.com##.sidebar .wds_slider_cont
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com##.sidebar .widget_custom_html
