@@ -1290,6 +1290,7 @@ shirurtaluka.com##.post-item-description p  a strong
 shirurtaluka.com##.post-item-description p img
 telugutimes.net##.post-sidebar-area
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
+himachalsamay.com##.post-text p > img
 todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
