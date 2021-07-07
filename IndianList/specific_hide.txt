@@ -322,6 +322,7 @@ bhilwarahalchal.com,kathmandupati.com###myModal
 lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
 thevoices.in###mycarousel-273
+dilersamachar.com###newmodal .modal-dialog
 ratopati.com###news-modal
 indianewscentre.in,punjabenews.com###newsSection img
 dailykhowai.com###news_portal_ads_banner-3
