@@ -1440,7 +1440,7 @@ tandavnews.com##.spu-box
 dhakanewsexpress.com##.square_advertisement
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
-cibindianews.com##.sticky-sidebar .widget_custom_html
+cibindianews.com,newszon.in##.sticky-sidebar .widget_custom_html
 khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
@@ -2060,7 +2060,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
 dainiklivenews24.com##section.widget_text:not(#text-2)
