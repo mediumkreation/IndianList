@@ -949,6 +949,7 @@ bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 punjabbaani.com##.entry-content .stream-item
+thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
 emaatimes.com,jangathatimes.com##.entry-content > p img
@@ -1645,6 +1646,7 @@ purbelinews.com##.widget_sp_image
 36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
 jenerakhun.com##.widget_text .td-all-devices
 chandrikadaily.qa##.widget_viral_advertisement
+thirdeyetoday.com##.widget_youtube_responsive
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 newssunamganj.com##.wp-image-10388
