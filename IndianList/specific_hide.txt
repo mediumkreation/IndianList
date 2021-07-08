@@ -1033,7 +1033,7 @@ dailysports24.com##.head-banner
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 newsdnntv.com##.header--ad
-corporatesangbad.com##.header-add
+corporatesangbad.com,himachaljanadesh.com##.header-add
 bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
@@ -1378,6 +1378,7 @@ sanjevani.com##.sidebar-right > .widget_text > h5
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
+himachaljanadesh.com##.sidebar_ash video
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
