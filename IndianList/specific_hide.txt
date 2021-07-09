@@ -1723,6 +1723,7 @@ dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
 ptcnews.tv##.wpb_wrapper aside.widget_media_image
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
+news127.com##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
 news4nation.com##.wrapper.av
