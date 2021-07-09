@@ -584,6 +584,7 @@ dailybhorerkolam.com##.abv-container:not(.p-right-0)
 ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
+protichhobi.com##.ad .txt
 newsdnntv.com,pratyeknewslive.com##.ad--space
 eimuhurte.com,newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
@@ -889,6 +890,7 @@ news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
+protichhobi.com##.content-area .ad
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
