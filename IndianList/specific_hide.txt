@@ -1629,6 +1629,7 @@ jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
 hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
 dailynotunsongbad.com,news24bd.net##.widget_area > img
+daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
