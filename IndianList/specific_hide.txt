@@ -1933,7 +1933,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 coxsbazarshomoy.com,newsboardindia.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-bharatjan.com,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,punjabinational.ca,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,punjabinational.ca,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
