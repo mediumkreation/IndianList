@@ -117,6 +117,7 @@ suddi9.com###colorcontentasash3
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
 legalvoice24.com###content > .widget_text
+news129.com###content center img
 samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com###content section.widget_media_image
