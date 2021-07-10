@@ -935,7 +935,7 @@ tamilwin.com##.eds300
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 alertchhattisgarh.com##.elementor-element-37731bf
-himalipatrika.com.np##.elementor-image
+biharnewsindia.com,himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 khabardarinews.com,sitakundabarta.com##.elementor-widget-image
