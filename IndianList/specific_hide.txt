@@ -1122,6 +1122,7 @@ bikashnews.com##.innercontainer a[target="_blank"] img
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 sathyamonline.com##.inven-before-content_6
+samvetshikhar.com##.item-size-right img
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
@@ -1211,6 +1212,7 @@ himachalmedia.co##.mg-headwidget .pull-right
 newskadaba.com##.mh-header-widget-2
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
+samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
@@ -1570,6 +1572,7 @@ ekuruvi.com##.top-bar-left-nav
 sherpurtimes.com##.top-biggapon
 royalbulletin.in##.top-container1
 ukmalayalampathram.com##.top-flash
+samvetshikhar.com##.top-head-hori-adv
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
 rosemalayalam.com##.top-news-ad
