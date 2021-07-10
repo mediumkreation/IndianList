@@ -1500,7 +1500,7 @@ thebharatnews.net##.td-footer-wrapper aside.widget_text img
 ujjwalhimachal.com##.td-g-rec
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
-dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
+deshprahari.com,dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
 dishadaily.com##.td-post-content .code-block
@@ -1531,6 +1531,7 @@ akkbd.com##.td_single_image_bg[target="_blank"]
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
 ujjwalhimachal.com##.tdb_single_content img
+deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
 paristamil.com##.text-center > table[width="98%"]
