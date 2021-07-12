@@ -231,7 +231,7 @@ flowersoriginals.com###media_image-16
 dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 samrudhaodisha.com###media_image-205
 amanshantinews.com,ggsnews24.com,gnews5.com,samnanews.com###media_image-21
 amanshantinews.com,divyalive.com,sabsach.in###media_image-22
@@ -960,6 +960,7 @@ emaatimes.com,jangathatimes.com##.entry-content > p img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
 dailysatnadee.com##.entry-content div[data-adid]
+janpadnewslive.com##.entry-content figure
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
 ekattorbanglanews.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
@@ -1426,6 +1427,7 @@ avnpost.com##.slider-section
 bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
+janpadnewslive.com##.slider_instance
 rewanewsmedia.com##.slideshow-container
 mediadabali.com##.sm-ads
 rashtranayaknews.com##.small-adv
@@ -1467,7 +1469,7 @@ abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsd
 amritvichar.com,bankalive.net##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
 bhartianews.com,news20live.com,tamilveedhi.com##.stream-item-top
-jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
+jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
