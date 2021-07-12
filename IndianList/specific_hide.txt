@@ -202,7 +202,8 @@ cellitnews.com###logoright
 voiceoffreedom.in###magazine-plus-image-6
 voiceoffreedom.in###magazine-plus-image-8
 newsuperbharat.com###main .widget_custom_html
-songbadpratidin.com###main .widget_media_image
+newsxindia.com,songbadpratidin.com###main .widget_media_image
+newsxindia.com###main .widget_sow-image
 agrilife24.com###main-body .custom
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
@@ -231,7 +232,7 @@ flowersoriginals.com###media_image-16
 dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 samrudhaodisha.com###media_image-205
 amanshantinews.com,ggsnews24.com,gnews5.com,samnanews.com###media_image-21
 amanshantinews.com,divyalive.com,sabsach.in###media_image-22
