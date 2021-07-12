@@ -175,7 +175,7 @@ focusbd24.com###header .sidebar-col
 prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-primepunjab.com,sehattimes.com###header-right-section
+primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 livekeralanews.com###headermain .sp7
@@ -498,7 +498,7 @@ aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
 apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
-dmoitry.com,ekhansangbad.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
+dmoitry.com,ekhansangbad.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,rozanapost.in,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 sharebazarnews.com###text-882
 divyalive.com,himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
@@ -2067,6 +2067,7 @@ cnin.co.in,dainikjaltedeep.com##marquee
 rashtranayaknews.com##media_image-8
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
+rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
