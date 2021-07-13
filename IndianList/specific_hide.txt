@@ -631,6 +631,7 @@ alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,crimebd.com,deshproti
 protisomoy.com##.add img.image
 dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
+talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
 samadhannews.com##.add-banner-s
 khobor24ghonta.com##.add-bg-02
@@ -1060,6 +1061,7 @@ manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
 metroplus.online##.header-wraper .fullwidthabanner
+talashbangla.com##.header__add
 corporatesangbad.com,dailysobujbarta.com,lankasudar.com,upayuktha.com##.header__banner
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
@@ -2039,6 +2041,7 @@ dcnewsbd.com,news24bite.com##img[alt="Advertisement"]
 protidinerchitrobd.com##img[alt="Bex Bazar"]
 newspagebd.com##img[alt="Biggapon"]
 onlinemarg.com##img[alt="Header Ad"]
+talashbangla.com##img[alt="Page Add"]
 stocktimes24.com##img[alt="Smiley face"]
 farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 e24bollywood.com##img[alt="add image"]
