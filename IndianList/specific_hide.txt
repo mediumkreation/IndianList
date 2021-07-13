@@ -175,7 +175,7 @@ focusbd24.com###header .sidebar-col
 prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
+naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 livekeralanews.com###headermain .sp7
@@ -204,6 +204,7 @@ voiceoffreedom.in###magazine-plus-image-8
 newsuperbharat.com###main .widget_custom_html
 newsxindia.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
+naturalnews.co.in###main aside.widget_media_image
 agrilife24.com###main-body .custom
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
@@ -1248,6 +1249,7 @@ news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
+naturalnews.co.in##.natur-content
 celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
