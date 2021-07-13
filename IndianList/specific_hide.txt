@@ -1943,7 +1943,7 @@ haldwanilive.com##aside > .textwidget
 newsmoments.in##aside#sidebar .chmnr
 bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
-newstodaynetwork.com##aside.ai_widget
+magnificentbihar.com,newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
 chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
 24timestoday.com##aside.sidebar > div:not(.related_posts)
