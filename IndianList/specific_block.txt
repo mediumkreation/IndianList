@@ -142,6 +142,8 @@
 @@||samacharvarta.com/matri2/ad_pages/school%20varta%20add.jpg
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
 @@||tejastoday.com^*/ADD-TEJAS
+@@||ttinews.in//add/grp991d912445.jpg
+@@||ttinews.in//add/grpacb55f9af7.png
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
 @@||youngvarta.com/uploads/blocks/block_5e8dae57e47c1.JPG
 @@||youngvarta.com/uploads/blocks/block_5f056e0ef2e59.gif
@@ -179,7 +181,6 @@ Banner-$image,domain=reportersnepal.com
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com
 narayanganj24.com/pre-content/uploads/2018/12/alhakim.gif
-ttinews.in/add/
 WebAd.jpg|$domain=vasundharadeep.news
 |bikashnews.com^*/MEGA_MEGA-MAYA-BACHAT-KHATA_300x150pixels.gif
 ||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
@@ -4057,8 +4058,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||truevisionnews.com/wp-content/uploads/2018/04/300-x-250-pix.jpg
 ||truevisionnews.com/wp-content/uploads/2020/01/CHEMMANNUR-copy.jpg
 ||trustnews24.com/wp-content/uploads/2020/09/raipur-auto-rice.gif
-||ttinews.in//add/grp07662abf6d.jpg
-||ttinews.in//add/grp712cf92d6f.jpg
+||ttinews.in//add/
 ||ttinews.in/images/wa.jpeg
 ||tv19online.com/advban/
 ||tv19online.com/advnew/
