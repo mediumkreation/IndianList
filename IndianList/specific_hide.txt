@@ -992,6 +992,8 @@ nagariknetwork.com##.first-add
 nagariknetwork.com##.fixed-ad
 newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
+daniksamachar.com##.flashwp-featured-posts-area
+daniksamachar.com##.flashwp-side-widget.widget_text
 dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 thefollowup.in##.flip-box img
