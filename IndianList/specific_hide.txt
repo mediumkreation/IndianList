@@ -825,6 +825,7 @@ nagariknetwork.com##.below-article-ad
 arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
+bengallive.in##.benga-raiganj-municipality
 onlinepana.com##.betn-add
 andhrajyothy.com##.bgg.eng
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com##.biggapon
@@ -1477,7 +1478,7 @@ abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsd
 amritvichar.com,bankalive.net##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
 bhartianews.com,news20live.com,tamilveedhi.com##.stream-item-top
-jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
+bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
