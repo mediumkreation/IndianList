@@ -958,6 +958,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
+newsway.in##.entry-content .newsw-content
 punjabbaani.com##.entry-content .stream-item
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
@@ -1061,6 +1062,7 @@ firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
 tv24live.com##.header-right-adv
+newsway.in##.header-right-widgets
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
