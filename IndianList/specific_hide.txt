@@ -444,7 +444,7 @@ swarajnewstoday.com###sync3
 anbnews24.com###text-1
 jagprerna.com,medianp.com,moonbreaking.com,samnanews.com,tamil.com,vanakkamlondon.com###text-10
 anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
-divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
+divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
@@ -501,7 +501,7 @@ bigkhabar.com###text-69
 apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
 dmoitry.com,ekhansangbad.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,rozanapost.in,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 sharebazarnews.com###text-882
-divyalive.com,himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
+divyalive.com,himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com,voiceofnationnews.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 globalnews24x7.com,uttareralo24.com###text-html-widget-2
