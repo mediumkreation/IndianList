@@ -956,7 +956,7 @@ kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
 jagatbhumi.com##.entry img
 dainiknayak.com##.entry img.alignnone
-bdbarrta24.com,orthosongbad.com##.entry-ads-top
+bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 newsway.in##.entry-content .newsw-content
@@ -1043,6 +1043,7 @@ paristamil.com##.group2
 paristamil.com##.group3
 gujjujankari.in##.gujju-before-content_4
 bdbarrta24.com,orthosongbad.com##.h_ads
+sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 haldwanilive.com##.haldw-content
 myfirstshow.com##.hb-img
 dailysports24.com##.head-banner
@@ -1074,6 +1075,7 @@ lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 newstaglive.com##.header_adver
+sunbd24.com##.header_area > .container
 natunjug.com##.header_biggapon
 univarta.com##.header_bottom_ad
 bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
@@ -1366,6 +1368,7 @@ banglatelegraph.com##.sentbe-top
 gulfmalayaly.com##.sep
 agraleaks.com,raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 agraleaks.com,onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
+sunbd24.com##.share-ads
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
 sagarmatha.tv##.side-adv
@@ -1395,6 +1398,7 @@ yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 beanibazarview24.com##.sidebar [id^="media_image"]
 dhangadhikhabar.com##.sidebar-add
+sunbd24.com##.sidebar-adv
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 shineupindia.com##.sidebar-box a[ target="_blank"]
 creativenewsexpress.com##.sidebar-inner > section.widget_media_image
