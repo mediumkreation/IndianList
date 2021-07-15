@@ -787,8 +787,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||blogspot.com^*/logo.gif$domain=pungudutivu.info
 ||blogspot.com^*/Loutus.jpg
 ||blogspot.com^*/Machhabank.gif$domain=arthasarokar.com
-||blogspot.com^*/Mangal%2BClinic%2BJaunpur.jpg
 ||blogspot.com^*/Mangal%2BClinic%2BJaunpur.JPG
+||blogspot.com^*/Mangal%2BClinic%2BJaunpur.jpg
 ||blogspot.com^*/Mangal%2BClinic%2BWazidpur%2BTiraha%2BJaunpur%2Baapkiummid%2Baap%2Bki%2Bummid%2B1.jpg
 ||blogspot.com^*/Mangalam%2BJewelers%2B%252812%2529.jpg
 ||blogspot.com^*/Manorama%2BIndustries.JPG
