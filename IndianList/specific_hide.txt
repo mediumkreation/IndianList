@@ -1753,6 +1753,7 @@ malayalamexpress.in##.wpb_raw_code img
 alamkikhabar.in,farmsandfarmer24.com,hind24news.com,munshiganjnews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 everestdainik.com,keralatimes.com##.wpb_single_image figure
+newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 alamkikhabar.in,breakingtube.com##.wpb_video_widget
