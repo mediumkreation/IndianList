@@ -1499,7 +1499,7 @@ tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
 24ghonta.news,agrabharat.in,ajkerarban.com,aloron71.com,angindianews.com,anmnews.in,avadhtimes.net,bdindianews.in,bhojpurilive.com,bilaspurlive.com,bmnews24.net,brajeshkibaat.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,dainiksamvad.in,dtw24news.in,durjoybangla.com,ejalakam.com,ekattorer-kotha.com,enews24x7.in,frontline24.com,goodmorningnews.in,haldwanilive.com,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,innuonline.com,karavaldaily.com,khabarexclusive24.com,khabarindia24x7.com,kholabarta24.com,kirandoot.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,mayanewz.com,moviemirchi24.com,muhimmathonline.com,narayanganjerkhobor24.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,ntvtelugu.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,prathidina.in,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,sachkitop.com,samayviews.com,sanjeevanisamachar.com,sansanikhejsamachar.in,saurashtrakranti.com,sheeshanews.com,sportstoday.lk,srnewsgroup.com,stocktimes24.com,tahalka24x7.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,therepublicantimes.co,thestellarnews.com,touringtalkies.co,trendingnewshindi.live,tvindiaplus24.com,uddoktabarta.com,vidarbhaapla.com,youthmukam.com##.td-a-rec
 britbangla24.com,smnewshimachal.in##.td-a-rec img
-bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
+bholahatchitro.com,khulnatimes.com,shadhinalo.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 khulasaonline.com##.td-a-rec-id-content_bottom > img
 dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
@@ -1972,7 +1972,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 coxsbazarshomoy.com,newsboardindia.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,parvatanchal.com,prabartan.com,punjabinational.ca,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,parvatanchal.com,prabartan.com,punjabinational.ca,rajsattapost.com,shadhinalo.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
