@@ -902,6 +902,7 @@ reportersnepal.com##.container .pt-3 section
 hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
+dinamani.com##.content-av
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
@@ -1653,6 +1654,7 @@ fastindianews.com,shatabdinews.com##.well
 sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
 crimediarybd.com##.widget-body > p img
+dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 sanskarnews.page##.widget.Image
