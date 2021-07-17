@@ -343,6 +343,7 @@ importmirror.com###p-vila
 muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
+gstv.in###penci_custom_html-7
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 kusenews.com###pgc-7-1-1
@@ -1653,6 +1654,7 @@ dainikazadi.net##.w3-top-ads-desktop
 fastindianews.com,shatabdinews.com##.well
 sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
+gstv.in##.widget-area-1 .widget_custom_html
 crimediarybd.com##.widget-body > p img
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
