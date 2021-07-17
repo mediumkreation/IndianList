@@ -738,6 +738,7 @@ orthosongbad.com,sonalinews.com##.adv-img
 drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
+barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 doolnews.com##.adv_box_3x25
 weeklynepal.com##.adv_side
@@ -796,6 +797,7 @@ omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 hindustanvision.com##.avtg3
 dnewsnetwork.in##.awac img.image
+barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
 manabadi.co.in##.backg-g
 71barta24.com,alochitosokal.com,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglanewstv.com,banglarkagoj.net,barishalsomoynews.com,bholatimes24.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,paribahanjagot.com,rajshahinews24.com,satkhiratoday.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,thebarisal.com,weeklyhajiganj.com##.bannar
@@ -1071,6 +1073,7 @@ dailyreportbd.com##.header-top-right
 metroplus.online##.header-wraper .fullwidthabanner
 talashbangla.com##.header__add
 corporatesangbad.com,dailysobujbarta.com,lankasudar.com,upayuktha.com##.header__banner
+barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
