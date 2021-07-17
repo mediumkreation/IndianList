@@ -215,7 +215,7 @@ kathmandutoday.com###main_body
 abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
 samvadexpress.com###media_gallery-10
-bharatsarathi.com,jantabulletin.wordpress.com###media_gallery-2
+bharatsarathi.com,jantabulletin.wordpress.com,satyasikha.com###media_gallery-2
 jalauntimessite.wordpress.com###media_gallery-28
 jantabulletin.wordpress.com###media_gallery-3
 todaybiharnews1.wordpress.com###media_gallery-33
