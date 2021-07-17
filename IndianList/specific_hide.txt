@@ -742,6 +742,7 @@ khabardabali.com##.adv-margin-bottom
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 doolnews.com##.adv_box_3x25
+bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
 alokitomymensingh24.com##.adv_single
 publictv.in##.adv_swiper1
