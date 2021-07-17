@@ -1494,7 +1494,7 @@ abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsd
 amritvichar.com,bankalive.net##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
 bhartianews.com,news20live.com,tamilveedhi.com##.stream-item-top
-bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
+bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,rudrakshnews.com,thetadkanews.com##.stream-item-top-wrapper
 keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
@@ -1571,10 +1571,10 @@ gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
-amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
+amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,rudrakshnews.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 jagatbhumi.com##.theiaStickySidebar .wdslider
 pangighatidanikapatrika.in##.theiaStickySidebar .widget_custom_html
-anidda.lk,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+anidda.lk,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,rajarhatbd.com,rudrakshnews.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
