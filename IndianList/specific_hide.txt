@@ -2053,7 +2053,7 @@ dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
-mediapoint24.com##footer .widget_media_image
+mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
