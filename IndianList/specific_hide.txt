@@ -1535,6 +1535,7 @@ insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 deshprahari.com,dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
+janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 dishadaily.com##.td-post-content .code-block
 sanjeevanisamachar.com##.td-post-content .master-slider
 nammabantwala.com##.td-post-content .td-a-rec
