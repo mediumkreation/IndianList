@@ -319,7 +319,7 @@ cinemapettai.com,lankac.news###mvp-leader-wrap
 channelindia.news###mvp-side-wrap .widget_media_image
 just36news.com###myCarouse3
 just36news.com###myCarouse4
-himachalabhiabhi.com,ujyaaloonline.com###myCarousel
+himachalabhiabhi.com,ujyaaloonline.com,upkikhabar.com###myCarousel
 rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
 bhilwarahalchal.com,kathmandupati.com###myModal
@@ -1435,6 +1435,7 @@ banglanewstv.com##.single_details .widget_area
 nagarprabha.org##.single_featured_slide
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
+upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 ayodhyasamachar.com##.singlepage center > embed
 uttareralo24.com##.singlepage-section .add
 khulasanewslive.in##.site-footer .featured-stories
@@ -1609,6 +1610,7 @@ shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 onlinekhabar.com##.top__ads
 bankbimaarthonity.com,biniyogbarta.com,biniyougbarta.com,doshdik.com##.top_add
+upkikhabar.com##.top_addarea
 samacharplus.com##.top_advertize
 nrimalayalee.com##.top_most_news_post_ad
 gujarattimesusa.com,shabdonews24.com,vijaykarnatakaepaper.com##.topad
