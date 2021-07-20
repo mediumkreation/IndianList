@@ -508,7 +508,7 @@ janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 globalnews24x7.com,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
-abhitaknewsuk.in,globalpunjabtv.com###text-html-widget-3
+abhitaknewsuk.in,globalpunjabtv.com,newswing.com###text-html-widget-3
 bdtoday24.com###text-html-widget-35
 globalpunjabtv.com###text-html-widget-4
 bdtoday24.com###text-html-widget-41
@@ -1199,7 +1199,7 @@ newsfirst.lk##.main-ad-half
 hkgnews247.com##.main-and-sidebar .Image
 ajbangla.com##.main-banner
 policevarthe.com##.main-bg .carousel
-punjabiakhbaar.ca##.main-content .stream-item
+newswing.com,punjabiakhbaar.ca##.main-content .stream-item
 sharebazarnews.com##.main-header-ads
 subhechhanews.com##.main-headera .advertise
 samudrapari.com##.main-news-ads
@@ -1486,6 +1486,7 @@ doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com,thetadkanews.com,ujjawalprabhat.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
+newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
 khabarbihar.in,pangighatidanikapatrika.in##.stream-item-above-post-content
