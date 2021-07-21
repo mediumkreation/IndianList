@@ -653,6 +653,7 @@ malisamajsocial.com,nagariknetwork.com,thebengalitimes.com##.add-section
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
+sabastaentertainment.com##.add-show div[class="row"]
 gourbarta24.com##.add-slider
 cnibd.net##.add-space
 samachar4media.com##.add-text
@@ -2092,7 +2093,7 @@ farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives2
 e24bollywood.com##img[alt="add image"]
 dhakareport24.com,khabarwaale.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
-spicenewsbd.com##img[alt="advertise"]
+sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
 mirsaraikhobor.com##img[alt="mAD"]
