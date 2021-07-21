@@ -764,7 +764,7 @@ livestorytime.com##.advertise-area
 nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 bonikbarta.net##.advertise_space2
-bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
+bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
@@ -1681,6 +1681,7 @@ avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,sunamganjerkhobor.com##.widget_media_image
+ujyaalonetwork.com##.widget_media_image:not(#media_image-100)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 abhitaknewsuk.in,meherpurnews.com##.widget_media_video
