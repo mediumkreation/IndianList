@@ -1243,6 +1243,7 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 shreesamachar.com##.middle-aside .news_portal_ads_banner
 upantaodisha.com##.middle-aside section.widget_media_image
+prabhabonline.com##.middle-banner
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 pradeshdainik.com##.min-global-adv
@@ -1615,6 +1616,7 @@ onlinekhabar.com##.top__ads
 bankbimaarthonity.com,biniyogbarta.com,biniyougbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
 samacharplus.com##.top_advertize
+prabhabonline.com##.top_banner
 nrimalayalee.com##.top_most_news_post_ad
 gujarattimesusa.com,shabdonews24.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com##.topadd
