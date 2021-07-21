@@ -1110,6 +1110,7 @@ news71online.com,shamolynews24.com##.home_last_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 shamolynews24.com##.home_widget
+musickhabar.com##.homead-fullwidth
 dinakaran.com##.homead300le10
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
@@ -1604,6 +1605,7 @@ sherpurtimes.com##.top-biggapon
 royalbulletin.in##.top-container1
 ukmalayalampathram.com##.top-flash
 samvetshikhar.com##.top-head-hori-adv
+musickhabar.com##.top-header .add-bottom-margin
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
 rosemalayalam.com##.top-news-ad
