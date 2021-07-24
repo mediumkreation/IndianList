@@ -909,6 +909,7 @@ dinamani.com##.content-av
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
+vatakaravarthakal.in##.content-inner img
 dthreeonline.com,googlepokhara.com,nagarikbahas.com##.content-middle-ads
 thecgnews.com##.content-wrap .e3lan-post
 bhilwarasamwad.com##.content_top:first-child .latest_slider
