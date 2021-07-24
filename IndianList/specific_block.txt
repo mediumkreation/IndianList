@@ -178,9 +178,10 @@ add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
 ADVT.jpg|$domain=bhilaitimes.com
 Banner-$image,domain=reportersnepal.com
-blocks/block_$domain=nattuvartha.news
+blocks/block_$domain=nattuvartha.news|sirajganjexpress.com
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com
+images/img_$domain=sirajganjexpress.com
 narayanganj24.com/pre-content/uploads/2018/12/alhakim.gif
 WebAd.jpg|$domain=vasundharadeep.news
 |bikashnews.com^*/MEGA_MEGA-MAYA-BACHAT-KHATA_300x150pixels.gif
@@ -3743,6 +3744,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||simpaninews.com^*/ad_$image
 ||sindhudurglive.com/wp-content/uploads/2019/07/SSPM-College.jpg
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
+||sirajganjexpress.com/uploads/images/image_750x_5fd96c49c0085.jpg
 ||sivantv.com^*/3.gif
 ||sivantv.com^*/ad02.gif
 ||sivantv.com^*/sai.gif
