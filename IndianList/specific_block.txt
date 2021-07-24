@@ -178,6 +178,7 @@ add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
 ADVT.jpg|$domain=bhilaitimes.com
 Banner-$image,domain=reportersnepal.com
+blocks/block_$domain=nattuvartha.news
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com
 narayanganj24.com/pre-content/uploads/2018/12/alhakim.gif
