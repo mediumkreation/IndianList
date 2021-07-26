@@ -951,12 +951,13 @@ tamilwin.com##.eds300
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 alertchhattisgarh.com##.elementor-element-37731bf
-biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com##.elementor-image
+biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 khabardarinews.com,sitakundabarta.com##.elementor-widget-image
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
+theeditor24.com##.elementor-widget-penci-featured-boxes
 24webnews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
 abbiharnews.com,keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
@@ -2001,7 +2002,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 aligarhmedia.com,coxsbazarshomoy.com,newsboardindia.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,parvatanchal.com,prabartan.com,punjabinational.ca,rajsattapost.com,shadhinalo.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,parvatanchal.com,prabartan.com,punjabinational.ca,rajsattapost.com,shadhinalo.com,tarangabarta.com,theeditor24.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
