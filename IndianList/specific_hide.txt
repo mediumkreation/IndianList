@@ -329,6 +329,8 @@ thevoices.in###mycarousel-273
 dilersamachar.com###newmodal .modal-dialog
 ratopati.com###news-modal
 indianewscentre.in,punjabenews.com###newsSection img
+sokalerbangla.com###news_portal_ads_banner-20
+sokalerbangla.com###news_portal_ads_banner-22
 dailykhowai.com###news_portal_ads_banner-3
 citiupdate.com###newscard_horizontal_vertical_posts-3 .col-md-4:not(.first-col)
 citiupdate.com###newscard_horizontal_vertical_posts-8
