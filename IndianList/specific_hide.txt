@@ -171,7 +171,7 @@ telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
 chattolarkhabor.com,crimecapital.in,sakalakhabar.com###header #sidebar
-focusbd24.com###header .sidebar-col
+focusbd24.com,pradeshajjtak.com###header .sidebar-col
 prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
@@ -624,7 +624,7 @@ lifeglint.com##.ad_bottom_lip
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 farakdhar.com,ratopati.com##.adalyticsblock
-arthikawaj.com,kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
+arthikawaj.com,kdnewslive.in,khabor.com,pchelplinebd.com,pradeshajjtak.com,rajnitiprotidin.com##.adcontainer
 ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dokhinercrime.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,newsatfirst.com,paharkantho.com,paribahanjagot.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,thebarisal.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
@@ -978,7 +978,7 @@ emaatimes.com,jangathatimes.com##.entry-content > p img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
 dailysatnadee.com##.entry-content div[data-adid]
-janpadnewslive.com##.entry-content figure
+janpadnewslive.com,pradeshajjtak.com##.entry-content figure
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
 ekattorbanglanews.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
