@@ -120,7 +120,7 @@ legalvoice24.com###content > .widget_text
 news129.com###content center img
 samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
-avikaluttarakhand.com###content section.widget_media_image
+avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 haryananewsexpress.com###covernews_posts_carousel-7
 valampurii.lk###custom-ads-2
@@ -1288,7 +1288,7 @@ gorkhapatraonline.com##.news-inline-add
 sansarnews.com##.news-style-six-ads
 bangla24x7.news##.news247_ads_banner_widget
 prothomalo.com##.news_inner_spcl_ad
-atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
