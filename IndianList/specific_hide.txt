@@ -360,6 +360,7 @@ industryhit.com###pum-15632
 nirapadnews.com###quads-adad11_widget
 goodnewsbharat.com###recent-post-slider-1
 manithan.com###recommendations
+timestodays.com###rev-slider-widget-2
 buxarkhabar.com###rich_webSlider1_1
 buxarkhabar.com###rich_webSlider1_2
 edainikazadi.net###right-holder
@@ -1777,6 +1778,7 @@ newscrime24.com##.wpb_gallery
 dainikmas.com,keralatimes.com##.wpb_images_carousel
 sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
+timestodays.com##.wpb_revslider_element
 alamkikhabar.in,farmsandfarmer24.com,hind24news.com,munshiganjnews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
