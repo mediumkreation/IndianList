@@ -515,6 +515,7 @@ bdtoday24.com###text-html-widget-35
 globalpunjabtv.com###text-html-widget-4
 bdtoday24.com###text-html-widget-41
 sarkarimanthan.com###text-html-widget-6
+europemalayali.co.uk###thumbs
 notunerkotha.com###tie-block_1375
 notunerkotha.com###tie-block_1947
 voiceofjhabua.com###tie-block_2269
@@ -1280,6 +1281,7 @@ celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,k
 daijiworld.com##.navbar-static-top a[target="new"]
 amraikhabor.com##.ne-banner-layout1
 nepalijanta.com##.nepalijanta-ad
+europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 gorkhapatraonline.com##.news-inline-add
 sansarnews.com##.news-style-six-ads
