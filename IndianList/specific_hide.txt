@@ -1545,7 +1545,7 @@ vadakaravoice.com##.td-main-sidebar aside
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 dishadaily.com##.td-post-content .code-block
 sanjeevanisamachar.com##.td-post-content .master-slider
-nammabantwala.com##.td-post-content .td-a-rec
+nammabantwala.com,vasundharadeep.news##.td-post-content .td-a-rec
 sachkitop.com##.td-post-content figure img
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
@@ -1564,6 +1564,7 @@ banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
 sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 apnahimachalapnishaan.in,newspage13.com##.td_block_image_box
+vasundharadeep.news##.td_block_separator ~ .td-a-rec
 thebharatnews.net##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 khaskhobor.com##.td_single_image_bg
