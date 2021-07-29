@@ -29,7 +29,7 @@
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
 -Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
--ads.jpg|$domain=bigulnews.tv|channelionline.com|ctn24.com
+-ads.jpg|$domain=bigulnews.tv|channelionline.com|ctn24.com|thebiharnews.com
 -ads.png|$domain=ctgsun.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
@@ -2501,6 +2501,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||muzaffarpurnow.in/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-24-at-6.28.57-PM.jpeg
 ||muzaffarpurnow.in/wp-content/uploads/2021/01/0001-3.jpg
 ||muzaffarpurnow.in^*/1575553961218_davakhana-1
+||muzaffarpurwow.com^*/Rama-Hardware
 ||muznews.in/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-26-at-8.00.17-AM.jpeg
 ||muznews.in/wp-content/uploads/2020/08/5B69F210-C198-484D-807A-769DA7D52C16$image
 ||muznews.in/wp-content/uploads/2020/08/RF$image
