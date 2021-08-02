@@ -1328,6 +1328,7 @@ prajavani.net##.pj-ad-card
 bonikbarta.net##.popupCloseButton
 abnews24.com,rtvonline.com##.popup_blackoverlay
 abnews24.com,rtvonline.com##.popup_whiteoverlay
+apnamzn.com##.portlet-journal-content
 cglivenews.co.in##.post > .a-single
 jaljalakhabar.com##.post aside.widget_media_image
 narayanionline.com##.post-advertiesment
