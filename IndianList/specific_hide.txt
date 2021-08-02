@@ -1381,6 +1381,7 @@ ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 amarbarishal24.com##.row + .single_side_bar
 sathyamonline.com##.sAds
+samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 nepalsamaya.com##.sb-bigyaapan
 sheikhpuranews.com##.sb-widget-ad
@@ -2140,6 +2141,7 @@ rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
+samaydarshan.in##section.samay-widget
 bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
 janatasamachar.com##section.widget > a > img
 newsofnepal.com##section.widget > a img
