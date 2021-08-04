@@ -1431,6 +1431,7 @@ dhangadhikhabar.com##.sidebar-add
 sunbd24.com##.sidebar-adv
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 shineupindia.com##.sidebar-box a[ target="_blank"]
+khabarchalisa.com##.sidebar-inner .widget_custom_html
 creativenewsexpress.com##.sidebar-inner > section.widget_media_image
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
