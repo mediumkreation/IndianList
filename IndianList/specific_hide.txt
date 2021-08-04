@@ -838,6 +838,7 @@ nagariknetwork.com##.below-article-ad
 arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
+cgsandesh.com##.bend
 bengallive.in##.benga-raiganj-municipality
 onlinepana.com##.betn-add
 andhrajyothy.com##.bgg.eng
@@ -1287,6 +1288,9 @@ naturalnews.co.in##.natur-content
 celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 amraikhabor.com##.ne-banner-layout1
+cgsandesh.com##.ne-sidebar .bg-aqua
+cgsandesh.com##.ne-sidebar > .ne-banner-layout1
+cgsandesh.com##.ne-sidebar > .topic-border
 nepalijanta.com##.nepalijanta-ad
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
