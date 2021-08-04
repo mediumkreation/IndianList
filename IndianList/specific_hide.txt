@@ -1508,7 +1508,7 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
-cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com,thetadkanews.com,ujjawalprabhat.com##.stream-item
+cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,thetadkanews.com,ujjawalprabhat.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1710,6 +1710,7 @@ bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,sunamganjerkhobor
 ujyaalonetwork.com##.widget_media_image:not(#media_image-100)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
+raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 abhitaknewsuk.in,meherpurnews.com##.widget_media_video
 independentcitizennews.com,samnanews.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
