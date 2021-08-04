@@ -9,7 +9,7 @@ dailyhealthletters.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart
 dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
-dailyhealthletters.com###HTML15
+dailyhealthletters.com,taazakhoj.com###HTML15
 madhepurakhabar.com,thattungal.com###HTML16
 madhepurakhabar.com,thattungal.com###HTML18
 obolokon24.com###HTML19
@@ -23,7 +23,7 @@ gramsamachar.com,jaldhakanews.com###HTML30
 chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
-madhepurakhabar.com###HTML6
+madhepurakhabar.com,taazakhoj.com###HTML6
 chapainawabganjnews.com,ekumaon.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,rknewsofindia.com###HTML8
 jaldhakanews.com,top99breakingnews.blogspot.com###HTML9
