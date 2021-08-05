@@ -76,6 +76,7 @@ udayavani.com###ads
 seithy.com###ads400px
 press4news.live###adsBanner
 news24nepal.tv###adv
+newsnib.in###advertisement
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 importmirror.com###adx
@@ -2008,6 +2009,8 @@ weeklybangladeshusa.com##a[target="_blank"] img
 clickmandu.com##a[target="_blank"] img:only-child
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
+newsnib.in##app-squaread
+newsnib.in##app-squaread4
 atharvnews.com##aside .theiaStickySidebar .widget_text
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 haldwanilive.com##aside > .textwidget
