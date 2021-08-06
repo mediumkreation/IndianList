@@ -1242,6 +1242,7 @@ cninews24.com##.map
 ideatvnews.com##.marquee-ads
 ayushindianews.com,hpnewsatl.com,khabarpahad.com##.master-slider
 newsspecial.in##.master-slider-main-widget
+veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
@@ -2074,6 +2075,7 @@ samacharsach.com##div[class^="samac-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttranews.com##div[class^="uttra-content_"]
 akashjatra.com,gandaknews.com,justaction.in,makalukhabar.com,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
+veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
