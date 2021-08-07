@@ -1449,6 +1449,7 @@ mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
 channelcox.com##.single-ditails + .add .widget_area
+thenewswords.com##.single-image .carousel
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
