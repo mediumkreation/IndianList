@@ -1713,7 +1713,7 @@ insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
-bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,sunamganjerkhobor.com##.widget_media_image
+andbiharnews.co.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,sunamganjerkhobor.com##.widget_media_image
 ujyaalonetwork.com##.widget_media_image:not(#media_image-100)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
