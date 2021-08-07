@@ -2138,6 +2138,7 @@ mirsaraikhobor.com##img[alt="mAD"]
 bhilwarahalchal.com##img[alt="news"]
 khabreaajtaklive.com##img[alt="sidebar ads"]
 banglanews24.com##img[alt="walton"]
+kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 hosakannada.com##img[alt^="Ad "]
 pressnote.in##img[alt^="Advert"]
