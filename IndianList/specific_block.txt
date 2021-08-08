@@ -166,6 +166,7 @@ _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
 _ads.png|$domain=prothomalo.com
 _Advt.gif|$domain=kasaragod.com
+_advt_$domain=channelindia.news
 _banner$image,domain=poriborton.com
 _Banner-Ad_$domain=bikashnews.com
 _banner.gif|$domain=farakdhar.com
