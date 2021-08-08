@@ -419,7 +419,7 @@ newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
-pradeepamonline.com###sidebar1
+abtaknews.com,pradeepamonline.com###sidebar1
 kulalaworld.com###simpleimage-13
 muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
