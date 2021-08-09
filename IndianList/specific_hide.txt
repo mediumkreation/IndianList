@@ -1811,6 +1811,7 @@ newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 alamkikhabar.in,breakingtube.com,dainikmas.com##.wpb_video_widget
+wishavwarta.in##.wpb_widgetised_column .wp-block-image
 pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
