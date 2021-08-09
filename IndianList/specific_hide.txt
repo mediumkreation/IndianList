@@ -639,7 +639,7 @@ bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 gnewsbd24.com##.add iframe
-alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,crimebd.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gangnirchokh.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com##.add img
+alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,crimebd.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gangnirchokh.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,shubhoprotidin24.com##.add img
 protisomoy.com##.add img.image
 dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
@@ -2084,6 +2084,7 @@ uttranews.com##div[class^="uttra-content_"]
 akashjatra.com,gandaknews.com,justaction.in,makalukhabar.com,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
+shubhoprotidin24.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
