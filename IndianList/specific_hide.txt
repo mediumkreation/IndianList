@@ -239,7 +239,7 @@ aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskare
 samrudhaodisha.com###media_image-205
 amanshantinews.com,ggsnews24.com,gnews5.com,samnanews.com###media_image-21
 amanshantinews.com,divyalive.com,sabsach.in###media_image-22
-cgnews24x7.wordpress.com,samacharsach.com###media_image-23
+cgnews24x7.wordpress.com,dainikchintak.com,samacharsach.com###media_image-23
 samrudhaodisha.com###media_image-235
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
@@ -2065,6 +2065,7 @@ unitednripost.com##div[class*=" ads_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 bikanerhulchul.com##div[class*="bikan"]
+dainikchintak.com##div[class*="daini-"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
