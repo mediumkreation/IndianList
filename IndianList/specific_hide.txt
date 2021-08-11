@@ -2050,6 +2050,7 @@ bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p > img.wp-image-23118)
 steelcity.online##body > .container > .row:first-child > div:last-child
+neemkathananews.in##center > b+img
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabguardian.com##div.widget_media_image:not(#media_image-12):not(#media_image-14)
