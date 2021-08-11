@@ -1909,6 +1909,7 @@ eelamalar.com##a[href*="eelapparavaikal.com"]
 eelamalar.com##a[href*="eelavarkural.blogspot.com"]
 eelamalar.com##a[href*="eelaveechu.net"]
 eelamalar.com##a[href*="eelavenkai.blogspot.com"]
+barisalpress.com##a[href*="enjoy.net.bd"] img
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 tamilarul.net##a[href*="facebook.com"] > img
 times-bd24.com##a[href*="facebook.com/Future-Company-"]
@@ -2088,6 +2089,7 @@ uttranews.com##div[class^="uttra-content_"]
 akashjatra.com,gandaknews.com,justaction.in,makalukhabar.com,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
+barisalpress.com##div[data-href*="enjoynetwork.bd"]
 shubhoprotidin24.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
