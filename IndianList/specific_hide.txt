@@ -501,7 +501,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,orthosongbad.com,ptbnews.in,udaipurkiran.in###text-6
+banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,glimeindianews.in,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,orthosongbad.com,ptbnews.in,udaipurkiran.in###text-6
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
@@ -2121,6 +2121,7 @@ dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
+glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
