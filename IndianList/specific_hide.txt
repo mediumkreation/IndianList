@@ -413,7 +413,7 @@ rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
-chirantannews.in,newindiatimes.news,parbattaanchal24.com,prameyanews7.com,trustnews24.com###sidebar-right .widget_media_image
+chirantannews.in,newindiatimes.news,parbattaanchal24.com,prameyanews7.com,trustnews24.com,vbnews24.com###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
@@ -2026,6 +2026,7 @@ dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 newsnib.in##app-squaread
 newsnib.in##app-squaread4
+vbnews24.com##article.single .image
 atharvnews.com##aside .theiaStickySidebar .widget_text
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 haldwanilive.com##aside > .textwidget
