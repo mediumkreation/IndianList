@@ -55,6 +55,7 @@
 /ad-saint$domain=pahareralo.com
 /ad.gif?$domain=himalini.com
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com|teknafnews24.com
+/Ad.jpg|$domain=newsvob.com
 /ADD-$domain=tejastoday.com
 /add.jpg$domain=muznews.online
 /ADD.jpg|$domain=gourbarta24.com
@@ -2931,6 +2932,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||newstrendindia.com/wp-content/uploads/2020/05/toys-world-new
 ||newstruthlive.com/wp-content/uploads/2020/02/19022020bzjztg_compress86.jpg
 ||newstvbihar.in/wp-content/uploads/2020/03/20200312_115715.jpg
+||newsvob.com^*/NIR-Dental-Care-
 ||newswayanad.b-cdn.net^*-ad-
 ||newsxindia.com/Uploads/ad_
 ||nextzenbd.com/add/$third-party
