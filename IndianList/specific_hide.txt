@@ -1136,7 +1136,7 @@ nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
 krushival.in##.horizontal-google-ads
 tips4blog.com##.hot_rwc_ads
-indiatimes.com##.hp-rhs-ads-container
+indiatimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 mekhrajbairwa.com##.hustle-layout
@@ -1373,7 +1373,7 @@ publictv.in##.pt-adv
 pagetamil.com##.pum-content
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
-indiatimes.com##.pwa-deals
+indiatimes.com,vijaykarnataka.com##.pwa-deals
 pangighatidanikapatrika.in##.quads-highlight-adblocked
 rajnitiprotidin.com##.qvzk
 madhyamam.com##.ramdan-ad-wrapper
@@ -2206,3 +2206,4 @@ paristamil.com##table[width="98%"] h2.cat_title
 bihardootnews.com##tagdiv
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 aajkasach.in##ul.post h3.widget-title
+vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
