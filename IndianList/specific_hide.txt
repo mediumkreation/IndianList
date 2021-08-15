@@ -617,7 +617,7 @@ alarmindia.in##.ad-slide
 news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
-alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
+alorkantho24.news,indiatimes.com,saaravita.lk,uttaranews24.com##.ad1
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
@@ -1136,6 +1136,7 @@ nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
 krushival.in##.horizontal-google-ads
 tips4blog.com##.hot_rwc_ads
+indiatimes.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 mekhrajbairwa.com##.hustle-layout
@@ -1372,6 +1373,7 @@ publictv.in##.pt-adv
 pagetamil.com##.pum-content
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
+indiatimes.com##.pwa-deals
 pangighatidanikapatrika.in##.quads-highlight-adblocked
 rajnitiprotidin.com##.qvzk
 madhyamam.com##.ramdan-ad-wrapper
@@ -2164,6 +2166,7 @@ reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
 kasargodvartha.com##img[title="wellfitindia"]
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
+indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
