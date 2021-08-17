@@ -1555,8 +1555,8 @@ dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-con
 ehapurnews.com,khulasaonline.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com##.td-a-rec-id-custom-spot
 goraynews24.com##.td-a-rec-id-footer_top
-amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,goraynews24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thedeoriatimes.in,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
-aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
+amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,goraynews24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,poribortonersopoth.com,prajasatta.in,sanmarga.com,thedeoriatimes.in,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
+aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in,pathramonline.com##.td-adspot-title + a
@@ -1809,7 +1809,7 @@ dailysatnadee.com##.wpb_content_element img:only-child
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 newscrime24.com##.wpb_gallery
 dainikmas.com,keralatimes.com##.wpb_images_carousel
-sajagindia.com,sangbaddiganta.com##.wpb_raw_code
+poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
 alamkikhabar.in,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,manchitra24.com,munshiganjnews.com##.wpb_single_image
@@ -2046,7 +2046,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 aligarhmedia.com,coxsbazarshomoy.com,newsboardindia.com,sachkitop.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-64kalalu.com,bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,odishasambad.in,parvatanchal.com,prabartan.com,punjabinational.ca,rajsattapost.com,saurahaonline.com,shadhinalo.com,tarangabarta.com,theeditor24.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,saurahaonline.com,shadhinalo.com,tarangabarta.com,theeditor24.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
