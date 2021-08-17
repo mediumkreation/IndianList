@@ -638,7 +638,6 @@ newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
-gnewsbd24.com##.add iframe
 alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,crimebd.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gangnirchokh.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,shubhoprotidin24.com##.add img
 protisomoy.com##.add img.image
 dainikshokalerchattogram.com##.add img:not(.wp-image-487)

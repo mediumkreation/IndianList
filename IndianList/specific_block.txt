@@ -2752,7 +2752,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||neplays.com^*/RBB.gif
 ||nerariyan.com/wp-content/uploads/2019/05/3973506263588718765.gif
 ||nerkazhcha.com/wp-content/uploads/2021/06/jobin_priyan_ad.png
-||nerpatham.com/vol-no-04/images/2020/ads/soq-reg-3.jpg
 ||nerpatham.com/vol-no-04/images/peaceradio-02.jpg
 ||nerpatham.com^*/ads/
 ||nethfm.lk/banners/$domain=nethgossip.lk
@@ -3927,7 +3926,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210205-WA0050
 ||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210503-WA0096
 ||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210503-WA0097
-||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210503-WA0097.jpg
 ||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210510-WA0058
 ||tahalka24x7.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-03-at-9.22.20-PM
 ||tahalka24x7.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-03-at-9.22.24-PM
@@ -3959,10 +3957,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||tamilsaga.com/assets/logo/6247ba780b92449099f952efa1e2c802_bg.jpg
 ||tamilsaga.com/assets/logo/d130744dc806f1525c4f28b4af706d5a_bg.jpg
 ||tamilscreen.com/wp-content/uploads/2020/01/corhaz1.jpg
-||tamilvanakkam.com/wp-content/uploads/2017/11/Vlambaram-Ad.jpg
-||tamilvanakkam.com/wp-content/uploads/2018/05/vlambaram-ad-Ais.jpg
+||tamilvanakkam.com^*/Vlambaram-Ad
 ||tamilvanakkam.com/wp-content/uploads/2019/08/Royal-Medical-8.5X11-Version-1-e1566277122343.jpg
-||tamilvanakkam.com/wp-content/uploads/2020/06/HLGTA-20-12.jpg
 ||tamilvanakkam.com/wp-content/uploads/2020/06/Ramada-Inn-Ad-re2-scaled.jpg
 ||tamilvanakkam.com^*/HLGTA-
 ||tamilveedhi.com/wp-content/uploads/2020/12/New-Project-2020-12-16T182723.964.jpg
@@ -4435,7 +4431,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||youthmukam.com^*/catenation-
 ||youthmukam.com^*/champaran-hostel
 ||youthmukam.com^*/dr-
-||youthmukam.com^*/dr-raj
 ||youthmukam.com^*/mantrasu
 ||youthmukam.com^*/raman-sir
 ||youthmukam.com^*/real-physics
