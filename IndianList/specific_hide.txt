@@ -1810,7 +1810,7 @@ dainikmas.com,keralatimes.com##.wpb_images_carousel
 sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,munshiganjnews.com##.wpb_single_image
+alamkikhabar.in,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,manchitra24.com,munshiganjnews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
