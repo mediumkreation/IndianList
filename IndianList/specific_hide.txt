@@ -640,6 +640,7 @@ dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,crimebd.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gangnirchokh.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,shubhoprotidin24.com##.add img
 protisomoy.com##.add img.image
+songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
 talashbangla.com##.add-area
