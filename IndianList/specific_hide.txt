@@ -501,7 +501,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,glimeindianews.in,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,orthosongbad.com,ptbnews.in,udaipurkiran.in###text-6
+banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,glimeindianews.in,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,ptbnews.in,udaipurkiran.in###text-6
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
@@ -1312,6 +1312,7 @@ kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
+nnews24.com##.nnews-content
 narayanionline.com##.no-premodal-md
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
