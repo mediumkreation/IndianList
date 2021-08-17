@@ -1831,7 +1831,6 @@ bnnbharat.com##.xembgt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
 khabreelal.com##.zox-post-ad-wrap
-khabreelal.com#?##AS_O_LHS_1 div:-abp-has( > div > a > h2:last-child)
 tollywood.net##[alt*=" ad"]
 kashishnews.com##[alt="add image"]
 narayanionline.com##[alt="advertiesment"]
@@ -2167,6 +2166,7 @@ kasargodvartha.com##img[title="wellfitindia"]
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
+khabreelal.com#?#div#AS_O_LHS_1 div:-abp-has( > div > a > h2:last-child)
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
