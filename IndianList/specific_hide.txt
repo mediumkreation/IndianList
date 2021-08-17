@@ -461,7 +461,7 @@ fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilol
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
-anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,communitynews24.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p ~ p
 chirantannews.in,gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
@@ -492,7 +492,7 @@ careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 udaydarpan.com###text-49
 achhikhabar.com###text-49 a
-biharpatrika.in,chandankesari.com,jagprerna.com,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
+biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
 mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 achhikhabar.com###text-50 a
 udaydarpan.com###text-51
@@ -954,7 +954,7 @@ belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,green
 gvtjob.com,news127.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
-ceylonradio.co.uk,chandpurtimes.com,deshersangbad.com,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
+ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
 uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
