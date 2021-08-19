@@ -689,7 +689,7 @@ gouripurnews.com##.add_add
 snn24.com##.add_after_scroller
 dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
-n7india.com,provatnews.com##.add_banner
+allnewsbharat.com,n7india.com,provatnews.com##.add_banner
 gtamilnews.com##.add_block_hdefault
 malayalamtodayonline.com##.add_bnk_img
 ridoyachandpur.com##.add_content
@@ -1421,7 +1421,7 @@ ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
 baahrakhari.com##.side-bigyaapan
 gournadi24.com##.side-indent .wgs-ads:first-child
-provatnews.com##.sideAdd
+allnewsbharat.com,provatnews.com##.sideAdd
 hotnewsindia.com##.sideLeft .custom-html-widget
 hotnewsindia.com##.sideRight .custom-html-widget
 onlinekhabar.com##.side__add
