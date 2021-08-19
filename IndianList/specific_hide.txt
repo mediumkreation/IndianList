@@ -573,7 +573,7 @@ rkhabar.com###wp-custom-header
 citynewsexpress.com##.-indx
 samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
-punjabiinholland.com##.AdvtRight
+punjabiinholland.com,sachikalam.com##.AdvtRight
 janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
 dainiksylhet.com,surmanews24.com,weeklydesh.co.uk##.DAdd
@@ -2186,6 +2186,7 @@ rashtranayaknews.com##media_image-8
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
+sachikalam.com#?#div.animright:-abp-has(>.AdvtSample)
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
