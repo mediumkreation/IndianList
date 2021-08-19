@@ -244,7 +244,7 @@ cgnews24x7.wordpress.com,dainikchintak.com,samacharsach.com###media_image-23
 samrudhaodisha.com###media_image-235
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
-ggsnews24.com,voiceofbihar.in###media_image-26
+ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
 ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
@@ -1722,6 +1722,7 @@ daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 newsaroma.com##.widget_block
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
+pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
