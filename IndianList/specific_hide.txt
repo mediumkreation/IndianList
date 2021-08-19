@@ -984,6 +984,7 @@ malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 newsway.in##.entry-content .newsw-content
 punjabbaani.com##.entry-content .stream-item
+andbiharnews.co.in##.entry-content .wp-block-gallery
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
