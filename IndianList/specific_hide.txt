@@ -1804,7 +1804,7 @@ ratopost.com##.wp-image-9728
 drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
 hpnewsatl.com,nammabantwala.com##.wp-video
-vidarbhaapla.com##.wpb_content_element
+atharvnews.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
