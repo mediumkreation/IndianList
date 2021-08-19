@@ -1720,6 +1720,7 @@ e-kantho24.com##.widget_area
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
+newsaroma.com##.widget_block
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 avadhkiaawaz.com##.widget_gallery_img_widget
