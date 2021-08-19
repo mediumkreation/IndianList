@@ -3,7 +3,7 @@ bdipo.com###BDIPO_ad_id
 pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
 hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,unmaikal.com###HTML1
-chilahatiweb.com,jaldhakanews.com###HTML10
+chilahatiweb.com,jaldhakanews.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
 dailyhealthletters.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,rewanewsmedia.com###HTML11
 dailyhealthletters.com,liveaaryaavart.com###HTML12
@@ -27,7 +27,7 @@ madhepurakhabar.com,taazakhoj.com###HTML6
 chapainawabganjnews.com,ekumaon.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,rknewsofindia.com###HTML8
 jaldhakanews.com,top99breakingnews.blogspot.com###HTML9
-bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,rewanewsmedia.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
+bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,rewanewsmedia.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com,yarldevinews.net###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
@@ -40,7 +40,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com###Image2
+battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com,yarldevinews.net###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -80,6 +80,7 @@ newsnib.in###advertisement
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 importmirror.com###adx
+yarldevinews.net###after-ad
 andhrajyothy.com###aimgMain
 andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
@@ -95,6 +96,7 @@ dinamina.lk,ilamai.com,sitakundabarta.com###banner
 devbhoomidarshan17.com###banner-10
 truevisionnews.com###bannerCarousel1
 bangalorewaves.com###bannerclassfd
+yarldevinews.net###before-ad
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 bankingsansar.com###bigyapan-top
