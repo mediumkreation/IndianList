@@ -985,6 +985,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
+sachchadost.in##.entry-content .code-block
 newsway.in##.entry-content .newsw-content
 punjabbaani.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
