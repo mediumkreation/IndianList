@@ -239,7 +239,7 @@ bplnews24.in,flowersoriginals.com###media_image-16
 dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,najarianews.in,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 samrudhaodisha.com###media_image-205
 amanshantinews.com,ggsnews24.com,gnews5.com,samnanews.com###media_image-21
 amanshantinews.com,divyalive.com,sabsach.in###media_image-22
@@ -454,7 +454,7 @@ alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
 anbnews24.com,timesoneodia.com###text-1
-jagprerna.com,medianp.com,moonbreaking.com,samnanews.com,tamil.com,theblastkhabar.com,vanakkamlondon.com###text-10
+jagprerna.com,medianp.com,moonbreaking.com,najarianews.in,samnanews.com,tamil.com,theblastkhabar.com,vanakkamlondon.com###text-10
 anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
@@ -496,7 +496,7 @@ careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 udaydarpan.com###text-49
 achhikhabar.com###text-49 a
-biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
+biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,najarianews.in,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
 mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 achhikhabar.com###text-50 a
 udaydarpan.com###text-51
