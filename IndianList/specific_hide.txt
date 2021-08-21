@@ -207,6 +207,7 @@ enepalese.com###logo_middle
 cellitnews.com###logoright
 voiceoffreedom.in###magazine-plus-image-6
 voiceoffreedom.in###magazine-plus-image-8
+breakingtube.com###main .vc_custom_heading
 newsuperbharat.com###main .widget_custom_html
 newsxindia.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
