@@ -974,7 +974,7 @@ khabardarinews.com,sitakundabarta.com##.elementor-widget-image
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 theeditor24.com##.elementor-widget-penci-featured-boxes
-24webnews.com##.elementor-widget-slides
+24webnews.com,truelinenews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
 abbiharnews.com,keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 metrovaartha.com##.embed-responsive-16by9
