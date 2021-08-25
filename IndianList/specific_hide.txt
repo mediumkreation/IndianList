@@ -598,7 +598,6 @@ gujarattimesusa.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
 abbiharnews.com##.abbih-widget
-abhayindia.com##.abhay-before-content
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
 ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
@@ -2115,6 +2114,7 @@ pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
 aapnihathai.com##div[id^="aapni-"]
+abhayindia.com##div[id^="abhay-"]
 achhikhabar.com##div[id^="achhi-"]
 aryavartposts.com##div[id^="aryav-"]
 banglarjanarob.com##div[id^="bangl-"]
