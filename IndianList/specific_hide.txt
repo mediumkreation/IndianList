@@ -1605,7 +1605,7 @@ sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 apnahimachalapnishaan.in,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
-thebharatnews.net,theexclusivestory.com##.td_block_single_image
+thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 khaskhobor.com##.td_single_image_bg
 akkbd.com##.td_single_image_bg[target="_blank"]
