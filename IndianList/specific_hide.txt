@@ -1626,6 +1626,7 @@ bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,rudrakshnews.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 jagatbhumi.com##.theiaStickySidebar .wdslider
+rightnewsindia.com##.theiaStickySidebar .widget_block
 pangighatidanikapatrika.in,thehawabaaz.com##.theiaStickySidebar .widget_custom_html
 anidda.lk,inn24news.in,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,rajarhatbd.com,rudrakshnews.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
