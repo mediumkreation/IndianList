@@ -1390,6 +1390,7 @@ jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
 pakwangali.in##.right-add
 adnlive24.com##.right_adbox iframe
+khabarbhartiindia.com##.right_adbox p img
 unmadmagazine.com##.right_bottom_ad_section
 deshprotikhon.com##.right_sidebar
 tnilive.com##.righta
