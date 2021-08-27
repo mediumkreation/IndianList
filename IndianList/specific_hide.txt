@@ -915,7 +915,7 @@ newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,cinereporters.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,uttarakhandpost.com##.colombiatracked
+3pm.in,cinereporters.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,uttarakhandpost.com##.colombiatracked
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
@@ -1913,7 +1913,7 @@ nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 dailyindianherald.com##a[href*="chemmanurinternational.com"]
 tamildaily.com##a[href*="cinefield.com"]
-cinereporters.com,janprahar.com,kathir.news,manoranjannama.com,royalbulletin.in##a[href*="click.htm?"][target="_blank"]
+cinereporters.com,janprahar.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in##a[href*="click.htm?"][target="_blank"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
