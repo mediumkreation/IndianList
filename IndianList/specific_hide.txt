@@ -1530,7 +1530,7 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
-cinenxt.com,gandakivoice.com,inn24news.in,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,thetadkanews.com,ujjawalprabhat.com##.stream-item
+apnahimachalapnishaan.in,cinenxt.com,gandakivoice.com,inn24news.in,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,thetadkanews.com,ujjawalprabhat.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1543,7 +1543,7 @@ amritvichar.com,bankalive.net##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,rudrakshnews.com,thetadkanews.com##.stream-item-top-wrapper
-keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
+apnahimachalapnishaan.in,keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
 youthmukam.com##.su-image-carousel
@@ -1628,7 +1628,7 @@ bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,rudrakshnews.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 jagatbhumi.com##.theiaStickySidebar .wdslider
-rightnewsindia.com##.theiaStickySidebar .widget_block
+apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
 pangighatidanikapatrika.in,thehawabaaz.com##.theiaStickySidebar .widget_custom_html
 anidda.lk,inn24news.in,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,rajarhatbd.com,rudrakshnews.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
