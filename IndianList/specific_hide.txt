@@ -1560,14 +1560,14 @@ tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
 24ghonta.news,agrabharat.in,ajkerarban.com,aloron71.com,angindianews.com,anmnews.in,avadhtimes.net,bdindianews.in,bdtimesnews.com,bhojpurilive.com,bilaspurlive.com,bmnews24.net,brajeshkibaat.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,dailynewsservices.com,dainiksamvad.in,devbhoomimedia.com,dtw24news.in,durjoybangla.com,ejalakam.com,ekattorer-kotha.com,enews24x7.in,frontline24.com,goodmorningnews.in,haldwanilive.com,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,hnewsraftaar.com,impactvoice.news,innuonline.com,jagrukjanta.net,karavaldaily.com,khabarexclusive24.com,khabarindia24x7.com,kholabarta24.com,kirandoot.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,mayanewz.com,moviemirchi24.com,muhimmathonline.com,narayanganjerkhobor24.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,ntvtelugu.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,prathidina.in,pravasishabdam.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,rastranews.in,reporter24x7.com,sachkitop.com,samayviews.com,sanjeevanisamachar.com,sansanikhejsamachar.in,saurashtrakranti.com,sharpbharat.com,sheeshanews.com,sportstoday.lk,srnewsgroup.com,stocktimes24.com,tahalka24x7.com,techvision24.com,theappealnews.com,theexclusivestory.com,thepunchlineexpose.com,therepublicantimes.co,thestellarnews.com,tmnewshub.com,touringtalkies.co,trendingnewshindi.live,tvindiaplus24.com,uddoktabarta.com,uttarbangergramunnayan.com,vidarbhaapla.com,youthmukam.com##.td-a-rec
 abhishektimes.in.net,britbangla24.com,smnewshimachal.in##.td-a-rec img
-bholahatchitro.com,khulnatimes.com,shadhinalo.com##.td-a-rec-id-content_bottom
+bholahatchitro.com,khulnatimes.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 khulasaonline.com##.td-a-rec-id-content_bottom > img
 dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,khulasaonline.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com##.td-a-rec-id-custom-spot
 goraynews24.com##.td-a-rec-id-footer_top
-amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,goraynews24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,poribortonersopoth.com,prajasatta.in,sanmarga.com,thedeoriatimes.in,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
+amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,goraynews24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,thedeoriatimes.in,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
@@ -1827,7 +1827,7 @@ dainikmas.com,keralatimes.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,manchitra24.com,munshiganjnews.com##.wpb_single_image
+alamkikhabar.in,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,manchitra24.com,munshiganjnews.com,politalks.news##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
