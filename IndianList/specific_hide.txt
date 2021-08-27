@@ -2109,7 +2109,7 @@ patnapost.com##div[class^="patna-"]
 samacharsach.com##div[class^="samac-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttranews.com##div[class^="uttra-content_"]
-akashjatra.com,chavakkadonline.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
+akashjatra.com,biharnewslive.com,chavakkadonline.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
