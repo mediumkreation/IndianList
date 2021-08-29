@@ -2159,6 +2159,7 @@ malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 deshsanchar.com##img.alignnone.size-full
 munaadi.com##img[alt$=" Ad"]
+pksnews24.com##img[alt*=" Ad-"]
 kantipath.com##img[alt*="add"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
@@ -2200,6 +2201,8 @@ sankalpakhabar.com##main section.sk_banner
 cnin.co.in,dainikjaltedeep.com##marquee
 rashtranayaknews.com##media_image-8
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
+pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
+pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
 sachikalam.com#?#div.animright:-abp-has(>.AdvtSample)
