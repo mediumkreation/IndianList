@@ -156,8 +156,8 @@ ddnews24x7.com###custom_html-48
 247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com###custom_html-5
 ddnews24x7.com,hindi-news-today.com###custom_html-51
 ddnews24x7.com###custom_html-53
-cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
-barisaltoday.com,bdcrictime.com,desherpotrika.com,emediacreative.in,firsttracknews.com,kalaroanews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
+bnanews24.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
+barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,kalaroanews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
 mynews36.com,pradhanavartha.in###custom_html-8
 aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
@@ -1834,7 +1834,7 @@ dainikmas.com,keralatimes.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,manchitra24.com,munshiganjnews.com,politalks.news##.wpb_single_image
+alamkikhabar.in,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,manchitra24.com,munshiganjnews.com,politalks.news##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
