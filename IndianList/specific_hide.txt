@@ -410,6 +410,7 @@ kannadaprabha.com###section_content_check_518
 sawalnepal.com###section_right .ad
 dinamalar.com###selum
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
+just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,yazhnews.com###sidebar
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 dbnnews.in,news27.org,punjabnewslive.co.in###sidebar .widget_media_image
@@ -891,7 +892,7 @@ everestdainik.com##.bstyle-list ~ .post
 cgjanadesh.com,kaimurlive.com##.bwg_container
 cgjanadesh.com##.bwp_gallery_slideshow
 himachalnownews.com##.c_ad
-malayalamtodayonline.com##.carousel
+just36news.com,malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
