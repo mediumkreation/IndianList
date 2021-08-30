@@ -60,6 +60,7 @@
 /add.jpg$domain=muznews.online
 /ADD.jpg|$domain=gourbarta24.com
 /add.jpg|$domain=sheershakhobor.com
+/add/$domain=amreliexpress.com
 /add/*$image,domain=habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
 /add_$domain=shamolbangla24.com
 /AddImages/*$domain=thurannakathu.com
