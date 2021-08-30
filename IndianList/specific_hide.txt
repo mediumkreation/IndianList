@@ -1392,6 +1392,7 @@ nepalipatra.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
 pakwangali.in##.right-add
+dailysabuj.com##.right-add-container
 adnlive24.com##.right_adbox iframe
 khabarbhartiindia.com##.right_adbox p img
 unmadmagazine.com##.right_bottom_ad_section
