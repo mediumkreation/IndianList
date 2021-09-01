@@ -183,6 +183,7 @@ add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
 ADVT.jpg|$domain=bhilaitimes.com
 Banner-$image,domain=reportersnepal.com
+block_$domain=livenewsxpress.com
 blocks/block_$domain=nattuvartha.news|sirajganjexpress.com
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com

@@ -876,7 +876,7 @@ sudurpress.com##.block-inline-blockad-block
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in##.bn-lg
-champarantoday.in,polkholindia.com##.bn-lg-sidebar
+champarantoday.in,livenewsxpress.com,polkholindia.com##.bn-lg-sidebar
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
