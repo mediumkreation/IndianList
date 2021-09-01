@@ -419,7 +419,7 @@ readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
-hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
+channelionline.com,hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
 chirantannews.in,newindiatimes.news,parbattaanchal24.com,prameyanews7.com,trustnews24.com,vbnews24.com###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
@@ -1828,7 +1828,7 @@ newstodayjharkhand.com##.wp-post-author .code-block img
 hpnewsatl.com,nammabantwala.com##.wp-video
 atharvnews.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-delhicrimepressnews.com##.wpb_content_element img
+channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 newscrime24.com##.wpb_gallery
@@ -2014,7 +2014,6 @@ eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
 sharebiz.net##a[href*="target="]
 beforeprint.in,ourmyliddy.com##a[href*="tel:"]
-channelionline.com##a[href*="thepalacelife.com/"]
 eelamalar.com##a[href*="thesakkatru.com"]
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
