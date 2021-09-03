@@ -1323,7 +1323,7 @@ sansarnews.com##.news-style-six-ads
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 prothomalo.com##.news_inner_spcl_ad
-atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,livebihar.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
@@ -2229,9 +2229,9 @@ himalpost.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com##sec
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
-youthexpress.in##section.widget_custom_html
+livebihar.in,youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,livebihar.in,munaadi.com,newszon.in,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com,udaydarpan.com##section.widget_media_image
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
