@@ -1110,7 +1110,7 @@ digitalbharatnews.in##.header-inner .sidebar-col
 firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
-tv24live.com##.header-right-adv
+headline24x7.com,tv24live.com##.header-right-adv
 newsway.in##.header-right-widgets
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
