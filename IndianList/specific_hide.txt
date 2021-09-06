@@ -17,6 +17,7 @@ aapkimedia.com,chilahatiweb.com###HTML2
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
+gidhaur.com###HTML24
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
@@ -29,12 +30,12 @@ dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.
 jaldhakanews.com,top99breakingnews.blogspot.com###HTML9
 bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,rewanewsmedia.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com,yarldevinews.net###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
-evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
+evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
 madhepuratimes.com,nepalmother.com,thattungal.com###Image12
 poonththalir.blogspot.com###Image125
 madhepuratimes.com,thattungal.com###Image13
-arthasarokar.com,kalvinews.com,madhepuratimes.com,thattungal.com###Image14
+arthasarokar.com,gidhaur.com,kalvinews.com,madhepuratimes.com,thattungal.com###Image14
 madhepuratimes.com,thattungal.com###Image15
 madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image16
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
@@ -51,7 +52,7 @@ poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 engrsvoice.com,gidhaur.com,hamaramahanagar.in,madawalaenews.com,madhepuratimes.com,malabarflash.com,nepalmother.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
-engrsvoice.com,evisionnews.co,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
+engrsvoice.com,evisionnews.co,gidhaur.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
 importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
