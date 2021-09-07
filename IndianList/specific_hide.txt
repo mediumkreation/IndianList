@@ -233,12 +233,12 @@ todaybiharnews1.wordpress.com###media_gallery-33
 pressbangla24.com,webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
-aryavartposts.com,bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
 canvasmagazine.com.bd,nationissue.com,news127.com,samnanews.com,scgnews.in###media_image-11
 samrudhaodisha.com###media_image-115
 bbttimes.com,capitalnews.lk,jansaamna.com,samnanews.com###media_image-12
-aryavartposts.com,dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
-aryavartposts.com,bplnews24.in,hindvatannews.com,indianow24.com,jansaamna.com,mirrortoday.in,odishatime.com,sabkasandesh.com###media_image-14
+dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
+bplnews24.in,hindvatannews.com,indianow24.com,jansaamna.com,mirrortoday.in,odishatime.com,sabkasandesh.com###media_image-14
 anewsoffice.com,hindvatannews.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 bplnews24.in,flowersoriginals.com###media_image-16
 bplnews24.in,dailysamvad.com###media_image-17
@@ -386,7 +386,7 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
-aajkakanpur.com,aapkachannelnews.co.in,ideaciti.com,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aryavartposts.com,ideaciti.com,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 nagarikbahas.com###secondary .widget_sp_image
