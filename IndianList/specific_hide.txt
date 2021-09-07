@@ -320,9 +320,9 @@ biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
 abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in,samacharsach.com###metaslider_widget-2
-24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-3
-mahekasansar.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-4
-digitalnewslive.com,glimeindianews.in,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-5
+24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
+mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
+digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 thefourthmirror.com###metaslider_widget-7
 tharunaya.us###module_03_ads300x250
@@ -1164,6 +1164,7 @@ indiatimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 mekhrajbairwa.com##.hustle-layout
+tarunchhattisgarhkorba.com##.hustle-popup
 thereport24.com##.idlc
 bhilwarahalchal.com##.image-post-slider
 samacharplus.com##.img-add
@@ -2089,7 +2090,7 @@ smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 nammabantwala.com##aside.widget_media_video
-brajpatrika.com##aside.widget_metaslider_widget
+brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
 chaukastoli.com,grenonews.com,newsvariant.com##aside.widget_text
