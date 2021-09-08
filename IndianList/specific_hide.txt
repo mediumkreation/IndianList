@@ -1030,6 +1030,7 @@ janayugomonline.com##.envira-gallery-wrap
 gandakichhadke.com##.eous-container
 himalayapost.com##.et-waypoint
 himalayapost.com##.et_pb_code_8
+hpnewsatl.com##.et_pb_post_content img
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
@@ -2000,6 +2001,7 @@ arthasarokar.com##a[href*="nabilbank.com"]
 gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 newstodaynetwork.com##a[href*="narayan98.co.in"]
 arthasarokar.com##a[href*="nbbl.com.np"]
+hpnewsatl.com##a[href*="neelabazar.com"]
 reportersnepal.com##a[href*="nepallife.com.np"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
