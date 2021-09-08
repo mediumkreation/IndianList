@@ -799,6 +799,7 @@ bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
+ournewsbd.net##.advertisement-single-float
 dekhapadhi.com##.advertisement-three
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
