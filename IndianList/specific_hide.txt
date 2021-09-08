@@ -143,7 +143,7 @@ sharebazarnews.com###custom_html-1371
 uluberiasambad.in###custom_html-14
 crimekhabar.live###custom_html-15
 muznews.online,notunerkotha.com###custom_html-17
-bharatnewslive24.in,ggsnews24.com###custom_html-19
+antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
@@ -2151,6 +2151,7 @@ shubhoprotidin24.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
+antimvikalp.com##div[id^="SC_TBlock_"]
 aapnihathai.com##div[id^="aapni-"]
 abhayindia.com##div[id^="abhay-"]
 achhikhabar.com##div[id^="achhi-"]
