@@ -1372,6 +1372,7 @@ abnews24.com,rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
 cglivenews.co.in##.post > .a-single
 jaljalakhabar.com##.post aside.widget_media_image
+faridabadlatestnews##.post center > a[target="_blank"]
 narayanionline.com##.post-advertiesment
 nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
