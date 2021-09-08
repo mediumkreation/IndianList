@@ -138,10 +138,11 @@ metroplus.online,thesunrisetoday.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
-247superfast.com,ausamachar.com,jaihindtimes.in,kalaroanews.com###custom_html-13
+247superfast.com,ausamachar.com,jaihindtimes.in,kalaroanews.com,sabkasandesh.com###custom_html-13
 sharebazarnews.com###custom_html-1371
 uluberiasambad.in###custom_html-14
 crimekhabar.live###custom_html-15
+sabkasandesh.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
@@ -267,9 +268,9 @@ crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-
 thefourthmirror.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
 berartimes.com,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,samacharkyari.com,sasthabangla.com,thebiharnews.com,updatenownews.com###media_image-4
-khabarpahad.com,voiceofbihar.in###media_image-41
-khabarpahad.com,nationaltodaylive.com###media_image-42
-bharatsarathi.com###media_image-43
+khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
+khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
+bharatsarathi.com,sabkasandesh.com###media_image-43
 crimebarta.com###media_image-44
 amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,glimeindianews.in,haqeeqattoday.com,himalipatrika.com.np,indianvoice24.com,janshaktikranti.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,odishatime.com,pplnews.in,prothomshomoy.com,sandhannews.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
