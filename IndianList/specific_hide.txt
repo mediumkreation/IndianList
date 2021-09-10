@@ -944,6 +944,7 @@ hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
+chapaibarta24.com##.content-box-ads
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
@@ -1333,6 +1334,7 @@ gorkhapatraonline.com##.news-inline-add
 sansarnews.com##.news-style-six-ads
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
+chapaibarta24.com##.news_content .code-block
 prothomalo.com##.news_inner_spcl_ad
 atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
