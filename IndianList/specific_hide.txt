@@ -921,7 +921,7 @@ samajbad.tv##.code-block > img
 media24news.in##.code-block img
 gondwanaexpress.com,newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
-ideaciti.com##.code-block-4
+biratnews24live.com,ideaciti.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
@@ -1664,6 +1664,7 @@ pangighatidanikapatrika.in,thehawabaaz.com##.theiaStickySidebar .widget_custom_h
 anidda.lk,inn24news.in,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,rajarhatbd.com,rudrakshnews.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
+biratnews24live.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
