@@ -390,6 +390,7 @@ fenirshomoy.com###secondary .vl-advertisment
 aajkakanpur.com,aapkachannelnews.co.in,aryavartposts.com,ideaciti.com,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
+newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
 phaddalo.com###secondary .widget_text
 techalonews.com###secondary aside.widget_custom_html
@@ -1772,7 +1773,7 @@ insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
-amarvaani.com,andbiharnews.co.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,expressindian.co.in,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+amarvaani.com,andbiharnews.co.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,expressindian.co.in,newsfact.in,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
@@ -2170,6 +2171,7 @@ banglarjanarob.com##div[id^="bangl-"]
 newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 khabarsameeksha.com##div[id^="khaba-"]
 news24bd.net##div[id^="news2-"]
+newsfact.in##div[id^="newsf-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
