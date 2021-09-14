@@ -587,6 +587,7 @@ hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bharatdarshannews.com###wowslider-container3
 rkhabar.com###wp-custom-header
+sonatalasangbad.com###wrapper-content .widget_text
 citynewsexpress.com##.-indx
 samayam.com##.ATF_300
 natunsomoy.net##.Ad-Section
