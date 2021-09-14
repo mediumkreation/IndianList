@@ -1511,6 +1511,7 @@ snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 banglanewstv.com##.single_details .widget_area
 nagarprabha.org##.single_featured_slide
+dailyghagot.com##.single_page .add
 jamunanewsbd.com##.single_page .widget_area
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
