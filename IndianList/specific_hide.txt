@@ -26,7 +26,7 @@ tamilarul.net###HTML42
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com,taazakhoj.com###HTML6
 chapainawabganjnews.com,ekumaon.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
-dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,rknewsofindia.com###HTML8
+dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
 jaldhakanews.com,top99breakingnews.blogspot.com###HTML9
 bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,rewanewsmedia.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com,yarldevinews.net###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
@@ -1145,6 +1145,7 @@ banglanewsca.com##.header_top_ad_area_2
 fenirkotha.com##.header_top_banner
 telugumirchi.com##.headerad2
 shirurtaluka.com##.headeradvt
+nunworajasthan.co.in##.headerright
 nepaljapan.com##.headline_below_ad
 indiasamachar24.com##.herald-sidebar .widget_metaslider_widget
 himachalmedia.co##.himac-widget
