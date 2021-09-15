@@ -1535,6 +1535,7 @@ avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
+lokjeewan.com##.slider_ad_top
 janpadnewslive.com##.slider_instance
 rewanewsmedia.com##.slideshow-container
 mediadabali.com##.sm-ads
