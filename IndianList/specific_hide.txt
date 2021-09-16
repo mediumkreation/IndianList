@@ -471,11 +471,11 @@ swarajnewstoday.com###sync3
 anbnews24.com,timesoneodia.com###text-1
 jagprerna.com,medianp.com,moonbreaking.com,najarianews.in,samnanews.com,tamil.com,theblastkhabar.com,vanakkamlondon.com###text-10
 anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
-divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
+despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
-dailypunjabtimes.com,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
+dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
 fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com###text-18
@@ -911,6 +911,7 @@ budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
 zoombangla.com##.bsac-link
 everestdainik.com##.bstyle-list ~ .post
 cgjanadesh.com,kaimurlive.com##.bwg_container
+despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
 himachalnownews.com##.c_ad
 just36news.com,malayalamtodayonline.com##.carousel
