@@ -1328,7 +1328,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,tahalka24x7.com,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com##.navbar-ad-section
+celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 amraikhabor.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar .bg-aqua
@@ -2160,6 +2160,7 @@ patnapost.com##div[class^="newsf-"]
 patnapost.com##div[class^="patna-"]
 samacharsach.com##div[class^="samac-"]
 suddione.com##div[class^="suddi-after-content_"]
+uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 akashjatra.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
