@@ -1659,6 +1659,7 @@ akkbd.com##.td_single_image_bg[target="_blank"]
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
 thedeoriatimes.in##.tdb_single_content + .td-a-rec
+realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p ~ :not(div)
 ujjwalhimachal.com##.tdb_single_content img
 deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
@@ -2116,7 +2117,7 @@ thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 aligarhmedia.com,coxsbazarshomoy.com,koshikiaas.com,newsboardindia.com,sachkitop.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-64kalalu.com,bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,samaysakshya.co.in,saurahaonline.com,shadhinalo.com,tarangabarta.com,theeditor24.com,thiruvananthapuramvartha.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,samaysakshya.co.in,saurahaonline.com,shadhinalo.com,tarangabarta.com,theeditor24.com,thiruvananthapuramvartha.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
