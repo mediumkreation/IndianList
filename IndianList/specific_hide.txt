@@ -766,6 +766,7 @@ eenadu.net##.ads680-30
 epaper.lokmat.com##.ads_699
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 janadeshexpress.in##.ads_top_disp
+divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
@@ -1729,6 +1730,7 @@ banglavashi.com,dcnepal.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 janwani.in##.toplogobannerRS1 .topcol1
+divyahimachal.com##.topnewsbx > div[style]
 seithy.com##.toppageadsindexheader
 dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
