@@ -328,6 +328,8 @@ digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 thefourthmirror.com###metaslider_widget-7
 tharunaya.us###module_03_ads300x250
+uttrakhandtoday.com###mvp-ad-rel-wrap
+uttrakhandtoday.com###mvp-head-top
 cinemapettai.com,lankac.news###mvp-leader-wrap
 channelindia.news###mvp-side-wrap .widget_media_image
 just36news.com###myCarouse3
@@ -2176,7 +2178,7 @@ akashjatra.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknew
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
-shubhoprotidin24.com##div[data-index]
+shubhoprotidin24.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
