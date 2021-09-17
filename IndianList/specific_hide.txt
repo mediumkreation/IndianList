@@ -1685,7 +1685,7 @@ pangighatidanikapatrika.in,thehawabaaz.com##.theiaStickySidebar .widget_custom_h
 anidda.lk,inn24news.in,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,pahadsmachar.com,rajarhatbd.com,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com##.theiaStickySidebar .widget_text
+biratnews24live.com,tirthchetna.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
@@ -2178,7 +2178,7 @@ akashjatra.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknew
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
-shubhoprotidin24.com,uttrakhandtoday.com##div[data-index]
+shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
