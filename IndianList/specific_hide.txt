@@ -2126,7 +2126,7 @@ bihardootnews.com##aside.widget_media_gallery
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
-nammabantwala.com##aside.widget_media_video
+hellouttarakhandnews.com,nammabantwala.com##aside.widget_media_video
 brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com##aside.widget_sp_image
