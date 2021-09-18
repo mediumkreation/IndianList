@@ -4,6 +4,7 @@
 -advts^
 -Magazine-Ad-
 /ad-gm-
+/ADD-
 /ads-
 /adss/*$domain=tharunaya.us
 /Advertizement/*
