@@ -2141,6 +2141,7 @@ bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p > img.wp-image-23118)
 steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
+bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
