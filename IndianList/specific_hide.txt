@@ -907,6 +907,7 @@ horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
 nagariknetwork.com##.box-news-ad
 yugabdha.com##.box-sec-bg .slider
+tcp24.news##.bpgPhoto
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
