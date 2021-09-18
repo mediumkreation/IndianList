@@ -221,6 +221,7 @@ agrilife24.com###main-body .custom
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
 laxminews24x7.com,theexclusivestory.com###main-content .e3lan
+gmnewsbd.com###main-content .textwidget img
 p2pnews.co###main-content > .e3lan-post
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
@@ -1382,6 +1383,7 @@ himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
+gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
