@@ -110,7 +110,10 @@ bigkhabar.com###bk_sidebar_8
 tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com###block-10
 thedastak24.com###block-2
+thebharatexpress.com###block-28
+thebharatexpress.com###block-29
 newskranti.com,pahadsmachar.com,uttarakhandsamachar.com###block-3
+thebharatexpress.com###block-33
 meerutdarpan.com###block-39
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
@@ -164,7 +167,7 @@ ddnews24x7.com###custom_html-53
 bnanews24.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,kalaroanews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
 mynews36.com,pradhanavartha.in###custom_html-8
-aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
+aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,thebharatexpress.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
@@ -1599,7 +1602,7 @@ abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsd
 amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
-bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
+bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,pahar24.com,rudrakshnews.com,thebharatexpress.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
 apnahimachalapnishaan.in,keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
@@ -1809,7 +1812,7 @@ derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 abhitaknewsuk.in,meherpurnews.com##.widget_media_video
-independentcitizennews.com,samnanews.com,up18news.com##.widget_metaslider_widget
+independentcitizennews.com,samnanews.com,thebharatexpress.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
