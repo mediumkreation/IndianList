@@ -1052,7 +1052,6 @@ theeditors.net##.entry-content p img
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
-janayugomonline.com##.envira-gallery-wrap
 gandakichhadke.com##.eous-container
 himalayapost.com##.et-waypoint
 himalayapost.com##.et_pb_code_8
@@ -1431,7 +1430,7 @@ deshsanchar.com##.promotion
 prothomshomoy.com##.proth-after-content
 gandaknews.com##.psmorhug
 publictv.in##.pt-adv
-attingalvartha.com##.pum
+attingalvartha.com,janayugomonline.com##.pum
 pagetamil.com##.pum-content
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
@@ -1507,6 +1506,7 @@ bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 shineupindia.com##.sidebar-box a[ target="_blank"]
 khabarchalisa.com##.sidebar-inner .widget_custom_html
 creativenewsexpress.com##.sidebar-inner > section.widget_media_image
+janayugomonline.com##.sidebar-inside .widget_custom_html
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
@@ -1971,7 +1971,6 @@ gramajyothi.com##a[href*="SeemasEdappally"]
 battinews.com##a[href*="ad.battinews.com"]
 24ghanta.net##a[href*="adroll.com"]
 protidinersangbad.com##a[href*="ads-page"]
-janayugomonline.com##a[href*="advetorial"]
 uttranews.com##a[href*="advt-new"]
 sambadsaradin.com##a[href*="ajdg.solutions"]
 apnepal.com##a[href*="alljobvacancies.com"]
@@ -2117,6 +2116,7 @@ dhadingnews.com##a[rel*="wp-att"]
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 weeklybangladeshusa.com##a[target="_blank"] img
 clickmandu.com##a[target="_blank"] img:only-child
+janayugomonline.com##a[target="_blank"]:not(.btn) > img
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 newsnib.in##app-squaread
