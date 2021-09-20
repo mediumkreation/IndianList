@@ -270,7 +270,7 @@ news20live.com,starbanglanews.net###media_image-33
 news20live.com,starbanglanews.net###media_image-34
 news20live.com,starbanglanews.net###media_image-35
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
-thefourthmirror.com###media_image-37
+sheikhpuranews.com,thefourthmirror.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
 berartimes.com,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,samacharkyari.com,sasthabangla.com,thebiharnews.com,updatenownews.com###media_image-4
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
@@ -1516,6 +1516,7 @@ manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
 channelcox.com##.single-ditails + .add .widget_area
 bijoybanglabd.com##.single-dtls .code-block
+sheikhpuranews.com##.single-entry .code-block
 thenewswords.com##.single-image .carousel
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
@@ -1853,6 +1854,7 @@ lumbinisanchar.com##.wp-image-30063
 bonggonews.com##.wp-image-352
 newssunamganj.com##.wp-image-3711
 paribahanjagot.com##.wp-image-4609
+sheikhpuranews.com##.wp-image-46214
 paribahanjagot.com##.wp-image-5343
 paribahanjagot.com##.wp-image-5345
 paribahanjagot.com##.wp-image-5348
