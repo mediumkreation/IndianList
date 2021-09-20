@@ -21,6 +21,7 @@ gidhaur.com###HTML24
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
+khabreaajtaklive.com###HTML33
 99samacharexpress.in,chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
@@ -1383,7 +1384,7 @@ onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 onlynews24.com##.onlyn-after-content_2
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
-24x7cg.com,firstbihar.com,nawidunia.com##.owl-carousel
+24x7cg.com,firstbihar.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
@@ -2233,6 +2234,7 @@ deshsanchar.com##img.alignnone.size-full
 munaadi.com##img[alt$=" Ad"]
 pksnews24.com##img[alt*=" Ad-"]
 kantipath.com##img[alt*="add"]
+khabreaajtaklive.com##img[alt*="ads"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
@@ -2251,7 +2253,6 @@ gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
 mirsaraikhobor.com##img[alt="mAD"]
 bhilwarahalchal.com##img[alt="news"]
-khabreaajtaklive.com##img[alt="sidebar ads"]
 banglanews24.com##img[alt="walton"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
