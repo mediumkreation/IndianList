@@ -500,7 +500,7 @@ aapkisafalta.com,achhisoch.com,apnades.in,thepublicworld.com,trttamilolli.com###
 tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
-aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,gandakichhadke.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com###text-30
 e-jaffna.com,fatehnagarnews.com,satyamlive.com,trttamilolli.com###text-31
@@ -1322,6 +1322,7 @@ prabhabonline.com##.middle-banner
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 pradeshdainik.com##.min-global-adv
+gandakichhadke.com##.mkloyr-container
 bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
