@@ -11,3 +11,4 @@
 /Advertizement/*
 /advt-
 ^ad-150x600
+^adv-1
