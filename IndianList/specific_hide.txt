@@ -647,7 +647,7 @@ khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 emalayalee.com,pravasi.com##.ad-on-header
 koshionline.com,nepalsandesh.com##.ad-sec
-esidhakura.com##.ad-sec > .widget_media_image
+esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
 news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
@@ -983,6 +983,7 @@ teluguwirals.com##.custom-header
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 divyahimachal.com##.customad
+esidhakura.com##.daraz-ad
 deshabhimani.com##.db-scnAd2
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
