@@ -681,7 +681,6 @@ dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
 talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
-samadhannews.com##.add-banner-s
 khobor24ghonta.com##.add-bg-02
 aajkasach.in,jaianndata.com##.add-block
 nagariknetwork.com##.add-container
@@ -1098,6 +1097,7 @@ nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 sansarnews.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
+samadhannews.com##.full-bann
 dcnepal.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
 dineshkhabar.com##.fullSizeAdBnr
