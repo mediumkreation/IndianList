@@ -1326,6 +1326,7 @@ pradeshdainik.com##.min-global-adv
 gandakichhadke.com##.mkloyr-container
 bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 manoramaonline.com##.mm-other-ad
+manoramaonline.com##.mm-textlink-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
 bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
