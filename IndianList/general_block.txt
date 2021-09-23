@@ -10,5 +10,6 @@
 /adss/*$domain=tharunaya.us
 /Advertizement/*
 /advt-
+/Advt_
 ^ad-150x600
 ^adv-1
