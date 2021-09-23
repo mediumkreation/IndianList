@@ -2201,7 +2201,7 @@ shreekanchanpath.com##div[class^="shree-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
-akashjatra.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
+akashjatra.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
@@ -2325,5 +2325,6 @@ paristamil.com##table[width="98%"] div.title
 paristamil.com##table[width="98%"] h2.cat_title
 bihardootnews.com##tagdiv
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
+thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
