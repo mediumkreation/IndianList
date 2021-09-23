@@ -112,7 +112,7 @@ londonbdnews24.com###block-10
 thedastak24.com###block-2
 thebharatexpress.com###block-28
 thebharatexpress.com###block-29
-newskranti.com,pahadsmachar.com,uttarakhandsamachar.com###block-3
+newskranti.com,newsnukkad.com,pahadsmachar.com,uttarakhandsamachar.com###block-3
 thebharatexpress.com###block-33
 meerutdarpan.com###block-39
 sakshi.com###block-block-141--2
@@ -153,6 +153,7 @@ antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+newsnukkad.com###custom_html-23
 ddnews24x7.com###custom_html-26
 angindianews.com,barisaltoday.com,countrynewstoday.com,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newswayanad.in,samastipurtown.com,usanewsonline.com###custom_html-3
 ddnews24x7.com,thedastak24.com###custom_html-31
