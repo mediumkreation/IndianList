@@ -1065,6 +1065,7 @@ parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
+dakhal.net##.fadInleft_ads
 bbc24news.com##.featad
 pchelpcenterbd.com##.featured-post-ads
 sudurpress.com##.field--name-field-ad-image
