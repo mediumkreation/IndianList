@@ -761,6 +761,7 @@ anusandhan24.com,arthadabali.com,ashakakiran.com,canadanepal.com,chandpur24.net,
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
 gandakitimes.com##.ads aside:not(#custom_html-7)
+mohanagarnews.com##.ads img
 madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
