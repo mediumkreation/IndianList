@@ -1469,6 +1469,7 @@ ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 amarbarishal24.com##.row + .single_side_bar
 sathyamonline.com##.sAds
+prernanews.com##.sadv
 samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 nepalsamaya.com##.sb-bigyaapan
