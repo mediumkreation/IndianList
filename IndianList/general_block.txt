@@ -9,6 +9,7 @@
 /ADD-
 /addsense/*
 /ads-
+/ads/*
 /adss/*$domain=tharunaya.us
 /Adv/*
 /advertisement/*
