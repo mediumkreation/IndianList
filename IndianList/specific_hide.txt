@@ -1936,7 +1936,7 @@ news4nation.com##.wrapper.av
 bnnbharat.com##.xembgt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
-khabreelal.com##.zox-post-ad-wrap
+khabreelal.com,thesabera.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
 kashishnews.com##[alt="add image"]
 narayanionline.com##[alt="advertiesment"]
