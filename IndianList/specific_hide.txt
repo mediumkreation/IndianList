@@ -653,13 +653,13 @@ alarmindia.in##.ad-slide
 news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
-iamgujarat.com##.ad-wrapper-250
+iamgujarat.com,samayam.com##.ad-wrapper-250
 alorkantho24.news,indiatimes.com,saaravita.lk,uttaranews24.com##.ad1
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
 arthasarokar.com##.ad50
-iamgujarat.com##.adCANContainer
+iamgujarat.com,samayam.com##.adCANContainer
 odhikar.news##.adSlides
 dcnepal.com##.ad__space
 ekusheysangbad.com##.ad_area1
@@ -764,7 +764,7 @@ mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
 gandakitimes.com##.ads aside:not(#custom_html-7)
 mohanagarnews.com##.ads img
-iamgujarat.com##.ads-between-story
+iamgujarat.com,samayam.com##.ads-between-story
 madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
@@ -882,7 +882,7 @@ rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
-iamgujarat.com##.bccl-ad-wrapper
+iamgujarat.com,samayam.com##.bccl-ad-wrapper
 muktijoddharkantho.com##.bd-sidebar .widget_text
 humarabikaner.com##.bdaia-above-header
 punjabbaani.com##.bdaia-e3-container
@@ -1799,7 +1799,7 @@ kositimes.com##.vqtu
 livestorytime.com##.w3-section
 dainikazadi.net##.w3-top-ads-desktop
 lokshakti.in##.wds_slider_cont
-iamgujarat.com##.wdt_amz
+iamgujarat.com,samayam.com##.wdt_amz
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com##.well
 sajhapost.com##.white-bg-half-ad
 scgnews.in##.widget-ad-image
