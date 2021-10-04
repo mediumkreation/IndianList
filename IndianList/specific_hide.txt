@@ -398,7 +398,7 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
-aajkakanpur.com,aapkachannelnews.co.in,aryavartposts.com,ideaciti.com,jogiexpress.com,justmuz.com,patnapost.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aryavartposts.com,ekhabartoday.com,ideaciti.com,jogiexpress.com,justmuz.com,patnapost.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
@@ -1233,6 +1233,7 @@ samvetshikhar.com##.item-size-right img
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
+ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
 shreekanchanpath.com##.jegStickyHolder .widget_text
