@@ -839,6 +839,7 @@ newsplus24x7.com##.advtertise
 updatenews360.com##.aft-sticky-sidebar
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
+indiapolkhol.in##.ai_widget
 ajakoartha.com##.ajako_artha-advertisement-series
 malabarnews.com##.alertAdd
 osnepal.com##.alignnone.size-full
@@ -1037,7 +1038,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
-sachchadost.in##.entry-content .code-block
+indiapolkhol.in,sachchadost.in##.entry-content .code-block
 newsway.in##.entry-content .newsw-content
 punjabbaani.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
@@ -1849,7 +1850,7 @@ samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 madhyapradeshdarshan.com##.wonderpluginslider-container
 lokshakti.in##.wp-block-jetpack-slideshow
-pplnews.in##.wp-custom-header
+indiapolkhol.in,pplnews.in##.wp-custom-header
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042

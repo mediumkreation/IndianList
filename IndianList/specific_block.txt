@@ -35,6 +35,7 @@
 -adv.$domain=brtnepal.com
 -adv.gif|$domain=bikashnews.com
 -advert.jpg|$domain=samakalam.com
+-Agust-AD-$domain=indiapolkhol.in
 -bannar.jpg|$domain=kurigramlive.com
 -banner-$domain=channelionline.com|gbnews24.com
 -Banner-$domain=sherpurtimes.com
