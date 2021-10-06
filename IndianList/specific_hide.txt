@@ -1317,6 +1317,7 @@ newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
+media24news.in##.media-after-content_4
 bikashnews.com##.menu_ad
 bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
