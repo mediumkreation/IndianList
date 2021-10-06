@@ -858,7 +858,6 @@ inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
-hindustanvision.com##.avtg3
 dnewsnetwork.in##.awac img.image
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
@@ -2213,6 +2212,7 @@ chitrodesh.com##div[class*="stream-item"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
+hindustanvision.com##div[class^="avtg"]
 amader-protidin.com##div[class^="customaddBox"]
 deshajtimes.com,deshantor.com##div[class^="desha-"]
 gramintimes.com##div[class^="grami-before-content_"]
