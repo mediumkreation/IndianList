@@ -14,7 +14,7 @@
 -Ad.png|$domain=dailyghagot.com
 -ad.png|$domain=snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|businesshour24.com|sankalpanews.com
+-add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|sankalpanews.com
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
@@ -1639,6 +1639,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||himalayonlinemedia.com/wp-content/uploads/2018/10/suvhakamana-8-1024x569.jpg
 ||himalayonlinemedia.com/wp-content/uploads/2018/10/suvhakamana-9.jpg
 ||himalayonlinemedia.com/wp-content/uploads/2019/04/image1
+||himaliawaj.com^*/futsal.jpg
 ||himalini.com/wp-content/uploads/2018/05/Shalimar-Cement.gif
 ||himalini.com/wp-content/uploads/2019/11/66330619_2117612461681823_49392201213411328_n.jpg
 ||himalini.com/wp-content/uploads/2020/10/1000x100-auto-loan.gif
