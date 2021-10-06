@@ -1281,6 +1281,7 @@ khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv a:not([href*="postpati.com"])
 doolnews.com##.long_adv_area
+newsdoor.net##.lrads
 beautynewsnepal.com##.lwig
 71sangbad.com##.m_none > a[target="_blank"]
 dhadingupdate.com##.main-1
