@@ -628,7 +628,7 @@ amarbanglabd.com##._df_custom
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 keralakaumudi.com##.a-728-90
-gujarattimesusa.com,rajdhanidaily.com##.a-single
+gujarattimesusa.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
 abbiharnews.com##.abbih-widget
@@ -776,6 +776,7 @@ ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
 loksattanews.co.in##.ads-slider-widget
 hindi.cricketnmore.com##.ads-space
+londonnepalnews.com##.ads-style1
 thecgnews.com##.ads120_60-widget
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
