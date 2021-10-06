@@ -154,10 +154,13 @@ amritvarshanews.in,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekh
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
-ddnews24x7.com###custom_html-26
+ddnews24x7.com,saakshatv.com###custom_html-26
+saakshatv.com###custom_html-28
+saakshatv.com###custom_html-29
 angindianews.com,barisaltoday.com,countrynewstoday.com,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newswayanad.in,samastipurtown.com,usanewsonline.com###custom_html-3
+saakshatv.com###custom_html-30
 ddnews24x7.com,thedastak24.com###custom_html-31
-ddnews24x7.com###custom_html-39
+ddnews24x7.com,saakshatv.com###custom_html-39
 news127.com,newshaat.com,tahalka24x7.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
@@ -266,7 +269,7 @@ ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
 dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,saakshatv.com,sasthabangla.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,news20live.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
@@ -870,7 +873,7 @@ musicjoymedia.com##.banner-half
 enewsmp.com##.banner-header
 bholarbani.com,newsportals.in##.banner-img
 abcnepal.tv##.banner-muni-add
-ambalacoverage.com,biharnewstv.in,cibindianews.com,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,livekhabar.com,lokshakti.in,navpradesh.com,news24x365.com,odiabarta.in,pularvu.com,real4news.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,vishwakarmakiran.com##.banner-promotions-wrapper
+ambalacoverage.com,biharnewstv.in,cibindianews.com,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,livekhabar.com,lokshakti.in,navpradesh.com,news24x365.com,odiabarta.in,pularvu.com,real4news.com,saakshatv.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
