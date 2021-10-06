@@ -1858,6 +1858,7 @@ thirdeyetoday.com##.widget_youtube_responsive
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 madhyapradeshdarshan.com##.wonderpluginslider-container
+nainilive.com##.wp-block-image figure
 lokshakti.in##.wp-block-jetpack-slideshow
 indiapolkhol.in,pplnews.in##.wp-custom-header
 newssunamganj.com##.wp-image-10388
@@ -2204,6 +2205,7 @@ bikanerhulchul.com##div[class*="bikan"]
 dainikchintak.com##div[class*="daini-"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
+nainilive.com##div[class*="naini-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
