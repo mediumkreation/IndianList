@@ -2331,7 +2331,7 @@ bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com
 janatasamachar.com##section.widget > a > img
 newsofnepal.com##section.widget > a img
 karobardaily.com##section.widget > a:only-child
-himalpost.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com##section.widget img
+himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
