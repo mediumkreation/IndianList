@@ -1832,7 +1832,7 @@ newsofmithila.in##.widget_300x250_advertisement
 jiwanjotsavera.com##.widget_ads_big
 ethiri.com##.widget_ads_easy_widget
 hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
-e-kantho24.com##.widget_area
+e-kantho24.com,gtbnews24.com##.widget_area
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
