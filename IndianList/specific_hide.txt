@@ -1785,6 +1785,7 @@ damstv.com##.tr-ad
 nagariknetwork.com##.travel-add
 deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
+speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
 thesaturdaynews.com##.under_more_hit_advertisement
@@ -2342,7 +2343,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
