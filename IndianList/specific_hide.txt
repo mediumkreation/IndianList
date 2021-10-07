@@ -902,6 +902,7 @@ cgsandesh.com##.bend
 bengallive.in##.benga-raiganj-municipality
 onlinepana.com##.betn-add
 andhrajyothy.com##.bgg.eng
+bharatlive.co.in##.bhara-content
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com##.biggapon
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
@@ -1093,6 +1094,7 @@ thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
 narmadanchal.com##.fn-widget-image
+bharatlive.co.in##.footer .widget_media_image
 wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 goodmorningindia.net,rkexpose.com##.footer-adv
@@ -1849,7 +1851,7 @@ independentcitizennews.com,samnanews.com,thebharatexpress.com,up18news.com##.wid
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
-biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+bharatlive.co.in,biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
