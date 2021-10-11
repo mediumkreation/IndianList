@@ -297,8 +297,8 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
@@ -1670,7 +1670,7 @@ techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-ujjwalhimachal.com##.td-g-rec
+hindxpress.com,ujjwalhimachal.com##.td-g-rec
 newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
