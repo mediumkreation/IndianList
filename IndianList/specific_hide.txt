@@ -299,8 +299,8 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 yugjagran.com#@##media_image-8
@@ -974,7 +974,7 @@ odishareporter.in##.colombia
 azhimukham.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,azhimukham.com,cinereporters.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newstm.in,uttarakhandpost.com##.colombiatracked
+3pm.in,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newstm.in,uttarakhandpost.com##.colombiatracked
 utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
@@ -2273,6 +2273,7 @@ truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
 truevisionnews.com##div[id^="truev-"] > img
 truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
 webreporter.co.in##div[id^="webre-"]
+dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 voiceofmedia.lk##figure .prettyphoto
