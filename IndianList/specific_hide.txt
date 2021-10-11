@@ -1,7 +1,9 @@
+utkalpratidin.com###AS_O_LHS_1
 eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
 pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
+utkalpratidin.com###HP_O_LHS_8
 hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,unmaikal.com###HTML1
 chilahatiweb.com,jaldhakanews.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
@@ -301,8 +303,8 @@ yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -973,6 +975,7 @@ azhimukham.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,azhimukham.com,cinereporters.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newstm.in,uttarakhandpost.com##.colombiatracked
+utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
@@ -2368,4 +2371,6 @@ bihardootnews.com##tagdiv
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
+utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a > div > h2 +p)
+utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a > div > h3 +p)
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
