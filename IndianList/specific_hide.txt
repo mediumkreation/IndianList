@@ -258,7 +258,7 @@ bplnews24.in,flowersoriginals.com###media_image-16
 bplnews24.in,dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,hindustandailynews.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,najarianews.in,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,hindustandailynews.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,laxminews24x7.com,meherpurnews.com,meruraibar.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 prompttimes.com###media_image-20
 samrudhaodisha.com###media_image-205
 amanshantinews.com,ggsnews24.com,gnews5.com,samnanews.com###media_image-21
@@ -301,8 +301,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1623,7 +1623,7 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
-apnahimachalapnishaan.in,cinenxt.com,gandakivoice.com,inn24news.in,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
+apnahimachalapnishaan.in,cinenxt.com,gandakivoice.com,inn24news.in,jugasankha.in,liveupweb.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1726,7 +1726,7 @@ gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
-amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,rudrakshnews.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
+amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
 jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
