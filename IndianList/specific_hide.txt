@@ -297,8 +297,8 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
@@ -1518,6 +1518,7 @@ onlinekhabar.com##.side__add
 motivatenews.com.np,ratopost.com,sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
 urjanchaltiger.in##.sideads-sec
+dainiklivenews24.com##.sidebar .HTML > .widget-content:first-child
 dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
