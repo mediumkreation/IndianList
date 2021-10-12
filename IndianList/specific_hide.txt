@@ -1810,6 +1810,7 @@ thedeoriatimes.in,theruralpress.in##.vc_raw_html
 postmanindia.in##.vc_raw_html iframe
 newsnow24.com##.vc_single_image-wrapper[rel="noopener"] .attachment-full
 amaderkhulna.net,netmalayalam.com##.vc_slide
+gionews.in##.vc_widget_sidebar
 krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
