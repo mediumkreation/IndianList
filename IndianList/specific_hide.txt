@@ -975,7 +975,7 @@ odishareporter.in##.colombia
 azhimukham.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newstm.in,uttarakhandpost.com##.colombiatracked
+3pm.in,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newstm.in,samachartoday.co.in,uttarakhandpost.com##.colombiatracked
 utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
