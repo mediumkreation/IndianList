@@ -14,7 +14,7 @@
 -Ad.png|$domain=dailyghagot.com
 -ad.png|$domain=snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|sankalpanews.com
+-add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|sankalpanews.com|satkhiraprotidin.net
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
@@ -28,7 +28,7 @@
 -add.png|$domain=abcnepal.tv|kalaroanews.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
--Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
+-Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net|satkhiraprotidin.net
 -ads.jpg|$domain=bigulnews.tv|channelionline.com|ctn24.com|thebiharnews.com
 -ads.png|$domain=ctgsun.com
 -ADV-$domain=brtnepal.com
@@ -163,6 +163,7 @@ _ad.jpeg|$domain=usamibanglanews.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com|yugjagran.com
 _AD_GIF$domain=kahalenews.com
 _add-$domain=pba.agency
+_Add-$domain=satkhiraprotidin.net
 _add.gif|$domain=malayalamtodayonline.com
 _add.jpg|$domain=gourbarta24.com|politics.lk
 _add.png|$domain=dcnewsbd.com
