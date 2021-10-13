@@ -300,12 +300,12 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -2249,7 +2249,7 @@ shreekanchanpath.com##div[class^="shree-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
-akashjatra.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com##div[data-adid]
+akashjatra.com,bdsangbad24.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknews.com,justaction.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
