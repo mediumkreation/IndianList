@@ -305,8 +305,8 @@ yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1869,7 +1869,7 @@ independentcitizennews.com,samnanews.com,thebharatexpress.com,up18news.com##.wid
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
-bharatlive.co.in,biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
@@ -1883,6 +1883,7 @@ thirdeyetoday.com##.widget_youtube_responsive
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 madhyapradeshdarshan.com##.wonderpluginslider-container
+ghaziabad365.com##.wp-block-group
 nainilive.com##.wp-block-image figure
 lokshakti.in##.wp-block-jetpack-slideshow
 indiapolkhol.in,pplnews.in##.wp-custom-header
