@@ -84,7 +84,7 @@
 /bannersads/*$domain=namasteandhra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
-/blocks/block_$domain=dailykaratoa.com|gexpressnews.com|hindustankhabar.com|newsexpress24.com|polkholindia.com|sansaninews.com
+/blocks/block_$domain=dailykaratoa.com|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|newsexpress24.com|polkholindia.com|sansaninews.com
 /bn/add/*$domain=24updatenews.com
 /mbl-$image,domain=ppbd.news
 /NEW_GIF_$domain=clickmandu.com
