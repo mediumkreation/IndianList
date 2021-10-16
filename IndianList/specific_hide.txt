@@ -305,8 +305,8 @@ yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1703,6 +1703,7 @@ sachkitop.com##.td-post-content p img
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 fatafatnews.com,haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
+bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
 chanakyanewz.com##.td-ss-main-sidebar .td-g-rec
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
 newsofmithila.in,odiapua.com##.td-ss-main-sidebar .widget_custom_html
