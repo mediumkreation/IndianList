@@ -128,6 +128,7 @@ seemanchalnews.com###block-views-side-ads-block
 paristamil.com###box
 malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
+thehdnews.in###cactus-body-container .widget_custom_html
 nzpunjabinews.com###carouselExampleControls
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
@@ -301,12 +302,12 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 yugjagran.com#@##media_image-7
+amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1381,7 +1382,7 @@ lastnewsbd.com##.myadd
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
-ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,tahalka24x7.com,zamania.in##.n2-section-smartslider
+ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
 celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,krantiodishanews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com,uttarakhandcitynews.com##.navbar-ad-section
@@ -2283,6 +2284,7 @@ pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
+thehdnews.in##div[id^="thehd-"]
 truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
 truevisionnews.com##div[id^="truev-"] > img
 truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
