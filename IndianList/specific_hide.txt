@@ -22,12 +22,12 @@ kasargodvartha.com###HTML21
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
-battinews.com,thattungal.com###HTML3
+36kaakda.in,battinews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
 khabreaajtaklive.com###HTML33
-99samacharexpress.in,chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
+36kaakda.in,99samacharexpress.in,chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
-99samacharexpress.in,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
+36kaakda.in,99samacharexpress.in,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com,taazakhoj.com###HTML6
 chapainawabganjnews.com,ekumaon.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
@@ -45,7 +45,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com,yarldevinews.net###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com,yarldevinews.net###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -61,6 +61,7 @@ hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamn
 importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
+36kaakda.in###LinkList2
 poonththalir.blogspot.com###LinkList21
 rajbem.com###MenuAlertAD
 pundrokotha.com.bd###PageSideAd1
@@ -302,8 +303,8 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 yugjagran.com#@##media_image-7
+amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 yugjagran.com#@##media_image-8
