@@ -113,7 +113,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com###block-10
-thedastak24.com###block-2
+sehattimes.com,thedastak24.com###block-2
 thebharatexpress.com###block-28
 thebharatexpress.com###block-29
 newskranti.com,newsnukkad.com,pahadsmachar.com,uttarakhandsamachar.com###block-3
@@ -563,6 +563,7 @@ bdtoday24.com###text-html-widget-35
 globalpunjabtv.com###text-html-widget-4
 bdtoday24.com###text-html-widget-41
 sarkarimanthan.com###text-html-widget-6
+sehattimes.com###text-html-widget-8
 europemalayali.co.uk###thumbs
 notunerkotha.com###tie-block_1375
 notunerkotha.com###tie-block_1947
@@ -1031,7 +1032,7 @@ doolnews.com##.dool-ad
 drishtinews.com##.drishti-inner-ads
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,news85.in,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,thelastpagenews.com,udaipurkiran.in##.e3lan
+bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,news85.in,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,thelastpagenews.com,udaipurkiran.in##.e3lan
 gvtjob.com,news127.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com,p2pnews.co,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
