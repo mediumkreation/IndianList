@@ -412,7 +412,7 @@ biharpatrika.in###rma_masala
 kungumam.co.in###road
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
-bcsuddi.com###secondary .code-block
+bcsuddi.com###secondary .ai_widget
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 krantiodishanews.com###secondary .widget_custom_html
