@@ -309,8 +309,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1516,6 +1516,7 @@ nepalpati.com##.rojgar-img-blk
 amarbarishal24.com##.row + .single_side_bar
 sathyamonline.com##.sAds
 prernanews.com##.sadv
+samacharsach.com##.samac-widget
 samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 nepalsamaya.com##.sb-bigyaapan
@@ -2275,8 +2276,7 @@ lagatar.in##div[class^="lagat-"]
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
-patnapost.com##div[class^="patna-"]
-samacharsach.com##div[class^="samac-"]
+patnapost.com##div[class^="patna-"
 shreekanchanpath.com##div[class^="shree-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttarakhandcitynews.com##div[class^="uttar-"]
