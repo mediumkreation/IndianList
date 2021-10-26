@@ -158,8 +158,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-krantiodishanews.com#@##custom_html-21
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+krantiodishanews.com#@##custom_html-21
 newsnukkad.com###custom_html-23
 ddnews24x7.com,saakshatv.com###custom_html-26
 saakshatv.com###custom_html-28
@@ -1558,6 +1558,7 @@ barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com##.sidebar .widget_custom_html
 aviralsamachar.com,newsnow24.com##.sidebar .widget_media_image
 chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
+jokhimnews.com##.sidebar .widget_text
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
