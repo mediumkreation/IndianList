@@ -159,8 +159,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 krantiodishanews.com#@##custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 ddnews24x7.com,saakshatv.com###custom_html-26
 saakshatv.com###custom_html-28
@@ -1886,6 +1886,7 @@ daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 avikaluttarakhand.com,newsaroma.com##.widget_block
 mahanaad.com##.widget_block:not(#block-37)
+khulasamedia.com##.widget_carousel_slider
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
