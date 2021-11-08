@@ -281,6 +281,7 @@ samrudhaodisha.com###media_image-235
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
+dhadingupdate.com###media_image-263
 dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
@@ -821,7 +822,7 @@ nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
 chakrapath.com,zoombangla.com##.adspace
-onlinetajakhabar.com##.adspace img
+dhadingupdate.com,onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
