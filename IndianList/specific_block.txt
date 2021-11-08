@@ -1280,6 +1280,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dhoomkharidi.com/media/DK%20Promo/site/dhoomkharidibanner.jpg$domain=bhelpoori.com
 ||digicube.net.in^$third-party,domain=benkiyabale.com
 ||digitalbanglanews.com/wp-content/uploads/2019/01/aristaadd.gif
+||digitalbharatnews-in.stackstaging.com/wp-content/uploads/2020/08/2020-08-08.png
 ||digitalbharatnews.in/wp-content/uploads/2021/02/POSTER.jpeg
 ||digitalmalayali.com/resources/ad/
 ||digitaloceanspaces.com^$third-party,domain=dekhapadhi.com
