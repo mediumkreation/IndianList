@@ -958,7 +958,7 @@ sudurpress.com##.block-inline-blockad-block
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in##.bn-lg
-champarantoday.in,firstbharat.in,firstrajasthan.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,nayabharat.live,newsexpress24.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com##.bn-lg-sidebar
+champarantoday.in,firstbharat.in,firstrajasthan.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,nayabharat.live,newsexpress24.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com,threesocieties.com##.bn-lg-sidebar
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
