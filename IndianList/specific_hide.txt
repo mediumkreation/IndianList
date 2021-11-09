@@ -162,8 +162,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-krantiodishanews.com#@##custom_html-21
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+krantiodishanews.com#@##custom_html-21
 newsnukkad.com###custom_html-23
 ddnews24x7.com,saakshatv.com###custom_html-26
 saakshatv.com###custom_html-28
@@ -316,8 +316,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1713,6 +1713,7 @@ aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,cgfrontline.com,chetona71bdne
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in,pathramonline.com##.td-adspot-title + a
+mahendranagarpost.com##.td-all-device
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
@@ -1753,7 +1754,7 @@ sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 apnahimachalapnishaan.in,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
-postmanindia.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
+mahendranagarpost.com,postmanindia.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 irinjalakuda.com##.td_block_video_playlist
 khaskhobor.com##.td_single_image_bg
