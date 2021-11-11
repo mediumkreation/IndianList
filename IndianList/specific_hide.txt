@@ -295,7 +295,7 @@ news20live.com,starbanglanews.net###media_image-33
 news20live.com,starbanglanews.net###media_image-34
 news20live.com,starbanglanews.net###media_image-35
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
-sheikhpuranews.com,thefourthmirror.com###media_image-37
+sheikhpuranews.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
 berartimes.com,bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
@@ -317,8 +317,8 @@ yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -357,7 +357,6 @@ abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
-thefourthmirror.com###metaslider_widget-7
 tharunaya.us###module_03_ads300x250
 360malayalam.com###monitor
 uttrakhandtoday.com###mvp-ad-rel-wrap
@@ -426,7 +425,7 @@ bcsuddi.com###secondary .ai_widget
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 krantiodishanews.com###secondary .widget_custom_html
-aajkakanpur.com,aapkachannelnews.co.in,agnichakr.in,aryavartposts.com,ekhabartoday.com,haryanabhaskar.com,ideaciti.com,jogiexpress.com,justmuz.com,patnapost.com,ptbnews.in,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,agnichakr.in,aryavartposts.com,ekhabartoday.com,haryanabhaskar.com,ideaciti.com,jogiexpress.com,justmuz.com,patnapost.com,ptbnews.in,thefourthmirror.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
@@ -1915,7 +1914,7 @@ derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 abhitaknewsuk.in,meherpurnews.com,newsnasha.com##.widget_media_video
-independentcitizennews.com,samnanews.com,thebharatexpress.com,up18news.com##.widget_metaslider_widget
+independentcitizennews.com,samnanews.com,thebharatexpress.com,thefourthmirror.com,up18news.com##.widget_metaslider_widget
 kalikadainik.com##.widget_namo_advertisement
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
