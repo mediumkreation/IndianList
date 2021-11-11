@@ -357,7 +357,6 @@ abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
-thefourthmirror.com###metaslider_widget-7
 tharunaya.us###module_03_ads300x250
 360malayalam.com###monitor
 uttrakhandtoday.com###mvp-ad-rel-wrap
@@ -1915,7 +1914,7 @@ derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 abhitaknewsuk.in,meherpurnews.com,newsnasha.com##.widget_media_video
-independentcitizennews.com,samnanews.com,thebharatexpress.com,up18news.com##.widget_metaslider_widget
+independentcitizennews.com,samnanews.com,thebharatexpress.com,thefourthmirror.com,up18news.com##.widget_metaslider_widget
 kalikadainik.com##.widget_namo_advertisement
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
