@@ -263,7 +263,7 @@ pressbangla24.com,webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,navpradesh.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
-canvasmagazine.com.bd,nationissue.com,navpradesh.com,news127.com,palampuronline.com,samnanews.com,scgnews.in###media_image-11
+canvasmagazine.com.bd,nationissue.com,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,samnanews.com,scgnews.in###media_image-11
 samrudhaodisha.com###media_image-115
 bbttimes.com,capitalnews.lk,jansaamna.com,pplnews.in,samnanews.com###media_image-12
 dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
@@ -317,8 +317,8 @@ yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -470,7 +470,7 @@ haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
 chirantannews.in,mariahulive.com,newindiatimes.news,parbattaanchal24.com,prameyanews7.com,trustnews24.com,vbnews24.com###sidebar-right .widget_media_image
-mariahulive.com###sidebar-right .widget_media_video
+mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
@@ -992,7 +992,7 @@ tamilmithran.com##.cine_ad
 madhyamam.com##.clock-container
 tamil.oneindia.com##.cmscontent-top
 livetvkerala.com##.cntarea img
-chandaulisamachar.com,gujaratexclusive.in,lankamurasu.com,malwanews.com,mbmnewsnetwork.com,mediavisionnews.in,pathanamthittamedia.com,rajasthanichirag.in,rosemalayalam.com##.code-block
+chandaulisamachar.com,gujaratexclusive.in,lankamurasu.com,malwanews.com,mbmnewsnetwork.com,mediavisionnews.in,pathanamthittamedia.com,rajasthanichirag.in,rosemalayalam.com,samacharplusnews.com##.code-block
 samajbad.tv##.code-block > img
 media24news.in##.code-block img
 gondwanaexpress.com,newstodaynetwork.com,theexclusivestory.com##.code-block-1
