@@ -2441,7 +2441,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 uttarkal.com,youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,pokharaexpress.com,pradeepamonline.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 24hrnews.in##section.widget_media_image:not(#media_image-5)
 cityonclick.in##section.widget_metaslider_widget
