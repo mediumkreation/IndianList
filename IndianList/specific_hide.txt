@@ -314,12 +314,12 @@ bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaam
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1787,7 +1787,7 @@ jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
 bharatnews18.in,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com##.theiaStickySidebar .widget_custom_html
 anidda.lk,dainandini.in,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newsnasha.com,pahadsmachar.com,poojanews.com,rajarhatbd.com,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com,yugjagran.com##.theiaStickySidebar .widget_media_image
-navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
+hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,tirthchetna.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
