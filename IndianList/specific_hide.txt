@@ -162,8 +162,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-krantiodishanews.com#@##custom_html-21
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+krantiodishanews.com#@##custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -874,6 +874,7 @@ dekhapadhi.com##.advertisement-three
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
+timeskerala.com##.advertismentRow
 divaina.com##.advertisments
 chapainews.com##.advrts
 dainiksylhet.com##.advsingle
@@ -1120,6 +1121,7 @@ hpnewsatl.com##.et_pb_post_content img
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
+timeskerala.com##.extraList
 parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
