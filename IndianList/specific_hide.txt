@@ -2291,6 +2291,7 @@ unitednripost.com##div[class*=" ads_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 bikanerhulchul.com##div[class*="bikan"]
+democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 dainikchintak.com##div[class*="daini-"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
