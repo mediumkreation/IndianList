@@ -134,6 +134,7 @@ malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
 nzpunjabinews.com###carouselExampleControls
+emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
 focusmohona.com###content .abv-container
@@ -162,8 +163,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 krantiodishanews.com#@##custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -767,7 +768,7 @@ gouripurnews.com##.add_add
 snn24.com##.add_after_scroller
 dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
-allnewsbharat.com,n7india.com,provatnews.com##.add_banner
+allnewsbharat.com,emstv.in,n7india.com,provatnews.com##.add_banner
 gtamilnews.com##.add_block_hdefault
 malayalamtodayonline.com##.add_bnk_img
 ridoyachandpur.com##.add_content
