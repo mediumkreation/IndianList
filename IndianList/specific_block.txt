@@ -129,6 +129,7 @@
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
+@@||emsindia.com/images/logo/1.png
 @@||enewsmp.com/uploaded_files/banner_img/enewsmp.com5f181c1882f7434.jpeg
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||hindikhabarwaala.com/uploads/blocks/block_60158bda70d87.jpg
@@ -1398,6 +1399,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||emalayalee.com/imgs.php?photo=$image
 ||emalayalee.com/imgs/$image
 ||emalayalee.com/maharani.jpg
+||emsindia.com/images/logo/
 ||emungaru.com/wp-content/uploads/2017/11/sURA.jpeg
 ||emungaru.com/wp-content/uploads/2018/05/Alvas-1.jpg
 ||emungaru.com/wp-content/uploads/2019/10/Jayalakshmi-Bejai-Logo-scaled.jpg
