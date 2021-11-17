@@ -905,6 +905,7 @@ inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
+ourbiratnagar.net##.av_block
 dnewsnetwork.in##.awac img.image
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
