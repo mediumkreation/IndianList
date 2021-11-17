@@ -315,12 +315,12 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1830,6 +1830,7 @@ crimenewsnepal.com##.topAdvertisementWrapper
 onlinekhabar.com##.top__ads
 bankbimaarthonity.com,biniyogbarta.com,biniyougbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
+dailyjonomot.com##.top_ads2
 samacharplus.com##.top_advertize
 prabhabonline.com##.top_banner
 ni24news.com##.top_index_block_adnow
@@ -2309,6 +2310,7 @@ sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
 chitrodesh.com##div[class*="stream-item"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 jagmarg.com##div[class^="AdvtSample"]
+dailyjonomot.com##div[class^="add_"]
 bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
 hindustanvision.com##div[class^="avtg"]

@@ -4534,6 +4534,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*www.abcnepal.tv*/book25.png
 ||wp.com^*www.abcnepal.tv*/yath.gif
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
+||wp.com^dailyjonomot.com/wp-content/uploads/2021/03/IMG_20210311_221102-300x183.jpg
 ||wp.com^www.rojdin.in/wp-content/uploads/2019/05/273319.jpg
 ||wpsoul.com^$image,domain=shokherkrishi.com
 ||xxx-indian-porn.com/js/func.js
