@@ -317,12 +317,12 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -912,7 +912,7 @@ dnewsnetwork.in##.awac img.image
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
 manabadi.co.in##.backg-g
-71barta24.com,ajkertanore.com,alochitosokal.com,alokitonarayanganj24.net,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,bijoybanglabd.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailybahadur.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,dainiksomoyerbangladesh.com,deshersangbad24.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,onushondhantv.com,paribahanjagot.com,rajshahinews24.com,rbcnewsbd.com,satkhiratoday.com,sb24live.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
+71barta24.com,ajkertanore.com,alochitosokal.com,alokitonarayanganj24.net,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,bijoybanglabd.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailybahadur.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,dainiksomoyerbangladesh.com,deshersangbad24.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,jubokantho24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,onushondhantv.com,paribahanjagot.com,rajshahinews24.com,rbcnewsbd.com,satkhiratoday.com,sb24live.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in##.banner
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
@@ -1911,6 +1911,7 @@ ethiri.com##.widget_ads_easy_widget
 hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
 e-kantho24.com,gtbnews24.com##.widget_area
 dailynotunsongbad.com,news24bd.net##.widget_area > img
+jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 avikaluttarakhand.com,newsaroma.com##.widget_block
