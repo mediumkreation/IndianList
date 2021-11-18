@@ -316,12 +316,12 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 yugjagran.com#@##media_image-7
+amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1767,8 +1767,9 @@ sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 apnahimachalapnishaan.in,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
-mahendranagarpost.com,postmanindia.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
+mahendranagarpost.com,postmanindia.in,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
+tazakhabar.in##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 khaskhobor.com##.td_single_image_bg
 akkbd.com##.td_single_image_bg[target="_blank"]
