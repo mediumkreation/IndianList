@@ -321,8 +321,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -889,7 +889,7 @@ newsplus24x7.com##.advtertise
 updatenews360.com##.aft-sticky-sidebar
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
-indiapolkhol.in##.ai_widget
+indiapolkhol.in,newsvanni.com##.ai_widget
 ajakoartha.com##.ajako_artha-advertisement-series
 malabarnews.com##.alertAdd
 osnepal.com##.alignnone.size-full
@@ -2034,7 +2034,7 @@ dailysatnadee.com##.wpb_content_element img:only-child
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 newscrime24.com##.wpb_gallery
 dainikmas.com,keralatimes.com##.wpb_images_carousel
-poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
+newsvanni.com,poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
 alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,theamplenews.com##.wpb_single_image
