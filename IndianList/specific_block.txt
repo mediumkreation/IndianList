@@ -4,7 +4,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
--ad.gif|$domain=5dariyanews.com|clickmandu.com|newsplus.lk|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
+-ad.gif|$domain=5dariyanews.com|clickmandu.com|kanakaionline.com|newsplus.lk|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
 -Ad.jpg|$domain=cinemapluz.com
@@ -1978,6 +1978,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||kalerkotha.com/front_end_assets/images/biggapon/
 ||kalikanews.com/uploads/bigyaapan/
 ||kalmunainet.com/wp-content/uploads/2018/12/48398931_1997785360309255_2179217421888389120_n.jpg
+||kanakaionline.com/wp-content/uploads/2019/11/CamScanner-11-15-2021-14.17-scaled.jpg
+||kanakaionline.com^*/fast-track.gif
 ||kanchanmoni.com/nazrul_ad_logo_1.jpg
 ||kanchanmoni.com/Trust%20Rubber%20Stamps%20bangla%20lok%20samaj%20copy.jpg
 ||kanjirappallyreporters.com^*/kalayil-
