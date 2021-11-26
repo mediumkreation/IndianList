@@ -1081,7 +1081,7 @@ alertchhattisgarh.com##.elementor-element-37731bf
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
-asianprimetime.com,khabardarinews.com,sitakundabarta.com##.elementor-widget-image
+asianprimetime.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 theeditor24.com##.elementor-widget-penci-featured-boxes
@@ -1456,7 +1456,7 @@ nnews24.com##.nnews-content
 narayanionline.com##.no-premodal-md
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in##.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
 sathyamonline.com##.nsads
