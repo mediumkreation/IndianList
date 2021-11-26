@@ -45,7 +45,7 @@
 -banner.gif|$domain=teknafnews71.com
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
--Banner.jpg|$domain=shamolbangla24.com
+-Banner.jpg|$domain=ottrancheithi.com|shamolbangla24.com
 -Banner_$image,domain=bikashnews.com
 -bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
