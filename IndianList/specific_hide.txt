@@ -809,6 +809,7 @@ mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
 gandakitimes.com##.ads aside:not(#custom_html-7)
 mohanagarnews.com##.ads img
+nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 iamgujarat.com,samayam.com##.ads-between-story
 madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
