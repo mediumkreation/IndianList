@@ -164,8 +164,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-krantiodishanews.com#@##custom_html-21
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+krantiodishanews.com#@##custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -317,8 +317,8 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 yugjagran.com#@##media_image-7
+amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
@@ -1066,7 +1066,7 @@ doolnews.com##.dool-ad
 drishtinews.com##.drishti-inner-ads
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,news85.in,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,thelastpagenews.com,udaipurkiran.in##.e3lan
+bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,news85.in,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shauryatimes.com,thelastpagenews.com,udaipurkiran.in##.e3lan
 gvtjob.com,news127.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,laxminews24x7.com,news127.com,p2pnews.co,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
@@ -1927,7 +1927,7 @@ avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,emungaru.com,expressindian.co.in,newsfact.in,samachardoot.in,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,emungaru.com,expressindian.co.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
 heralokhabar.com##.widget_media_image:not(#media_image-27)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
