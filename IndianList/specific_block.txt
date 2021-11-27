@@ -83,7 +83,7 @@
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
-/bigyaapan^$domain=nepalwatch.com|shilapatra.com
+/bigyaapan^$domain=aayomail.com|nepalwatch.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|newsexpress24.com|polkholindia.com|sansaninews.com
@@ -298,7 +298,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||aashanews.com/wp-content/uploads/2019/04/Surabhi.jpg
 ||aashanews.com/wp-content/uploads/2021/02/Ncc_ad_20201122221417.gif
 ||aashanews.com/wp-content/uploads/2021/02/Salt-Trading.gif
-||aayomail.com/uploads/bigyaapan/
 ||abckhabar.in/wp-content/uploads/2020/08/IMG-20200805-WA0000
 ||abhiyan.com.np^*/Om-Cement-2x5.jpg
 ||abhiyan.com.np^*/Subisu-263-x-150.gif
