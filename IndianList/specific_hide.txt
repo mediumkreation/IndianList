@@ -164,8 +164,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 krantiodishanews.com#@##custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -2043,7 +2043,7 @@ dainikmas.com,keralatimes.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,theamplenews.com##.wpb_single_image
+alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
@@ -2372,6 +2372,7 @@ globalmalayalam.com##div[id^="ad_"]
 aryavartposts.com##div[id^="aryav-"]
 banglarjanarob.com##div[id^="bangl-"]
 dainikchintak.com##div[id^="daini"]
+sajhaonlinekhabar.com##div[id^="hwp-"]
 newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 khabarsameeksha.com##div[id^="khaba-"]
 news24bd.net##div[id^="news2-"]
