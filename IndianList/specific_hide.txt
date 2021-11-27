@@ -176,11 +176,11 @@ angindianews.com,barisaltoday.com,countrynewstoday.com,crimemukhbir.com,dainikja
 saakshatv.com###custom_html-30
 ddnews24x7.com,thedastak24.com###custom_html-31
 ddnews24x7.com,saakshatv.com###custom_html-39
-indokalingtimes.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,uttarakhandhindinews.com###custom_html-4
+indokalingtimes.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com###custom_html-5
+247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
 ddnews24x7.com,hindi-news-today.com###custom_html-51
 ddnews24x7.com###custom_html-53
 bidhannagartimes.com,bnanews24.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
@@ -322,8 +322,8 @@ yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
