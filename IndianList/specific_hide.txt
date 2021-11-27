@@ -88,7 +88,7 @@ newsnib.in###advertisement
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 importmirror.com###adx
-yarldevinews.net###after-ad
+ezhomelive.com,yarldevinews.net###after-ad
 andhrajyothy.com###aimgMain
 andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
@@ -105,7 +105,7 @@ devbhoomidarshan17.com###banner-10
 truevisionnews.com###bannerCarousel1
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
-yarldevinews.net###before-ad
+ezhomelive.com,yarldevinews.net###before-ad
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 bankingsansar.com###bigyapan-top
