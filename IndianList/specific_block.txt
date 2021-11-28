@@ -38,6 +38,7 @@
 -Advt.png|$domain=centralindia.news
 -Agust-AD-$domain=indiapolkhol.in
 -bannar.jpg|$domain=kurigramlive.com
+-banner$domain=udayasooriyan.lk
 -banner-$domain=channelionline.com|gbnews24.com
 -Banner-$domain=sherpurtimes.com
 -Banner-$image,domain=bikashnews.com
