@@ -165,8 +165,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 krantiodishanews.com#@##custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -267,10 +267,10 @@ todaybiharnews1.wordpress.com###media_gallery-33
 pressbangla24.com,webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
-bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,nationissue.com,navpradesh.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,nationissue.com,navpradesh.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
 canvasmagazine.com.bd,nationissue.com,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,samnanews.com,scgnews.in###media_image-11
 samrudhaodisha.com###media_image-115
-bbttimes.com,capitalnews.lk,jansaamna.com,pplnews.in,samnanews.com###media_image-12
+bbttimes.com,capitalnews.lk,jansaamna.com,kalkudahnation.com,pplnews.in,samnanews.com###media_image-12
 dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
 bplnews24.in,hindvatannews.com,indianow24.com,jansaamna.com,mirrortoday.in,odishatime.com,pplnews.in,sabkasandesh.com###media_image-14
 anewsoffice.com,hindvatannews.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
@@ -324,8 +324,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1931,7 +1931,7 @@ rsnewslive.com##.widget_awaken_medium_rectangle_ad
 avikaluttarakhand.com,newsaroma.com##.widget_block
 mahanaad.com##.widget_block:not(#block-37)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
-livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
+kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 avadhkiaawaz.com##.widget_gallery_img_widget
