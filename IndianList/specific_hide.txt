@@ -165,8 +165,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 krantiodishanews.com#@##custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -318,12 +318,12 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1697,7 +1697,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,gandakivoice.com,inn24news.in,jugasankha.in,k24news.in,liveupweb.com,mediamangalam.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,gandakivoice.com,inn24news.in,jugasankha.in,k24news.in,liveupweb.com,mediamangalam.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,nayalook.com,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1710,7 +1710,7 @@ amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thebharatexpress.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
-apnahimachalapnishaan.in,keralabhooshanam.com,livequicknews.in,natunbarta.com,newssow.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
+apnahimachalapnishaan.in,keralabhooshanam.com,livequicknews.in,natunbarta.com,nayalook.com,newssow.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
 youthmukam.com##.su-image-carousel
