@@ -1761,8 +1761,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
-||imgur.com^$domain=pratyashatripura.in
-||imgur.com^$domain=karnalbreakingnews.com
+||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
 ||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|news71online.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
 ||inbcn.in/admin/view/upload/btp.jpg
