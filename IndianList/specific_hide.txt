@@ -165,8 +165,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-krantiodishanews.com#@##custom_html-21
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+krantiodishanews.com#@##custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -678,7 +678,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 abbiharnews.com##.abbih-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
+ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,swalenewsbank.com,ujyaaloonline.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
@@ -707,6 +707,7 @@ alorkantho24.news##.ad3
 alorkantho24.news##.ad4
 arthasarokar.com##.ad50
 iamgujarat.com,samayam.com##.adCANContainer
+swalenewsbank.com##.adMark
 odhikar.news##.adSlides
 padmatimes24.com##.ad_10
 dcnepal.com##.ad__space
