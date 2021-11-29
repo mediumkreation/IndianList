@@ -320,8 +320,8 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 yugjagran.com#@##media_image-8
@@ -1948,6 +1948,7 @@ heralokhabar.com##.widget_media_image:not(#media_image-27)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
+channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
 abhitaknewsuk.in,meherpurnews.com,newsnasha.com##.widget_media_video
 independentcitizennews.com,samnanews.com,thebharatexpress.com,thefourthmirror.com,up18news.com##.widget_metaslider_widget
 kalikadainik.com##.widget_namo_advertisement
