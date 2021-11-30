@@ -321,12 +321,12 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 yugjagran.com#@##media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -875,7 +875,7 @@ nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
-bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
@@ -1040,6 +1040,7 @@ bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
 chapaibarta24.com##.content-box-ads
+thebdreport24.com##.content-details .code-block
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
