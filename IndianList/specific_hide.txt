@@ -325,8 +325,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -1679,7 +1679,8 @@ digitalnewslive.com##.slider_3
 lokjeewan.com##.slider_ad_top
 janpadnewslive.com##.slider_instance
 sadeaalaradio.co.nz##.slides
-rewanewsmedia.com##.slideshow-container
+pslvtv.com,rewanewsmedia.com##.slideshow-container
+pslvtv.com##.slideshow-container ~ div .dot
 mediadabali.com##.sm-ads
 rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
