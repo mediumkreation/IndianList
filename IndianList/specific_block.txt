@@ -84,7 +84,7 @@
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
-/bigyaapan^$domain=aayomail.com|baahrakhari.com|nepalitwa.com|nepalwatch.com|shilapatra.com
+/bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|nepalitwa.com|nepalwatch.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|newsexpress24.com|polkholindia.com|sansaninews.com
@@ -1964,7 +1964,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||kalaroanews.com/wp-content/uploads/2018/05/JABA-COM2.gif
 ||kalercumilla.com//front-end/assets/img/add/
 ||kalerkotha.com/front_end_assets/images/biggapon/
-||kalikanews.com/uploads/bigyaapan/
 ||kalmunainet.com/wp-content/uploads/2018/12/48398931_1997785360309255_2179217421888389120_n.jpg
 ||kanakaionline.com/wp-content/uploads/2019/11/CamScanner-11-15-2021-14.17-scaled.jpg
 ||kanakaionline.com^*/fast-track.gif
