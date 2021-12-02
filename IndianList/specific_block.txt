@@ -9,7 +9,7 @@
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|sankalpanews.com|satkhiraprotidin.net
+-add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|filmyfanda.com|samarneetinews.com|shomoynews.net
 -add.gif|$domain=abcnepal.tv|amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
@@ -3967,8 +3967,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||suprobhat.com/wp-content/uploads/2020/05/PHP-AD-NEW-2-copy.jpg
 ||suprobhat.com^*/pedrollo-web
 ||suprovatsatkhira.com/wp-content/uploads/2019/06/china.gif
-||suprovatsatkhira.com/wp-content/uploads/2019/11/Barsa-Resort-Tourism-Add-
-||suprovatsatkhira.com/wp-content/uploads/2019/11/CHINA-BANGL-ADD-
 ||surmanews24.com/files/uploads/2019/06/137246833_259072185566759_2068188373512962998_n.jpg
 ||surmanews24.com^*/86848839_2792229974201639_4924484861642670080_n.jpg
 ||surmanews24.com^*/mirror-e1559380548934.jpg
