@@ -9,7 +9,7 @@
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
+-add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|pragativahini.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|filmyfanda.com|samarneetinews.com|shomoynews.net
 -add.gif|$domain=abcnepal.tv|amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
@@ -3250,9 +3250,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||pradeshnews24x7.com^*/new-
 ||pradhanavartha.in/wp-content/uploads/2021/02/sube_banner_large.png
 ||pragativadinews.com^*/Bharat-Masala
-||pragativahini.com/wp-content/uploads/2020/09/KLE-VV-Add.jpg
 ||pragativahini.com/wp-content/uploads/2021/01/Creasewise-28th-Jan.jpg
-||pragativahini.com/wp-content/uploads/2021/01/Laxmi-Tai-Add.jpg
 ||prajakiran.com/wp-content/uploads/2020/02/clasic
 ||prajapragathi.com^*/FINAL_NAGARAJ.gif
 ||prajasatta.in/wp-content/uploads/2020/09/BHUSHAN.gif
