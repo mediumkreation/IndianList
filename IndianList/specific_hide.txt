@@ -193,7 +193,7 @@ pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
 firsteyenews.co.in###dynamic_sidebar_before
 barishalcrimenews.com###elementor-popup-modal-114022
-elokasha.com###eloka-google
+elokasha.com,lokprashna.com###eloka-google
 cellitnews.com###example
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 nerpatham.com###floating-sidebar .custom
