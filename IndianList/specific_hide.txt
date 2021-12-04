@@ -1917,6 +1917,7 @@ khoborersomoy.com##.vide_area
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
+sadamoga.com##.view-ads-all-blocks
 dineshkhabar.com##.view-advertisement
 just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
