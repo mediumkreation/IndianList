@@ -114,7 +114,8 @@ arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
-londonbdnews24.com###block-10
+londonbdnews24.com,paridarshaka.com###block-10
+paridarshaka.com###block-11
 sehattimes.com,thedastak24.com###block-2
 24hrnews.in,thebharatexpress.com###block-28
 thebharatexpress.com###block-29
@@ -122,7 +123,9 @@ newskranti.com,newsnukkad.com,pahadsmachar.com,uttarakhandsamachar.com###block-3
 thebharatexpress.com###block-33
 dnspnews.in###block-37
 meerutdarpan.com###block-39
+paridarshaka.com###block-4
 newsnukkad.com###block-5
+paridarshaka.com###block-6
 samacharfirst.com###block-7
 wayanadnewsdaily.com###block-8
 bharatjan.com,wayanadnewsdaily.com###block-9
@@ -166,8 +169,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-krantiodishanews.com#@##custom_html-21
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
+krantiodishanews.com#@##custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
