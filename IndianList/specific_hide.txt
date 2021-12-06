@@ -324,8 +324,8 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-yugjagran.com#@##media_image-7
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 yugjagran.com#@##media_image-8
@@ -2332,7 +2332,7 @@ hellouttarakhandnews.com,nammabantwala.com##aside.widget_media_video
 brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
-chaukastoli.com,grenonews.com,newsvariant.com##aside.widget_text
+chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com##aside.widget_text
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]) )
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
