@@ -51,7 +51,7 @@
 /Ad.jpg|$domain=newsvob.com
 /ADD-$domain=bslnews24.com|tejastoday.com
 /ADD.gif|$domain=paryabekhyak.com
-/add.jpg|$domain=muznews.online|gourbarta24.com|sheershakhobor.com
+/add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/$domain=amreliexpress.com
 /add/*$image,domain=habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
 /add_$domain=shamolbangla24.com
