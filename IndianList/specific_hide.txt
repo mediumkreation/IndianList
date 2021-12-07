@@ -169,8 +169,8 @@ muznews.online,notunerkotha.com,prompttimes.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
-chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 krantiodishanews.com#@##custom_html-21
+chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
@@ -328,8 +328,8 @@ amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5
 yugjagran.com#@##media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-yugjagran.com#@##media_image-8
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+yugjagran.com#@##media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -985,9 +985,11 @@ pnn24.in##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 awaaz24x7.com##.block-wrapper video
 nigranee.com##.block-wrapper ~ #webbank-ad-section
+newsflash71.com##.block__2
 dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in,bundelkhandnews.com,lokjannews.com##.bn-lg
 bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,lokjannews.com,nayabharat.live,newsexpress24.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com,threesocieties.com##.bn-lg-sidebar
+newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
