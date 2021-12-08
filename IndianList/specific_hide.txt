@@ -1223,7 +1223,7 @@ bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,pahadkasach.in,thepublicworld.com##.header-advertise
 bengaluruvartha.in,doabatimes.com,gujaratmirror.in,malayalamdailynews.com##.header-ainfo
-anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,odishatime.com,onlinespardha.com##.header-banner
+anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
@@ -1953,7 +1953,7 @@ dailynotunsongbad.com,news24bd.net##.widget_area > img
 jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
-avikaluttarakhand.com,newsaroma.com##.widget_block
+avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
 mahanaad.com##.widget_block:not(#block-37)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
