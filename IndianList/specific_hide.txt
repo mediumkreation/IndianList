@@ -1500,6 +1500,7 @@ himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 tirangaacindianews.com##.owl-carousel .addbx
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,upayuktha.com##.penci-banner-box
+navsatta.com##.penci-sidebar-right
 startalkbd.com##.penci_single_ad_after_content
 gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
@@ -1833,7 +1834,7 @@ amritvichar.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,
 kasaragod.com##.theiaStickySidebar .text-html-box
 jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
-bharatnews18.in,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com##.theiaStickySidebar .widget_custom_html
+bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com##.theiaStickySidebar .widget_custom_html
 anidda.lk,dainandini.in,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com,yugjagran.com##.theiaStickySidebar .widget_media_image
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
