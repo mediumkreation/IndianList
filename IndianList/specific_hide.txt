@@ -694,8 +694,6 @@ eimuhurte.com,newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
-vijayapatha.in##.ad-description
-vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
@@ -1580,7 +1578,7 @@ samacharsach.com##.samac-widget
 samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 nepalsamaya.com##.sb-bigyaapan
-khabarchalisa.com,sheikhpuranews.com##.sb-widget-ad
+khabarchalisa.com,sheikhpuranews.com,vijayapatha.in##.sb-widget-ad
 jaianndata.com##.scnd-add
 nayabimarsha.com##.search2
 newspolar.com##.section .adalyticsblock
