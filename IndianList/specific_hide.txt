@@ -1099,7 +1099,7 @@ biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.e
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
-asianprimetime.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 theeditor24.com##.elementor-widget-penci-featured-boxes
