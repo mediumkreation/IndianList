@@ -1789,6 +1789,7 @@ ehapurnews.com,ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
 sachkitop.com##.td-post-content p img
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
+mediamalayalam.com##.td-spot-id-sidebar
 fatafatnews.com,haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
 bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
