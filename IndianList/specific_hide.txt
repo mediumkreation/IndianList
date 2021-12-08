@@ -1031,7 +1031,7 @@ banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
-azhimukham.com##.colombiaadcode
+azhimukham.com,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newstm.in,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -2491,7 +2491,7 @@ kasargodvartha.com##img[title="wellfitindia"]
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
-khabreelal.com#?#div#AS_O_LHS_1 div:-abp-has( > div > a > h2:last-child)
+khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div> span+a)
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
