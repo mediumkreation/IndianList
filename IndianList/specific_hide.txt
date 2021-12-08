@@ -171,6 +171,7 @@ amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,chann
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
+dainikbhaskarup.com###custom_html-24
 aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
 saakshatv.com###custom_html-28
@@ -977,7 +978,7 @@ arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
-pnn24.in##.block-custom-content
+dainikbhaskarup.com,pnn24.in##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 awaaz24x7.com##.block-wrapper video
 nigranee.com##.block-wrapper ~ #webbank-ad-section
@@ -1722,7 +1723,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,gandakivoice.com,himachalsamay.com,inn24news.in,jugasankha.in,k24news.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,gandakivoice.com,himachalsamay.com,inn24news.in,jugasankha.in,k24news.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1964,7 +1965,7 @@ avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,emungaru.com,expressindian.co.in,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,emungaru.com,expressindian.co.in,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
 heralokhabar.com##.widget_media_image:not(#media_image-27)
