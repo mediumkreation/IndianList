@@ -6,6 +6,7 @@ bdipo.com###BDIPO_ad_id
 pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
 utkalpratidin.com###HP_O_LHS_8
+atalsamachar.com###HP_O_TP_2 > div ~ div
 hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
 chilahatiweb.com,jaldhakanews.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
@@ -850,6 +851,7 @@ orthosongbad.com,sonalinews.com##.adv-img
 drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
+atalsamachar.com##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 doolnews.com##.adv_box_3x25
@@ -871,6 +873,7 @@ janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 narayanionline.com##.advertiesment-header
 narayanionline.com##.advertiesment-main > a:only-child
+atalsamachar.com##.advertisRow > div ~ div
 bikashnews.com,gorkhalikhabar.com##.advertise
 livestorytime.com##.advertise-area
 nobat.com##.advertise-ifrme
@@ -1145,7 +1148,7 @@ hpnewsatl.com##.et_pb_post_content img
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
-timeskerala.com##.extraList
+atalsamachar.com,timeskerala.com##.extraList
 parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
@@ -2336,6 +2339,7 @@ newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
 chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com##aside.widget_text
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
+atalsamachar.comdiv[id^="showAS_O_BEL"]
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]) )
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p > img.wp-image-23118)
