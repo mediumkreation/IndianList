@@ -443,6 +443,7 @@ legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
 phaddalo.com###secondary .widget_text
+badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
@@ -1469,6 +1470,7 @@ nepalijanta.com##.nepalijanta-ad
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 gorkhapatraonline.com##.news-inline-add
+badaunexpress.com##.news-slider
 sansarnews.com##.news-style-six-ads
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
