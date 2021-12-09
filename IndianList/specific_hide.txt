@@ -1091,7 +1091,7 @@ manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
 bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,news85.in,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shauryatimes.com,thelastpagenews.com,udaipurkiran.in##.e3lan
 gvtjob.com,news127.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
-deshersangbad.com,laxminews24x7.com,news127.com,p2pnews.co,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
+deshersangbad.com,graminujala.com,laxminews24x7.com,news127.com,p2pnews.co,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
 ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
 uluberiasambad.in##.eaa-ad
@@ -1105,7 +1105,7 @@ biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.e
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
-abbiharnews.com,asianprimetime.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 theeditor24.com##.elementor-widget-penci-featured-boxes
@@ -1975,6 +1975,7 @@ trttamilolli.com##.widget_html_javascript_adder
 amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,emungaru.com,expressindian.co.in,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
+graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 heralokhabar.com##.widget_media_image:not(#media_image-27)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
