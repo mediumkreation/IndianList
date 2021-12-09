@@ -1730,7 +1730,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,gandakivoice.com,himachalsamay.com,inn24news.in,jugasankha.in,k24news.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,inn24news.in,jugasankha.in,k24news.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1978,6 +1978,7 @@ tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 heralokhabar.com##.widget_media_image:not(#media_image-27)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
+divyadarpan.com##.widget_media_image:not(#media_image-38)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
