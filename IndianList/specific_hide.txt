@@ -1813,7 +1813,7 @@ sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 apnahimachalapnishaan.in,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
-mahendranagarpost.com,postmanindia.in,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
+khabargujarat.com,mahendranagarpost.com,postmanindia.in,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 tazakhabar.in##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
