@@ -2310,7 +2310,7 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 haryanaekhabar.com##a[rel*="sponsored"]
 dhadingnews.com##a[rel*="wp-att"]
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
-abitfar.com,notunalo24.com,weeklybangladeshusa.com##a[target="_blank"] img
+abitfar.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 clickmandu.com##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
