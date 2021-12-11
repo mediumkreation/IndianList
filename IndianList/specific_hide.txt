@@ -272,7 +272,7 @@ todaybiharnews1.wordpress.com###media_gallery-33
 pressbangla24.com,webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
-bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,nationissue.com,navpradesh.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,nationissue.com,navpradesh.com,news21live.in,parbatyachattagram.com,samnanews.com###media_image-10
 canvasmagazine.com.bd,nationissue.com,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,samnanews.com,scgnews.in###media_image-11
 samrudhaodisha.com###media_image-115
 bbttimes.com,capitalnews.lk,jansaamna.com,kalkudahnation.com,pplnews.in,samnanews.com###media_image-12
@@ -1370,7 +1370,7 @@ manoranjansansar.com,palikanews.com##.long-ad
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
-postpati.com##.long_adv a:not([href*="postpati.com"])
+postpati.com##.long_adv
 doolnews.com##.long_adv_area
 newsdoor.net##.lrads
 beautynewsnepal.com##.lwig
@@ -1610,6 +1610,7 @@ allnewsbharat.com,provatnews.com##.sideAdd
 hotnewsindia.com##.sideLeft .custom-html-widget
 hotnewsindia.com##.sideRight .custom-html-widget
 onlinekhabar.com##.side__add
+postpati.com##.side_adv_part
 motivatenews.com.np,ratopost.com,sancharkendra.com##.sidea
 kulalaworld.com##.sideadd
 cknewsgroup.ca##.sideadholder
