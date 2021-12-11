@@ -1527,7 +1527,6 @@ sahibganjnews.com##.post-body .separator ~ .separator img
 nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 khasokhas.com##.post-entry .code-block
-ghatanarabichar.com##.post-entry header section.widget
 akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
 purvanchal24.com##.post-footer [trbidi]
 sonalibanglanews.com##.post-inner .code-block img
@@ -2525,7 +2524,7 @@ satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 samaydarshan.in##section.samay-widget
-aayomail.com,bikastimes.com,deshkonews.com,ijalas.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
+aayomail.com,bikastimes.com,deshkonews.com,ghatanarabichar.com,ijalas.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
 janatasamachar.com##section.widget > a > img
 newsofnepal.com##section.widget > a img
 karobardaily.com##section.widget > a:only-child
