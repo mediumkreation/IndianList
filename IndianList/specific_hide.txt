@@ -539,9 +539,9 @@ kanodnews.com###text-2 p ~ p
 chirantannews.in,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
-thepublicworld.com,tnilive.com###text-23
+tnilive.com###text-23
 achhisoch.com,apnades.in,chirantannews.in,tnilive.com,trttamilolli.com###text-24
-aapkisafalta.com,achhisoch.com,apnades.in,thepublicworld.com,trttamilolli.com###text-25
+aapkisafalta.com,achhisoch.com,apnades.in,trttamilolli.com###text-25
 tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
@@ -1226,7 +1226,7 @@ sodhpatra.com##.header-ad-widget
 corporatesangbad.com,himachaljanadesh.com##.header-add
 bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
-alokitoshitalakha.com,pahadkasach.in,thepublicworld.com##.header-advertise
+alokitoshitalakha.com,pahadkasach.in##.header-advertise
 bengaluruvartha.in,doabatimes.com,gujaratmirror.in,malayalamdailynews.com##.header-ainfo
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 ratopati.com##.header-blocks-aspace
@@ -2347,6 +2347,7 @@ brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
 chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com##aside.widget_text
+thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 atalsamachar.comdiv[id^="showAS_O_BEL"]
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]) )
