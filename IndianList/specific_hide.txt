@@ -15,8 +15,8 @@ dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
 dailyhealthletters.com,taazakhoj.com###HTML15
-madhepurakhabar.com,thattungal.com###HTML16
-madhepurakhabar.com,thattungal.com###HTML18
+thattungal.com###HTML16
+thattungal.com###HTML18
 obolokon24.com###HTML19
 aapkimedia.com,chilahatiweb.com,sahibganjnews.com###HTML2
 24upnews.com###HTML2 .separator img
@@ -31,9 +31,9 @@ gramsamachar.com,jaldhakanews.com###HTML30
 36kaakda.in,99samacharexpress.in,chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
-madhepurakhabar.com,taazakhoj.com###HTML6
-chapainawabganjnews.com,ekumaon.com,livebihar24news.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
-dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
+taazakhoj.com###HTML6
+chapainawabganjnews.com,ekumaon.com,livebihar24news.com,rewanewsmedia.com,vyganews.com###HTML7
+dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 99samacharexpress.in,bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,nayasabera.com,newswitness.in,pinkcitynews.in,probashbd.news,rewanewsmedia.com,sahibganjnews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com,yarldevinews.net###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
@@ -1619,6 +1619,7 @@ dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
 cgwall.com##.sidebar .wds_slider_cont
+madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com##.sidebar .widget_custom_html
