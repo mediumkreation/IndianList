@@ -1719,7 +1719,7 @@ swarajnewstoday.com##.sponsored
 veeravengaikal.com##.sppb-addon-clients
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
-dhakanewsexpress.com##.square_advertisement
+dhakanewsexpress.com,sangbad-gallery.com##.square_advertisement
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
