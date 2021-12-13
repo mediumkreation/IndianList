@@ -153,6 +153,7 @@ celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 haryananewsexpress.com###covernews_posts_carousel-7
+biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
 bbttimes.com,dvgsuddi.com,jaihindtimes.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
