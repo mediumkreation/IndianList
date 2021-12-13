@@ -1244,7 +1244,7 @@ dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 metroplus.online##.header-wraper .fullwidthabanner
 talashbangla.com##.header__add
-corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,lankasudar.com,upayuktha.com##.header__banner
+corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,lankasudar.com,shramjeevijournalist.com,upayuktha.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
@@ -1506,7 +1506,7 @@ himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,firstbihar.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 tirangaacindianews.com##.owl-carousel .addbx
 shirurtaluka.com##.pageadvt
-breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,upayuktha.com##.penci-banner-box
+breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 navsatta.com##.penci-sidebar-right
 startalkbd.com##.penci_single_ad_after_content
 gmnewsbd.com##.pf-content > div[style]
@@ -2087,11 +2087,11 @@ aadarshhimachal.com,channelionline.com,delhicrimepressnews.com##.wpb_content_ele
 dailysatnadee.com##.wpb_content_element img:only-child
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,newscrime24.com##.wpb_gallery
-dainikmas.com,keralatimes.com##.wpb_images_carousel
+dainikmas.com,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,theamplenews.com##.wpb_single_image
+alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
