@@ -704,6 +704,7 @@ koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
 news24bd.tv##.ad-ticker-right
+officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 iamgujarat.com,samayam.com##.ad-wrapper-250
