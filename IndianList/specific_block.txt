@@ -39,6 +39,7 @@
 -bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
 -gif.gif|$domain=prabhattimes.com
+-GIF.gif|$domain=rajdhanidaily.com
 -new.jpg|$domain=prabhattimes.com
 /720x90.gif?$domain=himalini.com
 /AD-$domain=ptbnewsbd.com
@@ -3343,6 +3344,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rajdhanidaily.com/wp-content/uploads/2020/10/add.gif
 ||rajdhanidaily.com/wp-content/uploads/2020/10/asvertisement-ncess-1200x100px.gif
 ||rajdhanidaily.com/wp-content/uploads/2020/12/ADBL_New20770512.gif
+||rajdhanidaily.com^*/century-masala
+||rajdhanidaily.com^*/hamropatro-remit
 ||rajdhanidaily.com^*/krisibikasbank.gif
 ||rajkaaj.in/images/rajkaaj_add/1538826766city.jpg
 ||rajkaaj.in/images/rajkaaj_add/1538826781city.jpg
