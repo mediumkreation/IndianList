@@ -530,8 +530,8 @@ moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
-dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
-fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
+,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com###text-15
+fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,zoombangla.com###text-16
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com,vavuniyanet.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
@@ -541,8 +541,8 @@ chirantannews.in,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vana
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
 tnilive.com###text-23
-achhisoch.com,apnades.in,chirantannews.in,tnilive.com,trttamilolli.com###text-24
-aapkisafalta.com,achhisoch.com,apnades.in,trttamilolli.com###text-25
+achhisoch.com,apnades.in,chirantannews.in,tnilive.com###text-24
+aapkisafalta.com,achhisoch.com,apnades.in###text-25
 tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
@@ -550,7 +550,7 @@ garhwalkavikas.com###text-29 iframe
 abhibharat.com,aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,gandakichhadke.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com,tamizhdb.com###text-30
-e-jaffna.com,fatehnagarnews.com,satyamlive.com,trttamilolli.com###text-31
+e-jaffna.com,fatehnagarnews.com,satyamlive.com###text-31
 allaiyoor.com###text-32
 satyamlive.com###text-33
 satyamlive.com###text-35
@@ -559,8 +559,7 @@ anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com###text-38
 satyamlive.com###text-39
 ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
-himalini.com,trttamilolli.com###text-40
-trttamilolli.com###text-42
+himalini.com###text-40
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
@@ -2484,6 +2483,7 @@ protidinerchitrobd.com##img[alt="Bex Bazar"]
 newspagebd.com##img[alt="Biggapon"]
 onlinemarg.com##img[alt="Header Ad"]
 talashbangla.com##img[alt="Page Add"]
+trttamilolli.com##img[alt="SAT"]
 stocktimes24.com##img[alt="Smiley face"]
 farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 e24bollywood.com##img[alt="add image"]
