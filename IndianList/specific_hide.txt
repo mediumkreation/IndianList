@@ -1941,7 +1941,7 @@ hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_a
 kositimes.com##.vqtu
 livestorytime.com##.w3-section
 dainikazadi.net##.w3-top-ads-desktop
-lokshakti.in##.wds_slider_cont
+lokshakti.in,thaiveedu.com##.wds_slider_cont
 iamgujarat.com,samayam.com##.wdt_amz
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com##.well
 sajhapost.com##.white-bg-half-ad
@@ -2148,6 +2148,7 @@ emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
+thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 newsagencyindia.com##a[data-anchor*="wincompete"]
 uttranews.com##a[href*="-advt-"]
