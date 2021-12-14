@@ -1970,7 +1970,7 @@ rsnewslive.com##.widget_awaken_medium_rectangle_ad
 avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
 mahanaad.com##.widget_block:not(#block-37)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
-kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
+athirvu.in,kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 avadhkiaawaz.com##.widget_gallery_img_widget
