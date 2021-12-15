@@ -530,7 +530,7 @@ anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagrac
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,mpbreaking.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
 ,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com###text-15
 fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,zoombangla.com###text-16
@@ -582,7 +582,7 @@ punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
-apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,pabilnews.com,scnnewsindia.com,shomoynews.com,vanakkamlondon.com###text-7
+apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,shomoynews.com,vanakkamlondon.com###text-7
 247superfast.com,dmoitry.com,ekhansangbad.com,gazarianews.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,rozanapost.in,sambadsaradin.com,siwanbazar.com,tamizhdb.com,theblastkhabar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 indiawarta.com###text-8 iframe
 sharebazarnews.com###text-882
@@ -2552,6 +2552,7 @@ sbharatnews.com##section.widget_media_gallery
 britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 24hrnews.in##section.widget_media_image:not(#media_image-5)
+mpbreaking.in##section.widget_media_image:not(#media_image-6)
 thehillsofmussoorie.com##section.widget_media_video
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
