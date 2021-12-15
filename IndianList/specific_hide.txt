@@ -1593,6 +1593,7 @@ nepalsamaya.com##.sb-bigyaapan
 khabarchalisa.com,sheikhpuranews.com,vijayapatha.in##.sb-widget-ad
 jaianndata.com##.scnd-add
 nayabimarsha.com##.search2
+entevarthakal.com##.second_section_right
 newspolar.com##.section .adalyticsblock
 makalukhabar.com,nepalpress.com##.section-ad-space
 ns7.tv##.seithigalad
@@ -1860,6 +1861,7 @@ hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
+entevarthakal.com##.third_section_ads
 sangalokhabar.com##.three-col-ads
 namasteandhra.com##.three_ads
 ourislam24.net##.ti-ads
@@ -2454,6 +2456,7 @@ webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
+entevarthakal.com#?#.fourth_2_inner:-abp-has(> a > div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 dailysobujbarta.com##figure.vc_figure
