@@ -1108,7 +1108,7 @@ biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.e
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
-abbiharnews.com,asianprimetime.com,graminujala.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 theeditor24.com##.elementor-widget-penci-featured-boxes
@@ -1982,7 +1982,7 @@ sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 kundeshwartimes.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,emungaru.com,expressindian.co.in,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,emungaru.com,expressindian.co.in,kannadanewsnow.com,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
