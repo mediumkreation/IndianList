@@ -7,15 +7,15 @@ pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
 utkalpratidin.com###HP_O_LHS_8
 atalsamachar.com###HP_O_TP_2 > div ~ div
-actionnews.in,hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
+actionnews.in,balotranewstrack.com,hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
 chilahatiweb.com,jaldhakanews.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,dailyhealthletters.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,rewanewsmedia.com###HTML11
 dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
-dailyhealthletters.com,taazakhoj.com###HTML15
-thattungal.com###HTML16
+balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML15
+balotranewstrack.com,thattungal.com###HTML16
 thattungal.com###HTML18
 obolokon24.com###HTML19
 aapkimedia.com,chilahatiweb.com,sahibganjnews.com###HTML2
@@ -34,6 +34,7 @@ tamilarul.net###HTML42
 taazakhoj.com###HTML6
 chapainawabganjnews.com,ekumaon.com,livebihar24news.com,rewanewsmedia.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
+balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 99samacharexpress.in,bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,nayasabera.com,newswitness.in,pinkcitynews.in,probashbd.news,rewanewsmedia.com,sahibganjnews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com,yarldevinews.net###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
