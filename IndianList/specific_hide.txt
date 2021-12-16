@@ -185,7 +185,7 @@ tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 ddnews24x7.com,thedastak24.com###custom_html-31
 ddnews24x7.com,saakshatv.com###custom_html-39
-indokalingtimes.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
+indianletter.com,indokalingtimes.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
@@ -204,6 +204,7 @@ barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com,lokprashna.com###eloka-google
 cellitnews.com###example
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
+indianletter.com###featured-multi-wrap
 nerpatham.com###floating-sidebar .custom
 narmadanchal.com###fn-before-content-sidebar
 keralavisiontv.com###foot-ad-wrap
