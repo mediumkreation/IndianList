@@ -586,7 +586,7 @@ punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
-apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,shomoynews.com,vanakkamlondon.com###text-7
+apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,shomoynews.com,vanakkamlondon.com###text-7
 247superfast.com,dmoitry.com,ekhansangbad.com,gazarianews.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,rozanapost.in,sambadsaradin.com,siwanbazar.com,tamizhdb.com,theblastkhabar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 indiawarta.com###text-8 iframe
 sharebazarnews.com###text-882
@@ -2098,6 +2098,7 @@ atharvnews.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
+manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 dainikmas.com,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
