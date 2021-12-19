@@ -51,6 +51,7 @@
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com|teknafnews24.com
 /Ad.jpg|$domain=newsvob.com
 /ADD-$domain=bslnews24.com|tejastoday.com
+/add-$domain=somoynewsbd.com
 /ADD.gif|$domain=paryabekhyak.com
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$image,domain=amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
