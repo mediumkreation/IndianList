@@ -1114,6 +1114,7 @@ newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
 abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
+bhartiyakhabar.in##.elementor-widget-image figure
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 theeditor24.com##.elementor-widget-penci-featured-boxes
