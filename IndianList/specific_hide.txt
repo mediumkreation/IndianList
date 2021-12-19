@@ -240,7 +240,7 @@ chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
 tamilcinemaz.com###itro_opaco
-tamilcinemaz.com###itro_popup
+filmnews24x7.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
@@ -1985,6 +1985,7 @@ khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 athirvu.in,kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
+filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
@@ -2107,7 +2108,7 @@ dainikmas.com,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
+alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
