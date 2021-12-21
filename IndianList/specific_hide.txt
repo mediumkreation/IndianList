@@ -552,7 +552,7 @@ tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
 garhwalkavikas.com###text-29 iframe
-abhibharat.com,aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,gandakichhadke.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+abhibharat.com,aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,gandakichhadke.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,live18h.com,tamizhdb.com###text-30
 e-jaffna.com,fatehnagarnews.com,satyamlive.com###text-31
@@ -1746,7 +1746,7 @@ dhadingpost.com##.str3
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
-gnebangla.in,jaunpur24.com,livemagadh.com,mitanbhoomi.com##.stream-item-above-post
+gnebangla.in,jaunpur24.com,livemagadh.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
 pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
