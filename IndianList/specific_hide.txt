@@ -1047,7 +1047,7 @@ odishareporter.in##.colombia
 azhimukham.com,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
+3pm.in,atalnews24.com,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
 utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
@@ -2434,7 +2434,7 @@ shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
-newsremind.com##div[id^="AS_O_LHS_1"]
+atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
 aapnihathai.com##div[id^="aapni-"]
