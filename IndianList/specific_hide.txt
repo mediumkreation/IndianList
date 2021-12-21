@@ -2541,6 +2541,7 @@ arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 rashtranayaknews.com##media_image-8
 momainews.com#?#div:-abp-has(>div>span[name="adchoicehtml"])
 news11.live#?#.align_cent:-abp-contains(Advertise)
+newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> *:not(div))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(>div>span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(>p:-abp-contains(Advertisement))
 pnn24.in#?#.theiaStickySidebar>div:-abp-has(>div.widget-title>h4:-abp-contains(ADVERTISEMENT))
