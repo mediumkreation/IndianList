@@ -2108,6 +2108,7 @@ indiaaajkal.in,newscrime24.com##.wpb_gallery
 dainikmas.com,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
+rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
@@ -2365,7 +2366,7 @@ hellouttarakhandnews.com,nammabantwala.com,thelifelinetoday.com,voiceofuttarakha
 brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
-chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com##aside.widget_text
+chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com,rajsattanews.com##aside.widget_text
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 atalsamachar.comdiv[id^="showAS_O_BEL"]
