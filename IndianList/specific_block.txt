@@ -167,6 +167,7 @@ _ADS.gif|$domain=focusmohona.com
 _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
 _ads.png|$domain=prothomalo.com
+_ads_gif|$domain=satkarpost.com
 _Advt.gif|$domain=kasaragod.com
 _advt_$domain=channelindia.news
 _banner$image,domain=poriborton.com
