@@ -1202,7 +1202,7 @@ uukmanews.com##.full-ad-wrp
 sansarnews.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
-dcnepal.com##.full-banner
+dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
 dineshkhabar.com##.fullSizeAdBnr
 dailybangladeshbani.com##.full_ad_widget
