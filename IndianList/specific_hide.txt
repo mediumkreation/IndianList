@@ -2427,7 +2427,7 @@ shreekanchanpath.com##div[class^="shree-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
-akashjatra.com,bdsangbad24.com,biharnewslive.com,chavakkadonline.com,cumillarpaper.com,gandaknews.com,justaction.in,kilinochchinet.com,konarklive.com,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com##div[data-adid]
+akashjatra.com,bdsangbad24.com,biharnewslive.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,gandaknews.com,justaction.in,kilinochchinet.com,konarklive.com,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com##div[data-adid]
 veerdharanews.com##div[data-adid] img
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
 bikalpadainik.com##div[data-adid]:not([data-adid="5022"]):not([data-adid="3716"])
