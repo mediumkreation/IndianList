@@ -2372,7 +2372,6 @@ grenonews.com,rsnewslive.com##aside.widget_sp_image
 chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com,rajsattanews.com##aside.widget_text
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
-atalsamachar.comdiv[id^="showAS_O_BEL"]
 azhimukham.com#?#.colombiaonesuccess>div:-abp-has(>div>div>a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
 bhingatimes.co.in#?#.my-4:-abp-has(>h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(>p>img.wp-image-23118)
@@ -2460,6 +2459,7 @@ newsfact.in##div[id^="newsf-"]
 newsheight.com##div[id^="newsh-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 hosadigantha.com##div[id^="pum-"]
+atalsamachar.com##div[id^="showAS_O_BEL"]
 sitamarhilive.in##div[id^="sitam-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
