@@ -127,6 +127,7 @@ dnspnews.in###block-37
 meerutdarpan.com###block-39
 paridarshaka.com###block-4
 newsnukkad.com###block-5
+overlook.co.in###block-55
 paridarshaka.com###block-6
 samacharfirst.com###block-7
 wayanadnewsdaily.com###block-8
@@ -1470,7 +1471,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
@@ -2547,6 +2548,7 @@ meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(>div>span[name="adchoicehtml"])
 news11.live#?#.align_cent:-abp-contains(Advertise)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> *:not(div))
+overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(>div>span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(>p:-abp-contains(Advertisement))
 pnn24.in#?#.theiaStickySidebar>div:-abp-has(>div.widget-title>h4:-abp-contains(ADVERTISEMENT))
