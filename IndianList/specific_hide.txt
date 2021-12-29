@@ -1720,6 +1720,7 @@ reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
 nittaa.com##.smashwords-widget
+banglalive.com##.sny-ads-panel
 dinajpurnews24.com##.software
 cglivenews.co.in##.soliloquy-container
 kaumudiplus.com##.sp-ad-row
@@ -2449,7 +2450,7 @@ abhayindia.com##div[id^="abhay-"]
 achhikhabar.com##div[id^="achhi-"]
 globalmalayalam.com##div[id^="ad_"]
 aryavartposts.com##div[id^="aryav-"]
-banglarjanarob.com##div[id^="bangl-"]
+banglalive.com,banglarjanarob.com##div[id^="bangl-"]
 dainikchintak.com##div[id^="daini"]
 eadarsha.com##div[id^="eadar-"]
 wayanadnewsdaily.com##div[id^="edtinawuv-"]
