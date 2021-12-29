@@ -516,6 +516,7 @@ shasakprashasak.com###sp-user2
 techtamil.com###sp_widget_post_slider-2
 khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
+telugutimes.net###splide24
 sanskardarshan.in###sticky-wrapper
 lokaantar.com###stickyAdBottom
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
@@ -1702,6 +1703,7 @@ onlinedabali.com##.skpa
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
+telugutimes.net##.slider-below-ads
 dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
