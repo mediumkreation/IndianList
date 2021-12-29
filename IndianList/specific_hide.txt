@@ -1915,6 +1915,7 @@ sylheterdak.com.bd##.topadv
 banglavashi.com,dcnepal.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
+nepalplus.com##.topfull
 janwani.in##.toplogobannerRS1 .topcol1
 divyahimachal.com##.topnewsbx > div[style]
 seithy.com##.toppageadsindexheader
