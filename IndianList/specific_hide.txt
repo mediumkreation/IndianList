@@ -125,7 +125,7 @@ newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com,uttarakhandsamacha
 thebharatexpress.com###block-33
 dnspnews.in###block-37
 meerutdarpan.com###block-39
-paridarshaka.com###block-4
+bdcrictime.com,paridarshaka.com###block-4
 newsnukkad.com###block-5
 overlook.co.in###block-55
 paridarshaka.com###block-6
@@ -2135,6 +2135,7 @@ attingalvartha.com##.wpb_widgetised_column
 wishavwarta.in##.wpb_widgetised_column .wp-block-image
 aadarshhimachal.com##.wpb_wrapper .rll-youtube-player
 pravasishabdam.com##.wpb_wrapper .td_single_image_bg
+bdcrictime.com##.wpb_wrapper .vc_raw_html
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
