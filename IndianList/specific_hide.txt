@@ -701,6 +701,7 @@ pankourinews.com##.ad img
 newsdnntv.com,pratyeknewslive.com##.ad--space
 eimuhurte.com,newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
+anandabazar.com##.ad-280
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 malayalamuk.com##.ad-half
