@@ -1817,8 +1817,11 @@ vasundharadeep.news##.td-post-content .td-a-rec
 ehapurnews.com##.td-post-content > p>strong:only-child
 sachkitop.com##.td-post-content figure img
 ehapurnews.com,ratnagirikhabardar.com##.td-post-content figure.wp-block-image
+prabhattimes.com##.td-post-content h5 img
 enavamaratha.com##.td-post-content img.aligncenter
 sachkitop.com##.td-post-content p img
+prabhattimes.com##.td-post-content p> strong > img
+prabhattimes.com##.td-post-content span[style="color: #ff0000;"]
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 mediamalayalam.com##.td-spot-id-sidebar
 fatafatnews.com,haldwanilive.com##.td-ss-main-sidebar
