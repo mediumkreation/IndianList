@@ -554,7 +554,7 @@ tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
 garhwalkavikas.com###text-29 iframe
-abhibharat.com,aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,gandakichhadke.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+abhibharat.com,aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,gandakichhadke.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,makdaiexpress24.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,live18h.com,tamizhdb.com###text-30
 e-jaffna.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
@@ -2015,6 +2015,7 @@ abhitaknewsuk.in,chamolitimes.com,meherpurnews.com,newsnasha.com##.widget_media_
 independentcitizennews.com,samnanews.com,thebharatexpress.com,thefourthmirror.com,up18news.com##.widget_metaslider_widget
 kalikadainik.com##.widget_namo_advertisement
 dainik4media.com##.widget_nivo_slider_widget
+makdaiexpress24.com##.widget_orkpy:not(#orkpy-7)
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
 bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
