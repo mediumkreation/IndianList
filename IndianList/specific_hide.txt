@@ -2003,7 +2003,7 @@ sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 kundeshwartimes.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,emungaru.com,expressindian.co.in,kannadanewsnow.com,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+amarvaani.com,andbiharnews.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,emungaru.com,expressindian.co.in,kannadanewsnow.com,kanodnews.com,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 pplnews.in##.widget_media_image:not(#media_image-13)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
