@@ -544,10 +544,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||barishalcrimenews.com/wp-content/uploads/2020/01/website-ad$image
 ||barishalcrimenews.com/wp-content/uploads/2021/01/Anchor-20.jpg
 ||barishalcrimenews.com^*/Ad$image
-||barishaltimes.com/wp-content/uploads/2020/04/Diyan-Tex.jpg
 ||barishaltimes.com/wp-content/uploads/2021/01/Screenshot.png
+||barishaltimes.com/wp-content/uploads/2021/09/Screenshot-27-1.png
 ||barishaltimes.com^*/Anchor-2.png
 ||barishaltimes.com^*/Arafat-Paint.png
+||barishaltimes.com^*/Diyan-Tex.jpg
 ||barishaltimes.com^*/MEP-Gang-Such.jpg
 ||barishaltimes.com^*/Shikder-Gp.png
 ||barishaltimes.com^*/Shovo-Tr.jpg
