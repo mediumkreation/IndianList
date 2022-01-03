@@ -1135,7 +1135,6 @@ bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 indiapolkhol.in,rcbrn.com,sachchadost.in##.entry-content .code-block
-newsway.in##.entry-content .newsw-content
 punjabbaani.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
 livemagadh.com##.entry-content .wp-block-image.size-full
@@ -2469,6 +2468,7 @@ lokalok.in##div[id^="lokal-"]
 news24bd.net##div[id^="news2-"]
 newsfact.in##div[id^="newsf-"]
 newsheight.com##div[id^="newsh-"]
+newsway.in##div[id^="newsw-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 hosadigantha.com##div[id^="pum-"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
@@ -2584,6 +2584,7 @@ kathmandupati.com,lokpath.com##section.widget img:only-child
 bidrohee.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
 britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 24hrnews.in##section.widget_media_image:not(#media_image-5)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
