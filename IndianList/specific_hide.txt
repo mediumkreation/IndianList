@@ -565,7 +565,7 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com###text-38
 satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
 himalini.com###text-40
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
@@ -1152,7 +1152,7 @@ abbiharnews.com##.entry-content figure.is-resized
 ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com##.entry-content img
-peptechtime.com##.entry-content img:only-child
+newswatch.co.in,peptechtime.com##.entry-content img:only-child
 theeditors.net##.entry-content p img
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
@@ -2583,7 +2583,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 bidrohee.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,newswatch.co.in,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 24hrnews.in##section.widget_media_image:not(#media_image-5)
