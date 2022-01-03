@@ -690,7 +690,6 @@ keralakaumudi.com##.a-728-90
 gujarattimesusa.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
-abbiharnews.com##.abbih-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
 ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,swalenewsbank.com,ujyaaloonline.com,virakesari.lk##.ad
@@ -2453,6 +2452,7 @@ atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
 aapnihathai.com##div[id^="aapni-"]
+abbiharnews.com##div[id^="abbih-"]
 abhayindia.com##div[id^="abhay-"]
 achhikhabar.com##div[id^="achhi-"]
 globalmalayalam.com##div[id^="ad_"]
