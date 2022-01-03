@@ -537,11 +537,11 @@ moonramkonam.com###text-124
 bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,mpbreaking.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
-dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com###text-15
+dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,zoombangla.com###text-16
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com,vavuniyanet.com###text-18
-anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
+anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com,updatetimes.com###text-19
 abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,komashisha.com,kositimes.com,moviemandu.com,pabilnews.com,parichowk.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
 chirantannews.in,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanakkamlondon.com###text-20
@@ -1475,7 +1475,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
