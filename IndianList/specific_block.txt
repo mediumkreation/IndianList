@@ -4481,6 +4481,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*/Surya-Sharma$domain=osnepal.com
 ||wp.com^*/visit-nepal-$domain=pariwartankhabar.com
 ||wp.com^*/YATRA-AD-TP$domain=osnepal.com
+||wp.com^*dsentv24.com/wp-content/uploads/2021/07/WesternFXBanner_
 ||wp.com^*ganthan.com/wp-content/uploads/add-$image
 ||wp.com^*muznews.online*/add-$image
 ||wp.com^*muznews.online*/Atithi-Hotel_$image
