@@ -1118,7 +1118,7 @@ biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.e
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
-abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com,updatepunjab.com##.elementor-widget-image
 bhartiyakhabar.in##.elementor-widget-image figure
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
