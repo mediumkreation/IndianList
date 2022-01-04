@@ -1684,6 +1684,7 @@ sawalnepal.com##.single-up img
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
+cumillasdnews24.com##.single_details .code-block
 banglanewstv.com##.single_details .widget_area
 nagarprabha.org##.single_featured_slide
 dailyghagot.com##.single_page .add
