@@ -629,6 +629,7 @@ chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 mediapunjab.com###up_height img[src^="data:image"]
+news18.com###vigyapan
 malwanews.com###viral_advertisement-11
 malwanews.com###viral_advertisement-7
 crimesuspence.com###wb_element_instance35
@@ -704,6 +705,7 @@ chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
+news18.com##.ad-container
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
@@ -730,6 +732,7 @@ ekusheysangbad.com##.ad_area1
 ekusheysangbad.com##.ad_area2
 ekusheysangbad.com##.ad_area3
 lifeglint.com##.ad_bottom_lip
+news18.com##.ad_cntainer
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 bdtimesnews.com##.ad_text_box
@@ -802,6 +805,7 @@ rosemalayalam.com##.add_img_mid
 europemalayali.co.uk##.add_inner_news
 narayanionline.com##.add_middle
 bslnews24.com##.add_pad_bottom
+news18.com##.add_secton
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 motivatenews.com.np##.addc img
@@ -837,6 +841,7 @@ nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
 ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
+news18.com##.ads-slider
 loksattanews.co.in##.ads-slider-widget
 hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
@@ -1201,6 +1206,7 @@ professorsbd.com##.for_add
 sangbad-gallery.com##.four_advertisement
 banglanewsca.com##.front-page-ad
 mathagal.net##.ft-advert
+news18.com##.ftrad
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
@@ -1222,6 +1228,7 @@ dcnepal.com,merofilm.com,nepalpress.com##.gam-ad-position-wrap
 nepalpress.com##.gam-each-ad
 nepalpress.com##.gam-each-npad
 sithmalyaya.com##.gear-best
+news18.com##.global-storylist li[style^="height"]
 joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 paristamil.com##.group1
@@ -1465,6 +1472,7 @@ chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
 malayalamexpress.in##.mtk-pubadban
 amanpath.in,thepublicnews.live##.mvp-flex-ad
+news18.com##.my-ad-rhs
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
 newsroomme.com,sindhudurglive.com,youngvarta.com##.mySlides
@@ -1623,7 +1631,9 @@ baahrakhari.com##.side-bigyaapan
 gournadi24.com##.side-indent .wgs-ads:first-child
 allnewsbharat.com,provatnews.com##.sideAdd
 hotnewsindia.com##.sideLeft .custom-html-widget
+news18.com##.sideMiddle
 hotnewsindia.com##.sideRight .custom-html-widget
+news18.com##.sideTop
 onlinekhabar.com##.side__add
 postpati.com##.side_adv_part
 motivatenews.com.np,ratopost.com,sancharkendra.com##.sidea
@@ -1695,6 +1705,7 @@ songkalpo.net##.single_page_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 ayodhyasamachar.com##.singlepage center > embed
 uttareralo24.com##.singlepage-section .add
+news18.com##.site-ad-container
 khulasanewslive.in##.site-footer .featured-stories
 googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,nepalraftar.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
@@ -2403,6 +2414,7 @@ punjabiherald.co.nz##div[aria-label="HSB-TOP-ADD-2a.jpg"]
 punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
 diyopost.com##div[clas="taja_bishesh_advertise"]
 unitednripost.com##div[class*=" ads_"]
+news18.com##div[class*="Header_inner_ad"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 bikanerhulchul.com##div[class*="bikan"]
@@ -2417,6 +2429,7 @@ chitrodesh.com##div[class*="stream-item"]
 nammabantwala.com##div[class*="td_uid_163_"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 jagmarg.com##div[class^="AdvtSample"]
+news18.com##div[class^="HomeMobile_mobile_add"]
 dailyjonomot.com##div[class^="add_"]
 bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
