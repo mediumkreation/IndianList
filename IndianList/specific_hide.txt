@@ -1581,6 +1581,7 @@ pagetamil.com##.pum-content
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
 indiatimes.com,vijaykarnataka.com##.pwa-deals
+news18.com##.pwa_add
 pangighatidanikapatrika.in##.quads-highlight-adblocked
 rajnitiprotidin.com##.qvzk
 madhyamam.com##.ramdan-ad-wrapper
@@ -2500,6 +2501,7 @@ truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
 webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
+news18.com##div[style*="300px"][style*="background"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 entevarthakal.com#?#.fourth_2_inner:-abp-has( > a>div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
@@ -2581,6 +2583,7 @@ pksnews24.com#?#div.primary-sidebar-widget:-abp-has( > div > span:-abp-contains(
 pksnews24.com#?#div[data-adid]:-abp-has( > p:-abp-contains(Advertisement))
 pnn24.in#?#.theiaStickySidebar > div:-abp-has( > div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
+news18.com#?##right div:-abp-has( > div.nw18-dfp-ad)
 rozanapost.in#?#aside:-abp-has( > h3 > span:-abp-contains(Advt))
 sachikalam.com#?#div[class*="slide"]:-abp-has( > div > .AdvtSample)
 satkhiraprobaho.net#?#div:-abp-has( > h3:-abp-contains(Advertisement))
