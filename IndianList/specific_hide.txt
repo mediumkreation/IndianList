@@ -2577,6 +2577,7 @@ rashtranayaknews.com##media_image-8
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has( > div > span[name="adchoicehtml"])
 news11.live#?#.align_cent:-abp-contains(Advertise)
+news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#div:-abp-has( > .myad)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has( > :not(div))
 overlook.co.in#?#section.widget_block:-abp-has( > p > ins)
