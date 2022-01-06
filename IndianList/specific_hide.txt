@@ -1841,7 +1841,7 @@ gionews.in##.td-ss-main-sidebar .slider-pro
 bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
 chanakyanewz.com##.td-ss-main-sidebar .td-g-rec
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
-newsofmithila.in,odiapua.com##.td-ss-main-sidebar .widget_custom_html
+hugujarati.in,newsofmithila.in,odiapua.com##.td-ss-main-sidebar .widget_custom_html
 akkbd.com,brajeshkibaat.com,chandaulisamachar.com,ptcnews.tv,sylhetvoice.com,webmorcha.com##.td-ss-main-sidebar .widget_media_image
 galaxyinformer.com,krantimission.com,newsdna.co.in,uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
