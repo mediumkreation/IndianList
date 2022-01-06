@@ -313,7 +313,7 @@ news20live.com,starbanglanews.net###media_image-35
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 sheikhpuranews.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
-berartimes.com,bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
+berartimes.com,bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
 bharatsarathi.com,sabkasandesh.com###media_image-43
@@ -2154,6 +2154,7 @@ hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
 ptcnews.tv##.wpb_wrapper aside.widget_media_image
+prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 abtnews.in,boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
