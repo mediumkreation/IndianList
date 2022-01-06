@@ -2514,7 +2514,7 @@ pclive7.com##figure.wp-block-gallery
 dainikkushtia.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 sanvadnews.com##figure.wp-block-table
-samastipurtown.com##figure.wp-caption
+buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
@@ -2543,8 +2543,10 @@ talashbangla.com##img[alt="Page Add"]
 trttamilolli.com##img[alt="SAT"]
 stocktimes24.com##img[alt="Smiley face"]
 farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
+buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
 dhakareport24.com,khabarwaale.com##img[alt="add"]
+buxaruptodate.com##img[alt="ads buxar"]
 nepaljapan.com##img[alt="ads"]
 sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 ajkerograbani.com##img[alt="advertisement"]
