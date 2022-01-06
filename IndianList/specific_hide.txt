@@ -121,7 +121,7 @@ paridarshaka.com###block-11
 sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 24hrnews.in,thebharatexpress.com###block-28
 thebharatexpress.com###block-29
-jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com,uttarakhandsamachar.com###block-3
+jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms###block-3
 thebharatexpress.com###block-33
 dnspnews.in###block-37
 meerutdarpan.com###block-39
@@ -2006,6 +2006,7 @@ jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
+uttarakhandsamachar.com##.widget_block:not(#block-26)
 mahanaad.com##.widget_block:not(#block-37)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 athirvu.in,kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
