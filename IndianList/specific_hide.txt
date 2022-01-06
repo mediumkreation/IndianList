@@ -35,7 +35,7 @@ chapainawabganjnews.com,ekumaon.com,livebihar24news.com,rewanewsmedia.com,vygane
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
-99samacharexpress.in,bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,nayasabera.com,newswitness.in,pinkcitynews.in,probashbd.news,rewanewsmedia.com,sahibganjnews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com,yarldevinews.net###Image1
+99samacharexpress.in,bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,nayasabera.com,newswitness.in,pinkcitynews.in,probashbd.news,rewanewsmedia.com,sahibganjnews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
@@ -48,7 +48,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,liveaaryaavart.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com,yarldevinews.net###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,liveaaryaavart.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -676,6 +676,7 @@ ajkermymensingh.com##.DHeaderBanner
 satyamevtv.com##.Eod_right
 banglanewsca.com##.Front-page-Right-Side-Ad
 preyopathok.com##.Hero-ads-banner
+yarldevinews.net##.Image
 khabarpahad.com##.InArtilce-AdSlot01
 nellaionline.net,tutyonline.net##.MR300250
 lastnewsbd.com##.Photo_top_banner
