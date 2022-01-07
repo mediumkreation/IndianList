@@ -119,6 +119,8 @@ tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com,paridarshaka.com###block-10
 paridarshaka.com###block-11
 sehattimes.com,shottoboyan.com,thedastak24.com###block-2
+hnn24x7.com###block-23
+hnn24x7.com###block-24
 24hrnews.in,thebharatexpress.com###block-28
 thebharatexpress.com###block-29
 jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms###block-3
@@ -523,7 +525,7 @@ navakeralanews.com,newstruthlive.com###stream-item-widget-12
 liveuttarakhand.com###stream-item-widget-2
 sangbadsafar.com,vvanews.in###stream-item-widget-3
 nalandareporter.com###stream-item-widget-4
-bestnow.in###stream-item-widget-5
+bestnow.in,hnn24x7.com###stream-item-widget-5
 mediamangalam.com###stream-item-widget-7
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
@@ -1762,7 +1764,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
