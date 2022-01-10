@@ -48,7 +48,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,liveaaryaavart.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,jaunpurlive.com,liveaaryaavart.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -1552,6 +1552,7 @@ faridabadlatestnews##.post center > a[target="_blank"]
 narayanionline.com##.post-advertiesment
 sahibganjnews.com##.post-body .separator ~ .separator img
 nayasabera.com##.post-body .tr-caption-container
+jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 khasokhas.com##.post-entry .code-block
 akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
