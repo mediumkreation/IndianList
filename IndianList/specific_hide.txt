@@ -1317,6 +1317,7 @@ mekhrajbairwa.com##.hustle-layout
 tarunchhattisgarhkorba.com##.hustle-popup
 thereport24.com##.idlc
 bhilwarahalchal.com##.image-post-slider
+khulasaonline.com##.img-ad img
 samacharplus.com##.img-add
 khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
@@ -1799,9 +1800,8 @@ abhayindia.com,abhishektimes.in.net,britbangla24.com,smnewshimachal.in##.td-a-re
 crimeuttarakhand.in,dhunga.in,rantraibaar.in##.td-a-rec video
 bholahatchitro.com,khulnatimes.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
-khulasaonline.com##.td-a-rec-id-content_bottom > img
 dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
-ehapurnews.com,khulasaonline.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
+ehapurnews.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com,powertvnews.in##.td-a-rec-id-custom-spot
 goraynews24.com##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,goraynews24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,thedeoriatimes.in,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
