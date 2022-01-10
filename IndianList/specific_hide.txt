@@ -1059,7 +1059,7 @@ odishareporter.in##.colombia
 azhimukham.com,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,atalnews24.com,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,atalnews24.com,azhimukham.com,cinereporters.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
 utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 sharebazarnews.com##.company-ads
@@ -1323,6 +1323,7 @@ samacharplus.com##.img-add
 khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
 cgmitan.com##.img-fluid.advt-right-img:not([src*="IMG_20201006_082333"])
+aapkikhabar.com##.imgOverlayAd
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 pratyeknews.com##.imgad1
@@ -2371,6 +2372,8 @@ abitfar.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[targe
 clickmandu.com##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
+aapkikhabar.com#?#*:-abp-has( > a:-abp-contains(Government Ad))
+aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has( > div > span > a[rel*="sponsored"] )
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 newsnib.in##app-squaread
