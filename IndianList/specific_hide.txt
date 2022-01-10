@@ -1067,6 +1067,7 @@ samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
 news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
+udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
