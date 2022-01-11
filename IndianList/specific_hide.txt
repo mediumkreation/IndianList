@@ -108,6 +108,7 @@ truevisionnews.com###bannerCarousel1
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 ezhomelive.com,yarldevinews.net###before-ad
+khabarcgnews.com###below-header
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 tamilcnn.lk###big-banner
@@ -121,6 +122,7 @@ paridarshaka.com###block-11
 sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 hnn24x7.com###block-23
 hnn24x7.com###block-24
+khabarcgnews.com###block-27
 24hrnews.in,thebharatexpress.com###block-28
 thebharatexpress.com###block-29
 jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms###block-3
@@ -489,6 +491,7 @@ rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
+khabarcgnews.com###sidebar-right .widget_block
 khamoshduniya.com###sidebar-right .widget_custom_html
 chirantannews.in,khamoshduniya.com,mariahulive.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,trustnews24.com,vbnews24.com###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
