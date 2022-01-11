@@ -1898,6 +1898,7 @@ prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widge
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
+themangaloremirror.in##.thema-aien
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
 entevarthakal.com##.third_section_ads
 sangalokhabar.com##.three-col-ads
