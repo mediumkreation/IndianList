@@ -1537,7 +1537,7 @@ onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 onlynews24.com##.onlyn-after-content_2
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
-247superfast.com,24x7cg.com,abhibharat.com,firstbihar.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
+247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 tirangaacindianews.com##.owl-carousel .addbx
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
@@ -1902,6 +1902,7 @@ prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widge
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
+firstbihar.com##.theiaStickySidebar iframe
 themangaloremirror.in##.thema-aien
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
 entevarthakal.com##.third_section_ads
@@ -2399,6 +2400,7 @@ magnificentbihar.com,newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
 chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
 24timestoday.com##aside.sidebar > div:not(.related_posts)
+firstbihar.com##aside.tb-posts-slide-widget
 cnewsbharat.com##aside.text-center
 todaybhaskar.com##aside.widget_black_studio_tinymce
 apanderanews.com,inkpoint.in##aside.widget_block
