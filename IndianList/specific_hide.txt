@@ -208,6 +208,7 @@ firsteyenews.co.in###dynamic_sidebar_before
 barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com,lokprashna.com###eloka-google
 cellitnews.com###example
+makdaiexpress24.com###fdjga-21
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 indianletter.com###featured-multi-wrap
 nerpatham.com###floating-sidebar .custom
@@ -1184,6 +1185,7 @@ lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 dakhal.net##.fadInleft_ads
 varthatrivandrum.com##.fbx-instance
+makdaiexpress24.com##.fdjga
 bbc24news.com##.featad
 pchelpcenterbd.com##.featured-post-ads
 sudurpress.com##.field--name-field-ad-image
@@ -2049,7 +2051,6 @@ independentcitizennews.com,samnanews.com,thebharatexpress.com,thefourthmirror.co
 kalikadainik.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 dainik4media.com##.widget_nivo_slider_widget
-makdaiexpress24.com##.widget_orkpy:not(#orkpy-7)
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
 bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
