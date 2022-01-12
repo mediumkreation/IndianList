@@ -669,7 +669,7 @@ natunsomoy.net##.Ad-Section
 indurkanibarta.com##.Add
 deshergarjan.net##.Add img
 newsdustak.com##.Add-Master-Sside1
-punjabiinholland.com,sachikalam.com##.AdvtRight
+deshclick.com,punjabiinholland.com,sachikalam.com##.AdvtRight
 sachikalam.com##.AdvtSample
 tutyonline.net##.Amain
 janashaktinews.com##.CMAC_AdChangerWidget
@@ -2425,6 +2425,7 @@ steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
+deshclick.com#?#*:-abp-has( > .AdvtSample)
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabguardian.com##div.widget_media_image:not(#media_image-12):not(#media_image-14)
