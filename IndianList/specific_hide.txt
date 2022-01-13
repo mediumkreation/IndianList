@@ -525,6 +525,7 @@ ourislam24.net###spc-ads
 telugutimes.net###splide24
 sanskardarshan.in###sticky-wrapper
 lokaantar.com###stickyAdBottom
+webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
 navakeralanews.com,newstruthlive.com###stream-item-widget-12
 liveuttarakhand.com###stream-item-widget-2
@@ -1781,7 +1782,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1794,7 +1795,7 @@ amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thebharatexpress.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
-apnahimachalapnishaan.in,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,natunbarta.com,nayalook.com,newsd5.in,newssow.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
+apnahimachalapnishaan.in,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,natunbarta.com,nayalook.com,newsd5.in,newssow.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com,webmorcha.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 dainikmaharajganj.in##.stream-item.half-box
 voiceofjhabua.com##.stream-title
@@ -1859,7 +1860,7 @@ bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
 chanakyanewz.com##.td-ss-main-sidebar .td-g-rec
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
 hugujarati.in,newsofmithila.in,odiapua.com##.td-ss-main-sidebar .widget_custom_html
-akkbd.com,brajeshkibaat.com,chandaulisamachar.com,ptcnews.tv,sylhetvoice.com,webmorcha.com##.td-ss-main-sidebar .widget_media_image
+akkbd.com,brajeshkibaat.com,chandaulisamachar.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
 galaxyinformer.com,krantimission.com,newsdna.co.in,uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
@@ -1902,7 +1903,7 @@ anidda.lk,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24new
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,tirthchetna.com##.theiaStickySidebar .widget_text
+biratnews24live.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
