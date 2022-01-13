@@ -422,6 +422,7 @@ chhapratoday.com###pg-22-5
 kusenews.com###pgc-7-1-1
 dineshkhabar.com###popBlkAd
 rojgarlive.com###popup_indiv2
+dhamaka36.com###post-22
 jagprerna.com###post-7708
 upayuktha.com###primary .nivoSlider
 alokitoshitalakha.com###primary aside.widget_text
@@ -2415,7 +2416,7 @@ todaybhaskar.com##aside.widget_black_studio_tinymce
 apanderanews.com,inkpoint.in##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
-64kalalu.com,amaderbharat.com,bhadas36.com,bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,jaljalakhabar.com,jjvnews.com,kannadanet.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,amaderbharat.com,bhadas36.com,bharatjan.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,jaljalakhabar.com,jjvnews.com,kannadanet.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
