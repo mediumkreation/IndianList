@@ -1824,6 +1824,7 @@ goraynews24.com##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,goraynews24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,thedeoriatimes.in,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
+theguptchar.com##.td-a-rec:not(.tdi_17)
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in,pathramonline.com##.td-adspot-title + a
 mahendranagarpost.com##.td-all-device
