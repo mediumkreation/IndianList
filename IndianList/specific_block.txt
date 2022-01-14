@@ -4573,3 +4573,5 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||zoombangla.com/wp-content/uploads/2020/06/Zoombangla_1280X90.jpg
 ||zoombangla.com/wp-content/uploads/2021/03/1290X90-1.jpg
 ||zoombangla.com^*/AIBL-Web
+/adver*$domain=uppatrika.com
+-500x300*$domain=khojinews.co.in
