@@ -2222,6 +2222,7 @@ newsuperbharat.com##[id^="newsu-"]
 truevisionnews.com##[id^="sgpb-"]
 pagetamil.com##[id^="td_uid_3"]
 thestellarnews.com##[id^="thest-"]
+sunnews24x7.com##a .adv-vload
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
@@ -2542,6 +2543,7 @@ dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
 news18.com##div[style*="300px"][style*="background"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
+sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 entevarthakal.com#?#.fourth_2_inner:-abp-has( > a>div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
