@@ -454,7 +454,7 @@ shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
-livebavaal.com,phaddalo.com###secondary .widget_text
+24city.news,livebavaal.com,phaddalo.com###secondary .widget_text
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
