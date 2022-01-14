@@ -492,6 +492,7 @@ awajnews.com,dbnnews.in,meruraibar.com,news27.org,punjabnewslive.co.in###sidebar
 digitalnewslive.com###sidebar .widget_metaslider_widget
 readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
+silkcitynews.com###sidebar-primary aside.widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
