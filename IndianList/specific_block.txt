@@ -663,7 +663,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bideshbangla24.com^*/IMG_2701
 ||bideshbangla24.com^*/IMG_2820
 ||bigyapan.hamropatro.com$third-party,domain=himalkhabar.com|ratopati.com
-||bigyapan.hamropatro.com^$third-party,domain=deshsanchar.com|farakdhar.com|ujyaaloonline.com
+||bigyapan.hamropatro.com^$third-party,domain=deshsanchar.com|ujyaaloonline.com
 ||bihardainik.com/wp-content/uploads/2020/08/20200813_084526-1$image
 ||bihardainik.com/wp-content/uploads/2020/08/20200813_100920.jpg
 ||bihardainik.com/wp-content/uploads/2020/08/20200828_002741.jpg
@@ -1062,6 +1062,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||coxsbazarshomoy.com/wp-content/uploads/2021/01/138044602_1076215319475519_532600809645316532_n.jpg
 ||coxsbazartimes.com/wp-content/uploads/2020/10/121910863_477192559903465_1125571012813218875_new.jpg
 ||cplusbd.net/wp-content/uploads/2020/02/700-x-100.jpg
+||creative.hamropatro.com^$third-party,domain=farakdhar.com
 ||creativenewsexpress.com^*/7march_om_sain$image
 ||creativenewsexpress.com^*/dr-j-lal$image
 ||creativenewsexpress.com^*/prkash-finel$image
