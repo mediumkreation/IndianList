@@ -1013,7 +1013,7 @@ biharaaptak.com##.bihar-widget
 bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
-dainikbhaskarup.com,pnn24.in##.block-custom-content
+dainikbhaskarup.com##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 awaaz24x7.com##.block-wrapper video
 nigranee.com##.block-wrapper ~ #webbank-ad-section
@@ -1789,7 +1789,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1906,6 +1906,7 @@ bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 amritvichar.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
+pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
 jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
 bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
@@ -1913,7 +1914,7 @@ anidda.lk,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamn
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,pnn24.in,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
@@ -2632,7 +2633,6 @@ newsdesk24.com#?#.sidebar .widget_media_image:-abp-has( > :not(div))
 overlook.co.in#?#section.widget_block:-abp-has( > p > ins)
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has( > div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has( > p:-abp-contains(Advertisement))
-pnn24.in#?#.theiaStickySidebar > div:-abp-has( > div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 news18.com#?##right div:-abp-has( > div.nw18-dfp-ad)
 rozanapost.in#?#aside:-abp-has( > h3 > span:-abp-contains(Advt))
