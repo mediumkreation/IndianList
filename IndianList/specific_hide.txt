@@ -119,7 +119,11 @@ bigkhabar.com###bk_sidebar_8
 tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com,paridarshaka.com###block-10
 paridarshaka.com###block-11
+samrudhaodisha.com###block-15
+samrudhaodisha.com###block-17
+samrudhaodisha.com###block-18
 sehattimes.com,shottoboyan.com,thedastak24.com###block-2
+samrudhaodisha.com###block-20
 hnn24x7.com###block-23
 hnn24x7.com###block-24
 khabarcgnews.com###block-27
@@ -286,7 +290,6 @@ todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,nationissue.com,navpradesh.com,news21live.in,parbatyachattagram.com,samnanews.com###media_image-10
 canvasmagazine.com.bd,nationissue.com,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,samnanews.com,scgnews.in###media_image-11
-samrudhaodisha.com###media_image-115
 bbttimes.com,capitalnews.lk,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,samnanews.com###media_image-12
 dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
 bplnews24.in,hindvatannews.com,indianow24.com,jansaamna.com,mirrortoday.in,odishatime.com,sabkasandesh.com###media_image-14
@@ -297,11 +300,9 @@ canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
 aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,karnatakatoday.in,laxminews24x7.com,meherpurnews.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,punjablivenews.in,puthusudar.lk,raftaarindianews.com,sajagpahad.com,sandhannews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 prompttimes.com###media_image-20
-samrudhaodisha.com###media_image-205
 amanshantinews.com,dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com,samnanews.com###media_image-21
 amanshantinews.com,divyalive.com,sabsach.in###media_image-22
 cgnews24x7.wordpress.com,dainikchintak.com,samacharsach.com###media_image-23
-samrudhaodisha.com###media_image-235
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
@@ -344,7 +345,6 @@ bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakar
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
-samrudhaodisha.com###media_image-95
 smj24.com###media_video-1
 dainikkhabarlayehain.com###media_video-13
 derbykhabar.com###media_video-16
@@ -1499,6 +1499,7 @@ abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
 newsroomme.com,sindhudurglive.com,youngvarta.com##.mySlides
 lastnewsbd.com##.myadd
+samrudhaodisha.com##.mysticky-welcomebar-fixed
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
