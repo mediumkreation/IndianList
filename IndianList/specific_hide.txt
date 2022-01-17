@@ -1890,7 +1890,9 @@ pinkstea.com##.td_uid_23_5ee077adb2830_rand
 thedeoriatimes.in##.tdb_single_content + .td-a-rec
 n7india.com##.tdb_single_content .code-block
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
+tejastoday.com##.tdb_single_content h1 a img
 ujjwalhimachal.com##.tdb_single_content img
+tejastoday.com##.tdb_single_content p img
 samugammedia.com##.tdi_153
 deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
