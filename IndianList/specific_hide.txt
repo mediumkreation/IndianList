@@ -1791,7 +1791,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,apnahimachalapnishaan.in,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
+247superfast.com,apnahimachalapnishaan.in,bastabbadi.com,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
@@ -1914,7 +1914,7 @@ pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
 jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
 bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
-anidda.lk,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+anidda.lk,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
