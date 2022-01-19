@@ -140,7 +140,7 @@ paridarshaka.com###block-6
 kundapraa.com,samacharfirst.com###block-7
 nationalwartanews.com###block-7 img
 24hrnews.in###block-79
-wayanadnewsdaily.com###block-8
+tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
@@ -2676,6 +2676,7 @@ krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 paristamil.com##table[width="98%"] div.title
 paristamil.com##table[width="98%"] h2.cat_title
 bihardootnews.com##tagdiv
+tamizhakam.com#?#p:-abp-contains(Advertisement)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has( > div.section-heading > span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
