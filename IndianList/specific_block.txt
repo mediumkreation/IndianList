@@ -17,6 +17,7 @@
 -add.png|$domain=abcnepal.tv|kalaroanews.com|osnepal.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
+-ads-$domain=aruna.lk
 -Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net|satkhiraprotidin.net
 -ads.jpg|$domain=bigulnews.tv|channelionline.com|ctn24.com|thebiharnews.com
 -ads.png|$domain=ctgsun.com
