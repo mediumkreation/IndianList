@@ -872,7 +872,7 @@ chakrapath.com,zoombangla.com##.adspace
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
-bdrtnn.net,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
+bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 orthosongbad.com,sonalinews.com##.adv-img
 drishtinews.com##.adv-item
@@ -2450,6 +2450,7 @@ steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
+cg24news.in#?#h5 > span:-abp-contains(Advertisement)
 deshclick.com#?#*:-abp-has( > .AdvtSample)
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
