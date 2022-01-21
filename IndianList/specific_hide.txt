@@ -1023,7 +1023,7 @@ newsflash71.com##.block__2
 akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in,bundelkhandnews.com,lokjannews.com##.bn-lg
-bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,lokjannews.com,metrocitysamachar.com,nayabharat.live,newsexpress24.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com,threesocieties.com,vartanews.com##.bn-lg-sidebar
+bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,newsexpress24.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com,threesocieties.com,vartanews.com##.bn-lg-sidebar
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
@@ -2630,6 +2630,7 @@ janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-con
 khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has( > div > div > span + a)
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has( > a[target="_blank"])
 kolomerbatra.com#?#.add .widget_area:-abp-has( > img)
+loudspeakeronline.com#?#div.sidebar-widget:-abp-has( > .widget-head > h4:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has( > figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
