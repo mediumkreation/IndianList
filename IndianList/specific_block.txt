@@ -3080,7 +3080,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||onstimes.com/wp-content/uploads/2021/09/jwelleryshoAD.jpg
 ||onstimes.com/wp-content/uploads/2021/10/softwarica.gif
 ||onwebbox.com$domain=rakhewaldaily.com
-||opennewsx24.com/wp-content/uploads/2018/09/KADYAM-2.jpg
+||opennewsx24.com^*/advertisement.jpg
+||opennewsx24.com^*/KADYAM
 ||orthosongbad.com^*/ads-
 ||orthosongbad.com^*/ksrm.jpg
 ||osnepal.com^*/0019-03-8fa7cb78fd69d4e8d3aeccf789aab7ef.jpg
