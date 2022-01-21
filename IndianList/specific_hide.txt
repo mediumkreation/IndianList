@@ -2432,6 +2432,7 @@ chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_i
 24timestoday.com##aside.sidebar > div:not(.related_posts)
 firstbihar.com##aside.tb-posts-slide-widget
 cnewsbharat.com##aside.text-center
+thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 apanderanews.com,inkpoint.in##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
