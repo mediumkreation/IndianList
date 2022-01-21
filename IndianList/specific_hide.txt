@@ -2455,7 +2455,7 @@ steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
-cg24news.in#?#h5 > span:-abp-contains(Advertisement)
+cg24news.in#?#.sidebar:-abp-has( > h5 > span:-abp-contains(Advertisement))
 deshclick.com#?#*:-abp-has( > .AdvtSample)
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
