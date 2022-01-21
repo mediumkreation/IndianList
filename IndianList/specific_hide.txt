@@ -1850,6 +1850,7 @@ newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 deshprahari.com,dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
+onakhabar.com##.td-is-sticky .td-a-rec
 abtakmedia.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
 vision2020news.com##.td-main-sidebar .widget_custom_html
