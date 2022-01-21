@@ -1919,7 +1919,7 @@ anidda.lk,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24n
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,pnn24.in,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,opennewsx24.com,pnn24.in,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
