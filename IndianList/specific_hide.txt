@@ -1558,6 +1558,7 @@ tirangaacindianews.com##.owl-carousel .addbx
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 navsatta.com##.penci-sidebar-right
+hindlives.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
 gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
