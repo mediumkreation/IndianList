@@ -1017,7 +1017,7 @@ biharaaptak.com##.bihar-widget
 bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
-dainikbhaskarup.com##.block-custom-content
+dainikbhaskarup.com,ujjawalprabhat.com##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 awaaz24x7.com##.block-wrapper video
 nigranee.com##.block-wrapper ~ #webbank-ad-section
@@ -1907,8 +1907,8 @@ deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
 paristamil.com##.text-center > table[width="98%"]
-alertnews24.com##.text-html
-sarkarimanthan.com##.text-html-box
+alertnews24.com,ujjawalprabhat.com##.text-html
+sarkarimanthan.com,ujjawalprabhat.com##.text-html-box
 indiavisionmedia.com##.thd
 gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
@@ -1925,7 +1925,7 @@ anidda.lk,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24n
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,opennewsx24.com,pnn24.in,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,opennewsx24.com,pnn24.in,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
