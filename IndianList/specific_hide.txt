@@ -701,6 +701,7 @@ amarbanglabd.com##._df_custom
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 keralakaumudi.com##.a-728-90
+abplive.com##.a-ecom-wrap
 gujarattimesusa.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
@@ -1993,6 +1994,7 @@ speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
 dailyajkershomoy.com##.uc-sdr-ads
+abplive.com##.uk-text-meta
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 newstodayjharkhand.com##.uris-slider-post-title
