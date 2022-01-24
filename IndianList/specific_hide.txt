@@ -231,7 +231,7 @@ digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
 cinemasthi.com,prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
+jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
@@ -646,7 +646,7 @@ pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
 breakingaajtaknews.com,goodmorningnation.com,news4indiatv.com###widget-sidebar-0
-atalstambh.com,goodmorningnation.com,jannewslive.com,satyaexpress.com,tv24live.com###widget-sidebar-1
+atalstambh.com,goodmorningnation.com,satyaexpress.com,tv24live.com###widget-sidebar-1
 breakingaajtaknews.com,sameera.co.in###widget-sidebar-2
 atalstambh.com,breakingaajtaknews.com,hakikatnews.com###widget-sidebar-3
 beauronews.com###widget-sidebar-4
