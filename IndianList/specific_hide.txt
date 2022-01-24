@@ -1103,6 +1103,7 @@ teluguwirals.com##.custom-header
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 divyahimachal.com##.customad
+dbcnews.tv##.d-flex
 dainikbharat24.com##.daini-widget
 esidhakura.com##.daraz-ad
 deshabhimani.com##.db-scnAd2
@@ -2583,6 +2584,7 @@ hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
+dbcnews.tv##iframe[style*="height: 90px"]
 deshsanchar.com##img.alignnone.size-full
 munaadi.com##img[alt$=" Ad"]
 pksnews24.com##img[alt*=" Ad-"]
