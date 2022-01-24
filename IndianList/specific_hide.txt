@@ -1046,6 +1046,7 @@ just36news.com,malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
+thesaturdaynews.com##.category_page_right .single_page_bottom_ad
 unfoldbangla.com##.category_side
 makalukhabar.com##.cdbofrqam
 chandrikadaily.qa##.chand-before-content_5
@@ -1990,7 +1991,6 @@ speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
 dailyajkershomoy.com##.uc-sdr-ads
-thesaturdaynews.com##.under_more_hit_advertisement
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 newstodayjharkhand.com##.uris-slider-post-title
