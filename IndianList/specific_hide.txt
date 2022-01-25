@@ -1599,6 +1599,7 @@ satkarpost.com##.posts__banner__ads
 sabkikhabar.com,todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
+sudurkhabar.com##.primary-sidebar-widget img
 bankbimaarthonity.com##.printOff
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
 balaganjprotidin.com##.prl-panel .widget_text
@@ -2524,7 +2525,6 @@ kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
 shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
-sudurkhabar.com##div[data-type="custom_code"]
 daynikekusherbani.com##div[id$="_ad"]
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 mathrubhumi.com##div[id^="ML_DT"]
@@ -2552,6 +2552,7 @@ hosadigantha.com##div[id^="pum-"]
 bilaspurlive.com##div[id^="sgpb-"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
 sitamarhilive.in##div[id^="sitam-"]
+sudurkhabar.com##div[id^="sudur-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
