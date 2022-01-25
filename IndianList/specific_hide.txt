@@ -162,6 +162,7 @@ samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
+purvanchal24.com###content-wrapper > :not(#main-wrapper):not(#sidebar-wrapper)
 haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
@@ -1585,7 +1586,6 @@ jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 khasokhas.com##.post-entry .code-block
 akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
-purvanchal24.com##.post-footer [trbidi]
 sonalibanglanews.com##.post-inner .code-block img
 mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
