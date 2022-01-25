@@ -989,6 +989,7 @@ valvainews.org##.bannertopimg2
 iamgujarat.com,samayam.com##.bccl-ad-wrapper
 muktijoddharkantho.com##.bd-sidebar .widget_text
 humarabikaner.com##.bdaia-above-header
+garjachhattisgarhnews.com##.bdaia-box7
 punjabbaani.com##.bdaia-e3-container
 nabaz-e-punjab.com##.bdaia-header-e3-desktop
 nabaz-e-punjab.com##.bdaia-widget-e3
@@ -2231,7 +2232,6 @@ hamromat.com##[class^="sgpb-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
-garjachhattisgarhnews.com##[data-box_nu="wb7"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
 gtamilnews.com##[id^="itro_"]
