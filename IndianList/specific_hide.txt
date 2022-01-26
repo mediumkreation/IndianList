@@ -1722,6 +1722,7 @@ dhadingpost.com##.single-content p~figure.wp-block-image
 channelcox.com##.single-ditails + .add .widget_area
 bijoybanglabd.com##.single-dtls .code-block
 sheikhpuranews.com##.single-entry .code-block
+sheikhpuranews.com##.single-entry img[width="300"][height="225"]
 thenewswords.com##.single-image .carousel
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
@@ -2144,7 +2145,6 @@ bonggonews.com##.wp-image-352
 newssunamganj.com##.wp-image-3711
 lokhitexpress.com##.wp-image-41683
 paribahanjagot.com##.wp-image-4609
-sheikhpuranews.com##.wp-image-46214
 lokhitexpress.com##.wp-image-53212
 paribahanjagot.com##.wp-image-5343
 paribahanjagot.com##.wp-image-5345
