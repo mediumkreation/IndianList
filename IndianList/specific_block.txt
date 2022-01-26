@@ -1735,6 +1735,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ilsheypar.com/wp-content/uploads/2020/07/Untitled-2.jpg
 ||imageshack.com^$third-party,domain=karaitivunews.com
 ||img.dekhapadhi.de/uploads/bigyaapan/
+||img.janatasamachar.de/uploads/bigyaapan/61692900.png
+||img.janatasamachar.de/uploads/bigyaapan/74269200.gif
+||img.janatasamachar.de/uploads/bigyaapan/91282400.gif
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
 ||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
@@ -1880,11 +1883,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||janatarnews24.com/ikunotsu/2021/01/ittadi-ads-gif1.gif
 ||janatarnews24.com/ikunotsu/2021/01/signplusads.gif
 ||janatarnews24.com/ikunotsu/2021/01/universalstudioads.gif
-||janatasamachar.com/wp-content/uploads/2020/08/ARNA-8-WEB-BANNER-1140_90_.gif
-||janatasamachar.com/wp-content/uploads/2020/09/20770522online.gif
-||janatasamachar.com/wp-content/uploads/2020/10/dashain-ad-final.gif
-||janatasamachar.com/wp-content/uploads/2020/10/kanchan-ad.gif
-||janatasamachar.com/wp-content/uploads/2020/10/Milestone-final-add.gif
 ||janatatimes.com/wp-content/uploads/2020/01/Final-Add-Design-2048x1365.jpg
 ||janatatimes.com/wp-content/uploads/2020/01/Online-Banner__1200-X-100-1$image
 ||janatatimes.com/wp-content/uploads/2020/04/5-Dec-NMB-Generic-GIF-250x180-1.gif
