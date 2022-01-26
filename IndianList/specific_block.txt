@@ -116,6 +116,7 @@
 ?final*.gif|$domain=narayanionline.com
 ?w=640&$image,domain=himalini.com
 @@-advertisement.$domain=newswaves.org
+@@/ad/live-$domain=abnews24bd.com
 @@favicon.ico|
 @@||avadh24.in/mynewsadmin/img/add/add1610095077.jpeg
 @@||bangalorewaves.com/images/Banner/classifieds.jpg
