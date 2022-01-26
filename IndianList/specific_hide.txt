@@ -888,6 +888,7 @@ kanakaikhabar.com##.adv-wrapper
 atalsamachar.com##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
+keralaexpress.com##.adv_big
 doolnews.com##.adv_box_3x25
 bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
@@ -1225,6 +1226,7 @@ mymensinghnews.com##.footer-addds
 goodmorningindia.net,rkexpose.com##.footer-adv
 news127.com##.footer-bottom
 odishatime.com##.footer-sidebar .widget_media_image
+keralaexpress.com##.footer-sponsored
 gionews.in##.footer-widget .widget_media_image
 vorerbangladesh.com##.footer-widgets aside.widget_text
 raisingvoice.com##.footer-widgets-area section.widget_media_image
@@ -1784,6 +1786,8 @@ dnewsnetwork.in##.spcp-sidebar
 manoramaonline.com##.special-banner-block
 coxbangla.com##.special_featur
 kaumudiplus.com##.spnsrd-ad
+keralaexpress.com##.sponser-adv
+keralaexpress.com##.sponser-update
 abasangthandp.com##.sponsers
 swarajnewstoday.com##.sponsored
 veeravengaikal.com##.sppb-addon-clients
