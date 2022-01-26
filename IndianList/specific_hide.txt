@@ -2469,6 +2469,7 @@ bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has( > h5 > span:-abp-contains(Advertisement))
 deshclick.com#?#*:-abp-has( > .AdvtSample)
+abnews24bd.com##div img[src^="ad/"]
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabguardian.com##div.widget_media_image:not(#media_image-12):not(#media_image-14)
