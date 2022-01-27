@@ -201,7 +201,7 @@ ddnews24x7.com###custom_html-48
 247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
 ddnews24x7.com,hindi-news-today.com###custom_html-51
 ddnews24x7.com###custom_html-53
-bidhannagartimes.com,bnanews24.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
+bidhannagartimes.com,bnanews24.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,kalaroanews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
 mynews36.com,pradhanavartha.in###custom_html-8
 aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
@@ -1519,7 +1519,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
@@ -1799,6 +1799,7 @@ dhakanewsexpress.com,sangbad-gallery.com##.square_advertisement
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
+cityhotnews.com##.sticky-sidebar .widget_block
 cibindianews.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
@@ -2684,7 +2685,7 @@ bidrohee.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_h
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,munaadi.com,newswatch.co.in,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,cityhotnews.com,drishtinow.com,janjoshnews.in,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,munaadi.com,newswatch.co.in,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 24hrnews.in##section.widget_media_image:not(#media_image-5)
