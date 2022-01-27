@@ -499,6 +499,7 @@ mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
 khabarcgnews.com###sidebar-right .widget_block
 khamoshduniya.com###sidebar-right .widget_custom_html
+24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
 chirantannews.in,khamoshduniya.com,mariahulive.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,trustnews24.com,vbnews24.com###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
@@ -516,7 +517,6 @@ currentkhabar.com###sitebox-ad125-3
 patrikai.com###slide-holder
 makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
-24x7cg.com###slider_27862
 emalayalee.com,kayalconnection.com###slideshow
 emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
