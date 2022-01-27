@@ -2602,6 +2602,7 @@ khabarbhatapara.in##iframe[src*="google.com/presentation/"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 dbcnews.tv##iframe[style*="height: 90px"]
 deshsanchar.com##img.alignnone.size-full
+onstimes.com##img.attachment-full
 munaadi.com##img[alt$=" Ad"]
 pksnews24.com##img[alt*=" Ad-"]
 kantipath.com##img[alt*="add"]
