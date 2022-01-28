@@ -1264,6 +1264,7 @@ sithmalyaya.com##.gear-best
 news18.com##.global-storylist li[style^="height"]
 joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
+gramintimes.com##.grami-content
 paristamil.com##.group1
 paristamil.com##.group2
 paristamil.com##.group3
@@ -2511,8 +2512,6 @@ hindustanvision.com##div[class^="avtg"]
 mathrubhumi.com##div[class^="banner_sliders"]
 amader-protidin.com##div[class^="customaddBox"]
 deshajtimes.com,deshantor.com##div[class^="desha-"]
-gramintimes.com##div[class^="grami-before-content_"]
-gramintimes.com##div[class^="grami-content_"]
 samacharfirst.com##div[class^="home-adright"]
 dainikazadi.net##div[class^="iziModal"]
 lagatar.in##div[class^="lagat-"]
