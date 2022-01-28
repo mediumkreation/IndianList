@@ -1210,6 +1210,7 @@ bbc24news.com##.featad
 pchelpcenterbd.com##.featured-post-ads
 sudurpress.com##.field--name-field-ad-image
 nagariknetwork.com##.first-add
+nayabharat.live##.fix-img-fluid
 nagariknetwork.com##.fixed-ad
 newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
