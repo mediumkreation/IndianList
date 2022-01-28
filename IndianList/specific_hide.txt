@@ -1030,7 +1030,7 @@ newsflash71.com##.block__2
 akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in,bundelkhandnews.com,lokjannews.com##.bn-lg
-bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,newsexpress24.com,p24news.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com,threesocieties.com,vartanews.com##.bn-lg-sidebar
+bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,newsexpress24.com,p24news.com,polkholindia.com,poorvanchalmedia.com,sansaninews.com,threesocieties.com,vartanews.com##.bn-lg-sidebar
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
