@@ -1932,7 +1932,7 @@ pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
 jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
 bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
-acpnews24.com,anidda.lk,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+acpnews24.com,anidda.lk,awaznews24x7.com,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
@@ -2087,14 +2087,14 @@ bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-abhitaknewsuk.in,chamolitimes.com,meherpurnews.com,newsnasha.com##.widget_media_video
+abhitaknewsuk.in,awaznews24x7.com,chamolitimes.com,meherpurnews.com,newsnasha.com##.widget_media_video
 independentcitizennews.com,thefourthmirror.com,up18news.com##.widget_metaslider_widget
 kalikadainik.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
-bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
