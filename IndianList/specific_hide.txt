@@ -2183,6 +2183,7 @@ ratopost.com##.wp-image-9728
 drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
 hpnewsatl.com,nammabantwala.com##.wp-video
+theruralpress.in##.wpb-outer-wrap
 atharvnews.com,rashtrabodh.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,channelionline.com,delhicrimepressnews.com##.wpb_content_element img
