@@ -954,7 +954,6 @@ paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
 mbdwebnews.com##.article-content .ml-slider
 newsatfirst.com##.aside-add
-inbnews24.com##.aside-one .aside
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
@@ -1044,6 +1043,7 @@ seithy.com##.briefNewsAd
 sabkuchgyan.com##.bs-listing-multi-tab + div
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
+inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
