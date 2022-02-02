@@ -769,7 +769,7 @@ protisomoy.com##.add img.image
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 bwazarakatha.com##.add img:not(.wp-image-19734)
 dainikshokalerchattogram.com##.add img:not(.wp-image-487)
-motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
+motivatenews.com.np,onlinedabali.com,pokharapatra.com.np,ratopost.com,sancharkendra.com##.add-2
 talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
 khobor24ghonta.com##.add-bg-02
@@ -826,6 +826,7 @@ europemalayali.co.uk##.add_inner_news
 narayanionline.com##.add_middle
 bslnews24.com##.add_pad_bottom
 news18.com##.add_secton
+pokharapatra.com.np##.adda
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 motivatenews.com.np##.addc img
