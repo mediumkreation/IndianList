@@ -254,6 +254,7 @@ chhapratoday.com###image_gallery_37524
 tamilcinemaz.com###itro_opaco
 filmnews24x7.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
+fastnewsindia.co###jssor_1
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
 newscity.co.in###leaderboard-content
@@ -515,7 +516,7 @@ muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
 currentkhabar.com###sitebox-ad125-3
 patrikai.com###slide-holder
-makkalkural.net###slider
+fastnewsindia.co,makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
 emalayalee.com,kayalconnection.com###slideshow
 emalayalee.com,pravasi.us###slideshow2
