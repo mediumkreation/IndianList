@@ -265,6 +265,7 @@ cellitnews.com###logoright
 voiceoffreedom.in###magazine-plus-image-6
 voiceoffreedom.in###magazine-plus-image-8
 chandpurreport.com###main .code-block
+jansangathan.com###main .container
 breakingtube.com###main .vc_custom_heading
 newsuperbharat.com###main .widget_custom_html
 newsxindia.com,songbadpratidin.com###main .widget_media_image
