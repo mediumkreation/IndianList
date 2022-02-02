@@ -17,7 +17,7 @@ balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML15
 balotranewstrack.com,thattungal.com###HTML16
 thattungal.com###HTML18
 obolokon24.com###HTML19
-aapkimedia.com,chilahatiweb.com,sahibganjnews.com###HTML2
+aapkimedia.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com###HTML2
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
@@ -507,6 +507,7 @@ mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
+samjhobharat.com###sidebar-right-1 .widget.Image
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
 abtaknews.com,pradeepamonline.com###sidebar1
