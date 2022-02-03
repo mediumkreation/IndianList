@@ -108,6 +108,7 @@ truevisionnews.com###bannerCarousel1
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 ezhomelive.com,yarldevinews.net###before-ad
+lokmatnews.in###beforehead
 khabarcgnews.com###below-header
 kusenews.com###belowflash
 kusenews.com###belowmainnews
@@ -238,6 +239,7 @@ thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
 champawatkhabar.com###header-text-nav-container
+lokmatnews.in###headerBanner
 livekeralanews.com###headermain .sp7
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
@@ -423,6 +425,8 @@ gstv.in###penci_custom_html-7
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 kusenews.com###pgc-7-1-1
+lokmatnews.in###photoInlist1
+lokmatnews.in###photoInlist2
 dineshkhabar.com###popBlkAd
 rojgarlive.com###popup_indiv2
 dhamaka36.com###post-22
@@ -437,6 +441,8 @@ goodnewsbharat.com###recent-post-slider-1
 manithan.com###recommendations
 hindustanrepublic.in###responsive_lightbox_image_widget-2
 timestodays.com###rev-slider-widget-2
+lokmatnews.in###rhs-middle
+lokmatnews.in###rhs-top
 edainikazadi.net###right-holder
 daynikekusherbani.com###right-sidebar .widget_bar a img
 hindisip.com###right-sidebar .widget_block
@@ -957,6 +963,7 @@ bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
 mbdwebnews.com##.article-content .ml-slider
+lokmatnews.in##.articlePage
 newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
@@ -1364,6 +1371,7 @@ rosemalayalam.com##.img_2_logo
 pratyeknews.com##.imgad1
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
+lokmatnews.in##.inarticleAd
 amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
 amadershomoy.com##.index_ads_two
