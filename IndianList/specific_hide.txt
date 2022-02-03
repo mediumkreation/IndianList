@@ -1554,6 +1554,7 @@ chapaibarta24.com##.news_content .code-block
 prothomalo.com##.news_inner_spcl_ad
 atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
+jharkhandvani.in##.newsever-widget .textwidget
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
 punjabvarta.com##.nivoSlider
