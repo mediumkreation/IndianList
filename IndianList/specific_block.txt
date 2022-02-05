@@ -10,7 +10,7 @@
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|pragativahini.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
+-add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|filmyfanda.com|samarneetinews.com|shomoynews.net
 -add.gif|$domain=abcnepal.tv|amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
@@ -53,7 +53,7 @@
 /ad.jpg|$domain=banglapostbd.com|bbc24news.com|teknafnews24.com
 /Ad.jpg|$domain=newsvob.com
 /ADD-$domain=bslnews24.com|tejastoday.com
-/add-$domain=somoynewsbd.com
+/add-$domain=navakal.in|somoynewsbd.com
 /ADD.gif|$domain=paryabekhyak.com
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
@@ -71,6 +71,7 @@
 /Adv/*$domain=dakhal.net
 /adver$domain=uppatrika.com
 /ajadds/*$domain=andhrajyothy.com
+/banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=tamil.com|thereport24.com
 /banners/*$domain=kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
