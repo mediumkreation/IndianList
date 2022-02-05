@@ -465,6 +465,7 @@ legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
 24city.news,livebavaal.com,phaddalo.com,ptbnews.in###secondary .widget_text
+vbnews24.com###secondary .widget_text:not(#custom_html-2)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
@@ -2448,7 +2449,6 @@ angulonline.com#?#.elementor-widget-wrap:-abp-has( > .elementor-widget-heading >
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
-vbnews24.com##article.single .image
 atharvnews.com##aside .theiaStickySidebar .widget_text
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 tv24live.com##aside .widget_media_image
@@ -2507,6 +2507,7 @@ bikanerhulchul.com##div[class*="bikan"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
+vbnews24.com##div[class*="media_image-"]
 nainilive.com##div[class*="naini-"]
 sachkitop.com##div[class*="sachk-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
