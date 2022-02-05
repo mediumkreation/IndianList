@@ -182,7 +182,6 @@ dnspnews.in###custom_html-169
 muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,ramprahar.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
-ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
@@ -465,7 +464,7 @@ shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
-24city.news,livebavaal.com,phaddalo.com###secondary .widget_text
+24city.news,livebavaal.com,phaddalo.com,ptbnews.in###secondary .widget_text
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
@@ -603,7 +602,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,dailypunjabtimes.com,glimeindianews.in,hbharat.com,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,ptbnews.in,udaipurkiran.in###text-6
+avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,dailypunjabtimes.com,glimeindianews.in,hbharat.com,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,udaipurkiran.in###text-6
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
