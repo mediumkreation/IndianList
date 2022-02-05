@@ -1351,7 +1351,6 @@ dinakaran.com##.homead300le10
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
-krushival.in##.horizontal-google-ads
 tips4blog.com##.hot_rwc_ads
 indiatimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
@@ -2034,11 +2033,9 @@ postmanindia.in##.vc_raw_html iframe
 newsnow24.com##.vc_single_image-wrapper[rel="noopener"] .attachment-full
 amaderkhulna.net,netmalayalam.com##.vc_slide
 gionews.in##.vc_widget_sidebar
-krushival.in##.vertical-google-ads
 dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
-krushival.in##.video-news-section
 khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
 dineshkhabar.com##.view-advertisement
@@ -2211,7 +2208,7 @@ poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 malayalamexpress.in##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,manchitra24.com,meherpurnews.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
+alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
