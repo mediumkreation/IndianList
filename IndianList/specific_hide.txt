@@ -454,6 +454,7 @@ biharpatrika.in###rma_masala
 kungumam.co.in###road
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
+prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
@@ -1076,7 +1077,7 @@ tamil.oneindia.com##.cmscontent-top
 livetvkerala.com##.cntarea img
 chandaulisamachar.com,govtofgaurang.com,gujaratexclusive.in,kansatnews24.com,lankamurasu.com,malwanews.com,mbmnewsnetwork.com,mediavisionnews.in,navamalayali.com,pathanamthittamedia.com,rajasthanichirag.in,rosemalayalam.com,samacharplusnews.com,shottoboyan.com,zoombangla.com##.code-block
 samajbad.tv##.code-block > img
-media24news.in,muthalvannews.com##.code-block img
+media24news.in,muthalvannews.com,prajasattaknews.com##.code-block img
 newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com##.code-block-4
