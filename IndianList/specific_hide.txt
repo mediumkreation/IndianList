@@ -168,7 +168,7 @@ haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
-bbttimes.com,dvgsuddi.com,jaihindtimes.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
+arya-tv.com,bbttimes.com,dvgsuddi.com,jaihindtimes.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 aavakaaya.in,metroplus.online,thesunrisetoday.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
@@ -2108,6 +2108,7 @@ independentcitizennews.com,thefourthmirror.com,up18news.com##.widget_metaslider_
 kalikadainik.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 dainik4media.com##.widget_nivo_slider_widget
+arya-tv.com##.widget_origin_animated-image
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
 awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
