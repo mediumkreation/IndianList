@@ -437,7 +437,6 @@ alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
 koshionline.com###primary section.widget_media_image
 industryhit.com###pum-15632
-nirapadnews.com###quads-adad11_widget
 goodnewsbharat.com###recent-post-slider-1
 manithan.com###recommendations
 hindustanrepublic.in###responsive_lightbox_image_widget-2
@@ -2686,6 +2685,7 @@ news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#.listview-story li:-abp-has(div[id^="mobileAd"])
 news18.com#?#div:-abp-has( > .myad)
+newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has( > :not(div))
 overlook.co.in#?#section.widget_block:-abp-has( > p > ins)
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has( > div > span:-abp-contains(Advertisement))
