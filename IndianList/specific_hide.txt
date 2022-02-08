@@ -194,7 +194,7 @@ tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 ddnews24x7.com,thedastak24.com###custom_html-31
 ddnews24x7.com,saakshatv.com###custom_html-39
-apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
+apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
@@ -419,10 +419,12 @@ importmirror.com###p-vila
 muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
+karmalamadhanews24.com###panel-38-2-1-1
 ziotamil.in###penci_custom_html-2
 gstv.in###penci_custom_html-7
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
+karmalamadhanews24.com###pg-38-7
 kusenews.com###pgc-7-1-1
 lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
@@ -564,7 +566,7 @@ fatehnagarnews.com,gadhsamvedna.com,kalaroanews.com,manvadhikartimes.com###text-
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com,vavuniyanet.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com,updatetimes.com###text-19
-abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,komashisha.com,kositimes.com,moviemandu.com,pabilnews.com,parichowk.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
+abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,kositimes.com,moviemandu.com,pabilnews.com,parichowk.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
 chirantannews.in,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
@@ -1080,7 +1082,7 @@ tamil.oneindia.com##.cmscontent-top
 livetvkerala.com##.cntarea img
 chandaulisamachar.com,govtofgaurang.com,gujaratexclusive.in,kansatnews24.com,lankamurasu.com,malwanews.com,mbmnewsnetwork.com,mediavisionnews.in,navamalayali.com,pathanamthittamedia.com,rajasthanichirag.in,rosemalayalam.com,samacharplusnews.com,shottoboyan.com,zoombangla.com##.code-block
 samajbad.tv##.code-block > img
-media24news.in,muthalvannews.com,prajasattaknews.com##.code-block img
+karmalamadhanews24.com,media24news.in,muthalvannews.com,prajasattaknews.com##.code-block img
 newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com##.code-block-4
@@ -1189,6 +1191,7 @@ livemagadh.com##.entry-content .wp-block-image.size-full
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
+karmalamadhanews24.com##.entry-content > p > img
 emaatimes.com,jangathatimes.com##.entry-content > p img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
@@ -2047,7 +2050,7 @@ dineshkhabar.com##.view-advertisement
 just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 muznews.net##.vmagazine-lite-medium-rectangle-ad
-pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
+karmalamadhanews24.com,pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
 hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
 livestorytime.com##.w3-section
