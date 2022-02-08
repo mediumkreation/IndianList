@@ -140,7 +140,7 @@ kundapraa.com,samacharfirst.com###block-7
 nationalwartanews.com###block-7 img
 24hrnews.in###block-79
 tamizhakam.com,wayanadnewsdaily.com###block-8
-bharatjan.com,wayanadnewsdaily.com###block-9
+bharatjan.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
 varthabharati.in###block-block-253--2
