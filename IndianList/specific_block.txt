@@ -119,6 +119,7 @@
 @@-advertisement.$domain=newswaves.org
 @@/ad/live-$domain=abnews24bd.com
 @@favicon.ico|
+@@||anweshanam.com/static/ad/commons/js/3445/colombia_v11.js
 @@||avadh24.in/mynewsadmin/img/add/add1610095077.jpeg
 @@||bangalorewaves.com/images/Banner/classifieds.jpg
 @@||bangalorewaves.com/images/Banner/website-ad.jpg
