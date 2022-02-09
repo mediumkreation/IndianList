@@ -91,6 +91,7 @@ torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 importmirror.com###adx
 ezhomelive.com,yarldevinews.net###after-ad
+thejharokha.com###ai_widget-2
 andhrajyothy.com###aimgMain
 andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
@@ -1080,7 +1081,7 @@ tamilmithran.com##.cine_ad
 madhyamam.com##.clock-container
 tamil.oneindia.com##.cmscontent-top
 livetvkerala.com##.cntarea img
-chandaulisamachar.com,govtofgaurang.com,gujaratexclusive.in,kansatnews24.com,lankamurasu.com,malwanews.com,mbmnewsnetwork.com,mediavisionnews.in,navamalayali.com,pathanamthittamedia.com,rajasthanichirag.in,rosemalayalam.com,samacharplusnews.com,shottoboyan.com,zoombangla.com##.code-block
+chandaulisamachar.com,govtofgaurang.com,gujaratexclusive.in,kansatnews24.com,lankamurasu.com,malwanews.com,mbmnewsnetwork.com,mediavisionnews.in,navamalayali.com,pathanamthittamedia.com,rajasthanichirag.in,rosemalayalam.com,samacharplusnews.com,shottoboyan.com,thejharokha.com,zoombangla.com##.code-block
 samajbad.tv##.code-block > img
 karmalamadhanews24.com,media24news.in,muthalvannews.com,prajasattaknews.com##.code-block img
 newstodaynetwork.com,theexclusivestory.com##.code-block-1
