@@ -695,9 +695,10 @@ sachikalam.com##.AdvtSample
 tutyonline.net##.Amain
 janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
-dainiksylhet.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
+dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd img
 bdprojonmo71.com##.DAdvertisement
+mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com##.DHeaderBanner
 satyamevtv.com##.Eod_right
 banglanewsca.com##.Front-page-Right-Side-Ad
