@@ -905,7 +905,7 @@ drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
 kanakaikhabar.com##.adv-wrapper
-atalsamachar.com##.advRow-fullW
+anweshanam.com,atalsamachar.com##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 keralaexpress.com##.adv_big
@@ -1244,6 +1244,7 @@ thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
 narmadanchal.com##.fn-widget-image
+anweshanam.com##.footer-ad-img
 wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 goodmorningindia.net,rkexpose.com##.footer-adv
@@ -1978,6 +1979,7 @@ khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 lankasri.com##.today-eds-wrap
+anweshanam.com##.top-ad-d
 malayalamuk.com##.top-ad4
 beanibazarnews24.com,bigkhabar.com##.top-add
 thereport24.com##.top-add-left4
@@ -2499,6 +2501,7 @@ neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has( > h5 > span:-abp-contains(Advertisement))
 deshclick.com#?#*:-abp-has( > .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
+anweshanam.com##div.rhs > div:nth-child(n+4)
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabguardian.com##div.widget_media_image:not(#media_image-12):not(#media_image-14)
@@ -2563,6 +2566,8 @@ shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 daynikekusherbani.com##div[id$="_ad"]
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
+anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
+anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
 aapnihathai.com##div[id^="aapni-"]
@@ -2622,7 +2627,7 @@ thakurgaon24newspaper.com##footer .wp-block-code
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
-hastakshep.com##iframe[id^="ifr_"]
+anweshanam.com,hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 khabarbhatapara.in##iframe[src*="google.com/presentation/"]
