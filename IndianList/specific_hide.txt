@@ -842,6 +842,7 @@ news18.com##.add_secton
 pokharapatra.com.np##.adda
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
+tirangaacindianews.com##.addbx
 motivatenews.com.np##.addc img
 aznewsbd24.com,barishalsomoynews.com,dailyjuboraj.com,deshergarjan.net,mediadabali.com,natunbazar24.com,shahnamabd.com,songkalpo.net,uttorersomoy.com##.addd
 bangalorewaves.com##.addima
@@ -1335,6 +1336,7 @@ telugumirchi.com##.headerad2
 shirurtaluka.com##.headeradvt
 nunworajasthan.co.in##.headerright
 nepaljapan.com##.headline_below_ad
+tirangaacindianews.com##.headnBx .text-right
 indiasamachar24.com##.herald-sidebar .widget_metaslider_widget
 himachalmedia.co##.himac-widget
 himalayapost.com##.himal-content_3
@@ -1587,7 +1589,6 @@ ournewsbd.net##.onads
 onlynews24.com##.onlyn-after-content_2
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
-tirangaacindianews.com##.owl-carousel .addbx
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 navsatta.com##.penci-sidebar-right
