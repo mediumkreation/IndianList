@@ -1715,7 +1715,7 @@ madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com##.sidebar .widget_custom_html
-aviralsamachar.com,navamalayali.com,newsnow24.com##.sidebar .widget_media_image
+aviralsamachar.com,biharnation.in,navamalayali.com,newsnow24.com##.sidebar .widget_media_image
 chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
 jokhimnews.com##.sidebar .widget_text
 hotnewsindia.com##.sidebar > .widget_custom_html
@@ -2490,6 +2490,7 @@ bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has( > div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
 bhingatimes.co.in#?#.my-4:-abp-has( > h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has( > p>img.wp-image-23118)
+biharnation.in#?#.primary-sidebar-widget:-abp-has( > .section-heading > .h-text:-abp-contains(Advertisement))
 steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
@@ -2551,7 +2552,7 @@ suddione.com##div[class^="suddi-after-content_"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-akashjatra.com,bdsangbad24.com,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+akashjatra.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 veerdharanews.com##div[data-adid] img
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
 bikalpadainik.com##div[data-adid]:not([data-adid="5022"]):not([data-adid="3716"])
