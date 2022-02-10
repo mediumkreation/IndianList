@@ -777,7 +777,7 @@ newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
-alokitokhobor.com,alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,channelcox.com,crimebd.com,dainiksomoyerbangladesh.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gabtalisangbad.com,gangnirchokh.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,pabnamail24.com,sb24live.com,shubhoprotidin24.com##.add img
+alokitokhobor.com,alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,channelcox.com,crimebd.com,dainiksomoyerbangladesh.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gabtalisangbad.com,gangnirchokh.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,pabnamail24.com,patheo24.com,sb24live.com,shubhoprotidin24.com##.add img
 protisomoy.com##.add img.image
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 bwazarakatha.com##.add img:not(.wp-image-19734)
@@ -1769,6 +1769,7 @@ banglanewstv.com##.single_details .widget_area
 nagarprabha.org##.single_featured_slide
 dailyghagot.com##.single_page .add
 jamunanewsbd.com##.single_page .widget_area
+patheo24.com##.single_page .widget_area img
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
