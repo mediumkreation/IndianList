@@ -1132,6 +1132,7 @@ dbcnews.tv##.d-flex
 dainikbharat24.com##.daini-widget
 esidhakura.com##.daraz-ad
 deshabhimani.com##.db-scnAd2
+bholarbani.com##.default-advertise
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
