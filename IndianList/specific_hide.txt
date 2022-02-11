@@ -1053,6 +1053,7 @@ newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
+lokjeewan.com##.bottom_ad_slide
 nagariknetwork.com##.box-news-ad
 yugabdha.com##.box-sec-bg .slider
 tcp24.news##.bpgPhoto
