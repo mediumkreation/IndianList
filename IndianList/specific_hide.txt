@@ -996,6 +996,7 @@ gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
 khabarhub.com##.banner-widget
+rojanapunjab.com##.banner1
 dhaka18.com##.banner21
 nepalsandesh.com##.bannerNews
 rosemalayalam.com##.banner_add
