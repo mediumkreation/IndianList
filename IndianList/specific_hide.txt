@@ -304,7 +304,7 @@ canvasmagazine.com.bd,webreporter.co.in###media_image-19
 aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,janpadnewslive.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sajagpahad.com,sandhannews.com,sasthabangla.com,tamilscreen.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 prompttimes.com###media_image-20
 amanshantinews.com,dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
-amanshantinews.com,divyalive.com,sabsach.in###media_image-22
+amanshantinews.com,divyalive.com###media_image-22
 cgnews24x7.wordpress.com,dainikchintak.com,samacharsach.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
@@ -1351,6 +1351,7 @@ dabangmedia.com##.home-gallery.photo-gallery
 tamiltradepost.com##.home-mid-banner
 sharebazarnews.com##.home-page-ads a:not([href*="sharebazarnews.com"])
 chttoday.com##.home-page-top-right-add
+sabsach.in##.home-secondary-wrapper .widget_media_image
 tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
