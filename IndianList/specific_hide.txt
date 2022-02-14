@@ -2456,11 +2456,11 @@ abitfar.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[targe
 clickmandu.com##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
-aapkikhabar.com#?#*:-abp-has( > a:-abp-contains(Government Ad))
-aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has( > div > span > a[rel*="sponsored"] )
+aapkikhabar.com#?#*:-abp-has(> a:-abp-contains(Government Ad))
+aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
-angulonline.com#?#.elementor-widget-wrap:-abp-has( > .elementor-widget-heading > div > h2:-abp-contains(Sponsored))
+angulonline.com#?#.elementor-widget-wrap:-abp-has(> .elementor-widget-heading > div > h2:-abp-contains(Sponsored))
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
@@ -2493,16 +2493,16 @@ grenonews.com,rsnewslive.com##aside.widget_sp_image
 chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com,rajsattanews.com##aside.widget_text
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
-azhimukham.com#?#.colombiaonesuccess > div:-abp-has( > div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
-bhingatimes.co.in#?#.my-4:-abp-has( > h5:-abp-contains(Advertisement))
-bholanews.com#?#div:-abp-has( > p>img.wp-image-23118)
-biharnation.in#?#.primary-sidebar-widget:-abp-has( > .section-heading > .h-text:-abp-contains(Advertisement))
+azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
+bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
+bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
+biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
-cg24news.in#?#.sidebar:-abp-has( > h5 > span:-abp-contains(Advertisement))
-deshclick.com#?#*:-abp-has( > .AdvtSample)
+cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
+deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 anweshanam.com##div.rhs > div:nth-child(n+4)
 ratopati.com##div.trc-content-sponsored
@@ -2614,7 +2614,7 @@ news18.com##div[style*="300px"][style*="background"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
-entevarthakal.com#?#.fourth_2_inner:-abp-has( > a>div > h1:-abp-contains(advertisement))
+entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 dailysobujbarta.com##figure.vc_figure
@@ -2681,34 +2681,34 @@ hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
 kasargodvartha.com##img[title="wellfitindia"]
-indianewscentre.in#?#.fashion_technology_area div:-abp-has( > div > h2 span:-abp-contains(Advertisement))
-indiatimes.com#?#div:-abp-has( > div[data-native-ad])
+indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
+indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
-khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has( > div > div > span + a)
-khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has( > a[target="_blank"])
-kolomerbatra.com#?#.add .widget_area:-abp-has( > img)
-loudspeakeronline.com#?#div.sidebar-widget:-abp-has( > .widget-head > h4:-abp-contains(Advertisement))
-madhubaninews.in#?#figure:-abp-has( > figcaption:-abp-contains(ADVERTISEMENT))
+khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div > span + a)
+khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
+kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
+loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
+madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 rashtranayaknews.com##media_image-8
 meranews.com#?#p:-abp-contains(Advertisement)
-momainews.com#?#div:-abp-has( > div > span[name="adchoicehtml"])
+momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#.listview-story li:-abp-has(div[id^="mobileAd"])
-news18.com#?#div:-abp-has( > .myad)
+news18.com#?#div:-abp-has(> .myad)
 newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
-newsdesk24.com#?#.sidebar .widget_media_image:-abp-has( > :not(div))
-overlook.co.in#?#section.widget_block:-abp-has( > p > ins)
-pksnews24.com#?#div.primary-sidebar-widget:-abp-has( > div > span:-abp-contains(Advertisement))
-pksnews24.com#?#div[data-adid]:-abp-has( > p:-abp-contains(Advertisement))
+newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
+overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
+pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
+pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
-news18.com#?##right div:-abp-has( > div.nw18-dfp-ad)
-rozanapost.in#?#aside:-abp-has( > h3 > span:-abp-contains(Advt))
-sachikalam.com#?#div[class*="slide"]:-abp-has( > div > .AdvtSample)
-satkhiraprobaho.net#?#div:-abp-has( > h3:-abp-contains(Advertisement))
+news18.com#?##right div:-abp-has(> div.nw18-dfp-ad)
+rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
+sachikalam.com#?#div[class*="slide"]:-abp-has(> div > .AdvtSample)
+satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 samaydarshan.in##section.samay-widget
@@ -2744,8 +2744,8 @@ paristamil.com##table[width="98%"] h2.cat_title
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
-thesigmanews.com#?#div.wrapper-sticky div:-abp-has( > div.section-heading > span:-abp-contains(Advertisement))
+thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h2 + p)
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h3 + p)
-vijaykarnataka.com#?#div:-abp-has( > div[data-native-ad])
+vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
