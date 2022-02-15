@@ -1921,6 +1921,7 @@ kannadanet.com##.td-ss-main-sidebar .td_block_image_box
 hugujarati.in,khabarbhatapara.in,newsofmithila.in,odiapua.com##.td-ss-main-sidebar .widget_custom_html
 akkbd.com,brajeshkibaat.com,chandaulisamachar.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
 galaxyinformer.com,krantimission.com,newsdna.co.in,uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
+industrialpunch.com##.td-ss-main-sidebar .widget_metaslider_widget
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
