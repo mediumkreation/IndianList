@@ -1831,7 +1831,7 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
 cityhotnews.com##.sticky-sidebar .widget_block
-cibindianews.com,newszon.in##.sticky-sidebar .widget_custom_html
+cibindianews.com,hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
