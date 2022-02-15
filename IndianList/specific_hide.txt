@@ -1615,6 +1615,7 @@ sahibganjnews.com##.post-body .separator ~ .separator img
 nayasabera.com##.post-body .tr-caption-container
 jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
+munaadi.com##.post-content ~ .img-responsive
 khasokhas.com##.post-entry .code-block
 akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
 sonalibanglanews.com##.post-inner .code-block img
