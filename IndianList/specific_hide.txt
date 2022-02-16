@@ -241,6 +241,7 @@ thedailybarta.com###header-section .my-1
 champawatkhabar.com###header-text-nav-container
 lokmatnews.in###headerBanner
 livekeralanews.com###headermain .sp7
+newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 samudrapari.com###home-top-sidebar
