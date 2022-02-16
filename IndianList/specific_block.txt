@@ -320,7 +320,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||abnews24.com^*/Green.gif
 ||abnews24.com^*/hamdard27-10-16.gif
 ||abnews24.com^*/Horizon-Add.gif
-||abnews24.com^*/ibl.gif
+||abnews24.com^*/ibl$image
 ||abnews24.com^*/ificBank.gif
 ||abnews24.com^*/ksrm2019.jpg
 ||abnews24.com^*/maisha25-4-16.gif
