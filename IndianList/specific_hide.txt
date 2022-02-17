@@ -78,7 +78,6 @@ dailykaratoa.com,malabarflash.com,mewartimes.com###ad
 headline24x7.com,rkexpose.com###adAboveHeader
 rkexpose.com###adHeaderBottom
 thereport24.com###add-place
-malayalamtodayonline.com###add_slider_header_banner
 lnstarnews.com###add_wrapper
 professorsbd.com###addv
 malayalamdaily.in###adrotate-wrapper
@@ -829,7 +828,6 @@ dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add
 fenitribune.com##.add_area > .textwidget
 allnewsbharat.com,emstv.in,n7india.com,provatnews.com##.add_banner
 gtamilnews.com##.add_block_hdefault
-malayalamtodayonline.com##.add_bnk_img
 ridoyachandpur.com##.add_content
 rosemalayalam.com##.add_image_ryt
 rosemalayalam.com##.add_img_left
@@ -1550,7 +1548,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
