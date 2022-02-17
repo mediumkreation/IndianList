@@ -80,7 +80,7 @@
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|nepalwatch.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
-/blocks/block_$domain=bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|newsexpress24.com|polkholindia.com|sansaninews.com|vartanews.com
+/blocks/block_$domain=bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|polkholindia.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
 /mbl-$image,domain=ppbd.news
 /NEW_GIF_$domain=clickmandu.com
