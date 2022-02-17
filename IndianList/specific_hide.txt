@@ -1528,7 +1528,7 @@ bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,newswings.online,pclive7.com##.mom-e3lanat
-24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
+24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 janatarishtehaar.com##.mom_box_sc
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
@@ -2051,6 +2051,7 @@ policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
 thedeoriatimes.in,theruralpress.in##.vc_raw_html
 postmanindia.in##.vc_raw_html iframe
+ibclive.in##.vc_sidebar .widget_custom_html
 newsnow24.com##.vc_single_image-wrapper[rel="noopener"] .attachment-full
 amaderkhulna.net,netmalayalam.com##.vc_slide
 gionews.in##.vc_widget_sidebar
