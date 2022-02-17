@@ -233,7 +233,7 @@ digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
 cinemasthi.com,prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
+heronewsonline.com,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
@@ -969,6 +969,7 @@ jagonarayanganj24.com##.amws-custom-widget-show-ad
 bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
+heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
 lokmatnews.in##.articlePage
 newsatfirst.com##.aside-add
