@@ -1025,6 +1025,7 @@ filmykhabar.com##.belowslideshow
 cgsandesh.com##.bend
 bengallive.in##.benga-raiganj-municipality
 onlinepana.com##.betn-add
+humsamvet.com##.bg-color-gray-fot
 andhrajyothy.com##.bgg.eng
 bharatlive.co.in##.bhara-content
 bidrohee.com##.bidro-content_4
@@ -2466,6 +2467,7 @@ abitfar.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[targe
 clickmandu.com##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
+humsamvet.com##a[target="_new"]
 aapkikhabar.com#?#*:-abp-has(> a:-abp-contains(Government Ad))
 aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
