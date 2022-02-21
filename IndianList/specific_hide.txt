@@ -1887,6 +1887,7 @@ amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshah
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 theguptchar.com##.td-a-rec:not(.tdi_17)
+manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 nationupdate.in##.td-adspot-title + .td_spot_img_all
 loksansar.in,pathramonline.com##.td-adspot-title + a
 mahendranagarpost.com##.td-all-device
@@ -2548,6 +2549,7 @@ attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
 chitrodesh.com##div[class*="stream-item"]
 nammabantwala.com##div[class*="td_uid_163_"]
+manvadhikarabhivyakti.in##div[class*="tdi_140"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com##div[class*="vigyapan"] > :not(.custom-html-widget)
 jagmarg.com##div[class^="AdvtSample"]
