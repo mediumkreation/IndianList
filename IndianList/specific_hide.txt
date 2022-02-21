@@ -1967,7 +1967,7 @@ amritvichar.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,
 kasaragod.com##.theiaStickySidebar .text-html-box
 pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
 jagatbhumi.com##.theiaStickySidebar .wdslider
-apnahimachalapnishaan.in,rightnewsindia.com##.theiaStickySidebar .widget_block
+apnahimachalapnishaan.in,rghnews.com,rightnewsindia.com##.theiaStickySidebar .widget_block
 bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
 acpnews24.com,anidda.lk,awaznews24x7.com,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,tosnews.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
