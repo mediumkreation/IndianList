@@ -71,6 +71,7 @@
 /Adv/*$domain=dakhal.net
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
+/advertiesment/*$domain=theendnews.com
 /ajadds/*$domain=andhrajyothy.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
@@ -4173,6 +4174,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||theeditor.in/wp-content/uploads/2019/02/car.jpg
 ||theeditor.in/wp-content/uploads/2020/01/970X90.jpg
 ||theeditor.in^*/ad.$image
+||theendnews.com/public/img/dr_leena.jpeg
 ||thefollowup.in/mdl_image/3822news_post.jpg
 ||theindianstate.in^*/ad/
 ||theindianstate.in^*/Octi$image
