@@ -72,6 +72,7 @@
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
+/advertisements/*$domain=nepalipatra.com
 /ajadds/*$domain=andhrajyothy.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
