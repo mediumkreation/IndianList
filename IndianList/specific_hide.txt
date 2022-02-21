@@ -1837,9 +1837,10 @@ dhakanewsexpress.com,sangbad-gallery.com##.square_advertisement
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
-cityhotnews.com##.sticky-sidebar .widget_block
+cityhotnews.com,dakshinapath.com##.sticky-sidebar .widget_block
 cibindianews.com,hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
+dakshinapath.com##.sticky-sidebar .widget_metaslider_widget
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
@@ -2600,6 +2601,7 @@ globalmalayalam.com##div[id^="ad_"]
 aryavartposts.com##div[id^="aryav-"]
 banglalive.com,banglarjanarob.com##div[id^="bangl-"]
 dainikchintak.com##div[id^="daini"]
+dakshinapath.com##div[id^="daksh-"]
 eadarsha.com##div[id^="eadar-"]
 wayanadnewsdaily.com##div[id^="edtinawuv-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
