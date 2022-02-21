@@ -1507,7 +1507,7 @@ punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 himachalmedia.co##.mg-headwidget .pull-right
 newskadaba.com##.mh-header-widget-2
-janjoshnews.in,joharlive.com##.mh-sidebar .widget_media_image
+janjoshnews.in##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
 samvetshikhar.com##.mid-adv-sec-bottom
@@ -2149,6 +2149,7 @@ samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 madhyapradeshdarshan.com##.wonderpluginslider-container
 ghaziabad365.com##.wp-block-group
+joharlive.com##.wp-block-image
 nainilive.com##.wp-block-image img
 lokshakti.in##.wp-block-jetpack-slideshow
 kafaltree.com##.wp-block-video
