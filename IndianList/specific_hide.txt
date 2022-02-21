@@ -604,7 +604,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,dailypunjabtimes.com,glimeindianews.in,hbharat.com,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,udaipurkiran.in###text-6
+avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,clearnews.live,dailypunjabtimes.com,glimeindianews.in,hbharat.com,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,udaipurkiran.in###text-6
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
@@ -1571,7 +1571,7 @@ payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
 prothomalo.com##.news_inner_spcl_ad
-atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 jharkhandvani.in##.newsever-widget .textwidget
 kushiyaranews.com##.newspack_global_ad
