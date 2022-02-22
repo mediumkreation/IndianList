@@ -103,6 +103,8 @@ kahalenews.com###attachment_44092
 dhaka18.com###awaken_video_widget-4
 ntvtelugu.com###awt-left
 dinamina.lk,ilamai.com,sitakundabarta.com###banner
+jogsanjogtimes.com###banner .tcycle img
+jogsanjogtimes.com###banner .tcycle ~ p img
 devbhoomidarshan17.com###banner-10
 truevisionnews.com###bannerCarousel1
 cinesnacks.net###banner_header_728
