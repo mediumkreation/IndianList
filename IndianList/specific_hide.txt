@@ -1073,6 +1073,7 @@ everestdainik.com##.bstyle-list ~ .post
 cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
+himachaljanadesh.com##.bx-wrapper
 himachalnownews.com##.c_ad
 just36news.com,malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
