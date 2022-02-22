@@ -1975,7 +1975,7 @@ bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustot
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
 acpnews24.com,anidda.lk,awaznews24x7.com,bastabbadi.com,cgtop36.com,dainandini.in,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,lokshakti.in,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,tosnews.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
 parvatjan.com##.theiaStickySidebar .widget_media_video
-hapurhulchul.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_widget
+hapurhulchul.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,opennewsx24.com,pnn24.in,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
