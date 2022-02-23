@@ -1788,6 +1788,7 @@ songkalpo.net##.single_page_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 ayodhyasamachar.com##.singlepage center > embed
 uttareralo24.com##.singlepage-section .add
+fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 news18.com##.site-ad-container
 khulasanewslive.in##.site-footer .featured-stories
 googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,nepalraftar.com,samabesionline.com##.site-header-ads
