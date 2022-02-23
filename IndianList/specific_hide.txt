@@ -896,6 +896,7 @@ nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
 chakrapath.com##.adspace
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
+amarsandesh.com##.adss_banner
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
@@ -2105,6 +2106,7 @@ dailynotunsongbad.com,news24bd.net##.widget_area > img
 jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
+amarsandesh.com##.widget_beside_slider
 avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 mahanaad.com##.widget_block:not(#block-37)
