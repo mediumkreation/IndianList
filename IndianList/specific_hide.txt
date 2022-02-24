@@ -2655,6 +2655,7 @@ sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
+newschai.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 pclive7.com##figure.wp-block-gallery
 dainikkushtia.net,news27.org##figure.wp-block-image
