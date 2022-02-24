@@ -1032,6 +1032,7 @@ onlinepana.com##.betn-add
 humsamvet.com##.bg-color-gray-fot
 andhrajyothy.com##.bgg.eng
 bharatlive.co.in##.bhara-content
+lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com,sobkhobar.com##.biggapon
 mediapunjab.com##.bigposter
@@ -1121,6 +1122,7 @@ hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
+lalkhabar.com##.content-banner
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
 teluguwishesh.com##.content-holder-tvshowvaluevision
@@ -1282,6 +1284,7 @@ samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
 dineshkhabar.com##.fullSizeAdBnr
+lalkhabar.com##.full_ad_section
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
@@ -1757,6 +1760,7 @@ mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
 himachaljanadesh.com##.sidebar_ash video
+lalkhabar.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
