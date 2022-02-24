@@ -940,7 +940,7 @@ nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
-bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
@@ -2127,7 +2127,7 @@ sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-amarvaani.com,andbiharnews.co.in,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,divyalive.com,expressindian.co.in,kannadanewsnow.com,kanodnews.com,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,divyalive.com,expressindian.co.in,kannadanewsnow.com,kanodnews.com,lokalok.in,newsfact.in,samachardoot.in,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 pplnews.in##.widget_media_image:not(#media_image-13)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
@@ -2619,6 +2619,7 @@ dakshinapath.com##div[id^="daksh-"]
 doabatimes.com##div[id^="doaba-"]
 eadarsha.com##div[id^="eadar-"]
 wayanadnewsdaily.com##div[id^="edtinawuv-"]
+apkhabar.com##div[id^="goji_yo"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 cinemapluz.com,newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
