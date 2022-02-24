@@ -1066,6 +1066,7 @@ tcp24.news##.bpgPhoto
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
+navayuganews.com##.bs-injection
 sabkuchgyan.com##.bs-listing-multi-tab + div
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
@@ -2637,6 +2638,7 @@ thirdeyenewslive.com##div[id^="third-"]
 truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
 truevisionnews.com##div[id^="truev-"] > img
 truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
+navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
