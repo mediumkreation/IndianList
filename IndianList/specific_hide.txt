@@ -343,7 +343,7 @@ mahanaad.com###media_image-67
 amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,rashtranayaknews.com,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
@@ -2629,6 +2629,7 @@ newsheight.com##div[id^="newsh-"]
 newsway.in##div[id^="newsw-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 hosadigantha.com##div[id^="pum-"]
+rashtranayaknews.com##div[id^="rasht-"]
 bilaspurlive.com##div[id^="sgpb-"]
 kodanki.in##div[id^="sgpb-popup"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
@@ -2730,7 +2731,6 @@ madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
-rashtranayaknews.com##media_image-8
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 news11.live#?#.align_cent:-abp-contains(Advertise)
