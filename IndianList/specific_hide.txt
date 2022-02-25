@@ -240,7 +240,6 @@ heronewsonline.com,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
-champawatkhabar.com###header-text-nav-container
 lokmatnews.in###headerBanner
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
