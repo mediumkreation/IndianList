@@ -724,7 +724,7 @@ keralakaumudi.com##.a-728-90
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
-kannadanewsnow.com,thenetizennews.com##.a-wrap
+kannadanewsnow.com,livemagadh.com,thenetizennews.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -1205,7 +1205,6 @@ newswings.online##.entry-content .alignnone:only-child
 indiapolkhol.in,rcbrn.com,sachchadost.in##.entry-content .code-block
 punjabbaani.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
-livemagadh.com##.entry-content .wp-block-image.size-full
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
@@ -1861,7 +1860,7 @@ dhadingpost.com##.str3
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
-gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,livemagadh.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
+gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
 pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
