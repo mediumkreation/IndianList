@@ -1992,6 +1992,7 @@ keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
+lokbharat.in##.theiaStickySidebar aside.widget_text
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 firstbihar.com##.theiaStickySidebar iframe
 themangaloremirror.in##.thema-aien
