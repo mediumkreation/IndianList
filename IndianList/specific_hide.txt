@@ -801,7 +801,7 @@ u71news.com##.add-left
 dailysabuj.com##.add-longhead
 bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
-thebengalitimes.com##.add-sec
+dainiktribuneonline.com,thebengalitimes.com##.add-sec
 malisamajsocial.com,nagariknetwork.com,thebengalitimes.com##.add-section
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
