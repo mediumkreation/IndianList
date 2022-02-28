@@ -889,6 +889,7 @@ thecgnews.com##.ads120_60-widget
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 aapkiaawaznews.com##.adsImg_section
+vtvgujarati.com##.adsSection
 epaper.lokmat.com##.ads_699
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 janadeshexpress.in##.ads_top_disp
@@ -2023,6 +2024,7 @@ lionexpress.in##.top-left-add
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
 rosemalayalam.com##.top-news-ad
+vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
