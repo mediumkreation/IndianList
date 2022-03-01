@@ -1611,7 +1611,7 @@ onlynews24.com##.onlyn-after-content_2
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
-hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
+dainikmas.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 navsatta.com##.penci-sidebar-right
 hindlives.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
@@ -2251,18 +2251,18 @@ dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,newscrime24.com##.wpb_gallery
-dainikmas.com,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
+keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,malayalamexpress.in##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
-dainikmas.com,everestdainik.com,keralatimes.com##.wpb_single_image figure
+everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
-alamkikhabar.in,dainikmas.com,deshbartabd.com,saunewsnetwork.com##.wpb_video_widget
+alamkikhabar.in,deshbartabd.com,saunewsnetwork.com##.wpb_video_widget
 attingalvartha.com##.wpb_widgetised_column
 wishavwarta.in##.wpb_widgetised_column .wp-block-image
 aadarshhimachal.com##.wpb_wrapper .rll-youtube-player
