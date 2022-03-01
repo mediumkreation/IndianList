@@ -323,7 +323,7 @@ starbanglanews.net###media_image-32
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 sheikhpuranews.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
-bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
+bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
 bharatsarathi.com,sabkasandesh.com###media_image-43
@@ -463,7 +463,7 @@ beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 brightpost.in,dainikchintak.com###secondary .widget_block
 newslemonchoose.com,thelucknowtribune.com###secondary .widget_custom_html
-aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,ekhabartoday.com,haryanabhaskar.com,ideaciti.com,jogiexpress.com,justmuz.com,mediapassion.co.in,patnapost.com,pradeshnews24x7.com,ptbnews.in,sirajganjnews24.com,thefourthmirror.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,ekhabartoday.com,fourthpost.com,haryanabhaskar.com,ideaciti.com,jogiexpress.com,justmuz.com,mediapassion.co.in,patnapost.com,pradeshnews24x7.com,ptbnews.in,sirajganjnews24.com,thefourthmirror.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
