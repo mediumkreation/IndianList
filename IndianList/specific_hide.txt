@@ -202,7 +202,7 @@ apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,karmalamadhanews24
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
+247superfast.com,bdcrictime.com,devbhumijknews.in,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
 ddnews24x7.com,hindi-news-today.com###custom_html-51
 ddnews24x7.com###custom_html-53
 bidhannagartimes.com,bnanews24.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
@@ -549,7 +549,7 @@ webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
 navakeralanews.com,newstruthlive.com###stream-item-widget-12
 liveuttarakhand.com###stream-item-widget-2
-aaryaanews.com,sangbadsafar.com,vvanews.in###stream-item-widget-3
+aaryaanews.com,devbhumijknews.in,sangbadsafar.com,vvanews.in###stream-item-widget-3
 nalandareporter.com###stream-item-widget-4
 bestnow.in,hnn24x7.com###stream-item-widget-5
 mediamangalam.com###stream-item-widget-7
@@ -1861,7 +1861,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,aapkiaawaz.net,apnahimachalapnishaan.in,bastabbadi.com,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,networktodaynews.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
+247superfast.com,aapkiaawaz.net,apnahimachalapnishaan.in,bastabbadi.com,bharatsamachartv.in,cinenxt.com,dainikbhaskarup.com,devbhumijknews.in,divyadarpan.com,gandakivoice.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,navakeralanews.com,nayalook.com,networktodaynews.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 newswing.com##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
