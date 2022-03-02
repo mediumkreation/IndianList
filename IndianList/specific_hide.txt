@@ -512,6 +512,7 @@ silkcitynews.com###sidebar-primary aside.widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
+newstodaycg.com###sidebar-primary-sidebar > .widget:not([id^="bs-"])
 khabarcgnews.com###sidebar-right .widget_block
 khamoshduniya.com###sidebar-right .widget_custom_html
 24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
