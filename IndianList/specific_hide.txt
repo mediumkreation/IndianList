@@ -2787,6 +2787,7 @@ sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
 thehillsofmussoorie.com##section.widget_media_video
 cityonclick.in##section.widget_metaslider_widget
+dthreeonline.com##section.widget_sp_image
 duniyasamachar.com##section.widget_text
 dainiklivenews24.com##section.widget_text:not(#text-2)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
