@@ -1025,6 +1025,8 @@ humarabikaner.com##.bdaia-above-header
 garjachhattisgarhnews.com##.bdaia-box7
 punjabbaani.com##.bdaia-e3-container
 nabaz-e-punjab.com##.bdaia-header-e3-desktop
+voiceofdarbhanga.com##.bdaia-post-content figure
+voiceofdarbhanga.com##.bdaia-post-content p img
 nabaz-e-punjab.com##.bdaia-widget-e3
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
