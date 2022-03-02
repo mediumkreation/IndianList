@@ -110,6 +110,7 @@ devbhoomidarshan17.com###banner-10
 truevisionnews.com###bannerCarousel1
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
+nalandalive.com###bdaia-widget-html-4
 ezhomelive.com,yarldevinews.net###before-ad
 lokmatnews.in###beforehead
 khabarcgnews.com###below-header
@@ -1024,10 +1025,10 @@ muktijoddharkantho.com##.bd-sidebar .widget_text
 humarabikaner.com##.bdaia-above-header
 garjachhattisgarhnews.com##.bdaia-box7
 punjabbaani.com##.bdaia-e3-container
-nabaz-e-punjab.com##.bdaia-header-e3-desktop
+nabaz-e-punjab.com,nalandalive.com##.bdaia-header-e3-desktop
 voiceofdarbhanga.com##.bdaia-post-content figure
 voiceofdarbhanga.com##.bdaia-post-content p img
-nabaz-e-punjab.com##.bdaia-widget-e3
+nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
 nagariknetwork.com##.below-article-ad
