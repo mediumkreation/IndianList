@@ -524,6 +524,7 @@ newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 samjhobharat.com###sidebar-right-1 .widget.Image
 haryananewsonline.com###sidebar-secondary-sidebar
+citypostlive.com###sidebar-secondary-sidebar > .widget
 zamania.in###sidebar-section-top
 abtaknews.com,pradeepamonline.com###sidebar1
 nknewsindia.com###sidebar2
@@ -2546,6 +2547,7 @@ nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
+citypostlive.com#sidebar-primary-sidebar>.widget:not(#better-social-counter-2)
 deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 anweshanam.com##div.rhs > div:nth-child(n+4)
