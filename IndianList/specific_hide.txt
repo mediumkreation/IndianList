@@ -470,7 +470,7 @@ shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
-24city.news,livebavaal.com,phaddalo.com,ptbnews.in###secondary .widget_text
+24city.news,bangla52news.com,livebavaal.com,phaddalo.com,ptbnews.in###secondary .widget_text
 vbnews24.com###secondary .widget_text:not(#custom_html-2)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
@@ -2143,7 +2143,7 @@ filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
-kundeshwartimes.com,shiftindia.com##.widget_media_gallery
+bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
 alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,divyalive.com,expressindian.co.in,kannadanewsnow.com,kanodnews.com,lokalok.in,nationupdate.in,newsfact.in,samachardoot.in,samacharhouse.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
