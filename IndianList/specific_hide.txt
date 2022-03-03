@@ -2664,6 +2664,7 @@ thirdeyenewslive.com##div[id^="third-"]
 truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
 truevisionnews.com##div[id^="truev-"] > img
 truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
+visiontimes.news##div[id^="vision-"]
 navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
