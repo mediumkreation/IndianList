@@ -79,6 +79,7 @@ headline24x7.com,rkexpose.com###adAboveHeader
 rkexpose.com###adHeaderBottom
 thereport24.com###add-place
 lnstarnews.com###add_wrapper
+editorjee.com###addheaderbanner
 professorsbd.com###addv
 malayalamdaily.in###adrotate-wrapper
 udayavani.com###ads
@@ -2136,7 +2137,7 @@ avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 mahanaad.com##.widget_block:not(#block-37)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
-alivenews.co.in,athirvu.in,kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
+alivenews.co.in,athirvu.in,editorjee.com,kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
