@@ -128,24 +128,24 @@ paridarshaka.com###block-11
 samrudhaodisha.com###block-15
 samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
-sehattimes.com,shottoboyan.com,thedastak24.com###block-2
+sabkasandesh.com,sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
 hnn24x7.com###block-23
 hnn24x7.com###block-24
 khabarcgnews.com###block-27
 24hrnews.in###block-28
-jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms###block-3
+jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms,sabkasandesh.com###block-3
 dnspnews.in###block-37
 meerutdarpan.com###block-39
-bdcrictime.com,hdhrm.com,newsganj.com,paridarshaka.com###block-4
-hamarahimachal.com,newsnukkad.com###block-5
+bdcrictime.com,hdhrm.com,newsganj.com,paridarshaka.com,sabkasandesh.com###block-4
+hamarahimachal.com,newsnukkad.com,sabkasandesh.com###block-5
 overlook.co.in###block-55
 paridarshaka.com###block-6
 kundapraa.com,samacharfirst.com###block-7
 nationalwartanews.com###block-7 img
 24hrnews.in###block-79
-tamizhakam.com,wayanadnewsdaily.com###block-8
-bharatjan.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
+sabkasandesh.com,tamizhakam.com,wayanadnewsdaily.com###block-8
+bharatjan.com,nationalwartanews.com,sabkasandesh.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
 varthabharati.in###block-block-253--2
@@ -326,6 +326,7 @@ crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-
 sheikhpuranews.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
 bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
+sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
 bharatsarathi.com,sabkasandesh.com###media_image-43
@@ -343,7 +344,7 @@ anewsoffice.com###media_image-57
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,swatantradastak.com,tarunchhattisgarh.in###media_image-7
+amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,sabkasandesh.com,swatantradastak.com,tarunchhattisgarh.in###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,rashtranayaknews.com,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
