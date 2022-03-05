@@ -562,7 +562,7 @@ alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
 anbnews24.com,timesoneodia.com###text-1
-jagprerna.com,medianp.com,moonbreaking.com,najarianews.in,tamil.com,theblastkhabar.com,vanakkamlondon.com###text-10
+jagprerna.com,janmanindia.com,medianp.com,moonbreaking.com,najarianews.in,tamil.com,theblastkhabar.com,vanakkamlondon.com###text-10
 anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,onlinesaptari.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
@@ -1622,6 +1622,7 @@ himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
 dainikmas.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
+janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
 hindlives.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
