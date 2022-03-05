@@ -2285,7 +2285,6 @@ pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 bdcrictime.com##.wpb_wrapper .vc_raw_html
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
-gtamilnews.com##.wpb_wrapper > .wpb_single_image
 dainikbharatbhaskar.com##.wpb_wrapper > p img
 ptcnews.tv##.wpb_wrapper aside.widget_media_image
 prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
@@ -2515,7 +2514,7 @@ newsnib.in##app-squaread4
 divyalive.com##article.single > div[style*="float"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
-tv24live.com##aside .widget_media_image
+gtamilnews.com,tv24live.com##aside .widget_media_image
 haldwanilive.com##aside > .textwidget
 newsmoments.in##aside#sidebar .chmnr
 bnnbharat.com##aside#sidebar-primary-sidebar
