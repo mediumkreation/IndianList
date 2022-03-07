@@ -954,7 +954,7 @@ nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
-apkhabar.com,bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 bizmandu.com##.advertisement-inside-content
@@ -1597,7 +1597,6 @@ sansarnews.com##.news-style-six-ads
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
-prothomalo.com##.news_inner_spcl_ad
 atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 jharkhandvani.in##.newsever-widget .textwidget
@@ -2578,6 +2577,9 @@ punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
 diyopost.com##div[clas="taja_bishesh_advertise"]
 unitednripost.com##div[class*=" ads_"]
 news18.com##div[class*="Header_inner_ad"]
+prothomalo.com##div[class*="__ad-slot"]
+prothomalo.com##div[class*="_ad_wrapper"]
+prothomalo.com##div[class*="_ads__"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 bikanerhulchul.com##div[class*="bikan"]
@@ -2586,6 +2588,7 @@ democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
 navjivanindia.com##div[class*="m__ad"]
+prothomalo.com##div[class*="m__ads"]
 navjivanindia.com##div[class*="m__dfp"]
 vbnews24.com##div[class*="media_image-"]
 nainilive.com##div[class*="naini-"]
