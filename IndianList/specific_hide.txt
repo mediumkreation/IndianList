@@ -4,6 +4,7 @@ eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
 pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
+samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 utkalpratidin.com###HP_O_LHS_8
 atalsamachar.com###HP_O_TP_2 > div ~ div
 actionnews.in,balotranewstrack.com,hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
@@ -2623,6 +2624,7 @@ barisalpress.com##div[data-href*="enjoynetwork.bd"]
 shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 daynikekusherbani.com##div[id$="_ad"]
+samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
@@ -2656,6 +2658,7 @@ rashtranayaknews.com##div[id^="rasht-"]
 bilaspurlive.com##div[id^="sgpb-"]
 kodanki.in##div[id^="sgpb-popup"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
+samayduniya.com##div[id^="showAS_O_BEL_"]
 sitamarhilive.in##div[id^="sitam-"]
 sudurkhabar.com##div[id^="sudur-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
@@ -2770,6 +2773,8 @@ rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 news18.com#?##right div:-abp-has(> div.nw18-dfp-ad)
 rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
 sachikalam.com#?#div[class*="slide"]:-abp-has(> div > .AdvtSample)
+samayduniya.com#?#div:-abp-has(> a > div > .pd_title)
+samayduniya.com#?#div:-abp-has(> a span:-abp-contains(Ad |))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full

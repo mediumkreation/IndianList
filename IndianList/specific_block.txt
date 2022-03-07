@@ -85,6 +85,7 @@
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|polkholindia.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
+/can//cde/*$domain=samayduniya.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
 /NEW_GIF_$domain=clickmandu.com
@@ -1056,6 +1057,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||clickmandu.com^*/shikhar-inssurance.gif
 ||clickmandu.com^*/United-Finance.gif
 ||clickmandu.com^*/wlink.gif
+||clmbtech.com^$third-party,$domain=samayduniya.com
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
 ||cloudinary.com^*/cement-add3.jpg$domain=firstbihar.com
 ||cnewsbangla.com/wp-content/uploads/2019/09/Gloria-arlour.jpg
