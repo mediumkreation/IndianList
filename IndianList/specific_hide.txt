@@ -4,6 +4,7 @@ eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
 pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
+metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 utkalpratidin.com###HP_O_LHS_8
 atalsamachar.com###HP_O_TP_2 > div ~ div
@@ -1248,7 +1249,7 @@ hpnewsatl.com##.et_pb_post_content img
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
-atalsamachar.com,timeskerala.com##.extraList
+atalsamachar.com,metrojournalonline.com,timeskerala.com##.extraList
 parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
@@ -1430,6 +1431,8 @@ bikashnews.com##.innercontainer a[target="_blank"] img
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 dinamalar.com##.innrit
+metrojournalonline.com##.intes_fixed
+metrojournalonline.com##.intes_fixed + div
 sathyamonline.com##.inven-before-content_6
 samvetshikhar.com##.item-size-right img
 emalayalee.com##.item1
@@ -2661,7 +2664,7 @@ bilaspurlive.com##div[id^="sgpb-"]
 kodanki.in##div[id^="sgpb-popup"]
 anugrahavision.com##div[id^="showAS_"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
-samayduniya.com##div[id^="showAS_O_BEL_"]
+metrojournalonline.com,samayduniya.com##div[id^="showAS_O_BEL_"]
 sitamarhilive.in##div[id^="sitam-"]
 sudurkhabar.com##div[id^="sudur-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
