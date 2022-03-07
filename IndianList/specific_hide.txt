@@ -957,6 +957,7 @@ bonikbarta.net##.advertise_space2
 apkhabar.com,bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
+bizmandu.com##.advertisement-inside-content
 khabardabali.com##.advertisement-primary
 ournewsbd.net##.advertisement-single-float
 dekhapadhi.com##.advertisement-three
@@ -1061,7 +1062,6 @@ lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
 lokaantar.com##.bigyapan-title
 arthasarokar.com##.bigyapan_banner
 biharaaptak.com##.bihar-widget
-bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
 dainikbhaskarup.com,ujjawalprabhat.com##.block-custom-content
@@ -2083,7 +2083,9 @@ unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
 dailyajkershomoy.com##.uc-sdr-ads
 newslabz.com##.ugaam-ad-wrapper-outer
+bizmandu.com##.uk-block > .uk-grid-small
 abplive.com##.uk-text-meta
+bizmandu.com##.uk-text-muted
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 newstodayjharkhand.com##.uris-slider-post-title
@@ -2504,7 +2506,7 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 haryanaekhabar.com##a[rel*="sponsored"]
 dhadingnews.com##a[rel*="wp-att"]
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
-abitfar.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
+abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 clickmandu.com##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
