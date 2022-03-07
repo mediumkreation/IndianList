@@ -2564,13 +2564,17 @@ anweshanam.com##div.rhs > div:nth-child(n+4)
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabguardian.com##div.widget_media_image:not(#media_image-12)
+punjabiherald.co.nz##div[aria-label*="-Advt-"]
+punjabiherald.co.nz##div[aria-label*=".gif"]
 punjabiherald.co.nz##div[aria-label="27.jpg"]
 punjabiherald.co.nz##div[aria-label="30.jpg"]
 punjabiherald.co.nz##div[aria-label="31.jpg"]
 punjabiherald.co.nz##div[aria-label="Auction "]
 punjabiherald.co.nz##div[aria-label="Banner-2.jpg"]
-punjabiherald.co.nz##div[aria-label="HSB-TOP-ADD-2a.jpg"]
 punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
+punjabiherald.co.nz##div[aria-label^="HSB-"]
+punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
+punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
 diyopost.com##div[clas="taja_bishesh_advertise"]
 unitednripost.com##div[class*=" ads_"]
 news18.com##div[class*="Header_inner_ad"]
@@ -2770,6 +2774,7 @@ sankalpakhabar.com##main section.sk_banner
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
+punjabiherald.co.nz##nav + div
 news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#.listview-story li:-abp-has(div[id^="mobileAd"])
