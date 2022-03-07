@@ -2630,8 +2630,10 @@ shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 daynikekusherbani.com##div[id$="_ad"]
 anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
+dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
+dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
