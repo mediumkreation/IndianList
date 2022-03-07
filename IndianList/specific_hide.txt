@@ -962,7 +962,7 @@ dekhapadhi.com##.advertisement-three
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
-timeskerala.com##.advertismentRow
+anugrahavision.com,timeskerala.com##.advertismentRow
 divaina.com##.advertisments
 chapainews.com##.advrts
 dainiksylhet.com##.advsingle
@@ -1121,7 +1121,7 @@ channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
-azhimukham.com,khabreelal.com##.colombiaadcode
+anugrahavision.com,azhimukham.com,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -2624,7 +2624,9 @@ barisalpress.com##div[data-href*="enjoynetwork.bd"]
 shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 daynikekusherbani.com##div[id$="_ad"]
+anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
+anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
@@ -2657,6 +2659,7 @@ hosadigantha.com##div[id^="pum-"]
 rashtranayaknews.com##div[id^="rasht-"]
 bilaspurlive.com##div[id^="sgpb-"]
 kodanki.in##div[id^="sgpb-popup"]
+anugrahavision.com##div[id^="showAS_"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
 samayduniya.com##div[id^="showAS_O_BEL_"]
 sitamarhilive.in##div[id^="sitam-"]
