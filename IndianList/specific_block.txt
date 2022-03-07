@@ -85,7 +85,7 @@
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|polkholindia.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
-/can//cde/*$domain=dalhousiehulchul.com|metrojournalonline.com|samayduniya.com
+/can//cde/*$domain=dalhousiehulchul.com|metrojournalonline.com|newzfast.com|samayduniya.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
 /NEW_GIF_$domain=clickmandu.com

@@ -1431,8 +1431,8 @@ bikashnews.com##.innercontainer a[target="_blank"] img
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 dinamalar.com##.innrit
-metrojournalonline.com##.intes_fixed
-metrojournalonline.com##.intes_fixed + div
+metrojournalonline.com,newzfast.com##.intes_fixed
+metrojournalonline.com,newzfast.com##.intes_fixed + div
 sathyamonline.com##.inven-before-content_6
 samvetshikhar.com##.item-size-right img
 emalayalee.com##.item1
@@ -2639,6 +2639,7 @@ samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
+newzfast.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
 mathrubhumi.com##div[id^="ML_DT"]
@@ -2672,7 +2673,7 @@ bilaspurlive.com##div[id^="sgpb-"]
 kodanki.in##div[id^="sgpb-popup"]
 anugrahavision.com##div[id^="showAS_"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
-metrojournalonline.com,samayduniya.com##div[id^="showAS_O_BEL_"]
+metrojournalonline.com,newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
 sitamarhilive.in##div[id^="sitam-"]
 sudurkhabar.com##div[id^="sudur-"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
