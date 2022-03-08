@@ -15,7 +15,7 @@ jaldhakanews.com###HTML101
 dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
-balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML15
+aapkiummid.com,balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML15
 balotranewstrack.com,thattungal.com###HTML16
 thattungal.com###HTML18
 obolokon24.com###HTML19
@@ -390,6 +390,7 @@ digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 tharunaya.us###module_03_ads300x250
 360malayalam.com###monitor
+aapkiummid.com###ms-admananger a:not([imageanchor]) img:not([src*="qr-code"])
 uttrakhandtoday.com###mvp-ad-rel-wrap
 uttrakhandtoday.com###mvp-head-top
 cinemapettai.com,lankac.news###mvp-leader-wrap
@@ -1062,6 +1063,7 @@ lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
 lokaantar.com##.bigyapan-title
 arthasarokar.com##.bigyapan_banner
 biharaaptak.com##.bihar-widget
+aapkiummid.com##.billboardad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
 dainikbhaskarup.com,ujjawalprabhat.com##.block-custom-content
@@ -2074,6 +2076,7 @@ seithy.com##.toppageadsindexheader
 dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
 damstv.com##.tr-ad
+aapkiummid.com##.tr-caption-container
 nagariknetwork.com##.travel-add
 deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
@@ -2652,6 +2655,7 @@ abbiharnews.com##div[id^="abbih-"]
 abhayindia.com##div[id^="abhay-"]
 achhikhabar.com##div[id^="achhi-"]
 globalmalayalam.com##div[id^="ad_"]
+aapkiummid.com##div[id^="articlead"]
 aryavartposts.com##div[id^="aryav-"]
 banglalive.com,banglarjanarob.com##div[id^="bangl-"]
 dainikchintak.com##div[id^="daini"]
