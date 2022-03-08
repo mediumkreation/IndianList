@@ -197,7 +197,7 @@ aavakaaya.in###custom_html-25
 ddnews24x7.com,saakshatv.com###custom_html-26
 saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,countrynewstoday.com,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com###custom_html-3
+angindianews.com,barisaltoday.com,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com###custom_html-3
 tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 ddnews24x7.com,thedastak24.com###custom_html-31
@@ -1832,7 +1832,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
+countrynewstoday.com,dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
@@ -2811,7 +2811,7 @@ himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,pr
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
-bidrohee.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
+bidrohee.com,countrynewstoday.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
 sbharatnews.com##section.widget_media_gallery
