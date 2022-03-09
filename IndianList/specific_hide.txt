@@ -513,7 +513,7 @@ tamilnewsstar.com###sidebar .text-html
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,dbnnews.in,meruraibar.com,news27.org,punjabnewslive.co.in###sidebar .widget_media_image
+awajnews.com,bolpanipat.com,dbnnews.in,meruraibar.com,news27.org,punjabnewslive.co.in###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 firstnewsbd.com,readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
