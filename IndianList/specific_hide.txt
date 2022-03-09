@@ -2556,6 +2556,7 @@ brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
 chaukastoli.com,dainikbharatbhaskar.com,grenonews.com,newsvariant.com,rajsattanews.com##aside.widget_text
+jagatprahari.com##aside.widget_text:not(#text-25):not(#text-27)
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
