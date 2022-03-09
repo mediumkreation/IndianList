@@ -478,7 +478,7 @@ shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
-24city.news,bangla52news.com,livebavaal.com,phaddalo.com,ptbnews.in###secondary .widget_text
+24city.news,bangla52news.com,livebavaal.com,phaddalo.com,ptbnews.in,seithisolai.com###secondary .widget_text
 vbnews24.com###secondary .widget_text:not(#custom_html-2)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
