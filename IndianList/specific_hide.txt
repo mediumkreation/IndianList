@@ -138,9 +138,11 @@ khabarcgnews.com###block-27
 24hrnews.in###block-28
 jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms,sabkasandesh.com###block-3
 dnspnews.in###block-37
+anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
 bdcrictime.com,hdhrm.com,newsganj.com,paridarshaka.com,sabkasandesh.com###block-4
 hamarahimachal.com,newsnukkad.com,sabkasandesh.com###block-5
+anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
 paridarshaka.com###block-6
 kundapraa.com,samacharfirst.com###block-7
@@ -2542,7 +2544,7 @@ todaybhaskar.com##aside.widget_black_studio_tinymce
 apanderanews.com,inkpoint.in,minnal24.com##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
-64kalalu.com,amaderbharat.com,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,jaljalakhabar.com,jjvnews.com,kannadanet.com,khabarhp.com,kohramlive.com,mahavoicenews.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,thebharatexpress.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,amaderbharat.com,anwesantv.wordpress.com,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,jaljalakhabar.com,jjvnews.com,kannadanet.com,khabarhp.com,kohramlive.com,mahavoicenews.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,thebharatexpress.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
