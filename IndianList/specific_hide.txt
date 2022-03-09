@@ -166,12 +166,14 @@ bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
+giridihupdates.com###content .widget_block
 legalvoice24.com###content > .widget_text
 news129.com###content center img
 samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
+giridihupdates.com###content section.widget_text[id^="text-1"]
 purvanchal24.com###content-wrapper > :not(#main-wrapper):not(#sidebar-wrapper)
 haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
@@ -1558,7 +1560,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 gandakichhadke.com##.mkloyr-container
-24webnews.com,bigtvnews.com,buxarkhabar.com,gondwanaexpress.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,gondwanaexpress.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 manoramaonline.com##.mm-textlink-ad
 manoramaonline.com#@#.mmads
