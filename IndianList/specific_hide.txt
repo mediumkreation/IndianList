@@ -2168,7 +2168,7 @@ trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
 bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,divyalive.com,expressindian.co.in,kannadanewsnow.com,kanodnews.com,lokalok.in,nationupdate.in,newsfact.in,samachardoot.in,samacharhouse.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com##.widget_media_image
+alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,divyalive.com,expressindian.co.in,kannadanewsnow.com,kanodnews.com,lokalok.in,nationupdate.in,newsfact.in,samachardoot.in,samacharhouse.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 pplnews.in##.widget_media_image:not(#media_image-13)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
