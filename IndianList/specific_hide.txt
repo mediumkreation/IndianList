@@ -2822,7 +2822,7 @@ bidrohee.com,countrynewstoday.com,drukpadam.com,uttarkal.com,youthexpress.in##se
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,munaadi.com,newswatch.co.in,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,munaadi.com,newswatch.co.in,newszon.in,parmantimes.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 24hrnews.in##section.widget_media_image:not(#media_image-5)
