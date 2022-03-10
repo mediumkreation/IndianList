@@ -2331,7 +2331,7 @@ pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
 khabarpahad.com##[class^="khaba-"]
 hamromat.com##[class^="sgpb-"]
-asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
+asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com,theutkal.in##[data-adid]
 kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
