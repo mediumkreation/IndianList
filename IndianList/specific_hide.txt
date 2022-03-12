@@ -1126,6 +1126,7 @@ kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 bankingkhabar.com##.codeneric_uam_link
+hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
@@ -1293,6 +1294,7 @@ gionews.in##.footer-widget .widget_media_image
 vorerbangladesh.com##.footer-widgets aside.widget_text
 raisingvoice.com##.footer-widgets-area section.widget_media_image
 pradeepamonline.com##.footer-widgets-wrap
+hajurkokhabar.com##.footer__top__up__image
 borendronews.com##.footer_logo
 professorsbd.com##.for_add
 sangbad-gallery.com##.four_advertisement
@@ -2128,6 +2130,7 @@ livestorytime.com##.w3-section
 dainikazadi.net##.w3-top-ads-desktop
 lokshakti.in,thaiveedu.com##.wds_slider_cont
 iamgujarat.com,samayam.com##.wdt_amz
+hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com##.well
 sajhapost.com##.white-bg-half-ad
 emungaru.com##.widget img[src^="data:"]
