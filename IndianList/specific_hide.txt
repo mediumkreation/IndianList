@@ -164,6 +164,7 @@ nzpunjabinews.com###carouselExampleControls
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
+ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
 giridihupdates.com###content .widget_block
