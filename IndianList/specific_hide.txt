@@ -1571,6 +1571,7 @@ prajavani.net##.mob_only
 news13.in##.mobadv-4
 bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
+mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,newswings.online,pclive7.com##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
