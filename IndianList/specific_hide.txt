@@ -124,7 +124,6 @@ bankingsansar.com###bigyapan-top
 arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
-tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com,paridarshaka.com###block-10
 paridarshaka.com###block-11
 samrudhaodisha.com###block-15
@@ -1817,6 +1816,7 @@ ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
 sansarnews.com##.single-sidebar-ads
 sawalnepal.com##.single-up img
+tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
