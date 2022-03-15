@@ -2796,6 +2796,7 @@ kasargodvartha.com##img[title="wellfitindia"]
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
+khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
 khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div > span + a)
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
