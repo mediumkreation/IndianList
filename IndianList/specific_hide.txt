@@ -1883,6 +1883,7 @@ tandavnews.com##.spu-box
 dhakanewsexpress.com,sangbad-gallery.com##.square_advertisement
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
+khabor24x7.com##.stick-dt
 chitwanpress.com##.stickey-side .ad-title ~ a
 cityhotnews.com,dakshinapath.com##.sticky-sidebar .widget_block
 cibindianews.com,hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
@@ -2173,6 +2174,7 @@ newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
+khabor24x7.com##.widget_gfxtons
 sameerachannel.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
