@@ -567,6 +567,7 @@ aaryaanews.com,devbhumijknews.in,sangbadsafar.com,ssnewsindia.com,vvanews.in###s
 nalandareporter.com###stream-item-widget-4
 bestnow.in,hnn24x7.com###stream-item-widget-5
 mediamangalam.com###stream-item-widget-7
+solantoday.com###sub-footer .widget_media_image
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
@@ -2176,7 +2177,7 @@ insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
 khabor24x7.com##.widget_gfxtons
-sameerachannel.com##.widget_hootkit-slider-image
+sameerachannel.com,solantoday.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
 bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
