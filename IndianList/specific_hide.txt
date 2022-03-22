@@ -2834,9 +2834,9 @@ samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 aayomail.com,bikastimes.com,deshkonews.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
-karobardaily.com##section.widget > a:only-child
 himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
+karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 bidrohee.com,countrynewstoday.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
