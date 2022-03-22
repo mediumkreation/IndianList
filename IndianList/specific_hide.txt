@@ -1019,7 +1019,7 @@ musicjoymedia.com##.banner-half
 enewsmp.com##.banner-header
 bholarbani.com,newsportals.in,onstimes.com##.banner-img
 abcnepal.tv##.banner-muni-add
-ambalacoverage.com,biharnewstv.in,cibindianews.com,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himachalreport.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,liveindiakhabar.in,livekhabar.com,lokalok.in,lokshakti.in,navpradesh.com,news24x365.com,odiabarta.in,pularvu.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,vishwakarmakiran.com##.banner-promotions-wrapper
+ambalacoverage.com,biharnewstv.in,cibindianews.com,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himachalreport.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,liveindiakhabar.in,livekhabar.com,lokalok.in,lokshakti.in,navpradesh.com,news24x365.com,odiabarta.in,pularvu.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
