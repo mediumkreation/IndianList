@@ -147,7 +147,6 @@ samrudhaodisha.com###block-20
 hnn24x7.com###block-23
 hnn24x7.com###block-24
 khabarcgnews.com###block-27
-24hrnews.in###block-28
 jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
@@ -159,7 +158,6 @@ overlook.co.in###block-55
 paridarshaka.com###block-6
 kundapraa.com,samacharfirst.com###block-7
 nationalwartanews.com###block-7 img
-24hrnews.in###block-79
 tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
@@ -1902,7 +1900,7 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
 chitwanpress.com##.stickey-side .ad-title ~ a
-cityhotnews.com,dakshinapath.com##.sticky-sidebar .widget_block
+24hrnews.in,cityhotnews.com,dakshinapath.com##.sticky-sidebar .widget_block
 cibindianews.com,hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 dakshinapath.com##.sticky-sidebar .widget_metaslider_widget
