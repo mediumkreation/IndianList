@@ -166,6 +166,7 @@ suddi9.com###colorcontentasash3
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
+kelanchaltimes.com###content .stream-item
 giridihupdates.com###content .widget_block
 legalvoice24.com###content > .widget_text
 news129.com###content center img
@@ -1905,7 +1906,7 @@ abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
 abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
 amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
-amritvichar.com,eastcoastdaily.com,kadwaghut.com,livequicknews.in,natunbarta.com##.stream-item-mag
+amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
 apnahimachalapnishaan.in,hamarahimachal.com,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newssow.com,prabudhajanata.online,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
@@ -2026,7 +2027,7 @@ bharatnews18.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustot
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
 aajexpress.com,acpnews24.com,anidda.lk,aryasamay.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,dainandini.in,hamarahimachal.com,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,kadwaghut.com,khaskhabar24.com,lokshakti.in,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parmantimes.in,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,sunmision.tv,tosnews.com,ujjawalprabhat.com,vedantbhoomi.com,vorerava24.com##.theiaStickySidebar .widget_media_image
 parvatjan.com##.theiaStickySidebar .widget_media_video
-hapurhulchul.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
+hapurhulchul.com,kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,opennewsx24.com,pnn24.in,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
 pujibazarexpress.com##.theiaStickySidebar .wpb_single_image
