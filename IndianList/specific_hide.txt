@@ -1400,6 +1400,7 @@ muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
 sudurpatra.com##.home_content a[target="blank"]
 news71online.com,shamolynews24.com##.home_last_ad
+durnitibarta.com##.home_page_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 bishwabarta.com,shamolynews24.com##.home_widget
