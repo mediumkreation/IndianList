@@ -142,26 +142,26 @@ paridarshaka.com###block-11
 samrudhaodisha.com###block-15
 samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
-sabkasandesh.com,sehattimes.com,shottoboyan.com,thedastak24.com###block-2
+sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
 hnn24x7.com###block-23
 hnn24x7.com###block-24
 khabarcgnews.com###block-27
 24hrnews.in###block-28
-jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.coms,sabkasandesh.com###block-3
+jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bdcrictime.com,hdhrm.com,newsganj.com,paridarshaka.com,sabkasandesh.com###block-4
-hamarahimachal.com,newsnukkad.com,sabkasandesh.com###block-5
+bdcrictime.com,hdhrm.com,newsganj.com,paridarshaka.com###block-4
+hamarahimachal.com,newsnukkad.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
 paridarshaka.com###block-6
 kundapraa.com,samacharfirst.com###block-7
 nationalwartanews.com###block-7 img
 24hrnews.in###block-79
-sabkasandesh.com,tamizhakam.com,wayanadnewsdaily.com###block-8
-bharatjan.com,nationalwartanews.com,sabkasandesh.com,wayanadnewsdaily.com###block-9
+tamizhakam.com,wayanadnewsdaily.com###block-8
+bharatjan.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
 varthabharati.in###block-block-253--2
@@ -1807,6 +1807,7 @@ janayugomonline.com##.sidebar-inside .widget_custom_html
 hetaudatoday.com##.sidebar-left-ad
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
+sabkasandesh.com##.sidebar-sticky-top .widget_block:not(#block-6)
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
