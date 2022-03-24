@@ -1242,6 +1242,7 @@ bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
 bharatbarta.com,indiapolkhol.in,rcbrn.com,sachchadost.in##.entry-content .code-block
+chhattisgarhcrimes.in##.entry-content .g-single
 punjabbaani.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
 thirdeyetoday.com##.entry-content > :not(figure) img
