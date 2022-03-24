@@ -1245,7 +1245,7 @@ channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
 ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
-247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com##.entry-content img
+247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com,pclive7.com##.entry-content img
 newswatch.co.in,peptechtime.com##.entry-content img:only-child
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 theeditors.net##.entry-content p img
@@ -2734,7 +2734,6 @@ voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
-pclive7.com##figure.wp-block-gallery
 dainikkushtia.net,news27.org##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 sanvadnews.com##figure.wp-block-table
