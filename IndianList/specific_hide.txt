@@ -786,8 +786,8 @@ news24bd.tv##.ad-ticker-right
 officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
-iamgujarat.com,samayam.com##.ad-wrapper-250
-alorkantho24.news,indiatimes.com,saaravita.lk,uttaranews24.com##.ad1
+iamgujarat.com,maharashtratimes.com,samayam.com##.ad-wrapper-250
+alorkantho24.news,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
@@ -1423,7 +1423,7 @@ doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
 tips4blog.com##.hot_rwc_ads
-indiatimes.com,vijaykarnataka.com##.hp-rhs-ads-container
+indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 ibc24.in##.hr_banner
@@ -2153,7 +2153,7 @@ kositimes.com##.vqtu
 livestorytime.com##.w3-section
 dainikazadi.net##.w3-top-ads-desktop
 lokshakti.in,thaiveedu.com##.wds_slider_cont
-iamgujarat.com,samayam.com##.wdt_amz
+iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com##.well
 sajhapost.com##.white-bg-half-ad
