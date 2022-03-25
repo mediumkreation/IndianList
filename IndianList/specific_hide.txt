@@ -1805,7 +1805,6 @@ janayugomonline.com##.sidebar-inside .widget_custom_html
 hetaudatoday.com##.sidebar-left-ad
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
-sabkasandesh.com##.sidebar-sticky-top .widget_block:not(#block-6)
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
@@ -2182,6 +2181,7 @@ amarsandesh.com##.widget_beside_slider
 avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 mahanaad.com##.widget_block:not(#block-37)
+sabkasandesh.com##.widget_block:not(#block-6)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 alivenews.co.in,athirvu.in,editorjee.com,kalkudahnation.com,livequicknews.in,manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
