@@ -1972,7 +1972,7 @@ vadakaravoice.com##.td-main-sidebar aside
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 dishadaily.com##.td-post-content .code-block
 sanjeevanisamachar.com##.td-post-content .master-slider
-vasundharadeep.news##.td-post-content .td-a-rec
+eaibanglai.com,vasundharadeep.news##.td-post-content .td-a-rec
 ehapurnews.com##.td-post-content > p>strong:only-child
 rashtrabodh.com##.td-post-content div[style*="float:left"] img
 bongobani.ca##.td-post-content figure figcaption
