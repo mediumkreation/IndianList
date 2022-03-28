@@ -57,6 +57,7 @@
 /add-$domain=navakal.in|solantoday.com|somoynewsbd.com
 /ADD.gif|$domain=paryabekhyak.com
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
+/add/*$domain=thenewspost.in
 /add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
 /add_$domain=shamolbangla24.com
 /AddImages/*$domain=thurannakathu.com
@@ -1055,10 +1056,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||coxsbazartimes.com/wp-content/uploads/2020/10/121910863_477192559903465_1125571012813218875_new.jpg
 ||cplusbd.net/wp-content/uploads/2020/02/700-x-100.jpg
 ||creative.hamropatro.com^$third-party,domain=farakdhar.com
-||creativenewsexpress.com^*/7march_om_sain$image
-||creativenewsexpress.com^*/dr-j-lal$image
-||creativenewsexpress.com^*/prkash-finel$image
-||creativenewsexpress.com^*/Sahas-Homeopathic$image
 ||cricbd24.com/wp-content/uploads/2014/06/Apollo_Ispat.gif
 ||crimenewsnetwork24.com/image/hrsoft.gif
 ||crimesuspence.com/gallery/129e9258e4389679faf7e9728a28b22d_270x350.jpg
@@ -1564,17 +1561,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||habiganjexpress.com^*/biggapon.gif
 ||hakikatnews.com/wsdata/wwwhakikatnewscom/news/202103/hakikat.jpg
 ||hakikatnews.com^*/hakikat$image
-||haldwanilive.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-02-at-2.59.35-PM
-||haldwanilive.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-04-at-11.33.18-AM
-||haldwanilive.com/wp-content/uploads/2020/02/pavitra-devbhoomi-tour-and-travel
-||haldwanilive.com/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-05-at-2.51.21-PM
-||haldwanilive.com/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-08-at-3.19.42-PM
-||haldwanilive.com/wp-content/uploads/2020/08/himalaya-school-haldwani.jpeg
-||haldwanilive.com^*/12-1-1024x626.jpg
-||haldwanilive.com^*/admission-open-abm
-||haldwanilive.com^*/bisht-udhyog-
-||haldwanilive.com^*/HALDWANILIVE-
-||haldwanilive.com^*/max-face-clinic
 ||hamaraghaziabad.com/wp-content/uploads/2020/09/bvoc$image
 ||hamarahathras.com/wp-content/uploads/2021/06/Nine-to-9-6x3-2.jpg
 ||hamarahathras.com/wp-content/uploads/2021/06/patanjali.jpg
@@ -4597,9 +4583,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*/Nirapad-pani.jpg$domain=uttaranews24.com
 ||wp.com^*/nnnn.jpg$domain=oporadhsangbad.com
 ||wp.com^*/Orthozen_NewsSide_Kannada.png$domain=tv5kannada.com
-||wp.com^*/prkash-finel.jpg$domain=creativenewsexpress.com
 ||wp.com^*/purano-nulet$domain=osnepal.com
-||wp.com^*/Sahas-Homeopathic$domain=creativenewsexpress.com
 ||wp.com^*/shivalik-river-retreat.jpg$domain=uttranews.com
 ||wp.com^*/shubha-love$domain=osnepal.com
 ||wp.com^*/Sidebar_Ads.gif$domain=uttaranews24.com
