@@ -1711,7 +1711,6 @@ ap7am.com##.pvt-ads-column
 indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
 brightpost.in##.quads-ad-label
-pangighatidanikapatrika.in##.quads-highlight-adblocked
 rajnitiprotidin.com##.qvzk
 madhyamam.com##.ramdan-ad-wrapper
 nepalipatra.com##.rd-ads
@@ -1905,14 +1904,13 @@ doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
 247superfast.com,aapkiaawaz.net,apnahimachalapnishaan.in,bastabbadi.com,bharatsamachartv.in,bograsangbad.com,cinenxt.com,dainikbhaskarup.com,devbhumijknews.in,divyadarpan.com,gandakivoice.com,hamarahimachal.com,himachalsamay.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
-pangighatidanikapatrika.in##.stream-item stream-item-above-footer
-newswing.com##.stream-item-above-footer
+newswing.com,pangighatidanikapatrika.in##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
 pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
-abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
+abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,pahar24.com,pangighatidanikapatrika.in##.stream-item-below-post-content
 amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
