@@ -593,7 +593,7 @@ moonramkonam.com###text-124
 bihardainik.com,bn.bdcrictime.com,hindustanlivetoday.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,sankalpsavera.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,mpbreaking.in,news24x365.com,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
-ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,swadeshbani.com,updatetimes.com###text-15
+ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,kalaroanews.com,manvadhikartimes.com###text-16
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,vanakkamlondon.com###text-17
 achhisoch.com,amaderparis.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com,vavuniyanet.com###text-18
@@ -1240,7 +1240,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
-bharatbarta.com,indiapolkhol.in,rcbrn.com,sachchadost.in##.entry-content .code-block
+bharatbarta.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
 chhattisgarhcrimes.in##.entry-content .g-single
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
@@ -2381,7 +2381,6 @@ battinews.com##a[href*="ad.battinews.com"]
 24ghanta.net##a[href*="adroll.com"]
 protidinersangbad.com##a[href*="ads-page"]
 uttranews.com##a[href*="advt-new"]
-sambadsaradin.com##a[href*="ajdg.solutions"]
 apnepal.com##a[href*="alljobvacancies.com"]
 bhaskarenews.com,hindlives.com,uttarbangasambad.com,vasundhara.net##a[href*="amzn.to"]
 khulasaonline.com##a[href*="angelbroking.com"]
