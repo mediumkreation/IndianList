@@ -766,7 +766,7 @@ cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 pankourinews.com##.ad img
-newsdnntv.com,pratyeknewslive.com##.ad--space
+chhattisgarhaaj.com,newsdnntv.com,pratyeknewslive.com##.ad--space
 eimuhurte.com,newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
@@ -2584,6 +2584,7 @@ nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
+chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
 deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 anweshanam.com##div.rhs > div:nth-child(n+4)
