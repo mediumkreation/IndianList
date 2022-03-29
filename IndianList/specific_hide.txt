@@ -1362,7 +1362,7 @@ bengaluruvartha.in,bharatnewsservice.com,doabatimes.com,gujaratmirror.in,malayal
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
-budaunamarprabhat.com##.header-inner #sidebar
+budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
 firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
