@@ -2813,6 +2813,7 @@ sankalpakhabar.com##main section.sk_banner
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
+nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(Advertisment))
 punjabiherald.co.nz##nav + div
 news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
