@@ -574,7 +574,7 @@ sanskardarshan.in###sticky-wrapper
 lokaantar.com###stickyAdBottom
 webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
-navakeralanews.com,newstruthlive.com###stream-item-widget-12
+navakeralanews.com###stream-item-widget-12
 liveuttarakhand.com###stream-item-widget-2
 aaryaanews.com,devbhumijknews.in,sangbadsafar.com,ssnewsindia.com,vvanews.in###stream-item-widget-3
 nalandareporter.com###stream-item-widget-4
@@ -1914,7 +1914,7 @@ gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in##
 pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
-abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,pahar24.com,pangighatidanikapatrika.in##.stream-item-below-post-content
+abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,newstruthlive.com,pahar24.com,pangighatidanikapatrika.in##.stream-item-below-post-content
 amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
