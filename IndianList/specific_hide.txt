@@ -807,7 +807,7 @@ bdtimesnews.com##.ad_text_box
 farakdhar.com,ratopati.com##.adalyticsblock
 lohagaranews24.com,thebharatnews.net##.adbox
 arthikawaj.com,kdnewslive.in,khabor.com,pchelplinebd.com,pradeshajjtak.com,rajnitiprotidin.com##.adcontainer
-ajkernarsingdi.com,ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dokhinercrime.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,jamunanewsbd.com,kathmandupati.com,lalsobujerkontho.com,narsingdipratidin.com,natunbazar24.com,news18.com,news4nation.com,newsatfirst.com,paharkantho.com,paribahanjagot.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,ratdinnews.net,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,thebarisal.com,uttorersomoy.com##.add
+ajkernarsingdi.com,ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dokhinercrime.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,jamunanewsbd.com,kathmandupati.com,lalsobujerkontho.com,narsingdipratidin.com,natunbazar24.com,news18.com,news4nation.com,newsatfirst.com,paharkantho.com,paribahanjagot.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,ratdinnews.net,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,thebarisal.com,uttorersomoy.com,vachakam.com##.add
 newsbijoy.com##.add .textwidget > h3.title
 bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
@@ -828,6 +828,7 @@ ajkersylhet.com,ekhansangbad.com,sambadsaradin.com##.add-image
 dainikagnipath.com,slogannews.com##.add-img
 dainiknarsingdi.com,sharebarta.com,sharebarta.net,sharesangbad.com##.add-imgae
 colorsnewslive.com,janaboli.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
+vachakam.com##.add-item
 u71news.com##.add-left
 dailysabuj.com##.add-longhead
 bnewskolhapur.com,shikkhakantho.com##.add-place
@@ -2721,6 +2722,7 @@ youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
 thehdnews.in##div[id^="thehd-"]
 thirdeyenewslive.com##div[id^="third-"]
+vachakam.com##div[id^="topmiddle"]
 truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
 truevisionnews.com##div[id^="truev-"] > img
 truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
