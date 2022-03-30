@@ -218,8 +218,9 @@ angindianews.com,barisaltoday.com,crimemukhbir.com,dainikjayantnews.com,dubaivar
 tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 ddnews24x7.com,thedastak24.com###custom_html-31
-ddnews24x7.com,saakshatv.com###custom_html-39
+ddnews24x7.com,gondwanaexpress.com,saakshatv.com###custom_html-39
 apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
+gondwanaexpress.com###custom_html-40
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
@@ -1578,7 +1579,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 gandakichhadke.com##.mkloyr-container
-24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,gondwanaexpress.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 manoramaonline.com##.mm-textlink-ad
 manoramaonline.com#@#.mmads
@@ -2371,7 +2372,6 @@ thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
 bangladeshonline24.com##a[href*=".ac.bd"]
-gondwanaexpress.com##a[href*="/ADvt-"]
 yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
@@ -2747,7 +2747,6 @@ dailybahadur.com##figure.wp-block-image > img
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
-gondwanaexpress.com##font
 glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 thakurgaon24newspaper.com##footer .wp-block-code
