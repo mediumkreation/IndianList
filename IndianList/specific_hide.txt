@@ -769,7 +769,7 @@ sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 pankourinews.com##.ad img
 chhattisgarhaaj.com,newsdnntv.com,pratyeknewslive.com##.ad--space
-eimuhurte.com,newsdnntv.com,pratyeknewslive.com##.ad--widget
+newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
 ekagaj.com##.ad-block-small
@@ -1120,6 +1120,7 @@ cgjanadesh.com##.bwp_gallery_slideshow
 himachaljanadesh.com##.bx-wrapper
 himachalnownews.com##.c_ad
 just36news.com,malayalamtodayonline.com##.carousel
+eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
@@ -1668,6 +1669,7 @@ jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
 tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
+eimuhurte.com##.popUPBox
 bonikbarta.net##.popupCloseButton
 abnews24.com,rtvonline.com##.popup_blackoverlay
 abnews24.com,rtvonline.com##.popup_whiteoverlay
@@ -1832,6 +1834,7 @@ newssanjal.com##.single-sidebar .post-carousel-1
 sansarnews.com##.single-sidebar-ads
 sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
+eimuhurte.com##.singleAds
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
@@ -2059,6 +2062,7 @@ themangaloremirror.in##.thema-aien
 natunshokal.com##.themesbazar_gallery_sec > .row:first-child > .col-md-6:first-child
 entevarthakal.com##.third_section_ads
 sangalokhabar.com##.three-col-ads
+eimuhurte.com##.threeAdsArea
 namasteandhra.com##.three_ads
 ourislam24.net##.ti-ads
 netmalayalam.com##.tigDiv
