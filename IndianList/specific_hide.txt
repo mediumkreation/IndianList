@@ -2882,6 +2882,7 @@ tamizhakam.com#?#p:-abp-contains(Advertisement)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
+unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h2 + p)
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h3 + p)
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
