@@ -1970,7 +1970,7 @@ insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 deshprahari.com,dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
 abtakmedia.com,thesummernews.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
-vision2020news.com##.td-main-sidebar .widget_custom_html
+egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
 vadakaravoice.com##.td-main-sidebar aside
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
@@ -1990,6 +1990,7 @@ prabhattimes.com##.td-post-content span[style="color: #ff0000;"]
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 amansavera.com##.td-spot-id-header
 mediamalayalam.com##.td-spot-id-sidebar
+egoomedia.com##.td-ss-main-content .code-block
 fatafatnews.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
 bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
