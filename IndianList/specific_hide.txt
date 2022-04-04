@@ -605,7 +605,7 @@ dainiksatkhira.com,vanakkamlondon.com###text-22
 divyalive.com,tnilive.com###text-23
 achhisoch.com,apnades.in,chirantannews.in,tnilive.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in###text-25
-tnilive.com###text-27
+satyamlive.com,tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
 garhwalkavikas.com###text-29 iframe
@@ -615,6 +615,7 @@ achhikhabar.com,live18h.com,tamizhdb.com###text-30
 e-jaffna.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
 allaiyoor.com###text-32
 satyamlive.com###text-33
+satyamlive.com###text-34
 satyamlive.com###text-35
 anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
