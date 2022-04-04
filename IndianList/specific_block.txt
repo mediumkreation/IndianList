@@ -5,6 +5,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
+-ad-Side-Bar.png|$domain=buxaruptodate.com
 -ad.gif|$domain=5dariyanews.com|clickmandu.com|kanakaionline.com|newsplus.lk|newssanjal.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
@@ -4343,9 +4344,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||tv19online.com/advnew/
 ||twentyfournews.com^*/Clint.jpg
 ||udaipurkiran.com/wp-content/uploads/2020/05/mds-600x600.jpg
-||udayindiahindi.in/wp-content/uploads/2021/02/1.gif
-||udayindiahindi.in/wp-content/uploads/2021/02/2.gif
-||udayindiahindi.in/wp-content/uploads/2021/02/3.gif
 ||udupitimes.com/wp-content/uploads/2021/08/band1.jpg
 ||udupitimes.com/wp-content/uploads/2021/08/meatband.jpg
 ||udupitimes.com^*/silas-school.jpg
