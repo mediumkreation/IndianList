@@ -180,6 +180,7 @@ focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
 kelanchaltimes.com###content .stream-item
 giridihupdates.com###content .widget_block
+kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
 news129.com###content center img
 samajalive.in###content div[data-adid]
@@ -1017,6 +1018,8 @@ canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
+kabirkiawaz.in##.av_slied
+kabirkiawaz.in##.avv_custom
 dnewsnetwork.in##.awac img.image
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
