@@ -540,7 +540,7 @@ newstodaycg.com###sidebar-primary-sidebar > .widget:not([id^="bs-"])
 khabarcgnews.com###sidebar-right .widget_block
 khamoshduniya.com###sidebar-right .widget_custom_html
 24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
-chirantannews.in,khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,trustnews24.com,vbnews24.com###sidebar-right .widget_media_image
+chirantannews.in,khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,vbnews24.com###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
@@ -996,6 +996,7 @@ dainiknepal.com,enepalese.com,samayapost.com##.advt_bx
 enepalese.com,samayapost.com##.advt_r
 newsplus24x7.com##.advtertise
 citykhabre.com##.adwrp
+trustnews24.com##.af-middle-header .content_block
 updatenews360.com##.aft-sticky-sidebar
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
