@@ -453,7 +453,6 @@ kusenews.com###pgc-7-1-1
 lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
 dineshkhabar.com###popBlkAd
-dakhalchhattisgarh.com###popup
 rojgarlive.com###popup_indiv2
 dhamaka36.com###post-22
 jagprerna.com###post-7708
@@ -1053,6 +1052,7 @@ rosemalayalam.com##.banner_slider
 am.lk,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
+dakhalchhattisgarh.com##.bc_random_banner
 iamgujarat.com,samayam.com##.bccl-ad-wrapper
 muktijoddharkantho.com##.bd-sidebar .widget_text
 humarabikaner.com##.bdaia-above-header
