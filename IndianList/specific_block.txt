@@ -75,6 +75,7 @@
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
+/advertisements/$domain=abhiyandaily.com
 /advertisements/*$domain=nepalipatra.com
 /ajadds/*$domain=andhrajyothy.com
 /banner-$domain=navakal.in
@@ -127,6 +128,7 @@
 @@-advertisement.$domain=newswaves.org
 @@/ad/live-$domain=abnews24bd.com
 @@favicon.ico|
+@@||abhiyandaily.com/advertisements/abhiyan-viber.gif
 @@||anweshanam.com/static/ad/commons/js/3445/colombia_v11.js
 @@||avadh24.in/mynewsadmin/img/add/add1610095077.jpeg
 @@||bangalorewaves.com/images/Banner/classifieds.jpg
