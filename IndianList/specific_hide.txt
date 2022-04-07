@@ -1641,6 +1641,7 @@ bishwanathbd24.com##.newspaper-advertisement
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
+wayanadnewsdaily.com##.no-bg-box-model
 narayanionline.com##.no-premodal-md
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
@@ -2231,6 +2232,7 @@ aajkaaditya.in,independentcitizennews.com,news24x365.com,thefourthmirror.com,the
 kalikadainik.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 dainik4media.com##.widget_nivo_slider_widget
+wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
@@ -2709,7 +2711,6 @@ dainikchintak.com##div[id^="daini"]
 dakshinapath.com##div[id^="daksh-"]
 doabatimes.com##div[id^="doaba-"]
 eadarsha.com##div[id^="eadar-"]
-wayanadnewsdaily.com##div[id^="edtinawuv-"]
 apkhabar.com##div[id^="goji_yo"]
 himachalplus.com##div[id^="himac-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
