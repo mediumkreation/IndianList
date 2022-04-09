@@ -10,7 +10,7 @@
 ||faridpurprotidin.com^$third-party,domain=sundarbontimes.com
 ||flickstree.com$third-party
 ||gceleritasads.com^$third-party
-||hentaibaka.one^
+||hentaibaka.one^$third-party
 ||limray.com^$third-party,domain=uttranews.com
 ||pc5ads.com$third-party
 ||pclicc1.com^$third-party
