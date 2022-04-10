@@ -1679,8 +1679,8 @@ tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
 eimuhurte.com##.popUPBox
 bonikbarta.net##.popupCloseButton
-abnews24.com,rtvonline.com##.popup_blackoverlay
-abnews24.com,rtvonline.com##.popup_whiteoverlay
+rtvonline.com##.popup_blackoverlay
+rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
 cglivenews.co.in##.post > .a-single
 media24media.com##.post > a img
@@ -2110,6 +2110,7 @@ samacharplus.com##.top_advertize
 prabhabonline.com##.top_banner
 ni24news.com##.top_index_block_adnow
 nrimalayalee.com##.top_most_news_post_ad
+abnews24.com##.top_new_add
 gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com##.topadd
 bdkhobor24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
