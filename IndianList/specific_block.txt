@@ -1028,6 +1028,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||comillaweb.com^*/ibikroy_ads.jpg
 ||cotlasweb.in^$third-party,domain=citypostlive.com
 ||cotlasweb.in^*/web-design.png
+||countrynewstoday.com^*/RO-NO-
+||countrynewstoday.com^*/RO_NO_
 ||coxbangla.com/wp-content/uploads/2020/09/MARS-travel-and-tour-logo.jpg
 ||coxbangla.com/wp-content/uploads/2020/09/Protima-Web-Site-Cover-page-logo1-A.jpg
 ||coxbangla.com^*/asian-age.jpg

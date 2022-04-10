@@ -1871,7 +1871,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-countrynewstoday.com,dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
+dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
@@ -2870,7 +2870,7 @@ nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
-bidrohee.com,countrynewstoday.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
+bidrohee.com,drukpadam.com,uttarkal.com,youthexpress.in##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
 sbharatnews.com##section.widget_media_gallery
