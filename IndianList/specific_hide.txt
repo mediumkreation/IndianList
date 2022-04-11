@@ -252,7 +252,7 @@ jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
-chattolarkhabor.com,crimecapital.in,indiavisionmedia.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
+chattolarkhabor.com,indiavisionmedia.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
 newsbazar24.com###header .col-lg-7
 odishamirror.com###header .sidebar
 digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
@@ -1152,7 +1152,7 @@ channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
-anugrahavision.com,azhimukham.com,khabreelal.com##.colombiaadcode
+anugrahavision.com,azhimukham.com,crimecapital.in,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -2609,6 +2609,8 @@ bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
+crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
+crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
 deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 anweshanam.com##div.rhs > div:nth-child(n+4)

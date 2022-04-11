@@ -89,6 +89,7 @@
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|polkholindia.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
+/can//cde/$domain=crimecapital.in
 /can//cde/*$domain=dalhousiehulchul.com|metrojournalonline.com|newzfast.com|samayduniya.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
@@ -137,6 +138,7 @@
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
+@@||crimecapital.in/static/ad/*/colombia_v11.js
 @@||emsindia.com/images/logo/1.png
 @@||enewsmp.com/uploaded_files/banner_img/enewsmp.com5f181c1882f7434.jpeg
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
