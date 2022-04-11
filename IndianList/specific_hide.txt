@@ -522,6 +522,7 @@ kannadaprabha.com###section_content_check_518
 sawalnepal.com###section_right .ad
 dinamalar.com###selum
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
+doonhorizon.in###showAS_O_BEL_0
 just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
@@ -2759,6 +2760,7 @@ news18.com##div[style*="300px"][style*="background"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
+doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
