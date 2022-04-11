@@ -1160,6 +1160,7 @@ khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
 utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
+bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
