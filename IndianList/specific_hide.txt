@@ -1146,6 +1146,7 @@ newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
+navarashtra.com##.code-block:not(.code-block-10)
 bankingkhabar.com##.codeneric_uam_link
 hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
