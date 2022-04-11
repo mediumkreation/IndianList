@@ -2054,7 +2054,7 @@ kasaragod.com##.theiaStickySidebar .text-html-box
 pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
 jagatbhumi.com##.theiaStickySidebar .wdslider
 apnahimachalapnishaan.in,rghnews.com,rightnewsindia.com##.theiaStickySidebar .widget_block
-bharatnews18.in,bheldailynews.com,bograsangbad.com,mithilacitynews.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
+bharatnews18.in,bheldailynews.com,bograsangbad.com,countrynewstoday.com,mithilacitynews.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
 aajexpress.com,acpnews24.com,anidda.lk,aryasamay.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,dainandini.in,hamarahimachal.com,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,kadwaghut.com,khaskhabar24.com,lokshakti.in,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parmantimes.in,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,sunmision.tv,tosnews.com,ujjawalprabhat.com,vedantbhoomi.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
@@ -2613,6 +2613,7 @@ bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
+countrynewstoday.com#?#center:-abp-has(img[src*="/RO_NO"])
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
 deshclick.com#?#*:-abp-has(> .AdvtSample)
