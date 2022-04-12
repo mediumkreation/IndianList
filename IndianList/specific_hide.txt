@@ -8,7 +8,7 @@ metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 utkalpratidin.com###HP_O_LHS_8
 atalsamachar.com###HP_O_TP_2 > div ~ div
-actionnews.in,balotranewstrack.com,hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
+actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
 chilahatiweb.com,jaldhakanews.com,media24media.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,dailyhealthletters.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,rewanewsmedia.com###HTML11
@@ -27,10 +27,10 @@ nandednewslive.com###HTML22
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
-36kaakda.in,battinews.com,thattungal.com###HTML3
+36kaakda.in,battinews.com,kanaighatnews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
 99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
-36kaakda.in,99samacharexpress.in,chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
+36kaakda.in,99samacharexpress.in,chilahatiweb.com,eluvannews.com,kanaighatnews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,visarnews.com###HTML5
 taazakhoj.com###HTML6
