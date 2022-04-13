@@ -1166,7 +1166,6 @@ sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
 news24delhi.com##.container .container #page-sidebar
-reportersnepal.com##.container .pt-3 section
 upbhoktajanghosh.com##.container > .features-today-box:only-child
 udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
@@ -2491,8 +2490,7 @@ gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 newstodaynetwork.com##a[href*="narayan98.co.in"]
 news4himalayans.com##a[href*="narendramodi.in"]
 arthasarokar.com##a[href*="nbbl.com.np"]
-hpnewsatl.com##a[href*="neelabazar.com"]
-reportersnepal.com##a[href*="nepallife.com.np"]
+hpnewsatl.com##a[href*="neelabazar.com"
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
 gramajyothi.com##a[href*="nirapara.com"]
@@ -2505,7 +2503,6 @@ ethiri.com##a[href*="pipaffiliates.com"]
 tamilolli.com##a[href*="pna-aerial.fr"]
 uttranews.com##a[href*="pokhran_hindi"]
 attachowk.com,vijaychowk.com##a[href*="prabhatnamkeen.com"]
-reportersnepal.com##a[href*="prabhulife.com"]
 sarakhon.com##a[href*="premierbankltd.com"]
 samastipurtoday.in##a[href*="primacyinfotech.samritmart.com"] img
 eelamalar.com##a[href*="pulikalinkural.com"]
@@ -2776,7 +2773,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 dainikkushtia.net,news27.org##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
-vtvvitla.com##figure.wp-block-image.size-large
+reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
@@ -2876,7 +2873,7 @@ samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 aayomail.com,bikastimes.com,deshkonews.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
-himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com##section.widget img
+himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com,reportersnepal.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
