@@ -382,7 +382,6 @@ khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 liveindiakhabar.in,madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
 middleeastchandrika.com###mep_0
-ganthan.com###messagem
 ganthan.com###messagem1
 tarunchhattisgarhkorba.com###metaslider-id-56652
 smnewshimachal.in###metaslider-id-8121
@@ -1173,6 +1172,7 @@ udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
+ganthan.com##.content-area aside.widget_media_image
 dinamani.com##.content-av
 lalkhabar.com##.content-banner
 chapaibarta24.com##.content-box-ads
