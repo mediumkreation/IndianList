@@ -1697,6 +1697,7 @@ agraleaks.com##.post-content > figure > img:only-child
 munaadi.com##.post-content ~ .img-responsive
 khasokhas.com##.post-entry .code-block
 akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
+purvanchal24.com##.post-footer > [dir="ltr"] img
 probashirdiganta.com##.post-header .bg-e2e2e2
 sonalibanglanews.com##.post-inner .code-block img
 mannarkkadlive.com##.post-inner-image
