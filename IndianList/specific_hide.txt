@@ -2777,6 +2777,7 @@ dailysobujbarta.com##figure.vc_figure
 dainikkushtia.net,news27.org##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
+arlivenews.com##figure.wp-block-image.size-large img:not([src*=udaipur-uit-])
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
