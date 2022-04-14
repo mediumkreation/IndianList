@@ -1372,6 +1372,7 @@ newsdnntv.com##.header--ad
 sodhpatra.com##.header-ad-widget
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
+divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 bengaluruvartha.in,bharatnewsservice.com,doabatimes.com,gujaratmirror.in,malayalamdailynews.com,sunlightnews.in##.header-ainfo
@@ -2225,13 +2226,14 @@ trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
 bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,divyalive.com,expressindian.co.in,fatehnagarnews.com,kannadanewsnow.com,kanodnews.com,lokalok.in,mariahulive.com,nationupdate.in,newsfact.in,reporter24x7.com,samachardoot.in,samacharhouse.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
+alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,expressindian.co.in,fatehnagarnews.com,kannadanewsnow.com,kanodnews.com,lokalok.in,mariahulive.com,nationupdate.in,newsfact.in,reporter24x7.com,samachardoot.in,samacharhouse.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 pplnews.in##.widget_media_image:not(#media_image-13)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 kmassnews.com##.widget_media_image:not(#media_image-2):not(#media_image-6)
 heralokhabar.com##.widget_media_image:not(#media_image-27)
+divyalive.com##.widget_media_image:not(#media_image-28):not(#media_image-49)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 divyadarpan.com##.widget_media_image:not(#media_image-38)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
@@ -2575,7 +2577,6 @@ angulonline.com#?#.elementor-widget-wrap:-abp-has(> .elementor-widget-heading > 
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
-divyalive.com##article.single > div[style*="float"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 gtamilnews.com,tv24live.com##aside .widget_media_image
