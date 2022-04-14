@@ -2328,7 +2328,7 @@ hpnewsatl.com,nammabantwala.com##.wp-video
 theruralpress.in##.wpb-outer-wrap
 atharvnews.com,rashtrabodh.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-aadarshhimachal.com,channelionline.com,delhicrimepressnews.com##.wpb_content_element img
+channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
