@@ -217,7 +217,7 @@ aavakaaya.in###custom_html-25
 saakshatv.com###custom_html-26
 saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com###custom_html-3
+angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 thedastak24.com###custom_html-31
@@ -289,8 +289,6 @@ vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
 cellitnews.com###logoright
-voiceoffreedom.in###magazine-plus-image-6
-voiceoffreedom.in###magazine-plus-image-8
 chandpurreport.com###main .code-block
 jansangathan.com###main .container
 newsuperbharat.com###main .widget_custom_html
