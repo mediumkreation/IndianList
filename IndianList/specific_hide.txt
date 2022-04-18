@@ -729,7 +729,7 @@ indurkanibarta.com##.Add
 deshergarjan.net##.Add img
 newsdustak.com##.Add-Master-Sside1
 deshclick.com,punjabiinholland.com,sachikalam.com##.AdvtRight
-sachikalam.com##.AdvtSample
+pinakatimes.com,sachikalam.com##.AdvtSample
 tutyonline.net##.Amain
 janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
@@ -2787,6 +2787,7 @@ thakurgaon24newspaper.com##footer .wp-block-code
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
+pinakatimes.com##iframe[class^="FrameAdvt"]
 anweshanam.com,hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
