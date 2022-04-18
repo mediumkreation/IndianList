@@ -925,7 +925,6 @@ hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
 thecgnews.com##.ads120_60-widget
 seithy.com##.ads400pxinner
-eenadu.net##.ads680-30
 aapkiaawaznews.com##.adsImg_section
 vtvgujarati.com##.adsSection
 epaper.lokmat.com##.ads_699
@@ -2667,6 +2666,7 @@ uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com##div[class*="vigyapan"] > :not(.custom-html-widget)
 himalayanupdate.com,jagmarg.com,punjabipost.ca##div[class^="AdvtSample"]
 news18.com##div[class^="HomeMobile_mobile_add"]
+eenadu.net##div[class^="ad-block"]
 dailyjonomot.com##div[class^="add_"]
 bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
