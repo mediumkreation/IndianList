@@ -373,7 +373,7 @@ smj24.com###media_video-1
 dainikkhabarlayehain.com###media_video-13
 derbykhabar.com,divyalive.com###media_video-16
 derbykhabar.com###media_video-17
-derbykhabar.com###media_video-18
+derbykhabar.com,ts29.in###media_video-18
 dainikjayantnews.com,dubaivartha.com,globalnews24x7.com,hpnewsatl.com,indianamo.com,pradeshnews24x7.com###media_video-2
 apnades.in,dandikaanthi.com,digitaltrend-news.com,heralokhabar.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,newswayanad.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
@@ -1235,7 +1235,7 @@ newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 bhartiyakhabar.in##.elementor-widget-image figure
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
@@ -2061,7 +2061,7 @@ apnahimachalapnishaan.in,rghnews.com,rightnewsindia.com##.theiaStickySidebar .wi
 bharatnews18.in,bheldailynews.com,bograsangbad.com,countrynewstoday.com,mithilacitynews.in,navsatta.com,pangighatidanikapatrika.in,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
-aajexpress.com,acpnews24.com,anidda.lk,aryasamay.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,dainandini.in,hamarahimachal.com,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,kadwaghut.com,khaskhabar24.com,lokshakti.in,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parmantimes.in,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,sunmision.tv,tosnews.com,ujjawalprabhat.com,vedantbhoomi.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
+aajexpress.com,acpnews24.com,anidda.lk,aryasamay.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,dainandini.in,hamarahimachal.com,hindustandailynews.com,inn24news.in,jansaamna.com,k24news.in,kadwaghut.com,khaskhabar24.com,lokshakti.in,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,pahadsmachar.com,parmantimes.in,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,sunmision.tv,tosnews.com,ts29.in,ujjawalprabhat.com,vedantbhoomi.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
 lokshakti.in,parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
