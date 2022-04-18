@@ -2357,7 +2357,7 @@ hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 dainikbharatbhaskar.com##.wpb_wrapper > p img
 ptcnews.tv##.wpb_wrapper aside.widget_media_image
-prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
+newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 abtnews.in,boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
