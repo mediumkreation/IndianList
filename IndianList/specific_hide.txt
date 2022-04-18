@@ -545,7 +545,7 @@ khabarcgnews.com###sidebar-right .widget_block
 khamoshduniya.com###sidebar-right .widget_custom_html
 24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
 munaadi.com###sidebar-right .widget_media_gallery
-chirantannews.in,khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,vbnews24.com###sidebar-right .widget_media_image
+khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,vbnews24.com###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
@@ -601,15 +601,15 @@ gangalahar.com###text-14 iframe
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,kalaroanews.com,manvadhikartimes.com###text-16
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,vanakkamlondon.com###text-17
-achhisoch.com,amaderparis.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com,vavuniyanet.com###text-18
+achhisoch.com,amaderparis.com,banglarkonthosor.com,sambadsaradin.com,vavuniyanet.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,gnewsindia.com,sambadsaradin.com,updatetimes.com###text-19
 abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,binodonnews24.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,kositimes.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
-amaderparis.com,chirantannews.in,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanakkamlondon.com###text-20
+amaderparis.com,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
 divyalive.com,tnilive.com###text-23
-achhisoch.com,apnades.in,chirantannews.in,tnilive.com###text-24
+achhisoch.com,apnades.in,tnilive.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in###text-25
 satyamlive.com,tnilive.com###text-27
 indianow24.com###text-28
@@ -1372,7 +1372,7 @@ newsdnntv.com##.header--ad
 sodhpatra.com##.header-ad-widget
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
-divyalive.com#@#.header-ads
+chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 bengaluruvartha.in,benkiyabale.com,bharatnewsservice.com,doabatimes.com,gujaratmirror.in,malayalamdailynews.com,sunlightnews.in##.header-ainfo
