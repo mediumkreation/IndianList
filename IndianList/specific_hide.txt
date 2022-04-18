@@ -1231,6 +1231,7 @@ channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-ma
 alertchhattisgarh.com##.elementor-element-37731bf
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
+todaypostlive.com##.elementor-image a[target="_blank"]
 delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
 zoombangla.com##.elementor-widget-html img
@@ -2755,6 +2756,7 @@ youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
 thehdnews.in##div[id^="thehd-"]
 thirdeyenewslive.com##div[id^="third-"]
+todaypostlive.com##div[id^="today-"]
 vachakam.com##div[id^="topmiddle"]
 truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
 truevisionnews.com##div[id^="truev-"] > img
