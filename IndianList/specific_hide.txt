@@ -2256,6 +2256,7 @@ nepalraftar.com##.widget_sso_advertisement
 36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
 jenerakhun.com##.widget_text .td-all-devices
 dastavej.in##.widget_text iframe
+dainikparibarton.com##.widget_text.widget_area
 chandrikadaily.qa##.widget_viral_advertisement
 mathabhanga.com##.widget_viy
 thirdeyetoday.com##.widget_youtube_responsive
