@@ -1499,7 +1499,6 @@ koyilandydiary.com##.koyil-widget
 sabaikosamachar.com##.kp-header-logo--section .d-sm-block
 sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
-malayalamexpress.in##.kptcae-pubadban
 kannurnewsonline.com##.ktmjq
 kanakaionline.com##.large-adv
 prakashkhabar.com##.last_ads
@@ -1606,7 +1605,6 @@ everesttimes.net,newswings.online,pclive7.com##.mom-e3lanat
 janatarishtehaar.com##.mom_box_sc
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
-malayalamexpress.in##.mtk-pubadban
 sandhannews.com##.mtphr-dnt-widget
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in,thepublicnews.live##.mvp-flex-ad
@@ -1648,6 +1646,7 @@ punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
 wayanadnewsdaily.com##.no-bg-box-model
+malayalamexpress.in##.no-bg-box-model img
 narayanionline.com##.no-premodal-md
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
@@ -2335,7 +2334,7 @@ hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
-khobor71.com,malayalamexpress.in##.wpb_raw_code img
+khobor71.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 alamkikhabar.in,attingalvartha.com,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
