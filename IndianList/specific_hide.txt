@@ -150,7 +150,7 @@ samrudhaodisha.com###block-20
 hnn24x7.com###block-23
 hnn24x7.com,purvanchalsandesh.com###block-24
 khabarcgnews.com###block-27
-jharkhand-news.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
+newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
@@ -1482,6 +1482,7 @@ ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
 shreekanchanpath.com##.jegStickyHolder .widget_text
+jharkhand-news.com##.jhark-content
 joginderposwal.com##.jogin-widget
 jonopodsangbad.com##.jonop-content
 abhibharat.com##.jur
