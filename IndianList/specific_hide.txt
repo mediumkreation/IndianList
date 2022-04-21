@@ -209,7 +209,7 @@ dnspnews.in###custom_html-169
 muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
@@ -2223,7 +2223,7 @@ trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
 bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,currentnewz.in,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,expressindian.co.in,fatehnagarnews.com,kannadanewsnow.com,kanodnews.com,lokalok.in,mariahulive.com,nationupdate.in,newsfact.in,reporter24x7.com,samachardoot.in,samacharhouse.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
+alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,currentnewz.in,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,expressindian.co.in,fatehnagarnews.com,kannadanewsnow.com,kanodnews.com,lokalok.in,mariahulive.com,nationupdate.in,newsfact.in,reporter24x7.com,samachardoot.in,samacharhouse.com,sbdnews24.com,shauryatimes.com,sunamganjerkhobor.com,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 pplnews.in##.widget_media_image:not(#media_image-13)
 tazakhabar36garh.com##.widget_media_image:not(#media_image-2)
