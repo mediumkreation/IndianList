@@ -1246,7 +1246,6 @@ truelinenews.com##.elementor-widget-slides
 kannadanewsnow.com##.elementor-widget-spacer
 himalipatrika.com.np##.elementor-widget-text-editor
 abbiharnews.com,keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
-metrovaartha.com##.embed-responsive-16by9
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
 jagatbhumi.com##.entry img
@@ -1521,7 +1520,6 @@ radionrn.com##.logo-adverimg
 sylhetprotidin24.net##.logo-banner .pull-right
 bcsuddi.com,vtv24x7.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
-metrovaartha.com##.logoBgAd
 dhunkhabar.com##.logo__ads
 weeklydesh.co.uk##.logoright
 arthakoartha.com,manoranjansansar.com,palikanews.com##.long-ad
