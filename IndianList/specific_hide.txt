@@ -1964,7 +1964,7 @@ bholahatchitro.com,khulnatimes.com,politalks.news,shadhinalo.com##.td-a-rec-id-c
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
-myagdikali.com,powertvnews.in##.td-a-rec-id-custom-spot
+powertvnews.in##.td-a-rec-id-custom-spot
 newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailybanglarrup.com,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
@@ -2351,6 +2351,7 @@ wishavwarta.in##.wpb_widgetised_column .wp-block-image
 aadarshhimachal.com##.wpb_wrapper .rll-youtube-player
 pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 bdcrictime.com,dailybanglarrup.com##.wpb_wrapper .vc_raw_html
+myagdikali.com##.wpb_wrapper .vc_raw_html img
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 awazlive.com##.wpb_wrapper .wpb_single_image
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
