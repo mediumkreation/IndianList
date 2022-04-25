@@ -1242,6 +1242,7 @@ namasteandhra.com##.elementor-widget-image img:not([srcset])
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
 theeditor24.com##.elementor-widget-penci-featured-boxes
 punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
+punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 truelinenews.com##.elementor-widget-slides
 kannadanewsnow.com##.elementor-widget-spacer
 himalipatrika.com.np##.elementor-widget-text-editor
