@@ -343,7 +343,7 @@ starbanglanews.net###media_image-32
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 sheikhpuranews.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
-bharatnews18.in,bhawalbarta.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
+bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
 sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
@@ -1801,7 +1801,6 @@ madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com,newsnow24.com##.sidebar .widget_media_image
-chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
 jokhimnews.com##.sidebar .widget_text
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
