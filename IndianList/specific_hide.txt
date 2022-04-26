@@ -90,6 +90,7 @@ udayavani.com###ads
 hastakshep.com###ads300_600-widget-3
 seithy.com###ads400px
 press4news.live###adsBanner
+nethgossip.lk###ads_hide
 news24nepal.tv###adv
 newsnib.in###advertisement
 torontotamil.com###advertsub2
@@ -1204,7 +1205,6 @@ timeskerala.com##.dfx-pubadban
 ejanshakti.com##.dgw
 dhakanewsexpress.com##.dhaka-content
 surabhisaloni.co.in##.dialog-widget
-nethgossip.lk##.display-lap
 biniyogbarta.com,biniyougbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
