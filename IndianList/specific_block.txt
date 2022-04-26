@@ -4319,11 +4319,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||truebodh.com$third-party,domain=hamarahathras.com
 ||truelinenews.com/wp-content/uploads/2021/05/IMG-20210322-WA0014
 ||truelinenews.com/wp-content/uploads/2021/05/IMG-20210405-WA0017.jpg
-||truevisionnews.com/wp-content/uploads/2016/11/q-new.gif
-||truevisionnews.com/wp-content/uploads/2017/05/qt-d-casa.gif
-||truevisionnews.com/wp-content/uploads/2017/10/york34.gif
-||truevisionnews.com/wp-content/uploads/2018/04/300-x-250-pix.jpg
-||truevisionnews.com/wp-content/uploads/2020/01/CHEMMANNUR-copy.jpg
 ||ttinews.in//add/
 ||ttinews.in/images/wa.jpeg
 ||tv19online.com/advban/
@@ -4447,7 +4442,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||varendrabarta.com^*/mbl.jpg
 ||varendrabarta.com^*/Varendra-Barta.jpg
 ||varthabharati.in^*/WSN-UDAYAVANI-1.gif
-||vatakara.truevisionnews.com/vatakara-news/uploads/2017/06/TB-15-6-17-B.gif
 ||vavuniyanet.com^*/Singer.jpg
 ||vavuniyanet.com^*Advent$image
 ||vavuniyanet.com^*Poonthottam$image

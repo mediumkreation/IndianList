@@ -125,7 +125,6 @@ dinamina.lk,ilamai.com,sitakundabarta.com###banner
 jogsanjogtimes.com###banner .tcycle img
 jogsanjogtimes.com###banner .tcycle ~ p img
 devbhoomidarshan17.com###banner-10
-truevisionnews.com###bannerCarousel1
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
@@ -2388,7 +2387,6 @@ divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
 gtamilnews.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
-truevisionnews.com##[id^="sgpb-"]
 pagetamil.com##[id^="td_uid_3"]
 thestellarnews.com##[id^="thest-"]
 sunnews24x7.com##a .adv-vload
@@ -2430,7 +2428,7 @@ gramajyothi.com##a[href*="bobychemmanur.com"]
 gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
-dailyindianherald.com##a[href*="chemmanurinternational.com"]
+dailyindianherald.com,truevisionnews.com##a[href*="chemmanurinternational.com"]
 tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
 cinereporters.com,dailyharyananews.com,janprahar.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com##a[href*="click.htm?"][target="_blank"]
@@ -2517,6 +2515,7 @@ sangbaddinrat.com##a[href*="pustokbazar"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
+truevisionnews.com##a[href*="royalwedds.in"]
 ourmyliddy.com##a[href*="rv-weddinghall"]
 sharebarta24.com##a[href*="seapearlbd.com"]
 seithy.com##a[href*="splads"]
@@ -2615,6 +2614,7 @@ steelcity.online##body > .container > .row:first-child > div:last-child
 nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
+truevisionnews.com##center div[style="padding:20px;"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
@@ -2760,9 +2760,6 @@ thehdnews.in##div[id^="thehd-"]
 thirdeyenewslive.com##div[id^="third-"]
 todaypostlive.com##div[id^="today-"]
 vachakam.com##div[id^="topmiddle"]
-truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
-truevisionnews.com##div[id^="truev-"] > img
-truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
 visiontimes.news##div[id^="vision-"]
 navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
