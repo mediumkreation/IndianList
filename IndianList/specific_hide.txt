@@ -91,6 +91,7 @@ hastakshep.com###ads300_600-widget-3
 seithy.com###ads400px
 press4news.live###adsBanner
 nethgossip.lk###ads_hide
+nethnews.lk###ads_hide img
 news24nepal.tv###adv
 newsnib.in###advertisement
 torontotamil.com###advertsub2
@@ -2612,7 +2613,6 @@ bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 steelcity.online##body > .container > .row:first-child > div:last-child
-nethnews.lk##body > div[style^="z-index:"]
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 truevisionnews.com##center div[style="padding:20px;"]
