@@ -1253,7 +1253,6 @@ jagatbhumi.com##.entry img
 dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
-newswings.online##.entry-content .alignnone:only-child
 uksuddi.in##.entry-content .bsac
 bharatbarta.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
 chhattisgarhcrimes.in##.entry-content .g-single
@@ -1265,6 +1264,7 @@ prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
 emaatimes.com,jangathatimes.com##.entry-content > p img
+newswings.online##.entry-content > p img:only-child
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
 dainikkhabraan.com##.entry-content div[class*="daini-"]
@@ -1603,7 +1603,7 @@ bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
-everesttimes.net,newswings.online,pclive7.com##.mom-e3lanat
+everesttimes.net,pclive7.com##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 janatarishtehaar.com##.mom_box_sc
 chattogramersomoy.com##.mom_e3lan-empty
@@ -2778,7 +2778,7 @@ voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
-dainikkushtia.net,news27.org##figure.wp-block-image
+dainikkushtia.net,news27.org,newswings.online##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
 arlivenews.com##figure.wp-block-image.size-large img:not([src*=udaipur-uit-])
