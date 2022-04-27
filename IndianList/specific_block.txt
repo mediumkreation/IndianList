@@ -1273,6 +1273,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||digitalbanglanews.com/wp-content/uploads/2019/01/aristaadd.gif
 ||digitalbharatnews-in.stackstaging.com/wp-content/uploads/2020/08/2020-08-08.png
 ||digitalbharatnews.in/wp-content/uploads/2021/02/POSTER.jpeg
+||digitalbharatnews.in^*/e-stamp-banner_
 ||digitalmalayali.com/resources/ad/
 ||digitaloceanspaces.com^$third-party,domain=dekhapadhi.com
 ||digitaloceanspaces.com^*/275-220.gif$domain=nepalaaja.com
