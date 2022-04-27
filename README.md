@@ -11,6 +11,7 @@ This is an adblock filter list supplement for [EasyList](https://github.com/easy
 | Gujarati  | ગુજરાતી 
 | Punjabi   | ਪੰਜਾਬੀ
 | Assamese  | অসমীয়া
+| Maithili  | मैथिली
 | Marathi   | मराठी
 | Tamil     | தமிழ்
 | Malayalam | മലയാളം  
