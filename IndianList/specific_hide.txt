@@ -600,8 +600,8 @@ moonramkonam.com###text-124
 bihardainik.com,bn.bdcrictime.com,hindustanlivetoday.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,mpbreaking.in,news24x365.com,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
-ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
-fatehnagarnews.com,gadhsamvedna.com,kalaroanews.com,manvadhikartimes.com###text-16
+ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,janvadtimes.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
+fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,kalaroanews.com,manvadhikartimes.com###text-16
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,updatesatkhira.com,vanakkamlondon.com###text-17
 achhisoch.com,amaderparis.com,banglarkonthosor.com,sambadsaradin.com,vavuniyanet.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,gnewsindia.com,sambadsaradin.com,updatetimes.com###text-19
@@ -611,7 +611,7 @@ amaderparis.com,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanak
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
 divyalive.com,tnilive.com###text-23
-achhisoch.com,apnades.in,tnilive.com###text-24
+achhisoch.com,apnades.in,janvadtimes.com,tnilive.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in###text-25
 satyamlive.com,tnilive.com###text-27
 indianow24.com###text-28
