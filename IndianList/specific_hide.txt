@@ -1959,7 +1959,7 @@ newstrendz.co.in##.td-a-rec iframe
 abhayindia.com,abhishektimes.in.net,cinesamugam.com,creativenewsexpress.com,smnewshimachal.in,thegramtodaydailynews.com##.td-a-rec img
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 crimeuttarakhand.in,dhunga.in,rantraibaar.in##.td-a-rec video
-bdnews.live,bholahatchitro.com,khulnatimes.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
+bholahatchitro.com,khulnatimes.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
