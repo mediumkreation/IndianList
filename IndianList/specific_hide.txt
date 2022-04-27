@@ -142,7 +142,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,paridarshaka.com###block-10
 paridarshaka.com###block-11
-sachetonbarta.com.bd###block-14
+ghaziabad365.com,sachetonbarta.com.bd###block-14
 samrudhaodisha.com###block-15
 samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
@@ -1262,6 +1262,7 @@ chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
+ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
