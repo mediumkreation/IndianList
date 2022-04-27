@@ -142,7 +142,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,paridarshaka.com###block-10
 paridarshaka.com###block-11
-sachetonbarta.com.bd###block-14
+ghaziabad365.com,sachetonbarta.com.bd###block-14
 samrudhaodisha.com###block-15
 samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
@@ -433,6 +433,7 @@ livestorytime.com###news_portal_ads_banner-5
 citiupdate.com###newscard_horizontal_vertical_posts-3 .col-md-4:not(.first-col)
 citiupdate.com###newscard_horizontal_vertical_posts-8
 taftishofcrime.com###newsphere_posts_slider-7
+ghaziabad365.com###npkit-recent-posts-5
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
 patnalive.co.in###oppopo
@@ -488,7 +489,7 @@ beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 brightpost.in,dainikchintak.com,indiapolkhol.in###secondary .widget_block
 4pillar.news,harmudda.com,janakeeyam.in,newslemonchoose.com,satyavoice.com,thelucknowtribune.com###secondary .widget_custom_html
-aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,ekhabartoday.com,fourthpost.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,justmuz.com,mediapassion.co.in,patnapost.com,pradeshnews24x7.com,ptbnews.in,satyavoice.com,sirajganjnews24.com,thefourthmirror.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,justmuz.com,mediapassion.co.in,patnapost.com,pradeshnews24x7.com,ptbnews.in,satyavoice.com,sirajganjnews24.com,thefourthmirror.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 indiaedgenews.com,legendnews.in###secondary .widget_metaslider_widget
@@ -1261,6 +1262,7 @@ chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
+ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
@@ -2248,7 +2250,7 @@ wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
 sunamganjerkhobor.com##.widget_simpleimage
-awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,ghaziabad365.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
