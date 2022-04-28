@@ -481,6 +481,7 @@ khojinews.co.in###right_level_1.mtop15
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
 kungumam.co.in###road
+ekantipur.com###roadblock-ad
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 prajasattaknews.com###secondary .ai-sticky-widget
@@ -1197,6 +1198,7 @@ divyahimachal.com##.customad
 dbcnews.tv##.d-flex
 dainikbharat24.com##.daini-widget
 esidhakura.com##.daraz-ad
+ekantipur.com##.daraz-sponser
 deshabhimani.com##.db-scnAd2
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
