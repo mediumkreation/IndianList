@@ -1679,6 +1679,7 @@ onlynews24.com##.onlyn-after-content
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
+nepalkhabar.com##.paraAd
 dainikmas.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
