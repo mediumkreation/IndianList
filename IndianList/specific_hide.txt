@@ -1352,6 +1352,7 @@ trttamilolli.com##.galboxcontainer
 dainikdeshersathe.com##.gallery_section
 dcnepal.com,merofilm.com,nepalpress.com##.gam-ad-position-wrap
 nepalpress.com##.gam-each-ad
+nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 sithmalyaya.com##.gear-best
@@ -2883,7 +2884,7 @@ samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 aayomail.com,bikastimes.com,deshkonews.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
-himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,nepalwatch.com,prasashan.com,reportersnepal.com##section.widget img
+himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
