@@ -148,7 +148,7 @@ samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
 bansalnews.com,sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
-hnn24x7.com###block-23
+hnn24x7.com,livepress24.com###block-23
 hnn24x7.com,purvanchalsandesh.com###block-24
 khabarcgnews.com###block-27
 newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
@@ -210,7 +210,7 @@ dnspnews.in###custom_html-169
 muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk###custom_html-2
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
