@@ -1319,6 +1319,7 @@ thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
 narmadanchal.com##.fn-widget-image
+nijamtoday.com##.foogallery_widget
 anweshanam.com##.footer-ad-img
 wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
