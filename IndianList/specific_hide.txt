@@ -1990,7 +1990,7 @@ techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-hindxpress.com,news7express.com,newsganga.com,positivekhabar.com,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
+hindxpress.com,lokpaksh.com,news7express.com,newsganga.com,positivekhabar.com,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
@@ -2031,7 +2031,7 @@ cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
 sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
-devbhoomimedia.com##.td_block_empty_space
+devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
 khabargujarat.com,mahendranagarpost.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
