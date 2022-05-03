@@ -1946,9 +1946,10 @@ abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsd
 amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
-bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
+airanewsnetwork.com,bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
 apnahimachalapnishaan.in,hamarahimachal.com,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newssow.com,prabudhajanata.online,punjabbaani.com,punjabiakhbaar.ca,telegramnews24.com,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
+airanewsnetwork.com##.stream-item-widget:not(#stream-item-widget-3)
 dainikmaharajganj.in##.stream-item.half-box
 apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
 voiceofjhabua.com##.stream-title
