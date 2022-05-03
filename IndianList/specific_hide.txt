@@ -2031,6 +2031,7 @@ cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
 sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
+devbhoomimedia.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
 khabargujarat.com,mahendranagarpost.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
@@ -2048,6 +2049,7 @@ tejastoday.com##.tdb_single_content h1 a img
 newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 tejastoday.com##.tdb_single_content p img
 samugammedia.com##.tdi_153
+devbhoomimedia.com##.tdi_25
 deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
@@ -2367,7 +2369,7 @@ dainiknavraj.com##.wpb_wrapper > .td-fix-index
 dainikbharatbhaskar.com##.wpb_wrapper > p img
 ptcnews.tv##.wpb_wrapper aside.widget_media_image
 newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
-abtnews.in,boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
+abtnews.in,boolokam.com,uttranews.com##.wpcnt
 news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
