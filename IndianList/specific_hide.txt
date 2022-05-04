@@ -2041,6 +2041,7 @@ pinkstea.com##.td_uid_23_5ee077adb2830_rand
 thedeoriatimes.in##.tdb_single_content + .td-a-rec
 n7india.com##.tdb_single_content .code-block
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
+pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
 tejastoday.com##.tdb_single_content h1 a img
 newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 tejastoday.com##.tdb_single_content p img
