@@ -883,7 +883,6 @@ rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
 europemalayali.co.uk##.add_inner_news
-narayanionline.com##.add_middle
 bslnews24.com##.add_pad_bottom
 news18.com##.add_secton
 pokharapatra.com.np##.adda
@@ -978,8 +977,6 @@ nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
-narayanionline.com##.advertiesment-header
-narayanionline.com##.advertiesment-main > a:only-child
 atalsamachar.com##.advertisRow > div ~ div
 bikashnews.com,gorkhalikhabar.com##.advertise
 drukpadam.com##.advertise-area
@@ -1659,7 +1656,6 @@ nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
 wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
-narayanionline.com##.no-premodal-md
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
@@ -1701,7 +1697,6 @@ rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
-narayanionline.com##.post-advertiesment
 sahibganjnews.com##.post-body .separator ~ .separator img
 nayasabera.com##.post-body .tr-caption-container
 jaunpurlive.com##.post-content .tr-caption-container
@@ -2381,7 +2376,6 @@ probashibangla.tv##.zja
 khabreelal.com,thesabera.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
 kashishnews.com##[alt="add image"]
-narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
 yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
@@ -2897,7 +2891,7 @@ khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
-aayomail.com,bikastimes.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
+aayomail.com,bikastimes.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
