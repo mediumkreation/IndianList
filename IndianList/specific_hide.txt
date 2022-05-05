@@ -1105,6 +1105,7 @@ nigranee.com##.block-wrapper ~ #webbank-ad-section
 newsflash71.com##.block__2
 akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
+canadamirror.com##.blurb
 bn24live.in,bundelkhandnews.com,lokjannews.com##.bn-lg
 bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,polkholindia.com,poorvanchalmedia.com,raebareliexpress.in,sansaninews.com,threesocieties.com,vartanews.com##.bn-lg-sidebar
 newsflash71.com##.book_ads
@@ -1220,6 +1221,7 @@ gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 dailyajkershomoy.com##.down_social_display_ad
 drishtinews.com##.drishti-inner-ads
+canadamirror.com,cineulagam.com,ibctamil.com,jvpnews.com,manithan.com,viduppu.com##.ds-ms-blurb
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
 awajnews.com,bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news85.in,newsjungal.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
