@@ -234,7 +234,6 @@ mynews36.com,pradhanavartha.in###custom_html-8
 aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,mrreporter.in,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pardaphash.com###disqus_thread iframe:first-child
-pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
 firsteyenews.co.in###dynamic_sidebar_before
 hastakshep.com###eaa-12
@@ -1933,7 +1932,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,aajkaaditya.in,aapkiaawaz.net,bastabbadi.com,bharatsamachartv.in,bograsangbad.com,cinenxt.com,dainikbhaskarup.com,devbhumijknews.in,divyadarpan.com,gandakivoice.com,hamarahimachal.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
+247superfast.com,aajkaaditya.in,aapkiaawaz.net,bastabbadi.com,bharatsamachartv.in,bograsangbad.com,cinenxt.com,dainikbhaskarup.com,devbhumijknews.in,divyadarpan.com,gandakivoice.com,hamarahimachal.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newsd5.in,newssow.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 newswing.com,pangighatidanikapatrika.in##.stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
@@ -1945,7 +1944,7 @@ amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 airanewsnetwork.com,bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
-apnahimachalapnishaan.in,hamarahimachal.com,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newssow.com,prabudhajanata.online,punjabbaani.com,punjabiakhbaar.ca,telegramnews24.com,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
+apnahimachalapnishaan.in,hamarahimachal.com,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newssow.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,telegramnews24.com,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 airanewsnetwork.com##.stream-item-widget:not(#stream-item-widget-3)
 dainikmaharajganj.in##.stream-item.half-box
@@ -2772,7 +2771,6 @@ atalsamachar.com##div[id^="showAS_O_BEL"]
 metrojournalonline.com,newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
 sitamarhilive.in##div[id^="sitam-"]
 sudurkhabar.com##div[id^="sudur-"]
-pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
