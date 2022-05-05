@@ -948,7 +948,7 @@ dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
-bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
+andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 orthosongbad.com,sonalinews.com##.adv-img
 drishtinews.com##.adv-item
@@ -1098,6 +1098,7 @@ biharaaptak.com##.bihar-widget
 aapkiummid.com##.billboardad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
+andhrabhoomi.net##.block-block:not(#block-block-13)
 dainikbhaskarup.com,ujjawalprabhat.com##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 awaaz24x7.com##.block-wrapper video
