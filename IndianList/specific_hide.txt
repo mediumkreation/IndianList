@@ -1222,7 +1222,7 @@ gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 dailyajkershomoy.com##.down_social_display_ad
 drishtinews.com##.drishti-inner-ads
-canadamirror.com,cineulagam.com,ibctamil.com,jvpnews.com,manithan.com,viduppu.com##.ds-ms-blurb
+canadamirror.com,cineulagam.com,ibctamil.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##.ds-ms-blurb
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
 awajnews.com,bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news85.in,newsjungal.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
@@ -1233,8 +1233,6 @@ deshersangbad.com,mithilacitynews.in,news127.com##.e3lan-post
 ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
 uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
-tamilwin.com##.eds-box
-tamilwin.com##.eds300
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 alertchhattisgarh.com##.elementor-element-37731bf
