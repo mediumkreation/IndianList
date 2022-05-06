@@ -2002,7 +2002,7 @@ egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
 vadakaravoice.com##.td-main-sidebar aside
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
-dishadaily.com##.td-post-content .code-block
+dishadaily.com,saamana.com##.td-post-content .code-block
 sanjeevanisamachar.com##.td-post-content .master-slider
 eaibanglai.com,vasundharadeep.news##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
@@ -2027,7 +2027,7 @@ hugujarati.in,khabarbhatapara.in,newsofmithila.in,odiapua.com,sarthaksamay.com##
 akkbd.com,brajeshkibaat.com,chandaulisamachar.com,dainikhindmitra.com,keralabreaking.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
 galaxyinformer.com,krantimission.com,newsdna.co.in,uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 industrialpunch.com##.td-ss-main-sidebar .widget_metaslider_widget
-tamilyugam.in##.td-ss-main-sidebar .widget_text
+saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
