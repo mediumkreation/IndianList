@@ -1244,6 +1244,7 @@ delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
 wayanadlivenews.com##.elementor-shortcode img
 zoombangla.com##.elementor-widget-html img
 abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
