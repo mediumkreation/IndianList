@@ -2139,7 +2139,6 @@ uukmanews.com##.tp-ad
 damstv.com##.tr-ad
 aapkiummid.com##.tr-caption-container
 nagariknetwork.com##.travel-add
-deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
 speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
@@ -2662,6 +2661,7 @@ voiceofjhabua.com##div[class*="kitsune-adver"]
 navjivanindia.com##div[class*="m__ad"]
 prothomalo.com##div[class*="m__ads"]
 navjivanindia.com##div[class*="m__dfp"]
+deshdoot.com##div[class*="m_ad-slot"]
 vbnews24.com##div[class*="media_image-"]
 nainilive.com##div[class*="naini-"]
 sachkitop.com##div[class*="sachk-"]
