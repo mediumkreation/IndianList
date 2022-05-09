@@ -509,20 +509,6 @@ chandpurnews.com,charchitbihar.com,expressherald.com,mithapukur24news.com,uttara
 chandreknews.com###secondary section.widget_media_image:not(#media_image-23)
 hindustanrepublic.in###secondary section.widget_text
 doabatimes.com###secondary-right
-kannadaprabha.com###section_content_check_452
-kannadaprabha.com###section_content_check_454
-kannadaprabha.com###section_content_check_455
-kannadaprabha.com###section_content_check_456
-kannadaprabha.com###section_content_check_457
-kannadaprabha.com###section_content_check_458
-kannadaprabha.com###section_content_check_459
-kannadaprabha.com###section_content_check_462
-kannadaprabha.com###section_content_check_465
-kannadaprabha.com###section_content_check_466
-kannadaprabha.com###section_content_check_467
-kannadaprabha.com###section_content_check_468
-kannadaprabha.com###section_content_check_469
-kannadaprabha.com###section_content_check_518
 sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
 onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
@@ -1218,7 +1204,6 @@ dhakanewsexpress.com##.dhaka-content
 surabhisaloni.co.in##.dialog-widget
 biniyogbarta.com,biniyougbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
-kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
 thodkyaat.com##.dmp
 gulfmalayaly.com##.do-space
@@ -2204,6 +2189,7 @@ emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
 gstv.in##.widget-area-1 .widget_custom_html
 crimediarybd.com##.widget-body > p img
+kannadaprabha.com##.widget-container-188
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
