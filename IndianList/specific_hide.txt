@@ -151,7 +151,7 @@ samrudhaodisha.com###block-20
 hnn24x7.com,livepress24.com###block-23
 hnn24x7.com,purvanchalsandesh.com###block-24
 khabarcgnews.com###block-27
-newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
+checkpostnews.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
@@ -1622,7 +1622,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,celluloidonline.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,celluloidonline.com,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
