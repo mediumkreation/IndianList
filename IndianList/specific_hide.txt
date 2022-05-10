@@ -1569,6 +1569,7 @@ divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 media24news.in##.media-after-content_4
 media4support.com##.media-content_2
+asomiyapratidin.in##.medicity_class
 bikashnews.com##.menu_ad
 bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
@@ -2348,7 +2349,6 @@ alamkikhabar.in,attingalvartha.com,bdnews.live,bnanews24.com,deshbartabd.com,far
 upayuktha.com##.wpb_single_image .vc_figure
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
-asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 alamkikhabar.in,deshbartabd.com,saunewsnetwork.com##.wpb_video_widget
 attingalvartha.com##.wpb_widgetised_column
