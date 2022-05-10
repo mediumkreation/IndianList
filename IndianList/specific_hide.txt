@@ -2853,6 +2853,7 @@ indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertise))
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google Ad))
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
+indiatv.in#?#.ad:-abp-has(> div:first-child)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 keralabreaking.com#?#.wpb_wrapper:-abp-has(> .td_block_single_image)
 khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
