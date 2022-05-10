@@ -682,6 +682,7 @@ thamilan.lk###topbanneer
 chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
+tolivelugu.com###unitDivWrapper-0[style^="height:"]
 mediapunjab.com###up_height img[src^="data:image"]
 manobkantha.com.bd###vi-sticky-ad
 ghaziabadparikrama.com###video-widget-2
