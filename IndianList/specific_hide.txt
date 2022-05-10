@@ -1132,7 +1132,6 @@ chandrikadaily.qa##.chand-before-content_5
 chandrikadaily.qa##.chand-widget
 chetaktimes.com##.cheta-before-content
 tamilmithran.com##.cine_ad
-madhyamam.com##.clock-container
 dinamalar.com##.clsadblock
 tamil.oneindia.com##.cmscontent-top
 livetvkerala.com##.cntarea img
@@ -1415,6 +1414,7 @@ himachalmedia.co##.himac-widget
 himalayapost.com##.himal-content_3
 mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
+madhyamam.com##.hocal-ad-block
 bangla-news24.com##.home-e3lan
 dabangmedia.com##.home-gallery.photo-gallery
 tamiltradepost.com##.home-mid-banner
@@ -1736,7 +1736,6 @@ indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
 brightpost.in##.quads-ad-label
 rajnitiprotidin.com##.qvzk
-madhyamam.com##.ramdan-ad-wrapper
 nepalipatra.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
