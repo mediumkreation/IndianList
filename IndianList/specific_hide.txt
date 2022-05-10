@@ -1189,6 +1189,7 @@ teluguwirals.com##.custom-header
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 divyahimachal.com##.customad
+banglamail.news##.d-ad
 dbcnews.tv##.d-flex
 dainikbharat24.com##.daini-widget
 esidhakura.com##.daraz-ad
@@ -2658,6 +2659,7 @@ prothomalo.com##div[class*="_ads__"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 probashirdiganta.com##div[class*="adbox"]
+banglamail.news##div[class*="banner"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
