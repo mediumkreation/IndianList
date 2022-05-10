@@ -1743,6 +1743,7 @@ jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
 pakwangali.in##.right-add
 dailysabuj.com##.right-add-container
+banglanews24.com##.right-container .ads
 dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
 khabarbhartiindia.com##.right_adbox p img
@@ -2557,7 +2558,6 @@ uttranews.com##a[href*="wa0017"]
 nbs24.org##a[href*="waltonbd.com"]
 aajkaal.in##a[href*="wbjeeb.in"] img:only-child
 tnews247.com##a[href*="webacademy-edu.com"]
-banglanews24.com##a[href*="womansworldbd.com"]
 eelamalar.com##a[href*="yaalvaakai.com"]
 newstodaynetwork.com##a[href*="youtu.be/yEWmOfXJRX8"]
 pravasiexpress.com##a[href*='japan-it.jp'] img
@@ -2837,7 +2837,6 @@ gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
 mirsaraikhobor.com##img[alt="mAD"]
 bhilwarahalchal.com##img[alt="news"]
-banglanews24.com##img[alt="walton"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 hosakannada.com##img[alt^="Ad "]
