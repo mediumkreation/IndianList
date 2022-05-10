@@ -763,7 +763,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,keralasabdam.in,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,swalenewsbank.com,ujyaaloonline.com,virakesari.lk##.ad
+akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,keralasabdam.in,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,ujyaaloonline.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
@@ -1340,6 +1340,7 @@ dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
 dineshkhabar.com##.fullSizeAdBnr
 lalkhabar.com##.full_ad_section
+sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
@@ -1828,6 +1829,7 @@ mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
 hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
+sidhakhabar.com##.sidebar_top_Ad img:not([src*="Bagmati"])
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
