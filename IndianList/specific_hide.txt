@@ -795,6 +795,7 @@ alorkantho24.news##.ad3
 alorkantho24.news##.ad4
 arthasarokar.com##.ad50
 eenadu.net##.ad728-top
+anandabazar.com##.ad970x280
 iamgujarat.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
 odhikar.news##.adSlides
@@ -1564,6 +1565,7 @@ fastnewsbd.com##.mainadvert8
 malabarnews.com##.malab-article-top-ads
 malabarnews.com##.malab-home-page-sidebar-2
 gnewsbd24.com##.maniio
+anandabazar.com##.manyawarbox
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
 ayushindianews.com,hpnewsatl.com,khabarpahad.com##.master-slider
