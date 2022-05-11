@@ -1,6 +1,5 @@
 -1024x1024.jpeg|$domain=muzaffarpurnow.in|muznow.in
 -1024x256$domain=dailyfenchugonj.com
--300x300.$domain=ajabgjab.com
 -500x300$domain=khojinews.co.in
 -Ad-Final-$domain=dmpnews.org
 -ad-for$image,domain=channelionline.com
@@ -177,7 +176,6 @@
 @@||youngvarta.com/uploads/blocks/block_5f056e0ef2e59.gif
 @@||youngvarta.com/uploads/blocks/block_5f60882628309.jpg
 _300-x$image,domain=bikashnews.com
-_336x280.$domain=ajabgjab.com
 __add$domain=natuncumilla.com
 _ad.jpeg|$domain=usamibanglanews.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com|yugjagran.com
@@ -290,7 +288,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||agraleaks.com/wp-content/uploads/2020/03/cancer.jpg
 ||agrilife24.com^*/AllAdd
 ||ahlussunnaonline.com/wp-content/uploads/2017/11/add-wb-mahal.jpg
-||ajabgjab.com/FeedifySW.js
 ||ajayabharat.com^*/output_0Qoh7Q.gif
 ||ajayabharat.com^*/WhatsApp-Image-2019-12-23-at-2.00.23-PM
 ||ajker-comilla.com^*/ad-02.jpg
@@ -1458,7 +1455,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||fastnewsnetwork.in/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-10-at-21.58.51.jpeg
 ||fbcdn.net^$third-party,domain=malayalammedia.one
 ||fbs.com$third-party,domain=tamilleader.com
-||feedify.net^$third-party,domain=ajabgjab.com
 ||feninews.com/images/ads0000007.gif
 ||feninews.com/images/feni.jpg
 ||feninews.com/images/feniUniversity.jpg

@@ -1003,6 +1003,7 @@ updatenews360.com##.aft-sticky-sidebar
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
 tamilnigar.com##.ai_widget
+ajabgjab.com##.ajabg-widget
 ajakoartha.com##.ajako_artha-advertisement-series
 malabarnews.com##.alertAdd
 osnepal.com##.alignnone.size-full
@@ -2689,6 +2690,7 @@ news18.com##div[class^="HomeMobile_mobile_add"]
 eenadu.net##div[class^="ad-block"]
 dailyjonomot.com##div[class^="add_"]
 bonikbarta.net##div[class^="advertise_space"]
+ajabgjab.com##div[class^="ajabg-"]
 patnapost.com##div[class^="aryav-"]
 hindustanvision.com##div[class^="avtg"]
 mathrubhumi.com##div[class^="banner_sliders"]
