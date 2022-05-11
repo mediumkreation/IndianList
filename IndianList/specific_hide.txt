@@ -788,7 +788,7 @@ news24bd.tv##.ad-ticker-right
 officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
-iamgujarat.com,maharashtratimes.com,samayam.com##.ad-wrapper-250
+iamgujarat.com,samayam.com##.ad-wrapper-250
 alorkantho24.news,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
@@ -796,7 +796,7 @@ alorkantho24.news##.ad4
 arthasarokar.com##.ad50
 eenadu.net##.ad728-top
 anandabazar.com##.ad970x280
-iamgujarat.com,samayam.com##.adCANContainer
+iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
 odhikar.news##.adSlides
 padmatimes24.com##.ad_10
