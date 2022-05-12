@@ -57,6 +57,7 @@
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$domain=thenewspost.in
 /add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
+/ADD_$domain=amarbarta24.com
 /add_$domain=shamolbangla24.com
 /AddImages/*$domain=thurannakathu.com
 /ADDS-$image,domain=prajapragathi.com
