@@ -1316,6 +1316,7 @@ sahilonline.net##.flexslider-eid
 thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
+uthayamnews.com##.fn-header-banner
 narmadanchal.com##.fn-widget-image
 nijamtoday.com##.foogallery_widget
 anweshanam.com##.footer-ad-img
@@ -2307,6 +2308,8 @@ hamarahimachal.com##.wp-image-29080
 lumbinisanchar.com##.wp-image-30063
 kannadi.news##.wp-image-31222
 bonggonews.com##.wp-image-352
+uthayamnews.com##.wp-image-35679
+uthayamnews.com##.wp-image-35692
 newssunamganj.com##.wp-image-3711
 lokhitexpress.com##.wp-image-41683
 paribahanjagot.com##.wp-image-4609
