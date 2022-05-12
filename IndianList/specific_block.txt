@@ -76,7 +76,6 @@
 /advertisement/$domain=mediavision.news
 /advertisements/$domain=abhiyandaily.com|nepalkhabar.com
 /advertisements/*$domain=nepalipatra.com
-/ajadds/*$domain=andhrajyothy.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=tamil.com|thereport24.com

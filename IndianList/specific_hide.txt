@@ -99,8 +99,6 @@ ap7am.com###advt-dtindex
 importmirror.com###adx
 ezhomelive.com,yarldevinews.net###after-ad
 thejharokha.com###ai_widget-2
-andhrajyothy.com###aimgMain
-andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
 padmatimes24.com###aside #sidebar
 fmnews24.com###attachment_10392
@@ -995,7 +993,6 @@ anugrahavision.com,timeskerala.com##.advertismentRow
 divaina.com##.advertisments
 chapainews.com##.advrts
 dainiksylhet.com##.advsingle
-andhrajyothy.com##.advt-bg
 news19tv.com,parthokko.com.bd##.advt-col
 dainiknepal.com,enepalese.com,samayapost.com##.advt_bx
 enepalese.com,samayapost.com##.advt_r
@@ -2595,6 +2592,7 @@ aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
 aapkikhabar.com#?#*:-abp-has(> a:-abp-contains(Government Ad))
 aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
+andhrajyothy.com#?#div:-abp-has(> div[id*="-ad-"])
 angulonline.com#?#.elementor-widget-wrap:-abp-has(> .elementor-widget-heading > div > h2:-abp-contains(Sponsored))
 chakrapath.com##app-ad-control-header
 newsnib.in##app-squaread
