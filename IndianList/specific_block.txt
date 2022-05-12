@@ -186,7 +186,6 @@ _Ads.gif|$domain=deshbarta.news
 _ADS.gif|$domain=focusmohona.com
 _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
-_ads.png|$domain=prothomalo.com
 _ads_gif$domain=satkarpost.com
 _Advt.gif|$domain=kasaragod.com
 _advt_$domain=channelindia.news
@@ -3762,7 +3761,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||secureservercdn.net^*/IMG-20210828-WA0063
 ||secureservercdn.net^*/IMG_20210719_233202
 ||secureservercdn.net^*/IMG_20210817_091031
-||service.prothomalo.com/palo/ads/
 ||shadhinbangla24.com.bd^*/pubali-bank-2.gif
 ||shadhinkantha.com/assets/teletalk.png
 ||shadhinkantha.com/assets/vision.gif
