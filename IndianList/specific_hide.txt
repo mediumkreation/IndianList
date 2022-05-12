@@ -995,6 +995,7 @@ divaina.com##.advertisments
 chapainews.com##.advrts
 dainiksylhet.com##.advsingle
 news19tv.com,parthokko.com.bd##.advt-col
+sangbadpratidin.in##.advt-text1
 dainiknepal.com,enepalese.com,samayapost.com##.advt_bx
 enepalese.com,samayapost.com##.advt_r
 newsplus24x7.com##.advtertise
@@ -1463,6 +1464,7 @@ cgmitan.com##.img-fluid.advt-right-img:not([src*="IMG_20201006_082333"])
 aapkikhabar.com##.imgOverlayAd
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
+sangbadpratidin.in#@#.imgad
 pratyeknews.com##.imgad1
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
