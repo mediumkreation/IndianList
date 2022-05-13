@@ -626,12 +626,10 @@ himalini.com###text-40
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
-mbmnewsnetwork.com###text-48
-udaydarpan.com###text-49
-achhikhabar.com###text-49 a
+achhikhabar.com,mbmnewsnetwork.com###text-48
+achhikhabar.com,udaydarpan.com###text-49
 biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,najarianews.in,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tamizhdb.com,thesingoritimes.com,tnilive.com,vakeesam.com###text-5
-mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
-achhikhabar.com###text-50 a
+achhikhabar.com,mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 udaydarpan.com###text-51
 anaicoddai.com,mbmnewsnetwork.com,recentnepal.com###text-52
 aapkisafalta.com###text-54
