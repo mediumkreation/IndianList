@@ -2769,6 +2769,7 @@ cinemapluz.com,newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
 lokalok.in##div[id^="lokal-"]
 madathakaja.com##div[id^="madat-"]
+malabarinews.com##div[id^="malab-"] > img
 news24bd.net##div[id^="news2-"]
 newsfact.in##div[id^="newsf-"]
 newsheight.com##div[id^="newsh-"]
