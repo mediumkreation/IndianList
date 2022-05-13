@@ -2114,7 +2114,6 @@ aperata.net##.top-ads-block
 manoramanews.com##.top-advt
 twentyfournews.com##.top-banner
 ekuruvi.com##.top-bar-left-nav
-sherpurtimes.com##.top-biggapon
 royalbulletin.in##.top-container1
 ukmalayalampathram.com##.top-flash
 samvetshikhar.com##.top-head-hori-adv
@@ -2719,6 +2718,7 @@ patnapost.com##div[class^="patna-"]
 sajagpahad.com##div[class^="sajag-"]
 samacharvaarta.com##div[class^="sgpb"]
 pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
+sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 suddione.com##div[class^="suddi-after-content_"]
 uttarakhandcitynews.com##div[class^="uttar-"]
@@ -2784,6 +2784,7 @@ samacharuk.com##div[id^="samac-"]
 sarthaksamay.com##div[id^="sarth-"]
 bilaspurlive.com##div[id^="sgpb-"]
 kodanki.in##div[id^="sgpb-popup"]
+sherpurtimes.com##div[id^="sherp-"]
 anugrahavision.com##div[id^="showAS_"]
 atalsamachar.com##div[id^="showAS_O_BEL"]
 metrojournalonline.com,newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
