@@ -544,6 +544,7 @@ newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 samjhobharat.com###sidebar-right-1 .widget.Image
+tamillens.com###sidebar-schedule-slider
 haryananewsonline.com###sidebar-secondary-sidebar
 citypostlive.com###sidebar-secondary-sidebar > .widget
 zamania.in###sidebar-section-top
