@@ -130,7 +130,7 @@ cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
 ezhomelive.com,nandednewslive.com,yarldevinews.net###before-ad
-lokmatnews.in###beforehead
+lokmat.com,lokmatnews.in###beforehead
 khabarcgnews.com###below-header
 kusenews.com###belowflash
 kusenews.com###belowmainnews
@@ -264,7 +264,7 @@ heronewsonline.com,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
-lokmatnews.in###headerBanner
+lokmat.com,lokmatnews.in###headerBanner
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
@@ -1466,7 +1466,7 @@ sangbadpratidin.in#@#.imgad
 pratyeknews.com##.imgad1
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-lokmatnews.in##.inarticleAd
+lokmat.com,lokmatnews.in##.inarticleAd
 amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
 amadershomoy.com##.index_ads_two
@@ -2773,8 +2773,10 @@ newslinkers.com##div[id^="newsl-"]
 newsway.in##div[id^="newsw-"]
 pahadkasach.in,pahadprabhat.com##div[id^="pahad-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
+lokmat.com##div[id^="photoInlist"]
 hosadigantha.com##div[id^="pum-"]
 rashtranayaknews.com##div[id^="rasht-"]
+lokmat.com##div[id^="rhs-"]
 samacharuk.com##div[id^="samac-"]
 sarthaksamay.com##div[id^="sarth-"]
 bilaspurlive.com##div[id^="sgpb-"]
@@ -2818,6 +2820,7 @@ glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 thakurgaon24newspaper.com##footer .wp-block-code
 provatnews.com##h2[style^="width:710px; height: 100px;"]
+lokmat.com##homepage-taboola
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 pinakatimes.com##iframe[class^="FrameAdvt"]
