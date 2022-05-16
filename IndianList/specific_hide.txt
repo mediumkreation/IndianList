@@ -338,7 +338,7 @@ dhadingupdate.com###media_image-263
 dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,khabardinbhar.net,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabar36.com,khabardinbhar.net,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
@@ -353,7 +353,7 @@ bharatsarathi.com,sabkasandesh.com###media_image-43
 crimebarta.com###media_image-44
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
-amanshantinews.com,banglasanglap.co.uk,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,glimeindianews.in,haqeeqattoday.com,himalipatrika.com.np,indianvoice24.com,janshaktikranti.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,odishatime.com,prothomshomoy.com,sandhannews.com,ujjwalduniya.com###media_image-5
+amanshantinews.com,banglasanglap.co.uk,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,glimeindianews.in,haqeeqattoday.com,himalipatrika.com.np,indianvoice24.com,janshaktikranti.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,odishatime.com,prothomshomoy.com,sandhannews.com,ujjwalduniya.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
@@ -1154,7 +1154,7 @@ channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
-anugrahavision.com,azhimukham.com,crimecapital.in,khabreelal.com##.colombiaadcode
+anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -1249,7 +1249,7 @@ punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 truelinenews.com##.elementor-widget-slides
 kannadanewsnow.com##.elementor-widget-spacer
 himalipatrika.com.np##.elementor-widget-text-editor
-abbiharnews.com,keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
+abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
 jagatbhumi.com##.entry img
@@ -1502,8 +1502,6 @@ prabartan.com##.kc_single_image
 karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
 filmcityworld.com##.kenm
-keralaonlinenews.com##.keral-beforecontent
-keralaonlinenews.com##.keral-widget
 khabarpahad.com##.khaba-widget
 khabarhub.com##.khabarhub-inner-ads
 khulasanewslive.in##.khulasanewslivewidget
@@ -2735,10 +2733,10 @@ pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 daynikekusherbani.com##div[id$="_ad"]
 thereport24.com##div[id*="_300x250"]
-anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
+anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
-anugrahavision.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
+anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 newzfast.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)

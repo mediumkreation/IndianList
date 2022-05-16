@@ -87,7 +87,7 @@
 /blocks/block_$domain=bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|polkholindia.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
 /can//cde/$domain=crimecapital.in|doonhorizon.in|theexpose.in
-/can//cde/*$domain=dalhousiehulchul.com|metrojournalonline.com|newzfast.com|samayduniya.com|upuklive.com
+/can//cde/*$domain=dalhousiehulchul.com|keralaonlinenews.com|metrojournalonline.com|newzfast.com|samayduniya.com|upuklive.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
 /NEW_GIF_$domain=clickmandu.com
@@ -2008,10 +2008,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||keralanewshunt.com/images/coirfed%20cut.jpg
 ||keralanewshunt.com/images/csb.jpg
 ||keralanewshunt.com/images/Kerafednew.jpg
-||keralaonlinenews.com^*/atlas-$image
-||keralaonlinenews.com^*/banner
-||keralaonlinenews.com^*/Pallithara-main-page-sidebar
-||keralaonlinenews.com^*/thamburan-lottary-tpba-OCTOBER-2019900100-2nd-1.jpg
 ||keralaonlive.com/uploads/banner/
 ||keralaviews.com/wp-content/uploads/2015/03/AMC-AD-3.jpg
 ||keralaviews.com/wp-content/uploads/2016/04/premarital-ad-copy1.png
