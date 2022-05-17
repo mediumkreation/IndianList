@@ -1468,6 +1468,7 @@ rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 sangbadpratidin.in#@#.imgad
 pratyeknews.com##.imgad1
+sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
 lokmat.com,lokmatnews.in##.inarticleAd
