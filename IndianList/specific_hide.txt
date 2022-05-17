@@ -1659,6 +1659,7 @@ newsbindass.com##.newsb-adlabel
 jharkhandvani.in##.newsever-widget .textwidget
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
+onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
@@ -1678,6 +1679,8 @@ supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
 newsbrahmanbaria.com##.oit-ad-code
+onlinekhabar.com##.ok-full-widht-adv
+onlinekhabar.com##.okam-ad-position-wrap
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 raebareliexpress.in##.onesignal-customlink-container + img
@@ -1798,7 +1801,6 @@ hotnewsindia.com##.sideLeft .custom-html-widget
 news18.com##.sideMiddle
 hotnewsindia.com##.sideRight .custom-html-widget
 news18.com##.sideTop
-onlinekhabar.com##.side__add
 postpati.com##.side_adv_part
 motivatenews.com.np,ratopost.com,sancharkendra.com##.sidea
 kulalaworld.com##.sideadd
@@ -2126,7 +2128,6 @@ vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
-onlinekhabar.com##.top__ads
 bankbimaarthonity.com,biniyogbarta.com,biniyougbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
@@ -2155,6 +2156,7 @@ dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
 damstv.com##.tr-ad
 aapkiummid.com##.tr-caption-container
+onlinekhabar.com##.tribox-add
 sangbad-gallery.com##.two_advertisement
 speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
