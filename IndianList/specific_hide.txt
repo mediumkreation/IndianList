@@ -589,7 +589,7 @@ dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
 samugammedia.com###tdi_124
 srujananedu.com###tdi_191
 anbnews24.com,timesoneodia.com###text-1
-jagprerna.com,janmanindia.com,medianp.com,moonbreaking.com,tamil.com,theblastkhabar.com,vanakkamlondon.com###text-10
+jagprerna.com,janmanindia.com,medianp.com,moonbreaking.com,tamil.com,theblastkhabar.com###text-10
 anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,najarianews.in,onlinesaptari.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
@@ -598,14 +598,14 @@ anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhag
 gangalahar.com###text-14 iframe
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,janvadtimes.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,kalaroanews.com,manvadhikartimes.com###text-16
-247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,updatesatkhira.com,vanakkamlondon.com###text-17
+247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,amaderparis.com,banglarkonthosor.com,sambadsaradin.com,vavuniyanet.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,gnewsindia.com,sambadsaradin.com,updatetimes.com###text-19
 abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,binodonnews24.com,ccnnews24.in,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,kositimes.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
-amaderparis.com,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com,vanakkamlondon.com###text-20
-anytechtune.com,vanakkamlondon.com###text-21
-dainiksatkhira.com,vanakkamlondon.com###text-22
+amaderparis.com,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
+anytechtune.com###text-21
+dainiksatkhira.com###text-22
 divyalive.com,tnilive.com###text-23
 achhisoch.com,apnades.in,janvadtimes.com,tnilive.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in###text-25
@@ -625,7 +625,7 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com###text-38
 himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,ekhabar.in,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thepunjabi.com,vakeesam.com,vanakkamlondon.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,ekhabar.in,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thepunjabi.com,vakeesam.com###text-4
 himalini.com###text-40
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
@@ -645,7 +645,7 @@ punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
-aajkiawaaz.com,apnades.in,barisaltoday.com,bdtodays.net,brajpatrika.com,ekhansangbad.com,hastakshep.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,livekhagaria.in,maithilijindabaad.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,shomoynews.com,vanakkamlondon.com###text-7
+aajkiawaaz.com,apnades.in,barisaltoday.com,bdtodays.net,brajpatrika.com,ekhansangbad.com,hastakshep.com,indianow24.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,livekhagaria.in,maithilijindabaad.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,shomoynews.com###text-7
 247superfast.com,dmoitry.com,ekhansangbad.com,gazarianews.com,globaltamilnews.net,hindustanlivetoday.com,janvadtimes.com,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,rozanapost.in,sambadsaradin.com,samriddhinews.in,siwanbazar.com,tamizhdb.com,theblastkhabar.com,udaipurkiran.in,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 indiawarta.com###text-8 iframe
 sharebazarnews.com###text-882
@@ -2507,7 +2507,6 @@ akkinikkunchu.com##a[href*="lycatv.tv"]
 maloutlive.com##a[href*="maloutonline.com/listing/"] > img:only-child
 bhalukanews.com##a[href*="mastercafebd"]
 akkinikkunchu.com##a[href*="mks.net.au"]
-vanakkamlondon.com##a[href*="mysrilankanstay.com"]
 akkinikkunchu.com##a[href*="naamtamilar.org.au"]
 arthasarokar.com##a[href*="nabilbank.com"]
 gramajyothi.com##a[href*="nagarjunaayurveda.com"]
