@@ -1270,7 +1270,7 @@ thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
-emaatimes.com,jangathatimes.com##.entry-content > p img
+chavakkadonline.com,emaatimes.com,jangathatimes.com##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
@@ -2673,6 +2673,7 @@ probashirdiganta.com##div[class*="adbox"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 justnewsbd.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
+chavakkadonline.com##div[class*="before-header"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
