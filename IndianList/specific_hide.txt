@@ -736,6 +736,7 @@ bdprojonmo71.com##.DAdvertisement
 mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com##.DHeaderBanner
 satyamevtv.com##.Eod_right
+bhadas4media.com##.FooterAdArea .wp-block-image
 banglanewsca.com##.Front-page-Right-Side-Ad
 kanaighatbarta.com##.HTML .widget-content img
 preyopathok.com##.Hero-ads-banner
