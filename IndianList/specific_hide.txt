@@ -831,7 +831,6 @@ talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
 khobor24ghonta.com##.add-bg-02
 aajkasach.in,jaianndata.com##.add-block
-nagariknetwork.com##.add-container
 dailygazipuronline.com##.add-high
 ajkersylhet.com,ekhansangbad.com,sambadsaradin.com##.add-image
 dainikagnipath.com,slogannews.com##.add-img
@@ -843,7 +842,7 @@ dailysabuj.com##.add-longhead
 bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
 dainiktribuneonline.com,thebengalitimes.com##.add-sec
-malisamajsocial.com,nagariknetwork.com,thebengalitimes.com##.add-section
+malisamajsocial.com,thebengalitimes.com##.add-section
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
@@ -1069,7 +1068,6 @@ voiceofdarbhanga.com##.bdaia-post-content p img
 nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
-nagariknetwork.com##.below-article-ad
 arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
@@ -1111,7 +1109,6 @@ nirpakhawaaz.in,timetovisit.in##.bookingaff
 horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
 lokjeewan.com##.bottom_ad_slide
-nagariknetwork.com##.box-news-ad
 yugabdha.com##.box-sec-bg .slider
 tcp24.news##.bpgPhoto
 ethiri.com##.brand_wrapper .tagline
@@ -1307,9 +1304,7 @@ makdaiexpress24.com##.fdjga
 bbc24news.com##.featad
 pchelpcenterbd.com##.featured-post-ads
 sudurpress.com##.field--name-field-ad-image
-nagariknetwork.com##.first-add
 nayabharat.live##.fix-img-fluid
-nagariknetwork.com##.fixed-ad
 newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
 daniksamachar.com##.flashwp-featured-posts-area
@@ -2156,7 +2151,6 @@ dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
 damstv.com##.tr-ad
 aapkiummid.com##.tr-caption-container
-nagariknetwork.com##.travel-add
 sangbad-gallery.com##.two_advertisement
 speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
@@ -2672,6 +2666,7 @@ prothomalo.com##div[class*="_ads__"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 probashirdiganta.com##div[class*="adbox"]
+nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 justnewsbd.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
 bikanerhulchul.com##div[class*="bikan"]
@@ -2754,6 +2749,7 @@ abhayindia.com##div[id^="abhay-"]
 achhikhabar.com##div[id^="achhi-"]
 globalmalayalam.com##div[id^="ad_"]
 sports.dinamalar.com##div[id^="adv"]
+nagariknews.nagariknetwork.com##div[id^="adverts"]
 aapkiummid.com##div[id^="articlead"]
 aryavartposts.com##div[id^="aryav-"]
 banglalive.com,banglarjanarob.com##div[id^="bangl-"]
