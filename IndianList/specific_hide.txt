@@ -479,6 +479,7 @@ mekhrajbairwa.com###right-sidebar-inner
 punjablivenews.in###right-sidebar-inner .widget_media_image
 samachardoot.com###right_banner
 khojinews.co.in###right_level_1.mtop15
+thejasnews.com###right_level_3
 haribhoomi.com###right_level_4
 haribhoomi.com###right_level_6
 wenepali.com###right_siran
@@ -678,6 +679,7 @@ lastnewsbd.com###top-banner
 thenrinews.com###top-slider2
 vorerbangladesh.com###top-stories
 gossiplankanews.com###top1
+thejasnews.com###top_full_width_level_15
 thamilan.lk###topbanneer
 chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
@@ -1520,7 +1522,7 @@ jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
-haribhoomi.com,tv5news.in##.left_level_ad
+haribhoomi.com,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
 dailyjugantorsangbad.com##.live .embed-responsive
