@@ -186,6 +186,7 @@ kelanchaltimes.com,sabkajammukashmir.com###content .stream-item
 giridihupdates.com###content .widget_block
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
+ratopati.com###content a[target="_blank"] img
 news129.com###content center img
 samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
@@ -1133,6 +1134,7 @@ nepaljapan.com##.category_ads_3_cols
 thesaturdaynews.com##.category_page_right .single_page_bottom_ad
 unfoldbangla.com##.category_side
 makalukhabar.com##.cdbofrqam
+ratopati.com##.center-aligned-ad
 chandrikadaily.qa##.chand-before-content_5
 chandrikadaily.qa##.chand-widget
 chetaktimes.com##.cheta-before-content
@@ -1684,7 +1686,8 @@ himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
-nepalkhabar.com##.paraAd
+nepalkhabar.com,ratopati.com##.paraAd
+ratopati.com##.paraAd ~ hr
 dainikmas.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
@@ -2644,7 +2647,6 @@ deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
-ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabguardian.com##div.widget_media_image:not(#media_image-12)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
