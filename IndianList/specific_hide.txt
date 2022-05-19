@@ -926,6 +926,7 @@ iamgujarat.com,samayam.com##.ads-between-story
 madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
+banglanews24.com##.ads-gallery
 bangladhara.com,ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
 news18.com##.ads-slider
