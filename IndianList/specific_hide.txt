@@ -2886,6 +2886,7 @@ indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google A
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 indiatv.in#?#.ad:-abp-has(> div:first-child)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
+janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
 keralabreaking.com#?#.wpb_wrapper:-abp-has(> .td_block_single_image)
 khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
 khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div > span + a)
