@@ -771,10 +771,11 @@ gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,ujyaaloonline.com,virakesari.lk##.ad
+akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
+ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 pankourinews.com##.ad img
 chhattisgarhaaj.com,newsdnntv.com,pratyeknewslive.com##.ad--space
 newsdnntv.com,pratyeknewslive.com##.ad--widget
@@ -926,7 +927,6 @@ iamgujarat.com,samayam.com##.ads-between-story
 madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
-banglanews24.com##.ads-gallery
 bangladhara.com,ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
 news18.com##.ads-slider
@@ -1212,7 +1212,6 @@ bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
-rtnnbd.net##.detail-content ~ p[style="clear:both; height:50px;"]
 ekusheysangbad.com##.details-big-banner
 ekusheysangbad.com##.details-page-side-banner
 timeskerala.com##.dfx-pubadban
@@ -1520,7 +1519,6 @@ sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
 kannurnewsonline.com##.ktmjq
 kanakaionline.com##.large-adv
-rtnnbd.net##.lastNews
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
 punjabenews.com##.latest_post > img
@@ -1642,7 +1640,6 @@ samrudhaodisha.com##.mysticky-welcomebar-fixed
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
-hindi.news18.com##.n18thder
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
@@ -2724,7 +2721,6 @@ newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
 parvatprerna.com##div[class^="parva-after-content"]
 patnapost.com##div[class^="patna-"]
-asianetnews.com##div[class^="right-ad-"]:not(.right-ad-0)
 sajagpahad.com##div[class^="sajag-"]
 samacharvaarta.com##div[class^="sgpb"]
 pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
