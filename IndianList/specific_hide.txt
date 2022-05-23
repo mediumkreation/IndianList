@@ -1212,6 +1212,7 @@ bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
+rtnnbd.net##.detail-content ~ p[style="clear:both; height:50px;"]
 ekusheysangbad.com##.details-big-banner
 ekusheysangbad.com##.details-page-side-banner
 timeskerala.com##.dfx-pubadban
@@ -1519,6 +1520,7 @@ sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
 kannurnewsonline.com##.ktmjq
 kanakaionline.com##.large-adv
+rtnnbd.net##.lastNews
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
 punjabenews.com##.latest_post > img
