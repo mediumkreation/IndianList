@@ -1373,7 +1373,6 @@ news18.com##.global-storylist li[style^="height"]
 joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 gramintimes.com##.grami-content
-paristamil.com##.group1
 paristamil.com##.group2
 paristamil.com##.group3
 gujjujankari.in##.gujju-before-content_4
@@ -2811,6 +2810,7 @@ navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
+paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
@@ -2955,8 +2955,6 @@ chennaitodaynews.com##section[id^="id"]
 veerdharanews.com#?##sidebar-primary-sidebar .widget:-abp-has(div[data-adid]:not([data-type="custom_code"]))
 manithan.com##span[id] > iframe[id]:only-child
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
-paristamil.com##table[width="98%"] div.title
-paristamil.com##table[width="98%"] h2.cat_title
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
