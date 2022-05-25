@@ -51,16 +51,16 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gzpnews.com,hamaramahanagar.in,inahardoi.com,jaunpurlive.com,liveaaryaavart.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sahibganjnews.com,thattungal.com###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gzpnews.com,hamaramahanagar.in,inahardoi.com,jaunpurlive.com,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sahibganjnews.com,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
 madhepuratimes.com,nepalmother.com###Image23
 poonththalir.blogspot.com###Image25
-bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,madawalaenews.com,madhepuratimes.com,malabarflash.com,newsprahari.com,probashbd.news,rajsamachar.com,thattungal.com,vyganews.com###Image3
+bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,madhepuratimes.com,malabarflash.com,newsprahari.com,probashbd.news,rajsamachar.com,thattungal.com,vyganews.com###Image3
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
-engrsvoice.com,gidhaur.com,hamaramahanagar.in,madawalaenews.com,madhepuratimes.com,malabarflash.com,nepalmother.com,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
+engrsvoice.com,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 engrsvoice.com,evisionnews.co,gidhaur.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 hamaramahanagar.in,kurunews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
@@ -525,6 +525,7 @@ just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
 tamilnewsstar.com###sidebar .text-html
+madawalaenews.com###sidebar .widget.HTML:not(#HTML8):not(#HTML6)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
@@ -548,7 +549,6 @@ khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameya
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
-madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 samjhobharat.com###sidebar-right-1 .widget.Image
 tamillens.com###sidebar-schedule-slider
 haryananewsonline.com###sidebar-secondary-sidebar
@@ -924,7 +924,6 @@ gandakitimes.com##.ads aside:not(#custom_html-7)
 mohanagarnews.com##.ads img
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 iamgujarat.com,samayam.com##.ads-between-story
-madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
 bangladhara.com,ekattorbanglanews.com##.ads-rightside
@@ -2219,7 +2218,7 @@ daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-sanskarnews.page##.widget.Image
+madawalaenews.com,sanskarnews.page##.widget.Image
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
