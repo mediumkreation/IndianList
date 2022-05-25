@@ -2596,6 +2596,7 @@ janayugomonline.com##a[target="_blank"]:not(.btn) > img
 humsamvet.com##a[target="_new"]
 aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
 aapkikhabar.com#?#*:-abp-has(> a:-abp-contains(Government Ad))
+aapkikhabar.com#?#div[id^="AS_O_"] div:-abp-has(> div > div > a> div h5:-abp-contains(Ad |) )
 aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 andhrajyothy.com#?#div:-abp-has(> div[id*="-ad-"])
