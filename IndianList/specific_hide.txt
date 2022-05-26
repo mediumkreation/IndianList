@@ -914,6 +914,7 @@ snn24.com##.addtop_header
 jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 agrinewsnetwork.in##.ader_ads
+bdnewsclub.com##.adflexbox
 newslabz.com##.adfoxly-wrapper
 himachalreport.com##.adguru
 udayavani.com##.adliadworld
