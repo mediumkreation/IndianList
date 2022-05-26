@@ -1626,6 +1626,7 @@ banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,pclive7.com##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 janatarishtehaar.com##.mom_box_sc
+mymarathi.net##.mom_contet_e3lanat
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
 sandhannews.com##.mtphr-dnt-widget
@@ -1822,7 +1823,7 @@ cgwall.com##.sidebar .wds_slider_cont
 madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
-bartabangla.com##.sidebar .widget_custom_html
+bartabangla.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com##.sidebar .widget_media_image
 jokhimnews.com##.sidebar .widget_text
 hotnewsindia.com##.sidebar > .widget_custom_html
