@@ -630,7 +630,7 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com###text-38
 himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,ekhabar.in,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thepunjabi.com,vakeesam.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,ekhabar.in,himachalvarta.com,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thepunjabi.com,vakeesam.com###text-4
 himalini.com###text-40
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
@@ -782,6 +782,7 @@ chhattisgarhaaj.com,newsdnntv.com,pratyeknewslive.com##.ad--space
 newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
+jagonatore24.com##.ad-aria
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
@@ -1228,6 +1229,7 @@ dailyajkershomoy.com##.down_social_display_ad
 drishtinews.com##.drishti-inner-ads
 canadamirror.com,cineulagam.com,ibctamil.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##.ds-ms-blurb
 manabadi.co.in##.dsc-banners
+jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
 doshdik.com##.duble_advertisement
 awajnews.com,bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news85.in,newsjungal.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
 livekhagaria.in##.e3lan a img
@@ -2973,4 +2975,3 @@ upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-cont
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h2 + p)
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h3 + p)
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
-||ajkerrajshahi.com/wp-content/uploads/2022/03/Tero-Parbon-Vodra.png
