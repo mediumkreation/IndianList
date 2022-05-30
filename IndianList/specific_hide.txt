@@ -2657,6 +2657,7 @@ chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
 countrynewstoday.com#?#center:-abp-has(img[src*="/RO_NO"])
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
+dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
 deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
