@@ -1198,6 +1198,7 @@ pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 wayanadvision.in##.cpwls
 keralakaumudi.com##.cs-sec-feat-title
+sylhetview24.news##.custom-ads-row
 roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
@@ -2825,6 +2826,7 @@ news18.com##div[style*="300px"][style*="background"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
+sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 voiceofmedia.lk##figure .prettyphoto
