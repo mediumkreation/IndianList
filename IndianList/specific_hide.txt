@@ -1272,7 +1272,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 uksuddi.in##.entry-content .bsac
-bharatbarta.com,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
+bharatbarta.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
 chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
@@ -1704,7 +1704,7 @@ shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
-dainikmas.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
+dainikmas.com,deepamnews.lk,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
 janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
