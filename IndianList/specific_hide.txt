@@ -2827,6 +2827,7 @@ dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
 paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
+patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
