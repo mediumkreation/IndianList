@@ -527,6 +527,7 @@ just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
 tamilnewsstar.com###sidebar .text-html
+bhorerkagoj.com###sidebar .textwidget
 madawalaenews.com###sidebar .widget.HTML:not(#HTML8):not(#HTML6)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
