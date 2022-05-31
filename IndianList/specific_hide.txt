@@ -1636,6 +1636,7 @@ janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
+jaijaidinbd.com##.mt-2
 sandhannews.com##.mtphr-dnt-widget
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in,thepublicnews.live##.mvp-flex-ad
@@ -2652,6 +2653,7 @@ bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 steelcity.online##body > .container > .row:first-child > div:last-child
+jaijaidinbd.com##body > .row.hidden-xs
 bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 truevisionnews.com##center div[style="padding:20px;"]
