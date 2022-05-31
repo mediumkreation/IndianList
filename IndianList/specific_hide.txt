@@ -717,7 +717,6 @@ himalayonlinemedia.com###widget_sp_image-12
 kewalsach.com###widget_sp_image-14
 despardesweekly.co.uk,sehattimes.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
-dainikazadi.net###widget_sp_image-6
 despardesweekly.co.uk###widget_sp_image-7
 gautamsandesh.com###wonderpluginslider-container-3
 hindustanvision.com###wowslider-container105
@@ -2213,7 +2212,6 @@ karmalamadhanews24.com,pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
 hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
 vishwavani.news##.vv_advst
-dainikazadi.net##.w3-top-ads-desktop
 thaiveedu.com##.wds_slider_cont
 iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 hajurkokhabar.com##.web__banner
@@ -2380,7 +2378,7 @@ poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
-alamkikhabar.in,attingalvartha.com,bdnews.live,bnanews24.com,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,newsnow24.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
+alamkikhabar.in,attingalvartha.com,bdnews.live,bnanews24.com,dainikazadi.net,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,newsnow24.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
@@ -2634,7 +2632,7 @@ cnewsbharat.com##aside.text-center
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
 apanderanews.com,bhadas4media.com,inkpoint.in,minnal24.com,tv36hindustan.com##aside.widget_block
-aligarhmedia.com,coxsbazarshomoy.com,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
+aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
 64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,jaljalakhabar.com,jjvnews.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,mahavoicenews.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,thebharatexpress.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
@@ -2729,7 +2727,6 @@ amader-protidin.com##div[class^="customaddBox"]
 deshajtimes.com,deshantor.com##div[class^="desha-"]
 rajyasameeksha.com##div[class^="display-area"]
 samacharfirst.com##div[class^="home-adright"]
-dainikazadi.net##div[class^="iziModal"]
 lagatar.in##div[class^="lagat-"]
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
@@ -2738,7 +2735,7 @@ parvatprerna.com##div[class^="parva-after-content"]
 patnapost.com##div[class^="patna-"]
 sajagpahad.com##div[class^="sajag-"]
 samacharvaarta.com##div[class^="sgpb"]
-pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
+dainikazadi.net,pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 suddione.com##div[class^="suddi-after-content_"]
