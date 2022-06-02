@@ -266,7 +266,7 @@ digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
 cinemasthi.com,prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-heronewsonline.com,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
+allwnews.com,heronewsonline.com,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
