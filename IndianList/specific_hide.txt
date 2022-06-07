@@ -637,14 +637,14 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com###text-38
 himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,ekhabar.in,himachalvarta.com,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thepunjabi.com,vakeesam.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailypunjabtimes.com,ekhabar.in,himachalvarta.com,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thepunjabi.com###text-4
 himalini.com###text-40
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 achhikhabar.com,mbmnewsnetwork.com###text-48
 achhikhabar.com,udaydarpan.com###text-49
-biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,najarianews.in,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tamizhdb.com,thesingoritimes.com,tnilive.com,vakeesam.com###text-5
+biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,najarianews.in,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tamizhdb.com,thesingoritimes.com,tnilive.com###text-5
 achhikhabar.com,mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 udaydarpan.com###text-51
 anaicoddai.com,mbmnewsnetwork.com,recentnepal.com###text-52
@@ -1846,6 +1846,7 @@ barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com##.sidebar .widget_media_image
 jokhimnews.com##.sidebar .widget_text
+vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
