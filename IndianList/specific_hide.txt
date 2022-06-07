@@ -1899,6 +1899,7 @@ fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 ajkersylhet.com##.singlepage-section .widget_media_image
 news18.com##.site-ad-container
 khulasanewslive.in##.site-footer .featured-stories
+khabarkunj.com##.site-footer__bottom
 googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,nepalraftar.com,samabesionline.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 ajkersylhet.com,dainiknarsingdi.com##.siteber-add-section
