@@ -1846,6 +1846,7 @@ barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com##.sidebar .widget_media_image
 jokhimnews.com##.sidebar .widget_text
+vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
