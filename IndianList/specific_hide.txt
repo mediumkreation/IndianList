@@ -160,7 +160,7 @@ checkpostnews.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com#
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com###block-4
+bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com###block-4
 hamarahimachal.com,newsnukkad.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
@@ -1258,6 +1258,7 @@ zoombangla.com##.elementor-widget-html img
 abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,mahendranagarpost.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
+pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
