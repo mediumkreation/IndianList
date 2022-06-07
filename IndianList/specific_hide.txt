@@ -2087,6 +2087,7 @@ samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com,ujjawalprabhat.com##.text-html
 sarkarimanthan.com,ujjawalprabhat.com##.text-html-box
+aashanews.com##.textwidget img
 indiavisionmedia.com##.thd
 gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
