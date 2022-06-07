@@ -332,7 +332,7 @@ dgnews.co.in,jansaamna.com###media_image-13
 bplnews24.in,hindvatannews.com,indianow24.com,jansaamna.com,mirrortoday.in,odishatime.com,sabkasandesh.com###media_image-14
 anewsoffice.com,hindvatannews.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 bplnews24.in,flowersoriginals.com,kushinagarlive.com###media_image-16
-bplnews24.in,dailysamvad.com###media_image-17
+bplnews24.in###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,webreporter.co.in###media_image-19
 aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,janpadnewslive.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,parvasinewspaper.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sajagpahad.com,sandhannews.com,sasthabangla.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
@@ -1276,6 +1276,7 @@ himalipatrika.com.np##.elementor-widget-text-editor
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
+dailysamvad.com##.entry > div:first-child > p img
 jagatbhumi.com##.entry img
 dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
