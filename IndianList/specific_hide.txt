@@ -204,7 +204,7 @@ biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,dvgsuddi.com,jaihindtimes.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
-aavakaaya.in,metroplus.online,thesunrisetoday.com###custom_html-12
+aavakaaya.in,metroplus.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
@@ -216,13 +216,15 @@ mppost.com,sabkasandesh.com###custom_html-16
 dnspnews.in###custom_html-169
 muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
-antimvikalp.com,bharatnewslive24.in,ggsnews24.com###custom_html-19
+antimvikalp.com,bharatnewslive24.in,ggsnews24.com,ujiarpurnews.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk###custom_html-2
+ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
 aavakaaya.in###custom_html-25
 saakshatv.com###custom_html-26
+ujiarpurnews.com###custom_html-27
 saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
 angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
@@ -1277,6 +1279,7 @@ bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 uksuddi.in##.entry-content .bsac
 bharatbarta.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
+ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
