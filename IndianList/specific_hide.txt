@@ -1673,6 +1673,7 @@ payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
 atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
+digiana.com##.news_scrol-bean
 newsbindass.com##.newsb-adlabel
 jharkhandvani.in##.newsever-widget .textwidget
 kushiyaranews.com##.newspack_global_ad

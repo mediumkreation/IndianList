@@ -73,12 +73,13 @@
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
 /advertisement/$domain=mediavision.news
+/advertisement/*$domain=digiana.com
 /advertisements/$domain=abhiyandaily.com|nepalkhabar.com
 /advertisements/*$domain=nepalipatra.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=tamil.com|thereport24.com
-/banners/*$domain=kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
+/banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
 /bigyaapan/$domain=nayadainiki.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
