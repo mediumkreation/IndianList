@@ -1969,7 +1969,7 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
 chitwanpress.com##.stickey-side .ad-title ~ a
-24hrnews.in,cityhotnews.com,dakshinapath.com##.sticky-sidebar .widget_block
+24hrnews.in,cityhotnews.com,dakshinapath.com,primestv.in##.sticky-sidebar .widget_block
 hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 dakshinapath.com##.sticky-sidebar .widget_metaslider_widget
