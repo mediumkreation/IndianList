@@ -2111,6 +2111,7 @@ cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 bheldailynews.com##.theiaStickySidebar .e3lan
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
+bebakmanch.com##.theiaStickySidebar .owl-carousel
 amritvichar.com,bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com,urjanchaltiger.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
 pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
