@@ -5,7 +5,7 @@
 -ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad-Side-Bar.png|$domain=buxaruptodate.com
--ad.gif|$domain=5dariyanews.com|clickmandu.com|kanakaionline.com|newsplus.lk|newssanjal.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
+-ad.gif|$domain=5dariyanews.com|clickmandu.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
 -Ad.jpg|$domain=gtamilnews.com
@@ -2955,6 +2955,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||officialkhabar.com/wp-content/uploads/2020/09/acsl-scaled.jpg
 ||onenews18.com/wp-content/uploads/2020/04/261f80be-e043-419e-90b0-6aaa85717640-821x1024.jpg
 ||onenewsbd.com/wp-content/uploads/2018/09/LabScan-Add2.gif
+||onetamilnews.com^*-ad-
+||onetamilnews.com^*/bi_wish.png
+||onetamilnews.com^*/black-forest.jpg
+||onetamilnews.com^*/book-centre.gif
+||onetamilnews.com^*_ad_
+||onetamilnews.com^*adtop
 ||onlinedabali.com/wp-content/uploads/2020/04/1000x100_Prabhu-Bank-GIF_2.gif
 ||onlinedabali.com/wp-content/uploads/2020/04/ad-easysoft.gif
 ||onlinedabali.com/wp-content/uploads/2020/04/kangaroo-ad.gif
