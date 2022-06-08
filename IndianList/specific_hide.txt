@@ -465,6 +465,7 @@ lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
 dineshkhabar.com###popBlkAd
 samakal.com###popUpModalAd
+bharatdarshannews.com###popup_box
 rojgarlive.com###popup_indiv2
 dhamaka36.com###post-22
 jagprerna.com###post-7708
@@ -724,6 +725,7 @@ despardesweekly.co.uk,sehattimes.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
 gautamsandesh.com###wonderpluginslider-container-3
+bharatdarshannews.com###wows31_0
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bharatdarshannews.com###wowslider-container3
@@ -828,6 +830,7 @@ nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 bdtimesnews.com##.ad_text_box
 farakdhar.com,ratopati.com##.adalyticsblock
+bharatdarshannews.com##.adbo
 lohagaranews24.com,thebharatnews.net##.adbox
 arthikawaj.com,kdnewslive.in,khabor.com,pchelplinebd.com,pradeshajjtak.com,rajnitiprotidin.com##.adcontainer
 ajkernarsingdi.com,ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dokhinercrime.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,himalayannews.com,jagocomilla.com,jamunanewsbd.com,kathmandupati.com,lalsobujerkontho.com,narsingdipratidin.com,natunbazar24.com,news18.com,news4nation.com,newsatfirst.com,paharkantho.com,paribahanjagot.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,ratdinnews.net,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,thebarisal.com,uttorersomoy.com,vachakam.com##.add
@@ -1580,6 +1583,7 @@ samudrapari.com##.main-news-ads
 khulnanchal.com##.main-sidebar .widget_custom_html
 bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
+bharatdarshannews.com##.main-slider
 jaianndata.com##.main-tp-adds
 digitalkhabar.com##.main-wrap div[data-adid]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
@@ -2244,6 +2248,7 @@ e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
 madawalaenews.com,sanskarnews.page##.widget.Image
+bharatdarshannews.com##.widget1
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
