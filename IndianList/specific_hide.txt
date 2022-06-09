@@ -2052,6 +2052,7 @@ eaibanglai.com,vasundharadeep.news##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 keralabreaking.com##.td-post-content > p img
 ehapurnews.com##.td-post-content > p>strong:only-child
+morbiupdate.com##.td-post-content a > img
 vavuniyanet.com##.td-post-content a img
 rashtrabodh.com##.td-post-content div[style*="float:left"] img
 bongobani.ca##.td-post-content figure figcaption
