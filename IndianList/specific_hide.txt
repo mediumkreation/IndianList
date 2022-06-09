@@ -217,7 +217,7 @@ dnspnews.in###custom_html-169
 muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -1619,6 +1619,7 @@ lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 himachalmedia.co##.mg-headwidget .pull-right
+todayindia.com##.mg-nav-widget-area .pull-right
 newskadaba.com##.mh-header-widget-2
 janjoshnews.in##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
