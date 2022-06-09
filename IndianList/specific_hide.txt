@@ -19,7 +19,7 @@ aapkiummid.com,balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML1
 balotranewstrack.com,thattungal.com###HTML16
 thattungal.com###HTML18
 obolokon24.com###HTML19
-aapkimedia.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com###HTML2
+aapkimedia.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
@@ -127,7 +127,7 @@ kahalenews.com###attachment_43256
 kahalenews.com###attachment_44092
 dhaka18.com###awaken_video_widget-4
 ntvtelugu.com###awt-left
-dinamina.lk,ilamai.com,sitakundabarta.com###banner
+dinamina.lk,ilamai.com,sitakundabarta.com,upayuktha.com###banner
 jogsanjogtimes.com###banner .tcycle img
 jogsanjogtimes.com###banner .tcycle ~ p img
 devbhoomidarshan17.com###banner-10
@@ -469,7 +469,6 @@ bharatdarshannews.com###popup_box
 rojgarlive.com###popup_indiv2
 dhamaka36.com###post-22
 jagprerna.com###post-7708
-upayuktha.com###primary .nivoSlider
 ajdapunjab.com###primary .widget_media_image
 alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
@@ -563,6 +562,7 @@ haryananewsonline.com###sidebar-secondary-sidebar
 citypostlive.com###sidebar-secondary-sidebar > .widget
 zamania.in###sidebar-section-top
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
+upayuktha.com###sidebar-wrapper .widget.Image
 abtaknews.com,pradeepamonline.com###sidebar1
 nknewsindia.com###sidebar2
 daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com###sidebaradvertise
@@ -1429,7 +1429,7 @@ dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 metroplus.online##.header-wraper .fullwidthabanner
 talashbangla.com##.header__add
-corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,lankasudar.com,shramjeevijournalist.com,tamilstar.com,upayuktha.com##.header__banner
+corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,lankasudar.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
@@ -1724,7 +1724,7 @@ shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
-dainikmas.com,deepamnews.lk,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com,upayuktha.com##.penci-banner-box
+dainikmas.com,deepamnews.lk,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
 janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
@@ -2403,7 +2403,6 @@ khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 alamkikhabar.in,attingalvartha.com,bdnews.live,bnanews24.com,dainikazadi.net,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,newsnow24.com,politalks.news,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com##.wpb_single_image
-upayuktha.com##.wpb_single_image .vc_figure
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 todaybhaskar.com##.wpb_text_column
