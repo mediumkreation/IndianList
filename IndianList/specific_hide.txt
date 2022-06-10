@@ -32,7 +32,7 @@ gramsamachar.com,jaldhakanews.com###HTML30
 99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
 36kaakda.in,99samacharexpress.in,chilahatiweb.com,eluvannews.com,kanaighatnews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
-36kaakda.in,99samacharexpress.in,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,visarnews.com###HTML5
+36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,visarnews.com###HTML5
 taazakhoj.com###HTML6
 chapainawabganjnews.com,ekumaon.com,livebihar24news.com,rewanewsmedia.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rknewsofindia.com###HTML8
@@ -64,9 +64,9 @@ engrsvoice.com,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.co
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 engrsvoice.com,evisionnews.co,gidhaur.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 hamaramahanagar.in,kurunews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
-importmirror.com,nepalmother.com,thattungal.com###Image8
+abtakapakesath.com,importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
-chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
+abtakapakesath.com,chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
 36kaakda.in###LinkList2
 poonththalir.blogspot.com###LinkList21
 rajbem.com###MenuAlertAD
