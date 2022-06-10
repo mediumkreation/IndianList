@@ -585,6 +585,7 @@ khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
 telugutimes.net###splide24
 sanskardarshan.in###sticky-wrapper
+indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
 lokaantar.com###stickyAdBottom
 webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
