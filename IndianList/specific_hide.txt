@@ -1936,7 +1936,7 @@ bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 lokjeewan.com##.slider_ad_top
-janpadnewslive.com##.slider_instance
+barabankiexpress.in,janpadnewslive.com##.slider_instance
 sadeaalaradio.co.nz##.slides
 pslvtv.com,rewanewsmedia.com##.slideshow-container
 pslvtv.com##.slideshow-container ~ div .dot
@@ -2994,6 +2994,7 @@ bihardootnews.com##section[data-id="e3b7c3d"]
 chennaitodaynews.com##section[id^="id"]
 veerdharanews.com#?##sidebar-primary-sidebar .widget:-abp-has(div[data-adid]:not([data-type="custom_code"]))
 manithan.com##span[id] > iframe[id]:only-child
+barabankiexpress.in##span[style^="color: #008000"] img
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
