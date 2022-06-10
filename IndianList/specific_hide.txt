@@ -1135,6 +1135,7 @@ yugabdha.com##.box-sec-bg .slider
 tcp24.news##.bpgPhoto
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
+yuvabharat.news##.breaking-news-area.mt-15
 seithy.com##.briefNewsAd
 navayuganews.com##.bs-injection
 sabkuchgyan.com##.bs-listing-multi-tab + div
