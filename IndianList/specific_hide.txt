@@ -702,6 +702,7 @@ janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
 mediapunjab.com###up_height img[src^="data:image"]
+newsnationtv.com###v-newsnationtv-v4-0
 manobkantha.com.bd###vi-sticky-ad
 ghaziabadparikrama.com###video-widget-2
 news18.com###vigyapan
@@ -955,6 +956,7 @@ dailyonusondhan.com,passengervoice.net##.ads_click_counter
 janadeshexpress.in##.ads_top_disp
 divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
+newsnationtv.com##.adsense
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
