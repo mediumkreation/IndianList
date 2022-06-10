@@ -684,6 +684,7 @@ notunerkotha.com###tie-block_2330
 cgtop36.com###tie-block_3472
 notunerkotha.com###tie-block_428
 notunerkotha.com###tie-block_629
+tcp24.news###tie-block_907
 notunerkotha.com###tie-block_972
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
@@ -1132,7 +1133,6 @@ horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
 lokjeewan.com##.bottom_ad_slide
 yugabdha.com##.box-sec-bg .slider
-tcp24.news##.bpgPhoto
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 yuvabharat.news##.breaking-news-area.mt-15
@@ -1989,6 +1989,7 @@ pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
 abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,newstruthlive.com,pahar24.com,pangighatidanikapatrika.in##.stream-item-below-post-content
+tcp24.news##.stream-item-in-post
 amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
