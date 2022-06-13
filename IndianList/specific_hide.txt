@@ -2039,7 +2039,7 @@ loksansar.in,pathramonline.com##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com,rcn24bd.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
-24ghonta.news##.td-fix-index img
+24ghonta.news,dailydeshkidharti.com##.td-fix-index img
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
