@@ -1624,7 +1624,7 @@ bankingkhabar.com##.meroads
 lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
-himachalmedia.co##.mg-headwidget .pull-right
+himachalmedia.co,namastepurvanchal.in##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
 newskadaba.com##.mh-header-widget-2
 janjoshnews.in##.mh-sidebar .widget_media_image
@@ -2649,6 +2649,7 @@ chakrapath.com##app-ad-control-header
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
+namastepurvanchal.in##article figure.wp-block-image
 atharvnews.com##aside .theiaStickySidebar .widget_text
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 gtamilnews.com,tv24live.com##aside .widget_media_image
