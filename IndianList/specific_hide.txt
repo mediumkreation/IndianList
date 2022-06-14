@@ -2043,7 +2043,7 @@ techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-hindxpress.com,kanlishnews.com,lokpaksh.com,news7express.com,newsganga.com,positivekhabar.com,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
+hindxpress.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,positivekhabar.com,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
@@ -2093,6 +2093,7 @@ khabargujarat.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhaba
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 tazakhabar.in##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
+navdeshtimes.com##.td_separator_solid
 khaskhobor.com##.td_single_image_bg
 akkbd.com##.td_single_image_bg[target="_blank"]
 teznews.com,vijayavani.net##.td_spot_img_all
