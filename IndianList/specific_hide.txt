@@ -1654,7 +1654,7 @@ bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
-everesttimes.net,pclive7.com##.mom-e3lanat
+everesttimes.net,news30express.com,pclive7.com##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
@@ -2405,7 +2405,7 @@ channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
-indiaaajkal.in,newscrime24.com##.wpb_gallery
+indiaaajkal.in,news30express.com,newscrime24.com##.wpb_gallery
 keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sajagindia.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
