@@ -1850,6 +1850,7 @@ urjanchaltiger.in##.sideads-sec
 dainiklivenews24.com##.sidebar .HTML > .widget-content:first-child
 nayasabera.com##.sidebar .HTML:not(#HTML15):not(#HTML8)
 nayasabera.com##.sidebar .Image:not(#Image6)
+adbhutsamachar.com##.sidebar .kopa-carousel-widget
 dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
