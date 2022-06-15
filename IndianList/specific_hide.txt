@@ -1284,7 +1284,7 @@ theeditor24.com##.elementor-widget-penci-featured-boxes
 punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 truelinenews.com##.elementor-widget-slides
-kannadanewsnow.com##.elementor-widget-spacer
+kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 himalipatrika.com.np##.elementor-widget-text-editor
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
@@ -2978,6 +2978,8 @@ rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 news18.com#?##right div:-abp-has(> div.nw18-dfp-ad)
 rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
 rozanaspokesman.in#?#div[style]:-abp-has(> div:-abp-contains(Advertisement))
+sabhavarthakal.com#?#.jeg_block_heading:-abp-has(> .jeg_block_title > span:-abp-contains(ADVERTISEMENTS))
+sabhavarthakal.com#?#.jeg_block_heading:-abp-has(> .jeg_block_title > span:-abp-contains(Advertisement))
 sachikalam.com#?#div[class*="slide"]:-abp-has(> div > .AdvtSample)
 samajkihalchal.com#?#div.sidebar h5:-abp-has(> span:-abp-contains(Ads))
 samayduniya.com#?#div:-abp-has(> a > div > .pd_title)
