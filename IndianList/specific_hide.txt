@@ -936,7 +936,7 @@ himachalreport.com##.adguru
 udayavani.com##.adliadworld
 deshabhimani.com##.adone > div
 alivenews.co.in##.adredux
-anusandhan24.com,arthadabali.com,ashakakiran.com,canadanepal.com,chandpur24.net,chapaibarta24.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,ekusheysangbad.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,laligurash.com,livegandaki.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,news24bd.net,newsbihani.com,onlinepana.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,sokalerkhobor24.com,sutranews.com,tamilan24.com,topnews24x7.com##.ads
+anusandhan24.com,arthadabali.com,ashakakiran.com,canadanepal.com,chandpur24.net,chapaibarta24.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,ekusheysangbad.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,laligurash.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,news24bd.net,newsbihani.com,onlinepana.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,sokalerkhobor24.com,sutranews.com,tamilan24.com,topnews24x7.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
 gandakitimes.com##.ads aside:not(#custom_html-7)
@@ -1326,6 +1326,7 @@ newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
 gandakichhadke.com##.eous-container
+livehindustan.com##.epr-ads
 himalayapost.com##.et-waypoint
 himalayapost.com##.et_pb_code_8
 hpnewsatl.com##.et_pb_post_content img
@@ -1714,6 +1715,7 @@ bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhya
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
 sathyamonline.com##.nsads
+livehindustan.com##.ntwrk-wdgt
 shreekanchanpath.com,swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
@@ -1779,6 +1781,7 @@ sudurkhabar.com##.primary-sidebar-widget img
 bankbimaarthonity.com##.printOff
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
 balaganjprotidin.com##.prl-panel .widget_text
+livehindustan.com##.prlads
 onlinenews7.com##.proad
 kdnewslive.in##.progressContainer
 kdnewslive.in##.progressModal
@@ -1987,6 +1990,7 @@ dakshinapath.com##.sticky-sidebar .widget_metaslider_widget
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
+livehindustan.com##.story-listing:empty
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
 247superfast.com,aajkaaditya.in,aapkiaawaz.net,amanyatralive.com,bastabbadi.com,bharatsamachartv.in,bograsangbad.com,charotarnoavaj.com,cinenxt.com,dainikbhaskarup.com,devbhumijknews.in,divyadarpan.com,gandakivoice.com,hamarahimachal.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,malayagam.lk,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newsd5.in,newssow.com,newvavuniya.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,raigarhtopnews.com,starexpress.news,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
@@ -2706,6 +2710,7 @@ deshclick.com#?#*:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
+livehindustan.com##div.st-cat-news:empty
 punjabguardian.com##div.widget_media_image:not(#media_image-12)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
