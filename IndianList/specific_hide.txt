@@ -1141,6 +1141,7 @@ horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
 lokjeewan.com##.bottom_ad_slide
 yugabdha.com##.box-sec-bg .slider
+khoborbari24.com##.box_outer.widget_text
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 yuvabharat.news##.breaking-news-area.mt-15
@@ -1663,6 +1664,7 @@ mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,news30express.com,pclive7.com##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
+khoborbari24.com##.mom_ads300
 janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 chattogramersomoy.com##.mom_e3lan-empty
