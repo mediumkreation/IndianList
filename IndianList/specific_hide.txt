@@ -166,8 +166,8 @@ bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com,pok
 hamarahimachal.com,newsnukkad.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
-paridarshaka.com###block-6
-areseenews.com,kundapraa.com,samacharfirst.com###block-7
+paridarshaka.com,thenewswave.com###block-6
+areseenews.com,kundapraa.com,samacharfirst.com,thenewswave.com###block-7
 nationalwartanews.com###block-7 img
 tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
