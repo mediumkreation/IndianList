@@ -9,7 +9,7 @@ samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 utkalpratidin.com###HP_O_LHS_8
 atalsamachar.com###HP_O_TP_2 > div ~ div
 actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
-chilahatiweb.com,jaldhakanews.com,media24media.com,yarldevinews.net###HTML10
+chilahatiweb.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,dailyhealthletters.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,rewanewsmedia.com###HTML11
 dailyhealthletters.com,liveaaryaavart.com###HTML12
@@ -51,7 +51,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gzpnews.com,hamaramahanagar.in,inahardoi.com,jaunpurlive.com,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sahibganjnews.com,thattungal.com###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,inahardoi.com,jaunpurlive.com,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sahibganjnews.com,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -566,6 +566,7 @@ zamania.in###sidebar-section-top
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 upayuktha.com###sidebar-wrapper .widget.Image
 abtaknews.com,pradeepamonline.com###sidebar1
+hadapsarexpress.com###sidebar1.widget.HTML:not(#HTML6)
 nknewsindia.com###sidebar2
 daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com###sidebaradvertise
 kulalaworld.com###simpleimage-13
