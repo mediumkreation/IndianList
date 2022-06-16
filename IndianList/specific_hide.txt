@@ -3021,6 +3021,7 @@ agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 muznews.online##section[data-id="9a0f91e"]
 bihardootnews.com##section[data-id="e3b7c3d"]
 chennaitodaynews.com##section[id^="id"]
+punjabikangaroo.com#?##side .widget:-abp-has(> .heading > span:-abp-contains(Advertisement))
 veerdharanews.com#?##sidebar-primary-sidebar .widget:-abp-has(div[data-adid]:not([data-type="custom_code"]))
 manithan.com##span[id] > iframe[id]:only-child
 barabankiexpress.in##span[style^="color: #008000"] img
