@@ -2150,6 +2150,7 @@ lokshakti.in,parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,opennewsx24.com,pnn24.in,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
+bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 pujibazarexpress.com##.theiaStickySidebar .wpb_single_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
@@ -2346,6 +2347,7 @@ dainikparibarton.com##.widget_text.widget_area
 chandrikadaily.qa##.widget_viral_advertisement
 mathabhanga.com##.widget_viy
 thirdeyetoday.com##.widget_youtube_responsive
+bangladeshsangbadpratidin.com##.width-ad-wrap
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 madhyapradeshdarshan.com##.wonderpluginslider-container
