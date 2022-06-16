@@ -157,7 +157,7 @@ hnn24x7.com,purvanchalsandesh.com###block-24
 organizeindia.in###block-26
 khabarcgnews.com###block-27
 wealthfreedomideas.com###block-28
-checkpostnews.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
+bundelkhandsamachar.com,checkpostnews.com,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
 wealthfreedomideas.com###block-30
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
@@ -167,10 +167,10 @@ hamarahimachal.com,newsnukkad.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
 paridarshaka.com,thenewswave.com###block-6
-areseenews.com,kundapraa.com,samacharfirst.com,thenewswave.com###block-7
+areseenews.com,bundelkhandsamachar.com,kundapraa.com,samacharfirst.com,thenewswave.com###block-7
 nationalwartanews.com###block-7 img
 tamizhakam.com,wayanadnewsdaily.com###block-8
-bharatjan.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
+bharatjan.com,bundelkhandsamachar.com,nationalwartanews.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
 varthabharati.in###block-block-253--2
@@ -2011,11 +2011,12 @@ amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,natunbarta.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 airanewsnetwork.com,bengallive.in,jagatbhumi.com,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
-apnahimachalapnishaan.in,charotarnoavaj.com,hamarahimachal.com,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newssow.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,telegramnews24.com,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
+apnahimachalapnishaan.in,bundelkhandsamachar.com,charotarnoavaj.com,hamarahimachal.com,keralabhooshanam.com,livequicknews.in,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newssow.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,telegramnews24.com,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 airanewsnetwork.com##.stream-item-widget:not(#stream-item-widget-3)
 dainikmaharajganj.in##.stream-item.half-box
 apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
+bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
 voiceofjhabua.com##.stream-title
 youthmukam.com##.su-image-carousel
 awajnews.com##.supsystic-slider-wrapper
