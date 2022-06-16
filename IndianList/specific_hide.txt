@@ -219,7 +219,7 @@ dnspnews.in###custom_html-169
 muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -1948,7 +1948,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
+bundelkhandvoice.com,dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
