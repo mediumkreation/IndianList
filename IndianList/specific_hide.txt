@@ -1309,7 +1309,7 @@ thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 abbiharnews.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
-chavakkadonline.com,emaatimes.com,jangathatimes.com##.entry-content > p img
+chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
@@ -2351,6 +2351,7 @@ thirdeyetoday.com##.widget_youtube_responsive
 bangladeshsangbadpratidin.com##.width-ad-wrap
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
+fbdnews.com##.wonderpluginslider
 madhyapradeshdarshan.com##.wonderpluginslider-container
 ghaziabad365.com##.wp-block-group
 joharlive.com##.wp-block-image
