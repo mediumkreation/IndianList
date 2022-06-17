@@ -2049,7 +2049,7 @@ dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-con
 ehapurnews.com,rajasthanlive24x7.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
 newsxtra.in##.td-a-rec-id-footer_top
-amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailybanglarrup.com,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pahilosamachar.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
+amaderkhulna.net,arthosuchak.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,dailybanglarrup.com,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pahilosamachar.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 theguptchar.com##.td-a-rec:not(.tdi_17)
@@ -2783,6 +2783,7 @@ ajabgjab.com##div[class^="ajabg-"]
 patnapost.com##div[class^="aryav-"]
 hindustanvision.com##div[class^="avtg"]
 mathrubhumi.com##div[class^="banner_sliders"]
+barnalatoday.com##div[class^="barnalatoday"]
 amader-protidin.com##div[class^="customaddBox"]
 deshajtimes.com,deshantor.com##div[class^="desha-"]
 rajyasameeksha.com##div[class^="display-area"]
