@@ -794,7 +794,7 @@ sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 pankourinews.com##.ad img
-chhattisgarhaaj.com,newsdnntv.com,pratyeknewslive.com##.ad--space
+chhattisgarhaaj.com,khabaraaptak.net,newsdnntv.com,pratyeknewslive.com##.ad--space
 newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
@@ -2971,6 +2971,7 @@ janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-con
 janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
 keralabreaking.com#?#.wpb_wrapper:-abp-has(> .td_block_single_image)
 khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
+khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div > span + a)
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
