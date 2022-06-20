@@ -912,6 +912,7 @@ news18.com##.add_secton
 pokharapatra.com.np##.adda
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
+khabarpunja.com##.addbelow
 tirangaacindianews.com##.addbx
 motivatenews.com.np##.addc img
 osnepal.com##.addcomponent
@@ -2910,6 +2911,7 @@ glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 thakurgaon24newspaper.com##footer .wp-block-code
 provatnews.com##h2[style^="width:710px; height: 100px;"]
+khabarpunja.com##header .add
 lokmat.com##homepage-taboola
 infosrilankanews.info##html12
 infosrilankanews.info##html2
