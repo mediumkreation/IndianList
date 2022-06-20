@@ -614,7 +614,7 @@ moonramkonam.com###text-124
 bihardainik.com,bn.bdcrictime.com,hindustanlivetoday.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,voiceofshatabdi.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,mpbreaking.in,news24x365.com,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
-ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,hindvatannews.com,janvadtimes.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
+ctgcrimenews.com,dailypunjabtimes.com,damaulinews.com,despardesweekly.co.uk,hindvatannews.com,janvadtimes.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,kalaroanews.com,manvadhikartimes.com###text-16
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,amaderparis.com,banglarkonthosor.com,sambadsaradin.com,vavuniyanet.com###text-18
@@ -2289,6 +2289,7 @@ newsofmithila.in##.widget_300x250_advertisement
 jiwanjotsavera.com##.widget_ads_big
 ethiri.com##.widget_ads_easy_widget
 hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
+damaulinews.com##.widget_advertisement_widget
 e-kantho24.com,gtbnews24.com##.widget_area
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 banglaralonews.com,jubokantho24.com##.widget_area img
