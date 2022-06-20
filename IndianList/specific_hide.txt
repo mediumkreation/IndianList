@@ -2358,8 +2358,8 @@ samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 fbdnews.com##.wonderpluginslider
 madhyapradeshdarshan.com##.wonderpluginslider-container
-ghaziabad365.com##.wp-block-group
-joharlive.com##.wp-block-image
+ghaziabad365.com,royalnews13.in##.wp-block-group
+joharlive.com,royalnews13.in##.wp-block-image
 nainilive.com##.wp-block-image img
 kafaltree.com##.wp-block-video
 indiapolkhol.in,pplnews.in##.wp-custom-header
