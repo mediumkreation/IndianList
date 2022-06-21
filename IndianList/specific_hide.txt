@@ -2042,7 +2042,7 @@ nepalsamaya.com##.tc-side-ads
 sachetonbarta.com.bd##.td-a-rec .td-all-devices
 dainikjanwani.com##.td-a-rec a:not([href*="whatsapp.com"])
 newstrendz.co.in##.td-a-rec iframe
-abhayindia.com,abhishektimes.in.net,bharathvaibhav.com,cinesamugam.com,creativenewsexpress.com,jaagonews.com,smnewshimachal.in,thegramtodaydailynews.com##.td-a-rec img
+abhayindia.com,abhishektimes.in.net,annapurnatimes.com,bharathvaibhav.com,cinesamugam.com,creativenewsexpress.com,jaagonews.com,smnewshimachal.in,thegramtodaydailynews.com##.td-a-rec img
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 crimeuttarakhand.in,dhunga.in,rantraibaar.in##.td-a-rec video
 bholahatchitro.com,khulnatimes.com,pahilosamachar.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
@@ -2128,6 +2128,7 @@ newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 tejastoday.com##.tdb_single_content p img
 samugammedia.com##.tdi_153
 devbhoomimedia.com##.tdi_25
+annapurnatimes.com##.tdm_block
 deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
