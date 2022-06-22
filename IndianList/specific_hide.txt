@@ -1011,7 +1011,7 @@ nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
-apkhabar.com,bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 bizmandu.com##.advertisement-inside-content
@@ -1453,6 +1453,7 @@ barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
+banglapost.co.uk##.header_adv
 newstaglive.com##.header_adver
 sunbd24.com##.header_area > .container
 natunjug.com##.header_biggapon
