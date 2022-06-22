@@ -752,11 +752,12 @@ pinakatimes.com,sachikalam.com,sehajtimes.com##.AdvtSample
 tutyonline.net##.Amain
 janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
-amaderprotidin.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
+amaderprotidin.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd img
 bdprojonmo71.com##.DAdvertisement
 mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com##.DHeaderBanner
+dailyjalalabad.com##.DetailsContent .textwidget
 satyamevtv.com##.Eod_right
 bhadas4media.com##.FooterAdArea .wp-block-image
 banglanewsca.com##.Front-page-Right-Side-Ad
