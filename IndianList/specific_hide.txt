@@ -1932,6 +1932,7 @@ snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 cumillasdnews24.com##.single_details .code-block
 banglanewstv.com##.single_details .widget_area
+ab71.tv##.single_dtails img
 nagarprabha.org##.single_featured_slide
 dailyghagot.com##.single_page .add
 jamunanewsbd.com##.single_page .widget_area
@@ -2903,6 +2904,7 @@ voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
+ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
 dainikkushtia.net,news27.org,newswings.online,prasashan.com##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
