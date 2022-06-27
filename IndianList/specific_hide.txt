@@ -1327,7 +1327,7 @@ dailysatnadee.com##.entry-content div[data-adid]
 janpadnewslive.com,pradeshajjtak.com##.entry-content figure
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
-ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
+abnewslive.in,ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com,pclive7.com##.entry-content img
 newswatch.co.in,peptechtime.com##.entry-content img:only-child
