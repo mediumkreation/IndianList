@@ -2349,6 +2349,7 @@ dainik4media.com##.widget_nivo_slider_widget
 wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
+khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
 awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
