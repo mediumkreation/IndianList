@@ -2731,6 +2731,7 @@ bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 truevisionnews.com##center div[style="padding:20px;"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
+cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
 countrynewstoday.com#?#center:-abp-has(img[src*="/RO_NO"])
