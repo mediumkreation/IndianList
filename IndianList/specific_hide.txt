@@ -2288,6 +2288,7 @@ crimediarybd.com##.widget-body > p img
 kannadaprabha.com##.widget-container-188
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
+prothomalo.com##.widget-or-advertisement
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
@@ -2805,11 +2806,13 @@ deshajtimes.com,deshantor.com##div[class^="desha-"]
 rajyasameeksha.com##div[class^="display-area"]
 samacharfirst.com##div[class^="home-adright"]
 lagatar.in##div[class^="lagat-"]
+prothomalo.com##div[class^="multipurposeComponent-m__base"]
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
 parvatprerna.com##div[class^="parva-after-content"]
 patnapost.com##div[class^="patna-"]
+prothomalo.com##div[class^="row1-m__widget-available"]
 sajagpahad.com##div[class^="sajag-"]
 samacharvaarta.com##div[class^="sgpb"]
 dainikazadi.net,pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
