@@ -1633,7 +1633,7 @@ gnewsbd24.com##.maniio
 anandabazar.com##.manyawarbox
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
-ayushindianews.com,hpnewsatl.com,khabarpahad.com##.master-slider
+ayushindianews.com,hpnewsatl.com,khabarpahad.com,tv20news.in##.master-slider
 newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
@@ -2820,6 +2820,7 @@ uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
 akashjatra.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
 bikalpadainik.com##div[data-adid]:not([data-adid="5022"]):not([data-adid="3716"])
@@ -3066,6 +3067,7 @@ theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div a p:-abp-contains(
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
 todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
+tv20news.in#?#p:-abp-contains(Advertisement)
 aajkasach.in##ul.post h3.widget-title
 unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
 upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-contains(Ad |))
