@@ -1667,6 +1667,7 @@ rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 gandakichhadke.com##.mkloyr-container
 24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 manoramanews.com##.mm-banner300-ad
 manoramanews.com,manoramaonline.com##.mm-other-ad
 manoramaonline.com##.mm-textlink-ad
