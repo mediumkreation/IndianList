@@ -151,7 +151,7 @@ ghaziabad365.com,sachetonbarta.com.bd###block-14
 samrudhaodisha.com###block-15
 samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
-bansalnews.com,khabriyanews.com,sehattimes.com,shottoboyan.com,thedastak24.com###block-2
+bansalnews.com,hamdardtv.com,khabriyanews.com,sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
 hnn24x7.com,livepress24.com###block-23
 hnn24x7.com,purvanchalsandesh.com###block-24
@@ -1287,7 +1287,7 @@ wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,kannadanewsnow.com,khabardarinews.com,mahendranagarpost.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,mahendranagarpost.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
@@ -1767,6 +1767,7 @@ jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
 tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
+hamdardtv.com##.plyr
 eimuhurte.com##.popUPBox
 bonikbarta.net##.popupCloseButton
 rtvonline.com##.popup_blackoverlay
@@ -2086,7 +2087,7 @@ vadakaravoice.com##.td-main-sidebar aside
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 dishadaily.com,saamana.com##.td-post-content .code-block
 sanjeevanisamachar.com##.td-post-content .master-slider
-eaibanglai.com,vasundharadeep.news##.td-post-content .td-a-rec
+eaibanglai.com,hamdardtv.com,vasundharadeep.news##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 keralabreaking.com##.td-post-content > p img
 ehapurnews.com##.td-post-content > p>strong:only-child
