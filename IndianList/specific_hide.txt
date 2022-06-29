@@ -3067,6 +3067,8 @@ krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
+thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
+thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div a p:-abp-contains(Ad:))
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
