@@ -1774,6 +1774,7 @@ bonikbarta.net##.popupCloseButton
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
+dhorpatannews.com##.position-sticky .adds_menu
 shivamoggalive.com##.post .size-full
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
@@ -1985,6 +1986,7 @@ nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 dinajpurnews24.com##.software
 kaumudiplus.com##.sp-ad-row
+dhorpatannews.com##.sp-shadow .adds_menu
 laatsaab.com##.sp_simple_youtube
 alorkantho24.news##.spad
 ekuruvi.com##.span-2 a:only-child
