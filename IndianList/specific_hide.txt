@@ -1053,6 +1053,7 @@ hulchalnews24.com##.alignnone.size-medium
 sansarpost.com##.allrounder-advertisement
 babuaa.com##.aloks
 ibc24.in##.alt-balaji
+nayabishwo.com##.am-top-ads
 jagonarayanganj24.com##.amws-custom-widget-show-ad
 bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
@@ -1595,6 +1596,7 @@ purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 weeklydesh.co.uk##.logoright
 arthakoartha.com,manoranjansansar.com##.long-ad
+nayabishwo.com##.long-add
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
@@ -1927,6 +1929,7 @@ thenewswords.com##.single-image .carousel
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
+nayabishwo.com##.single-pg-ad-2
 ktmdainik.com##.single-post aside.widget_media_image
 nepalmamila.com##.single-post-advertisement
 haryananewsonline.com##.single-post-content > p img:only-child
