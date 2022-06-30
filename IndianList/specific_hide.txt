@@ -571,6 +571,7 @@ upayuktha.com###sidebar-wrapper .widget.Image
 abtaknews.com,pradeepamonline.com###sidebar1
 hadapsarexpress.com###sidebar1.widget.HTML:not(#HTML6)
 nknewsindia.com###sidebar2
+siyasatdarpan.com###sidebar2 .widget.Image
 daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com###sidebaradvertise
 kulalaworld.com###simpleimage-13
 muslimmedia.info###simpleimage-6
