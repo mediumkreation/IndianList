@@ -890,6 +890,7 @@ samachar4media.com##.add-text + a:last-child
 krishibajar.com##.add-top
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
+dainikdishari.com##.add:not(.wp-image-3687)
 sangbad-gallery.com##.addAd
 bharatkiawaj24.com##.addBox
 liveindia.news##.addCenter
@@ -1073,7 +1074,7 @@ dnewsnetwork.in##.awac img.image
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
 manabadi.co.in##.backg-g
-71barta24.com,ajkertanore.com,alochitosokal.com,alokitonarayanganj24.net,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglalivenews24.tv,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,bijoybanglabd.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailybahadur.com,dailyjugantorsangbad.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,dainiksomoyerbangladesh.com,deshersangbad24.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,jubokantho24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,onushondhantv.com,paribahanjagot.com,rajshahinews24.com,rbcnewsbd.com,satkhiratoday.com,sb24live.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
+71barta24.com,ajkertanore.com,alochitosokal.com,alokitonarayanganj24.net,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglalivenews24.tv,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,bijoybanglabd.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailybahadur.com,dailyjugantorsangbad.com,dailynotunsongbad.com,dainikdishari.com,dainikmymensinghpratidin.com,dainiksomoyerbangladesh.com,deshersangbad24.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,jubokantho24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,onushondhantv.com,paribahanjagot.com,rajshahinews24.com,rbcnewsbd.com,satkhiratoday.com,sb24live.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,puthithu.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in##.banner
 alokitomymensingh24.com##.banner-ad-01
 kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
@@ -2385,7 +2386,7 @@ teluguwishesh.com##.wishesh-add
 fbdnews.com##.wonderpluginslider
 madhyapradeshdarshan.com##.wonderpluginslider-container
 ghaziabad365.com,royalnews13.in##.wp-block-group
-joharlive.com,royalnews13.in##.wp-block-image
+dainikdishari.com,joharlive.com,royalnews13.in##.wp-block-image
 nainilive.com##.wp-block-image img
 kafaltree.com##.wp-block-video
 indiapolkhol.in,pplnews.in##.wp-custom-header
