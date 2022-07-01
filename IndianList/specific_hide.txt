@@ -3073,6 +3073,7 @@ veerdharanews.com#?##sidebar-primary-sidebar .widget:-abp-has(div[data-adid]:not
 smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
 manithan.com##span[id] > iframe[id]:only-child
 barabankiexpress.in##span[style^="color: #008000"] img
+swarnimbharatnews.com##span[style^="color: red;"]
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
