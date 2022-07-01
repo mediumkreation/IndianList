@@ -179,6 +179,7 @@ _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
 _ads.png|$domain=utkalmailtv.com
 _ads_gif$domain=satkarpost.com
+_advt-$domain=eradioindia.com
 _Advt.gif|$domain=kasaragod.com
 _advt_$domain=channelindia.news
 _banner$image,domain=poriborton.com
