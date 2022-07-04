@@ -74,7 +74,7 @@
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
 /advertisement/$domain=mediavision.news
-/advertisement/*$domain=digiana.com
+/advertisement/*$domain=chhattisgarhaaj.com|digiana.com
 /advertisements/$domain=abhiyandaily.com|nepalkhabar.com
 /advertisements/*$domain=indiasamachar24.com|nepalipatra.com
 /banner-$domain=navakal.in
