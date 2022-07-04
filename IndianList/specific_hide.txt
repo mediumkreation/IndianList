@@ -1290,7 +1290,7 @@ wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,mahendranagarpost.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,knanayapathram.com,mahendranagarpost.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
