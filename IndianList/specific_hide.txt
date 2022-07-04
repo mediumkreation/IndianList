@@ -1165,6 +1165,7 @@ budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
 inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 onetamilnews.com##.btmAdHldr
+firstindianews.com##.buget-banner
 cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
