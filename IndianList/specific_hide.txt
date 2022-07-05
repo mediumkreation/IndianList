@@ -2083,7 +2083,7 @@ techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-hindxpress.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,positivekhabar.com,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
+hindxpress.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,positivekhabar.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
