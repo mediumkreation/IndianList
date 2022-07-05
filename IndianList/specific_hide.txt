@@ -541,7 +541,7 @@ madawalaenews.com###sidebar .widget.HTML:not(#HTML8):not(#HTML6)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,bolpanipat.com,dbnnews.in,meruraibar.com,news27.org,punjabnewslive.co.in,sahmatnews.com###sidebar .widget_media_image
+awajnews.com,bolpanipat.com,dbnnews.in,meruraibar.com,news27.org,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 firstnewsbd.com,readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
@@ -1297,6 +1297,7 @@ bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
+srimanexpress.digital##.elementor-widget-image-carousel:only-child
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
 theeditor24.com##.elementor-widget-penci-featured-boxes
 nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
@@ -1383,6 +1384,7 @@ goodmorningindia.net,rkexpose.com##.footer-adv
 news127.com##.footer-bottom
 odishatime.com##.footer-sidebar .widget_media_image
 keralaexpress.com##.footer-sponsored
+srimanexpress.digital##.footer-widget .textwidget img
 gionews.in##.footer-widget .widget_media_image
 vorerbangladesh.com##.footer-widgets aside.widget_text
 raisingvoice.com##.footer-widgets-area section.widget_media_image
