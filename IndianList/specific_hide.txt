@@ -1894,7 +1894,7 @@ cgwall.com##.sidebar .wds_slider_cont
 madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
-bartabangla.com,mymarathi.net##.sidebar .widget_custom_html
+bartabangla.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com##.sidebar .widget_media_image
 jokhimnews.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
