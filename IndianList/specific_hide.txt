@@ -2330,7 +2330,7 @@ indiajaankari.in##.widget_block:not(#block-30)
 mahanaad.com##.widget_block:not(#block-37)
 sabkasandesh.com##.widget_block:not(#block-6)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
-alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,livequicknews.in,manthannews.in,purvanchalpost.com,socialsamvad.com,swapnilbangladesh.com##.widget_custom_html
+alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,livequicknews.in,manthannews.in,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com##.widget_custom_html
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
