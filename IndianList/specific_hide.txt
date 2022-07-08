@@ -1526,6 +1526,7 @@ samacharplus.com##.img-add
 khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
 cgmitan.com##.img-fluid.advt-right-img:not([src*="IMG_20201006_082333"])
+chhattisgarhtimes.com##.img-my-ad
 aapkikhabar.com##.imgOverlayAd
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
