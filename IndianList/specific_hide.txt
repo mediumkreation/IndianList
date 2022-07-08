@@ -2532,6 +2532,7 @@ biharnews7.com##a.post-middle-banner
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
+prothomalo.com##a[class*="_ad_wrapper__"]
 sagartvnews.com##a[class^="myadsply"]
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
