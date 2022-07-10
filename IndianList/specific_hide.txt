@@ -570,7 +570,7 @@ zamania.in###sidebar-section-top
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 upayuktha.com###sidebar-wrapper .widget.Image
 abtaknews.com,pradeepamonline.com###sidebar1
-hadapsarexpress.com###sidebar1.widget.HTML:not(#HTML6)
+hadapsarexpress.com###sidebar1 .widget.HTML:not(#HTML6)
 nknewsindia.com###sidebar2
 siyasatdarpan.com###sidebar2 .widget.Image
 daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com###sidebaradvertise
@@ -2146,7 +2146,6 @@ khaskhobor.com##.td_single_image_bg
 akkbd.com##.td_single_image_bg[target="_blank"]
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
-thedeoriatimes.in##.tdb_single_content + .td-a-rec
 n7india.com##.tdb_single_content .code-block
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
@@ -2628,7 +2627,7 @@ gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 newstodaynetwork.com##a[href*="narayan98.co.in"]
 news4himalayans.com##a[href*="narendramodi.in"]
 arthasarokar.com##a[href*="nbbl.com.np"]
-hpnewsatl.com##a[href*="neelabazar.com"
+hpnewsatl.com##a[href*="neelabazar.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
 gramajyothi.com##a[href*="nirapara.com"]
@@ -2703,7 +2702,7 @@ ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
 humsamvet.com##a[target="_new"]
 aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
-aapkikhabar.com#?#*:-abp-has(> a:-abp-contains(Government Ad))
+aapkikhabar.com#?#[id^="custom"]:-abp-has(> a:-abp-contains(Government Ad))
 aapkikhabar.com#?#div[id^="AS_O_"] div:-abp-has(> div > div > a> div h5:-abp-contains(Ad |) )
 aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
 abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Advertisement))
@@ -2764,7 +2763,7 @@ countrynewstoday.com#?#center:-abp-has(img[src*="/RO_NO"])
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
 dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
-deshclick.com#?#*:-abp-has(> .AdvtSample)
+deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
