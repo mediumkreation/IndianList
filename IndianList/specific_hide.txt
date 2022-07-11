@@ -501,6 +501,7 @@ wenepali.com###right_siran
 biharpatrika.in###rma_masala
 kungumam.co.in###road
 ekantipur.com###roadblock-ad
+deshdigital.in###rozu-2
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 prajasattaknews.com###secondary .ai-sticky-widget
@@ -1630,6 +1631,7 @@ bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 bharatdarshannews.com##.main-slider
 jaianndata.com##.main-tp-adds
+deshdigital.in##.main-wrap div[class^="rozu"]
 digitalkhabar.com##.main-wrap div[data-adid]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 hindustanvision.com##.main_header .ws_images
