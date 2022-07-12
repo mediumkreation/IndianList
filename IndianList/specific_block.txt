@@ -9,6 +9,7 @@
 -ad.jpeg|$domain=newsmindia.com
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
 -Ad.jpg|$domain=gtamilnews.com
+-ad.jpg|$domain=rashtrachandika.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
@@ -3368,6 +3369,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rapidprnews.com^*/bb.gif
 ||rapidprnews.com^*/dream.jpg
 ||rapidprnews.com^*/islami_bank.gif
+||rashtrachandika.com/wp-content/uploads/2022/06/Ad-
+||rashtrachandika.com/wp-content/uploads/2022/06/received_5428830677140622.jpeg
 ||rashtradeepam.com/wp-content/uploads/2020/01/rd-ads-kunnathu-pharma-final-428-x-1160.png
 ||rashtradeepam.com/wp-content/uploads/2020/08/ads-driver-360-x730-2.png
 ||rashtrasamvad.com/wp-content/uploads/2019/02/banner24.jpg
