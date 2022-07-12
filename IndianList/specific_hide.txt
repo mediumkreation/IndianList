@@ -243,7 +243,7 @@ hindi-news-today.com###custom_html-51
 bidhannagartimes.com,bnanews24.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
 himachalabhiabhi.com###custom_html-68
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,kalaroanews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
-mynews36.com,pradhanavartha.in###custom_html-8
+mynews36.com,newsuniversal.in,pradhanavartha.in###custom_html-8
 aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,khabarhikhabar.com,mrreporter.in,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pardaphash.com###disqus_thread iframe:first-child
@@ -1665,7 +1665,7 @@ glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 himachalmedia.co,namastepurvanchal.in##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
 newskadaba.com##.mh-header-widget-2
-janjoshnews.in##.mh-sidebar .widget_media_image
+janjoshnews.in,newsuniversal.in##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
 samvetshikhar.com##.mid-adv-sec-bottom
