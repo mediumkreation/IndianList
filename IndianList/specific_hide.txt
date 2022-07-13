@@ -231,7 +231,7 @@ saakshatv.com###custom_html-26
 ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dainikjayantnews.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
+angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 thedastak24.com###custom_html-31
@@ -340,7 +340,7 @@ bplnews24.in,flowersoriginals.com,kushinagarlive.com###media_image-16
 bplnews24.in###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,webreporter.co.in###media_image-19
-aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,janpadnewslive.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,parvasinewspaper.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sajagpahad.com,sandhannews.com,sasthabangla.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,indianvoice24.com,janpadnewslive.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,parvasinewspaper.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sajagpahad.com,sandhannews.com,sasthabangla.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 prompttimes.com###media_image-20
 amanshantinews.com,dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 amanshantinews.com###media_image-22
@@ -390,7 +390,7 @@ dainikkhabarlayehain.com###media_video-13
 derbykhabar.com,divyalive.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com,ts29.in###media_video-18
-dainikjayantnews.com,dubaivartha.com,globalnews24x7.com,hpnewsatl.com,indianamo.com,pradeshnews24x7.com###media_video-2
+dubaivartha.com,globalnews24x7.com,hpnewsatl.com,indianamo.com,pradeshnews24x7.com###media_video-2
 apnades.in,dandikaanthi.com,digitaltrend-news.com,heralokhabar.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,newswayanad.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 liveindiakhabar.in,madhyabhoomikeboal.com###media_video-5
@@ -1319,7 +1319,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 uksuddi.in##.entry-content .bsac
-bharatbarta.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
+bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
