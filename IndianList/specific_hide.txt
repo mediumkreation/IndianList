@@ -1489,6 +1489,7 @@ nepaljapan.com##.headline_below_ad
 tirangaacindianews.com##.headnBx .text-right
 himachalmedia.co##.himac-widget
 himalayapost.com##.himal-content_3
+khabareducation.com##.hm-header-image
 mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
 madhyamam.com##.hocal-ad-block
@@ -2331,7 +2332,7 @@ banglaralonews.com,jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
-avikaluttarakhand.com,newsaroma.com,rashtrasamvad.com##.widget_block
+avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com##.widget_block
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 channeltoday.net##.widget_block:not(#block-3)
 indiajaankari.in##.widget_block:not(#block-30)
@@ -2390,6 +2391,7 @@ dastavej.in##.widget_text iframe
 prothomshomoy.com##.widget_text img
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
+khabareducation.com##.widget_text:not(#text-15)
 chandrikadaily.qa##.widget_viral_advertisement
 mathabhanga.com##.widget_viy
 thirdeyetoday.com##.widget_youtube_responsive
