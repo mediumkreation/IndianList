@@ -2409,6 +2409,7 @@ teluguwishesh.com##.wishesh-add
 khabarhikhabar.com##.wonderplugincarousel-container
 fbdnews.com##.wonderpluginslider
 madhyapradeshdarshan.com##.wonderpluginslider-container
+lalitpurkhabar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
 dainikdishari.com,joharlive.com,royalnews13.in##.wp-block-image
 indiapublickhabar.in##.wp-block-image > figure
