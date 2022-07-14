@@ -2949,6 +2949,7 @@ patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
+dinvishesh.com##div[style^="height: 350px;"]
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
