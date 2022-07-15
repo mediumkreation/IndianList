@@ -352,7 +352,7 @@ dhadingupdate.com###media_image-263
 dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabar36.com,khabardinbhar.net,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabar36.com,khabardinbhar.net,khabromehamarashahar.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
@@ -2092,7 +2092,7 @@ powertvnews.in##.td-a-rec-id-custom-spot
 newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pahilosamachar.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
-thekanpur.com##.td-a-rec-img
+khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
 theguptchar.com##.td-a-rec:not(.tdi_17)
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
