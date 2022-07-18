@@ -601,7 +601,7 @@ indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
 lokaantar.com###stickyAdBottom
 webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
-navakeralanews.com###stream-item-widget-12
+navakeralanews.com,tismedia.in###stream-item-widget-12
 liveuttarakhand.com,sangbadcholoman.net###stream-item-widget-2
 aaryaanews.com,devbhumijknews.in,sangbadsafar.com,ssnewsindia.com,vvanews.in###stream-item-widget-3
 nalandareporter.com###stream-item-widget-4
