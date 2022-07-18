@@ -1728,6 +1728,7 @@ naturalnews.co.in##.natur-content
 24hrnews.in,celluloidonline.com,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,desherkhabor24.com,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,shabdshodh.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
+navinsamachar.com##.navin-content_13
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar .bg-aqua
 cgsandesh.com##.ne-sidebar > .ne-banner-layout1
@@ -2849,6 +2850,7 @@ jagatbhumi.com##div[class^="jagat-content_"]
 kokanmedia.in##div[class^="kokan-"]
 lagatar.in##div[class^="lagat-"]
 prothomalo.com##div[class^="multipurposeComponent-m__base"]
+navinsamachar.com##div[class^="navin-content"] img:not([src*="PicsArt_05-19-01.16.30.png"])
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
