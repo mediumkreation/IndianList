@@ -2964,7 +2964,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-dainikkushtia.net,news27.org,newswings.online,prasashan.com##figure.wp-block-image
+dainikkushtia.net,news27.org,newswings.online,prasashan.com,tirhutnow.com##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
 arlivenews.com##figure.wp-block-image.size-large img:not([src*=udaipur-uit-])
