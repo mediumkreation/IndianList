@@ -88,7 +88,7 @@
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=aankhennews24.com|bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|pickthekhoj.in|polkholindia.com|purvikranti.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
-/can//cde/*$domain=aapninews.in|crimecapital.in|dalhousiehulchul.com|doonhorizon.in|keralaonlinenews.com|metrojournalonline.com|newzfast.com|samayduniya.com|thedesiawaaz.com|theexpose.in|upuklive.com
+/can//cde/*$domain=aapninews.in|crimecapital.in|dalhousiehulchul.com|doonhorizon.in|indiatimesgroup.com|keralaonlinenews.com|metrojournalonline.com|newzfast.com|samayduniya.com|thedesiawaaz.com|theexpose.in|upuklive.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
 /NEW_GIF_$domain=clickmandu.com
