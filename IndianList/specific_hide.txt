@@ -2891,6 +2891,7 @@ thereport24.com##div[id*="_300x250"]
 aapninews.in,anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
+livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
 anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 indiatimesgroup.com##div[id^="AS_O_LHS_"] > div:nth-child(n+4)
@@ -3055,6 +3056,8 @@ khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertis
 khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div > span + a)
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
+livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div > a > h5:-abp-contains(Ad:))
+livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div a > p:-abp-contains(Ad:))
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
