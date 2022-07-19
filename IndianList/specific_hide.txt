@@ -180,6 +180,7 @@ varthabharati.in###block-block-263--2
 varthabharati.in###block-block-338
 seemanchalnews.com###block-views-side-ads-block
 eenadu.net###body_ad
+janprahar.com###bottom_3
 paristamil.com###box
 malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
@@ -302,6 +303,7 @@ biharpatrika.in###lcs_ad
 newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
+janprahar.com###left_level_2
 u71news.com###logo-right
 enepalese.com###logo_middle
 cellitnews.com###logoright
@@ -708,6 +710,7 @@ thenrinews.com###top-slider2
 vorerbangladesh.com###top-stories
 gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
+janprahar.com###top_level_3
 thamilan.lk###topbanneer
 chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
@@ -1214,7 +1217,7 @@ odishareporter.in##.colombia
 anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreelal.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,janprahar.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
 utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
@@ -2590,7 +2593,7 @@ pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 dailyindianherald.com,truevisionnews.com##a[href*="chemmanurinternational.com"]
 tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
-cinereporters.com,dailyharyananews.com,janprahar.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com,sanjeevnitoday.com##a[href*="click.htm?"][target="_blank"]
+cinereporters.com,dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com,sanjeevnitoday.com##a[href*="click.htm?"][target="_blank"]
 ntnews.com##a[href*="countryoven.com"]
 ambalanews24.com##a[href*="daraz.com.bd"]
 loksangbad.com##a[href*="deshihost.com"]
@@ -3042,6 +3045,7 @@ indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google A
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 indiatv.in#?#.ad:-abp-has(> div:first-child)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
+janprahar.com#?#div:-abp-has(> ins)
 janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
 keralabreaking.com#?#.wpb_wrapper:-abp-has(> .td_block_single_image)
 khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
