@@ -1296,6 +1296,8 @@ uukmanews.com##.each-side-ads > a
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 alertchhattisgarh.com##.elementor-element-37731bf
+maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
+maithilbrahminmahasabha.in##.elementor-element-f2e9897
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 todaypostlive.com##.elementor-image a[target="_blank"]
