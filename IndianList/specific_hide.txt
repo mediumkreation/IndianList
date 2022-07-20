@@ -1920,7 +1920,7 @@ cgwall.com##.sidebar .wds_slider_cont
 madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
-bartabangla.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
+bartabangla.com,khabaristan.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com##.sidebar .widget_media_image
 jokhimnews.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
@@ -1951,6 +1951,7 @@ himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
+khabaristan.com##.single-box
 dhadingpost.com##.single-content p~figure.wp-block-image
 channelcox.com##.single-ditails + .add .widget_area
 bijoybanglabd.com##.single-dtls .code-block
