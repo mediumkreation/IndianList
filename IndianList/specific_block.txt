@@ -145,6 +145,9 @@
 @@||mediapunjab.biz/admin/dashboard/images/poster/1537217477Darbar-sahib-live.jpg
 @@||mediapunjab.biz/admin/dashboard/images/poster/1537284846konto.jpg
 @@||mediapunjab.biz/admin/dashboard/images/poster/1562539603major_singh_mann_jatha_08072019.jpg
+@@||mujibsenanews.com/uploads/banners/1454930029_m_sena__555.gif
+@@||mujibsenanews.com/uploads/banners/1496424844_1445437682_ali_hossain_000.jpg
+@@||mujibsenanews.com/uploads/banners/1609987163_a.png
 @@||muktomon.net/upload/adds/1605791883.gif
 @@||muktomon.net/upload/adds/1640065976.jpg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520499624.jpeg
@@ -2477,6 +2480,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||mpnews360.com/wp-content/uploads/2021/11/sch.jpeg
 ||muhurtham.com^*/google-smallad.jpg
 ||muhurtham.com^*/sidebar-ad.jpg
+||mujibsenanews.com/uploads/banners/
 ||mukhpatra.in/wp-content/uploads/2014/06/KALP-NEW.jpg
 ||mukhpatra.in/wp-content/uploads/2018/12/Untitled-1-1-1.png
 ||mukhpatra.in/wp-content/uploads/2021/03/simran-interior-decor.jpg
