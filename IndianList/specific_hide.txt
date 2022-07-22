@@ -471,7 +471,6 @@ karmalamadhanews24.com###pg-38-7
 kusenews.com###pgc-7-1-1
 lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
-dineshkhabar.com###popBlkAd
 samakal.com###popUpModalAd
 bharatdarshannews.com###popup_box
 rojgarlive.com###popup_indiv2
@@ -1419,7 +1418,6 @@ khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
-dineshkhabar.com##.fullSizeAdBnr
 lalkhabar.com,murchungatv.com##.full_ad_section
 sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
@@ -2312,7 +2310,6 @@ khoborersomoy.com##.vide_area
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
-dineshkhabar.com##.view-advertisement
 just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 muznews.net##.vmagazine-lite-medium-rectangle-ad
@@ -2749,6 +2746,7 @@ gtamilnews.com,tv24live.com##aside .widget_media_image
 newsmoments.in##aside#sidebar .chmnr
 bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
+dineshkhabar.com##aside.ads-info-block
 magnificentbihar.com,newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
 chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
