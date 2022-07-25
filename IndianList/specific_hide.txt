@@ -129,8 +129,6 @@ massnews.online###author-bio-widget-1
 dhaka18.com###awaken_video_widget-4
 ntvtelugu.com###awt-left
 dinamina.lk,ilamai.com,sitakundabarta.com,upayuktha.com###banner
-jogsanjogtimes.com###banner .tcycle img
-jogsanjogtimes.com###banner .tcycle ~ p img
 devbhoomidarshan17.com###banner-10
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
@@ -193,6 +191,7 @@ suddi9.com###colorcontentasash3
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
+nepalimato.com###content .news_portal_ads_banner
 kelanchaltimes.com,sabkajammukashmir.com###content .stream-item
 giridihupdates.com###content .widget_block
 kabirkiawaz.in###content .widget_text:not(#text-8)
@@ -1766,6 +1765,7 @@ wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
+nepalimato.com#@#.np-ads-wrapper
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
