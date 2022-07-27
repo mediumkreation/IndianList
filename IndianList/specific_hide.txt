@@ -355,7 +355,7 @@ dhadingupdate.com###media_image-263
 dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabar36.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabar36.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,ulipur.com,updatenownews.com###media_image-3
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
@@ -365,7 +365,7 @@ crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-
 sheikhpuranews.com###media_image-37
 delhibulletin.in,mpnewscast.com,voiceofbihar.in###media_image-38
 delhibulletin.in###media_image-39
-bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebiharnews.com,updatenownews.com###media_image-4
+bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,laxminews24x7.com,muldharpost.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,starexpress.news,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
 sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
@@ -1831,6 +1831,7 @@ telugutimes.net##.post-sidebar-area
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 himachalsamay.com##.post-text p>img
 mysamachar.in##.post-text section
+firstbihar.com##.post-widget-carouselr
 satkarpost.com##.posts__banner__ads
 sabkikhabar.com,todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
@@ -2764,7 +2765,7 @@ todaybhaskar.com##aside.widget_black_studio_tinymce
 apanderanews.com,bhadas4media.com,inkpoint.in,minnal24.com,tv36hindustan.com##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,kokanmedia.in,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
-64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,impact24news.com,jaljalakhabar.com,jjvnews.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,thebharatexpress.com,theeditor24.com,thelifelinetoday.com,therisingcampus.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,impact24news.com,jaljalakhabar.com,jjvnews.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,newstodayjharkhand.com,odishasambad.in,parvatanchal.com,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,therisingcampus.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
@@ -3150,4 +3151,3 @@ upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-cont
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h2 + p)
 utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h3 + p)
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
-firstbihar.com##.post-widget-carouselr
