@@ -2165,7 +2165,7 @@ newshindustan.in##.td-ss-main-sidebar iframe
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
-hellobikaner.in,khabargujarat.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com##.td_block_single_image
+hellobikaner.in,khabargujarat.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com,unanews.in##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 tazakhabar.in##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
