@@ -1341,6 +1341,7 @@ andbiharnews.co.in##.entry-content .wp-block-gallery
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
+thelucknowtribune.com##.entry-content > div[class]:not(.addtoany_content)
 abbiharnews.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
 chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com##.entry-content > p img
@@ -2376,7 +2377,7 @@ trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
 bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-aagaazfirstnews.com,agraupdate.com,alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,aslipunjabi.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,currentnewz.in,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,dhunga.in,expressindian.co.in,fatehnagarnews.com,gulfbangla.com,jaihindtimes.in,kannadanewsnow.com,kanodnews.com,lokalok.in,mariahulive.com,nationupdate.in,newsfact.in,prothomshomoy.com,reporter24x7.com,samachaarindia.com,samachardoot.in,samacharhouse.com,sbdnews24.com,shauryatimes.com,songbadsaradin.net,sunamganjerkhobor.com,tajakhabar.in,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
+aagaazfirstnews.com,agraupdate.com,alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,aslipunjabi.com,bharatlive.co.in,bharatsamachartv.in,bnanews24.com,chauthiduniya.com,comillarbarta.com,currentnewz.in,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,dhunga.in,expressindian.co.in,fatehnagarnews.com,gulfbangla.com,jaihindtimes.in,kannadanewsnow.com,kanodnews.com,lokalok.in,mariahulive.com,nationupdate.in,newsfact.in,prothomshomoy.com,reporter24x7.com,samachaarindia.com,samachardoot.in,samacharhouse.com,sbdnews24.com,shauryatimes.com,songbadsaradin.net,sunamganjerkhobor.com,tajakhabar.in,thelucknowtribune.com,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
 tibrakhabar.com.np##.widget_media_image > img
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 lekhajokhanews.com##.widget_media_image img:not([src*="nocs.png"])
@@ -2770,7 +2771,7 @@ bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
-hellouttarakhandnews.com,nammabantwala.com,thelifelinetoday.com,thelucknowtribune.com,voiceofuttarakhand.net##aside.widget_media_video
+hellouttarakhandnews.com,nammabantwala.com,thelifelinetoday.com,voiceofuttarakhand.net##aside.widget_media_video
 brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
