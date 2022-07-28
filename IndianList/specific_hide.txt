@@ -1343,6 +1343,7 @@ ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 thelucknowtribune.com##.entry-content > div[class]:not(.addtoany_content)
+loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
 chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com##.entry-content > p img
