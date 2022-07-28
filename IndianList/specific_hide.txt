@@ -312,7 +312,7 @@ cellitnews.com###logoright
 chandpurreport.com###main .code-block
 jansangathan.com###main .container
 newsuperbharat.com###main .widget_custom_html
-himwantpradeshnews.com,newsxindia.com,songbadpratidin.com###main .widget_media_image
+chhapratoday.com,himwantpradeshnews.com,newsxindia.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
 naturalnews.co.in###main aside.widget_media_image
 agrilife24.com###main-body .custom
@@ -1364,6 +1364,7 @@ newswatch.co.in,peptechtime.com##.entry-content img:only-child
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 theeditors.net##.entry-content p img
 newskadaba.com##.entry-content p img:only-child
+chhapratoday.com##.entry-the-content .code-block
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
 gandakichhadke.com##.eous-container
