@@ -1152,7 +1152,7 @@ aapkiummid.com##.billboardad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
 andhrabhoomi.net##.block-block:not(#block-block-13)
-dainikbhaskarup.com,khabarhikhabar.com,ujjawalprabhat.com##.block-custom-content
+dainikbhaskarup.com,khabarhikhabar.com,theguptchar.com,ujjawalprabhat.com##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 awaaz24x7.com##.block-wrapper video
 nigranee.com##.block-wrapper ~ #webbank-ad-section
@@ -2111,7 +2111,6 @@ newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pahilosamachar.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
-theguptchar.com##.td-a-rec:not(.tdi_17)
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
