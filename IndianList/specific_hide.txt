@@ -1326,6 +1326,7 @@ punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 truelinenews.com##.elementor-widget-slides
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 himalipatrika.com.np##.elementor-widget-text-editor
+shivshahilive.com##.elementor-widget-video
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
@@ -3054,6 +3055,8 @@ suprovatsydney.com.au##img[class^="custom_adgroup_"]
 pnews.co.in##img[id^="Image"]
 simanapari.com##img[src*="Deepesh-gif"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
+shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
+shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
 hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
