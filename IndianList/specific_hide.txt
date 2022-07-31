@@ -1467,6 +1467,7 @@ chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,benkiyabale.com,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com##.header-ainfo
+thenationtimes.in##.header-ava-area
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
@@ -1513,6 +1514,7 @@ setoshikhar.com##.hmxbiekzq
 madhyamam.com##.hocal-ad-block
 bangla-news24.com##.home-e3lan
 dabangmedia.com##.home-gallery.photo-gallery
+thenationtimes.in##.home-lead-link
 tamiltradepost.com##.home-mid-banner
 deshprotikhon.com##.home-page-ads a:not([href*="deshprotikhon.com"])
 sharebazarnews.com##.home-page-ads a:not([href*="sharebazarnews.com"])
