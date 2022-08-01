@@ -2100,6 +2100,7 @@ tamiltradepost.com##.tamil-widget
 tarunbharat.com##.tarun-content
 nepaljapan.com##.taza_ad
 nepalsamaya.com##.tc-side-ads
+bangla.earthtimes24.com##.td-a-rec
 sachetonbarta.com.bd##.td-a-rec .td-all-devices
 dainikjanwani.com##.td-a-rec a:not([href*="whatsapp.com"])
 newstrendz.co.in##.td-a-rec iframe
