@@ -1447,7 +1447,6 @@ news18.com##.global-storylist li[style^="height"]
 joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 onlinepatrakar.com##.googleAdBlock
-gramintimes.com##.grami-content
 paristamil.com##.group2
 paristamil.com##.group3
 gujjujankari.in##.gujju-before-content_4
@@ -2872,6 +2871,7 @@ barnalatoday.com##div[class^="barnalatoday"]
 amader-protidin.com##div[class^="customaddBox"]
 deshajtimes.com,deshantor.com##div[class^="desha-"]
 rajyasameeksha.com##div[class^="display-area"]
+gramintimes.com##div[class^="grami-"]
 samacharfirst.com##div[class^="home-adright"]
 jagatbhumi.com##div[class^="jagat-content_"]
 kokanmedia.in##div[class^="kokan-"]
