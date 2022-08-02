@@ -210,7 +210,7 @@ biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jaihindtimes.in,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
-aavakaaya.in,metroplus.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
+metroplus.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
@@ -228,7 +228,6 @@ ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
-aavakaaya.in###custom_html-25
 saakshatv.com###custom_html-26
 ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
@@ -1742,7 +1741,7 @@ news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,celluloidonline.com,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,desherkhabor24.com,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,shabdshodh.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,desherkhabor24.com,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,shabdshodh.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 navinsamachar.com##.navin-content_13
@@ -2371,7 +2370,7 @@ mahanaad.com##.widget_block:not(#block-37)
 sabkasandesh.com##.widget_block:not(#block-6)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,livequicknews.in,manthannews.in,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in##.widget_custom_html
+aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,livequicknews.in,manthannews.in,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in##.widget_custom_html
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
