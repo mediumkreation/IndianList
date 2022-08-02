@@ -2056,7 +2056,7 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
 chitwanpress.com##.stickey-side .ad-title ~ a
-24hrnews.in,cityhotnews.com,dakshinapath.com,primestv.in##.sticky-sidebar .widget_block
+cityhotnews.com,dakshinapath.com,primestv.in##.sticky-sidebar .widget_block
 hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar .widget_media_image
 dakshinapath.com##.sticky-sidebar .widget_metaslider_widget
@@ -2363,6 +2363,7 @@ daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com##.widget_block
+24hrnews.in##.widget_block img
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 channeltoday.net##.widget_block:not(#block-3)
 indiajaankari.in##.widget_block:not(#block-30)
@@ -3131,7 +3132,6 @@ sbharatnews.com##section.widget_media_gallery
 britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,newszon.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
-24hrnews.in##section.widget_media_image:not(#media_image-5)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
 thehillsofmussoorie.com##section.widget_media_video
 cityonclick.in##section.widget_metaslider_widget
