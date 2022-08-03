@@ -1254,6 +1254,7 @@ sylhetview24.news##.custom-ads-row
 roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
+seradesh.com##.custom-html-widget
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 biharivoice.com,divyahimachal.com##.customad
@@ -2196,6 +2197,7 @@ samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com,ujjawalprabhat.com##.text-html
 sarkarimanthan.com,ujjawalprabhat.com##.text-html-box
+seradesh.com##.textwidget
 aashanews.com##.textwidget img
 thinkwithniche.in##.tg-addbox
 indiavisionmedia.com##.thd
