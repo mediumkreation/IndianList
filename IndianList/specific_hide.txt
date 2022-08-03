@@ -2348,7 +2348,7 @@ daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-madawalaenews.com,sanskarnews.page##.widget.Image
+biharkhabars.com,madawalaenews.com,sanskarnews.page##.widget.Image
 bharatdarshannews.com##.widget1
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
