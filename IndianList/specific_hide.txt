@@ -1335,7 +1335,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 uksuddi.in##.entry-content .bsac
-bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
+beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sachchadost.in,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
@@ -3003,6 +3003,7 @@ ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
 dainikkushtia.net,news27.org,newssarakhon.com,newswings.online,prasashan.com,tirhutnow.com##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
+beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
 arlivenews.com##figure.wp-block-image.size-large img:not([src*=udaipur-uit-])
 sanvadnews.com##figure.wp-block-table
