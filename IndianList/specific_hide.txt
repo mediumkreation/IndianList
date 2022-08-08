@@ -622,8 +622,8 @@ dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
 samugammedia.com###tdi_124
 srujananedu.com###tdi_191
 anbnews24.com,timesoneodia.com###text-1
-jagprerna.com,janmanindia.com,medianp.com,moonbreaking.com,tamil.com,theblastkhabar.com###text-10
-anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,najarianews.in,onlinesaptari.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
+jagprerna.com,janmanindia.com,medianp.com,moonbreaking.com,newscup.in,tamil.com,theblastkhabar.com###text-10
+anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,najarianews.in,newscup.in,onlinesaptari.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bihardainik.com,bn.bdcrictime.com,hindustanlivetoday.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,voiceofshatabdi.com,vyavasthadarpan.com###text-13
