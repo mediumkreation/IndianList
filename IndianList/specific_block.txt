@@ -283,6 +283,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||abplive.com//testfeeds/banners/
 ||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
 ||adarshbharattv.com/upload/Ad/
+||adhorekhit.com/wp-content/uploads/2021/09/ad-news.jpg
 ||adhunikdaur.com/webdata/ranbhumiexpress.com/media/
 ||adkit.in$domain=joharlive.com
 ||adnlive24.com/webdata/adnlive24.com/media/1547646966adn_live_add.JPG
