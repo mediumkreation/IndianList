@@ -561,6 +561,7 @@ haryananewsonline.com###sidebar-primary-sidebar
 jabalpurdarpan.in###sidebar-primary-sidebar .widget_block:not(#block-8)
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,kannadanews.today,npg.news###sidebar-primary-sidebar .widget_media_image
+dainikjagrotochattogram.com###sidebar-primary-sidebar .widget_text
 citypostlive.com###sidebar-primary-sidebar > .widget:not(#better-social-counter-2)
 newstodaycg.com###sidebar-primary-sidebar > .widget:not([id^="bs-"])
 khabarcgnews.com###sidebar-right .widget_block
@@ -2906,7 +2907,7 @@ thejoharnews.com##div[class^="thejo-"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-akashjatra.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+akashjatra.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
