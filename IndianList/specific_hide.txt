@@ -146,7 +146,8 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,paridarshaka.com###block-10
 paridarshaka.com###block-11
-ghaziabad365.com,sachetonbarta.com.bd###block-14
+asomkhobor.com###block-12
+asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 samrudhaodisha.com###block-15
 samrudhaodisha.com###block-17
 samrudhaodisha.com###block-18
@@ -2198,6 +2199,7 @@ newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 tejastoday.com##.tdb_single_content p img
 samugammedia.com##.tdi_153
 devbhoomimedia.com##.tdi_25
+asomkhobor.com##.tdm-popup-modal
 annapurnatimes.com##.tdm_block
 deshprahari.com##.tdm_block_image_info_box
 trendingnewshindi.live##.tds-button
