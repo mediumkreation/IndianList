@@ -2936,6 +2936,7 @@ anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
 indiatimesgroup.com##div[id^="ArticleShow_"] > div:nth-child(n+4)
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
+aagolavartha.com##div[id^="aagol-"]
 aapnihathai.com##div[id^="aapni-"]
 abbiharnews.com##div[id^="abbih-"]
 abhayindia.com##div[id^="abhay-"]
