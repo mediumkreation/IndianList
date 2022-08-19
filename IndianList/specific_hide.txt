@@ -2853,6 +2853,7 @@ democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 haldwanilive.com##div[class*="haldw-"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
+jhabuanews.in##div[class*="kitsune-advert"]
 navjivanindia.com##div[class*="m__ad"]
 prothomalo.com##div[class*="m__ads"]
 navjivanindia.com##div[class*="m__dfp"]
