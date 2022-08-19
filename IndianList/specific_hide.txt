@@ -1745,7 +1745,7 @@ samrudhaodisha.com##.mysticky-welcomebar-fixed
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
-ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
+angultv.com,ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
 24hrnews.in,aavakaaya.in,celluloidonline.com,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,desherkhabor24.com,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,sbharatnews.com,shabdshodh.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
@@ -2860,6 +2860,7 @@ deshdoot.com##div[class*="m_ad-slot"]
 vbnews24.com##div[class*="media_image-"]
 nainilive.com##div[class*="naini-"]
 sachkitop.com##div[class*="sachk-"]
+angultv.com##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
@@ -2908,7 +2909,7 @@ thejoharnews.com##div[class^="thejo-"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-akashjatra.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
