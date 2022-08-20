@@ -2160,6 +2160,8 @@ ehapurnews.com,ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
 prabhattimes.com##.td-post-content img.size-full
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
+aurbta.com##.td-spot-id-content_bottom
+aurbta.com##.td-spot-id-content_top
 amansavera.com##.td-spot-id-header
 mediamalayalam.com##.td-spot-id-sidebar
 banglaxp.com,egoomedia.com##.td-ss-main-content .code-block
