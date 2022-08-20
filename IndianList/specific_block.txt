@@ -74,7 +74,7 @@
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
-/advertisement/*$domain=chhattisgarhaaj.com|digiana.com|mediavision.news
+/advertisement/*$domain=chhattisgarhaaj.com|digiana.com|mediavision.news|satghoria.com
 /advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|nepalipatra.com|nepalkhabar.com
 /advisment/*$domain=kopotakkhonews24.com
 /banner-$domain=navakal.in
