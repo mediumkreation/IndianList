@@ -2361,6 +2361,7 @@ e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
 biharkhabars.com,madawalaenews.com,sanskarnews.page##.widget.Image
+dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
 bharatdarshannews.com##.widget1
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
