@@ -547,6 +547,7 @@ onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 doonhorizon.in###showAS_O_BEL_0
 just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
+insightchhattisgarh.in###sidebar .advertisement
 laxminews24x7.com###sidebar .e3lan
 tamilnewsstar.com###sidebar .text-html
 bhorerkagoj.com###sidebar .textwidget
