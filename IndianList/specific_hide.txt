@@ -2135,6 +2135,7 @@ newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pahilosamachar.com,pbknews.com,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rajasthanlive24x7.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
+rashtravadinews.in##.td-a-rec:not(.tdi_35):not(.tdi_54)
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
@@ -2989,7 +2990,7 @@ pahadkasach.in,pahadprabhat.com##div[id^="pahad-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 lokmat.com##div[id^="photoInlist"]
 hosadigantha.com##div[id^="pum-"]
-rashtranayaknews.com##div[id^="rasht-"]
+rashtranayaknews.com,rashtravadinews.in##div[id^="rasht-"]
 lokmat.com##div[id^="rhs-"]
 samacharuk.com##div[id^="samac-"]
 sarthaksamay.com##div[id^="sarth-"]
