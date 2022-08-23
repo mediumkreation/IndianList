@@ -1788,7 +1788,7 @@ onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
-wayanadnewsdaily.com##.no-bg-box-model
+sakalakhabar.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
@@ -1863,6 +1863,7 @@ satkarpost.com##.posts__banner__ads
 sabkikhabar.com,todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
+sakalakhabar.com##.primary-sidebar-widget
 sudurkhabar.com##.primary-sidebar-widget img
 bankbimaarthonity.com##.printOff
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
