@@ -2284,6 +2284,7 @@ lionexpress.in##.top-left-add
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
 rosemalayalam.com##.top-news-ad
+ajbangla.com##.top-news-right .textwidget
 vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
