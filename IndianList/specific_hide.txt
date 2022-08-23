@@ -291,6 +291,7 @@ newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 samudrapari.com###home-top-sidebar
+theeditors.net###home_row .widget_media_image
 radiobihani.org###homeads
 akkinikkunchu.com###html-2
 akkinikkunchu.com###html-3
