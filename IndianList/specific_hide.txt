@@ -966,6 +966,7 @@ snn24.com##.addtop_header
 jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 agrinewsnetwork.in##.ader_ads
+thekeralapost.com##.adert-cnter-mdlif
 bdnewsclub.com##.adflexbox
 newslabz.com##.adfoxly-wrapper
 himachalreport.com##.adguru
@@ -1890,6 +1891,7 @@ rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
+thekeralapost.com##.rht-ad-position
 pakwangali.in##.right-add
 dailysabuj.com##.right-add-container
 banglanews24.com##.right-container .ads
@@ -1913,6 +1915,7 @@ samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 khabarchalisa.com,sheikhpuranews.com,vijayapatha.in##.sb-widget-ad
 jaianndata.com##.scnd-add
+thekeralapost.com##.sd-advert
 nayabimarsha.com##.search2
 entevarthakal.com##.second_section_right
 newspolar.com##.section .adalyticsblock
@@ -2278,6 +2281,7 @@ thereport24.com##.top-add-left4
 aperata.net##.top-ads-block
 manoramanews.com##.top-advt
 twentyfournews.com##.top-banner
+thekeralapost.com##.top-banner-advert
 ekuruvi.com##.top-bar-left-nav
 royalbulletin.in##.top-container1
 ukmalayalampathram.com##.top-flash
@@ -2898,6 +2902,7 @@ himalayanupdate.com,jagmarg.com,punjabipost.ca##div[class^="AdvtSample"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 eenadu.net##div[class^="ad-block"]
 dailyjonomot.com##div[class^="add_"]
+thekeralapost.com##div[class^="advert-"]
 bonikbarta.net##div[class^="advertise_space"]
 ajabgjab.com##div[class^="ajabg-"]
 udayavani.com##div[class^="amp_Ad"]
