@@ -157,9 +157,9 @@ viewpointjharkhand.com###block-19
 bansalnews.com,bulandsoch.com,hamdardtv.com,idealindianews.com,khabriyanews.com,sehattimes.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
 hnn24x7.com,livepress24.com###block-23
-hnn24x7.com,purvanchalsandesh.com###block-24
-desherkhabor24.com###block-25
-organizeindia.in###block-26
+govindia.in,hnn24x7.com,purvanchalsandesh.com###block-24
+desherkhabor24.com,govindia.in###block-25
+govindia.in,organizeindia.in###block-26
 khabarcgnews.com###block-27
 wealthfreedomideas.com###block-28
 bundelkhandsamachar.com,checkpostnews.com,lokswar.in,newskranti.com,newsnukkad.com,pahadkasach.in,pahadsmachar.com###block-3
