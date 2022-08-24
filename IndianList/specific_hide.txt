@@ -168,8 +168,8 @@ thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com###block-4
-hamarahimachal.com,newsnukkad.com###block-5
+bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com,sikkimtoday.com###block-4
+hamarahimachal.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
 kokanmedia.in,newsnagar.in,paridarshaka.com,thenewswave.com,viralfactsindia.com###block-6
