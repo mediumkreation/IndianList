@@ -522,6 +522,7 @@ bcsuddi.com###secondary .ai_widget
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 brightpost.in,dainikchintak.com,indiapolkhol.in###secondary .widget_block
+kelopravah.news###secondary .widget_block img
 4pillar.news,harmudda.com,janakeeyam.in,newslemonchoose.com,satyavoice.com,thelucknowtribune.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
 aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,indianewsviral.co.in,janpatranews.com,jogiexpress.com,justmuz.com,mediapassion.co.in,navrashtramedia.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,satyavoice.com,sirajganjnews24.com,thefourthmirror.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
@@ -1224,6 +1225,7 @@ kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 navarashtra.com##.code-block:not(.code-block-10)
+kelopravah.news##.code-block:not(.code-block-4)
 bankingkhabar.com##.codeneric_uam_link
 hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
@@ -1816,7 +1818,7 @@ ournewsbd.net##.onads
 arthoneeti.com##.one-1
 onlynews24.com##.onlyn-after-content
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
-247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com##.owl-carousel
+247superfast.com,24x7cg.com,abhibharat.com,kelopravah.news,khabreaajtaklive.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 nepalkhabar.com,ratopati.com##.paraAd
