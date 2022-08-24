@@ -199,6 +199,7 @@ humhindustanilive.com###content .master-slider-parent
 nepalimato.com###content .news_portal_ads_banner
 kelanchaltimes.com,sabkajammukashmir.com###content .stream-item
 giridihupdates.com###content .widget_block
+suddikanaja.com###content .widget_media_image
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
 ratopati.com###content a[target="_blank"] img
@@ -237,7 +238,7 @@ saakshatv.com###custom_html-26
 ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
+angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,dubaivartha.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabar36.com,khabarexpert.in,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 thedastak24.com###custom_html-31
@@ -970,7 +971,7 @@ newslabz.com##.adfoxly-wrapper
 himachalreport.com##.adguru
 udayavani.com##.adliadworld
 deshabhimani.com##.adone > div
-alivenews.co.in##.adredux
+alivenews.co.in,suddikanaja.com##.adredux
 anusandhan24.com,arthadabali.com,ashakakiran.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,ekusheysangbad.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kantipurpati.com,laligurash.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,news24bd.net,newsbihani.com,onlinepana.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,sokalerkhobor24.com,sutranews.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
 sunaulonepal.com##.ads .widget_media_image > img
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
