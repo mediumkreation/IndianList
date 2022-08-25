@@ -337,7 +337,7 @@ bharatsarathi.com,jantabulletin.wordpress.com,khabarvichar.com,navabharat.news,s
 jalauntimessite.wordpress.com###media_gallery-28
 janshaktikranti.com,jantabulletin.wordpress.com,shabdshodh.com###media_gallery-3
 todaybiharnews1.wordpress.com###media_gallery-33
-pressbangla24.com,webreporter.co.in###media_gallery-4
+webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,nationissue.com,navpradesh.com,news21live.in,parbatyachattagram.com###media_image-10
@@ -366,7 +366,7 @@ alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangl
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
-delhibulletin.in###media_image-34
+delhibulletin.in,pressbangla24.com###media_image-34
 delhibulletin.in###media_image-35
 crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 sheikhpuranews.com###media_image-37
