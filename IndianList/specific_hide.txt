@@ -2400,7 +2400,7 @@ banglaralonews.com,jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
-avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com##.widget_block
+avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com,samastipurlive.com##.widget_block
 24hrnews.in##.widget_block img
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 channeltoday.net##.widget_block:not(#block-3)
