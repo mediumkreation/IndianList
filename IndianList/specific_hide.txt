@@ -2450,6 +2450,7 @@ rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 dainik4media.com##.widget_nivo_slider_widget
 wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
+diyopost.com##.widget_palika_advertisement
 purvanchalnews.com##.widget_revslider
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
@@ -2865,7 +2866,6 @@ punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
 punjabiherald.co.nz##div[aria-label^="HSB-"]
 punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
 punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
-diyopost.com##div[clas="taja_bishesh_advertise"]
 unitednripost.com##div[class*=" ads_"]
 news18.com##div[class*="Header_inner_ad"]
 prothomalo.com##div[class*="__ad-slot"]
