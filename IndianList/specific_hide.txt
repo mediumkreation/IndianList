@@ -780,6 +780,7 @@ janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
 amaderprotidin.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd img
+aloavanews24.com##.DAdd2
 bdprojonmo71.com##.DAdvertisement
 mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com##.DHeaderBanner
@@ -1200,7 +1201,7 @@ cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
 himachalnownews.com##.c_ad
-indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
+aloavanews24.com,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
