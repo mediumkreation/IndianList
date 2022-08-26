@@ -3173,6 +3173,7 @@ himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,rep
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
+newspolar.com##section.widget img:not(.wp-image-85386):not(.wp-image-87331)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 damaulionline.com##section.widget:not(.widget_block)
 bidrohee.com,drukpadam.com,uttarkal.com##section.widget_custom_html
