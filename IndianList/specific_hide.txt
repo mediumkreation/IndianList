@@ -2350,7 +2350,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
-dailyceylon.lk,thedeoriatimes.in,theruralpress.in##.vc_raw_html
+dailyceylon.lk,malayalimanasu.com,thedeoriatimes.in,theruralpress.in##.vc_raw_html
 postmanindia.in##.vc_raw_html iframe
 coastal-mirror.com##.vc_raw_html img
 ibclive.in##.vc_sidebar .widget_custom_html
