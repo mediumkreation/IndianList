@@ -1826,6 +1826,7 @@ shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
+parvatprerna.com##.parva-widget
 dainikmas.com,deepamnews.lk,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
 janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
