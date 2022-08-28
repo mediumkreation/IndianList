@@ -354,7 +354,7 @@ aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisalto
 prompttimes.com###media_image-20
 amanshantinews.com,dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 amanshantinews.com###media_image-22
-cgnews24x7.wordpress.com,dainikchintak.com,samacharsach.com###media_image-23
+cgnews24x7.wordpress.com,dainikchintak.com,peptechtime.com,samacharsach.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
@@ -1382,7 +1382,7 @@ abbiharnews.com##.entry-content figure.is-resized
 abnewslive.in,ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com,pclive7.com##.entry-content img
-newswatch.co.in,peptechtime.com##.entry-content img:only-child
+newswatch.co.in##.entry-content img:only-child
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 theeditors.net##.entry-content p img
 newskadaba.com##.entry-content p img:only-child
@@ -3186,7 +3186,7 @@ bidrohee.com,drukpadam.com,uttarkal.com##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,newszon.in,peptechtime.com,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,newszon.in,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
