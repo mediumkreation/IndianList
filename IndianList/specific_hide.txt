@@ -261,6 +261,7 @@ barishalcrimenews.com###elementor-popup-modal-114022
 barishalcitynews.com###elementor-popup-modal-15610
 elokasha.com,lokprashna.com###eloka-google
 cellitnews.com###example
+makdaiexpress24.com###fdjga-21
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 indianletter.com###featured-multi-wrap
 nerpatham.com###floating-sidebar .custom
@@ -655,7 +656,7 @@ satyamlive.com,tnilive.com###text-27
 indianow24.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
 garhwalkavikas.com###text-29 iframe
-abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,gandakichhadke.com,jagprerna.com,kyakhayal.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,gandakichhadke.com,jagprerna.com,kyakhayal.com,livehalchal.com,maithilijindabaad.com,makdaiexpress24.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,tamizhdb.com###text-30
 e-jaffna.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
@@ -1403,6 +1404,7 @@ lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 dakhal.net##.fadInleft_ads
 varthatrivandrum.com##.fbx-instance
+makdaiexpress24.com##.fdjga
 bbc24news.com##.featad
 sylhetprothidin24.com##.feature_category_section .header_ad_banner
 pchelpcenterbd.com##.featured-post-ads
@@ -1699,7 +1701,7 @@ cninews24.com##.map
 ideatvnews.com##.marquee-ads
 ayushindianews.com,hpnewsatl.com,khabarpahad.com,tv20news.in##.master-slider
 newsspecial.in##.master-slider-main-widget
-makdaiexpress24.com,veerdharanews.com##.master-slider-parent
+veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 media24news.in##.media-after-content_4
@@ -2009,7 +2011,6 @@ ktmdainik.com##.single-post aside.widget_media_image
 nepalmamila.com##.single-post-advertisement
 hindsagarplk.com##.single-post-content .metaslider
 haryananewsonline.com##.single-post-content > p img:only-child
-makdaiexpress24.com##.single-post-content [data-adid]
 ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
 sansarnews.com##.single-sidebar-ads
@@ -2165,7 +2166,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 deshprahari.com,dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
 prathamnews.in##.td-is-sticky .td-a-rec
-abtakmedia.com,aviratvaatchal.com,ccnnews24.in,thesummernews.com,ttncinema.com##.td-main-content-wrap .td-a-rec
+abtakmedia.com,aviratvaatchal.com,ccnnews24.in,ttncinema.com##.td-main-content-wrap .td-a-rec
 janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
 egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
