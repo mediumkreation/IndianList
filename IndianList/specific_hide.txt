@@ -1735,6 +1735,7 @@ valanchery.in##.mkd-sidebar .widget_text
 gandakichhadke.com##.mkloyr-container
 24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
+indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
 manoramanews.com,manoramaonline.com##.mm-other-ad
 manoramaonline.com##.mm-textlink-ad
