@@ -1707,6 +1707,7 @@ thamilan.lk##.mbs
 media24news.in##.media-after-content_4
 media4support.com##.media-content_2
 asomiyapratidin.in##.medicity_class
+vasistatoday.in##.mega-wrap .main-ads-pikihome
 bikashnews.com##.menu_ad
 bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
@@ -1838,6 +1839,7 @@ gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
+vasistatoday.in##.piki-ads-res
 tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
