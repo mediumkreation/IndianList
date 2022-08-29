@@ -586,9 +586,9 @@ citypostlive.com###sidebar-secondary-sidebar > .widget
 zamania.in###sidebar-section-top
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 upayuktha.com###sidebar-wrapper .widget.Image
-abtaknews.com,pradeepamonline.com###sidebar1
+abtaknews.com,asalbaat.co.in,pradeepamonline.com###sidebar1
 hadapsarexpress.com###sidebar1 .widget.HTML:not(#HTML6)
-nknewsindia.com###sidebar2
+asalbaat.co.in,nknewsindia.com###sidebar2
 siyasatdarpan.com###sidebar2 .widget.Image
 daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 kulalaworld.com###simpleimage-13
