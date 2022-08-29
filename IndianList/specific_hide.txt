@@ -1,12 +1,10 @@
 livebihar24news.com###AD_FLOAT
-utkalpratidin.com###AS_O_LHS_1
 eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
 pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
 metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
-utkalpratidin.com###HP_O_LHS_8
 atalsamachar.com###HP_O_TP_2 > div ~ div
 actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
 chilahatiweb.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com,yarldevinews.net###HTML10
@@ -1239,7 +1237,6 @@ anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreela
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
-utkalpratidin.com##.colombiatracked iframe
 sajhapost.com##.commercial-add
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
@@ -3222,6 +3219,6 @@ tv20news.in#?#p:-abp-contains(Advertisement)
 aajkasach.in##ul.post h3.widget-title
 unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
 upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-contains(Ad |))
-utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h2 + p)
-utkalpratidin.com#?#div.colombiaonesuccess div:-abp-has(div > a>div > h3 + p)
+utkalpratidin.com#?#div[id^="AS_O_"] div:-abp-has(> div > div > a> div h2 + p:-abp-contains(Ad |) )
+utkalpratidin.com#?#div[id^="HP_O_"] div:-abp-has(> div > div > a> div h2 + p:-abp-contains(Ad |) )
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
