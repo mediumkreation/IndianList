@@ -21,7 +21,8 @@ aapkimedia.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com,upayuktha.com
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
-nandednewslive.com###HTML22
+ekumaon.com,nandednewslive.com###HTML22
+ekumaon.com###HTML23
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
@@ -32,7 +33,7 @@ gramsamachar.com,jaldhakanews.com###HTML30
 tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,visarnews.com###HTML5
 rashtrasamarpan.com,taazakhoj.com###HTML6
-chapainawabganjnews.com,ekumaon.com,livebihar24news.com,rewanewsmedia.com,vyganews.com###HTML7
+chapainawabganjnews.com,livebihar24news.com,rewanewsmedia.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
