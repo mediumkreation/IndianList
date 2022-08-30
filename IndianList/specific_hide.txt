@@ -2166,7 +2166,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 deshprahari.com,dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
 prathamnews.in##.td-is-sticky .td-a-rec
-abtakmedia.com,aviratvaatchal.com,ccnnews24.in,ttncinema.com##.td-main-content-wrap .td-a-rec
+abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,ccnnews24.in,ttncinema.com##.td-main-content-wrap .td-a-rec
 janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
 egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
