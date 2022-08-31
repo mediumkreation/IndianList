@@ -1370,7 +1370,7 @@ loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
 karmalamadhanews24.com,thepoliticsagain.com##.entry-content > p > img
-chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com##.entry-content > p img
+chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com,sabkikhabar.net##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
