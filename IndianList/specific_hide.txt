@@ -310,7 +310,8 @@ biharpatrika.in###lcs_ad
 newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
-janprahar.com###left_level_2
+dhanamonline.com,janprahar.com###left_level_2
+dhanamonline.com###left_level_3
 u71news.com###logo-right
 enepalese.com###logo_middle
 cellitnews.com###logoright
@@ -1200,6 +1201,7 @@ firstindianews.com##.buget-banner
 cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
+dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 aloavanews24.com,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
