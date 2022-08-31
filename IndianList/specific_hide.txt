@@ -1329,7 +1329,7 @@ wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,knanayapathram.com,mahendranagarpost.com,sitakundabarta.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,knanayapathram.com,mahendranagarpost.com,sitakundabarta.com,thurannakathu.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
@@ -1338,6 +1338,7 @@ namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
+thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
