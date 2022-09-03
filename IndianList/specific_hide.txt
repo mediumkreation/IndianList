@@ -1922,6 +1922,7 @@ bizmandu.com##.roadblock
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 amarbarishal24.com##.row + .single_side_bar
+southwrap.in##.row-thirty.sidebar
 sathyamonline.com##.sAds
 prernanews.com##.sadv
 samacharsach.com##.samac-widget
