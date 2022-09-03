@@ -1967,7 +1967,7 @@ nayasabera.com##.sidebar .HTML:not(#HTML15):not(#HTML8)
 nayasabera.com##.sidebar .Image:not(#Image6)
 adbhutsamachar.com##.sidebar .kopa-carousel-widget
 dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
-pokharasports.com##.sidebar .stream-item-widget
+fourteenkerala.com,pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
 cgwall.com##.sidebar .wds_slider_cont
 madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
@@ -2403,6 +2403,7 @@ e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
 biharkhabars.com,khulikhabar.com,madawalaenews.com,sanskarnews.page##.widget.Image
+fourteenkerala.com##.widget.text-html
 dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
 bharatdarshannews.com##.widget1
 vikatan.com##.widget300xauto
