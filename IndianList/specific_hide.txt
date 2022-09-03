@@ -2121,6 +2121,7 @@ airanewsnetwork.com,bengallive.in,janpadnewslive.com,natunbarta.com,newschutney.
 allindianews.me,apnahimachalapnishaan.in,bastarflame.in,bundelkhandsamachar.com,chandinarsomoy.com,charotarnoavaj.com,crimejasoos.in,globalecampus.com,hamarahimachal.com,hindsat.in,jantaconnect.com,keralabhooshanam.com,livequicknews.in,massnews.online,mbkhabar.com,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newslive24x7.com,newssow.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,rewariupdate.com,sonprabhat.live,telegramnews24.com,thetadkanews.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 airanewsnetwork.com##.stream-item-widget:not(#stream-item-widget-3)
+khabriadda.in##.stream-item-widget:not(#stream-item-widget-6)
 dainikmaharajganj.in##.stream-item.half-box
 apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
 bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
@@ -2423,7 +2424,7 @@ mahanaad.com##.widget_block:not(#block-37)
 sabkasandesh.com##.widget_block:not(#block-6)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,livequicknews.in,magahinews.com,manthannews.in,news24you.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in##.widget_custom_html
+aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news24you.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in##.widget_custom_html
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
