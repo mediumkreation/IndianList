@@ -985,6 +985,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||chandpur-kantho.com/templates/web-v1/images/jibondip.gif
 ||chandpur24.net/wp-content/uploads/2021/11/ID-CARFD.eps_.png
 ||chandpurnews.com^*/cyberworldit_
+||chandpurreport.com^*/night-king
 ||changetv.press^*/gp-2.jpg
 ||changetv.press^*/gp.jpg
 ||changetv.press^*/IBBL-1.jpg
@@ -1764,6 +1765,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
 ||ibb.co^$domain=bhilaitimes.com|nayabharat.live
 ||ibb.co^$third-party,domain=shahzadpursangbad.com
+||ibnsinahealthcare.com^$third-party,domain=priyoshomoy.com
 ||icetoday.net^*/aura-add-
 ||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
 ||idealindianews.com/wp-content/uploads/2020/05/93879681_950099122113481_5714349542313295872_n.jpg
@@ -3318,6 +3320,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||primepunjab.com^*/Nobel-School$image
 ||primepunjab.com^*/SD-Collage-jalandhar
 ||prixa.net^*/sadak_ra_sawari_banner-_white_2Fi4KPbRQP.png$domain=ujyaaloonline.com
+||priyoshomoy.com^*/diabeties-course
+||priyoshomoy.com^*/piles-cure
 ||probash-mela.com/wp-content/uploads/2018/06/Sol1000p.jpg
 ||probash-mela.com^*/Advt
 ||probashbanglanews.com/wp-content/uploads/2017/04/bkashheader1.jpg
