@@ -2444,7 +2444,7 @@ trttamilolli.com##.widget_html_javascript_adder
 filmcityworld.com##.widget_kenm
 bangla52news.com,kundeshwartimes.com,shiftindia.com##.widget_media_gallery
 18indianews.com##.widget_media_gallery:not(#media_gallery-3)
-aagaazfirstnews.com,agraupdate.com,alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,aslipunjabi.com,bharatlive.co.in,bharatsamachartv.in,bhojpurimasala.live,bnanews24.com,chauthiduniya.com,comillarbarta.com,currentnewz.in,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,deshantor.com,dhunga.in,e-barta247.com,expressindian.co.in,fatehnagarnews.com,galaxykhabar.com,grandnews.in,gulfbangla.com,indiansamachar.in,jaihindtimes.in,kannadanewsnow.com,kanodnews.com,lokalok.in,mangalamnewsonline.com,mariahulive.com,nationupdate.in,newsfact.in,npbharat.com,pahadsmachar.com,parvatanchal.com,prothomshomoy.com,reporter24x7.com,rubarunews.com,samachaarindia.com,samachardoot.in,samacharhouse.com,sbdnews24.com,shauryatimes.com,songbadsaradin.net,sunamganjerkhobor.com,tajakhabar.in,thelucknowtribune.com,thetruths.in,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
+aagaazfirstnews.com,agraupdate.com,alivenews.co.in,amarvaani.com,andbiharnews.co.in,apkhabar.com,aslipunjabi.com,bharatlive.co.in,bharatsamachartv.in,bhojpurimasala.live,bnanews24.com,chauthiduniya.com,comillarbarta.com,currentnewz.in,dailynewshindi.com,dainikbhaskarup.com,dainikkhabarlayehain.com,dakhalchhattisgarh.com,deshantor.com,dhunga.in,e-barta247.com,expressindian.co.in,fatehnagarnews.com,galaxykhabar.com,grandnews.in,gulfbangla.com,indiansamachar.in,jaihindtimes.in,kannadanewsnow.com,kanodnews.com,lokalok.in,mangalamnewsonline.com,mariahulive.com,nationupdate.in,newsatnet.com,newsfact.in,npbharat.com,pahadsmachar.com,parvatanchal.com,prothomshomoy.com,reporter24x7.com,rubarunews.com,samachaarindia.com,samachardoot.in,samacharhouse.com,sbdnews24.com,shauryatimes.com,songbadsaradin.net,sunamganjerkhobor.com,tajakhabar.in,thelucknowtribune.com,thetruths.in,ujyaalonetwork.com,yashbharat.co.in##.widget_media_image
 tibrakhabar.com.np##.widget_media_image > img
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 lekhajokhanews.com##.widget_media_image img:not([src*="nocs.png"])
@@ -2462,7 +2462,7 @@ bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-abhitaknewsuk.in,awaznews24x7.com,chamolitimes.com,meherpurnews.com,newsnasha.com##.widget_media_video
+abhitaknewsuk.in,awaznews24x7.com,chamolitimes.com,meherpurnews.com,newsatnet.com,newsnasha.com##.widget_media_video
 aajkaaditya.in,bntlive.com,dainikujagarkhabar.in,ghumtidunia.com,hindsagarplk.com,independentcitizennews.com,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,thefourthmirror.com,thekhabrilal.com,up18news.com,usmalayalees.com##.widget_metaslider_widget
 kalikadainik.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
