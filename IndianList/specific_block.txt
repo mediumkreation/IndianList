@@ -153,6 +153,8 @@
 @@||mujibsenanews.com/uploads/banners/1609987163_a.png
 @@||muktomon.net/upload/adds/1605791883.gif
 @@||muktomon.net/upload/adds/1640065976.jpg
+@@||nayasadak.com/users_upload/dhitopatra.jpg
+@@||nayasadak.com/users_upload/NOC-Advertisement-Bigyapan-scaled.jpg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520499624.jpeg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520503648.jpeg
 @@||newsxindia.com/Uploads/ad_16.jpg
@@ -2732,6 +2734,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||nayapage.com^*/Now-we-can-hongkong.gif
 ||nayapage.com^*/Prime-bank.jpg
 ||nayapage.com^*/Ruslan-Nayapage-1030-x-100.gif
+||nayasadak.com/users_upload/
 ||nbs24.org^*/mc-3.gif
 ||nbs24.org^*/waltonadd.jpg
 ||nchs.edu.lk^$third-party,domain=ada.lk
