@@ -1225,7 +1225,7 @@ samajbad.tv##.code-block > img
 karmalamadhanews24.com,media24news.in,muthalvannews.com,prajasattaknews.com##.code-block img
 delhibulletin.in,newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
-biratnews24live.com,ideaciti.com##.code-block-4
+biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 navarashtra.com##.code-block:not(.code-block-10)
 kelopravah.news,magahinews.com##.code-block:not(.code-block-4)
@@ -1370,7 +1370,7 @@ thelucknowtribune.com##.entry-content > div[class]:not(.addtoany_content)
 loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
-karmalamadhanews24.com,thepoliticsagain.com##.entry-content > p > img
+karmalamadhanews24.com##.entry-content > p > img
 chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com,sabkikhabar.net##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 news24bd.tv##.entry-content [data-position]
@@ -1386,6 +1386,7 @@ news1hindustan.com##.entry-content iframe
 247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com,pclive7.com##.entry-content img
 newswatch.co.in##.entry-content img:only-child
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
+thepoliticsagain.com##.entry-content p > img
 theeditors.net##.entry-content p img
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content .code-block
