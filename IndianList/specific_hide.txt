@@ -1682,6 +1682,7 @@ sharebazarnews.com##.main-header-ads
 subhechhanews.com##.main-headera .advertise
 khabarmukam.com##.main-long-advert
 samudrapari.com##.main-news-ads
+cgnewsonline.com##.main-sidebar .widget_block
 khulnanchal.com##.main-sidebar .widget_custom_html
 bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
