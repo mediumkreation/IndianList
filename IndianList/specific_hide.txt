@@ -243,7 +243,7 @@ saakshatv.com###custom_html-30
 thedastak24.com###custom_html-31
 jaihindustannews.com###custom_html-34
 gondwanaexpress.com,saakshatv.com###custom_html-39
-amanyatralive.com,apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabar36.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
+amanyatralive.com,apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabar36.com,khabarwarrior.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 gondwanaexpress.com###custom_html-40
 247superfast.com,bdcrictime.com,bharatsarathi.com,cglivenews.co.in,devbhumijknews.in,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
 hindi-news-today.com###custom_html-51
@@ -2478,7 +2478,7 @@ diyopost.com##.widget_palika_advertisement
 purvanchalnews.com##.widget_revslider
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
-awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
