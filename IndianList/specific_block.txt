@@ -75,7 +75,7 @@
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
 /Advertisement/*$domain=aloavanews24.com
-/advertisement/*$domain=chhattisgarhaaj.com|digiana.com|mediavision.news|notebazar.com|satghoria.com
+/advertisement/*$domain=chhattisgarhaaj.com|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
 /advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|nepalipatra.com|nepalkhabar.com
 /advisment/*$domain=kopotakkhonews24.com
 /banner-$domain=navakal.in
@@ -158,6 +158,8 @@
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520499624.jpeg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520503648.jpeg
 @@||newsxindia.com/Uploads/ad_16.jpg
+@@||onlinejalandhar.com/advertisement/editor_onlinejalandhar.jpg
+@@||onlinejalandhar.com/advertisement/mobileapp_jalandhar.jpg
 @@||prabhatmantra.com/admin/Ishtehaar/Save%20Water.jpg
 @@||rtvonline.com^*-728X90
 @@||samacharprime24.com/img/cust/31.jpg
@@ -3106,6 +3108,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||onlinedabali.com/wp-content/uploads/2020/06/300x150-ktm.gif
 ||onlinedabali.com/wp-content/uploads/2020/09/ad-2.jpg
 ||onlinedabali.com/wp-content/uploads/2020/11/edf.jpg
+||onlinejalandhar.com/spine.jpg
 ||onlinetvnepal.com^*/1140x100-1-1.jpg
 ||onlinetvnepal.com^*/350x450.jpg
 ||onlinetvnepal.com^*/700x100-1.jpg
