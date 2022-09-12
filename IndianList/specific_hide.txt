@@ -1238,7 +1238,7 @@ channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
-anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreelal.com##.colombiaadcode
+anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -3182,6 +3182,7 @@ pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 news18.com#?##right div:-abp-has(> div.nw18-dfp-ad)
+rochakkhabare.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
 rozanaspokesman.in#?#div[style]:-abp-has(> div:-abp-contains(Advertisement))
 sabhavarthakal.com#?#.jeg_block_heading:-abp-has(> .jeg_block_title > span:-abp-contains(ADVERTISEMENTS))
