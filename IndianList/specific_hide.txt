@@ -1444,6 +1444,7 @@ pradeepamonline.com##.footer-widgets-wrap
 hajurkokhabar.com##.footer__top__up__image
 borendronews.com##.footer_logo
 adhorekhit.com##.footer_top_banner
+newspagebd.com##.forAdd
 professorsbd.com##.for_add
 sangbad-gallery.com##.four_advertisement
 banglanewsca.com##.front-page-ad
@@ -2001,6 +2002,7 @@ sanjevani.com##.sidebar-right > .widget_text > h5
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
+newspagebd.com##.sidebarAdd
 ambalanews24.com##.sidebarVoteAd
 hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
 sidhakhabar.com##.sidebar_top_Ad img:not([src*="Bagmati"])
