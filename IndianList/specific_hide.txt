@@ -2397,7 +2397,7 @@ vishwavani.news##.vv_advst
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 hajurkokhabar.com##.web__banner
-dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com##.well
+dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com,tahalaka.in##.well
 sajhapost.com##.white-bg-half-ad
 emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
