@@ -1176,6 +1176,7 @@ dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
 bn24live.in,bundelkhandnews.com,lokjannews.com##.bn-lg
 aankhennews24.com,bundelkhandnews.com,champarantoday.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,rni.news,sansaninews.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
+britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 topnepalnews.com##.border-bottom.bg-white
@@ -2934,6 +2935,7 @@ khabarprawaha.com##div[class*="vigyapan"] > :not(.custom-html-widget)
 himalayanupdate.com,jagmarg.com,punjabipost.ca##div[class^="AdvtSample"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 eenadu.net##div[class^="ad-block"]
+britishpathram.com##div[class^="ad_mid"]
 dailyjonomot.com##div[class^="add_"]
 thekeralapost.com##div[class^="advert-"]
 bonikbarta.net##div[class^="advertise_space"]
