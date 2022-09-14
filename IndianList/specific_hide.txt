@@ -2017,6 +2017,7 @@ khabaristan.com##.single-box
 dhadingpost.com##.single-content p~figure.wp-block-image
 channelcox.com##.single-ditails + .add .widget_area
 bijoybanglabd.com##.single-dtls .code-block
+bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
 sheikhpuranews.com##.single-entry .code-block
 sheikhpuranews.com##.single-entry img[width="300"][height="225"]
 thenewswords.com##.single-image .carousel
@@ -2162,7 +2163,7 @@ abhayindia.com,abhishektimes.in.net,annapurnatimes.com,bharathvaibhav.com,cinesa
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 dhunga.in,rantraibaar.in##.td-a-rec video
-bholahatchitro.com,impact24news.com,khulnatimes.com,pahilosamachar.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
+impact24news.com,khulnatimes.com,pahilosamachar.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 dewanganjnews.com,khulnatimes.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,rajasthanlive24x7.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
