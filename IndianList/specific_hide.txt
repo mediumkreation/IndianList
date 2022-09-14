@@ -2404,6 +2404,7 @@ sajhapost.com##.white-bg-half-ad
 emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
 gstv.in##.widget-area-1 .widget_custom_html
+labanglatimes.com##.widget-banner
 crimediarybd.com##.widget-body > p img
 kannadaprabha.com##.widget-container-188
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
