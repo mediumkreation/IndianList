@@ -2574,7 +2574,7 @@ drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
 hpnewsatl.com,nammabantwala.com##.wp-video
 theruralpress.in##.wpb-outer-wrap
-atharvnews.com,rashtrabodh.com,sajagindia.com,vidarbhaapla.com##.wpb_content_element
+atharvnews.com,hakkatha.com,rashtrabodh.com,sajagindia.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
