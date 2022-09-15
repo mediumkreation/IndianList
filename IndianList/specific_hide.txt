@@ -225,7 +225,7 @@ uluberiasambad.in###custom_html-14
 bhaskarenews.com,crimekhabar.live###custom_html-15
 mppost.com,sabkasandesh.com###custom_html-16
 dnspnews.in###custom_html-169
-muznews.online,notunerkotha.com,prompttimes.com,samvadnews.com###custom_html-17
+muznews.online,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,ujiarpurnews.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,janadeshnews.in,janawajnewslive.com,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
@@ -706,15 +706,9 @@ sarkarimanthan.com###text-html-widget-6
 jubileepost.in,sehattimes.com###text-html-widget-8
 europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
-notunerkotha.com###tie-block_1375
-notunerkotha.com###tie-block_1947
 voiceofjhabua.com###tie-block_2269
-notunerkotha.com###tie-block_2330
 cgtop36.com###tie-block_3472
-notunerkotha.com###tie-block_428
-notunerkotha.com###tie-block_629
 tcp24.news###tie-block_907
-notunerkotha.com###tie-block_972
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
@@ -1050,7 +1044,7 @@ nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
 bizmandu.com##.advertisement-inside-content
