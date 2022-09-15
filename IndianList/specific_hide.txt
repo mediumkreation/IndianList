@@ -1496,6 +1496,7 @@ newsdnntv.com##.header--ad
 sodhpatra.com##.header-ad-widget
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
+manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
@@ -1653,6 +1654,7 @@ haribhoomi.com,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
 dailyjugantorsangbad.com##.live .embed-responsive
+manasmediaonline.com##.livedemo img
 lankanewsweb.net##.lnw-ad
 nepaldubai.com##.logo-ads
 nepaldubai.com##.logo-ads-header
