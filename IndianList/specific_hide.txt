@@ -1283,6 +1283,8 @@ gtamilnews.com##.custom-html-widget iframe
 biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
 dbcnews.tv##.d-flex
+chandpursangbad.com##.d-print-desktop
+chandpursangbad.com##.d-print-none
 dainikbharat24.com##.daini-widget
 esidhakura.com##.daraz-ad
 ekantipur.com##.daraz-sponser
@@ -1790,6 +1792,7 @@ cgsandesh.com##.ne-sidebar .bg-aqua
 cgsandesh.com##.ne-sidebar > .ne-banner-layout1
 cgsandesh.com##.ne-sidebar > .topic-border
 nepalijanta.com##.nepalijanta-ad
+chandpursangbad.com##.new-logo-area-right
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 tapimitra.com##.news-btm-txt p img
@@ -2900,6 +2903,7 @@ punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
 punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
 sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
+chandpursangbad.com##div[class*="-banner"]
 news18.com##div[class*="Header_inner_ad"]
 prothomalo.com##div[class*="__ad-slot"]
 prothomalo.com##div[class*="_ad__"]
