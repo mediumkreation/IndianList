@@ -2438,6 +2438,7 @@ pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 banglaralonews.com,jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
+barisalcrimetrace.com##.widget_area p>img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com,samastipurlive.com,upaajtak.com##.widget_block
