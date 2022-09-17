@@ -213,6 +213,7 @@ purvanchal24.com###content-wrapper > :not(#main-wrapper):not(#sidebar-wrapper)
 haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
+chennairoyalcinema.com###custom-img-header
 dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jaihindtimes.in,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
