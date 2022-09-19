@@ -3268,3 +3268,4 @@ utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-cont
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div h3 + p )
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
+viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
