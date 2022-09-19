@@ -1296,7 +1296,8 @@ jansatta.com##.desk-ad-bg-container
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
-ekusheysangbad.com##.details-page-side-banner
+citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
+citynewsdhaka.com##.details-page-side-banner-2
 timeskerala.com##.dfx-pubadban
 ejanshakti.com##.dgw
 dhakanewsexpress.com##.dhaka-content
