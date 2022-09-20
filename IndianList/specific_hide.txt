@@ -1926,6 +1926,7 @@ banglanews24.com##.right-container .ads
 argusnews.in##.right-section-top-2
 dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
+khabarhekhabar.com##.right_adbox img
 khabarbhartiindia.com##.right_adbox p img
 unmadmagazine.com##.right_bottom_ad_section
 tnilive.com##.righta
