@@ -192,6 +192,7 @@ nzpunjabinews.com###carouselExampleControls
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
+kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
@@ -312,8 +313,8 @@ biharpatrika.in###lcs_ad
 newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
-dhanamonline.com,janprahar.com###left_level_2
-dhanamonline.com###left_level_3
+dhanamonline.com,janprahar.com,kathir.news###left_level_2
+dhanamonline.com,kathir.news###left_level_3
 u71news.com###logo-right
 enepalese.com###logo_middle
 cellitnews.com###logoright
@@ -435,6 +436,7 @@ abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
+kathir.news###mid_level_3_after
 tharunaya.us###module_03_ads300x250
 360malayalam.com###monitor
 aapkiummid.com###ms-admananger a:not([imageanchor]) img:not([src*="qr-code"])
@@ -3174,6 +3176,7 @@ indiatv.in#?#.ad:-abp-has(> div:first-child)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 janprahar.com#?#div:-abp-has(> ins)
 janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
+kathir.news#?#div:-abp-has(> .adsbygoogle)
 keralabreaking.com#?#.wpb_wrapper:-abp-has(> .td_block_single_image)
 khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
 khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
