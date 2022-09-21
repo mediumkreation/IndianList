@@ -653,7 +653,7 @@ fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,manvadhikartimes.com###text-
 247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,maithilijindabaad.com,manvadhikartimes.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,amaderparis.com,banglarkonthosor.com,sambadsaradin.com,vavuniyanet.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,gnewsindia.com,sambadsaradin.com,updatetimes.com###text-19
-abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,bihar.express,binodonnews24.com,ccnnews24.in,cinemasthi.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,deshpatra.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,kositimes.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
+abhibharat.com,anaicoddai.com,attachowk.com,baghuabarta.com,bihar.express,binodonnews24.com,ccnnews24.in,cinemasthi.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,deshpatra.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,kositimes.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
 amaderparis.com,gnewsindia.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
 anytechtune.com,roopcare.com###text-21
@@ -2082,7 +2082,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
+bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com,republicbharatnews24.com##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
