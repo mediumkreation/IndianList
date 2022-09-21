@@ -1048,6 +1048,7 @@ janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 atalsamachar.com##.advertisRow > div ~ div
 bikashnews.com,gorkhalikhabar.com##.advertise
+dailyajkerbarta.com##.advertise a
 drukpadam.com##.advertise-area
 nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
