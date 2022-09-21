@@ -564,6 +564,7 @@ tamilnewsstar.com###sidebar .text-html
 bhorerkagoj.com###sidebar .textwidget
 madawalaenews.com###sidebar .widget.HTML:not(#HTML8):not(#HTML6)
 coverageindia.com###sidebar .widget.Image
+citynewshindi.com###sidebar .widget.Image:not(#Image8)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 nationalwartanews.com###sidebar .widget_block
