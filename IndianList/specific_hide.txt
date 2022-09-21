@@ -1921,6 +1921,7 @@ news18.com##.pwa_add
 brightpost.in##.quads-ad-label
 rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
+thepublictoday.com##.rd-ads .wp-block-image
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
 thekeralapost.com##.rht-ad-position
