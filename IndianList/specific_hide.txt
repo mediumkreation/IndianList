@@ -1980,6 +1980,7 @@ news18.com##.sideTop
 postpati.com##.side_adv_part
 hongkar.com##.side_bar .py-1 img
 motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.sidea
+newskoseli.com##.sidea .wp-block-image
 kulalaworld.com##.sideadd
 cknewsgroup.ca##.sideadholder
 urjanchaltiger.in##.sideads-sec
@@ -2418,6 +2419,7 @@ hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com,tahalaka.in##.well
 thesurgicalnews.in##.whistleAds
 sajhapost.com##.white-bg-half-ad
+newskoseli.com##.wid-1
 emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
 gstv.in##.widget-area-1 .widget_custom_html
