@@ -1443,7 +1443,7 @@ uthayamnews.com##.fn-header-banner
 narmadanchal.com##.fn-widget-image
 nijamtoday.com##.foogallery_widget
 anweshanam.com##.footer-ad-img
-wishmaya.com##.footer-add
+firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 goodmorningindia.net,rkexpose.com##.footer-adv
 news127.com##.footer-bottom
@@ -2064,6 +2064,7 @@ patheo24.com##.single_page .widget_area img
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
+firstlookbihar.in##.single_sidebar .spost_nav
 ayodhyasamachar.com##.singlepage center > embed
 uttareralo24.com##.singlepage-section .add
 fenchuganjnews.com##.singlepage-section .col-md-8 .add img
@@ -2664,6 +2665,7 @@ sunnews24x7.com##a .adv-vload
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
+firstlookbihar.in##a.sideAdd
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
