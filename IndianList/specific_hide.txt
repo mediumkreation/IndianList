@@ -357,7 +357,7 @@ aajtakmedia.net,amanshantinews.com,balliatimes.com,banglatelegraph.com,barisalto
 prompttimes.com###media_image-20
 amanshantinews.com,dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 amanshantinews.com###media_image-22
-cgnews24x7.wordpress.com,dainikchintak.com,peptechtime.com,samacharsach.com###media_image-23
+cgnews24x7.wordpress.com,dainikchintak.com,peptechtime.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
@@ -431,7 +431,7 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in,samacharsach.com###metaslider_widget-2
+abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in###metaslider_widget-2
 24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,thekhabri.in###metaslider_widget-3
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
@@ -1756,7 +1756,7 @@ rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
 gandakichhadke.com##.mkloyr-container
-24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
@@ -1948,7 +1948,6 @@ amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
 sathyamonline.com##.sAds
 prernanews.com##.sadv
-samacharsach.com##.samac-widget
 samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 khabarchalisa.com,sheikhpuranews.com,vijayapatha.in##.sb-widget-ad
@@ -3065,7 +3064,7 @@ lokmat.com##div[id^="photoInlist"]
 hosadigantha.com##div[id^="pum-"]
 rashtranayaknews.com,rashtravadinews.in##div[id^="rasht-"]
 lokmat.com##div[id^="rhs-"]
-samacharuk.com##div[id^="samac-"]
+samacharsach.com,samacharuk.com##div[id^="samac-"]
 sarthaksamay.com##div[id^="sarth-"]
 satymevjayte.com##div[id^="satym-"]
 bilaspurlive.com##div[id^="sgpb-"]
