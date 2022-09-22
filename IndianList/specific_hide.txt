@@ -1341,7 +1341,7 @@ biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.e
 newsportals.in##.elementor-image > a[href="#"] img
 todaypostlive.com##.elementor-image a[target="_blank"]
 delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
-thenewskhazana.com##.elementor-shortcode
+janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
 khabriyanews.com##.elementor-widget-heading
