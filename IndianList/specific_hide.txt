@@ -371,7 +371,7 @@ cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
 delhibulletin.in,pressbangla24.com###media_image-34
 delhibulletin.in###media_image-35
-crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
+pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 sheikhpuranews.com###media_image-37
 delhibulletin.in,mpnewscast.com,voiceofbihar.in###media_image-38
 delhibulletin.in###media_image-39
@@ -380,7 +380,6 @@ sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
 sabkasandesh.com###media_image-43
-crimebarta.com###media_image-44
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
 amanshantinews.com,banglasanglap.co.uk,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,glimeindianews.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,sandhannews.com,ujjwalduniya.com###media_image-5
@@ -2491,6 +2490,7 @@ divyalive.com##.widget_media_image:not(#media_image-28):not(#media_image-49)
 pathivaranews.com##.widget_media_image:not(#media_image-29)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 divyadarpan.com##.widget_media_image:not(#media_image-38)
+crimebarta.com##.widget_media_image:not(#media_image-40)
 bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
