@@ -2461,7 +2461,7 @@ mahanaad.com##.widget_block:not(#block-37)
 sabkasandesh.com##.widget_block:not(#block-6)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news24you.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,vishban.com##.widget_custom_html
+aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news24you.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,vishban.com,voice4bihar.com##.widget_custom_html
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 giraya.lk##.widget_custom_html:not(#custom_html-7)
@@ -3006,6 +3006,7 @@ himaliawaj.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
 bikalpadainik.com##div[data-adid]:not([data-adid="5022"]):not([data-adid="3716"])
+voice4bihar.com##div[data-adid]:not([data-adid="99627"])
 veerdharanews.com##div[data-adid]:not([data-type="custom_code"])
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
