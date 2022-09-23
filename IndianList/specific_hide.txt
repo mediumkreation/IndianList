@@ -820,7 +820,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
+akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
@@ -1470,7 +1470,7 @@ khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
-lalkhabar.com,murchungatv.com##.full_ad_section
+kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
 sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
@@ -2369,6 +2369,7 @@ janwani.in##.toplogobannerRS1 .topcol1
 divyahimachal.com##.topnewsbx > div[style]
 seithy.com##.toppageadsindexheader
 dhakareport24.com##.topright_add
+kolhabinews.com##.topside-ad
 uukmanews.com##.tp-ad
 damstv.com##.tr-ad
 aapkiummid.com##.tr-caption-container
