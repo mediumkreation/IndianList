@@ -229,7 +229,7 @@ sabkasandesh.com###custom_html-16
 dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
-antimvikalp.com,bharatnewslive24.in,ggsnews24.com,ujiarpurnews.com###custom_html-19
+antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
 amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janadeshnews.in,janawajnewslive.com,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
@@ -254,7 +254,7 @@ bidhannagartimes.com,bnanews24.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,kosi
 himachalabhiabhi.com###custom_html-68
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
 mynews36.com,newsuniversal.in,pradhanavartha.in###custom_html-8
-aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,satyaketansamachar.com,uttranews.com###custom_html-9
+aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pardaphash.com###disqus_thread iframe:first-child
 teluguwishesh.com###djslider875
