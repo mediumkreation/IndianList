@@ -2156,6 +2156,7 @@ dainikmaharajganj.in##.stream-item.half-box
 apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
 bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
 voiceofjhabua.com##.stream-title
+timenewsbd.net##.stretched_link
 youthmukam.com##.su-image-carousel
 hetaudatoday.com##.subhakamana-ad
 awajnews.com##.supsystic-slider-wrapper
@@ -3136,6 +3137,7 @@ khabarbhatapara.in##iframe[src*="google.com/presentation/"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 dailynayadiganta.com##iframe[style*="height: 250px"]
 dbcnews.tv##iframe[style*="height: 90px"]
+timenewsbd.net##img + aside.sidebar
 deshsanchar.com##img.alignnone.size-full
 onstimes.com##img.attachment-full
 pksnews24.com##img[alt*=" Ad-"]
