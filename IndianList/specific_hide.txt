@@ -1109,7 +1109,7 @@ dnewsnetwork.in##.awac img.image
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
 manabadi.co.in##.backg-g
-71barta24.com,ajkercrimetimes.com,ajkertanore.com,alochitosokal.com,alokitodhaka.com,alokitonarayanganj24.net,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglalivenews24.tv,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,bijoybanglabd.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailybahadur.com,dailyjugantorsangbad.com,dailynotunsongbad.com,dainikdishari.com,dainikmymensinghpratidin.com,dainiksomoyerbangladesh.com,dainikvatibangla.com,daynikekusherbani.com,deshersangbad24.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,jonotaradalot.com,jubokantho24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,onushondhantv.com,paribahanjagot.com,pollysoktybarta.com,pracestanews24.com,priyobanglanews24.com,rajshahinews24.com,rbcnewsbd.com,sarakkhonnews.com,satkhiratoday.com,sb24live.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
+71barta24.com,ajkercrimetimes.com,ajkertanore.com,alochitosokal.com,alokitodhaka.com,alokitonarayanganj24.net,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglalivenews24.tv,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,bijoybanglabd.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailybahadur.com,dailyjugantorsangbad.com,dailynotunsongbad.com,dainikdishari.com,dainikmymensinghpratidin.com,dainiksomoyerbangladesh.com,dainikvatibangla.com,daynikekusherbani.com,deshersangbad24.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,jonotaradalot.com,jubokantho24.com,kansatnews24.com,lalsobujerkontho.com,moulvibazar24.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,onushondhantv.com,paribahanjagot.com,pollysoktybarta.com,pracestanews24.com,priyobanglanews24.com,rajshahinews24.com,rbcnewsbd.com,sarakkhonnews.com,satkhiratoday.com,sb24live.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
 24hnbc.com,asianmetronews.com,comilla71tv.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,kharinews.com,khobor24ghonta.com,malayaleevision.com,odia-ray.in,postpati.com,punjabmailusa.com,puthithu.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in,voiceofsatkhira.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
@@ -2161,6 +2161,7 @@ hetaudatoday.com##.subhakamana-ad
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 notebook.today##.t-out-span
+moulvibazar24.com##.tab-header ~ .add
 adhunikdaur.com##.tab_265top_left
 xxx-indian-porn.com##.tac
 onlinedabali.com##.tadd
@@ -2505,6 +2506,7 @@ wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 diyopost.com##.widget_palika_advertisement
 purvanchalnews.com##.widget_revslider
+moulvibazar24.com##.widget_sec
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
 awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
@@ -3002,7 +3004,7 @@ thejoharnews.com##div[class^="thejo-"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 himaliawaj.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
