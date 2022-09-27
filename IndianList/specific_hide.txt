@@ -9,7 +9,7 @@ atalsamachar.com###HP_O_TP_2 > div ~ div
 actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,unmaikal.com###HTML1
 chilahatiweb.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
-99samacharexpress.in,dailyhealthletters.com,gossip99.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,rewanewsmedia.com###HTML11
+99samacharexpress.in,dailyhealthletters.com,gossip99.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
 dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
@@ -33,11 +33,11 @@ gramsamachar.com,jaldhakanews.com###HTML30
 tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,visarnews.com###HTML5
 gossip99.com,rashtrasamarpan.com,taazakhoj.com###HTML6
-chapainawabganjnews.com,livebihar24news.com,rewanewsmedia.com,vyganews.com###HTML7
+chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
-99samacharexpress.in,bhopalsamachar.com,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,newswitness.in,pinkcitynews.in,probashbd.news,rewanewsmedia.com,sahibganjnews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
+99samacharexpress.in,bhopalsamachar.com,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,newswitness.in,pinkcitynews.in,probashbd.news,sahibganjnews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
@@ -2091,7 +2091,7 @@ digitalnewslive.com##.slider_3
 lokjeewan.com##.slider_ad_top
 barabankiexpress.in,janpadnewslive.com##.slider_instance
 sadeaalaradio.co.nz##.slides
-pslvtv.com,rewanewsmedia.com##.slideshow-container
+pslvtv.com##.slideshow-container
 pslvtv.com##.slideshow-container ~ div .dot
 mediadabali.com##.sm-ads
 rashtranayaknews.com##.small-adv
@@ -3029,6 +3029,7 @@ anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 indiatimesgroup.com##div[id^="AS_O_LHS_"] > div:nth-child(n+4)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
+rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+4)
 realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
 newzfast.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
