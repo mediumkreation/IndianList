@@ -248,7 +248,7 @@ gondwanaexpress.com,saakshatv.com###custom_html-39
 amanyatralive.com,apnahimachalapnishaan.in,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabar36.com,khabarwarrior.com,news127.com,newshaat.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 gondwanaexpress.com###custom_html-40
 jaunpurlivenews.in###custom_html-43
-247superfast.com,bdcrictime.com,bharatsarathi.com,cglivenews.co.in,devbhumijknews.in,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
+247superfast.com,bdcrictime.com,bharatsarathi.com,cglivenews.co.in,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
 hindi-news-today.com###custom_html-51
 bidhannagartimes.com,bnanews24.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,kositimes.com,maithilmanch.in,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
 himachalabhiabhi.com###custom_html-68
@@ -543,6 +543,7 @@ newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
 24city.news,bangla52news.com,cpnews24.com,dakshinapath.com,indianewsviral.co.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
 vbnews24.com###secondary .widget_text:not(#custom_html-2)
+digantabani.com###secondary .widget_text:not(#text-32)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
