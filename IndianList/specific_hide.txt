@@ -1295,7 +1295,6 @@ banglamail.news##.d-ad
 dbcnews.tv##.d-flex
 chandpursangbad.com##.d-print-desktop
 chandpursangbad.com##.d-print-none
-dainikbharat24.com##.daini-widget
 esidhakura.com##.daraz-ad
 ekantipur.com##.daraz-sponser
 deshabhimani.com##.db-scnAd2
@@ -3256,6 +3255,7 @@ jagarannews.com##section.widget img:not(.wp-image-85373)
 newspolar.com##section.widget img:not(.wp-image-85386):not(.wp-image-87331)
 kathmandupati.com,lokpath.com##section.widget img:only-child
 damaulionline.com##section.widget:not(.widget_block)
+dainikbharat24.com##section.widget_block
 bidrohee.com,drukpadam.com,uttarkal.com##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
