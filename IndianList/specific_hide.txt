@@ -2455,7 +2455,7 @@ hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
 damaulinews.com##.widget_advertisement_widget
 e-kantho24.com,gtbnews24.com##.widget_area
 pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
-dailynotunsongbad.com,news24bd.net##.widget_area > img
+dailybahadur.com,dailynotunsongbad.com,news24bd.net##.widget_area > img
 banglaralonews.com,jubokantho24.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 barisalcrimetrace.com##.widget_area p>img
