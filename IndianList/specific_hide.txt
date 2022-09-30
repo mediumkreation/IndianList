@@ -935,7 +935,6 @@ sylhetview24.net##.add_2_part
 shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
-gouripurnews.com##.add_add
 snn24.com##.add_after_scroller
 dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
@@ -1569,7 +1568,7 @@ muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
 sudurpatra.com##.home_content a[target="blank"]
 news71online.com,shamolynews24.com##.home_last_ad
-dainikdeshseba.com,durnitibarta.com##.home_page_ad
+dainikdeshseba.com,durnitibarta.com,gouripurnews.com##.home_page_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 bishwabarta.com,shamolynews24.com##.home_widget
