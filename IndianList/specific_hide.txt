@@ -1511,7 +1511,7 @@ chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,benkiyabale.com,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com##.header-ainfo
-anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
+anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
@@ -1556,6 +1556,7 @@ brightpost.in,mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
 madhyamam.com##.hocal-ad-block
 bangla-news24.com##.home-e3lan
+update24.net##.home-featured-boxes
 dabangmedia.com##.home-gallery.photo-gallery
 tamiltradepost.com##.home-mid-banner
 deshprotikhon.com##.home-page-ads a:not([href*="deshprotikhon.com"])
@@ -2462,6 +2463,7 @@ rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com,samastipurlive.com,upaajtak.com##.widget_block
 24hrnews.in##.widget_block img
+update24.net##.widget_block img:not([src*="stop-war.jpg"])
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 channeltoday.net##.widget_block:not(#block-3)
 indiajaankari.in##.widget_block:not(#block-30)
