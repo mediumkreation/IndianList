@@ -1568,7 +1568,7 @@ muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
 sudurpatra.com##.home_content a[target="blank"]
 news71online.com,shamolynews24.com##.home_last_ad
-dainikdeshseba.com,durnitibarta.com,gouripurnews.com##.home_page_ad
+bornamelanews24.com,dainikdeshseba.com,durnitibarta.com,gouripurnews.com##.home_page_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 bishwabarta.com,shamolynews24.com##.home_widget
@@ -1771,7 +1771,7 @@ jagratilahar.com##.modal-body
 mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,news30express.com,pclive7.com##.mom-e3lanat
-24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
+24newspress.com,48bangla.tv,bn24live.in,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 khoborbari24.com##.mom_ads300
 janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
