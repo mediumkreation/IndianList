@@ -223,7 +223,6 @@ sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
 247superfast.com,ausamachar.com,jaihindtimes.in,sabkasandesh.com###custom_html-13
 sharebazarnews.com###custom_html-1371
-uluberiasambad.in###custom_html-14
 bhaskarenews.com,crimekhabar.live###custom_html-15
 sabkasandesh.com###custom_html-16
 dnspnews.in###custom_html-169
@@ -2472,7 +2471,7 @@ mahanaad.com##.widget_block:not(#block-37)
 sabkasandesh.com##.widget_block:not(#block-6)
 khulasamedia.com,liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news1today.in,news24you.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,vishban.com,voice4bihar.com##.widget_custom_html
+aavakaaya.in,alivenews.co.in,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news1today.in,news24you.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 giraya.lk##.widget_custom_html:not(#custom_html-7)
