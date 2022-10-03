@@ -77,6 +77,7 @@
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=chhattisgarhaaj.com|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
 /Advertisement/*$domain=odiaspotnews.in
+/advertisement/*$domain=swatantraawaz.com
 /advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|nepalipatra.com|nepalkhabar.com
 /advisment/*$domain=kopotakkhonews24.com
 /banner-$domain=navakal.in
