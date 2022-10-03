@@ -1941,6 +1941,7 @@ adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 khabarbhartiindia.com##.right_adbox p img
 unmadmagazine.com##.right_bottom_ad_section
+ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
 janwani.in##.rightbarhds
 bikashnews.com##.rightside a[target="_blank"]
