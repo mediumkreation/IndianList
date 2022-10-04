@@ -990,6 +990,7 @@ gandakitimes.com##.ads aside:not(#custom_html-7)
 mohanagarnews.com##.ads img
 nepalmanch.com##.ads img:not(.wp-image-72119)
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
+newscircle.in##.ads-2018
 iamgujarat.com,samayam.com##.ads-between-story
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
