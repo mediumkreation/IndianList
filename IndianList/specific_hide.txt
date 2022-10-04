@@ -1050,7 +1050,7 @@ janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 atalsamachar.com##.advertisRow > div ~ div
-bikashnews.com,gorkhalikhabar.com##.advertise
+bikashnews.com##.advertise
 dailyajkerbarta.com##.advertise a
 drukpadam.com##.advertise-area
 nobat.com##.advertise-ifrme
@@ -1058,7 +1058,7 @@ pokharaexpress.com##.advertise-sec-header
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
@@ -1196,6 +1196,7 @@ bbcpunjab.com##.bot-ads
 lokjeewan.com##.bottom_ad_slide
 yugabdha.com##.box-sec-bg .slider
 khoborbari24.com##.box_outer.widget_text
+gorkhalikhabar.com##.box_wrap.p-2
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 yuvabharat.news##.breaking-news-area.mt-15
@@ -1267,6 +1268,7 @@ bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 ganthan.com##.content-area aside.widget_media_image
 dinamani.com##.content-av
+gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
 teluguwishesh.com##.content-holder-tvshowvaluevision
@@ -2101,6 +2103,7 @@ sadeaalaradio.co.nz##.slides
 pslvtv.com##.slideshow-container
 pslvtv.com##.slideshow-container ~ div .dot
 mediadabali.com##.sm-ads
+gorkhalikhabar.com##.sm-main-adv-box
 rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
