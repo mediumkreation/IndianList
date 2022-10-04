@@ -3028,6 +3028,7 @@ shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 thereport24.com##div[id*="_300x250"]
+deshvani.in##div[id*="_webads"]
 aapninews.in,anugrahavision.com,keralaonlinenews.com,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
