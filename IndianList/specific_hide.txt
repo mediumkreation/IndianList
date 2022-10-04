@@ -2056,6 +2056,7 @@ newssanjal.com##.single-sidebar .post-carousel-1
 sansarnews.com##.single-sidebar-ads
 sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
+nepalbritain.com##.single-wrapper-details-sidebar-ads
 eimuhurte.com##.singleAds
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
@@ -2463,7 +2464,8 @@ daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 barisalcrimetrace.com##.widget_area p>img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
-avikaluttarakhand.com,khabareducation.com,newsaroma.com,rashtrasamvad.com,samastipurlive.com,upaajtak.com##.widget_block
+nepalbritain.com##.widget_black-studio-tinymce
+avikaluttarakhand.com,khabareducation.com,nepalbritain.com,newsaroma.com,rashtrasamvad.com,samastipurlive.com,upaajtak.com##.widget_block
 24hrnews.in##.widget_block img
 update24.net##.widget_block img:not([src*="stop-war.jpg"])
 uttarakhandsamachar.com##.widget_block:not(#block-26)
