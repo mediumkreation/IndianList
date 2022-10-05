@@ -2254,7 +2254,6 @@ industrialpunch.com##.td-ss-main-sidebar .widget_metaslider_widget
 saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
-banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
 sajagindia.com##.td-ss-main-sidebar aside
 sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
@@ -2562,11 +2561,14 @@ newssunamganj.com##.wp-image-11042
 odishasambad.in##.wp-image-126002
 onakanthirkantho.com##.wp-image-133
 bonggonews.com##.wp-image-13566
+banglanewsdunia.com##.wp-image-17000
 newssunamganj.com##.wp-image-19215
 ratopost.com##.wp-image-19317
 ratopost.com##.wp-image-19553
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
+banglanewsdunia.com##.wp-image-21155
+banglanewsdunia.com##.wp-image-23927
 geetanjalipost.com##.wp-image-27299
 lumbinisanchar.com##.wp-image-27407
 nayesubah.com##.wp-image-2806
@@ -2578,7 +2580,9 @@ bonggonews.com##.wp-image-352
 uthayamnews.com##.wp-image-35679
 uthayamnews.com##.wp-image-35692
 newssunamganj.com##.wp-image-3711
+banglanewsdunia.com##.wp-image-37621
 lokhitexpress.com##.wp-image-41683
+banglanewsdunia.com##.wp-image-43277
 paribahanjagot.com##.wp-image-4609
 lokhitexpress.com##.wp-image-53212
 paribahanjagot.com##.wp-image-5343
