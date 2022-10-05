@@ -2528,7 +2528,7 @@ awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,khabarwarr
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
-purbelinews.com##.widget_sp_image
+ausnepalnews.com,purbelinews.com##.widget_sp_image
 nepalraftar.com##.widget_sso_advertisement
 36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
 khulnatimes.com##.widget_text
