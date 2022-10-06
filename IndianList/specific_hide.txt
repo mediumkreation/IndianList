@@ -1304,6 +1304,7 @@ ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
+argusnews.in##.desktop-square-ad
 baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
 citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
