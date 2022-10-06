@@ -3265,7 +3265,7 @@ tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
 aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
-himalpost.com,janatatimes.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,yohokhabar.com##section.widget img
+himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
