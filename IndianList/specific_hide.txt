@@ -1472,7 +1472,6 @@ news18.com##.ftrad
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
-sansarnews.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
@@ -1816,7 +1815,6 @@ tapimitra.com##.news-btm-txt p img
 arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
 badaunexpress.com##.news-slider
-sansarnews.com##.news-style-six-ads
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
@@ -2058,7 +2056,6 @@ haryananewsonline.com##.single-post-content > p img:only-child
 makdaiexpress24.com##.single-post-content [data-adid]
 ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
-sansarnews.com##.single-sidebar-ads
 sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
 nepalbritain.com##.single-wrapper-details-sidebar-ads
@@ -3268,7 +3265,7 @@ tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
 aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
-himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,yohokhabar.com##section.widget img
+himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,sansarnews.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
