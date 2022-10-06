@@ -2261,7 +2261,7 @@ apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 vasundharadeep.news##.td_block_separator ~ .td-a-rec
 hellobikaner.in,khabargujarat.com,lakfmnews.lk,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com,unanews.in##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
-tazakhabar.in##.td_block_video_embed
+tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 navdeshtimes.com##.td_separator_solid
 khaskhobor.com##.td_single_image_bg
