@@ -310,6 +310,7 @@ tamilcinemaz.com###itro_opaco
 filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 fastnewsindia.co###jssor_1
+globenepal.com###khb-button-ades
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
 newscity.co.in###leaderboard-content
@@ -624,6 +625,7 @@ khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
 telugutimes.net###splide24
 editiontoday.in###sppb-addon-1607749998331
+globenepal.com###square-close .front
 sanskardarshan.in###sticky-wrapper
 indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
 lokaantar.com###stickyAdBottom
@@ -2395,6 +2397,7 @@ webkhabar.com##.twp-advertisement-section
 dailyajkershomoy.com##.uc-sdr-ads
 newslabz.com##.ugaam-ad-wrapper-outer
 bizmandu.com##.uk-block > .uk-grid-small
+globenepal.com##.uk-container section.widget
 abplive.com##.uk-text-meta
 bizmandu.com##.uk-text-muted
 rsnewslive.com##.unite-gallery
