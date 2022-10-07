@@ -1831,6 +1831,7 @@ nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
 sakalakhabar.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
+nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com#@#.np-ads-wrapper
@@ -2081,7 +2082,7 @@ ajkersylhet.com##.singlepage-section .widget_media_image
 news18.com##.site-ad-container
 khulasanewslive.in##.site-footer .featured-stories
 khabarkunj.com##.site-footer__bottom
-googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,nepalraftar.com,samabesionline.com##.site-header-ads
+googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 ajkersylhet.com,dainiknarsingdi.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
@@ -2530,7 +2531,6 @@ tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com,purbelinews.com##.widget_sp_image
-nepalraftar.com##.widget_sso_advertisement
 36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
 khulnatimes.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
