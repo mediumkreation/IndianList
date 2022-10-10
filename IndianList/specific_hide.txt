@@ -1744,6 +1744,7 @@ bankingkhabar.com##.meroads
 lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
+shasansandesh.in##.mg-headwidget .code-block
 himachalmedia.co,namastepurvanchal.in##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
 newskadaba.com##.mh-header-widget-2
