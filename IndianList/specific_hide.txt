@@ -2010,7 +2010,7 @@ madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com,khabaristan.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com,suryarekha.com##.sidebar .widget_media_image
-jokhimnews.com,risalaonline.com##.sidebar .widget_text
+jokhimnews.com,khabarvani.com,risalaonline.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
@@ -2147,7 +2147,7 @@ doolnews.com##.story-ad250
 livehindustan.com##.story-listing:empty
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 dhadingpost.com##.str3
-247superfast.com,aajkaaditya.in,aajkalsamachar.com,aapkiaawaz.net,amanyatralive.com,bastabbadi.com,bharatsamachartv.in,bhorvaibhav.com,bograsangbad.com,charotarnoavaj.com,cinenxt.com,citysmartnews.com,dainikbhaskarup.com,desikhabar.in,devbhumijknews.in,divyadarpan.com,ehapuruday.com,gandakivoice.com,hamarahimachal.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,liveupweb.com,lokswar.in,malayagam.lk,massnews.online,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,muvattupuzhanews.in,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newresultbd.com,news24you.com,newsd5.in,newslive24x7.com,newssow.com,newvavuniya.com,pataka24.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,qawmipost.com,raigarhtopnews.com,sarthakprayash.com,sonprabhat.live,starexpress.news,tehelkaindia.com,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
+247superfast.com,aajkaaditya.in,aajkalsamachar.com,aapkiaawaz.net,amanyatralive.com,bastabbadi.com,bharatsamachartv.in,bhorvaibhav.com,bograsangbad.com,charotarnoavaj.com,cinenxt.com,citysmartnews.com,dainikbhaskarup.com,desikhabar.in,devbhumijknews.in,divyadarpan.com,ehapuruday.com,gandakivoice.com,hamarahimachal.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,khabarvani.com,liveupweb.com,lokswar.in,malayagam.lk,massnews.online,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,muvattupuzhanews.in,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newresultbd.com,news24you.com,newsd5.in,newslive24x7.com,newssow.com,newvavuniya.com,pataka24.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,qawmipost.com,raigarhtopnews.com,sarthakprayash.com,sonprabhat.live,starexpress.news,tehelkaindia.com,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
 newswing.com,pangighatidanikapatrika.in##.stream-item-above-footer
 magahinews.com,prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
