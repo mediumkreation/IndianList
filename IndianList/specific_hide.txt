@@ -1169,7 +1169,7 @@ bidrohee.com##.bidro-content_4
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com##.biggapon
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
-aayomail.com,himalkhabar.com,nayadainiki.com##.bigyaapan-box
+aayomail.com,himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
 eadarsha.com,everestawaj.com,safalawaj.com,safalkhabar.com##.bigyapan
 janatapati.com,janatasamachar.com##.bigyapan-box
@@ -1258,7 +1258,6 @@ anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreela
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
-sajhapost.com##.commercial-add
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
@@ -2032,7 +2031,6 @@ despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
-sajhapost.com##.sidebarAd-new
 newspagebd.com##.sidebarAdd
 ambalanews24.com##.sidebarVoteAd
 hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
@@ -2437,7 +2435,6 @@ eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com,tahalaka.in##.well
 thesurgicalnews.in##.whistleAds
-sajhapost.com##.white-bg-half-ad
 newskoseli.com##.wid-1
 emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
