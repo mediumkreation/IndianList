@@ -1293,6 +1293,7 @@ roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
 seradesh.com##.custom-html-widget
+thakurgaon24newspaper.com##.custom-html-widget > img
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 biharivoice.com,divyahimachal.com##.customad
@@ -3148,7 +3149,6 @@ buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
-thakurgaon24newspaper.com##footer .wp-block-code
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 khabarpunja.com##header .add
 khabor.com##header a[href*="/click-"]
