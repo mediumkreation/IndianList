@@ -35,6 +35,7 @@
 -banner-$domain=channelionline.com|gbnews24.com
 -Banner-$image,domain=bikashnews.com
 -Banner.gif$image,domain=sajhatv.com
+-Banner.gif|$domain=ottrancheithi.com
 -banner.gif|$domain=teknafnews71.com
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
@@ -3149,7 +3150,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||opennewsx24.com^*/KADYAM
 ||orthosongbad.com^*/ads-
 ||orthosongbad.com^*/ksrm.jpg
-||ottrancheithi.com^*/Bachelor-Jail-
+||ottrancheithi.com/wp-content/uploads/2022/09/PS1-Naane-Varuven-Side-BG.gif
 ||ourislam24.com/wp-content/uploads/2020/06/hasnainnnnnnnnnnnn.gif
 ||ourislam24.com/wp-content/uploads/2020/06/MAHADUL.gif
 ||ourmyliddy.com^*/logo_6.jpg
