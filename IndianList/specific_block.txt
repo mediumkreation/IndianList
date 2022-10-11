@@ -75,6 +75,7 @@
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
+/advertisement/*$domain=360malayalam.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=chhattisgarhaaj.com|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
 /Advertisement/*$domain=odiaspotnews.in

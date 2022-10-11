@@ -441,7 +441,6 @@ digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 kathir.news###mid_level_3_after
 tharunaya.us###module_03_ads300x250
-360malayalam.com###monitor
 aapkiummid.com###ms-admananger a:not([imageanchor]) img:not([src*="qr-code"])
 uttrakhandtoday.com###mvp-ad-rel-wrap
 uttrakhandtoday.com###mvp-head-top
@@ -3199,7 +3198,6 @@ hosakannada.com##img[alt^="Ad "]
 pressnote.in##img[alt^="Advert"]
 purbanchal.com##img[alt^="Tribune Tower"]
 suprovatsydney.com.au##img[class^="custom_adgroup_"]
-360malayalam.com##img[data-filename="IMG_20211017_120345.jpg"]
 pnews.co.in##img[id^="Image"]
 simanapari.com##img[src*="Deepesh-gif"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
