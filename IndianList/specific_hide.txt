@@ -169,7 +169,7 @@ thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com,sikkimtoday.com###block-4
+bd24views.com,bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com,sikkimtoday.com###block-4
 hamarahimachal.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
@@ -230,7 +230,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janadeshnews.in,janawajnewslive.com,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janadeshnews.in,janawajnewslive.com,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -2635,7 +2635,7 @@ asomiyapratidin.in,poribortonersopoth.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
-adhorekhit.com,alamkikhabar.in,attingalvartha.com,bdnews.live,bdsomoyernews.com,bnanews24.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,newsnow24.com,politalks.news,propunjabtv.com,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com,todaynp.com##.wpb_single_image
+adhorekhit.com,alamkikhabar.in,attingalvartha.com,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,newsnow24.com,politalks.news,propunjabtv.com,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com,todaynp.com##.wpb_single_image
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 atozpatrika.com##.wpb_single_image img:not([src*="krishi-"]):not([src*="ban2-"])
