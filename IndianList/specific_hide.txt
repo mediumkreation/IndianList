@@ -872,6 +872,7 @@ lifeglint.com##.ad_bottom_lip
 news18.com##.ad_cntainer
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
+infoway24.com##.ad_section_1
 bdtimesnews.com##.ad_text_box
 corporatenepal.com##.adalytics_ad
 farakdhar.com,ratopati.com##.adalyticsblock
