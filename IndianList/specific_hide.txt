@@ -753,7 +753,7 @@ pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
-breakingaajtaknews.com,goodmorningnation.com,news4indiatv.com###widget-sidebar-0
+breakingaajtaknews.com,goodmorningnation.com,khabarbhartiindia.com,news4indiatv.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,goodmorningnation.com,tv24live.com###widget-sidebar-1
 breakingaajtaknews.com,sameera.co.in###widget-sidebar-2
@@ -1946,7 +1946,6 @@ argusnews.in##.right-section-top-2
 dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
-khabarbhartiindia.com##.right_adbox p img
 unmadmagazine.com##.right_bottom_ad_section
 ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
