@@ -826,7 +826,7 @@ gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,ekagaj.com,ekusheysangbad.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
+akhabarhub.com,ekagaj.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
@@ -868,9 +868,6 @@ swalenewsbank.com##.adMark
 odhikar.news##.adSlides
 padmatimes24.com##.ad_10
 dcnepal.com##.ad__space
-ekusheysangbad.com##.ad_area1
-ekusheysangbad.com##.ad_area2
-ekusheysangbad.com##.ad_area3
 lifeglint.com##.ad_bottom_lip
 news18.com##.ad_cntainer
 nation1voice.com##.ad_responsive
@@ -984,7 +981,7 @@ udayavani.com##.adliadworld
 thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
 alivenews.co.in,suddikanaja.com##.adredux
-anusandhan24.com,arthadabali.com,ashakakiran.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,ekusheysangbad.com,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,newsbihani.com,onlinepana.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,sokalerkhobor24.com,sutranews.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
+anusandhan24.com,arthadabali.com,ashakakiran.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,newsbihani.com,onlinepana.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,sokalerkhobor24.com,sutranews.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
 sunaulonepal.com##.ads .widget_media_image > img
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
@@ -1519,7 +1516,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 indiakhabar.co.in##.header-advert-area
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,benkiyabale.com,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com##.header-ainfo
-anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
+anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekusheysangbad.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
@@ -2772,7 +2769,6 @@ sharebarta24.com##a[href*="islamibankbd.com"]
 banglarkonthosor.com##a[href*="itcornerbd"] img
 uttranews.com##a[href*="jai_shree"]
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
-ekusheysangbad.com##a[href*="jb.com.bd"]
 anandalok.com##a[href*="jeevansathi.com"]
 gramajyothi.com##a[href*="kalyansilks.com"]
 divaina.lk##a[href*="kandos.lk"]
