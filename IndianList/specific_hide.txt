@@ -1244,6 +1244,7 @@ delhibulletin.in,newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
+jogindernagar.com##.code-block-9
 navarashtra.com##.code-block:not(.code-block-10)
 kelopravah.news,magahinews.com##.code-block:not(.code-block-4)
 deshprahari.com##.code-block:not(.code-block-6)
