@@ -40,6 +40,7 @@
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
 -Banner.jpg|$domain=ottrancheithi.com|shamolbangla24.com
+-banner.png|$domain=uniquepratidin.com
 -Banner_$image,domain=bikashnews.com
 -bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
@@ -4430,6 +4431,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||unca.live/mynewsadmin/img/add/add1521795393.jpeg
 ||unca.live/mynewsadmin/img/add/add1521795434.jpeg
 ||uniquenews24.com/wp-content/uploads/2018/03/Kureghor-add.gif
+||uniquepratidin.com/wp-content/uploads/2021/05/mukta-pani-
 ||uniquesamay.com/wp-content/uploads/2020/08/Girraj-Group-10X15-cm
 ||uniquesamay.com/wp-content/uploads/2020/11/unicom-8x8
 ||unitednripost.com/assets/banner/
