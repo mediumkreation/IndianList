@@ -1768,7 +1768,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
-24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,janmatexpress.in,kundeshwartimes.com,merabharatnews.com,npg.news,ptbnews.in,punjablivenews.in,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
