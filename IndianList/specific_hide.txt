@@ -1141,7 +1141,7 @@ rosemalayalam.com##.banner_slider
 am.lk,editiontoday.in,srilankamirror.com,tcvonline.co.in##.bannergroup
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
-dakhalchhattisgarh.com##.bc_random_banner
+dakhalchhattisgarh.com,newscrime24.com##.bc_random_banner
 iamgujarat.com,samayam.com##.bccl-ad-wrapper
 muktijoddharkantho.com##.bd-sidebar .widget_text
 humarabikaner.com##.bdaia-above-header
@@ -1356,7 +1356,7 @@ wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,sitakundabarta.com,thurannakathu.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,sitakundabarta.com,thurannakathu.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
