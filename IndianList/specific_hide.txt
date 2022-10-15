@@ -1512,7 +1512,6 @@ alivenews.co.in##.head-main-ad
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 newsdnntv.com##.header--ad
-sodhpatra.com##.header-ad-widget
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
@@ -2491,6 +2490,7 @@ giraya.lk##.widget_custom_html:not(#custom_html-7)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
 newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
+sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
 azchavattomonline.com##.widget_et_ads
 filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
