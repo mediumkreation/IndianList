@@ -915,7 +915,6 @@ malisamajsocial.com,thebengalitimes.com##.add-section
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
-sabastaentertainment.com##.add-show div[class="row"]
 gourbarta24.com##.add-slider
 cnibd.net##.add-space
 samachar4media.com##.add-text
@@ -3264,7 +3263,7 @@ jubileepost.in##section ~ .e3lan
 samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
-aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,thenepaltop.com##section.widget
+aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,sabastaentertainment.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,sansarnews.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
