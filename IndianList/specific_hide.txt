@@ -2196,7 +2196,6 @@ theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 dhunga.in,rantraibaar.in##.td-a-rec video
 impact24news.com,pahilosamachar.com,politalks.news,shadhinalo.com##.td-a-rec-id-content_bottom
-enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
 dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,rajasthanlive24x7.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
@@ -2214,7 +2213,7 @@ techvision24.com##.td-fix-index
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-bengalwatch.in,hindxpress.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,positivekhabar.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
+bengalwatch.in,enavamaratha.com,hindxpress.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,positivekhabar.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
@@ -2237,7 +2236,6 @@ vavuniyanet.com##.td-post-content a img
 rashtrabodh.com##.td-post-content div[style*="float:left"] img
 bongobani.ca##.td-post-content figure figcaption
 ehapurnews.com,ratnagirikhabardar.com##.td-post-content figure.wp-block-image
-enavamaratha.com##.td-post-content img.aligncenter
 prabhattimes.com##.td-post-content img.size-full
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 aurbta.com##.td-spot-id-content_bottom
