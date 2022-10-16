@@ -2226,6 +2226,7 @@ janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
 egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
 vadakaravoice.com##.td-main-sidebar aside
+vtvvitla.com##.td-no-img-custom-url
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 dishadaily.com,saamana.com##.td-post-content .code-block
 eaibanglai.com,hamdardtv.com,vasundharadeep.news##.td-post-content .td-a-rec
