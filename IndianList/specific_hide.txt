@@ -1532,6 +1532,7 @@ alochitokantho.com.bd##.header-promotion
 chattogramersomoy.com,chitwanpress.com,himnewspost.com,malayalamnewstimes.com,nainitalsamachar.org,peoplenews.lk,reporterseye.com##.header-right
 headline24x7.com##.header-right-adv
 newsway.in##.header-right-widgets
+newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
 manoramaonline.com##.header-sponser-left
 krishakjagat.org##.header-subscription
@@ -1962,6 +1963,7 @@ nepalpati.com##.rojgar-img-blk
 thedailycampus.com##.roni-bhai-special
 amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
+newssanjal.com##.row.mb-30
 sathyamonline.com##.sAds
 prernanews.com##.sadv
 samaydarshan.in##.samay-after-content
