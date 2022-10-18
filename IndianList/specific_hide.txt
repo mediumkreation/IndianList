@@ -151,7 +151,7 @@ londonbdnews24.com,paridarshaka.com###block-10
 magahinews.com,paridarshaka.com###block-11
 asomkhobor.com###block-12
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
-samrudhaodisha.com###block-15
+khabardarinews.com,samrudhaodisha.com###block-15
 telugumalli.com###block-16
 samrudhaodisha.com,telugumalli.com###block-17
 samrudhaodisha.com###block-18
@@ -161,12 +161,12 @@ samrudhaodisha.com###block-20
 hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com###block-24
 desherkhabor24.com,govindia.in###block-25
-govindia.in,organizeindia.in###block-26
+govindia.in,khabardarinews.com,organizeindia.in###block-26
 khabarcgnews.com###block-27
 wealthfreedomideas.com###block-28
 bundelkhandsamachar.com,checkpostnews.com,lokswar.in,newskranti.com,newsnukkad.com,pahadkasach.in###block-3
 wealthfreedomideas.com###block-30
-thenewssense.in###block-35
+khabardarinews.com,thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
@@ -1359,7 +1359,7 @@ wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,khabardarinews.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,newsganga.com,sitakundabarta.com,thurannakathu.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,newsganga.com,sitakundabarta.com,thurannakathu.com,topnewskerala.com,ts29.in,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
