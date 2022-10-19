@@ -1275,7 +1275,6 @@ udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
-ganthan.com##.content-area aside.widget_media_image
 dinamani.com##.content-av
 gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
@@ -2115,6 +2114,7 @@ pslvtv.com##.slideshow-container
 pslvtv.com##.slideshow-container ~ div .dot
 mediadabali.com##.sm-ads
 gorkhalikhabar.com##.sm-main-adv-box
+ganthan.com##.small-add
 rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
