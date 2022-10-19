@@ -1840,7 +1840,7 @@ onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
-sakalakhabar.com,wayanadnewsdaily.com##.no-bg-box-model
+sakalakhabar.com,sudurpashimkhabar.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
