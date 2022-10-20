@@ -1837,7 +1837,7 @@ onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
-sakalakhabar.com,sudurpashimkhabar.com,wayanadnewsdaily.com##.no-bg-box-model
+minnal24.com,sakalakhabar.com,sudurpashimkhabar.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
@@ -2904,10 +2904,10 @@ firstbihar.com##aside.tb-posts-slide-widget
 cnewsbharat.com##aside.text-center
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
-apanderanews.com,bhadas4media.com,inkpoint.in,minnal24.com,tv36hindustan.com##aside.widget_block
+apanderanews.com,bhadas4media.com,inkpoint.in,tv36hindustan.com##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,kokanmedia.in,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
-64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,impact24news.com,jaljalakhabar.com,jjvnews.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,ktmkhabar.com,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,mediawala.in,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,newstodayjharkhand.com,odishasambad.in,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bhadas36.com,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,chatgaiyakhobor.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhamaka36.com,dhunkhabar.com,impact24news.com,jaljalakhabar.com,jjvnews.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,ktmkhabar.com,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,mediawala.in,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,newstodayjharkhand.com,odishasambad.in,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saunewsnetwork.com,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,thiruvananthapuramvartha.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
