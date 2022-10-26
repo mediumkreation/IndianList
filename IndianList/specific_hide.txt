@@ -1206,6 +1206,7 @@ khoborbari24.com##.box_outer.widget_text
 gorkhalikhabar.com##.box_wrap.p-2
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
+keralafinance.com##.brdbt.stock
 yuvabharat.news##.breaking-news-area.mt-15
 seithy.com##.briefNewsAd
 navayuganews.com##.bs-injection
