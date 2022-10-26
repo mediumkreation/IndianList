@@ -1299,6 +1299,7 @@ seradesh.com##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
+andhrajyothy.com##.customAds
 biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
 dbcnews.tv##.d-flex
