@@ -86,7 +86,7 @@
 /advisment/*$domain=kopotakkhonews24.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
-/banner/*$domain=jogsanjogtimes.com|khabor.com|laksam.com|tamil.com|thereport24.com
+/banner/*$domain=arthparkash.com|jogsanjogtimes.com|khabor.com|laksam.com|tamil.com|thereport24.com
 /banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
 /bigyaapan/*$domain=nayadainiki.com|nepalipublic.com|swasthyakhabar.com
@@ -394,9 +394,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||arlivenews.com^*/udaipur-badgaon
 ||arthadaily.com/users_upload/simrik-air.gif
 ||arthosuchak.com/wp-content/uploads/2021/05/Ucb-web-banner.jpg
-||arthparkash.com/wp-content/uploads/2020/03/brijvashi_.jpg
-||arthparkash.com/wp-content/uploads/2020/03/c5c02016-f122-4f78-913b-333e10b3532c.jpg
-||arthparkash.com/wp-content/uploads/2020/03/gopala-2.jpg
 ||asbnewsindia.com/wp-content/uploads/2021/05/Amrish-chaudhary.jpg
 ||asbnewsindia.com/wp-content/uploads/2021/05/payal-maheshwari.jpg
 ||ashatvbd.com/advimages/
