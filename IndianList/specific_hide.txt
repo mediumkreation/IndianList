@@ -1073,6 +1073,7 @@ bizmandu.com##.advertisement-inside-content
 khabardabali.com##.advertisement-primary
 ournewsbd.net##.advertisement-single-float
 dekhapadhi.com##.advertisement-three
+najiknews.com##.advertisement-wrap
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
@@ -1686,6 +1687,7 @@ nepaldubai.com##.logo-ads-singlepage
 radionrn.com##.logo-adverimg
 dailyuttorpurbo.com##.logo-banner
 sylhetprotidin24.net##.logo-banner .pull-right
+najiknews.com##.logo-right-ad
 bcsuddi.com,envazhi.com,vtv24x7.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
@@ -1825,6 +1827,7 @@ chandpursangbad.com##.new-logo-area-right
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 tapimitra.com##.news-btm-txt p img
+najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
 badaunexpress.com##.news-slider
