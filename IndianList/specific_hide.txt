@@ -525,6 +525,7 @@ wenepali.com###right_siran
 biharpatrika.in###rma_masala
 kungumam.co.in###road
 ekantipur.com###roadblock-ad
+farwesttimesdaily.com###roadblockModal
 deshdigital.in###rozu-2
 pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
@@ -1687,6 +1688,7 @@ sylhetprotidin24.net##.logo-banner .pull-right
 bcsuddi.com,envazhi.com,vtv24x7.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
+farwesttimesdaily.com##.logo__right
 weeklydesh.co.uk##.logoright
 arthakoartha.com##.long-ad
 nayabishwo.com##.long-add
@@ -1780,7 +1782,7 @@ manoramaonline.com##.mm-textlink-ad
 manoramaonline.com#@#.mmads
 prajavani.net##.mob_only
 news13.in##.mobadv-4
-bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
+bhilwarahalchal.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
@@ -1928,7 +1930,10 @@ onlinenews7.com##.proad
 kdnewslive.in##.progressContainer
 kdnewslive.in##.progressModal
 ekusheralo24.com##.promo
+farwesttimesdaily.com##.promo-detail
+farwesttimesdaily.com##.promo__col
 deshsanchar.com##.promotion
+farwesttimesdaily.com##.promotional__col
 gandaknews.com##.psmorhug
 publictv.in##.pt-adv
 awaaz24x7.com##.publish-image
