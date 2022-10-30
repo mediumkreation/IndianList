@@ -1517,6 +1517,7 @@ sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 myfirstshow.com##.hb-img
 dailysports24.com##.head-banner
 alivenews.co.in##.head-main-ad
+vgnews.in##.headAdExBlock
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 newsdnntv.com##.header--ad
