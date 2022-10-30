@@ -174,7 +174,7 @@ bd24views.com,bdcrictime.com,hdhrm.com,mahendranagarpost.com,newsganj.com,parida
 hamarahimachal.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
-kokanmedia.in,newsnagar.in,paridarshaka.com,rashtranayaknews.com,thenewswave.com,viralfactsindia.com###block-6
+batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,rashtranayaknews.com,thenewswave.com,viralfactsindia.com###block-6
 areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,samacharfirst.com,thenewswave.com###block-7
 tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,wayanadnewsdaily.com###block-9
@@ -1090,6 +1090,7 @@ newsplus24x7.com##.advtertise
 citykhabre.com##.adwrp
 trustnews24.com##.af-middle-header .content_block
 updatenews360.com##.aft-sticky-sidebar
+batukamma.com##.after-menu-ads
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
 bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com##.ai_widget
