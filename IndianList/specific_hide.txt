@@ -1094,7 +1094,7 @@ updatenews360.com##.aft-sticky-sidebar
 batukamma.com##.after-menu-ads
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
-bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com##.ai_widget
+beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com##.ai_widget
 ajabgjab.com##.ajabg-widget
 ajakoartha.com##.ajako_artha-advertisement-series
 malabarnews.com##.alertAdd
@@ -1169,6 +1169,7 @@ cgsandesh.com##.bend
 bengallive.in##.benga-raiganj-municipality
 lknews.lk##.besides-slider-right
 onlinepana.com##.betn-add
+beanibazarview24.com##.better-ads-listitemad
 71newstoday.com##.betterad-container
 humsamvet.com##.bg-color-gray-fot
 andhrajyothy.com##.bgg.eng
@@ -2039,7 +2040,6 @@ vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
-beanibazarview24.com##.sidebar [id^="media_image"]
 ntinews.com##.sidebar iframe
 dhangadhikhabar.com##.sidebar-add
 sunbd24.com##.sidebar-adv
@@ -2651,7 +2651,7 @@ drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
 hpnewsatl.com,nammabantwala.com##.wp-video
 theruralpress.in##.wpb-outer-wrap
-atharvnews.com,hakkatha.com,rashtrabodh.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
+atharvnews.com,beanibazarview24.com,hakkatha.com,rashtrabodh.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
@@ -2712,7 +2712,6 @@ kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
-beanibazarview24.com##[id^="custom_html"]
 gtamilnews.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
 pagetamil.com##[id^="td_uid_3"]
