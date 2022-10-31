@@ -234,7 +234,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,bd24views.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janadeshnews.in,janawajnewslive.com,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janadeshnews.in,janawajnewslive.com,januday.com,khabar36.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -1093,7 +1093,7 @@ updatenews360.com##.aft-sticky-sidebar
 batukamma.com##.after-menu-ads
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
-beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com##.ai_widget
+beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 ajabgjab.com##.ajabg-widget
 ajakoartha.com##.ajako_artha-advertisement-series
 malabarnews.com##.alertAdd
