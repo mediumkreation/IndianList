@@ -2504,6 +2504,7 @@ uttarakhandsamachar.com##.widget_block:not(#block-26)
 channeltoday.net##.widget_block:not(#block-3)
 indiajaankari.in##.widget_block:not(#block-30)
 mahanaad.com##.widget_block:not(#block-37)
+cityhalchal.com##.widget_block:not(#block-43)
 sabkasandesh.com##.widget_block:not(#block-6)
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
@@ -2555,7 +2556,7 @@ purvanchalnews.com##.widget_revslider
 moulvibazar24.com##.widget_sec
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
-awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,cityhalchal.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
@@ -2576,7 +2577,7 @@ bangladeshsangbadpratidin.com##.width-ad-wrap
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 khabarhikhabar.com,surgujasamay.com##.wonderplugincarousel-container
-fbdnews.com##.wonderpluginslider
+cityhalchal.com,fbdnews.com##.wonderpluginslider
 madhyapradeshdarshan.com##.wonderpluginslider-container
 lalitpurkhabar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
