@@ -278,6 +278,7 @@ keralavisiontv.com###foot-ad-wrap
 malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
+dishadaily.com###full_level_1_detail
 chatganrbani.com,uttareralo24.com###gallery-1
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
@@ -324,7 +325,8 @@ newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 dhanamonline.com,janprahar.com,kathir.news###left_level_2
-dhanamonline.com,kathir.news###left_level_3
+dhanamonline.com,dishadaily.com,kathir.news###left_level_3
+dishadaily.com###left_level_after_paragraph
 u71news.com###logo-right
 enepalese.com###logo_middle
 cellitnews.com###logoright
@@ -2251,7 +2253,7 @@ newslabz.com##.td-main-sidebar .widget_media_image
 vadakaravoice.com##.td-main-sidebar aside
 vtvvitla.com##.td-no-img-custom-url
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
-dishadaily.com,saamana.com##.td-post-content .code-block
+saamana.com##.td-post-content .code-block
 eaibanglai.com,hamdardtv.com,vasundharadeep.news##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 keralabreaking.com##.td-post-content > p img
