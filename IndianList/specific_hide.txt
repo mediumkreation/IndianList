@@ -2942,6 +2942,7 @@ thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 asr24.news#?#.card:-abp-has(> .card-header:-abp-contains(Advertisment))
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
+bdcrime24.com#?#.textwidget:-abp-has(.adsbygoogle)
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(Prasadam))
 bhaskar.com#?#div:-abp-has(> div[id^="Ad--"])
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
@@ -2949,7 +2950,6 @@ bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 steelcity.online##body > .container > .row:first-child > div:last-child
 jaijaidinbd.com##body > .row.hidden-xs
-bdcrime24.com##body > section + div .textwidget img
 neemkathananews.in##center > b+img
 truevisionnews.com##center div[style="padding:20px;"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
