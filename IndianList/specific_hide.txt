@@ -2100,6 +2100,7 @@ somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
+dailypunorutthan.com##.single_sidebar > a img
 uttareralo24.com##.singlepage-section .add
 fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
