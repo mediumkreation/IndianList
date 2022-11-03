@@ -1551,7 +1551,7 @@ dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 metroplus.online##.header-wraper .fullwidthabanner
 talashbangla.com##.header__add
-corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,lankasudar.com,shramjeevijournalist.com,tamilstar.com##.header__banner
+corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
@@ -1886,6 +1886,7 @@ nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
 parvatprerna.com##.parva-widget
 dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
+indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
@@ -2341,7 +2342,7 @@ indiapublickhabar.in##.theiaStickySidebar .widget_media_image img:not(.wp-image-
 lokshakti.in,parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,opennewsx24.com,pnn24.in,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,indootimes.com.au,opennewsx24.com,pnn24.in,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 pujibazarexpress.com##.theiaStickySidebar .wpb_single_image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
@@ -2653,7 +2654,7 @@ drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
 hpnewsatl.com,nammabantwala.com##.wp-video
 theruralpress.in##.wpb-outer-wrap
-atharvnews.com,beanibazarview24.com,hakkatha.com,rashtrabodh.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
+atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,rashtrabodh.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
