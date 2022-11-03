@@ -406,7 +406,7 @@ aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 amanshantinews.com,bhanjyangnews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,sabkasandesh.com,swatantradastak.com,tarunchhattisgarh.in,visfotnews.com###media_image-7
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,rashtranayaknews.com,sasthabangla.com,scgnews.in,theblastkhabar.com,visfotnews.com###media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,khaptadmalikanews.com,nationissue.com,newsplus.lk,odishatime.com,prajawani.in,rashtranayaknews.com,sasthabangla.com,scgnews.in,theblastkhabar.com,visfotnews.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabardinbhar.net,khabarok.com,odishalink.com,sanjeevanisamachar.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com,visfotnews.com###media_image-9
@@ -1066,7 +1066,7 @@ paryatanbazar.com##.advertise-section
 nepalmamila.com##.advertiseImage
 bonikbarta.net##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
