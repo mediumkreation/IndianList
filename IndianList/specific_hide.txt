@@ -3236,6 +3236,7 @@ shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
 hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
+wijeya.lk##img[target]
 kasargodvartha.com##img[title="wellfitindia"]
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertise))
