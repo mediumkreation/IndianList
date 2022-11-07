@@ -2052,6 +2052,7 @@ despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
+velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 newspagebd.com##.sidebarAdd
 ambalanews24.com##.sidebarVoteAd
 hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
