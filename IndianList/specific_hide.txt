@@ -1742,6 +1742,7 @@ gnewsbd24.com##.maniio
 anandabazar.com##.manyawarbox
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
+backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,hpnewsatl.com,khabarpahad.com,tv20news.in##.master-slider
 newsspecial.in##.master-slider-main-widget
 makdaiexpress24.com,veerdharanews.com##.master-slider-parent
