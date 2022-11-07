@@ -1251,11 +1251,13 @@ aafnokura.com,ajkercrimetimes.com,biharivoice.com,chandaulisamachar.com,dakhalch
 samajbad.tv##.code-block > img
 karmalamadhanews24.com,media24news.in,muthalvannews.com,prajasattaknews.com##.code-block img
 delhibulletin.in,newstodaynetwork.com,theexclusivestory.com##.code-block-1
+kannadi.news##.code-block-15 div:nth-child(3)
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 jogindernagar.com##.code-block-9
 navarashtra.com##.code-block:not(.code-block-10)
+kannadi.news##.code-block:not(.code-block-15)
 kelopravah.news,magahinews.com##.code-block:not(.code-block-4)
 deshprahari.com##.code-block:not(.code-block-6)
 bankingkhabar.com##.codeneric_uam_link
@@ -2614,6 +2616,7 @@ bonggonews.com##.wp-image-352
 uthayamnews.com##.wp-image-35679
 uthayamnews.com##.wp-image-35692
 newssunamganj.com##.wp-image-3711
+kannadi.news##.wp-image-3732
 banglanewsdunia.com##.wp-image-37621
 lokhitexpress.com##.wp-image-41683
 banglanewsdunia.com##.wp-image-43277
