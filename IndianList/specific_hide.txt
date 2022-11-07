@@ -555,7 +555,7 @@ youthexpress.in###secondaryright .widget_custom_html
 sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
-doonhorizon.in,newshaat.com###showAS_O_BEL_0
+devpath.in,doonhorizon.in,newshaat.com###showAS_O_BEL_0
 just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -3072,7 +3072,7 @@ pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 thereport24.com##div[id*="_300x250"]
 deshvani.in##div[id*="_webads"]
-aapninews.in,anugrahavision.com,keralaonlinenews.com,newshaat.com,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
+aapninews.in,anugrahavision.com,devpath.in,keralaonlinenews.com,newshaat.com,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
@@ -3085,6 +3085,7 @@ realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
 newzfast.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
+devpath.in##div[id^="AS_O_RHS_"] > div:nth-child(n+4)
 indiatimesgroup.com##div[id^="ArticleShow_"] > div:nth-child(n+4)
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
