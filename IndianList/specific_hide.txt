@@ -613,14 +613,13 @@ emalayalee.com,kayalconnection.com###slideshow
 emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
 padmatimes24.com###small-news
-editiontoday.in###sp-main-body .sppb-addon-single-image
+editiontoday.in###sp-adsforbody
 dabangrajdhani.com###sp-right .bannergroup
 shasakprashasak.com###sp-user2
 techtamil.com###sp_widget_post_slider-2
 khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
 telugutimes.net###splide24
-editiontoday.in###sppb-addon-1607749998331
 globenepal.com###square-close .front
 sanskardarshan.in###sticky-wrapper
 indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
@@ -1224,6 +1223,7 @@ dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 aloavanews24.com,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
+editiontoday.in##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
@@ -3159,6 +3159,7 @@ dinvishesh.com##div[style^="height: 350px;"]
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
+editiontoday.in#?#.sppb-column-addons > div:-abp-has(.carouselbanner)
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 malluchronicle.com##entry-content a[href^="tel"]
 voiceofmedia.lk##figure .prettyphoto
