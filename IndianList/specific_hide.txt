@@ -555,7 +555,7 @@ youthexpress.in###secondaryright .widget_custom_html
 sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
-devpath.in,doonhorizon.in,keralavoter.com,newshaat.com,odiagossip.com###showAS_O_BEL_0
+dakshinbharat.com,devpath.in,doonhorizon.in,keralavoter.com,newshaat.com,odiagossip.com###showAS_O_BEL_0
 just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -3079,6 +3079,7 @@ dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(1)
+dakshinbharat.com##div[id^="AS_O_LHS_"] > div:nth-child(2)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(n+10)
 anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 keralavoter.com##div[id^="AS_O_LHS_"] > div:nth-child(n+21)
