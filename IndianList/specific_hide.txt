@@ -1309,6 +1309,7 @@ chandpursangbad.com##.d-print-desktop
 chandpursangbad.com##.d-print-none
 esidhakura.com##.daraz-ad
 ekantipur.com##.daraz-sponser
+telugusmtv.com##.data-area2 .heading
 deshabhimani.com##.db-scnAd2
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
@@ -2093,6 +2094,7 @@ cumillasdnews24.com##.single_details .code-block
 banglanewstv.com##.single_details .widget_area
 ab71.tv##.single_dtails img
 nagarprabha.org##.single_featured_slide
+telugusmtv.com##.single_leftbar.wow > h2
 dailyghagot.com##.single_page .add
 jamunanewsbd.com##.single_page .widget_area
 patheo24.com##.single_page .widget_area img
