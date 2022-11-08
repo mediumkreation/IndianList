@@ -96,7 +96,7 @@
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=aankhennews24.com|bhavtarini.com|dailykaratoa.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|pickthekhoj.in|polkholindia.com|purvikranti.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
-/can//cde/*$domain=aapninews.in|cityandolan.com|crimecapital.in|dalhousiehulchul.com|devpath.in|doonhorizon.in|indiatimesgroup.com|keralaonlinenews.com|keralavoter.com|livevns.news|metrojournalonline.com|newshaat.com|newzfast.com|odiagossip.com|realitynews.in|rewanewsmedia.com|rochakkhabare.com|saharasamachar.com|samayduniya.com|thedesiawaaz.com|theexpose.in|theonlinepost.in|upuklive.com|utkalpratidin.com|woneminute.com
+/can//cde/*$domain=aapninews.in|cityandolan.com|crimecapital.in|dalhousiehulchul.com|devpath.in|doonhorizon.in|indiatimesgroup.com|jansandeshonline.com|keralaonlinenews.com|keralavoter.com|livevns.news|metrojournalonline.com|newshaat.com|newzfast.com|odiagossip.com|realitynews.in|rewanewsmedia.com|rochakkhabare.com|saharasamachar.com|samayduniya.com|thedesiawaaz.com|theexpose.in|theonlinepost.in|upuklive.com|utkalpratidin.com|woneminute.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
 /NEW_GIF_$domain=clickmandu.com
