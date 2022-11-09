@@ -1850,7 +1850,7 @@ onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
-minnal24.com,sakalakhabar.com,sudurpashimkhabar.com,wayanadnewsdaily.com##.no-bg-box-model
+minnal24.com,sakalakhabar.com,sudurpashimkhabar.com,tvannapurna.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
@@ -3153,6 +3153,7 @@ thehdnews.in##div[id^="thehd-"]
 thirdeyenewslive.com##div[id^="third-"]
 todaypostlive.com##div[id^="today-"]
 vachakam.com##div[id^="topmiddle"]
+tvannapurna.com##div[id^="tvann-"]
 visiontimes.news##div[id^="vision-"]
 navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
