@@ -2041,6 +2041,7 @@ vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
+tamilspark.com##.sidebar > p
 ntinews.com##.sidebar iframe
 dhangadhikhabar.com##.sidebar-add
 sunbd24.com##.sidebar-adv
