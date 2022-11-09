@@ -2463,6 +2463,8 @@ hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_a
 kositimes.com##.vqtu
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
+etamilnews.com##.w-60
+etamilnews.com##.w-70
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 hajurkokhabar.com##.web__banner
@@ -3177,6 +3179,7 @@ doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-cont
 editiontoday.in#?#.sppb-column-addons > div:-abp-has(.carouselbanner)
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 malluchronicle.com##entry-content a[href^="tel"]
+etamilnews.com#?#div:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
