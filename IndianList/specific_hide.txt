@@ -1697,7 +1697,7 @@ purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
 weeklydesh.co.uk##.logoright
-arthakoartha.com##.long-ad
+arthakoartha.com,dharananews.com##.long-ad
 nayabishwo.com##.long-add
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
