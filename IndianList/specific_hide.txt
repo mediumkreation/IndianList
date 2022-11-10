@@ -1909,6 +1909,7 @@ media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
 sahibganjnews.com##.post-body .separator ~ .separator img
 nayasabera.com##.post-body .tr-caption-container
+web.nawadalive.com##.post-body > span img
 jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 munaadi.com##.post-content ~ .img-responsive
