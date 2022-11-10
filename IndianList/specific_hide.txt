@@ -3316,7 +3316,7 @@ jubileepost.in##section ~ .e3lan
 samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
-aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,momnepal.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,sabastaentertainment.com,thenepaltop.com##section.widget
+aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,janaaastha.com,khabarhub.com,momnepal.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,sabastaentertainment.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,sansarnews.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
