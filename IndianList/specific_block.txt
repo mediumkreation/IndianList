@@ -220,6 +220,11 @@ blocks/block_$domain=hindustansamay.com|hindustanvarta.com|livenewsxpress.com|na
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com
 images/img_$domain=sirajganjexpress.com
+IMG-20220927-WA0033.jpg$domain=nawadalive.com
+IMG-20221019-WA0004.jpg$domain=nawadalive.com
+IMG-20221022-WA0005.jpg$domain=nawadalive.com
+IMG-20221026-WA0027.jpg$domain=nawadalive.com
+IMG-20221029-WA0032.jpg$domain=nawadalive.com
 narayanganj24.com/pre-content/uploads/2018/12/alhakim.gif
 perfection-ias-upsc$domain=nextbihar.com
 WebAd.jpg|$domain=vasundharadeep.news
@@ -812,6 +817,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bizmandu.com^*/splash
 ||bizmandu.com^*/topbanner
 ||blogger.googleusercontent.com/img/a/AVvXsEh6204cFrPqNNfEOnkINONPTUo4LhS7tuabe4lK1KAj_OpUwfS4oF1ssdR7MpCfkTP3btt_y-Be-IeISKDwcK4Qbcu7YjbIASmt03WB14yiz7OLEonBEf5CUCVkGud2VBIx3cvw9SK3jv5GPjpkxLKz5o-uG1HaujW9C4kqgQTewRJcL9d97t40W0G6cA=w640-h422
+||blogger.googleusercontent.com^*/ad$domain=nawadalive.com
 ||blogs.bangalorewaves.com/images/buzinessone.jpg
 ||blogspot.com^$third-party,domain=amarsylhet24.com|manabadi.co.in
 ||blogspot.com^*/1140x100px.gif$domain=arthasarokar.com
