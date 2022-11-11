@@ -1087,7 +1087,7 @@ najiknews.com##.advertisement-wrap
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
-anugrahavision.com,timeskerala.com,upuklive.com##.advertismentRow
+anugrahavision.com,cricketkhabara.com,timeskerala.com,upuklive.com##.advertismentRow
 divaina.com##.advertisments
 dainiksylhet.com##.advsingle
 news19tv.com,parthokko.com.bd##.advt-col
@@ -3106,7 +3106,9 @@ aapninews.in,anugrahavision.com,devpath.in,keralaonlinenews.com,keralavoter.com,
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
+cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+8)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(1)
+cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(15 + n)
 dakshinbharat.com##div[id^="AS_O_LHS_"] > div:nth-child(2)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(n+10)
 anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
