@@ -2259,6 +2259,7 @@ loksansar.in,pathramonline.com##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com,rcn24bd.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
+egoomedia.com##.td-fix-index > h4
 24ghonta.news,dailydeshkidharti.com##.td-fix-index img
 news1today.in##.td-fix-index img:only-child
 ni24news.com##.td-footer-wrapper .widget_media_image
