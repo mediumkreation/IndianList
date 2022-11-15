@@ -1569,7 +1569,7 @@ dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 metroplus.online##.header-wraper .fullwidthabanner
 talashbangla.com##.header__add
-corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,shramjeevijournalist.com,tamilstar.com##.header__banner
+corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
