@@ -90,7 +90,7 @@
 /banner/*$domain=arthparkash.com|jogsanjogtimes.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
 /banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
-/bigyaapan/*$domain=nayadainiki.com|nepalipublic.com|swasthyakhabar.com
+/bigyaapan/*$domain=godawarinews.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
 /block_$image,domain=ntvtelugu.com
@@ -137,6 +137,7 @@
 @@||crimecapital.in/static/ad/*/colombia_v11.js
 @@||emsindia.com/images/logo/1.png
 @@||enewsmp.com/uploaded_files/banner_img/enewsmp.com5f181c1882f7434.jpeg
+@@||godawarinews.com/uploads/bigyaapan/1555740004.jpg
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||hindikhabarwaala.com/uploads/blocks/block_60158bda70d87.jpg
 @@||hollywoodkhabar.com/UserUploads/bigyapan/US_Immigration_LOGO.jpg
@@ -1620,12 +1621,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||gnews5.com/wp-content/uploads/2020/08/quantum2.jpg
 ||gobikhobor.com^*/3-11.jpg
 ||gobikhobor.com^*/FB_IMG_1522395982074.jpg
-||godawarinews.com/uploads/bigyapan/1554542652.gif
-||godawarinews.com/uploads/bigyapan/1558766367.gif
-||godawarinews.com/uploads/bigyapan/1583401289.gif
-||godawarinews.com/uploads/bigyapan/1601718451.gif
-||godawarinews.com/uploads/bigyapan/1603182045.gif
-||godawarinews.com/uploads/bigyapan/1603972292.jpg
 ||gonokantho.com/ad/
 ||goo.gl^$image,domain=kvartha.com
 ||googlepokhara.com/wp-content/uploads/2020/09/appsfightCOVID_WHO.gif
