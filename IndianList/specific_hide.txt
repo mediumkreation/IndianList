@@ -683,18 +683,20 @@ anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
 garhwalkavikas.com###text-29 iframe
 abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p~p
-achhikhabar.com,himalini.com,live18h.com,tamizhdb.com###text-30
+achhikhabar.com,himalini.com,live18h.com,tamizhdb.com,uniquesamay.com###text-30
 e-jaffna.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
-allaiyoor.com,himalini.com,kalaroanews.com###text-32
+allaiyoor.com,himalini.com,kalaroanews.com,uniquesamay.com###text-32
 satyamlive.com###text-33
 satyamlive.com###text-34
 satyamlive.com###text-35
 anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
-anaicoddai.com###text-38
+anaicoddai.com,uniquesamay.com###text-38
 himalini.com,satyamlive.com###text-39
 ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,desherkhabor24.com,ekhabar.in,ghazipurkhabar.co.in,himachalvarta.com,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
 himalini.com###text-40
+uniquesamay.com###text-42
+uniquesamay.com###text-43
 tamizhdb.com,udaydarpan.com###text-44
 careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
@@ -1785,7 +1787,7 @@ shasansandesh.in##.mg-headwidget .code-block
 himachalmedia.co,namastepurvanchal.in##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
 newskadaba.com##.mh-header-widget-2
-janjoshnews.in,newsuniversal.in##.mh-sidebar .widget_media_image
+janjoshnews.in,newsuniversal.in,uniquesamay.com##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
 samvetshikhar.com##.mid-adv-sec-bottom
