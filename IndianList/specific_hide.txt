@@ -423,7 +423,7 @@ dainikkhabarlayehain.com###media_video-13
 derbykhabar.com,divyalive.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com,ts29.in###media_video-18
-dubaivartha.com,globalnews24x7.com,hpnewsatl.com,indianamo.com,pradeshnews24x7.com###media_video-2
+dubaivartha.com,globalnews24x7.com,indianamo.com,pradeshnews24x7.com###media_video-2
 apnades.in,dandikaanthi.com,digitaltrend-news.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,newswayanad.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
@@ -1449,7 +1449,9 @@ chhapratoday.com##.entry-the-content img.alignnone.size-full
 livehindustan.com##.epr-ads
 himalayapost.com##.et-waypoint
 himalayapost.com##.et_pb_code_8
+hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
+hpnewsatl.com##.et_pb_slider
 satyapathnews.com##.etad
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
@@ -1767,7 +1769,7 @@ anandabazar.com##.manyawarbox
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
 backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
-ayushindianews.com,hpnewsatl.com,khabarpahad.com,tv20news.in##.master-slider
+ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
 newsspecial.in##.master-slider-main-widget
 makdaiexpress24.com,veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
@@ -2483,7 +2485,7 @@ apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilci
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
 muznews.net##.vmagazine-lite-medium-rectangle-ad
 karmalamadhanews24.com,pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
-hpnewsatl.com,janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_ad
+janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
@@ -2681,7 +2683,7 @@ hotnewsindia.com##.wp-image-87281
 ratopost.com##.wp-image-9728
 drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
-hpnewsatl.com,nammabantwala.com##.wp-video
+nammabantwala.com##.wp-video
 theruralpress.in##.wpb-outer-wrap
 atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,rashtrabodh.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
@@ -2851,7 +2853,6 @@ gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 newstodaynetwork.com##a[href*="narayan98.co.in"]
 news4himalayans.com##a[href*="narendramodi.in"]
 arthasarokar.com##a[href*="nbbl.com.np"]
-hpnewsatl.com##a[href*="neelabazar.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
 gramajyothi.com##a[href*="nirapara.com"]
