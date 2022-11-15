@@ -1295,6 +1295,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
+newsworldweb.in##.container.frame
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
