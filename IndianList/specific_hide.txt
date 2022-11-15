@@ -1356,7 +1356,6 @@ gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 dailyajkershomoy.com##.down_social_display_ad
 drishtinews.com##.drishti-inner-ads
-canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##.ds-ms-blurb
 subhayug.com##.ds-scroll-ads
 manabadi.co.in##.dsc-banners
 jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
@@ -2752,6 +2751,7 @@ newsuperbharat.com##[id^="newsu-"]
 pagetamil.com##[id^="td_uid_3"]
 thestellarnews.com##[id^="thest-"]
 sunnews24x7.com##a .adv-vload
+canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##a.d-flex
 adiyakkamangalam.com##a.external
 emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
