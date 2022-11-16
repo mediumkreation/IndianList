@@ -2361,6 +2361,7 @@ bebakmanch.com##.theiaStickySidebar .owl-carousel
 amritvichar.com,bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com,urjanchaltiger.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
 pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
+banglanewslive.co.in##.theiaStickySidebar .widget.HTML:not(#HTML7)
 apnahimachalapnishaan.in,rghnews.com,rightnewsindia.com##.theiaStickySidebar .widget_block
 bharatnews18.in,bheldailynews.com,bograsangbad.com,countrynewstoday.com,mithilacitynews.in,navsatta.com,pangighatidanikapatrika.in,samaynewslive.com,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
