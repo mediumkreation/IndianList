@@ -300,7 +300,7 @@ khabarhouse.com###header .widget_block
 cinemasthi.com,prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-allwnews.com,heronewsonline.com,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
+allwnews.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,naturalnews.co.in,primepunjab.com,rozanapost.in,sehattimes.com###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
@@ -1413,7 +1413,7 @@ dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 uksuddi.in##.entry-content .bsac
-beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,indiapolkhol.in,rcbrn.com,sambadsaradin.com##.entry-content .code-block
+beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,rcbrn.com,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
 pragativahini.com##.entry-content .no-bg-box-model
@@ -2623,7 +2623,7 @@ dainikdishari.com,dthreeonline.com,joharlive.com,royalnews13.in##.wp-block-image
 indiapublickhabar.in##.wp-block-image > figure
 nainilive.com##.wp-block-image img
 kafaltree.com##.wp-block-video
-indiapolkhol.in,pplnews.in##.wp-custom-header
+pplnews.in##.wp-custom-header
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042
