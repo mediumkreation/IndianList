@@ -81,7 +81,6 @@ battirepnews.com###SidebarWidgets-S1 .widget.Image
 puthiyathalaimurai.com###__ads1
 puthiyathalaimurai.com###__ads2
 raajdhaninews.com###a2a_follow_widget-8
-munaadi.com###above-main
 dailykaratoa.com,malabarflash.com,mewartimes.com,thereport24.com###ad
 headline24x7.com,rkexpose.com###adAboveHeader
 andhrajyothy.com#@##adDiv
@@ -602,7 +601,6 @@ newstodaycg.com###sidebar-primary-sidebar > .widget:not([id^="bs-"])
 khabarcgnews.com###sidebar-right .widget_block
 khamoshduniya.com###sidebar-right .widget_custom_html
 24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
-munaadi.com###sidebar-right .widget_media_gallery
 khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,shasansandesh.in,vbnews24.com###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
@@ -1246,6 +1244,7 @@ despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
 dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
+munaadi.com##.card-body > center > img
 aloavanews24.com,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in##.carouselbanner
@@ -1939,7 +1938,6 @@ nayasabera.com##.post-body .tr-caption-container
 web.nawadalive.com##.post-body > span img
 jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
-munaadi.com##.post-content ~ .img-responsive
 khasokhas.com##.post-entry .code-block
 akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
 purvanchal24.com##.post-footer > [dir="ltr"] img
@@ -3314,6 +3312,7 @@ sankalpakhabar.com##main section.sk_banner
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
+munaadi.com#?#.card:-abp-has(> h5:-abp-contains(Advertisment))
 nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(Advertisment))
 punjabiherald.co.nz##nav + div
 news11.live#?#.align_cent:-abp-contains(Advertise)
