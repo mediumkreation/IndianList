@@ -1434,6 +1434,7 @@ shottoboyan.com##.entry-content > img
 karmalamadhanews24.com##.entry-content > p > img
 chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com,sabkikhabar.net##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
+moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
 himalini.com##.entry-content div > .row
@@ -1548,6 +1549,7 @@ myfirstshow.com##.hb-img
 dailysports24.com##.head-banner
 alivenews.co.in##.head-main-ad
 vgnews.in##.headAdExBlock
+moonamvazhi.com##.headRightAdv
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 newsdnntv.com##.header--ad
@@ -2046,6 +2048,7 @@ hotnewsindia.com##.sideRight .custom-html-widget
 news18.com##.sideTop
 postpati.com##.side_adv_part
 hongkar.com##.side_bar .py-1 img
+moonamvazhi.com##.side_right li ~ li
 motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.sidea
 newskoseli.com##.sidea .wp-block-image
 kulalaworld.com##.sideadd
