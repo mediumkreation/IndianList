@@ -1470,7 +1470,6 @@ channelionline.com##.eyli
 lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 dakhal.net##.fadInleft_ads
-varthatrivandrum.com##.fbx-instance
 bbc24news.com##.featad
 sylhetprothidin24.com##.feature_category_section .header_ad_banner
 pchelpcenterbd.com##.featured-post-ads
@@ -2492,7 +2491,7 @@ apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilci
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
 muznews.net##.vmagazine-lite-medium-rectangle-ad
 karmalamadhanews24.com,pioneerhindi.com,tnilive.com##.vmagazine_lite_medium_ad
-janatatimes.com,namasteholland.com,vaarte.com##.vmagazine_medium_ad
+janatatimes.com,namasteholland.com,vaarte.com,varthatrivandrum.com##.vmagazine_medium_ad
 kositimes.com##.vqtu
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
