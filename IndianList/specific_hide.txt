@@ -1626,6 +1626,7 @@ pressbarta.com##.home_right_ads
 bishwabarta.com,shamolynews24.com##.home_widget
 musickhabar.com##.homead-fullwidth
 dinakaran.com##.homead300le10
+jeevalokam.com##.homeboxouter
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
