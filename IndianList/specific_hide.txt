@@ -942,6 +942,7 @@ cnibd.net##.add-space
 samachar4media.com##.add-text
 samachar4media.com##.add-text + a:last-child
 krishibajar.com##.add-top
+cgsandesh.com##.add-top-margin
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 dainikdishari.com##.add:not(.wp-image-3687)
@@ -1184,7 +1185,6 @@ gautamsandesh.com##.beforeheader_728
 arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
-cgsandesh.com##.bend
 bengallive.in##.benga-raiganj-municipality
 lknews.lk##.besides-slider-right
 onlinepana.com##.betn-add
@@ -1856,9 +1856,6 @@ daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 navinsamachar.com##.navin-content_13
 amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
-cgsandesh.com##.ne-sidebar .bg-aqua
-cgsandesh.com##.ne-sidebar > .ne-banner-layout1
-cgsandesh.com##.ne-sidebar > .topic-border
 nepalijanta.com##.nepalijanta-ad
 chandpursangbad.com##.new-logo-area-right
 europemalayali.co.uk##.news-add
