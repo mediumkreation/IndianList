@@ -2258,7 +2258,7 @@ theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 dhunga.in,rantraibaar.in##.td-a-rec video
 impact24news.com,pahilosamachar.com,politalks.news,shadhinalo.com,uktez.com##.td-a-rec-id-content_bottom
-dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
+ctgnews.com,dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
 cgfrontline.com,newsxtra.in##.td-a-rec-id-footer_top
@@ -2479,6 +2479,7 @@ netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
 dailyceylon.lk,malayalimanasu.com,thedeoriatimes.in##.vc_raw_html
+ctgnews.com##.vc_raw_html a[target="_blank"]
 postmanindia.in##.vc_raw_html iframe
 coastal-mirror.com##.vc_raw_html img
 ibclive.in##.vc_sidebar .widget_custom_html
