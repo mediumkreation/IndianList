@@ -1369,6 +1369,7 @@ drishtinews.com##.drishti-inner-ads
 subhayug.com##.ds-scroll-ads
 manabadi.co.in##.dsc-banners
 jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
+gramnagarbarta.com##.dtl_section figure.image
 doshdik.com##.duble_advertisement
 awajnews.com,bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,dainikaamsabha.com,ghazipurkhabar.co.in,greenbanglanews.com,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news85.in,newsjungal.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,saffronfactor.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,starnews24bd.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
 livekhagaria.in##.e3lan a img
@@ -2022,6 +2023,7 @@ samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
 khabarchalisa.com,sheikhpuranews.com,vijayapatha.in##.sb-widget-ad
 jaianndata.com##.scnd-add
+gramnagarbarta.com##.scrollable-slider
 thekeralapost.com##.sd-advert
 nayabimarsha.com##.search2
 entevarthakal.com##.second_section_right
@@ -2046,6 +2048,7 @@ ekuruvi.com##.side-bar-big-ads
 baahrakhari.com##.side-bigyaapan
 gournadi24.com##.side-indent .wgs-ads:first-child
 allnewsbharat.com,provatnews.com##.sideAdd
+gramnagarbarta.com##.sideAds_bg
 hotnewsindia.com##.sideLeft .custom-html-widget
 news18.com##.sideMiddle
 hotnewsindia.com##.sideRight .custom-html-widget
