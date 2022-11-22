@@ -1401,6 +1401,7 @@ aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
+benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
@@ -1563,7 +1564,7 @@ chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 indiakhabar.co.in##.header-advert-area
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
-ambikapurcity.com,bengaluruvartha.in,benkiyabale.com,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com##.header-ainfo
+ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com##.header-ainfo
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekusheysangbad.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
