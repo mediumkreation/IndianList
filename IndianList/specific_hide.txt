@@ -2240,6 +2240,7 @@ bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
 timenewsbd.net##.stretched_link
 youthmukam.com##.su-image-carousel
 hetaudatoday.com##.subhakamana-ad
+suddione.com##.suddi-content_19
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 notebook.today##.t-out-span
