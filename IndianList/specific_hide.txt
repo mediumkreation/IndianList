@@ -156,7 +156,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,paridarshaka.com###block-10
 magahinews.com,paridarshaka.com###block-11
-asomkhobor.com###block-12
+asomkhobor.com,paryavaranpost.com###block-12
 nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 khabardarinews.com,samrudhaodisha.com###block-15
@@ -182,8 +182,8 @@ bd24views.com,bdcrictime.com,hdhrm.com,khabarsar.in,mahendranagarpost.com,newsga
 hamarahimachal.com,indianvoice24.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
-batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,rashtranayaknews.com,thenewswave.com,viralfactsindia.com###block-6
-areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,samacharfirst.com,thenewswave.com###block-7
+batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,thenewswave.com,viralfactsindia.com###block-6
+areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,thenewswave.com###block-7
 tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
@@ -300,7 +300,7 @@ khabarhouse.com###header .widget_block
 cinemasthi.com,prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-allwnews.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,keralanewz.com,naturalnews.co.in,primepunjab.com,rozanapost.in###header-right-section
+allwnews.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,keralanewz.com,naturalnews.co.in,paryavaranpost.com,primepunjab.com,rozanapost.in###header-right-section
 thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
