@@ -157,6 +157,7 @@ bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,paridarshaka.com###block-10
 magahinews.com,paridarshaka.com###block-11
 asomkhobor.com###block-12
+nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 khabardarinews.com,samrudhaodisha.com###block-15
 telugumalli.com###block-16
@@ -1183,6 +1184,7 @@ nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
 arthasarokar.com##.below-author-bigyapan
+nwnews24.com##.below-content.widget_text
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
 bengallive.in##.benga-raiganj-municipality
