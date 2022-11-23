@@ -1833,7 +1833,7 @@ bhilwarahalchal.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 mohagani.com##.mohag-widget
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
-everesttimes.net,news30express.com,pclive7.com##.mom-e3lanat
+everesttimes.net,news30express.com,pclive7.com,uthayannews.ca##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 khoborbari24.com##.mom_ads300
 janatarishtehaar.com##.mom_box_sc
@@ -3412,6 +3412,7 @@ tv20news.in#?#p:-abp-contains(Advertisement)
 aajkasach.in##ul.post h3.widget-title
 unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
 upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-contains(Ad |))
+uthayannews.ca#?#.widget_text:-abp-has(.widget-title > span:-abp-contains(Advertising))
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div h3 + p )
