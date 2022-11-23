@@ -2960,6 +2960,7 @@ newsnib.in##app-squaread4
 todaysdigitalbreakingnews.in##article div[class*="today-"]
 namastepurvanchal.in##article figure.wp-block-image
 atharvnews.com##aside .theiaStickySidebar .widget_text
+news15india.com##aside .w-100.text-center
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 gtamilnews.com,tv24live.com##aside .widget_media_image
 newsmoments.in##aside#sidebar .chmnr
