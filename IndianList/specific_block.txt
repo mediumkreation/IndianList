@@ -82,7 +82,7 @@
 /Advertisement/*$domain=odiaspotnews.in
 /advertisement/*$domain=swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
-/advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|nepalipatra.com|nepalkhabar.com
+/advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
 /advisment/*$domain=kopotakkhonews24.com
 /advt/*$domain=himdarshan.com
 /banner-$domain=navakal.in
