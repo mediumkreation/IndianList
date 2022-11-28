@@ -556,7 +556,6 @@ kelopravah.news###secondary .widget_block img
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
 aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,demranews.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,indianewsviral.co.in,janpatranews.com,jogiexpress.com,mediapassion.co.in,navrashtramedia.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thefourthmirror.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
-encounterindia.in###secondary .widget_media_image:not(#block-8)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 indiaedgenews.com,legendnews.in###secondary .widget_metaslider_widget
@@ -1154,7 +1153,7 @@ musicjoymedia.com##.banner-half
 aapkaparyas.in,enewsmp.com##.banner-header
 bholarbani.com,madhyabindu.com,mahendranagarpost.com,newsportals.in,onstimes.com##.banner-img
 abcnepal.tv##.banner-muni-add
-ambalacoverage.com,biharnewstv.in,cobranews24.com,delhiuptodate.com,dotooknews.com,encounterindia.in,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,khulasamedia.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,odiabarta.in,pularvu.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,vishwakarmakiran.com##.banner-promotions-wrapper
+ambalacoverage.com,biharnewstv.in,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,khulasamedia.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,odiabarta.in,pularvu.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
@@ -3225,6 +3224,7 @@ sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 editiontoday.in#?#.sppb-column-addons > div:-abp-has(.carouselbanner)
+encounterindia.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADS))
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 malluchronicle.com##entry-content a[href^="tel"]
 etamilnews.com#?#div:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
