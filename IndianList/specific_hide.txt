@@ -1338,6 +1338,7 @@ gtamilnews.com##.custom-html-widget iframe
 andhrajyothy.com##.customAds
 biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
+msprotidin.com##.d-block
 dbcnews.tv##.d-flex
 chandpursangbad.com##.d-print-desktop
 chandpursangbad.com##.d-print-none
