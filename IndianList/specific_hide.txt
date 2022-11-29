@@ -1405,6 +1405,7 @@ simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"]
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
+newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
