@@ -2830,6 +2830,7 @@ cinereporters.com,dailyharyananews.com,kathir.news,manoranjannama.com,newsmoment
 ntnews.com##a[href*="countryoven.com"]
 ambalanews24.com##a[href*="daraz.com.bd"]
 loksangbad.com##a[href*="deshihost.com"]
+shikkhasongbad.com##a[href*="dreamlandhomemanagement"] img
 agaminews.com##a[href*="drneem.com"]
 uttranews.com##a[href*="edu_ministrial"]
 eelamalar.com##a[href*="eelamhomeland.com"]
