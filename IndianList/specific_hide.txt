@@ -1480,7 +1480,7 @@ channelionline.com##.eyli
 lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 dakhal.net##.fadInleft_ads
-bbc24news.com##.featad
+bbc24news.com,chtmedia24.com##.featad
 sylhetprothidin24.com##.feature_category_section .header_ad_banner
 pchelpcenterbd.com##.featured-post-ads
 corporatenepal.com##.features-spaces
