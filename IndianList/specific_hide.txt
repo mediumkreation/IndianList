@@ -903,12 +903,11 @@ bharatdarshannews.com##.adbo
 lohagaranews24.com,thebharatnews.net##.adbox
 arthikawaj.com,kdnewslive.in,pchelplinebd.com,pradeshajjtak.com,rajnitiprotidin.com##.adcontainer
 ajkerbd24.com,ajkernarsingdi.com,ajkersylhet.com,ajkertanore.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglanews24ny.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikvatibangla.com,doctortv.net,dokhinercrime.com,eibela.net,engrsvoice.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,himalayannews.com,jagocomilla.com,jagodesh24.com,jamunanewsbd.com,kathmandupati.com,khabarpunja.com,lalsobujerkontho.com,narsingdipratidin.com,natunbazar24.com,news18.com,news4nation.com,newsatfirst.com,nktelevision.com,npkhabar24.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,ratdinnews.net,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,thebarisal.com,uttorersomoy.com,vachakam.com##.add
-newsbijoy.com##.add .textwidget > h3.title
 ajkercrimetimes.com,bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 amarbarta24.com##.add > a img
-alokitokhobor.com,alokitoshitalakha.com,barishalsomoynews.com,bdgaibandha.news,bonggonews.com,channelcox.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,doiniksokalerbarta24.com,faridpursamachar.com,gabtalisangbad.com,gangnirchokh.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,pabnamail24.com,paharechok.com,patheo24.com,prbnews24.com,protisomoy.com,sb24live.com,shubhoprotidin24.com##.add img
+alokitokhobor.com,alokitoshitalakha.com,barishalsomoynews.com,bdgaibandha.news,bonggonews.com,channelcox.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,doiniksokalerbarta24.com,faridpursamachar.com,gabtalisangbad.com,gangnirchokh.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,pabnamail24.com,paharechok.com,patheo24.com,prbnews24.com,protisomoy.com,sb24live.com,shubhoprotidin24.com##.add img
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)
 muktirlorai.com##.add img:not(.wp-image-16666):not(.wp-image-16759)
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
@@ -1293,7 +1292,6 @@ hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
-newsbijoy.com##.col-md-8 .add .textwidget
 odishareporter.in##.colombia
 anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
