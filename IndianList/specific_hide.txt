@@ -1946,7 +1946,6 @@ rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
 dhorpatannews.com##.position-sticky .adds_menu
-shivamoggalive.com##.post .size-full
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
 sahibganjnews.com##.post-body .separator ~ .separator img
@@ -2377,6 +2376,7 @@ gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
+shivamoggalive.com##.theiaPostSlider_slides p>img
 bheldailynews.com##.theiaStickySidebar .e3lan
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 bebakmanch.com##.theiaStickySidebar .owl-carousel
