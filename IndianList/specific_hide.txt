@@ -1043,6 +1043,7 @@ janatatimes.com##.adsimage img:not(.wp-image-63475)
 chakrapath.com##.adspace
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
+saharanpurweb.in##.adssection
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
@@ -1637,6 +1638,7 @@ bishwabarta.com,shamolynews24.com##.home_widget
 musickhabar.com##.homead-fullwidth
 dinakaran.com##.homead300le10
 jeevalokam.com##.homeboxouter
+saharanpurweb.in##.homemainads
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
