@@ -2007,6 +2007,7 @@ rajnitiprotidin.com##.qvzk
 nepalipatra.com##.rd-ads
 thepublictoday.com##.rd-ads .wp-block-image
 jhilko.com##.rd-ads img:not(.wp-image-2735)
+vaaramanjari.lk##.region-banner
 anytechtune.com##.reseller-add
 thekeralapost.com##.rht-ad-position
 pakwangali.in##.right-add
