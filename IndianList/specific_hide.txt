@@ -473,6 +473,7 @@ payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
 dilersamachar.com###newmodal .modal-dialog
 ratopati.com###news-modal
+aadarshasanchar.com###news-side-ad
 indianewscentre.in,punjabenews.com###newsSection img
 sokalerbangla.com###news_portal_ads_banner-20
 sokalerbangla.com###news_portal_ads_banner-22
