@@ -3418,6 +3418,7 @@ swarnimbharatnews.com##span[style^="color: red;"]
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
+teluguglobal.com#?#div:-abp-has(> ins.adsbygoogle)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
 thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
