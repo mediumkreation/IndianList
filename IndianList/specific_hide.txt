@@ -1502,7 +1502,7 @@ sahilonline.net##.flexslider-eid
 thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
-uthayamnews.com##.fn-header-banner
+spnewsbd.com,uthayamnews.com##.fn-header-banner
 narmadanchal.com##.fn-widget-image
 nijamtoday.com##.foogallery_widget
 anweshanam.com##.footer-ad-img
@@ -3417,6 +3417,7 @@ smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
 manithan.com##span[id] > iframe[id]:only-child
 barabankiexpress.in##span[style^="color: #008000"] img
 swarnimbharatnews.com##span[style^="color: red;"]
+spnewsbd.com#?#div:-abp-has(> p > ins.adsbygoogle)
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
