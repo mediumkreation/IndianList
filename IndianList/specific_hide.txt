@@ -212,6 +212,7 @@ nepalimato.com###content .news_portal_ads_banner
 kelanchaltimes.com,sabkajammukashmir.com###content .stream-item
 giridihupdates.com###content .widget_block
 suddikanaja.com###content .widget_media_image
+panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
@@ -2166,7 +2167,7 @@ ajkersylhet.com##.singlepage-section .widget_media_image
 news18.com##.site-ad-container
 khulasanewslive.in##.site-footer .featured-stories
 khabarkunj.com##.site-footer__bottom
-googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,samabesionline.com##.site-header-ads
+googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,panchakoshitimes.com,samabesionline.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 ajkersylhet.com,dainiknarsingdi.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
