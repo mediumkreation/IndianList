@@ -2518,6 +2518,7 @@ khoborersomoy.com##.vide_area
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
+khaptadonline.com##.view-ads-view
 just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
