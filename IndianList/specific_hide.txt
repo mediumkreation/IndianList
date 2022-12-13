@@ -199,7 +199,7 @@ paristamil.com###box
 malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
-nzpunjabinews.com###carouselExampleControls
+chouranews.com,nzpunjabinews.com###carouselExampleControls
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
@@ -1878,7 +1878,7 @@ naturalnews.co.in##.natur-content
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 navinsamachar.com##.navin-content_13
-amraikhabor.com,gambhirmudda.com##.ne-banner-layout1
+amraikhabor.com,chouranews.com,gambhirmudda.com##.ne-banner-layout1
 nepalijanta.com##.nepalijanta-ad
 chandpursangbad.com##.new-logo-area-right
 europemalayali.co.uk##.news-add
