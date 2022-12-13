@@ -1550,6 +1550,7 @@ nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 sithmalyaya.com##.gear-best
+aksherpati.com##.global-ad
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
 joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
