@@ -2236,14 +2236,14 @@ dhadingpost.com##.str3
 mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
 newswing.com,pangighatidanikapatrika.in##.stream-item-above-footer
 magahinews.com,nepaltvonline.com,prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
-gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
+gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,lovedevbhoomi.com,mitanbhoomi.com,pnews.co.in##.stream-item-above-post
 pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,newstruthlive.com,pahar24.com,pangighatidanikapatrika.in##.stream-item-below-post-content
 magahinews.com,tcp24.news##.stream-item-in-post
-amritvichar.com,bankalive.net,narsingdirbani.com##.stream-item-inline-post
+amritvichar.com,bankalive.net,lovedevbhoomi.com,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,mbkhabar.com,natunbarta.com,nepaltvonline.com,thetimesofchhattisgarh.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
 airanewsnetwork.com,bengallive.in,janpadnewslive.com,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
@@ -2635,7 +2635,7 @@ tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com,purbelinews.com##.widget_sp_image
-36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,lovedevbhoomi.com,thedastak24.com##.widget_supermag_ad
+36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
 dastavej.in##.widget_text iframe
