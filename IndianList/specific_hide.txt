@@ -550,6 +550,7 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
+yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
 brightpost.in,dainikchintak.com,indiapolkhol.in###secondary .widget_block
