@@ -1363,7 +1363,6 @@ citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
 citynewsdhaka.com##.details-page-side-banner-2
 timeskerala.com##.dfx-pubadban
 ejanshakti.com##.dgw
-dhakanewsexpress.com##.dhaka-content
 surabhisaloni.co.in##.dialog-widget
 biniyogbarta.com,biniyougbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
@@ -2217,7 +2216,7 @@ veeravengaikal.com##.sppb-addon-clients
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 cibindianews.com##.square-space
-dhakanewsexpress.com,sangbad-gallery.com##.square_advertisement
+sangbad-gallery.com##.square_advertisement
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
@@ -3305,7 +3304,7 @@ dhakareport24.com,khabarwaale.com##img[alt="add"]
 buxaruptodate.com##img[alt="ads buxar"]
 nepaljapan.com##img[alt="ads"]
 sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
-ajkerograbani.com##img[alt="advertisement"]
+ajkerograbani.com,dhakanewsexpress.com##img[alt="advertisement"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
 mirsaraikhobor.com##img[alt="mAD"]
