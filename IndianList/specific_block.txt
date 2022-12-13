@@ -78,7 +78,7 @@
 /advertiesment/*$domain=theendnews.com
 /advertisement/*$domain=360malayalam.com
 /Advertisement/*$domain=aloavanews24.com
-/advertisement/*$domain=chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
+/advertisement/*$domain=bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
 /Advertisement/*$domain=odiaspotnews.in
 /advertisement/*$domain=shasakprashasak.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
