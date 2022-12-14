@@ -1800,7 +1800,7 @@ ideatvnews.com##.marquee-ads
 backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
 newsspecial.in##.master-slider-main-widget
-makdaiexpress24.com,veerdharanews.com##.master-slider-parent
+veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 ctgsangbad24.com##.mcyd
