@@ -357,6 +357,7 @@ newcinemaexpress.com###main-head .right
 kathmandutoday.com###main_body
 abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
+bethanchokkhabar.com###masthead > .site-header-ads
 samvadexpress.com###media_gallery-10
 bharatsarathi.com,jantabulletin.wordpress.com,khabarvichar.com,navabharat.news,satyasikha.com###media_gallery-2
 jalauntimessite.wordpress.com###media_gallery-28
