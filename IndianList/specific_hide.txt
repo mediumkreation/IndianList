@@ -166,6 +166,7 @@ samrudhaodisha.com###block-18
 viewpointjharkhand.com###block-19
 bansalnews.com,bulandsoch.com,hamdardtv.com,idealindianews.com,khabriyanews.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
+peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com###block-24
 desherkhabor24.com,govindia.in###block-25
@@ -378,7 +379,7 @@ aajtakmedia.net,amanshantinews.com,balliatimes.com,banglaralobd.com,banglatelegr
 prompttimes.com###media_image-20
 amanshantinews.com,dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 amanshantinews.com###media_image-22
-cgnews24x7.wordpress.com,dainikchintak.com,peptechtime.com###media_image-23
+cgnews24x7.wordpress.com,dainikchintak.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
