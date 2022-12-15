@@ -179,7 +179,7 @@ khabardarinews.com,thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bd24views.com,bdcrictime.com,hdhrm.com,khabarsar.in,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com,sikkimtoday.com###block-4
+bd24views.com,bdcrictime.com,hdhrm.com,janadeshexpress.in,khabarsar.in,mahendranagarpost.com,newsganj.com,paridarshaka.com,pokharacity.com,sikkimtoday.com###block-4
 hamarahimachal.com,indianvoice24.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 overlook.co.in###block-55
@@ -570,6 +570,7 @@ newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
 24city.news,bangla52news.com,cpnews24.com,dakshinapath.com,indianewsviral.co.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
 vbnews24.com###secondary .widget_text:not(#custom_html-2)
+janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
@@ -1040,7 +1041,6 @@ vtvgujarati.com##.adsSection
 epaper.lokmat.com##.ads_699
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 telugu.greatandhra.com##.ads_css_title
-janadeshexpress.in##.ads_top_disp
 divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
 newsnationtv.com##.adsense
