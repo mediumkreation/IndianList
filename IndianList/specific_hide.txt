@@ -1060,7 +1060,7 @@ drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
 kanakaikhabar.com##.adv-wrapper
-anweshanam.com,atalsamachar.com,cityandolan.com##.advRow-fullW
+anweshanam.com,atalsamachar.com,cityandolan.com,devpath.in##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 keralaexpress.com##.adv_big
