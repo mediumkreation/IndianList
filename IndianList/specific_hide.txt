@@ -3207,6 +3207,7 @@ himachalplus.com##div[id^="himac-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 cinemapluz.com,newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
+khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
 lokalok.in##div[id^="lokal-"]
 madathakaja.com##div[id^="madat-"]
 malabarinews.com##div[id^="malab-"] > img
