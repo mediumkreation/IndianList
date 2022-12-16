@@ -568,7 +568,7 @@ shreenews.in###secondary .widget_media_image:not(#media_image-30)
 legendnews.in###secondary .widget_metaslider_widget
 newsfact.in###secondary .widget_smartslider3
 nagarikbahas.com###secondary .widget_sp_image
-24city.news,bangla52news.com,cpnews24.com,dakshinapath.com,indianewsviral.co.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
+24city.news,bangla52news.com,cpnews24.com,indianewsviral.co.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
 vbnews24.com###secondary .widget_text:not(#custom_html-2)
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
@@ -1236,7 +1236,7 @@ livekhagaria.in##.blocks-gallery-item
 akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
-bn24live.in,bundelkhandnews.com,darsilivetv.com,lokjannews.com,sangritimes.com,sirajganjexpress.com##.bn-lg
+bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,lokjannews.com,sangritimes.com,sirajganjexpress.com##.bn-lg
 aankhennews24.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,rni.news,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
@@ -2230,10 +2230,9 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
 chitwanpress.com##.stickey-side .ad-title ~ a
-cityhotnews.com,dakshinapath.com,janaagaj.in,primestv.in##.sticky-sidebar .widget_block
+cityhotnews.com,janaagaj.in,primestv.in##.sticky-sidebar .widget_block
 hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar .widget_media_image
-dakshinapath.com##.sticky-sidebar .widget_metaslider_widget
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
@@ -3047,6 +3046,7 @@ countrynewstoday.com#?#center:-abp-has(img[src*="/RO_NO"])
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
 dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
+dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 abnews24bd.com##div img[src^="ad/"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
@@ -3198,7 +3198,6 @@ banglalive.com,banglarjanarob.com##div[id^="bangl-"]
 kalamlok.com##div[id^="car-SL_"]
 chhattisgarhprimetime.com##div[id^="chhat-"]
 dainikchintak.com##div[id^="daini"]
-dakshinapath.com##div[id^="daksh-"]
 desikhabar.in##div[id^="desik-"]
 doabatimes.com##div[id^="doaba-"]
 dolphintimes.in##div[id^="dolph-"]
