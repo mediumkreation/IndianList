@@ -1040,8 +1040,10 @@ seithy.com##.ads400pxinner
 aapkiaawaznews.com##.adsImg_section
 vtvgujarati.com##.adsSection
 epaper.lokmat.com##.ads_699
+lightnewsbd.com##.ads_bottom_disp
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 telugu.greatandhra.com##.ads_css_title
+lightnewsbd.com##.ads_first_p_disp
 divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
 newsnationtv.com##.adsense
@@ -1259,7 +1261,7 @@ sabkuchgyan.com##.bs-listing-multi-tab + div
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 hindsagarplk.com##.bs-shortcode
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
-ctnewsbd.com,kollywoodvoice.com##.bsac
+ctnewsbd.com,kollywoodvoice.com,lightnewsbd.com##.bsac
 inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 onetamilnews.com##.btmAdHldr
