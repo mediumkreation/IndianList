@@ -2297,6 +2297,7 @@ theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 dhunga.in,rantraibaar.in##.td-a-rec video
 impact24news.com,pahilosamachar.com,politalks.news,shadhinalo.com,uktez.com##.td-a-rec-id-content_bottom
+janjankiawaaz.in##.td-a-rec-id-content_bottom .ml-slider:nth-child(n+6)
 ctgnews.com,dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
