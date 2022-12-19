@@ -1441,6 +1441,7 @@ kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 himalipatrika.com.np##.elementor-widget-text-editor
 shivshahilive.com##.elementor-widget-video
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
+computerbichitra.com##.elementor-widget-wp-widget-news247_ads_banner_widget
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
 dailysamvad.com##.entry > div:first-child > p img
