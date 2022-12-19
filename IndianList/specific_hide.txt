@@ -826,6 +826,7 @@ satyamevtv.com##.Eod_right
 bhadas4media.com##.FooterAdArea .wp-block-image
 banglanewsca.com##.Front-page-Right-Side-Ad
 kanaighatbarta.com##.HTML .widget-content img
+preyopathok.com##.Hero-ads
 preyopathok.com##.Hero-ads-banner
 thinkwithniche.in##.Home-seo-add-sidebar-bigborder
 yarldevinews.net##.Image
@@ -2221,6 +2222,7 @@ keralaexpress.com##.sponser-adv
 keralaexpress.com##.sponser-update
 abasangthandp.com##.sponsers
 swarajnewstoday.com##.sponsored
+preyopathok.com##.sports_section .muktomot_section
 veeravengaikal.com##.sppb-addon-clients
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
