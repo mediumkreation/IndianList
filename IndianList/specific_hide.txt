@@ -1262,7 +1262,7 @@ sabkuchgyan.com##.bs-listing-multi-tab + div
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 hindsagarplk.com##.bs-shortcode
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
-ctnewsbd.com,kollywoodvoice.com,lightnewsbd.com##.bsac
+ctnewsbd.com,kollywoodvoice.com,lightnewsbd.com,prottashitoalo.com##.bsac
 inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 onetamilnews.com##.btmAdHldr
