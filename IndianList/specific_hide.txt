@@ -201,6 +201,7 @@ malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
 chouranews.com,nzpunjabinews.com###carouselExampleControls
+khulasanewslive.in###categories-2 .widget-title
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
@@ -561,7 +562,7 @@ brightpost.in,dainikchintak.com,indiapolkhol.in###secondary .widget_block
 kelopravah.news###secondary .widget_block img
 4pillar.news,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
-aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,demranews.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,indianewsviral.co.in,janpatranews.com,jogiexpress.com,mediapassion.co.in,navrashtramedia.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,demranews.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,indianewsviral.co.in,janpatranews.com,jogiexpress.com,khulasanewslive.in,mediapassion.co.in,navrashtramedia.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
