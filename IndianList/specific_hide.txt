@@ -2077,7 +2077,6 @@ cgujala.in##.sharedaddy ~ .code-block
 shrinaradmedia.com##.shrin-widget
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
-sagarmatha.tv##.side-adv
 gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
@@ -3405,7 +3404,7 @@ jubileepost.in##section ~ .e3lan
 samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
-aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,loktantrapost.com,momnepal.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,sabastaentertainment.com,thenepaltop.com##section.widget
+aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,loktantrapost.com,momnepal.com,narayanionline.com,news24nepal.tv,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,prasashan.com,reportersnepal.com,sansarnews.com,sutranews.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
