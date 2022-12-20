@@ -371,10 +371,10 @@ bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkuda
 canvasmagazine.com.bd,nationissue.com,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,scgnews.in###media_image-11
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,samajeralo.com###media_image-12
 dgnews.co.in,jansaamna.com###media_image-13
-bplnews24.in,indianow24.com,jansaamna.com,odishatime.com,sabkasandesh.com###media_image-14
+indianow24.com,jansaamna.com,odishatime.com,sabkasandesh.com###media_image-14
 anewsoffice.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
-bplnews24.in,flowersoriginals.com,kushinagarlive.com,tarunchhattisgarh.in###media_image-16
-bplnews24.in,hindvatannews.com###media_image-17
+flowersoriginals.com,kushinagarlive.com,tarunchhattisgarh.in###media_image-16
+hindvatannews.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,webreporter.co.in###media_image-19
 aajtakmedia.net,abpbharat.com,amanshantinews.com,balliatimes.com,banglaralobd.com,banglatelegraph.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,janpadnewslive.com,karnatakatoday.in,knlslive.com,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,parvasinewspaper.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,puthusudar.lk,sajagpahad.com,sancharbani.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,upnewz.in,vindhya24news.com,ziotamil.in###media_image-2
@@ -1650,6 +1650,7 @@ deshprotikhon.com##.home-page-ads a:not([href*="deshprotikhon.com"])
 sharebazarnews.com##.home-page-ads a:not([href*="sharebazarnews.com"])
 chttoday.com##.home-page-top-right-add
 sabsach.in##.home-secondary-wrapper .widget_media_image
+bplnews24.in##.home-secondary-wrapper .widget_media_image:not(#media_image-53)
 tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
