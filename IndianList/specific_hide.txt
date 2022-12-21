@@ -164,7 +164,7 @@ telugumalli.com###block-16
 samrudhaodisha.com,telugumalli.com###block-17
 samrudhaodisha.com###block-18
 viewpointjharkhand.com###block-19
-bansalnews.com,bulandsoch.com,hamdardtv.com,idealindianews.com,khabriyanews.com,shottoboyan.com,thedastak24.com###block-2
+bansalnews.com,bulandsoch.com,hamdardtv.com,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,thedastak24.com###block-2
 samrudhaodisha.com###block-20
 peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
@@ -633,6 +633,12 @@ asalbaat.co.in,nknewsindia.com###sidebar2
 siyasatdarpan.com###sidebar2 .widget.Image
 daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 kulalaworld.com###simpleimage-13
+kulalworld.com###simpleimage-14
+kulalworld.com###simpleimage-26
+kulalworld.com###simpleimage-27
+kulalworld.com###simpleimage-29
+kulalworld.com###simpleimage-31
+kulalworld.com###simpleimage-5
 muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
 currentkhabar.com###sitebox-ad125-3
@@ -956,6 +962,7 @@ krishibajar.com##.add-top
 cgsandesh.com##.add-top-margin
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
+kulalworld.com##.add1
 dainikdishari.com##.add:not(.wp-image-3687)
 sangbad-gallery.com##.addAd
 bharatkiawaj24.com##.addBox
@@ -2483,7 +2490,7 @@ ni24news.com##.top_index_block_adnow
 nrimalayalee.com##.top_most_news_post_ad
 abnews24.com##.top_new_add
 gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
-kulalaworld.com##.topadd
+kulalaworld.com,kulalworld.com##.topadd
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com,biniyougbarta.com##.topadmid
 dhakatoday.com##.topadr
