@@ -79,7 +79,7 @@
 /advertisement/*$domain=360malayalam.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
-/Advertisement/*$domain=odiaspotnews.in
+/Advertisement/*$domain=aparajeobangla.com|odiaspotnews.in
 /advertisement/*$domain=shasakprashasak.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
 /advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
@@ -129,6 +129,7 @@
 @@favicon.ico|
 @@||abhiyandaily.com/advertisements/abhiyan-viber.gif
 @@||anweshanam.com/static/ad/commons/js/3445/colombia_v11.js
+@@||aparajeobangla.com/media/Advertisement/use-mask.jpg
 @@||avadh24.in/mynewsadmin/img/add/add1610095077.jpeg
 @@||bangalorewaves.com/images/Banner/classifieds.jpg
 @@||bangalorewaves.com/images/Banner/website-ad.jpg
