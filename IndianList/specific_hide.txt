@@ -619,7 +619,7 @@ khamoshduniya.com###sidebar-right .widget_custom_html
 khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,shasansandesh.in,vbnews24.com###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 newsportals.in###sidebar-right > .widget_media_gallery
-newsportals.in,telugu99.com###sidebar-right > .widget_media_image
+telugu99.com###sidebar-right > .widget_media_image
 samjhobharat.com###sidebar-right-1 .widget.Image
 tamillens.com###sidebar-schedule-slider
 haryananewsonline.com###sidebar-secondary-sidebar
@@ -1414,7 +1414,6 @@ maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 namastenri.net##.elementor-element-e9b9b10
 maithilbrahminmahasabha.in##.elementor-element-f2e9897
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
-newsportals.in##.elementor-image > a[href="#"] img
 todaypostlive.com##.elementor-image a[target="_blank"]
 delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
