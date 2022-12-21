@@ -740,7 +740,7 @@ bograsangbad.com,divyalive.com,himshimlalive.com,jagprerna.com,kositimes.com,mus
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 bharatsamachartv.in###text-html-widget-14
-globalnews24x7.com,uttareralo24.com###text-html-widget-2
+globalnews24x7.com,thesurgicalnews.in,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
 abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com,newswing.com###text-html-widget-3
 bdtoday24.com###text-html-widget-35
@@ -2562,7 +2562,6 @@ rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com,tahalaka.in##.well
-thesurgicalnews.in##.whistleAds
 newskoseli.com##.wid-1
 emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
