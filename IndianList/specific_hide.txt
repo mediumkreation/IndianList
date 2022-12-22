@@ -694,7 +694,7 @@ anytechtune.com,roopcare.com###text-21
 dainiksatkhira.com###text-22
 divyalive.com,tnilive.com###text-23
 achhisoch.com,apnades.in,janvadtimes.com,tnilive.com###text-24
-aapkisafalta.com,achhisoch.com,apnades.in,roopcare.com###text-25
+aapkisafalta.com,achhisoch.com,apnades.in,ekusheralo24.com,roopcare.com###text-25
 satyamlive.com,tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
@@ -2019,7 +2019,6 @@ livehindustan.com##.prlads
 onlinenews7.com##.proad
 kdnewslive.in##.progressContainer
 kdnewslive.in##.progressModal
-ekusheralo24.com##.promo
 farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
 deshsanchar.com##.promotion
