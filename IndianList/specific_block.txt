@@ -88,7 +88,7 @@
 /advt/*$domain=himdarshan.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
-/banner/*$domain=arthparkash.com|jogsanjogtimes.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
+/banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
 /banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bannersads/*$domain=namasteandhra.com
 /bigyaapan/*$domain=godawarinews.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
