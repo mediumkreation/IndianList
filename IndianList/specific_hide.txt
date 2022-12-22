@@ -2759,7 +2759,7 @@ dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,news30express.com,newscrime24.com##.wpb_gallery
-keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
+cgbasket.in,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 asomiyapratidin.in,poribortonersopoth.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
