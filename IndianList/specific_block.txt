@@ -4336,8 +4336,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||thavady.com/gifs/greetings/tamils4news.jpg
 ||theargus.in/wp-content/uploads/2020/05/SUM-COVID-19_33X25_09-1-scaled.jpg
 ||thebapu.com/add/$domain=amreliexpress.com
-||thebarisal.com/wp-content/uploads/2019/11/1-2.jpg
-||thebarisal.com/wp-content/uploads/2020/05/engineerbd.png
+||thebarisal.com^*/Trust-University-Barishal-
 ||thebarta24.com^*/basic-bank.adv1_.gif
 ||thebarta24.com^*/icbad.png
 ||thebarta24.com^*/nationalfeedad2.gif
@@ -4721,7 +4720,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||worldmediatimes.com/wp-content/uploads/2019/03/d1320791-fc21-411f-a54f-a14411502c04.jpg
 ||worldtamilswin.com^*/addimages/
 ||wp.com/siwannews.in/wp-content/uploads/2021/03/picsart_03-16-083880916255439304677-
-||wp.com/thebarisal.com/wp-content/uploads/2019/03/belban
 ||wp.com/ujjwalhimachal.com^*/bhusan
 ||wp.com/ujjwalhimachal.com^*/budhamal
 ||wp.com/www.24x7cg.com/wp-content/uploads/2020/10/ad-amazon-
