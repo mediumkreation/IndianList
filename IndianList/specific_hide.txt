@@ -2430,7 +2430,7 @@ aajexpress.com,acpnews24.com,anidda.lk,aryasamay.com,awazlive.com,awaznews24x7.c
 indiapublickhabar.in##.theiaStickySidebar .widget_media_image img:not(.wp-image-597227)
 lokshakti.in,parvatjan.com##.theiaStickySidebar .widget_media_video
 hapurhulchul.com,kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
-ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
+ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,indootimes.com.au,opennewsx24.com,pnn24.in,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,ujjawalprabhat.com,webmorcha.com##.theiaStickySidebar .widget_text
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
@@ -2653,11 +2653,10 @@ dainik4media.com##.widget_nivo_slider_widget
 wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 diyopost.com##.widget_palika_advertisement
-purvanchalnews.com##.widget_revslider
 moulvibazar24.com##.widget_sec
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
-awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,purvanchalnews.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
