@@ -2767,6 +2767,7 @@ everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 atozpatrika.com##.wpb_single_image img:not([src*="krishi-"]):not([src*="ban2-"])
 lokpukar.com##.wpb_single_image img:not([src*="mukhaya-mantri-add.gif"])
+newsboardindia.com##.wpb_singleimage_heading
 todaybhaskar.com##.wpb_text_column
 alamkikhabar.in,deshbartabd.com,saunewsnetwork.com##.wpb_video_widget
 wishavwarta.in##.wpb_widgetised_column .wp-block-image
