@@ -1361,7 +1361,7 @@ sylhetview24.news##.custom-ads-row
 roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
-seradesh.com##.custom-html-widget
+durnityreport24.com,seradesh.com##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
