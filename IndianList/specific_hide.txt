@@ -1110,14 +1110,13 @@ nepalmamila.com##.advertiseImage
 jamalpurlive.com##.advertise_space1
 bonikbarta.net,jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dekhapadhi.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
 bizmandu.com##.advertisement-inside-content
 khabardabali.com##.advertisement-primary
 ournewsbd.net##.advertisement-single-float
-dekhapadhi.com##.advertisement-three
 najiknews.com##.advertisement-wrap
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
@@ -1227,6 +1226,7 @@ mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
 aayomail.com,himalkhabar.com,muglanikhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
+dekhapadhi.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,safalawaj.com,safalkhabar.com##.bigyapan
