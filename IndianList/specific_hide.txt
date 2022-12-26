@@ -407,7 +407,7 @@ khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
 sabkasandesh.com###media_image-43
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
-amanshantinews.com,badauntoday.com,banglasanglap.co.uk,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,glimeindianews.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,sandhannews.com,shabddoot.com###media_image-5
+amanshantinews.com,badauntoday.com,banglasanglap.co.uk,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,sandhannews.com,shabddoot.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 googlepokhara.com,madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
@@ -454,7 +454,7 @@ biharpatrika.in###metaslider_7731
 abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in###metaslider_widget-2
 24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,thekhabri.in###metaslider_widget-3
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
-digitalnewslive.com,glimeindianews.in,npg.news###metaslider_widget-5
+digitalnewslive.com,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 kathir.news###mid_level_3_after
 tharunaya.us###module_03_ads300x250
@@ -728,7 +728,7 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,brajpatrika.com,clearnews.live,dailypunjabtimes.com,glimeindianews.in,hbharat.com,jagprerna.com,janadhikarmedia.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,udaipurkiran.in###text-6
+avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,brajpatrika.com,clearnews.live,dailypunjabtimes.com,hbharat.com,jagprerna.com,janadhikarmedia.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,udaipurkiran.in###text-6
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bigkhabar.com###text-69
@@ -858,7 +858,7 @@ keralakaumudi.com##.a-728-90
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
-himachalvarta.com,kannadanewsnow.com,livemagadh.com,thenetizennews.com##.a-wrap
+glimeindianews.in,himachalvarta.com,kannadanewsnow.com,livemagadh.com,thenetizennews.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -1839,7 +1839,6 @@ bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
 lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
-glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
 shasansandesh.in##.mg-headwidget .code-block
 himachalmedia.co,namastepurvanchal.in##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
@@ -3216,6 +3215,7 @@ desikhabar.in##div[id^="desik-"]
 doabatimes.com##div[id^="doaba-"]
 dolphintimes.in##div[id^="dolph-"]
 eadarsha.com##div[id^="eadar-"]
+glimeindianews.in##div[id^="glime-"]
 apkhabar.com##div[id^="goji_yo"]
 himachalplus.com##div[id^="himac-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
@@ -3291,7 +3291,6 @@ arlivenews.com##figure.wp-block-image.size-large img:not([src*=udaipur-uit-])
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
-glimeindianews.in##footer .elementor-widget-image
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 khabor.com##header a[href*="/click-"]
