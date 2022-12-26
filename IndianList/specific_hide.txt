@@ -1254,7 +1254,6 @@ britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 topnepalnews.com##.border-bottom.bg-white
-horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
 lokjeewan.com##.bottom_ad_slide
 yugabdha.com##.box-sec-bg .slider
@@ -3297,6 +3296,9 @@ mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 khabor.com##header a[href*="/click-"]
 lokmat.com##homepage-taboola
+horizonhind.com#?#div > h2:-abp-contains(Google Ads)
+horizonhind.com#?#strong:-abp-contains(ABS Hospital)
+horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 pinakatimes.com##iframe[class^="FrameAdvt"]
@@ -3390,6 +3392,7 @@ newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
 newspoint24.com#?#div[id^="AS_O_"] > div:-abp-has(> div > div > span[name="adchoicehtml"])
 overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
+horizonhind.com##p[class="fontBold"]
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
