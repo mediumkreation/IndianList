@@ -1482,7 +1482,7 @@ dailysatnadee.com##.entry-content div[data-adid]
 janpadnewslive.com,pradeshajjtak.com##.entry-content figure
 channelrb.com##.entry-content figure img[width="600"]
 abbiharnews.com##.entry-content figure.is-resized
-abnewslive.in,ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
+abnewslive.in,ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com,koyilandydiary.com,theinternalnews.co##.entry-content figure.wp-block-image
 jaunpurlivenews.in##.entry-content figure.wp-block-image:not(.size-large)
 news1hindustan.com##.entry-content iframe
 247superfast.com,dainiknayak.com,khabardekho.com,newsportals.in,odishamirror.com,pclive7.com##.entry-content img
