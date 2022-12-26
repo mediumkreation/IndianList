@@ -201,6 +201,7 @@ malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
 chouranews.com,nzpunjabinews.com###carouselExampleControls
+cnin.co.in###carouselExampleDark
 khulasanewslive.in###categories-2 .widget-title
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
