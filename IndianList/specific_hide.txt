@@ -428,7 +428,7 @@ dainikkhabarlayehain.com###media_video-13
 derbykhabar.com,divyalive.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com,ts29.in###media_video-18
-cgtazanews.com,dubaivartha.com,globalnews24x7.com,indianamo.com,pradeshnews24x7.com###media_video-2
+cgtazanews.com,dubaivartha.com,globalnews24x7.com,indianamo.com,khabarchalisa.com,pradeshnews24x7.com###media_video-2
 apnades.in,digitaltrend-news.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,newswayanad.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
@@ -2202,7 +2202,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com,republicbharatnews24.com,tnnews24.in##.slider-pro
+bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,khabarchalisa.com,newsoneindia.com,newstodayjharkhand.com,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
@@ -2525,7 +2525,7 @@ abplive.com##.uk-text-meta
 bizmandu.com##.uk-text-muted
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
-newstodayjharkhand.com##.uris-slider-post-title
+khabarchalisa.com,newstodayjharkhand.com##.uris-slider-post-title
 newskranti.com##.utt_top
 vatsalyanews.com##.vatsa-middle
 kanakaikhabar.com##.vc_column-inner .wpb_gallery
