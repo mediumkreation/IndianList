@@ -1682,6 +1682,7 @@ eisamay.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 ibc24.in##.hr_banner
+citymirrors.in##.hustle-content
 mekhrajbairwa.com##.hustle-layout
 tarunchhattisgarhkorba.com##.hustle-popup
 blackoutnews.in##.hustle-ui
