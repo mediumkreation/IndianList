@@ -1904,6 +1904,7 @@ daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 navinsamachar.com##.navin-content_13
 amraikhabor.com,chouranews.com,gambhirmudda.com##.ne-banner-layout1
+cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 nepalijanta.com##.nepalijanta-ad
 citynewsdhaka.com##.new-international-right
 chandpursangbad.com##.new-logo-area-right
@@ -2127,6 +2128,7 @@ sunbd24.com##.sidebar-adv
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 newssanjal.com##.sidebar-banner
 shineupindia.com##.sidebar-box a[ target="_blank"]
+cgsandesh.com##.sidebar-box.bg-aqua
 meddlingmedia.com##.sidebar-column
 khabarchalisa.com##.sidebar-inner .widget_custom_html
 janayugomonline.com##.sidebar-inside .widget_custom_html
