@@ -173,7 +173,7 @@ desherkhabor24.com,govindia.in###block-25
 govindia.in,khabardarinews.com,organizeindia.in###block-26
 khabarcgnews.com###block-27
 wealthfreedomideas.com###block-28
-bundelkhandsamachar.com,checkpostnews.com,lokswar.in,newskranti.com,newsnukkad.com,pahadkasach.in###block-3
+alertchhattisgarh.com,bundelkhandsamachar.com,checkpostnews.com,lokswar.in,newskranti.com,newsnukkad.com,pahadkasach.in###block-3
 wealthfreedomideas.com###block-30
 khabardarinews.com,thenewssense.in###block-35
 dnspnews.in###block-37
@@ -1417,7 +1417,6 @@ uukmanews.com##.each-side-ads > a
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 nikharanews.in##.elementor-element .size-large
-alertchhattisgarh.com##.elementor-element-37731bf
 namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 namastenri.net##.elementor-element-e9b9b10
