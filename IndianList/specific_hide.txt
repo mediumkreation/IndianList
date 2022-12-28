@@ -2389,13 +2389,12 @@ pinkstea.com##.td_uid_23_5ee077adb2830_rand
 mirzapurnews.com##.tdb-block-inner .alignright
 kheldhaba.com##.tdb-block-inner > p>img
 n7india.com##.tdb_single_content .code-block
-newsgil.in##.tdb_single_content .tdb-block-inner > .td-g-rec ~ *
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
 tejastoday.com##.tdb_single_content h1 a img
 newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
-tejastoday.com##.tdb_single_content p img
+newsgil.in,tejastoday.com##.tdb_single_content p img
 samugammedia.com##.tdi_153
 devbhoomimedia.com##.tdi_25
 deshprahari.com##.tdi_348
