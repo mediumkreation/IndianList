@@ -1249,7 +1249,7 @@ akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
 bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,lokjannews.com,sangritimes.com,sirajganjexpress.com##.bn-lg
-aankhennews24.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,k9media.live,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,rni.news,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
+aankhennews24.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,rni.news,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
@@ -3369,6 +3369,7 @@ janprahar.com#?#div:-abp-has(> ins)
 jansandeshonline.com#?#div[id^="AS_P_LHS_"] > div:-abp-has(> div > div > a>div > h5:-abp-contains(Ad |))
 jansandeshonline.com#?#div[id^="AS_P_LHS_"] > div:-abp-has(> div > div > a>div > p:-abp-contains(Ad |))
 janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
+k9media.live#?#[id^="AS_O_"] div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
 kathir.news#?#div:-abp-has(> .adsbygoogle)
 keralabreaking.com#?#.wpb_wrapper:-abp-has(> .td_block_single_image)
 khabar7clive.com#?#.single_sidebar:-abp-has(> ul > div)
