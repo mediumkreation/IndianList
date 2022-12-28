@@ -1983,6 +1983,7 @@ bonikbarta.net##.popupCloseButton
 rtvonline.com##.popup_blackoverlay
 rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
+dailydhaka24.com##.pos-index img
 dhorpatannews.com##.position-sticky .adds_menu
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
