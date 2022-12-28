@@ -1021,7 +1021,6 @@ agrinewsnetwork.in##.ader_ads
 thekeralapost.com##.adert-cnter-mdlif
 bdnewsclub.com##.adflexbox
 kheldhaba.com,newslabz.com##.adfoxly-wrapper
-himachalreport.com##.adguru
 udayavani.com##.adliadworld
 thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
@@ -2683,7 +2682,7 @@ samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 khabarhikhabar.com,surgujasamay.com##.wonderplugincarousel-container
 cityhalchal.com,fbdnews.com##.wonderpluginslider
-madhyapradeshdarshan.com##.wonderpluginslider-container
+himachalreport.com,madhyapradeshdarshan.com##.wonderpluginslider-container
 lalitpurkhabar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
 dainikdishari.com,dthreeonline.com,joharlive.com,royalnews13.in##.wp-block-image
@@ -3224,7 +3223,7 @@ dolphintimes.in##div[id^="dolph-"]
 eadarsha.com##div[id^="eadar-"]
 glimeindianews.in##div[id^="glime-"]
 apkhabar.com##div[id^="goji_yo"]
-himachalplus.com##div[id^="himac-"]
+himachalplus.com,himachalreport.com##div[id^="himac-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 cinemapluz.com,newcinemaexpress.com,vtv24x7.com##div[id^="itro_"]
 khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
