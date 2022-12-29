@@ -1147,7 +1147,6 @@ pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
 babuaa.com##.aloks
 ibc24.in##.alt-balaji
-nayabishwo.com##.am-top-ads
 jagonarayanganj24.com##.amws-custom-widget-show-ad
 bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
@@ -1381,6 +1380,7 @@ bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 argusnews.in##.desktop-square-ad
+nayabishwo.com##.detail-ad-holder
 baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
 citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
@@ -1688,6 +1688,7 @@ thereport24.com##.idlc
 ujyaaloonline.com##.iframe-container
 visionnewsservice.in##.image-ad
 bhilwarahalchal.com##.image-post-slider
+nayabishwo.com##.image.attachment-full
 khulasaonline.com##.img-ad
 samacharplus.com##.img-add
 khabarkunj.com##.img-ads
@@ -1780,7 +1781,6 @@ dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
 weeklydesh.co.uk##.logoright
 arthakoartha.com,dharananews.com##.long-ad
-nayabishwo.com##.long-add
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
@@ -2159,7 +2159,6 @@ thenewswords.com##.single-image .carousel
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
-nayabishwo.com##.single-pg-ad-2
 ktmdainik.com##.single-post aside.widget_media_image
 nepalmamila.com##.single-post-advertisement
 hindsagarplk.com##.single-post-content .metaslider
