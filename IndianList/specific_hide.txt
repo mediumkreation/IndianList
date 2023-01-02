@@ -1605,7 +1605,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 indiakhabar.co.in##.header-advert-area
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
-anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekusheysangbad.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
+anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekusheysangbad.com,medianow.in,namastepurvanchal.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
@@ -1843,7 +1843,7 @@ bankingkhabar.com##.meroads
 lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 shasansandesh.in##.mg-headwidget .code-block
-himachalmedia.co,namastepurvanchal.in##.mg-headwidget .pull-right
+himachalmedia.co##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
 newskadaba.com##.mh-header-widget-2
 janjoshnews.in,newsuniversal.in,uniquesamay.com##.mh-sidebar .widget_media_image
@@ -3021,7 +3021,6 @@ newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
 todaysdigitalbreakingnews.in##article div[class*="today-"]
-namastepurvanchal.in##article figure.wp-block-image
 atharvnews.com##aside .theiaStickySidebar .widget_text
 news15india.com##aside .w-100.text-center
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
