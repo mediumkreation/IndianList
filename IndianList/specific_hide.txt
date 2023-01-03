@@ -369,6 +369,7 @@ todaybiharnews1.wordpress.com###media_gallery-33
 webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
+goodmorningindia.net###media_image-1
 bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,magahinews.com,navpradesh.com,news21live.in,parbatyachattagram.com,solantoday.com,starexpress.news###media_image-10
 canvasmagazine.com.bd,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,scgnews.in###media_image-11
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,samajeralo.com###media_image-12
@@ -1448,7 +1449,7 @@ nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 truelinenews.com##.elementor-widget-slides
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
-himalipatrika.com.np##.elementor-widget-text-editor
+goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 shivshahilive.com##.elementor-widget-video
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 computerbichitra.com##.elementor-widget-wp-widget-news247_ads_banner_widget
@@ -1536,8 +1537,9 @@ nijamtoday.com##.foogallery_widget
 anweshanam.com##.footer-ad-img
 firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
-goodmorningindia.net,rkexpose.com##.footer-adv
+rkexpose.com##.footer-adv
 news127.com##.footer-bottom
+goodmorningindia.net##.footer-right-widget
 odishatime.com##.footer-sidebar .widget_media_image
 keralaexpress.com##.footer-sponsored
 srimanexpress.digital##.footer-widget .textwidget img
