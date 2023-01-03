@@ -246,7 +246,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,bd24views.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,biharnewslive.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -920,7 +920,7 @@ corporatenepal.com##.adalytics_ad
 farakdhar.com,ratopati.com##.adalyticsblock
 bharatdarshannews.com##.adbo
 lohagaranews24.com,thebharatnews.net##.adbox
-arthikawaj.com,kdnewslive.in,pchelplinebd.com,pradeshajjtak.com,rajnitiprotidin.com##.adcontainer
+arthikawaj.com,kdnewslive.in,pchelplinebd.com,pradeshajjtak.com,pragativahini.com,rajnitiprotidin.com##.adcontainer
 ajkerbd24.com,ajkernarsingdi.com,ajkersylhet.com,ajkertanore.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglanews24ny.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikvatibangla.com,doctortv.net,dokhinercrime.com,eibela.net,engrsvoice.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,himalayannews.com,jagocomilla.com,jagodesh24.com,jamunanewsbd.com,kathmandupati.com,khabarpunja.com,lalsobujerkontho.com,narsingdipratidin.com,natunbazar24.com,news18.com,news4nation.com,newsatfirst.com,nktelevision.com,npkhabar24.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,ratdinnews.net,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com##.add
 ajkercrimetimes.com,bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
@@ -1464,7 +1464,6 @@ uksuddi.in##.entry-content .bsac
 beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,rcbrn.com,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
-pragativahini.com##.entry-content .no-bg-box-model
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 andbiharnews.co.in##.entry-content .wp-block-gallery
 ghaziabad365.com##.entry-content .wp-block-image
@@ -2168,6 +2167,7 @@ nepalmamila.com##.single-post-advertisement
 hindsagarplk.com##.single-post-content .metaslider
 haryananewsonline.com##.single-post-content > p img:only-child
 makdaiexpress24.com##.single-post-content [data-adid]
+pragativahini.com##.single-post-content div[class*="pubadban"]
 ghazipuraajkal.com##.single-post-content img.alignnone
 madhyabindu.com##.single-post-wrapper nav ~ img
 newssanjal.com##.single-sidebar .post-carousel-1
