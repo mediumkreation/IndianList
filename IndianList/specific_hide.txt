@@ -1326,6 +1326,7 @@ anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreela
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
+usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
@@ -1532,7 +1533,7 @@ thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
 spnewsbd.com,uthayamnews.com##.fn-header-banner
-narmadanchal.com##.fn-widget-image
+narmadanchal.com,usanewsonline.com##.fn-widget-image
 nijamtoday.com##.foogallery_widget
 anweshanam.com##.footer-ad-img
 firstlookbihar.in,wishmaya.com##.footer-add
