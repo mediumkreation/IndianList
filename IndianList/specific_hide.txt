@@ -1322,7 +1322,7 @@ tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 odishareporter.in##.colombia
-anugrahavision.com,azhimukham.com,crimecapital.in,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
+anugrahavision.com,azhimukham.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -3189,6 +3189,7 @@ pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 thereport24.com##div[id*="_300x250"]
 deshvani.in##div[id*="_webads"]
+heraldspot.com##div[id^="AS_O_"] > div:nth-child(-n+10)
 aapninews.in,anugrahavision.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+15)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
