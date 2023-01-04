@@ -2614,7 +2614,7 @@ cityhalchal.com##.widget_block:not(#block-43)
 sabkasandesh.com##.widget_block:not(#block-6)
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
+6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,satyamnews.net,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
 asrilanka.com##.widget_custom_html.panel-first-child
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
