@@ -2515,7 +2515,7 @@ kolhabinews.com##.topside-ad
 uukmanews.com##.tp-ad
 damstv.com##.tr-ad
 aapkiummid.com##.tr-caption-container
-24newspress.com##.tr_e3lan-widget
+24newspress.com,swapnilsansar.org##.tr_e3lan-widget
 onlinekhabar.com##.tribox-add
 sangbad-gallery.com##.two_advertisement
 vorerava24.com##.twp-ad
