@@ -2343,6 +2343,8 @@ newslabz.com##.td-main-sidebar .widget_media_image
 vadakaravoice.com##.td-main-sidebar aside
 vtvvitla.com##.td-no-img-custom-url
 janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
+prabhattimes.com##.td-post-content .aligncenter
+prabhattimes.com##.td-post-content .alignleft
 saamana.com##.td-post-content .code-block
 eaibanglai.com,hamdardtv.com,vasundharadeep.news##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
