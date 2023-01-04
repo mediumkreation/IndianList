@@ -871,7 +871,7 @@ cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
-arthasansar.com,pankourinews.com##.ad img
+arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
 chhattisgarhaaj.com,khabaraaptak.net,newsdnntv.com,pratyeknewslive.com##.ad--space
 newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
