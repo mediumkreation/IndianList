@@ -3466,6 +3466,7 @@ muznews.online##section[data-id="9a0f91e"]
 bihardootnews.com##section[data-id="e3b7c3d"]
 chennaitodaynews.com##section[id^="id"]
 seithipunal.com#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
+shikshabhartinetwork.com#?#div:-abp-has(> .box_header:-abp-contains(Advertisements))
 punjabikangaroo.com#?##side .widget:-abp-has(> .heading > span:-abp-contains(Advertisement))
 iautoindia.com#?##sidebar .widget:-abp-has(.banner)
 veerdharanews.com#?##sidebar-primary-sidebar .widget:-abp-has(div[data-adid]:not([data-type="custom_code"]))
