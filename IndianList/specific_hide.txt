@@ -1613,6 +1613,7 @@ indiakhabar.co.in##.header-advert-area
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekusheysangbad.com,medianow.in,namastepurvanchal.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
+corporatenepal.com##.header-bigyapan
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
@@ -1968,6 +1969,7 @@ himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 todaypati.com##.page-content div[style*="float"]
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
+corporatenepal.com##.para-3-ad
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
 parvatprerna.com##.parva-widget
