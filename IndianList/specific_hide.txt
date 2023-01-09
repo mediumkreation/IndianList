@@ -1418,6 +1418,7 @@ ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,indiau
 dharuvu.com##.e3lan300_250-widget
 krishideepam.in,uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
+lanka4.com##.eds-link
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 nikharanews.in##.elementor-element .size-large
@@ -1532,6 +1533,7 @@ dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
+lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
 spnewsbd.com,uthayamnews.com##.fn-header-banner
 narmadanchal.com,usanewsonline.com##.fn-widget-image
@@ -1722,6 +1724,7 @@ ratopati.com##.inline_disp
 ctgsangbad.com.bd##.inlineads
 mannarkkadlive.com##.inner-add
 khabarmukam.com##.inner-bigyapan
+lanka4.com##.inner-eds-box
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
 laxminews24x7.com##.inner-wrapper .e3lan-below_header
