@@ -2548,7 +2548,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
-dailyceylon.lk,malayalimanasu.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
+dailyceylon.lk,malayalimanasu.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
 ctgnews.com##.vc_raw_html a[target="_blank"]
 postmanindia.in##.vc_raw_html iframe
 coastal-mirror.com##.vc_raw_html img
