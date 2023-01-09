@@ -1808,7 +1808,7 @@ hkgnews247.com##.main-and-sidebar .Image
 ajbangla.com##.main-banner
 policevarthe.com##.main-bg .carousel
 khabarmukam.com##.main-bigyapan
-aaryaanews.com,hindsat.in,hkgnews247.com,newswing.com,punjabiakhbaar.ca##.main-content .stream-item
+aaryaanews.com,hindsat.in,hkgnews247.com,newswing.com,punjabiakhbaar.ca,tararalo.net##.main-content .stream-item
 deshprotikhon.com##.main-content a[target="_blank"] img
 deshprotikhon.com##.main-header-ad
 sharebazarnews.com##.main-header-ads
