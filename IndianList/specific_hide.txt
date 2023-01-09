@@ -1166,6 +1166,7 @@ omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
 kabirkiawaz.in##.av_slied
+newshubinsight.in##.avt_masterslider_el
 kabirkiawaz.in##.avv_custom
 ittefaq.com.bd##.aw320
 dnewsnetwork.in##.awac img.image
@@ -1841,7 +1842,7 @@ cninews24.com##.map
 ideatvnews.com##.marquee-ads
 backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
-newsspecial.in##.master-slider-main-widget
+newshubinsight.in,newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
