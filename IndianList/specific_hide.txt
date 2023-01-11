@@ -1597,7 +1597,6 @@ news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
 joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
-onlinepatrakar.com##.googleAdBlock
 faridabadnews.live##.googlepublisherads
 paristamil.com##.group2
 paristamil.com##.group3
@@ -2796,7 +2795,7 @@ asomiyapratidin.in,poribortonersopoth.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
-adhorekhit.com,alamkikhabar.in,attingalvartha.com,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,nayapusta.com,newsnow24.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
+adhorekhit.com,alamkikhabar.in,attingalvartha.com,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,nayapusta.com,newsnow24.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 atozpatrika.com##.wpb_single_image img:not([src*="krishi-"]):not([src*="ban2-"])
