@@ -82,7 +82,7 @@
 /Advertisement/*$domain=aparajeobangla.com|odiaspotnews.in
 /advertisement/*$domain=shasakprashasak.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
-/advertisements/*$domain=abhiyandaily.com|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
+/advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
 /advisment/*$domain=kopotakkhonews24.com
 /advrtseimg/*$domain=msprotidin.com
 /advs/*$domain=streetbuzz.co.in
