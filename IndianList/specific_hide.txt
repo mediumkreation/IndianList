@@ -278,6 +278,7 @@ aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnew
 manithan.com###dfp_banner_header_panel + span
 pardaphash.com###disqus_thread iframe:first-child
 teluguwishesh.com###djslider875
+biharjharkhandnewsnetwork.com###doy-2
 firsteyenews.co.in###dynamic_sidebar_before
 hastakshep.com###eaa-12
 barishalcrimenews.com###elementor-popup-modal-114022
