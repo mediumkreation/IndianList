@@ -1444,7 +1444,7 @@ khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,newsganga.com,rainbownews.co.in,sitakundabarta.com,thurannakathu.com,topnewskerala.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,sitakundabarta.com,thurannakathu.com,topnewskerala.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
@@ -2534,7 +2534,7 @@ aapkiummid.com##.tr-caption-container
 24newspress.com,swapnilsansar.org##.tr_e3lan-widget
 onlinekhabar.com##.tribox-add
 sangbad-gallery.com##.two_advertisement
-vorerava24.com##.twp-ad
+polkholonline.com,vorerava24.com##.twp-ad
 speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
