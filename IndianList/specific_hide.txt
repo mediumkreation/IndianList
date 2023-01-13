@@ -380,7 +380,7 @@ bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,kalkuda
 canvasmagazine.com.bd,navpradesh.com,news127.com,palampuronline.com,samacharplusnews.com,scgnews.in###media_image-11
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,samajeralo.com###media_image-12
 dgnews.co.in,jansaamna.com###media_image-13
-indianow24.com,jansaamna.com,odishatime.com,sabkasandesh.com###media_image-14
+indianow24.com,jansaamna.com,sabkasandesh.com###media_image-14
 anewsoffice.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 flowersoriginals.com,kushinagarlive.com,tarunchhattisgarh.in###media_image-16
 hindvatannews.com###media_image-17
@@ -427,7 +427,7 @@ aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 amanshantinews.com,bhanjyangnews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,manvadhikartimes.com,news1india.in,odishakhabara.in,parbatyachattagram.com,prajawani.in,pratidin24x7.in,sabkasandesh.com,starexpress.news,swatantradastak.com,tarunchhattisgarh.in,visfotnews.com###media_image-7
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khaptadmalikanews.com,newsplus.lk,odishatime.com,prajawani.in,rashtranayaknews.com,sasthabangla.com,scgnews.in,starexpress.news,theblastkhabar.com,visfotnews.com###media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khaptadmalikanews.com,newsplus.lk,prajawani.in,rashtranayaknews.com,sasthabangla.com,scgnews.in,starexpress.news,theblastkhabar.com,visfotnews.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabardinbhar.net,khabarok.com,odishalink.com,sanjeevanisamachar.com,scgnews.in,starexpress.news,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com,vatankiawaz.in,visfotnews.com###media_image-9
@@ -1553,7 +1553,6 @@ mymensinghnews.com##.footer-addds
 rkexpose.com##.footer-adv
 news127.com##.footer-bottom
 goodmorningindia.net##.footer-right-widget
-odishatime.com##.footer-sidebar .widget_media_image
 keralaexpress.com##.footer-sponsored
 srimanexpress.digital##.footer-widget .textwidget img
 gionews.in##.footer-widget .widget_media_image
@@ -2619,7 +2618,7 @@ barisalcrimetrace.com##.widget_area p>img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
-avikaluttarakhand.com,dainikchhattisgarhwatch.com,khabareducation.com,nepalbritain.com,newsaroma.com,rashtrasamvad.com,samastipurlive.com,upaajtak.com##.widget_block
+avikaluttarakhand.com,dainikchhattisgarhwatch.com,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,upaajtak.com##.widget_block
 24hrnews.in##.widget_block img
 update24.net##.widget_block img:not([src*="stop-war.jpg"])
 agrtanews.com##.widget_block:not(#block-2)
