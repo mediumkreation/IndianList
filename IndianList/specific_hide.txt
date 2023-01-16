@@ -1668,6 +1668,7 @@ khabareducation.com##.hm-header-image
 brightpost.in,mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
 madhyamam.com##.hocal-ad-block
+chattogramnews.com##.home .elementor-widget-image
 bangla-news24.com##.home-e3lan
 update24.net##.home-featured-boxes
 dabangmedia.com##.home-gallery.photo-gallery
