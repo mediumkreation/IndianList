@@ -21,7 +21,7 @@ aapkimedia.com,banglarawaj.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.c
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
-ekumaon.com,nandednewslive.com###HTML22
+ekumaon.com###HTML22
 ekumaon.com###HTML23
 gidhaur.com###HTML24
 importmirror.com###HTML27
@@ -103,7 +103,7 @@ newsnib.in###advertisement
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 importmirror.com###adx
-nandednewslive.com,yarldevinews.net###after-ad
+yarldevinews.net###after-ad
 thejharokha.com###ai_widget-2
 chakarianews.com###akismet_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
@@ -144,7 +144,7 @@ cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
 nalandalive.com###bdaia-widget-html-5
-nandednewslive.com,yarldevinews.net###before-ad
+yarldevinews.net###before-ad
 lokmat.com,lokmatnews.in###beforehead
 khabarcgnews.com,newscg11.com###below-header
 kusenews.com###belowflash
@@ -3259,6 +3259,7 @@ khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
 lokalok.in##div[id^="lokal-"]
 madathakaja.com##div[id^="madat-"]
 malabarinews.com##div[id^="malab-"] > img
+nandednewslive.com##div[id^="nande-"]
 newsfact.in##div[id^="newsf-"]
 newsheight.com##div[id^="newsh-"]
 newslinkers.com##div[id^="newsl-"]
