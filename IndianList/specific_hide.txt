@@ -3202,6 +3202,7 @@ meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
 bikalpadainik.com##div[data-adid]:not([data-adid="5022"]):not([data-adid="3716"])
 voice4bihar.com##div[data-adid]:not([data-adid="99627"])
 veerdharanews.com##div[data-adid]:not([data-type="custom_code"])
+cdnews24.com##div[data-adid][data-type="image"]
 truecopythink.media##div[data-embed-button="embed_advertisement"]
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
