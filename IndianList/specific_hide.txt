@@ -6,7 +6,7 @@ arerajdarshan.com###FullWidthWidget-Top
 metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 atalsamachar.com###HP_O_TP_2 > div ~ div
-actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,unmaikal.com###HTML1
+actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 chilahatiweb.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com,yarldevinews.net###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,dailyhealthletters.com,gossip99.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
@@ -31,8 +31,8 @@ gramsamachar.com,jaldhakanews.com###HTML30
 99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,eluvannews.com,kanaighatnews.com,malwalive.com,media24media.com,mithimedia.in,nbcbangla.com###HTML4
 tamilarul.net###HTML42
-36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,visarnews.com###HTML5
-gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com###HTML6
+36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,topbharat.in,visarnews.com###HTML5
+gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
 chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
@@ -1992,6 +1992,7 @@ gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
+topbharat.in##.piki-ads
 vasistatoday.in##.piki-ads-res
 tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
