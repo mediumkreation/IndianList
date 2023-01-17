@@ -752,7 +752,7 @@ janamtv.com###text-html-widget-12
 bharatsamachartv.in###text-html-widget-14
 globalnews24x7.com,thesurgicalnews.in,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
-abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com,newswing.com###text-html-widget-3
+abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com,newswing.com,punjabiakhbaar.ca###text-html-widget-3
 bdtoday24.com###text-html-widget-35
 globalpunjabtv.com###text-html-widget-4
 bdtoday24.com###text-html-widget-41
@@ -1151,6 +1151,7 @@ biharnownews.com##.afw_ad
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
 beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+punjabiakhbaar.ca##.aibwp_banner_widget
 ajabgjab.com##.ajabg-widget
 ajakoartha.com##.ajako_artha-advertisement-series
 malabarnews.com##.alertAdd
