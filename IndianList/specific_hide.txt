@@ -1,7 +1,6 @@
 livebihar24news.com###AD_FLOAT
 eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
-pundrokotha.com.bd###DesktopAd1
 arerajdarshan.com###FullWidthWidget-Top
 metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
@@ -74,7 +73,6 @@ patnadaily.com###Mod173
 patnadaily.com###Mod174
 odia-ray.in###Mod182
 odia-ray.in###Mod225
-pundrokotha.com.bd###PageSideAd1
 arthasarokar.com###RoadBlock
 pnews.co.in###SidebarWidgets-S1
 battirepnews.com###SidebarWidgets-S1 .widget.Image
@@ -276,6 +274,7 @@ himachalabhiabhi.com###custom_html-68
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
 f21news.com,futurekerala.in,mynews36.com,newsuniversal.in,pradhanavartha.in,ujjwalduniya.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com,uttranews.com###custom_html-9
+pundrokotha.com.bd###descripton div[style*="url"]
 manithan.com###dfp_banner_header_panel + span
 pardaphash.com###disqus_thread iframe:first-child
 teluguwishesh.com###djslider875
@@ -3301,6 +3300,7 @@ navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 cinereporters.com##div[name="Homepage-Organic-RHS-1"]
+pundrokotha.com.bd##div[pid^="10"]
 paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
 patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
