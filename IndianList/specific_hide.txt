@@ -1447,7 +1447,7 @@ khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,sitakundabarta.com,thurannakathu.com,topnewskerala.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,graminujala.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,sitakundabarta.com,thurannakathu.com,timetvusa.com,topnewskerala.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
@@ -1625,6 +1625,7 @@ indiakhabar.co.in##.header-advert-area
 alokitoshitalakha.com,pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekusheysangbad.com,medianow.in,namastepurvanchal.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
+timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
