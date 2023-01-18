@@ -16,7 +16,7 @@ aapkiummid.com,balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML1
 balotranewstrack.com,thattungal.com###HTML16
 thattungal.com###HTML18
 obolokon24.com,spyviewnews.in###HTML19
-aapkimedia.com,banglarawaj.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com,thenewsrepair.com,upayuktha.com###HTML2
+aapkimedia.com,banglarawaj.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
 gossiplankanews.com,kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
@@ -2137,6 +2137,7 @@ dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 fourteenkerala.com,pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
 cgwall.com##.sidebar .wds_slider_cont
+thenewsrepair.com##.sidebar .widget.HTML
 madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
