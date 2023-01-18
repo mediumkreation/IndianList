@@ -943,7 +943,6 @@ kopotakkhotimes.com##.add p img
 motivatenews.com.np,onlinedabali.com,pokharapatra.com.np,ratopost.com,sancharkendra.com##.add-2
 talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
-voiceofnewjersey.com##.add-bar
 khobor24ghonta.com##.add-bg-02
 aajkasach.in,jaianndata.com##.add-block
 vishvasnews.com##.add-box
@@ -990,6 +989,7 @@ onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
 dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
+voiceofnewjersey.com##.add_area img
 allnewsbharat.com,emstv.in,n7india.com,provatnews.com##.add_banner
 gtamilnews.com##.add_block_hdefault
 ridoyachandpur.com##.add_content
