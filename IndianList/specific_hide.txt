@@ -405,7 +405,6 @@ starbanglanews.net###media_image-32
 delhibulletin.in,pressbangla24.com###media_image-34
 delhibulletin.in###media_image-35
 pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
-sheikhpuranews.com###media_image-37
 delhibulletin.in,mpnewscast.com,voiceofbihar.in###media_image-38
 delhibulletin.in###media_image-39
 aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainandini.in,dainiklumbini.com,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
@@ -1188,7 +1187,7 @@ manabadi.co.in##.backg-g
 samajeralo.com##.bannar-full-width
 24hnbc.com,asianmetronews.com,chapainews.com,comilla71tv.com,crimeexpressbd.com,dailyganomukti.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,kharinews.com,khobor24ghonta.com,malayaleevision.com,narsingdijournal.com,odia-ray.in,postpati.com,punjabmailusa.com,puthithu.com,safalkhabar.com,satkhiratoday.com,tamilveedhi.com,tezsamachar.in,voiceofsatkhira.com##.banner
 alokitomymensingh24.com##.banner-ad-01
-kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
+kahalenews.com##.banner-ad-wrap
 24hnbc.com##.banner-add
 musicjoymedia.com##.banner-half
 aapkaparyas.in,enewsmp.com##.banner-header
@@ -2092,7 +2091,7 @@ sathyamonline.com##.sAds
 prernanews.com##.sadv
 samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
-khabarchalisa.com,sheikhpuranews.com,vijayapatha.in##.sb-widget-ad
+khabarchalisa.com,vijayapatha.in##.sb-widget-ad
 jaianndata.com##.scnd-add
 gramnagarbarta.com##.scrollable-slider
 thekeralapost.com##.sd-advert
@@ -2178,8 +2177,6 @@ dhadingpost.com##.single-content p~figure.wp-block-image
 channelcox.com##.single-ditails + .add .widget_area
 bijoybanglabd.com##.single-dtls .code-block
 bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
-sheikhpuranews.com##.single-entry .code-block
-sheikhpuranews.com##.single-entry img[width="300"][height="225"]
 thenewswords.com##.single-image .carousel
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
