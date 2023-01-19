@@ -797,9 +797,9 @@ pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
 breakingaajtaknews.com,goodmorningnation.com,khabarbhartiindia.com,news4indiatv.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
-atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,khabarmantri.com,tv24live.com###widget-sidebar-1
+atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,tv24live.com###widget-sidebar-1
 breakingaajtaknews.com,sameera.co.in###widget-sidebar-2
-atalstambh.com,breakingaajtaknews.com,hakikatnews.com###widget-sidebar-3
+atalstambh.com,breakingaajtaknews.com###widget-sidebar-3
 beauronews.com###widget-sidebar-4
 gujaratvaibhav.com###widget4
 kewalsachtimes.com###widget_sp_image-10
@@ -1629,6 +1629,7 @@ anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,ekuruvi.com,ekus
 timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 ratopati.com##.header-blocks-aspace
+hakikatnews.com##.header-bottom-ad
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
