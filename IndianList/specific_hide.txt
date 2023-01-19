@@ -382,7 +382,7 @@ canvasmagazine.com.bd,navpradesh.com,news127.com,palampuronline.com,samacharplus
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,samajeralo.com###media_image-12
 dgnews.co.in,jansaamna.com###media_image-13
 indianow24.com,jansaamna.com,sabkasandesh.com###media_image-14
-anewsoffice.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
+manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 flowersoriginals.com,kushinagarlive.com,tarunchhattisgarh.in###media_image-16
 hindvatannews.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
@@ -421,7 +421,6 @@ googlepokhara.com,madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
 madhyabhoomikeboal.com###media_image-53
 madhyabhoomikeboal.com###media_image-56
-anewsoffice.com###media_image-57
 247superfast.com,bdmetronews24.com,bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,jansaamna.com,kannurvarthakal.in,katghara.in,lambasafar.com,muldharpost.com,navpradesh.com,neptvnews.com,newindiatimes.news,newswayanad.in,odishalink.com,prajawani.in,sasthabangla.com,scotnepal.com,starexpress.news,tarunchhattisgarh.in,theblastkhabar.com,trendnew.in###media_image-6
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
@@ -1151,7 +1150,7 @@ batukamma.com##.after-menu-ads
 biharnownews.com##.afw_ad
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
-beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+anewsoffice.com,beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 punjabiakhbaar.ca##.aibwp_banner_widget
 ajabgjab.com##.ajabg-widget
 ajakoartha.com##.ajako_artha-advertisement-series
