@@ -2434,6 +2434,7 @@ trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
 samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
+timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com,ujjawalprabhat.com##.text-html
 sarkarimanthan.com,ujjawalprabhat.com##.text-html-box
 seradesh.com##.textwidget
