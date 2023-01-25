@@ -707,7 +707,7 @@ satyamlive.com,tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
 garhwalkavikas.com###text-29 iframe
-abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,tamizhdb.com,uniquesamay.com###text-30
 e-jaffna.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
@@ -719,7 +719,7 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com,uniquesamay.com###text-38
 himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,desherkhabor24.com,ekhabar.in,ghazipurkhabar.co.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,sabjanta.info,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,desherkhabor24.com,ekhabar.in,ghazipurkhabar.co.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,localnewsodia.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,sabjanta.info,shomoynews.com,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
 himalini.com###text-40
 uniquesamay.com###text-42
 uniquesamay.com###text-43
@@ -740,7 +740,7 @@ avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdto
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bigkhabar.com###text-69
-aajkiawaaz.com,apnades.in,barisaltoday.com,bdtodays.net,brajpatrika.com,ekhansangbad.com,hastakshep.com,indianow24.com,indiawarta.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,shomoynews.com,youngorganiser.com###text-7
+aajkiawaaz.com,apnades.in,barisaltoday.com,bdtodays.net,brajpatrika.com,ekhansangbad.com,hastakshep.com,indianow24.com,indiawarta.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,youngorganiser.com###text-7
 hindustanlivetoday.com###text-7 iframe
 247superfast.com,ekhansangbad.com,gauravnews.in,gazarianews.com,globaltamilnews.net,harinayak.in,himshimlalive.com,hindustanlivetoday.com,janvadtimes.com,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,tamizhdb.com,theblastkhabar.com,udaipurkiran.in,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 indiawarta.com###text-8 iframe
