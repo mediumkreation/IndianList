@@ -1118,7 +1118,7 @@ pokharaexpress.com##.advertise-sec-header
 paryatanbazar.com##.advertise-section
 socialvikassamachar.com##.advertise-widget-box
 nepalmamila.com##.advertiseImage
-jamalpurlive.com##.advertise_space1
+bdcrimenews.com,jamalpurlive.com##.advertise_space1
 bonikbarta.net,jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
 apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
@@ -1616,6 +1616,7 @@ vgnews.in##.headAdExBlock
 moonamvazhi.com##.headRightAdv
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
+bdcrimenews.com##.header .pull-right
 newsdnntv.com##.header--ad
 apnarajya.com##.header-ad-section
 corporatesangbad.com##.header-add
