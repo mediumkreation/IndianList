@@ -563,7 +563,6 @@ prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
-fenirshomoy.com###secondary .vl-advertisment
 bbn24news.com,brightpost.in,dainikchintak.com,indiapolkhol.in###secondary .widget_block
 kelopravah.news###secondary .widget_block img
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com###secondary .widget_custom_html
@@ -2580,7 +2579,7 @@ khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
 khaptadonline.com##.view-ads-view
 just36news.com##.vk-between-header-banner
-apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
+apnepal.com,dainikprime.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
 muznews.net##.vmagazine-lite-medium-rectangle-ad
 karmalamadhanews24.com,tnilive.com##.vmagazine_lite_medium_ad
