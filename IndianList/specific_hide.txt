@@ -1516,6 +1516,7 @@ chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
 livehindustan.com##.epr-ads
 himalayapost.com##.et-waypoint
+azchavattomonline.com##.et_pb_ads_0
 himalayapost.com##.et_pb_code_8
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
