@@ -1817,18 +1817,15 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i0.wp.com/aajexpress.com/wp-content/uploads/2022/03/IMG-20220310-WA0007
 ||i0.wp.com/everestdainik.com/wp-content/uploads/2018/08/ime-pay-900x110.gif
 ||i0.wp.com/sajhatv.com/wp-content/uploads/2017/06/Slap-the-Deal-Banner.gif
-||i0.wp.com/www.sallerikhabar.com/wp-content/uploads/2020/02/ntc1050x100px_1.gif
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i1.wp.com/everestdainik.com/wp-content/uploads/2019/11/LIC-advert-mansir1.gif
 ||i1.wp.com/globaltamilnews.net/wp-content/uploads/2018/05/Banner-for-add-in-GTN3.jpg
 ||i1.wp.com/laligurash.com/wp-content/uploads/2020/07/1140_x_100.gif
-||i1.wp.com/www.sallerikhabar.com/wp-content/uploads/2019/09/1567317741.gif
 ||i2.wp.com/everestdainik.com/wp-content/uploads/2019/11/980-100evrest-dainik.gif
 ||i2.wp.com/everestdainik.com/wp-content/uploads/2020/07/Subisu-New-Ad.gif
 ||i2.wp.com/i.imgur.com/gDuN4AI.png$domain=tnilive.com
 ||i2.wp.com/muznews.net/wp-content/uploads/2020/08/FB_IMG_1597547094308
 ||i2.wp.com/udupixpress.com/wp-content/uploads/2020/06/Muniyal-Admission-1333x200-udupixpress-ad-
-||i2.wp.com/www.sallerikhabar.com/wp-content/uploads/2020/02/1580622357.gif
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i2inews.in/images/advertisement/
@@ -1978,7 +1975,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||jalleda.com/images/keyboard.png
 ||jamunanewsbd.com/wp-content/uploads/2022/07/wishe-gate.gif
 ||janaboli.com/wp-content/uploads/2020/08/add-1.gif
-||janaboli.com^$third-party,domain=sallerikhabar.com
 ||janadhikarmedia.com/wp-content/uploads/2022/08/IMG_20220827_195708
 ||janamitra.co/wp-content/uploads/2019/07/su.jpeg
 ||janamitra.co/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-17-at-1.47.59-PM.jpeg
