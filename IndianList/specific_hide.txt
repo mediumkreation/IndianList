@@ -185,6 +185,7 @@ tcp24.news###block-47
 hamarahimachal.com,indianvoice24.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,thenewswave.com,vindhya24news.com,viralfactsindia.com###block-6
+dgnews.co.in###block-69
 areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,thenewswave.com###block-7
 tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
@@ -399,7 +400,7 @@ dhadingupdate.com###media_image-263
 dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,dharuvu.com,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,opensearch.co.in,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,topchand.com,ulipur.com,updatenownews.com###media_image-3
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,dainikkhojkhabar.live,darpansamachar.com,dharuvu.com,envazhi.com,fenirzamin.com,globalsylhet.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,opensearch.co.in,pahar24.com,puthusudar.lk,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,topchand.com,ulipur.com,updatenownews.com###media_image-3
 purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
@@ -2719,7 +2720,7 @@ indiapublickhabar.in##.wp-block-image > figure
 nainilive.com##.wp-block-image img
 abtnews.in##.wp-block-jetpack-slideshow
 kafaltree.com##.wp-block-video
-pplnews.in##.wp-custom-header
+dgnews.co.in,pplnews.in##.wp-custom-header
 newssunamganj.com##.wp-image-10388
 bebakuttarakhand.com##.wp-image-10525
 bebakuttarakhand.com##.wp-image-10526
