@@ -408,7 +408,7 @@ delhibulletin.in###media_image-35
 pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
 delhibulletin.in,mpnewscast.com,voiceofbihar.in###media_image-38
 delhibulletin.in###media_image-39
-aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainandini.in,dainiklumbini.com,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
+aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainandini.in,dainiklumbini.com,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,otvnepal.com,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
 myagdinews.com,sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
@@ -1010,16 +1010,14 @@ motivatenews.com.np##.addc img
 osnepal.com##.addcomponent
 ajkercrimetimes.com,aznewsbd24.com,barishalsomoynews.com,dailyjuboraj.com,deshergarjan.net,mediadabali.com,natunbazar24.com,pirojpursomoy.com,shahnamabd.com,songkalpo.net,tadantachitra.com,uttorersomoy.com##.addd
 bangalorewaves.com##.addima
-khabarwaale.com,otvnepal.com,pathivaradaily.com,protikhon.com##.adds
+khabarwaale.com,pathivaradaily.com,protikhon.com##.adds
 jubokantho.com##.adds-block
 gourbarta24.com##.adds-lg
 onlinemajdoor.com##.adds-sec
 gourbarta24.com##.adds-sm
-arthanepal.com,ashakakiran.com,dhorpatannews.com,eparinews.com,gandakitimes.com,gokarneshworonline.com,otvnepal.com,pathivaradaily.com,setoghar.com,swadeshnepal.com##.adds_menu
+arthanepal.com,ashakakiran.com,dhorpatannews.com,eparinews.com,gandakitimes.com,gokarneshworonline.com,pathivaradaily.com,setoghar.com,swadeshnepal.com##.adds_menu
 newsbhandar.com##.adds_menu img
 arthanepal.com##.adds_menus
-otvnepal.com##.adds_rajn
-otvnepal.com##.adds_side
 gandakitimes.com##.adds_taja img
 ntnews.com##.addsn
 avikaluttarakhand.com##.addtoany_content_bottom ~ div img
@@ -2318,7 +2316,6 @@ adhunikdaur.com##.tab_265top_left
 xxx-indian-porn.com##.tac
 onlinedabali.com##.tadd
 kamdhenupost.com##.tagdiv-type .td-fix-index img
-otvnepal.com##.taja-adds
 tamilmint.com,tamiltradepost.com##.tamil-widget
 tarunbharat.com##.tarun-content
 nepaldut.com##.tauke
