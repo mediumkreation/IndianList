@@ -484,19 +484,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||badimalikakhabar.com/wp-content/uploads/2021/04/Good-nevres-international-bajura-ADD.gif
 ||badimalikakhabar.com/wp-content/uploads/2022/10/a2z-computer.gif
 ||balaganjprotidin.com/files/uploads/2020/01/balaganjprotidin-adv_new.jpg
-||balliakhabar.com/wp-content/uploads/2020/05/rkrkrk$image
-||balliakhabar.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-08-at-10.49.16$image
-||balliakhabar.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-08-at-10.51.12$image
-||balliakhabar.com/wp-content/uploads/2020/08/bs-244x300.jpg
-||balliakhabar.com/wp-content/uploads/2020/08/bs-768x945.jpg
-||balliakhabar.com/wp-content/uploads/2020/08/bs.jpg
-||balliakhabar.com/wp-content/uploads/2020/08/khurshid-$image
-||balliakhabar.com/wp-content/uploads/2020/08/LUBI-ENGLISH-FLYER-page-001$image
-||balliakhabar.com/wp-content/uploads/2020/08/Lubi-Hindi-Flyer-page-001$image
-||balliakhabar.com/wp-content/uploads/2020/08/shaban$image
-||balliakhabar.com/wp-content/uploads/2020/08/shahabn$image
-||balliakhabar.com/wp-content/uploads/2020/08/shahban$image
-||balliakhabar.com/wp-content/uploads/2020/09/ISHTIYAQ$image
 ||bangalorewaves.com/images/addbanner/
 ||bangalorewaves.com/images/addbannersmall/
 ||bangalorewaves.com/images/Banner/
@@ -2129,6 +2116,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||kaumudiplus.com^*/awc-banner.jpg
 ||kaumudiplus.com^*/chemmannurfin1.jpg
 ||kazirbazar.com^*/ad-1.jpg
+||kbuccket.sgp1.digitaloceanspaces.com/balliakhabar/*/Aishpra-
 ||kbuccket.sgp1.digitaloceanspaces.com/balliakhabar/2022/04/03153431/Milk
 ||kelimandala.lankadeepa.lk^*/advr_
 ||keralaexpress.com^*/banners
