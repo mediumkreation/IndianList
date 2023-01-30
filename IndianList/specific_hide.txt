@@ -1245,7 +1245,7 @@ dekhapadhi.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,safalawaj.com,safalkhabar.com##.bigyapan
-janatapati.com,janatasamachar.com,muglanikhabar.com##.bigyapan-box
+janatapati.com,janatasamachar.com,khelpati.com,muglanikhabar.com##.bigyapan-box
 corporatenepal.com,lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
 lokaantar.com##.bigyapan-title
 arthasarokar.com##.bigyapan_banner
