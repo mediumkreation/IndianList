@@ -1338,6 +1338,7 @@ channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 odishareporter.in##.colombia
 anugrahavision.com,azhimukham.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
+rewanewsmedia.com##.colombiaadcode img
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
@@ -3229,8 +3230,8 @@ keralavoter.com##div[id^="AS_O_LHS_"] > div:nth-child(n+21)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 indiatimesgroup.com##div[id^="AS_O_LHS_"] > div:nth-child(n+4)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
-rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+4)
 realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
+rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+6)
 newzfast.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
