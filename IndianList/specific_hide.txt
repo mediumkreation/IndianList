@@ -500,7 +500,7 @@ ghaziabad365.com###npkit-recent-posts-5
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
 patnalive.co.in###oppopo
-crickethimalaya.com,udghoshdaily.com,vijayavani.net###ouibounce-modal
+crickethimalaya.com,udghoshdaily.com###ouibounce-modal
 ratantimes.com###owl-demo1
 importmirror.com###p-vila
 muzaffarpurwow.com###panel-134-5-1-0
@@ -1443,6 +1443,7 @@ maithilbrahminmahasabha.in##.elementor-element-f2e9897
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 todaypostlive.com##.elementor-image a[target="_blank"]
 delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
+vijayavani.net##.elementor-popup-modal
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 wayanadlivenews.com##.elementor-shortcode img
 khabriyanews.com##.elementor-spacer
@@ -2410,7 +2411,7 @@ todaybihar.com##.td_mod_wrap
 navdeshtimes.com##.td_separator_solid
 khaskhobor.com##.td_single_image_bg
 akkbd.com##.td_single_image_bg[target="_blank"]
-teznews.com,vijayavani.net##.td_spot_img_all
+teznews.com##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
 mirzapurnews.com##.tdb-block-inner .alignright
 kheldhaba.com##.tdb-block-inner > p>img
@@ -3299,6 +3300,7 @@ thirdeyenewslive.com##div[id^="third-"]
 todaypostlive.com##div[id^="today-"]
 vachakam.com##div[id^="topmiddle"]
 tvannapurna.com##div[id^="tvann-"]
+vijayavani.net##div[id^="vijay-"]
 visiontimes.news##div[id^="vision-"]
 navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
