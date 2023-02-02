@@ -849,6 +849,7 @@ thinkwithniche.in##.Home-seo-add-sidebar-bigborder
 yarldevinews.net##.Image
 mithimedia.in##.Image.widget
 khabarpahad.com##.InArtilce-AdSlot01
+twentyfournews.com##.InsidePost
 nellaionline.net,tutyonline.net##.MR300250
 newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
@@ -2492,7 +2493,6 @@ thereport24.com##.top-add-left4
 aperata.net##.top-ads-block
 manoramanews.com##.top-advt
 sajhamanch.com##.top-area iframe
-twentyfournews.com##.top-banner
 thekeralapost.com##.top-banner-advert
 jamalpurlive.com##.top-bar
 ekuruvi.com##.top-bar-left-nav
@@ -3520,6 +3520,7 @@ thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
 todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
 tv20news.in#?#p:-abp-contains(Advertisement)
+twentyfournews.com#?#div:-abp-has(> span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
 unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
 upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-contains(Ad |))
