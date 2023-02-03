@@ -525,6 +525,7 @@ alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
 koshionline.com###primary section.widget_media_image
 purbashabd24.com###primary-sidebar
+akhandbharatsamachar.com###recent-boxes2
 goodnewsbharat.com###recent-post-slider-1
 manithan.com###recommendations
 hindustanrepublic.in###responsive_lightbox_image_widget-2
@@ -2027,7 +2028,6 @@ web.nawadalive.com##.post-body > span img
 jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 khasokhas.com##.post-entry .code-block
-akhandbharatsamachar.com##.post-footer > :not(.share-box):not(#related-posts):not(.post-nav)
 purvanchal24.com##.post-footer > [dir="ltr"] img
 sahityarachana.com##.post-footer center
 probashirdiganta.com##.post-header .bg-e2e2e2
