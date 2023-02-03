@@ -1081,7 +1081,6 @@ arthasarokar.com##.adsspace
 andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,orthosongbad.com,sonalinews.com##.adv-img
-drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
 kanakaikhabar.com##.adv-wrapper
@@ -1421,7 +1420,6 @@ newspr.live##.dns-caption-below
 gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
 dailyajkershomoy.com##.down_social_display_ad
-drishtinews.com##.drishti-inner-ads
 subhayug.com##.ds-scroll-ads
 manabadi.co.in##.dsc-banners
 jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
@@ -2800,7 +2798,6 @@ news4himachal.com##.wp-image-8371
 hotnewsindia.com##.wp-image-87280
 hotnewsindia.com##.wp-image-87281
 ratopost.com##.wp-image-9728
-drishtinews.com##.wp-inner-ads
 nammabantwala.com##.wp-video
 atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
@@ -3478,7 +3475,7 @@ jubileepost.in##section ~ .e3lan
 samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
-aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,loktantrapost.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
+aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,loktantrapost.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 clickmandu.com,himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,sutranews.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
