@@ -3373,7 +3373,7 @@ khabreaajtaklive.com##img[alt*="ads"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
-dcnewsbd.com,news24bite.com##img[alt="Advertisement"]
+dcnewsbd.com##img[alt="Advertisement"]
 protidinerchitrobd.com##img[alt="Bex Bazar"]
 newspagebd.com##img[alt="Biggapon"]
 onlinemarg.com##img[alt="Header Ad"]
@@ -3447,6 +3447,7 @@ news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#.listview-story li:-abp-has(div[id^="mobileAd"])
 news18.com#?#div:-abp-has(> .myad)
+news24bite.com#?#figure:-abp-has(> figcaption:-abp-contains(Advertisement))
 newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
 newspoint24.com#?#div[id^="AS_O_"] > div:-abp-has(> div > div > span[name="adchoicehtml"])
