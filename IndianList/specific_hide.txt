@@ -1127,6 +1127,7 @@ kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
 bizmandu.com##.advertisement-inside-content
 khabardabali.com##.advertisement-primary
+newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
 primepunjab.com##.advertisement_above_footer
@@ -1723,6 +1724,7 @@ khulasaonline.com##.img-ad
 samacharplus.com##.img-add
 khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
+newsbrahmanbaria.com##.img-advertise
 cgmitan.com##.img-fluid.advt-right-img:not([src*="IMG_20201006_082333"])
 chhattisgarhtimes.com##.img-my-ad
 aapkikhabar.com##.imgOverlayAd
@@ -1977,7 +1979,6 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
-newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.ok-full-widht-adv
 onlinekhabar.com##.okam-ad-position-wrap
 onlinekhabar.com##.okam-each-ad
