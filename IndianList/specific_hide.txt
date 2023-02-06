@@ -1437,6 +1437,7 @@ dharuvu.com##.e3lan300_250-widget
 dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in,uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
+hmtvlive.com##.ed-first
 lanka4.com##.eds-link
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
@@ -1796,7 +1797,7 @@ jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
-haribhoomi.com,thejasnews.com,tv5news.in##.left_level_ad
+haribhoomi.com,hmtvlive.com,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
 heralokhabar.com##.list_ads1
@@ -2084,6 +2085,7 @@ dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
+hmtvlive.com##.right_level_2
 ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
 janwani.in##.rightbarhds
@@ -3500,6 +3502,8 @@ cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
 dainiklivenews24.com##section.widget_text:not(#text-2)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
+hmtvlive.com##section[class*="-ad-"]
+hmtvlive.com##section[class*="ad_after_"]
 muznews.online##section[data-id="9a0f91e"]
 bihardootnews.com##section[data-id="e3b7c3d"]
 chennaitodaynews.com##section[id^="id"]
