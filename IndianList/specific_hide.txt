@@ -2705,6 +2705,7 @@ jenerakhun.com##.widget_text .td-all-devices
 dastavej.in##.widget_text iframe
 thejoharnews.com##.widget_text iframe[title]
 prothomshomoy.com##.widget_text img
+anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
 khabareducation.com##.widget_text:not(#text-15)
