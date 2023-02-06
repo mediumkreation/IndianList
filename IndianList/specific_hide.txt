@@ -1934,7 +1934,7 @@ news13.in##.n13_home_adv5
 angultv.com,ausamachar.com,bihardainik.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,rashtrabodh.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,desherkhabor24.com,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,shabdshodh.com,updatetimes.com,uttarakhandcitynews.com##.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,desherkhabor24.com,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 navinsamachar.com##.navin-content_13
@@ -2561,6 +2561,7 @@ rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 khabarchalisa.com##.uris-slider-post-title
 newskranti.com##.utt_top
+uttarakhandcitynews.com##.uttar-widget
 vatsalyanews.com##.vatsa-middle
 kanakaikhabar.com##.vc_column-inner .wpb_gallery
 changetv.press##.vc_custom_1546328500609
