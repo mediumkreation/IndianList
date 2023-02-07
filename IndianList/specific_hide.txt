@@ -1132,7 +1132,7 @@ khabardabali.com##.advertisement-primary
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
-primepunjab.com##.advertisement_above_footer
+chhattisgarh.co,primepunjab.com##.advertisement_above_footer
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
