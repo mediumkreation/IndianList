@@ -2447,6 +2447,7 @@ seradesh.com##.textwidget
 bdcrime24.com##.textwidget > p img
 aashanews.com##.textwidget img
 thinkwithniche.in##.tg-addbox
+projonmonews24.com##.thads
 indiavisionmedia.com##.thd
 gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
