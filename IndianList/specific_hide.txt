@@ -592,6 +592,7 @@ youthexpress.in###secondaryright .widget_custom_html
 sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
+aajtak.in###shoppingWidget
 dakshinbharat.com,devpath.in,doonhorizon.in,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com###showAS_O_BEL_0
 just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,newsindialive.in,yazhnews.com###sidebar
@@ -949,6 +950,7 @@ newsatfirst.com,samadhannews.com##.add-banner
 khobor24ghonta.com##.add-bg-02
 aajkasach.in,jaianndata.com##.add-block
 vishvasnews.com##.add-box
+aajtak.in##.add-center-div
 dailygazipuronline.com##.add-high
 ekhansangbad.com,sambadsaradin.com##.add-image
 dainikagnipath.com##.add-img
@@ -2293,6 +2295,7 @@ punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 livehindustan.com##.story-listing:empty
 bankura24x7.com##.story_content > .image-and-caption-wrapper
+aajtak.in##.stoybday-ad
 dhadingpost.com##.str3
 247superfast.com,aajkaaditya.in,aajkalsamachar.com,aapkiaawaz.net,allindianews.me,amanyatralive.com,bastabbadi.com,bhadas36.com,bharatsamachartv.in,bhorvaibhav.com,bograsangbad.com,buxaruptodate.in,cgujala.in,charotarnoavaj.com,cinenxt.com,citysmartnews.com,dainikbhaskarup.com,damaulikhabar.com,daysbulletin24.com,desikhabar.in,devbhumijknews.in,divyadarpan.com,ehapuruday.com,gandakivoice.com,hamarahimachal.com,hindustanlivetoday.com,hnn24x7.com,idp24news.com,inn24news.in,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarbihar.in,khabarvani.com,lokswar.in,malayagam.lk,massnews.online,mediamangalam.com,mitanbhoomi.com,mpcgexpress.com,muvattupuzhanews.in,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,networktodaynews.com,newresultbd.com,news24you.com,newsd5.in,newslive24x7.com,newsnowbangla.com,newssow.com,newvavuniya.com,pataka24.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,qawmipost.com,raigarhtopnews.com,sarthakprayash.com,shrinaradmedia.com,sonprabhat.live,tcp24.news,tehelkaindia.com,thenationtimes.in,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,webmorcha.com,yugjagran.com##.stream-item
 mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
