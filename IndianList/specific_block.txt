@@ -1178,7 +1178,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dailyjanatarnews.com^*/123.png
 ||dailyjanatarnews.com^*/janani-new.gif
 ||dailyjanobani.com/fontend/image/Bashundhara
-||dailyjanobani.com/fontend/image/xad2.jpg
 ||dailyjournalbd.com/wp-content/uploads/2020/06/101981293_981338158951883_7703882786435418444_n-2.jpg
 ||dailyjuboraj.com/wp-content/uploads/2020/11/ads.jpg
 ||dailykaljoyi.com^*/web-banner-
@@ -1960,6 +1959,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||janjaagran.com/ws/JanjaagranCom/news/202107/WhatsApp_Image_2021-07-27_at_2_37_29_AM.jpeg
 ||janjaagran.com/ws/JanjaagranCom/news/202107/WhatsApp_Image_2021-07-27_at_2_39_05_AM.jpeg
 ||janjaagran.com/ws/JanjaagranCom/news/202111/q-2.JPG
+||janobani.com/fontend/addimage/
 ||janpravaslive.tv/wp-content/uploads/2017/12/c-lai.jpg
 ||janpravaslive.tv/wp-content/uploads/2017/12/heera-panna.jpg
 ||janpravaslive.tv/wp-content/uploads/2017/12/IMG-20171217-WA0044.jpg
