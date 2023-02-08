@@ -2075,6 +2075,7 @@ ap7am.com##.pvt-ads-column
 indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
 brightpost.in##.quads-ad-label
+yesnewsmarathi.com##.quads-location
 rajnitiprotidin.com##.qvzk
 nepalipatra.com,sulsule.com##.rd-ads
 thepublictoday.com##.rd-ads .wp-block-image
