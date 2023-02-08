@@ -896,6 +896,7 @@ news18.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
+nayabikalpa.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 emalayalee.com,pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
@@ -1942,6 +1943,7 @@ naturalnews.co.in##.natur-content
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 navinsamachar.com##.navin-content_13
+nayabikalpa.com##.naya-bikalpa-advertisement
 amraikhabor.com,chouranews.com,gambhirmudda.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
