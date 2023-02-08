@@ -2579,6 +2579,7 @@ dailyceylon.lk,malayalimanasu.com,slogannews.com,tatkalsamachar.com,thedeoriatim
 ctgnews.com##.vc_raw_html a[target="_blank"]
 postmanindia.in##.vc_raw_html iframe
 coastal-mirror.com##.vc_raw_html img
+worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 ibclive.in##.vc_sidebar .widget_custom_html
 amaderkhulna.net,netmalayalam.com##.vc_slide
 gionews.in##.vc_widget_sidebar
