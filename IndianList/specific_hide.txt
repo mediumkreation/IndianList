@@ -16,7 +16,7 @@ aapkiummid.com,balotranewstrack.com,dailyhealthletters.com,taazakhoj.com###HTML1
 balotranewstrack.com,thattungal.com###HTML16
 thattungal.com###HTML18
 obolokon24.com,spyviewnews.in###HTML19
-aapkimedia.com,banglarawaj.com,chilahatiweb.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
+aapkimedia.com,banglarawaj.com,chilahatiweb.com,kushiyaranews.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
 gossiplankanews.com,kasargodvartha.com###HTML20
 kasargodvartha.com###HTML21
@@ -25,7 +25,7 @@ ekumaon.com###HTML23
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
-36kaakda.in,battinews.com,cnblive.com,kanaighatnews.com,thattungal.com###HTML3
+36kaakda.in,battinews.com,cnblive.com,kanaighatnews.com,kushiyaranews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
 99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,eluvannews.com,kanaighatnews.com,malwalive.com,media24media.com,mithimedia.in,nbcbangla.com###HTML4
@@ -1963,7 +1963,6 @@ atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,clearnews.live,currentpo
 digiana.com##.news_scrol-bean
 newsdiary.live##.newsd-widget
 jharkhandvani.in##.newsever-widget .textwidget
-kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
 onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
