@@ -1561,6 +1561,7 @@ thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
+uthayamnews.com##.fn-block .size-large:not(.wp-image-64792)
 spnewsbd.com,uthayamnews.com##.fn-header-banner
 narmadanchal.com,usanewsonline.com##.fn-widget-image
 mymensinghpratidin.com##.font_widget_two
