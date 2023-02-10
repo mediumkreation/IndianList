@@ -187,7 +187,7 @@ anwesantv.wordpress.com###block-52
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,thenewswave.com,vindhya24news.com,viralfactsindia.com###block-6
 dgnews.co.in###block-69
 areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,thenewswave.com###block-7
-tamizhakam.com,wayanadnewsdaily.com###block-8
+naanmedia.in,tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
@@ -2111,7 +2111,7 @@ sathyamonline.com##.sAds
 prernanews.com##.sadv
 samaydarshan.in##.samay-after-content
 theindianstate.in##.sb-banner
-khabarchalisa.com,vijayapatha.in##.sb-widget-ad
+khabarchalisa.com,naanmedia.in,vijayapatha.in##.sb-widget-ad
 jaianndata.com##.scnd-add
 gramnagarbarta.com##.scrollable-slider
 thekeralapost.com##.sd-advert
