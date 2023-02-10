@@ -723,6 +723,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||biharnownews.com/wp-content/uploads/2022/10/IMG-20221018-WA0195-466x1024.jpg
 ||biharnownews.com/wp-content/uploads/2022/10/InShot_20221029_095312395-1024x1024.jpg
 ||biharnownews.com/wp-content/uploads/2022/11/InShot_20221104_173218804-1024x1024.jpg
+||biharnownews.com/wp-content/uploads/2022/12/InShot_20221205_074814450
+||biharnownews.com/wp-content/uploads/2023/01/InShot_20230116_120157566
+||biharnownews.com/wp-content/uploads/2023/01/InShot_20230123_161348809
+||biharnownews.com/wp-content/uploads/2023/02/InShot_20230202_175643997
 ||biharnownews.com^*/InShot_20200214_210207973-1024x552
 ||biharpatrika.in^*/rama_masala
 ||bijoybangla.news/wp-content/uploads/2021/05/1-1
@@ -1889,6 +1893,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||iportbd.com/ad/ad.jpg
 ||irinjalakuda.com^*/tally-ace-copy.jpg
 ||irinjalakuda.com^*/updated-copy.jpg
+||irinjalakudalive.com/wp-content/uploads/2023/01/hiroshi-motors-exchange-offer.jpg
 ||irinjalakudalive.com^*/inside_out_728.gif
 ||jabalpurdarpan.in^*/add-mandla.jpg
 ||jagobangla.tv/wp-content/uploads/2018/01/newspaper-rec777.jpg
@@ -4772,4 +4777,3 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||zoftcdn.com^*/blueocean.jpg
 ||zoftcdn.com^*/citysun.jpg
 ||zoftcdn.com^*/vesta.jpg
-||irinjalakudalive.com/wp-content/uploads/2023/01/hiroshi-motors-exchange-offer.jpg
