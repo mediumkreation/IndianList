@@ -2084,9 +2084,11 @@ news18.com##.pwa_add
 brightpost.in##.quads-ad-label
 yesnewsmarathi.com##.quads-location
 rajnitiprotidin.com##.qvzk
-nepalipatra.com,sulsule.com##.rd-ads
+hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
 thepublictoday.com##.rd-ads .wp-block-image
 jhilko.com##.rd-ads img:not(.wp-image-2735)
+hetaudakhabar.com##.rd-between-ads
+hetaudakhabar.com##.rd-bottom-popup
 vaaramanjari.lk##.region-banner
 anytechtune.com##.reseller-add
 thekeralapost.com##.rht-ad-position
