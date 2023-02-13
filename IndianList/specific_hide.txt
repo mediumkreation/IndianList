@@ -3138,6 +3138,7 @@ abnews24bd.com##div img[src^="ad/"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
 livehindustan.com##div.st-cat-news:empty
+rajkajlive.com##div.td-a-rec
 punjabguardian.com##div.widget_media_image:not(#media_image-12)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
