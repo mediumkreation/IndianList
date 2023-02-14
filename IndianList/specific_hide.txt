@@ -822,6 +822,7 @@ sonatalasangbad.com###wrapper-content .widget_text
 malwanews.com###youtube_responsive-10
 citynewsexpress.com##.-indx
 samayam.com##.ATF_300
+hetaudatoday.com##.Ad
 natunsomoy.net##.Ad-Section
 indurkanibarta.com##.Add
 deshergarjan.net##.Add img
@@ -1371,6 +1372,7 @@ newsworldweb.in##.container.frame
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
+hetaudatoday.com##.content-banner
 gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
@@ -1549,6 +1551,8 @@ lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 dakhal.net##.fadInleft_ads
 bbc24news.com,bholabani.com,chtmedia24.com##.featad
+hetaudatoday.com##.feature-ad
+hetaudatoday.com##.feature-bottom-ad
 sylhetprothidin24.com##.feature_category_section .header_ad_banner
 pchelpcenterbd.com##.featured-post-ads
 corporatenepal.com##.features-spaces
@@ -1600,7 +1604,7 @@ samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
-kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
+hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
 sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
@@ -2188,7 +2192,6 @@ cgsandesh.com##.sidebar-box.bg-aqua
 meddlingmedia.com##.sidebar-column
 khabarchalisa.com##.sidebar-inner .widget_custom_html
 janayugomonline.com##.sidebar-inside .widget_custom_html
-hetaudatoday.com##.sidebar-left-ad
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 ksdlivenews.com##.sidebar-widget .widget_media_image
@@ -2337,7 +2340,7 @@ apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
 bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
 timenewsbd.net##.stretched_link
 youthmukam.com##.su-image-carousel
-chhaharinetwork.com,hetaudatoday.com##.subhakamana-ad
+chhaharinetwork.com##.subhakamana-ad
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 notebook.today##.t-out-span
