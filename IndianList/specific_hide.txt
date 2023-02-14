@@ -1116,7 +1116,7 @@ janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 atalsamachar.com##.advertisRow > div ~ div
-bikashnews.com,redtimes.com.bd##.advertise
+bikashnews.com,dailysylheterdinkal.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
 drukpadam.com##.advertise-area
 margarekha.com##.advertise-border
