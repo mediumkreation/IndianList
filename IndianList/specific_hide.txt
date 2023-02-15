@@ -2094,7 +2094,7 @@ rajnitiprotidin.com##.qvzk
 hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
 thepublictoday.com##.rd-ads .wp-block-image
 jhilko.com##.rd-ads img:not(.wp-image-2735)
-hetaudakhabar.com##.rd-between-ads
+healthaawaj.com,hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
 vaaramanjari.lk##.region-banner
 anytechtune.com##.reseller-add
