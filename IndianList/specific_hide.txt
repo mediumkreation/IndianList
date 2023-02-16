@@ -481,7 +481,6 @@ cialive.in###myCarouselv
 bhilwarahalchal.com,kathmandupati.com###myModal
 ada.lk,lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
-thevoices.in###mycarousel-273
 payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
 dilersamachar.com###newmodal .modal-dialog
@@ -3565,6 +3564,7 @@ theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div a p:-abp-contains(
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
+thevoices.in#?#div:-abp-has(> .nbs-flexisel-container)
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
 todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
 tv20news.in#?#p:-abp-contains(Advertisement)
