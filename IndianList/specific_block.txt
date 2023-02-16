@@ -40,7 +40,7 @@
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
 -Banner.jpg|$domain=ottrancheithi.com|shamolbangla24.com
--banner.png|$domain=uniquepratidin.com
+-banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
 -Banner_$image,domain=bikashnews.com
 -bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
@@ -2154,6 +2154,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||khabarmandi.com/banner/
 ||khabarmuluk.com/wp-content/uploads/2021/08/hospital-e1629128039388.jpeg
 ||khabarpato.saviskarcdn.net/media/sda/
+||khabarpurwanchal.com/wp-content/uploads/2019/12/ad.jpg
 ||khabarsampresan.com/wp-content/uploads/2013/01/1-madan-mike-copy.png
 ||khabarsampresan.com/wp-content/uploads/2013/01/atul-subedi-copy.png
 ||khabarsampresan.com/wp-content/uploads/2018/10/44669949_350808199058623_2451470420914733056_n.jpg
