@@ -2917,6 +2917,7 @@ uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
 khabardabali.com##a[href*="/advertisement/"]
 uttranews.com##a[href*="/hayat/"]
+newsajako.com##a[href*="/newspaper-ads/"] img
 attachowk.com##a[href*="?advert="]
 somoynews.tv##a[href*="?ref="]
 yespunjab.com##a[href*="Amarinder-Madan-Lal-Dhingra-Ad-English"]
@@ -3074,7 +3075,9 @@ yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 sylheterjanapad.tv##a[target="_blank"] > img
 aarthiknews.com,abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
+newsajako.com##a[target="_blank"] img[src*=".gif"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
+newsajako.com##a[target="_blank"]:only-child img
 humsamvet.com##a[target="_new"]
 srujananedu.com##a[title="Sidebar ad-1"]
 aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
