@@ -1606,6 +1606,7 @@ samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
+biratkhabar.com##.full-with-add
 hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
 sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
@@ -3242,6 +3243,7 @@ dainikazadi.net,news14india.com,pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 thejoharnews.com##div[class^="thejo-"]
+biratkhabar.com##div[class^="top-sidebar-adv"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
