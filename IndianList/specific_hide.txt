@@ -2363,6 +2363,7 @@ nepalsamaya.com##.tc-side-ads
 sachetonbarta.com.bd##.td-a-rec .td-all-devices
 newstrendz.co.in##.td-a-rec iframe
 abhayindia.com,abhishektimes.in.net,annapurnatimes.com,bharathvaibhav.com,cinesamugam.com,creativenewsexpress.com,jaagonews.com,ktvprotidin.com,smnewshimachal.in,thegramtodaydailynews.com,ucchakontha.com,uttarakhandkhabar.in##.td-a-rec img
+vasundharadeep.news##.td-a-rec img:not([src*="Whatsapp-Strip-scaled-"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 dhunga.in,rantraibaar.in##.td-a-rec video
@@ -2405,7 +2406,7 @@ janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 prabhattimes.com##.td-post-content .aligncenter
 prabhattimes.com##.td-post-content .alignleft
 saamana.com##.td-post-content .code-block
-eaibanglai.com,hamdardtv.com,vasundharadeep.news##.td-post-content .td-a-rec
+eaibanglai.com,hamdardtv.com##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 keralabreaking.com##.td-post-content > p img
 uktez.com##.td-post-content > p>strong > img
@@ -2437,7 +2438,6 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-vasundharadeep.news##.td_block_separator ~ .td-a-rec
 hellobikaner.in,khabargujarat.com,lakfmnews.lk,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
