@@ -1536,9 +1536,7 @@ chhapratoday.com##.entry-the-content .code-block
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
 livehindustan.com##.epr-ads
-himalayapost.com##.et-waypoint
 azchavattomonline.com##.et_pb_ads_0
-himalayapost.com##.et_pb_code_8
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
 hpnewsatl.com##.et_pb_slider
@@ -1695,7 +1693,6 @@ nunworajasthan.co.in##.headerright
 nepaljapan.com##.headline_below_ad
 tirangaacindianews.com##.headnBx .text-right
 himachalmedia.co##.himac-widget
-himalayapost.com##.himal-content_3
 khabareducation.com##.hm-header-image
 brightpost.in,mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
@@ -2009,7 +2006,6 @@ ournewsbd.net##.onads
 arthoneeti.com##.one-1
 onlynews24.com##.onlyn-after-content
 apnapunjabmedia.com##.order-3 .mt-4
-himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
 247superfast.com,24x7cg.com,abhibharat.com,kelopravah.news,khabreaajtaklive.com,nawidunia.com,timesandspace.com##.owl-carousel
 todaypati.com##.page-content div[style*="float"]
 shirurtaluka.com##.pageadvt
@@ -3312,6 +3308,7 @@ eadarsha.com##div[id^="eadar-"]
 glimeindianews.in##div[id^="glime-"]
 apkhabar.com##div[id^="goji_yo"]
 himachalplus.com,himachalreport.com##div[id^="himac-"]
+himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
 khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
@@ -3393,6 +3390,7 @@ mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 khabor.com##header a[href*="/click-"]
+himalayapost.com#?#.post-wrap:-abp-has(> .otw-sidebar-vertical)
 lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
