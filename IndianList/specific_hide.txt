@@ -1975,7 +1975,7 @@ badaunexpress.com##.news-slider
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
-atnbanglaonline.tv,biswabanglanews.com,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 digiana.com##.news_scrol-bean
 newsdiary.live##.newsd-widget
 jharkhandvani.in##.newsever-widget .textwidget
@@ -2394,7 +2394,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
 dpcnews24.com##.td-header-template-wrap .td-a-rec
 prathamnews.in##.td-is-sticky .td-a-rec
-abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,ccnnews24.in,cgfrontline.com,rozanabhaskar.com,ttncinema.com##.td-main-content-wrap .td-a-rec
+abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,biswabanglanews.com,ccnnews24.in,cgfrontline.com,rozanabhaskar.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
@@ -2463,6 +2463,7 @@ devbhoomimedia.com##.tdi_25
 deshprahari.com##.tdi_348
 prasthutha.com##.tdi_76
 asomkhobor.com##.tdm-popup-modal
+biswabanglanews.com##.tdm-popup-modal-wrap
 annapurnatimes.com##.tdm_block
 trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
