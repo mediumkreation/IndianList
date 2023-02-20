@@ -982,7 +982,6 @@ dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 kulalworld.com##.add1
 dainikdishari.com##.add:not(.wp-image-3687)
-sangbad-gallery.com##.addAd
 bharatkiawaj24.com##.addBox
 liveindia.news##.addCenter
 karnatakamalla.com##.addDivR1
@@ -1595,7 +1594,6 @@ borendronews.com##.footer_logo
 adhorekhit.com##.footer_top_banner
 newspagebd.com##.forAdd
 professorsbd.com##.for_add
-sangbad-gallery.com##.four_advertisement
 banglanewsca.com##.front-page-ad
 mathagal.net##.ft-advert
 news18.com##.ftrad
@@ -1975,6 +1973,7 @@ badaunexpress.com##.news-slider
 payyolionline.in##.news-text-content p img
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
+sangbad-gallery.com##.news_left_part_ad
 atnbanglaonline.tv,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 digiana.com##.news_scrol-bean
 newsdiary.live##.newsd-widget
@@ -2245,6 +2244,7 @@ jamunanewsbd.com##.single_page .widget_area
 patheo24.com##.single_page .widget_area img
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
+sangbad-gallery.com##.single_page_bottom_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
 dailypunorutthan.com##.single_sidebar > a img
@@ -2578,7 +2578,6 @@ damstv.com##.tr-ad
 aapkiummid.com##.tr-caption-container
 24newspress.com,swapnilsansar.org##.tr_e3lan-widget
 onlinekhabar.com##.tribox-add
-sangbad-gallery.com##.two_advertisement
 polkholonline.com,vorerava24.com##.twp-ad
 speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
