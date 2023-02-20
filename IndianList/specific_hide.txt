@@ -1076,6 +1076,7 @@ lightnewsbd.com##.ads_first_p_disp
 divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
 newsnationtv.com##.adsense
+aajbangla.in##.adsense-inject
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
@@ -1277,8 +1278,8 @@ livekhagaria.in##.blocks-gallery-item
 akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
-bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,lokjannews.com,sangritimes.com,sirajganjexpress.com##.bn-lg
-aankhennews24.com,bharatvarshnews24.in,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
+aajbangla.in,bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,lokjannews.com,sangritimes.com,sirajganjexpress.com##.bn-lg
+aajbangla.in,aankhennews24.com,bharatvarshnews24.in,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
@@ -2197,6 +2198,7 @@ khabarchalisa.com##.sidebar-inner .widget_custom_html
 janayugomonline.com##.sidebar-inside .widget_custom_html
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
+aajbangla.in##.sidebar-widget
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
