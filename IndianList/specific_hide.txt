@@ -1599,6 +1599,7 @@ news18.com##.ftrad
 puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
+rastriyakhabar.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
@@ -2143,6 +2144,7 @@ cgujala.in##.sharedaddy ~ .code-block
 shrinaradmedia.com##.shrin-widget
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
+rastriyakhabar.com##.side-ads-wrapper
 gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
@@ -2227,7 +2229,7 @@ madhyabindu.com##.single-post-wrapper nav ~ img
 newssanjal.com##.single-sidebar .post-carousel-1
 sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
-nepalbritain.com##.single-wrapper-details-sidebar-ads
+nepalbritain.com,rastriyakhabar.com##.single-wrapper-details-sidebar-ads
 eimuhurte.com##.singleAds
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
