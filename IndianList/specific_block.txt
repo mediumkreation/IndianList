@@ -83,6 +83,7 @@
 /advertisement/*$domain=shasakprashasak.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
+/Advertizement/*$domain=biniyougbarta.com
 /advisment/*$domain=kopotakkhonews24.com
 /advrtseimg/*$domain=msprotidin.com
 /advs/*$domain=streetbuzz.co.in
@@ -807,7 +808,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||bikashnews.com^*/Utsab-Saving-Banner.jpg
 ||bikashnews.com^*/vinet-adv.gif
 ||bikashnews.com^*/visit-nepal-2020.jpg
-||biniyougbarta.com/wp-content/uploads/2020/12/Islami-Bank.jpg
 ||bishasangbad.com/wp-content/uploads/2021/05/11761255419551933506-1.jpg
 ||bishasangbad.com/wp-content/uploads/2021/05/5150172069964630920.gif
 ||bishwabarta.com^*/Pickle-Magazine
