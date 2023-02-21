@@ -893,7 +893,7 @@ awamileaguetimes.com##.ad-banner
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
-news18.com##.ad-container
+news18.com,saralpatrika.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
