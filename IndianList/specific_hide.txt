@@ -1425,7 +1425,7 @@ citynewsdhaka.com##.details-page-side-banner-2
 timeskerala.com##.dfx-pubadban
 ejanshakti.com##.dgw
 surabhisaloni.co.in##.dialog-widget
-biniyogbarta.com,biniyougbarta.com##.divAdvertisement
+biniyogbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
 prajavani.net##.dk_only
 thodkyaat.com##.dmp
@@ -2547,7 +2547,7 @@ vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
-bankbimaarthonity.com,biniyogbarta.com,biniyougbarta.com,doshdik.com##.top_add
+bankbimaarthonity.com,biniyogbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
 shomoynews.net##.top_ads_home
@@ -2559,7 +2559,7 @@ abnews24.com##.top_new_add
 bholabani.com,gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com,kulalworld.com##.topadd
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
-biniyogbarta.com,biniyougbarta.com##.topadmid
+biniyogbarta.com##.topadmid
 dhakatoday.com##.topadr
 nationaldetectivenews.com,ournewsbd.net##.topadrt
 cinema.dinamalar.com##.topadtxt160
