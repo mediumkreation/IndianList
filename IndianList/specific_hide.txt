@@ -1939,6 +1939,7 @@ sandhannews.com##.mtphr-dnt-widget
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
 aamsanchar.com##.my-2
+patrika.com##.my-4[style*="min-height"]
 news18.com##.my-ad-rhs
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
@@ -3307,6 +3308,7 @@ dolphintimes.in##div[id^="dolph-"]
 eadarsha.com##div[id^="eadar-"]
 glimeindianews.in##div[id^="glime-"]
 apkhabar.com##div[id^="goji_yo"]
+patrika.com##div[id^="gpt_ads_PNS_"]
 himachalplus.com,himachalreport.com##div[id^="himac-"]
 himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
