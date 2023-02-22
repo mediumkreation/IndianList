@@ -236,7 +236,7 @@ biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 chennairoyalcinema.com###custom-img-header
 biharnewslive.com###custom_html-1
-dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
+dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jaihindtimes.in,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 jugerbarta.online,metroplus.online,sonprabhat.live,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 sharebazarnews.com###custom_html-1291
@@ -268,11 +268,11 @@ gondwanaexpress.com,saakshatv.com###custom_html-39
 24timestoday.com,amanyatralive.com,apnahimachalapnishaan.in,hindirush.com,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabarwarrior.com,news127.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 gondwanaexpress.com###custom_html-40
 jaunpurlivenews.in###custom_html-43
-247superfast.com,asrilanka.com,bdcrictime.com,bharatsarathi.com,cglivenews.co.in,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
+247superfast.com,asrilanka.com,bdcrictime.com,bharatsarathi.com,cglivenews.co.in,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
 hindi-news-today.com###custom_html-51
-bidhannagartimes.com,bnanews24.com,cgctnews.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,f21news.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in,ujjwalduniya.com###custom_html-6
+bidhannagartimes.com,bnanews24.com,cgctnews.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,f21news.com,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in,ujjwalduniya.com###custom_html-6
 himachalabhiabhi.com###custom_html-68
-barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
+barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
 f21news.com,futurekerala.in,mynews36.com,newsuniversal.in,pradhanavartha.in,ujjwalduniya.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 pundrokotha.com.bd###descripton div[style*="url"]
