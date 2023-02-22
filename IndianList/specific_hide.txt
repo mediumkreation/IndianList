@@ -1610,7 +1610,7 @@ sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
 medianp.com##.fullwidth-header-ads-wrapper
-hotnewsindia.com##.fullwidthbanner-container
+dcnewsbd.com,hotnewsindia.com##.fullwidthbanner-container
 ctgpratidin.com##.fxozitmah
 damaulikhabar.com##.g-dyn
 cglivenews.co.in##.g-single
@@ -1936,6 +1936,7 @@ malayalamnewstimes.com##.momizat-video
 muglanikhabar.com##.more-bigyaapan
 bengaluruvartha.in##.ms-parent-id-1
 sandhannews.com##.mtphr-dnt-widget
+dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
 aamsanchar.com##.my-2
