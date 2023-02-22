@@ -3562,6 +3562,7 @@ spnewsbd.com#?#div:-abp-has(> p > ins.adsbygoogle)
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
+telugugateway.com#?#div:-abp-has(> ins.adsbygoogle)
 teluguglobal.com#?#div:-abp-has(> ins.adsbygoogle)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
