@@ -889,7 +889,7 @@ chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-awamileaguetimes.com##.ad-banner
+awaaz24x7.com,awamileaguetimes.com##.ad-banner
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
@@ -1270,7 +1270,6 @@ andhrabhoomi.net##.block-block:not(#block-block-13)
 dainikbhaskarup.com,khabarhikhabar.com,newj9.com,theguptchar.com,ujjawalprabhat.com##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 londonbdnews24.com##.block-right-bottom-ads
-awaaz24x7.com##.block-wrapper video
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 newsflash71.com##.block__2
 livekhagaria.in##.blocks-gallery-item
