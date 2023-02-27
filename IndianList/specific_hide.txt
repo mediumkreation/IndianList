@@ -896,7 +896,7 @@ news18.com,saralpatrika.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
-nayabikalpa.com##.ad-img
+nayabikalpa.com,newsroomme.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 emalayalee.com,pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
