@@ -1160,6 +1160,7 @@ biharnownews.com##.afw_ad
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
 anewsoffice.com,beanibazarview24.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+pravasidaily.com##.ai_widget:not(#ai_widget-3)
 punjabiakhbaar.ca##.aibwp_banner_widget
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
