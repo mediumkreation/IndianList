@@ -1309,7 +1309,7 @@ himachalnownews.com##.c_ad
 munaadi.com##.card-body > center > img
 aloavanews24.com,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
-editiontoday.in##.carouselbanner
+editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
