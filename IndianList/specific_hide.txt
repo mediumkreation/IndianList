@@ -1210,7 +1210,7 @@ ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
 khabarhub.com##.banner-widget
 rojanapunjab.com##.banner1
-jonotaradalot.com##.banner2
+jonotaradalot.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
@@ -2516,6 +2516,7 @@ lokbharat.in##.theiaStickySidebar aside.widget_text
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 firstbihar.com##.theiaStickySidebar iframe
 themangaloremirror.in##.thema-aien
+somoyerkontha.com##.themesBazar_widget > .textwidget
 entevarthakal.com##.third_section_ads
 sangalokhabar.com##.three-col-ads
 sangalokhabar.com##.three-col-ads-block
