@@ -2411,7 +2411,7 @@ janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 prabhattimes.com##.td-post-content .aligncenter
 prabhattimes.com##.td-post-content .alignleft
 saamana.com##.td-post-content .code-block
-eaibanglai.com,hamdardtv.com##.td-post-content .td-a-rec
+hamdardtv.com##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 keralabreaking.com##.td-post-content > p img
 uktez.com##.td-post-content > p>strong > img
