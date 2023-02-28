@@ -28,6 +28,7 @@
 -adv.$domain=brtnepal.com
 -adv.gif|$domain=bikashnews.com
 -advert.jpg|$domain=samakalam.com
+-ADVT.jpg|$domain=attingalvartha.com
 -Advt.png|$domain=centralindia.news
 -Agust-AD-$domain=indiapolkhol.in
 -bannar.jpg|$domain=kurigramlive.com
@@ -430,8 +431,10 @@ perfection-ias-upsc$domain=nextbihar.com
 ||atharvnews.com^*/jetsor
 ||athirvu.in^*/Bigg-Boss-Tamil-3-2019-1.png
 ||athirvu.in^*/tamiljournal.jpg
-||attingalvartha.com/wp-content/uploads/2022/06/eiJC0M067499-515x210.jpg
-||attingalvartha.com/wp-content/uploads/2022/11/IMG-20221115-WA0031
+||attingalvartha.com/wp-content/uploads/2023/01/side-bar-top-ad1-
+||attingalvartha.com^*/Klayan-
+||attingalvartha.com^*/October2020-ICLBANNER-AD.jpg
+||attingalvartha.com^*/Rajakumari-
 ||avadh24.in/mynewsadmin/img/add/
 ||avadhimag.com/wp-content/uploads/2020/08/manipal-ad-red.jpeg
 ||avadhimag.com/wp-content/uploads/2020/08/mgccas-ad.jpeg
