@@ -2127,7 +2127,6 @@ southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
 sathyamonline.com##.sAds
 prernanews.com##.sadv
-samaydarshan.in##.samay-after-content
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
 khabarchalisa.com,naanmedia.in,vijayapatha.in##.sb-widget-ad
@@ -3247,6 +3246,7 @@ parvatprerna.com##div[class^="parva-after-content"]
 patnapost.com##div[class^="patna-"]
 prothomalo.com##div[class^="row1-m__widget-available"]
 sajagpahad.com##div[class^="sajag-"]
+samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
 dainikazadi.net,news14india.com,pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
@@ -3529,7 +3529,6 @@ satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 jubileepost.in##section ~ .e3lan
-samaydarshan.in##section.samay-widget
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
 aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,loktantrapost.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
