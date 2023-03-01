@@ -27,6 +27,7 @@
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
 -adv.gif|$domain=bikashnews.com
+-adv.png$domain=todayexpressnews.com
 -advert.jpg|$domain=samakalam.com
 -ADVT.jpg|$domain=attingalvartha.com
 -Advt.png|$domain=centralindia.news
