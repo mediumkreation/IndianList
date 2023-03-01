@@ -2266,6 +2266,7 @@ ajkersylhet.com,dainiknarsingdi.com,teknaf71.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
 sancharkendra.com##.skada
 sancharkendra.com##.skadd
+nepalraftar.com##.skip-ads
 onlinedabali.com##.skpa
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
