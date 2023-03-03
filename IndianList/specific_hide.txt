@@ -1778,6 +1778,7 @@ bikashnews.com##.innercontainer a[target="_blank"] img
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
+setokhari.com##.insert-ad
 metrojournalonline.com,newzfast.com##.intes_fixed
 metrojournalonline.com,newzfast.com##.intes_fixed + div
 sathyamonline.com##.inven-before-content_6
