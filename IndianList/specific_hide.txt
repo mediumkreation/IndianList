@@ -2405,6 +2405,7 @@ abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,biswabanglanews.com,ccnnews
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com##.td-main-content-wrap .td_block_single_image
+newsfireonline.com##.td-main-content-wrap .widget_text
 egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
 vadakaravoice.com##.td-main-sidebar aside
