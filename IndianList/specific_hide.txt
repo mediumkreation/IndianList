@@ -2882,6 +2882,7 @@ boolokam.com,uttranews.com##.wpcnt
 news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
+aajkasamay.com##.ws-block-body > a[href=""]
 fastindianews.com##.ws_gestures
 bnnbharat.com##.xembgt
 news71bangla.tv##.yvdo
