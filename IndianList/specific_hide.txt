@@ -430,7 +430,7 @@ madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khaptadmalikanews.com,newsplus.lk,prajawani.in,rashtranayaknews.com,sasthabangla.com,starexpress.news,theblastkhabar.com,visfotnews.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
-dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabardinbhar.net,khabarok.com,odishalink.com,sanjeevanisamachar.com,starexpress.news,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com,vatankiawaz.in,visfotnews.com###media_image-9
+dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,hindustanheadlines.in,khabardinbhar.net,khabarok.com,odishalink.com,sanjeevanisamachar.com,starexpress.news,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com,vatankiawaz.in,visfotnews.com###media_image-9
 smj24.com###media_video-1
 dainikkhabarlayehain.com###media_video-13
 derbykhabar.com,divyalive.com###media_video-16
@@ -713,7 +713,7 @@ achhikhabar.com,himalini.com,live18h.com,tamizhdb.com,uniquesamay.com###text-30
 e-jaffna.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,uniquesamay.com###text-32
 satyamlive.com###text-33
-satyamlive.com###text-34
+hindustanheadlines.in,satyamlive.com###text-34
 satyamlive.com###text-35
 anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
@@ -1445,7 +1445,7 @@ alayadivembuweb.lk##.e3lan img
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,graminujala.com,laxminews24x7.com,news127.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,mithilacitynews.in,news127.com##.e3lan-post
-ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
+ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
 dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in,uluberiasambad.in##.eaa-ad
@@ -2784,6 +2784,7 @@ bebakuttarakhand.com##.wp-image-10530
 bebakuttarakhand.com##.wp-image-10531
 newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042
+hindustanheadlines.in##.wp-image-11223
 bebakuttarakhand.com##.wp-image-12119
 bebakuttarakhand.com##.wp-image-12125
 odishasambad.in##.wp-image-126002
