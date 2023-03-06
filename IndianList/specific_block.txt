@@ -16,6 +16,7 @@
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|filmyfanda.com|samarneetinews.com|shomoynews.net
 -add.gif|$domain=abcnepal.tv|amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
+-add.jpg|*$domain=ratdinnews.net
 -add.png|$domain=abcnepal.tv|kalaroanews.com|osnepal.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
@@ -3520,6 +3521,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||rashtriyajudgement.com^*/muskanad.jpg
 ||rastrasamvad.com/wp-content/uploads/2019/02/Saipoly-clinic-copy-web.jpg
 ||rastrasamvad.com/wp-content/uploads/2019/10/footer-add.jpg
+||ratdinnews.net^*/add-
 ||ratopanda.com^$third-party,domain=hamrakura.com
 ||ratopanda.com^render?$third-party
 ||ratopati.prixa.net/media/1140-130_2.gif
