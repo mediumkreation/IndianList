@@ -101,7 +101,7 @@
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=aankhennews24.com|bhavtarini.com|dailykaratoa.com|encounterindia.in|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|pickthekhoj.in|polkholindia.com|purvikranti.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
-/can//cde/*$domain=aapninews.in|cityandolan.com|cricketkhabara.com|crimecapital.in|dakshinbharat.com|dalhousiehulchul.com|devpath.in|doonhorizon.in|heraldspot.com|indiatimesgroup.com|jansandeshonline.com|k9media.live|keralaonlinenews.com|keralavoter.com|livevns.news|metrojournalonline.com|mirrortoday.in|newshaat.com|newspoint24.com|newzfast.com|odiagossip.com|realitynews.in|rewanewsmedia.com|rochakkhabare.com|saharasamachar.com|samayduniya.com|thedesiawaaz.com|theexpose.in|theonlinepost.in|upuklive.com|utkalpratidin.com|woneminute.com
+/can//cde/*$domain=aapninews.in|cityandolan.com|cricketkhabara.com|crimecapital.in|dakshinbharat.com|dalhousiehulchul.com|devpath.in|doonhorizon.in|heraldspot.com|indiatimesgroup.com|jansandeshonline.com|k9media.live|keralaonlinenews.com|keralavoter.com|livevns.news|metrojournalonline.com|mirrortoday.in|newshaat.com|newspoint24.com|newzfast.com|odiagossip.com|realitynews.in|rewanewsmedia.com|rochakkhabare.com|saharasamachar.com|samayduniya.com|thedesiawaaz.com|theexpose.in|theonlinepost.in|toptamilnews.com|upuklive.com|utkalpratidin.com|woneminute.com
 /mbl-$image,domain=ppbd.news
 /new-banner$domain=khabronsekhabar.com
 /offers/*$image,domain=priyo.com

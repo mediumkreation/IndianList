@@ -591,7 +591,7 @@ sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
-dakshinbharat.com,devpath.in,doonhorizon.in,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com###showAS_O_BEL_0
+dakshinbharat.com,devpath.in,doonhorizon.in,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,toptamilnews.com###showAS_O_BEL_0
 just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -3295,7 +3295,8 @@ indiatimesgroup.com##div[id^="AS_O_LHS_"] > div:nth-child(n+4)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
 realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
 rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+6)
-newzfast.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
+newzfast.com,toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
+toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(n+16)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
 devpath.in##div[id^="AS_O_RHS_"] > div:nth-child(n+4)
