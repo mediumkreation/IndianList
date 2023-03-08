@@ -1338,7 +1338,7 @@ delhibulletin.in,newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kannadi.news##.code-block-15 div:nth-child(3)
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
-lankasudar.com,thebiharnews.com##.code-block-6
+bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com##.code-block-8
 jogindernagar.com,newstodayjharkhand.com##.code-block-9
 newsbindass.com##.code-block:not(.code-block-1)
