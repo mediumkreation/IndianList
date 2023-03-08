@@ -1113,7 +1113,6 @@ khabrainabhitak.org##.adver_banner
 ada.lk,divyahimachal.com,everesttimesnews.com,manithan.com,samvaad365.com,tamilan24.com##.advert
 mzamin.com##.advert-cor
 ada.lk##.advert-single
-indiakhabar.co.in##.advert-widget
 nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
@@ -1651,7 +1650,6 @@ bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
-indiakhabar.co.in##.header-advert-area
 pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
 anbnews24.com,anewsoffice.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,medianow.in,namastepurvanchal.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
@@ -3478,6 +3476,7 @@ reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
 wijeya.lk##img[target]
 kasargodvartha.com##img[title="wellfitindia"]
+indiakhabar.co.in#?#div:-abp-has(> .section-title > h4:-abp-contains(ADVERTISEMENT))
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertise))
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google Ad))
