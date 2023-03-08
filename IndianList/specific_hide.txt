@@ -161,6 +161,7 @@ asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 khabardarinews.com,samrudhaodisha.com###block-15
 telugumalli.com###block-16
 samrudhaodisha.com,telugumalli.com###block-17
+24hrnews.in###block-178
 samrudhaodisha.com###block-18
 viewpointjharkhand.com###block-19
 bansalnews.com,bulandsoch.com,hamdardtv.com,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,thedastak24.com###block-2
@@ -301,6 +302,7 @@ dishadaily.com###full_level_1_detail
 uttareralo24.com###gallery-1
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
+24hrnews.in###h-ajfashion
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
 chattolarkhabor.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
@@ -2680,7 +2682,7 @@ amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
 malayaleepathram.com.au##.widget_black_studio_tinymce img
 avikaluttarakhand.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
-24hrnews.in,dailyfaridpurkantho.com##.widget_block img
+dailyfaridpurkantho.com##.widget_block img
 update24.net##.widget_block img:not([src*="stop-war.jpg"])
 agrtanews.com##.widget_block:not(#block-2)
 uttarakhandsamachar.com##.widget_block:not(#block-26)
@@ -2767,6 +2769,7 @@ khabarhikhabar.com,surgujasamay.com##.wonderplugincarousel-container
 cityhalchal.com,fbdnews.com##.wonderpluginslider
 amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com##.wonderpluginslider-container
 lotpot.com##.wow
+24hrnews.in##.wp-block-embed-youtube
 lalitpurkhabar.com##.wp-block-gallery
 dristyprotidin.com##.wp-block-gallery-3
 ghaziabad365.com,royalnews13.in##.wp-block-group
