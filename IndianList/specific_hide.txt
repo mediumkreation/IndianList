@@ -251,7 +251,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,hdhrm.com,hindustan18.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hastakshep.com,hdhrm.com,hindustan18.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,news127.com,newschutney.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -2293,6 +2293,7 @@ inews.zoombangla.com,kanakaionline.com,kannadanewsnow.com##.smartmag-widget-code
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 dinajpurnews24.com##.software
+groundzeroenews.co.in##.soliloquy-container
 kaumudiplus.com##.sp-ad-row
 laatsaab.com##.sp_simple_youtube
 alorkantho24.news##.spad
