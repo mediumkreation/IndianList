@@ -3166,6 +3166,7 @@ cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h
 countrynewstoday.com#?#center:-abp-has(img[src*="/RO_NO"])
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
+dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
 dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
