@@ -472,7 +472,7 @@ gnewsindia.com###moneywiz_widget
 aapkiummid.com###ms-admananger a:not([imageanchor]) img:not([src*="qr-code"])
 uttrakhandtoday.com###mvp-ad-rel-wrap
 uttrakhandtoday.com###mvp-head-top
-cinemapettai.com,lankac.news###mvp-leader-wrap
+balliakhabar.com,cinemapettai.com,lankac.news###mvp-leader-wrap
 channelindia.news###mvp-side-wrap .widget_media_image
 unikannada.com###mvp-site-wall
 samwadbundelkhand.com###myCarouse2
