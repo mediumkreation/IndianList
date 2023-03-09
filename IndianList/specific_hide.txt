@@ -3105,6 +3105,8 @@ newsajako.com##a[target="_blank"]:only-child img
 humsamvet.com##a[target="_new"]
 srujananedu.com##a[title="Sidebar ad-1"]
 aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
+aajbikel.com#?#div.colombiaonesuccess div:-abp-has(> div > div > a>div > p)
+aajbikel.com#?#div.colombiaonesuccess div:-abp-has(> div > div > a>h2 + h4)
 aapkikhabar.com#?#[id^="custom"]:-abp-has(> a:-abp-contains(Government Ad))
 aapkikhabar.com#?#div[id^="AS_O_"] div:-abp-has(> div > div > a> div h5:-abp-contains(Ad |) )
 aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
