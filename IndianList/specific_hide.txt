@@ -1,6 +1,8 @@
 livebihar24news.com###AD_FLOAT
 eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id
+jhabuanews.in###FloatAdx-left
+jhabuanews.in###FloatAdx-right
 arerajdarshan.com###FullWidthWidget-Top
 metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
