@@ -692,7 +692,7 @@ apnapradesh24x7.com###text-11 iframe
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,hindustanlivetoday.com,irinjalakudalive.com,janakhabar.com,newsi.in,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,voiceofshatabdi.com,vyavasthadarpan.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,mpbreaking.in,news24x365.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,news24x365.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,janvadtimes.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,manvadhikartimes.com,meherpurpratidin.com###text-16
@@ -751,6 +751,7 @@ hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 indiawarta.com###text-8 iframe
 sharebazarnews.com###text-882
 bograsangbad.com,divyalive.com,himalayauk.org,himshimlalive.com,jagprerna.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
+mpbreaking.in###text-9 iframe
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 bharatsamachartv.in###text-html-widget-14
