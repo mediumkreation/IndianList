@@ -156,9 +156,9 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,mycitydilse.com,paridarshaka.com,thenewsmirchi.com###block-10
 sirsonews24.com###block-100
-magahinews.com,paridarshaka.com###block-11
+aajkijandhara.com,magahinews.com,paridarshaka.com###block-11
 asomkhobor.com,paryavaranpost.com###block-12
-nwnews24.com###block-13
+aajkijandhara.com,nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 khabardarinews.com,samrudhaodisha.com###block-15
 telugumalli.com###block-16
@@ -1459,6 +1459,7 @@ hmtvlive.com##.ed-first
 lanka4.com##.eds-link
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
+aajkijandhara.com##.elementor-col-33 .elementor-section
 nikharanews.in##.elementor-element .size-large
 namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
