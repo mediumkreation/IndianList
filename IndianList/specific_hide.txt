@@ -160,6 +160,7 @@ aajkijandhara.com,magahinews.com,paridarshaka.com###block-11
 asomkhobor.com,paryavaranpost.com###block-12
 aajkijandhara.com,nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
+peptechtime.com###block-142
 khabardarinews.com,samrudhaodisha.com###block-15
 telugumalli.com###block-16
 samrudhaodisha.com,telugumalli.com###block-17
@@ -416,7 +417,7 @@ delhibulletin.in###media_image-39
 aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainiklumbini.com,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,otvnepal.com,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
 myagdinews.com,sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
-khabarpahad.com,nationaltodaylive.com,sabkasandesh.com###media_image-42
+khabarpahad.com,nationaltodaylive.com,peptechtime.com,sabkasandesh.com###media_image-42
 sabkasandesh.com###media_image-43
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
