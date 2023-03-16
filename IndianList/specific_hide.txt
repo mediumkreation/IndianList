@@ -2329,7 +2329,7 @@ tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
 chitwanpress.com##.stickey-side .ad-title ~ a
 cityhotnews.com,janaagaj.in,primestv.in##.sticky-sidebar .widget_block
-hindinews24daily.com,newszon.in##.sticky-sidebar .widget_custom_html
+hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
@@ -2695,6 +2695,7 @@ malayaleepathram.com.au##.widget_black_studio_tinymce img
 avikaluttarakhand.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 update24.net##.widget_block img:not([src*="stop-war.jpg"])
+newszon.in##.widget_block:not(#block-10)
 agrtanews.com##.widget_block:not(#block-2)
 uttarakhandsamachar.com##.widget_block:not(#block-26)
 channeltoday.net##.widget_block:not(#block-3)
@@ -3576,7 +3577,7 @@ dainikbharat24.com##section.widget_block
 bidrohee.com,drukpadam.com,uttarkal.com##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
-britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,newszon.in,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
+britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,pokharaexpress.com,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,speednewskannada.com,thehillsofmussoorie.com,thethinkmedia.com,udaydarpan.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
