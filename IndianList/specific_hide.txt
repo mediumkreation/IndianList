@@ -728,7 +728,7 @@ anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
 anaicoddai.com,uniquesamay.com###text-38
 himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,desherkhabor24.com,ekhabar.in,ghazipurkhabar.co.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,newswatch.co.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,sabjanta.info,shomoynews.com,shreekanchanpath.com,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,desherkhabor24.com,ekhabar.in,ghazipurkhabar.co.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,newswatch.co.in,orthosongbad.com,punjabbaani.com,sabjanta.info,shomoynews.com,shreekanchanpath.com,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
 himalini.com###text-40
 uniquesamay.com###text-42
 uniquesamay.com###text-43
@@ -737,7 +737,7 @@ careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 achhikhabar.com,mbmnewsnetwork.com###text-48
 achhikhabar.com,udaydarpan.com###text-49
-biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,najarianews.in,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tamizhdb.com,thesingoritimes.com,tnilive.com###text-5
+biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,najarianews.in,navsancharsamachar.com,news85.in,orthosongbad.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tamizhdb.com,thesingoritimes.com,tnilive.com###text-5
 achhikhabar.com,mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 udaydarpan.com###text-51
 anaicoddai.com,mbmnewsnetwork.com,recentnepal.com###text-52
@@ -930,7 +930,6 @@ khabarpurwanchal.com##.adBoxLong
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
 odhikar.news##.adSlides
-padmatimes24.com##.ad_10
 dcnepal.com##.ad__space
 lifeglint.com##.ad_bottom_lip
 news18.com##.ad_cntainer
@@ -1084,6 +1083,7 @@ lightnewsbd.com##.ads_bottom_disp
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 telugu.greatandhra.com##.ads_css_title
 lightnewsbd.com##.ads_first_p_disp
+padmatimes24.com##.ads_fix
 divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
 newsnationtv.com##.adsense
