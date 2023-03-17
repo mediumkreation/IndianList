@@ -1858,6 +1858,7 @@ doolnews.com##.long_adv_area
 bholabani.com##.longad
 newsdoor.net##.lrads
 71sangbad.com##.m_none > a[target="_blank"]
+themenews24.com##.mag-adver-part
 odia-ray.in##.main .bannergroup
 dhadingupdate.com##.main-1
 newsfirst.lk##.main-ad-half
