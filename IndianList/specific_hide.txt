@@ -2368,6 +2368,7 @@ apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
 bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
 timenewsbd.net##.stretched_link
 youthmukam.com##.su-image-carousel
+nellaionline.net##.sub_new:not(.sss)
 chhaharinetwork.com##.subhakamana-ad
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
