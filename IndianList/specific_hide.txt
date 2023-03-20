@@ -913,6 +913,7 @@ dinajpurtv.com##.ad-part
 koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
+bangladesherkhabor.net##.ad-sm
 news24bd.tv##.ad-ticker-right
 officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
@@ -1062,6 +1063,7 @@ nepalmanch.com##.ads img:not(.wp-image-72119)
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 newscircle.in##.ads-2018
 iamgujarat.com,samayam.com##.ads-between-story
+bangladesherkhabor.net##.ads-center-mt
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
 madhyakesari.com##.ads-iframe
@@ -1630,6 +1632,7 @@ ctgpratidin.com##.fxozitmah
 damaulikhabar.com##.g-dyn
 cglivenews.co.in##.g-single
 trttamilolli.com##.galboxcontainer
+bangladesherkhabor.net##.gallery
 dainikdeshersathe.com##.gallery_section
 dcnepal.com,merofilm.com,nepalpress.com##.gam-ad-position-wrap
 emailkhabar.com,nawalpurtimes.com,nepalpress.com##.gam-each-ad
@@ -1657,7 +1660,7 @@ alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 bdcrimenews.com##.header .pull-right
 newsdnntv.com##.header--ad
-apnarajya.com##.header-ad-section
+apnarajya.com,bangladesherkhabor.net##.header-ad-section
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
