@@ -1321,7 +1321,7 @@ cgjanadesh.com##.bwp_gallery_slideshow
 dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 munaadi.com##.card-body > center > img
-aloavanews24.com,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
+aloavanews24.com,cgwebnews.in,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
