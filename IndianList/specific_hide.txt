@@ -2036,7 +2036,6 @@ corporatenepal.com##.para-3-ad
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
 parvatprerna.com##.parva-widget
-khabarpurwanchal.com##.pb-2
 dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
@@ -3281,7 +3280,7 @@ sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
-dainikazadi.net,news14india.com,pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
+dainikazadi.net,khabarpurwanchal.com,news14india.com,pcbtoday.in,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 thejoharnews.com##div[class^="thejo-"]
