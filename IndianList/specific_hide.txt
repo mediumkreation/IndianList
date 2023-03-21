@@ -3547,6 +3547,7 @@ news24bite.com#?#figure:-abp-has(> figcaption:-abp-contains(Advertisement))
 newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
 newspoint24.com#?#div[id^="AS_O_"] > div:-abp-has(> div > div > span[name="adchoicehtml"])
+onstimes.com#?#div.row: abp-has(> .col-md12 > .margin-top > img.attachment-full)
 overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
 horizonhind.com##p[class="fontBold"]
 pardaphashnews.live#?#.sidebar-widget:-abp-has(> .widget-body > p> img:only-child)
