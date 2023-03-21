@@ -142,6 +142,7 @@ dhaka18.com###awaken_video_widget-4
 ntvtelugu.com###awt-left
 dinamina.lk,ilamai.com,sitakundabarta.com,upayuktha.com###banner
 devbhoomidarshan17.com###banner-10
+ekattor.tv###banner0
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
@@ -1052,7 +1053,7 @@ uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
 alivenews.co.in,suddikanaja.com##.adredux
-anusandhan24.com,arthadabali.com,ashakakiran.com,baglungpost.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,chapainews.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,ideatvnews.com,indrenisamaj.com,inextlive.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kaligandakikhabar.com,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,newsbihani.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
+anusandhan24.com,arthadabali.com,ashakakiran.com,baglungpost.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,chapainews.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,ekattor.tv,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,ideatvnews.com,indrenisamaj.com,inextlive.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kaligandakikhabar.com,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,newsbihani.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
 sunaulonepal.com##.ads .widget_media_image > img
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
