@@ -1565,7 +1565,6 @@ enlightnews.com##.extra_ad
 parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
-onnodristy.com##.facebook_title + .video
 dakhal.net##.fadInleft_ads
 bbc24news.com,bholabani.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
