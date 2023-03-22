@@ -1227,6 +1227,7 @@ khabarhub.com##.banner-widget
 rojanapunjab.com##.banner1
 jonotaradalot.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
+kalyugkatehelka.com##.bannerListWidget
 rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
@@ -1409,7 +1410,7 @@ internationalmalayaly.com##.cscra-promotion > img
 internationalmalayaly.com##.cscra-promotion a:not([href*="internationalmalayaly.com"])
 internationalmalayaly.com##.cscra-promotion:empty
 sylhetview24.news##.custom-ads-row
-roorkeehub.com##.custom-banners-cycle-slideshow
+kalyugkatehelka.com,roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
 durnityreport24.com,kositimes.com,seradesh.com,vijayapatha.in##.custom-html-widget
@@ -2808,6 +2809,7 @@ bebakuttarakhand.com##.wp-image-10530
 bebakuttarakhand.com##.wp-image-10531
 newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042
+kalyugkatehelka.com##.wp-image-1118
 hindustanheadlines.in##.wp-image-11223
 bebakuttarakhand.com##.wp-image-12119
 bebakuttarakhand.com##.wp-image-12125
