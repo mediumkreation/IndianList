@@ -2403,6 +2403,7 @@ cgfrontline.com,newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,arthosuchak.com,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,news1today.in,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 indianewsharyana.com,khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
+guruvayooronline.com##.td-a-rec:not(.tdi_105)
 dainikjanwani.com##.td-a-rec:not(.tdi_274)
 rashtravadinews.in##.td-a-rec:not(.tdi_35):not(.tdi_54)
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
@@ -2488,6 +2489,7 @@ tejastoday.com##.tdb_single_content h1 a img
 newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 newsgil.in,tejastoday.com##.tdb_single_content p img
 khaboronline.com##.tdc-element-style
+guruvayooronline.com##.tdi_118
 samugammedia.com##.tdi_153
 devbhoomimedia.com##.tdi_25
 deshprahari.com##.tdi_348
