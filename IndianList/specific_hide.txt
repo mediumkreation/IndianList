@@ -2390,7 +2390,6 @@ newstrendz.co.in##.td-a-rec iframe
 abhayindia.com,abhishektimes.in.net,annapurnatimes.com,bharathvaibhav.com,cinesamugam.com,creativenewsexpress.com,jaagonews.com,ktvprotidin.com,smnewshimachal.in,thegramtodaydailynews.com,ucchakontha.com,uttarakhandkhabar.in##.td-a-rec img
 vasundharadeep.news##.td-a-rec img:not([src*="Whatsapp-Strip-scaled-"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
-dainikhindmitra.com##.td-a-rec img:not([src*="pic-4.jpg"])
 boleindia.in##.td-a-rec img[alt="Google search engine"]
 dhunga.in,rantraibaar.in##.td-a-rec video
 eaibanglai.com,impact24news.com,politalks.news,shadhinalo.com,uktez.com##.td-a-rec-id-content_bottom
@@ -2405,6 +2404,7 @@ indianewsharyana.com,khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
 guruvayooronline.com##.td-a-rec:not(.tdi_105)
 dainikjanwani.com##.td-a-rec:not(.tdi_274)
 rashtravadinews.in##.td-a-rec:not(.tdi_35):not(.tdi_54)
+dainikhindmitra.com##.td-a-rec:not([class*="tdi_127_"])
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
 nayabangla.com,politics.lk,southlive.in##.td-banner-bg
@@ -2458,7 +2458,8 @@ chanakyanewz.com##.td-ss-main-sidebar .td-g-rec
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
 torrongonews.com,vartavani.com##.td-ss-main-sidebar .widget_block
 hugujarati.in,khabarbhatapara.in,newsofmithila.in,odiapua.com,sarthaksamay.com,shadhinalo.com,trendingnewsindia.in,ucchakontha.com##.td-ss-main-sidebar .widget_custom_html
-akkbd.com,brajeshkibaat.com,chandaulisamachar.com,dainikbharatbhaskar.com,dainikhindmitra.com,keralabreaking.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
+dainikhindmitra.com##.td-ss-main-sidebar .widget_media_gallery
+akkbd.com,brajeshkibaat.com,chandaulisamachar.com,dainikbharatbhaskar.com,keralabreaking.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
 galaxyinformer.com,krantimission.com,newsdna.co.in,uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 industrialpunch.com##.td-ss-main-sidebar .widget_metaslider_widget
 saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
