@@ -1942,6 +1942,7 @@ manoramanews.com##.mm-banner300-ad
 manoramanews.com,manoramaonline.com##.mm-other-ad
 manoramaonline.com##.mm-textlink-ad
 manoramaonline.com#@#.mmads
+unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
 bhilwarahalchal.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
