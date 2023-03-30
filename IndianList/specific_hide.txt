@@ -1581,7 +1581,7 @@ sathyamonline.com##.fl-im-container
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
-dainik4media.com##.flexslider
+arohitodaynews.com,dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
@@ -3087,6 +3087,7 @@ sharebiz.net##a[href*="target="]
 beforeprint.in,ourmyliddy.com##a[href*="tel:"]
 eelamalar.com##a[href*="thesakkatru.com"]
 lakshyatak.in,samachardoot.in,wehindustan.com##a[href*="traffictail.com"]
+arohitodaynews.com##a[href*="traffictail.com"] img
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 sajagindia.com##a[href*="uihmt.com"]
