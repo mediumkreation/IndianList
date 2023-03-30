@@ -3179,6 +3179,7 @@ bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 asr24.news#?#.card:-abp-has(> .card-header:-abp-contains(Advertisment))
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
 bdcrime24.com#?#.textwidget:-abp-has(.adsbygoogle)
+bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(MIsource))
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(Prasadam))
 bhaskar.com#?#div:-abp-has(> div[id^="Ad--"])
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
