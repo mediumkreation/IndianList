@@ -272,6 +272,7 @@ tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 thedastak24.com###custom_html-31
 jaihindustannews.com###custom_html-34
+indiatv360.com###custom_html-36
 gondwanaexpress.com,saakshatv.com###custom_html-39
 24timestoday.com,amanyatralive.com,apnahimachalapnishaan.in,hindirush.com,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabarwarrior.com,news127.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 gondwanaexpress.com###custom_html-40
