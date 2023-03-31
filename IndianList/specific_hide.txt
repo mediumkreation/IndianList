@@ -2720,7 +2720,7 @@ dainandini.in##.widget_block:not(#block-5):not(#block-6)
 sabkasandesh.com##.widget_block:not(#block-6)
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,quicklinenews.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
+6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,quicklinenews.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
 asrilanka.com##.widget_custom_html.panel-first-child
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
@@ -2954,6 +2954,7 @@ thestellarnews.com##[id^="thest-"]
 sunnews24x7.com##a .adv-vload
 canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##a.d-flex
 adiyakkamangalam.com##a.external
+tamilthisai.com##a.in-cell-link
 emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
 firstlookbihar.in##a.sideAdd
