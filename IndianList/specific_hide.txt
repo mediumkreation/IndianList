@@ -140,6 +140,7 @@ ntvtelugu.com###awt-left
 dailypunorutthan.com###backgroundad
 dinamina.lk,ilamai.com,sitakundabarta.com,upayuktha.com###banner
 devbhoomidarshan17.com###banner-10
+dhakapost.com###banner-ad-top
 ekattor.tv###banner0
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
@@ -1143,7 +1144,7 @@ news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 bonikbarta.net,jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dhakapost.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
@@ -2116,6 +2117,7 @@ news18.com##.pwa_add
 brightpost.in##.quads-ad-label
 yesnewsmarathi.com##.quads-location
 rajnitiprotidin.com##.qvzk
+dhakapost.com##.ramadan-box
 hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
 thepublictoday.com##.rd-ads .wp-block-image
 jhilko.com##.rd-ads img:not(.wp-image-2735)
