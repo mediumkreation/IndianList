@@ -2119,7 +2119,6 @@ yesnewsmarathi.com##.quads-location
 rajnitiprotidin.com##.qvzk
 dhakapost.com##.ramadan-box
 hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
-thepublictoday.com##.rd-ads .wp-block-image
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 healthaawaj.com,hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
@@ -3439,6 +3438,7 @@ etamilnews.com#?#div:-abp-has(> .section-title > h4:-abp-contains(Advertisement)
 fashionnewsera.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
+thepublictoday.com##figure .widget-image-caption
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
