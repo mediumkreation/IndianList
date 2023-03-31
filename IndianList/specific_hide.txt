@@ -111,10 +111,7 @@ chakarianews.com###akismet_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,jagran.com,punjabijagran.com###aniview
 padmatimes24.com###aside #sidebar
-fmnews24.com###attachment_10392
-fmnews24.com###attachment_10590
 up80.online###attachment_10957
-fmnews24.com###attachment_11003
 up80.online###attachment_11499
 up80.online###attachment_11653
 up80.online###attachment_12010
@@ -2068,6 +2065,7 @@ thenewsqube.com##.pos
 dailydhaka24.com##.pos-index img
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
+fmnews24.com##.post figure[id]
 nayasabera.com##.post-body .tr-caption-container
 web.nawadalive.com##.post-body > span img
 jaunpurlive.com##.post-content .tr-caption-container
