@@ -137,6 +137,7 @@ kahalenews.com###attachment_44092
 massnews.online###author-bio-widget-1
 dhaka18.com###awaken_video_widget-4
 ntvtelugu.com###awt-left
+dailypunorutthan.com###backgroundad
 dinamina.lk,ilamai.com,sitakundabarta.com,upayuktha.com###banner
 devbhoomidarshan17.com###banner-10
 ekattor.tv###banner0
@@ -642,7 +643,7 @@ abtaknews.com,asalbaat.co.in,pradeepamonline.com###sidebar1
 hadapsarexpress.com###sidebar1 .widget.HTML:not(#HTML6)
 asalbaat.co.in,nknewsindia.com###sidebar2
 siyasatdarpan.com###sidebar2 .widget.Image
-daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
+dailypunorutthan.com,daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 kulalaworld.com###simpleimage-13
 kulalworld.com###simpleimage-14
 kulalworld.com###simpleimage-26
@@ -671,6 +672,7 @@ globenepal.com###square-close .front
 sanskardarshan.in###sticky-wrapper
 indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
 lokaantar.com###stickyAdBottom
+dailypunorutthan.com###stickyadd
 webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
 navakeralanews.com,tismedia.in###stream-item-widget-12
@@ -2271,7 +2273,6 @@ songkalpo.net##.single_page_ad
 sangbad-gallery.com##.single_page_bottom_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
-dailypunorutthan.com##.single_sidebar > a img
 uttareralo24.com##.singlepage-section .add
 fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
