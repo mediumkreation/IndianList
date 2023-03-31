@@ -2774,6 +2774,7 @@ tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com,purbelinews.com##.widget_sp_image
+dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
@@ -3294,7 +3295,7 @@ sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
-dainikazadi.net,khabarpurwanchal.com,news14india.com,pcbtoday.in,samriddhasamaj.com,suryaa.co.in##div[class^="sgpb-"]
+khabarpurwanchal.com,news14india.com,pcbtoday.in,samriddhasamaj.com,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 thejoharnews.com##div[class^="thejo-"]
