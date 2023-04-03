@@ -227,6 +227,7 @@ add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
 adsss.jpg|$domain=gzpnews.com
 ADVT.jpg|$domain=bhilaitimes.com
+Banner_File.jpeg|*$domain=indiaheadlinenews.com
 blocks/block_$domain=hindustansamay.com|hindustanvarta.com|livenewsxpress.com|nattuvartha.news|poorvanchalmedia.com|sirajganjexpress.com
 home_right_add$domain=dtvbangla.com
 images/img_$domain=sirajganjexpress.com
