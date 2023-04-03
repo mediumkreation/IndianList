@@ -663,6 +663,7 @@ emalayalee.com,kayalconnection.com###slideshow
 emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
 dailyalokitovor.com,padmatimes24.com###small-news
+garimatvnews.com###sp-ads
 editiontoday.in###sp-adsforbody
 dabangrajdhani.com###sp-right .bannergroup
 techtamil.com###sp_widget_post_slider-2
@@ -2330,6 +2331,7 @@ abasangthandp.com##.sponsers
 shankhnaad.in,swarajnewstoday.com##.sponsored
 preyopathok.com##.sports_section .muktomot_section
 veeravengaikal.com##.sppb-addon-clients
+garimatvnews.com##.sppb-addon-content .custom
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 cibindianews.com##.square-space
