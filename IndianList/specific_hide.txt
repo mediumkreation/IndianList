@@ -1998,6 +1998,8 @@ arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
 badaunexpress.com##.news-slider
 payyolionline.in##.news-text-content p img
+news13uttarakhand.com##.news1-before-content_6
+news13uttarakhand.com##.news1-before-content_9
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
 sangbad-gallery.com##.news_left_part_ad
