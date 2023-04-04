@@ -438,7 +438,7 @@ madhyabhoomikeboal.com###media_image-72
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khaptadmalikanews.com,newsplus.lk,prajawani.in,ranchilive.in,rashtranayaknews.com,sasthabangla.com,starexpress.news,theblastkhabar.com,visfotnews.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
-dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,hindustanheadlines.in,khabardinbhar.net,khabarok.com,odishalink.com,sanjeevanisamachar.com,starexpress.news,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com,vatankiawaz.in,visfotnews.com###media_image-9
+dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,hindustanheadlines.in,khabardinbhar.net,khabarok.com,odishalink.com,sanjeevanisamachar.com,starexpress.news,tamilnewsstar.com,tazakhabar36garh.com,vatankiawaz.in,visfotnews.com###media_image-9
 smj24.com###media_video-1
 dainikkhabarlayehain.com###media_video-13
 derbykhabar.com,divyalive.com###media_video-16
@@ -1222,7 +1222,7 @@ musicjoymedia.com##.banner-half
 aapkaparyas.in,enewsmp.com##.banner-header
 bholarbani.com,madhyabindu.com,mahendranagarpost.com,newsportals.in,onstimes.com##.banner-img
 abcnepal.tv##.banner-muni-add
-24x7breakingpoint.com,aanthaireporter.com,ambalacoverage.com,biharnewstv.in,cobranews24.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,khulasamedia.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,odiabarta.in,pabilnews.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,shreenews.in,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,vishwakarmakiran.com##.banner-promotions-wrapper
+24x7breakingpoint.com,aanthaireporter.com,ambalacoverage.com,biharnewstv.in,cobranews24.com,dotooknews.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,khulasamedia.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,odiabarta.in,pabilnews.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,shreenews.in,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
@@ -1932,7 +1932,6 @@ samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
-upantaodisha.com##.middle-aside section.widget_media_image
 prabhabonline.com##.middle-banner
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
@@ -2004,7 +2003,7 @@ news13uttarakhand.com##.news1-before-content_9
 bangla24x7.news##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
 sangbad-gallery.com##.news_left_part_ad
-atnbanglaonline.tv,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in##.news_portal_ads_banner
 digiana.com##.news_scrol-bean
 newsdiary.live##.newsd-widget
 jharkhandvani.in##.newsever-widget .textwidget
