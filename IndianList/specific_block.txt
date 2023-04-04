@@ -83,7 +83,7 @@
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|odiaspotnews.in|shankhnaad.in
-/advertisement/*$domain=shasakprashasak.com|srijannews.com|swatantraawaz.com
+/advertisement/*$domain=srijannews.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
 /Advertizement/*$domain=biniyougbarta.com
@@ -4038,7 +4038,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||sharetimes24.com/wp-content/uploads/2020/10/sea-pearlad.gif
 ||sharetimes24.com^*/njad-1-e1469984210958.jpg
 ||sharetimes24.com^*/saifpowertech.sharetimes.gif
-||shasakprashasak.com/images/WhatsApp-Image-2021-01-04-at-9.13.29-PM.jpeg
 ||shatabdinews.com/uploadedBanner/
 ||shatgambujbarta.com/media/PhotoGallery/2018November/Untitled-1-1901220905.gif
 ||sheershakhobor.com/wp-content/themes/main/assets/img/ads.jpg
