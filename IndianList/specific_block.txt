@@ -81,7 +81,7 @@
 /advertiesment/*$domain=theendnews.com
 /advertisement/*$domain=360malayalam.com
 /Advertisement/*$domain=aloavanews24.com
-/advertisement/*$domain=amader-protidin.com|bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|onlinejalandhar.com|satghoria.com
+/advertisement/*$domain=amader-protidin.com|bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=srijannews.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
@@ -175,8 +175,6 @@
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520499624.jpeg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520503648.jpeg
 @@||newsxindia.com/Uploads/ad_16.jpg
-@@||onlinejalandhar.com/advertisement/editor_onlinejalandhar.jpg
-@@||onlinejalandhar.com/advertisement/mobileapp_jalandhar.jpg
 @@||prabhatmantra.com/admin/Ishtehaar/Save%20Water.jpg
 @@||purbikhabar.com/backend/web/uploads/ad/hari-nagara_1672503635.jpg
 @@||rtvonline.com^*-728X90
@@ -3197,7 +3195,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||onlinedabali.com/wp-content/uploads/2020/06/300x150-ktm.gif
 ||onlinedabali.com/wp-content/uploads/2020/09/ad-2.jpg
 ||onlinedabali.com/wp-content/uploads/2020/11/edf.jpg
-||onlinejalandhar.com/spine.jpg
 ||onlinejalandhar.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-9.41.58-PM-239x300.jpeg
 ||onlinekhabar.com/wp-content/uploads/2022/06/1230x100-1.jpg
 ||onlinekhabar.com/wp-content/uploads/2022/08/Family-Super-Saving_900x-100px.gif
