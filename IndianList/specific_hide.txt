@@ -1500,7 +1500,7 @@ udghoshdaily.com##.elementor-widget-image img:not([src*="Purna-Khop.jpg"]):not([
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 namasteandhra.com##.elementor-widget-image img:not([srcset])
-24webnews.com,muznews.online##.elementor-widget-image-carousel
+muznews.online##.elementor-widget-image-carousel
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
 thurannakathu.com##.elementor-widget-penci-custom-sliders
@@ -1938,7 +1938,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
-24webnews.com,bigtvnews.com,buxarkhabar.com,giridihupdates.com,janmatexpress.in,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+bigtvnews.com,buxarkhabar.com,giridihupdates.com,janmatexpress.in,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
@@ -2711,7 +2711,7 @@ rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
 malayaleepathram.com.au##.widget_black_studio_tinymce img
-avikaluttarakhand.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
+24webnews.com,avikaluttarakhand.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 update24.net##.widget_block img:not([src*="stop-war.jpg"])
 newszon.in##.widget_block:not(#block-10)
