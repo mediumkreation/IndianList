@@ -645,6 +645,7 @@ hadapsarexpress.com###sidebar1 .widget.HTML:not(#HTML6)
 asalbaat.co.in,nknewsindia.com###sidebar2
 siyasatdarpan.com###sidebar2 .widget.Image
 dailypunorutthan.com,daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
+himaliawaj.com###simple-image-popup
 kulalaworld.com###simpleimage-13
 kulalworld.com###simpleimage-14
 kulalworld.com###simpleimage-26
