@@ -1135,7 +1135,7 @@ dailysports24.com##.advertaisement
 atalsamachar.com##.advertisRow > div ~ div
 bikashnews.com,dailysylheterdinkal.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
-drukpadam.com,pressbangla24.com##.advertise-area
+drukpadam.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 margarekha.com##.advertise-border
 nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
@@ -2030,6 +2030,7 @@ supportmeindia.com##.offer-box
 supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
+newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.ok-full-widht-adv
 onlinekhabar.com##.okam-ad-position-wrap
 onlinekhabar.com##.okam-each-ad
