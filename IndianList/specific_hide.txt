@@ -1414,6 +1414,7 @@ mediavarta.com##.cscra-promotion
 internationalmalayaly.com##.cscra-promotion > img
 internationalmalayaly.com##.cscra-promotion a:not([href*="internationalmalayaly.com"])
 internationalmalayaly.com##.cscra-promotion:empty
+shasakprashasak.com##.custom img
 sylhetview24.news##.custom-ads-row
 kalyugkatehelka.com,roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
