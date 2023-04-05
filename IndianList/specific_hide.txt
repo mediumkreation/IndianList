@@ -1132,7 +1132,7 @@ janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 atalsamachar.com##.advertisRow > div ~ div
-bikashnews.com,dailysylheterdinkal.com,redtimes.com.bd##.advertise
+bikashnews.com,dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
 drukpadam.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 margarekha.com##.advertise-border
@@ -1855,6 +1855,7 @@ bcsuddi.com,envazhi.com,vtv24x7.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
+hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
 arthakoartha.com,dharananews.com##.long-ad
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
