@@ -220,7 +220,6 @@ suddi9.com###colorcontentasash3
 kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
-muglanikhabar.com###content .bigyapan
 humhindustanilive.com###content .master-slider-parent
 nepalimato.com###content .news_portal_ads_banner
 kelanchaltimes.com,sabkajammukashmir.com###content .stream-item
@@ -1269,13 +1268,13 @@ bidrohee.com##.bidro-content_4
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com##.biggapon
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
-aayomail.com,himalkhabar.com,muglanikhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
+aayomail.com,himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
 dekhapadhi.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
-janatapati.com,janatasamachar.com,khelpati.com,muglanikhabar.com##.bigyapan-box
+janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
 ratokalam.com##.bigyapan-margin-btm
 lokaantar.com##.bigyapan-title
@@ -1959,7 +1958,6 @@ janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
-muglanikhabar.com##.more-bigyaapan
 bengaluruvartha.in##.ms-parent-id-1
 sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
