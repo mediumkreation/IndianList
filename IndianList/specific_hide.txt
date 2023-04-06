@@ -305,7 +305,6 @@ rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
 dishadaily.com###full_level_1_detail
 uttareralo24.com###gallery-1
-jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 puttalamonline.com###head-imgput
@@ -964,7 +963,7 @@ motivatenews.com.np,onlinedabali.com,pokharapatra.com.np,ratopost.com,sancharken
 talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
 khobor24ghonta.com##.add-bg-02
-aajkasach.in,jaianndata.com##.add-block
+aajkasach.in##.add-block
 vishvasnews.com##.add-box
 aajtak.in##.add-center-div
 anandalok.in##.add-gap
@@ -1888,7 +1887,6 @@ khulnanchal.com##.main-sidebar .widget_custom_html
 bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 bharatdarshannews.com##.main-slider
-jaianndata.com##.main-tp-adds
 deshdigital.in##.main-wrap div[class^="rozu"]
 digitalkhabar.com##.main-wrap div[data-adid]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
@@ -2155,7 +2153,6 @@ prernanews.com##.sadv
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
 khabarchalisa.com,naanmedia.in,vijayapatha.in##.sb-widget-ad
-jaianndata.com##.scnd-add
 gramnagarbarta.com##.scrollable-slider
 thekeralapost.com##.sd-advert
 entevarthakal.com##.second_section_right
