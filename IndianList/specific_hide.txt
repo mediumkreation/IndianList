@@ -921,7 +921,7 @@ officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 eisamay.com,iamgujarat.com,samayam.com##.ad-wrapper-250
-alorkantho24.news,eisamay.com,enlightnews.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
+alorkantho24.news,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
@@ -1196,6 +1196,7 @@ lokmatnews.in##.articlePage
 newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
+gujarati.economictimes.com##.atf-wrapper
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
 kabirkiawaz.in##.av_slied
