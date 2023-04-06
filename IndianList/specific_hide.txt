@@ -459,9 +459,6 @@ dailypunjabnews.com###metaslider_21872
 dainikroorkee.com###metaslider_288
 dainikroorkee.com###metaslider_295
 dainikroorkee.com###metaslider_4598
-legendnews.in###metaslider_703
-legendnews.in###metaslider_709
-legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
@@ -577,7 +574,6 @@ aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
-legendnews.in###secondary .widget_metaslider_widget
 nagarikbahas.com###secondary .widget_sp_image
 24city.news,bangla52news.com,cpnews24.com,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
 vbnews24.com###secondary .widget_text:not(#custom_html-2)
@@ -893,7 +889,7 @@ sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
-chhattisgarhaaj.com,khabaraaptak.net,newsdnntv.com,pratyeknewslive.com##.ad--space
+chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,newsdnntv.com,pratyeknewslive.com##.ad--space
 newsdnntv.com,pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 anandabazar.com##.ad-280
@@ -1662,7 +1658,7 @@ moonamvazhi.com##.headRightAdv
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 bdcrimenews.com##.header .pull-right
-newsdnntv.com##.header--ad
+legendnews.in,newsdnntv.com##.header--ad
 apnarajya.com,bangladesherkhabor.net##.header-ad-section
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
