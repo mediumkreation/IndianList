@@ -2579,6 +2579,7 @@ ekuruvi.com##.top-bar-left-nav
 royalbulletin.in##.top-container1
 malayaleevision.com##.top-d
 ukmalayalampathram.com##.top-flash
+nobat.com##.top-hda
 samvetshikhar.com##.top-head-hori-adv
 musickhabar.com##.top-header .add-bottom-margin
 lionexpress.in##.top-left-add
@@ -3567,6 +3568,7 @@ news24bite.com#?#figure:-abp-has(> figcaption:-abp-contains(Advertisement))
 newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
 newspoint24.com#?#div[id^="AS_O_"] > div:-abp-has(> div > div > span[name="adchoicehtml"])
+nobat.com#?#div:-abp-has(> small:-abp-contains(Advertisement))
 onstimes.com#?#div.row: abp-has(> .col-md12 > .margin-top > img.attachment-full)
 overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
 horizonhind.com##p[class="fontBold"]
