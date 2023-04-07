@@ -692,8 +692,8 @@ anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,k24news.in,khagrac
 apnapradesh24x7.com###text-11 iframe
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
-bn.bdcrictime.com,hindustanlivetoday.com,irinjalakudalive.com,janakhabar.com,newsi.in,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,voiceofshatabdi.com,vyavasthadarpan.com###text-13
-anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,news24x365.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
+bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,newsi.in,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,voiceofshatabdi.com,vyavasthadarpan.com###text-13
+anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,livekhagaria.in,news24x365.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,janvadtimes.com,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,manvadhikartimes.com,meherpurpratidin.com###text-16
@@ -1863,7 +1863,7 @@ doolnews.com##.long_adv_area
 bholabani.com##.longad
 newsdoor.net##.lrads
 71sangbad.com##.m_none > a[target="_blank"]
-themenews24.com##.mag-adver-part
+irinjalakudalive.com,themenews24.com##.mag-adver-part
 odia-ray.in##.main .bannergroup
 dhadingupdate.com##.main-1
 newsfirst.lk##.main-ad-half
