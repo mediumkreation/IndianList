@@ -1257,7 +1257,6 @@ lknews.lk##.besides-slider-right
 beanibazarview24.com##.better-ads-listitemad
 71newstoday.com##.betterad-container
 humsamvet.com##.bg-color-gray-fot
-andhrajyothy.com##.bgg.eng
 bharatlive.co.in##.bhara-content
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
@@ -2342,6 +2341,7 @@ hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
+andhrajyothy.com##.stickyAds
 doolnews.com##.story-ad250
 livehindustan.com##.story-listing:empty
 bankura24x7.com##.story_content > .image-and-caption-wrapper
