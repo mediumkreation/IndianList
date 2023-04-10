@@ -2967,6 +2967,7 @@ bangladeshonline24.com##a[href*=".ac.bd"]
 yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
+sajhamanch.com##a[href*="/ads/"]
 khabardabali.com##a[href*="/advertisement/"]
 uttranews.com##a[href*="/hayat/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
