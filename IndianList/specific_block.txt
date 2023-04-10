@@ -14,10 +14,10 @@
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|filmyfanda.com|samarneetinews.com|shomoynews.net
--add.gif|$domain=abcnepal.tv|amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
+-add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
 -add.jpg|*$domain=ratdinnews.net
--add.png|$domain=abcnepal.tv|kalaroanews.com|osnepal.com|sangbadsarabela.com
+-add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
 -ads-$domain=aruna.lk
@@ -307,6 +307,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ab71.tv/wp-content/uploads/2021/07/5137002880800996365.gif
 ||ab71.tv/wp-content/uploads/2021/07/ezgif.com-gif-maker
 ||abckhabar.in/wp-content/uploads/2020/08/IMG-20200805-WA0000
+||abcnepal.tv/wp-content/uploads/2023/02/ABC-NEWS-NIC-.gif
 ||abcnews.media/wp-content/uploads/2022/03/batu-
 ||abcnews.media^*/madhuban.jpg
 ||abcnews.media^*/regency.webp
@@ -4788,10 +4789,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||wp.com^*muznews.online*/royal-faishon$image
 ||wp.com^*muznews.online*/tarunabha$image
 ||wp.com^*muznews.online*/vlcc-gola$image
-||wp.com^*www.abcnepal.tv*/1000-x-152.gif
-||wp.com^*www.abcnepal.tv*/avataran-book-priz.gif
-||wp.com^*www.abcnepal.tv*/book25.png
-||wp.com^*www.abcnepal.tv*/yath.gif
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||wp.com^dailyjonomot.com/wp-content/uploads/2021/03/IMG_20210311_221102-300x183.jpg
 ||wpleaders.com/wp-content/uploads/2018/03/Thrive-Architect.gif
