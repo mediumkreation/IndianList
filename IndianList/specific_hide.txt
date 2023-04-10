@@ -2450,8 +2450,8 @@ prabhattimes.com##.td-post-content img.size-full
 uktez.com##.td-post-content strong > img
 tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 aurbta.com##.td-spot-id-content_bottom
-aurbta.com##.td-spot-id-content_top
-amansavera.com##.td-spot-id-header
+aurbta.com,mawbima.lk##.td-spot-id-content_top
+amansavera.com,mawbima.lk##.td-spot-id-header
 mediamalayalam.com##.td-spot-id-sidebar
 banglaxp.com,egoomedia.com##.td-ss-main-content .code-block
 gionews.in##.td-ss-main-sidebar .slider-pro
