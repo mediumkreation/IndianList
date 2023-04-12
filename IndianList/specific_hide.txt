@@ -1624,6 +1624,7 @@ hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
 sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
 pchelpcenterbd.com##.fullwidhtads
+unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
 dcnewsbd.com,hotnewsindia.com##.fullwidthbanner-container
 ctgpratidin.com##.fxozitmah
