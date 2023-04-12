@@ -3425,6 +3425,7 @@ maagulf.com##div[style*="height:260px"]
 patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
 thedailycampus.com##div[style*="width: 300px"][style*="height: 250px;"]
 thedailycampus.com##div[style*="width:300px"][style*="height:250px;"]
+bbarta24.net##div[style="height:78px; width:100%"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
