@@ -836,12 +836,12 @@ pinakatimes.com,sachikalam.com,sehajtimes.com##.AdvtSample
 tutyonline.net##.Amain
 onp24.com##.BannerAdd2
 janashaktinews.com##.CMAC_AdChangerWidget
-eyenews.news##.DADD
+cvoice24.com,eyenews.news##.DADD
 amaderprotidin.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
 bdprojonmo71.com##.DAdvertisement
-womeneye24.com##.DContentAdd
+cvoice24.com,womeneye24.com##.DContentAdd
 mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com##.DHeaderBanner
 dailyjalalabad.com##.DetailsContent .textwidget
