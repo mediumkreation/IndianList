@@ -2334,6 +2334,7 @@ tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 cibindianews.com##.square-space
 sangbad-gallery.com##.square_advertisement
+dhakatoday.com##.squareadd img
 keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabor24x7.com##.stick-dt
@@ -2603,7 +2604,6 @@ bholabani.com,gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnat
 kulalaworld.com,kulalworld.com##.topadd
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com##.topadmid
-dhakatoday.com##.topadr
 nationaldetectivenews.com,ournewsbd.net##.topadrt
 cinema.dinamalar.com##.topadtxt160
 sylheterdak.com.bd##.topadv
@@ -2957,6 +2957,7 @@ thestellarnews.com##[id^="thest-"]
 sunnews24x7.com##a .adv-vload
 canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##a.d-flex
 adiyakkamangalam.com##a.external
+dhakatoday.com##a.hide-for-print
 tamilthisai.com##a.in-cell-link
 emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
@@ -3522,7 +3523,6 @@ shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
 hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
-dhakatoday.com##img[src*="mediabell.net"]
 wijeya.lk##img[target]
 kasargodvartha.com##img[title="wellfitindia"]
 indiakhabar.co.in#?#div:-abp-has(> .section-title > h4:-abp-contains(ADVERTISEMENT))
