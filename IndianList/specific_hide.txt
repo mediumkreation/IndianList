@@ -1415,6 +1415,7 @@ thakurgaon24newspaper.com##.custom-html-widget > img
 arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 andhrajyothy.com##.customAds
+indianspiritual.in##.custom_sidebar_ads
 biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
 msprotidin.com##.d-block
