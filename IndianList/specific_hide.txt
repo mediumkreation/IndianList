@@ -1286,7 +1286,6 @@ londonbdnews24.com##.block-right-bottom-ads
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 newsflash71.com##.block__2
 livekhagaria.in##.blocks-gallery-item
-akhandbharatsamachar.com##.blog-posts > :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
 aajbangla.in,bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,lokjannews.com,sangritimes.com,sirajganjexpress.com##.bn-lg
