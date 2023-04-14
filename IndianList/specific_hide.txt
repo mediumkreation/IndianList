@@ -1820,9 +1820,6 @@ khabarpahad.com##.khaba-widget
 khabarhub.com##.khabarhub-inner-ads
 khulasanewslive.in##.khulasanewslivewidget
 koyilandydiary.com##.koyil-widget
-sabaikosamachar.com##.kp-header-logo--section .d-sm-block
-sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
-sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
 kannurnewsonline.com##.ktmjq
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
@@ -2802,7 +2799,7 @@ cityhalchal.com,fbdnews.com##.wonderpluginslider
 amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com##.wonderpluginslider-container
 lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
-lalitpurkhabar.com##.wp-block-gallery
+lalitpurkhabar.com,sabaikosamachar.com##.wp-block-gallery
 dristyprotidin.com##.wp-block-gallery-3
 ghaziabad365.com,royalnews13.in##.wp-block-group
 dainikdishari.com,dthreeonline.com,epaperindia.in,joharlive.com,royalnews13.in##.wp-block-image
