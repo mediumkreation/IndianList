@@ -163,14 +163,13 @@ asomkhobor.com,paryavaranpost.com###block-12
 aajkijandhara.com,nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 peptechtime.com###block-142
-khabardarinews.com,samrudhaodisha.com###block-15
+khabardarinews.com###block-15
 telugumalli.com###block-16
-ojasvitimes.in,samrudhaodisha.com,telugumalli.com###block-17
+ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
-samrudhaodisha.com,sansanisurag.com###block-18
+sansanisurag.com###block-18
 viewpointjharkhand.com###block-19
 bansalnews.com,bulandsoch.com,ekhabar.in,hamdardtv.com,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,thedastak24.com###block-2
-samrudhaodisha.com###block-20
 peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com###block-24
@@ -191,6 +190,8 @@ tcp24.news###block-47
 hamarahimachal.com,indianvoice24.com,newsnukkad.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,thenewswave.com,vindhya24news.com,viralfactsindia.com###block-6
+samrudhaodisha.com###block-61
+samrudhaodisha.com###block-62
 dgnews.co.in###block-69
 areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,thenewswave.com###block-7
 naanmedia.in,tamizhakam.com,wayanadnewsdaily.com###block-8
@@ -1963,7 +1964,6 @@ abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
 newsroomme.com,youngvarta.com##.mySlides
 lastnewsbd.com##.myadd
-samrudhaodisha.com##.mysticky-welcomebar-fixed
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
