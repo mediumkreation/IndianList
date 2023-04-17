@@ -1120,7 +1120,6 @@ radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
 ada.lk,divyahimachal.com,everesttimesnews.com,manithan.com,samvaad365.com,tamilan24.com##.advert
-mzamin.com##.advert-cor
 ada.lk##.advert-single
 nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
@@ -1902,6 +1901,8 @@ backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
+mzamin.com##.mb-2.d-sm-flex
+mzamin.com##.mb-5.justify-content-center
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 ctgsangbad24.com##.mcyd
@@ -1958,6 +1959,7 @@ janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
 aamsanchar.com##.my-2
 patrika.com##.my-4[style*="min-height"]
+mzamin.com##.my-5.justify-content-center
 news18.com##.my-ad-rhs
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
