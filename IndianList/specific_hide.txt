@@ -1573,6 +1573,7 @@ pchelpcenterbd.com##.featured-post-ads
 corporatenepal.com##.features-spaces
 corporatenepal.com##.features-spaces-collages
 sudurpress.com##.field--name-field-ad-image
+bangla.bdnews24.com##.first-ad
 nayabharat.live##.fix-img-fluid
 newsfirst.lk##.fixed-banner
 sathyamonline.com##.fl-im-container
@@ -2150,6 +2151,7 @@ theindianstate.in##.sb-banner
 khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
 gramnagarbarta.com##.scrollable-slider
 thekeralapost.com##.sd-advert
+bangla.bdnews24.com##.second-ad
 entevarthakal.com##.second_section_right
 newspolar.com##.section .adalyticsblock
 makalukhabar.com,nepalpress.com##.section-ad-space
@@ -3228,6 +3230,7 @@ sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 news18.com##div[class*="Header_inner_ad"]
 prothomalo.com##div[class*="__ad-slot"]
+bangla.bdnews24.com##div[class*="_ad-slot__"]
 prothomalo.com##div[class*="_ad__"]
 prothomalo.com##div[class*="_ads__"]
 nrimalayalee.com##div[class*="_bottom_ad"]
