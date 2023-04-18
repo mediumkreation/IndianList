@@ -1451,7 +1451,7 @@ jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
 gramnagarbarta.com##.dtl_section figure.image
 doshdik.com##.duble_advertisement
 dailynewshindi.com##.e-widget-swiper
-awajnews.com,bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,dainikaamsabha.com,ghazipurkhabar.co.in,greenbanglanews.com,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,saffronfactor.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,starnews24bd.com,thecgnews.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
+awajnews.com,bdjournal365.com,belagavisuddi.com,chalonbeelbarta.com,dailysamvad.com,dainikaamsabha.com,ghazipurkhabar.co.in,greenbanglanews.com,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,punjabnewslive.co.in,saffronfactor.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,starnews24bd.com,thecgnews.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
 livekhagaria.in##.e3lan a img
 alayadivembuweb.lk##.e3lan img
 gvtjob.com,yarlosai.com##.e3lan-below_header
@@ -2533,7 +2533,7 @@ amritvichar.com,bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahan
 kasaragod.com##.theiaStickySidebar .text-html-box
 pnn24.in##.theiaStickySidebar .text-html:not(#text-html-widget-2)
 banglanewslive.co.in##.theiaStickySidebar .widget.HTML:not(#HTML7)
-apnahimachalapnishaan.in,rghnews.com,rightnewsindia.com,thepublicnews.live##.theiaStickySidebar .widget_block
+apnahimachalapnishaan.in,purvanchalnews.com,rghnews.com,rightnewsindia.com,thepublicnews.live##.theiaStickySidebar .widget_block
 bharatnews18.in,bheldailynews.com,bograsangbad.com,khabar36.com,mithilacitynews.in,navsatta.com,samaynewslive.com,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
@@ -2779,7 +2779,7 @@ diyopost.com##.widget_palika_advertisement
 moulvibazar24.com##.widget_sec
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
-awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,purvanchalnews.com,sadeaalaradio.co.nz##.widget_smartslider3
+awaznews24x7.com,bharatlive.co.in,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
@@ -2814,6 +2814,7 @@ dainikdishari.com,dthreeonline.com,epaperindia.in,joharlive.com,royalnews13.in##
 indiapublickhabar.in##.wp-block-image > figure
 nainilive.com##.wp-block-image img
 abtnews.in##.wp-block-jetpack-slideshow
+purvanchalnews.com##.wp-block-nextend-smartslider3
 kafaltree.com##.wp-block-video
 dgnews.co.in,pplnews.in##.wp-custom-header
 newssunamganj.com##.wp-image-10388
