@@ -1411,7 +1411,6 @@ khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
 durnityreport24.com,kositimes.com,seradesh.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
-arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
 andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
@@ -2092,6 +2091,7 @@ pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
 sakalakhabar.com##.primary-sidebar-widget
 sudurkhabar.com##.primary-sidebar-widget img
+arthosuchak.com##.primary-sidebar-widget:not(.h-c)
 gandaknews.com##.primary-sidebar-widget:not(.widget_bs-thumbnail-listing-1)
 bankbimaarthonity.com##.printOff
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
@@ -2405,7 +2405,7 @@ ctgnews.com,dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content
 ehapurnews.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
 cgfrontline.com,newsxtra.in##.td-a-rec-id-footer_top
-amaderkhulna.net,arthosuchak.com,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,news1today.in,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
+amaderkhulna.net,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,news1today.in,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,thiruvananthapuramvartha.com,todayexpressnews.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 indianewsharyana.com,khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
 guruvayooronline.com##.td-a-rec:not(.tdi_105)
@@ -2890,7 +2890,7 @@ hotnewsindia.com##.wp-image-87280
 hotnewsindia.com##.wp-image-87281
 ratopost.com##.wp-image-9728
 nammabantwala.com##.wp-video
-atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
+arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 channelionline.com,delhicrimepressnews.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
@@ -3315,6 +3315,7 @@ uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
 ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,live7tv.com,makalukhabar.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
 himaliawaj.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
