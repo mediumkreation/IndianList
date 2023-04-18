@@ -516,6 +516,7 @@ karmalamadhanews24.com###pg-38-7
 kusenews.com###pgc-7-1-1
 lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
+nepalipaisa.com###popUp
 samakal.com###popUpModalAd
 bharatdarshannews.com###popup_box
 rojgarlive.com###popup_indiv2
@@ -589,6 +590,7 @@ doabatimes.com###secondary-right
 youthexpress.in###secondaryright .widget_custom_html
 sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
+nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
 blivenews.com,dakshinbharat.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,toptamilnews.com###showAS_O_BEL_0

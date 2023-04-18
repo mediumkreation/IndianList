@@ -82,7 +82,7 @@
 /advertisement/*$domain=360malayalam.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
-/Advertisement/*$domain=aparajeobangla.com|odiaspotnews.in|shankhnaad.in
+/Advertisement/*$domain=aparajeobangla.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=srijannews.com|swatantraawaz.com
 /Advertisement/*$domain=womeneye24.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|nepalipatra.com|nepalkhabar.com
@@ -173,6 +173,7 @@
 @@||muktomon.net/upload/adds/1640065976.jpg
 @@||nayasadak.com/users_upload/dhitopatra.jpg
 @@||nayasadak.com/users_upload/NOC-Advertisement-Bigyapan-scaled.jpg
+@@||nepalipaisa.com/Modules/Advertisement/AdvertisementSlot/uploads/18ef93ff-847e-43d3-ba4f-49661046ec0f.png
 @@||neplays.com/img/ads-img/ads-6389bd3122577CHS-Related-min1.jpg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520499624.jpeg
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520503648.jpeg
@@ -2852,6 +2853,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||nepalinepali.com^*/unnamed-300x40.png
 ||nepalinepali.com^*/unnamed-696x92.png
 ||nepalinepali.com^*/unnamed.png
+||nepalipaisa.com/Templates/NepseNews/images/swp.gif
 ||nepalipatra.com/image/nepalishop.jpg
 ||nepalipost.com^*/aerospace.gif
 ||nepalpage.com/wp-content/uploads/2020/09/300x90-1.gif
