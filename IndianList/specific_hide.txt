@@ -59,7 +59,7 @@ madhepuratimes.com###Image21
 madhepuratimes.com###Image22
 madhepuratimes.com,nepalmother.com###Image23
 poonththalir.blogspot.com###Image25
-bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,newsprahari.com,probashbd.news,rajsamachar.com,tejasindia.in,thattungal.com,vyganews.com###Image3
+bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,mithlahindinews.com,newsprahari.com,probashbd.news,rajsamachar.com,tejasindia.in,thattungal.com,vyganews.com###Image3
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
@@ -361,6 +361,7 @@ newsuperbharat.com,primepunjab.com###main .widget_custom_html
 chhapratoday.com,himwantpradeshnews.com,newsxindia.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
 naturalnews.co.in###main aside.widget_media_image
+mithlahindinews.com###main-ads-post
 agrilife24.com###main-body .custom
 bd-pratidin.com###main-container
 lankadawasa.com###main-content + aside > .widget_media_image
@@ -2052,7 +2053,7 @@ rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
 topbharat.in##.piki-ads
-vasistatoday.in##.piki-ads-res
+mithlahindinews.com,vasistatoday.in##.piki-ads-res
 tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
