@@ -807,7 +807,7 @@ dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
 breakingaajtaknews.com,sameera.co.in###widget-sidebar-2
 atalstambh.com,breakingaajtaknews.com###widget-sidebar-3
-beauronews.com###widget-sidebar-4
+beauronews.com,khabarpradesh.com###widget-sidebar-4
 gujaratvaibhav.com###widget4
 kewalsachtimes.com###widget_sp_image-10
 kewalsachtimes.com###widget_sp_image-11
