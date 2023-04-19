@@ -973,7 +973,7 @@ colorsnewslive.com,janaboli.com,jogajog24.com,khabar247.com,lokwani.tv,newsbaris
 vachakam.com##.add-item
 khabarwaale.com##.add-jj
 vishvasnews.com##.add-large-box
-u71news.com##.add-left
+24updatenews.com,u71news.com##.add-left
 dailysabuj.com##.add-longhead
 bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
@@ -982,6 +982,7 @@ malisamajsocial.com,thebengalitimes.com##.add-section
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
+24updatenews.com##.add-sideber
 gourbarta24.com##.add-slider
 cnibd.net##.add-space
 samachar4media.com##.add-text
