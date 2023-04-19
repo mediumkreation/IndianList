@@ -3154,7 +3154,6 @@ aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponso
 abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Advertisement))
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 andhrajyothy.com#?#div:-abp-has(> div[id*="-ad-"])
-angulonline.com#?#.elementor-widget-wrap:-abp-has(> .elementor-widget-heading > div > h2:-abp-contains(Sponsored))
 chakrapath.com##app-ad-control-header
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
