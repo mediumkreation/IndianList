@@ -654,9 +654,9 @@ biznessnews.com###skip-ads
 patrikai.com###slide-holder
 fastnewsindia.co,makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
-emalayalee.com,kayalconnection.com###slideshow
-emalayalee.com,pravasi.us###slideshow2
-emalayalee.com,pravasi.us###slideshow3
+kayalconnection.com###slideshow
+pravasi.us###slideshow2
+pravasi.us###slideshow3
 dailyalokitovor.com,padmatimes24.com###small-news
 garimatvnews.com###sp-ads
 editiontoday.in###sp-adsforbody
@@ -906,7 +906,7 @@ malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 nayabikalpa.com,newsroomme.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
-emalayalee.com,pravasi.com##.ad-on-header
+pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
 koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
@@ -1054,7 +1054,7 @@ uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
 alivenews.co.in,suddikanaja.com##.adredux
-anusandhan24.com,arthadabali.com,ashakakiran.com,baglungpost.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,chapainews.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,ekattor.tv,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,ideatvnews.com,indrenisamaj.com,inextlive.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kaligandakikhabar.com,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,newsbihani.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
+anusandhan24.com,arthadabali.com,ashakakiran.com,baglungpost.com,biznessnews.com,canadanepal.com,chandpur24.net,chapaibarta24.com,chapainews.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,ekattor.tv,emalayalee.com,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,ideatvnews.com,indrenisamaj.com,inextlive.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kaligandakikhabar.com,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,newsbihani.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
 sunaulonepal.com##.ads .widget_media_image > img
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
@@ -1803,9 +1803,6 @@ metrojournalonline.com,newzfast.com##.intes_fixed
 metrojournalonline.com,newzfast.com##.intes_fixed + div
 sathyamonline.com##.inven-before-content_6
 samvetshikhar.com##.item-size-right img
-emalayalee.com##.item1
-emalayalee.com##.item3
-emalayalee.com##.item4
 alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
@@ -2967,7 +2964,6 @@ canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manith
 adiyakkamangalam.com##a.external
 dhakatoday.com##a.hide-for-print
 tamilthisai.com##a.in-cell-link
-emalayalee.com##a.newlink[target="_blank"]
 biharnews7.com##a.post-middle-banner
 firstlookbihar.in##a.sideAdd
 biharnews7.com##a.sidebar-banner
@@ -2982,6 +2978,7 @@ yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
 sajhamanch.com##a[href*="/ads/"]
+emalayalee.com##a[href*="/advertise"]
 khabardabali.com##a[href*="/advertisement/"]
 uttranews.com##a[href*="/hayat/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
