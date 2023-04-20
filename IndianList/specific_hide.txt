@@ -2363,7 +2363,7 @@ rajdhanitimescg.in##.stream-item-after-post-title
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
-abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,mitanbhoomi.com,newstruthlive.com,pahar24.com##.stream-item-below-post-content
+abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,khabarhikhabar.com,mitanbhoomi.com,newstruthlive.com,pahar24.com##.stream-item-below-post-content
 magahinews.com##.stream-item-in-post
 amritvichar.com,bankalive.net,lovedevbhoomi.com,narsingdirbani.com##.stream-item-inline-post
 amritvichar.com,capitalvoice.in,eastcoastdaily.com,gnewsindia.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,mbkhabar.com,natunbarta.com,nepaltvonline.com,thetimesofchhattisgarh.com##.stream-item-mag
@@ -3639,6 +3639,7 @@ manithan.com##span[id] > iframe[id]:only-child
 barabankiexpress.in##span[style^="color: #008000"] img
 swarnimbharatnews.com##span[style^="color: red;"]
 spnewsbd.com#?#div:-abp-has(> p > ins.adsbygoogle)
+khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
