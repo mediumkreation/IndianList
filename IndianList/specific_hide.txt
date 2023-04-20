@@ -2284,7 +2284,7 @@ fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
 ajkersylhet.com##.singlepage-section .widget_media_image
 news18.com##.site-ad-container
-dakshinbharat.com,purvanchalsandesh.com##.site-content .imagewidget
+dakshinbharat.com,purvanchalsandesh.com,swatantrabharat.net##.site-content .imagewidget
 khulasanewslive.in##.site-footer .featured-stories
 khabarkunj.com##.site-footer__bottom
 googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,panchakoshitimes.com,samabesionline.com##.site-header-ads
