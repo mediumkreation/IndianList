@@ -110,6 +110,7 @@ thejharokha.com###ai_widget-2
 chakarianews.com###akismet_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,jagran.com,punjabijagran.com###aniview
+timesnowhindi.com###app > section > div:first-child:not([class])
 padmatimes24.com###aside #sidebar
 up80.online###attachment_10957
 up80.online###attachment_11499
@@ -1195,6 +1196,7 @@ newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
 gujarati.economictimes.com##.atf-wrapper
+timesnowhindi.com##.atfAdContainer
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
 kabirkiawaz.in##.av_slied
@@ -1258,6 +1260,7 @@ lknews.lk##.besides-slider-right
 beanibazarview24.com##.better-ads-listitemad
 71newstoday.com##.betterad-container
 humsamvet.com##.bg-color-gray-fot
+timesnowhindi.com##.bggrayAd
 bharatlive.co.in##.bhara-content
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
