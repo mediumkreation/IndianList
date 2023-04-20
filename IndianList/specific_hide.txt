@@ -1079,7 +1079,7 @@ londonnepalnews.com##.ads-style1
 ishantimes.com##.ads120_240-widget
 dailyolamakantho.com,welcomeindianews.com##.ads160_600-widget
 seithy.com##.ads400pxinner
-inextlive.com##.adsBox
+inextlive.com,prothomalo.com##.adsBox
 aapkiaawaznews.com##.adsImg_section
 vtvgujarati.com##.adsSection
 epaper.lokmat.com##.ads_699
@@ -2689,7 +2689,6 @@ crimediarybd.com##.widget-body > p img
 kannadaprabha.com##.widget-container-188
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
-prothomalo.com##.widget-or-advertisement
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
@@ -3588,6 +3587,8 @@ pardaphashnews.live#?#.sidebar-widget:-abp-has(> .widget-body > p> img:only-chil
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
+prothomalo.com#?#div:-abp-has(> .widget-or-advertisement)
+prothomalo.com#?#div:-abp-has(> iframe[title*="title"])
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 news18.com#?##right div:-abp-has(> div.nw18-dfp-ad)
 rochakkhabare.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
