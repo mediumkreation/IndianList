@@ -1300,6 +1300,8 @@ newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 topnepalnews.com##.border-bottom.bg-white
 bbcpunjab.com##.bot-ads
+samakal.com##.bottomReadMoreCart div[style*="width: 300px !important;height: 250px"]
+samakal.com##.bottomStickyDesktopDiv
 lokjeewan.com##.bottom_ad_slide
 yugabdha.com##.box-sec-bg .slider
 khoborbari24.com##.box_outer.widget_text
@@ -2597,6 +2599,7 @@ shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
 rninews.co.in##.topRightAdSec
+samakal.com##.topStickyDesktopDiv
 bankbimaarthonity.com,biniyogbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
@@ -3315,6 +3318,7 @@ samacharvaarta.com##div[class^="sgpb"]
 bolanyathali.com,khabarpurwanchal.com,nayanepalnews.com,news14india.com,pcbtoday.in,samriddhasamaj.com,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
+samakal.com##div[class^="textBodyAd"]
 thejoharnews.com##div[class^="thejo-"]
 biratkhabar.com##div[class^="top-sidebar-adv"]
 uttarakhandcitynews.com##div[class^="uttar-"]
@@ -3594,6 +3598,7 @@ sabhavarthakal.com#?#.jeg_block_heading:-abp-has(> .jeg_block_title > span:-abp-
 sachikalam.com#?#div[class*="slide"]:-abp-has(> div > .AdvtSample)
 saharasamachar.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> p + h3 )
 samajkihalchal.com#?#div.sidebar h5:-abp-has(> span:-abp-contains(Ads))
+samakal.com#?#.app-news-section-div:-abp-has(> .adv)
 samayduniya.com#?#div:-abp-has(> a > div > .pd_title)
 samayduniya.com#?#div:-abp-has(> a span:-abp-contains(Ad |))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
