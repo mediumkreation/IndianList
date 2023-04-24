@@ -3561,6 +3561,7 @@ khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div > a > h5:-abp-contains(Ad:))
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div a > p:-abp-contains(Ad:))
+loginkerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h2 + span:-abp-contains(Ad |))
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
