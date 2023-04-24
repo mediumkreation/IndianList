@@ -1592,7 +1592,6 @@ sudurpress.com##.field--name-field-ad-image
 bangla.bdnews24.com##.first-ad
 nayabharat.live##.fix-img-fluid
 newsfirst.lk##.fixed-banner
-sathyamonline.com##.fl-im-container
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
@@ -1813,7 +1812,6 @@ khabarmukam.com##.insd-advert
 setokhari.com##.insert-ad
 metrojournalonline.com,newzfast.com##.intes_fixed
 metrojournalonline.com,newzfast.com##.intes_fixed + div
-sathyamonline.com##.inven-before-content_6
 samvetshikhar.com##.item-size-right img
 alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
@@ -2028,7 +2026,6 @@ nepalimato.com#@#.np-ads-wrapper
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
-sathyamonline.com##.nsads
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
@@ -2159,7 +2156,6 @@ thedailycampus.com##.roni-bhai-special
 amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
-sathyamonline.com##.sAds
 prernanews.com##.sadv
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
@@ -3394,6 +3390,7 @@ patrika.com##div[id^="gpt_ads_PNS_"]
 himachalplus.com,himachalreport.com##div[id^="himac-"]
 himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
+sathyamonline.com##div[id^="inven-"]
 aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
 khabarbihar.in,khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
