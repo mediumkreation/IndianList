@@ -3362,6 +3362,7 @@ toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(n+16)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
 anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
 devpath.in##div[id^="AS_O_RHS_"] > div:nth-child(n+4)
+hrbreakingnews.com##div[id^="AS_P_"]
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
 aagolavartha.com##div[id^="aagol-"]
@@ -3478,6 +3479,7 @@ lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
 horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
+hrbreakingnews.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > h5:-abp-contains(Ad |))
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 pinakatimes.com##iframe[class^="FrameAdvt"]
