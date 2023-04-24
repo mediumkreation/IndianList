@@ -1194,6 +1194,7 @@ voiceofsatkhira.com##.article-body-banner
 heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
 lokmatnews.in##.articlePage
+moviemax.in##.articleText > center > div
 newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
