@@ -1051,6 +1051,7 @@ agrinewsnetwork.in##.ader_ads
 thekeralapost.com##.adert-cnter-mdlif
 bdnewsclub.com##.adflexbox
 kheldhaba.com,newslabz.com##.adfoxly-wrapper
+truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
 udayavani.com##.adliadworld
 uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
@@ -3014,7 +3015,7 @@ gramajyothi.com##a[href*="bobychemmanur.com"]
 gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
-dailyindianherald.com,truevisionnews.com##a[href*="chemmanurinternational.com"]
+dailyindianherald.com##a[href*="chemmanurinternational.com"]
 tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
 cinereporters.com,dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com,sanjeevnitoday.com##a[href*="click.htm?"][target="_blank"]
@@ -3096,7 +3097,6 @@ alokitobogura.com,sangbaddinrat.com##a[href*="pustokbazar"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
-truevisionnews.com##a[href*="royalwedds.in"]
 ourmyliddy.com##a[href*="rv-weddinghall"]
 sharebarta24.com##a[href*="seapearlbd.com"]
 seithy.com##a[href*="splads"]
@@ -3208,7 +3208,6 @@ biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
 neemkathananews.in##center > b+img
-truevisionnews.com##center div[style="padding:20px;"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
@@ -3365,6 +3364,7 @@ devpath.in##div[id^="AS_O_RHS_"] > div:nth-child(n+4)
 hrbreakingnews.com##div[id^="AS_P_"]
 mathrubhumi.com##div[id^="ML_DT"]
 antimvikalp.com##div[id^="SC_TBlock_"]
+truevisionnews.com##div[id^="Truevisionnews_Banner_"]
 aagolavartha.com##div[id^="aagol-"]
 aapnihathai.com##div[id^="aapni-"]
 abbiharnews.com##div[id^="abbih-"]
