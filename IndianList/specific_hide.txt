@@ -920,6 +920,7 @@ state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 eisamay.com,iamgujarat.com,samayam.com##.ad-wrapper-250
 alorkantho24.news,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
+maharashtratimes.com##.ad1_native
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
@@ -1101,7 +1102,7 @@ amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
-andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
+andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,maharashtratimes.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,orthosongbad.com,sonalinews.com##.adv-img
 sunnews24x7.com##.adv-load
@@ -1195,7 +1196,7 @@ lokmatnews.in##.articlePage
 newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 omexpress.in##.at-above-post ~ p img[sizes]
-gujarati.economictimes.com##.atf-wrapper
+gujarati.economictimes.com,maharashtratimes.com##.atf-wrapper
 timesnowhindi.com##.atfAdContainer
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
@@ -1991,6 +1992,7 @@ nepalijanta.com##.nepalijanta-ad
 citynewsdhaka.com##.new-international-right
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
+maharashtratimes.com##.news-advertorial
 tapimitra.com##.news-btm-txt p img
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
