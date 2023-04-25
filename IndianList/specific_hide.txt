@@ -1163,7 +1163,7 @@ jananesan.com##.advertisement_bar
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
-anugrahavision.com,cricketkhabara.com,timeskerala.com,upuklive.com##.advertismentRow
+anugrahavision.com,cricketkhabara.com,upuklive.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
 dainiksylhet.com##.advsingle
@@ -1447,7 +1447,6 @@ baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
 citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
 citynewsdhaka.com##.details-page-side-banner-2
-timeskerala.com##.dfx-pubadban
 ejanshakti.com##.dgw
 surabhisaloni.co.in##.dialog-widget
 biniyogbarta.com##.divAdvertisement
@@ -1576,7 +1575,7 @@ satyapathnews.com##.etad
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
-atalsamachar.com,metrojournalonline.com,timeskerala.com##.extraList
+atalsamachar.com,metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 parichaya.com##.exv-image
 channelionline.com##.eyli
@@ -3667,6 +3666,7 @@ theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-conta
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 thevoices.in#?#div:-abp-has(> .nbs-flexisel-container)
+timeskerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > h5:-abp-contains(Ad |))
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
 todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
 tv20news.in#?#p:-abp-contains(Advertisement)
