@@ -1684,7 +1684,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
-anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,medianow.in,namastepurvanchal.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
+anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
 timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 ratopati.com##.header-blocks-aspace
@@ -2811,7 +2811,7 @@ teluguwishesh.com##.wishesh-add
 jaybharatnews.com##.wonderplugincarousel
 khabarhikhabar.com,surgujasamay.com##.wonderplugincarousel-container
 cityhalchal.com,fbdnews.com##.wonderpluginslider
-amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com##.wonderpluginslider-container
+amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
 lalitpurkhabar.com,sabaikosamachar.com##.wp-block-gallery
@@ -2864,6 +2864,7 @@ uthayamnews.com##.wp-image-35692
 newssunamganj.com##.wp-image-3711
 kannadi.news##.wp-image-3732
 banglanewsdunia.com##.wp-image-37621
+namastepurvanchal.in##.wp-image-404
 lokhitexpress.com##.wp-image-41683
 banglanewsdunia.com##.wp-image-43277
 paribahanjagot.com##.wp-image-4609
@@ -3464,7 +3465,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,newssarakhon.com,newswings.online,prasashan.com,tirhutnow.com,unveilnewser.com##figure.wp-block-image
+amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,namastepurvanchal.in,newssarakhon.com,newswings.online,prasashan.com,tirhutnow.com,unveilnewser.com##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
@@ -3577,6 +3578,7 @@ maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 munaadi.com#?#.card:-abp-has(> h5:-abp-contains(Advertisment))
+namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
 nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(Advertisment))
 punjabiherald.co.nz##nav + div
 news11.live#?#.align_cent:-abp-contains(Advertise)
