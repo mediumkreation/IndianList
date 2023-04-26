@@ -2720,7 +2720,6 @@ dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
-malayaleepathram.com.au##.widget_black_studio_tinymce img
 24webnews.com,avikaluttarakhand.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 update24.net##.widget_block img:not([src*="stop-war.jpg"])
@@ -3570,6 +3569,8 @@ arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
+malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > img:only-child)
+malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > ins)
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
