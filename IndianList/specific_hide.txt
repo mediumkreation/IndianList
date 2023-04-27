@@ -3595,6 +3595,7 @@ onstimes.com#?#div.row: abp-has(> .col-md12 > .margin-top > img.attachment-full)
 overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
 horizonhind.com##p[class="fontBold"]
 pardaphashnews.live#?#.sidebar-widget:-abp-has(> .widget-body > p> img:only-child)
+pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
