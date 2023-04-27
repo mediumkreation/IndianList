@@ -425,7 +425,7 @@ khabarpahad.com,nationaltodaylive.com,peptechtime.com,sabkasandesh.com###media_i
 sabkasandesh.com###media_image-43
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
-badauntoday.com,banglasanglap.co.uk,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
+badauntoday.com,banglasanglap.co.uk,dailysomoyersomikoron.com,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 googlepokhara.com,madhyabhoomikeboal.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
@@ -2486,7 +2486,7 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-hellobikaner.in,khabargujarat.com,lakfmnews.lk,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,lakfmnews.lk,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
