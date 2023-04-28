@@ -3463,6 +3463,7 @@ fashionnewsera.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-
 voiceofmedia.lk##figure .prettyphoto
 indiaaajkal.in##figure .vc_single_image-img
 thepublictoday.com##figure .widget-image-caption
+lalmonibarta.com##figure > iframe
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
