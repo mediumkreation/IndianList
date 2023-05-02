@@ -360,6 +360,7 @@ enepalese.com###logo_middle
 cellitnews.com###logoright
 chandpurreport.com###main .code-block
 jansangathan.com###main .container
+dailynewsreport.in###main .entered:not([src*="WhatsApp-Join-Link.jpg"])
 newsuperbharat.com,primepunjab.com###main .widget_custom_html
 chhapratoday.com,himwantpradeshnews.com,newsxindia.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
