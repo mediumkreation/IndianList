@@ -2670,6 +2670,7 @@ sachetonbarta.com.bd##.vc_widget_sidebar .td-a-rec
 beautynewsnepal.com##.vce-blank-module:not(#main-box-12)
 dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
+indianewscentre.in##.video-container
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
