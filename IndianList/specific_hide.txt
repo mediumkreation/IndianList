@@ -2811,6 +2811,7 @@ anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
 khabareducation.com##.widget_text:not(#text-15)
+akashjatra.com##.widget_tibwky
 chandrikadaily.qa##.widget_viral_advertisement
 mathabhanga.com##.widget_viy
 thirdeyetoday.com##.widget_youtube_responsive
