@@ -1693,6 +1693,7 @@ anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekush
 timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 ratopati.com##.header-blocks-aspace
+digitalkhobor.com##.header-full-ads-top
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
