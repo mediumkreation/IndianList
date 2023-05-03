@@ -1435,6 +1435,9 @@ biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv##.d-flex
+mzamin.com##.d-sm-flex
+mzamin.com##.d-sm-none.d-block:not([class^="co"])
+mzamin.com##.d-sm-none.d-flex
 esidhakura.com##.daraz-ad
 ekantipur.com##.daraz-sponser
 telugusmtv.com##.data-area2 .heading
@@ -1916,7 +1919,6 @@ backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
-mzamin.com##.mb-2.d-sm-flex
 mzamin.com##.mb-5.justify-content-center
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
@@ -3356,8 +3358,8 @@ samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
 cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+8)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(1)
-cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(n+16)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(n+10)
+cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(n+16)
 anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 keralavoter.com##div[id^="AS_O_LHS_"] > div:nth-child(n+21)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
