@@ -614,7 +614,7 @@ rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 nationalwartanews.com###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,bolpanipat.com,dbnnews.in,meruraibar.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
+awajnews.com,bolpanipat.com,dbnnews.in,kannadavani.news,meruraibar.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 cholomanjobab24.com.bd,firstnewsbd.com,readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
@@ -2744,7 +2744,7 @@ sabkasandesh.com##.widget_block:not(#block-6)
 sylnewsbd.com##.widget_box img
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cgnama.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,kalkudahnation.com,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,quicklinenews.com,samachaarindia.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
+6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cgnama.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,quicklinenews.com,samachaarindia.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com##.widget_custom_html
 asrilanka.com##.widget_custom_html.panel-first-child
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
