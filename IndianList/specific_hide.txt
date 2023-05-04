@@ -1520,6 +1520,7 @@ graminujala.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-w
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
+citizenlive.news##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 shivshahilive.com##.elementor-widget-video
