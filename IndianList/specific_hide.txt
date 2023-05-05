@@ -691,7 +691,7 @@ dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
 samugammedia.com###tdi_124
 srujananedu.com###tdi_191
 ajhindidaily.in###tdi_90_f99
-anbnews24.com,timesoneodia.com###text-1
+anbnews24.com,liveindia.live,timesoneodia.com###text-1
 amritvarshanews.in,jagprerna.com,janmanindia.com,joyparajoy.com,medianp.com,moonbreaking.com,newscup.in,tamil.com,theblastkhabar.com###text-10
 anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,k24news.in,khagracharipratidin.com,muslimkural.com,najarianews.in,newscup.in,onlinesaptari.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 apnapradesh24x7.com###text-11 iframe
