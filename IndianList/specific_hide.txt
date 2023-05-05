@@ -30,7 +30,7 @@ gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
 36kaakda.in,battinews.com,cnblive.com,insightchhattisgarh.in,kanaighatnews.com,kushiyaranews.com,thattungal.com,ukliveuttrakhand.com###HTML3
-gramsamachar.com,jaldhakanews.com###HTML30
+gramsamachar.com,jaldhakanews.com,vbnews24.com###HTML30
 99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,eluvannews.com,kanaighatnews.com,malwalive.com,media24media.com,mithimedia.in,nbcbangla.com###HTML4
 tamilarul.net###HTML42
@@ -581,7 +581,6 @@ shreenews.in###secondary .widget_media_image:not(#media_image-30)
 jogiexpress.com###secondary .widget_media_video
 nagarikbahas.com###secondary .widget_sp_image
 24city.news,bangla52news.com,cpnews24.com,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
-vbnews24.com###secondary .widget_text:not(#custom_html-2)
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
@@ -629,7 +628,7 @@ khabarcgnews.com###sidebar-right .widget_block
 localnewsodia.com###sidebar-right .widget_block figure
 khamoshduniya.com###sidebar-right .widget_custom_html
 24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
-khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,shasansandesh.in,vbnews24.com###sidebar-right .widget_media_image
+khamoshduniya.com,newindiatimes.news,news24x365.com,parbattaanchal24.com,prameyanews7.com,shasansandesh.in###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 telugu99.com###sidebar-right > .widget_media_image
 samjhobharat.com###sidebar-right-1 .widget.Image
@@ -2706,6 +2705,7 @@ thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
 biharkhabars.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
+vbnews24.com##.widget.Image:not(#Image150)
 fourteenkerala.com##.widget.text-html
 dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
 bharatdarshannews.com##.widget1
@@ -3273,7 +3273,6 @@ lokshahi.com,navjivanindia.com##div[class*="m__ad"]
 prothomalo.com##div[class*="m__ads"]
 navjivanindia.com##div[class*="m__dfp"]
 deshdoot.com##div[class*="m_ad-slot"]
-vbnews24.com##div[class*="media_image-"]
 nainilive.com##div[class*="naini-"]
 sachkitop.com##div[class*="sachk-"]
 angultv.com,todaypati.com##div[class*="sgpb-"]
