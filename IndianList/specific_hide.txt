@@ -1501,7 +1501,7 @@ khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,bisshobarta24.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,nationone.tv,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,realtamilnews.com,sitakundabarta.com,thurannakathu.com,timetvusa.com,topnewskerala.com,ulipur.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,bisshobarta24.com,citywatchnews.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,nationone.tv,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,realtamilnews.com,sitakundabarta.com,thurannakathu.com,timetvusa.com,topnewskerala.com,ulipur.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
