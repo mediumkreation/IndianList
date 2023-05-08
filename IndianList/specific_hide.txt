@@ -394,13 +394,13 @@ bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,
 dgnews.co.in,jansaamna.com###media_image-13
 indianow24.com,jansaamna.com,sabkasandesh.com###media_image-14
 punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
-flowersoriginals.com,kushinagarlive.com###media_image-16
+flowersoriginals.com###media_image-16
 hindvatannews.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,webreporter.co.in###media_image-19
 aajtakmedia.net,abpbharat.com,balliatimes.com,banglaralobd.com,banglatelegraph.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,knlslive.com,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,parvasinewspaper.com,pathivaraonline.com,prajasatta.in,prameya.com,punjablivekhabarnama.com,puthusudar.lk,sajagpahad.com,sancharbani.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 prompttimes.com###media_image-20
-dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
+dainikmaharajganj.in,ggsnews24.com,gnews5.com###media_image-21
 cgnews24x7.wordpress.com,dainikchintak.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
@@ -1836,6 +1836,7 @@ khabarhub.com##.khabarhub-inner-ads
 khulasanewslive.in##.khulasanewslivewidget
 koyilandydiary.com##.koyil-widget
 kannurnewsonline.com##.ktmjq
+kushinagarlive.com##.kushi-after-content
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
 punjabenews.com##.latest_post > img
