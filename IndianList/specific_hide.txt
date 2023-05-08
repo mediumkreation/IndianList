@@ -530,6 +530,7 @@ ajdapunjab.com###primary .widget_media_image
 bhalukanews.com###primary img[alt="ads"]
 koshionline.com###primary section.widget_media_image
 purbashabd24.com###primary-sidebar
+samacharhouse.com###quads-ad17070
 akhandbharatsamachar.com###recent-boxes2
 goodnewsbharat.com###recent-post-slider-1
 manithan.com###recommendations
