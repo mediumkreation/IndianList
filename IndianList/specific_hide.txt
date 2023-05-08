@@ -1539,6 +1539,7 @@ ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 thelucknowtribune.com##.entry-content > div[class]:not(.addtoany_content)
+kaptaan.co.in##.entry-content > div[style*="float"]
 loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
