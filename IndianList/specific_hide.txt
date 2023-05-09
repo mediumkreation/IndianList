@@ -1138,7 +1138,7 @@ dailysports24.com##.advertaisement
 atalsamachar.com##.advertisRow > div ~ div
 bikashnews.com,dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
-drukpadam.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
+drukpadam.com,hindustandailynews.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 margarekha.com##.advertise-border
 nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
