@@ -8,7 +8,6 @@ jhabuanews.in,perfecttamil.com###FloatAdx-right
 arerajdarshan.com###FullWidthWidget-Top
 metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
-atalsamachar.com###HP_O_TP_2 > div ~ div
 actionnews.in,balotranewstrack.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
 chilahatiweb.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com,yarldevinews.net###HTML10
@@ -1112,7 +1111,7 @@ gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,orthosongbad.com,sonalinews.com##.adv-img
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
-anweshanam.com,atalsamachar.com,cityandolan.com,devpath.in##.advRow-fullW
+anweshanam.com,cityandolan.com,devpath.in##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 keralaexpress.com##.adv_big
@@ -1135,7 +1134,6 @@ nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
-atalsamachar.com##.advertisRow > div ~ div
 bikashnews.com,dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
 drukpadam.com,hindustandailynews.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
@@ -1579,7 +1577,7 @@ satyapathnews.com##.etad
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
-atalsamachar.com,metrojournalonline.com##.extraList
+metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 parichaya.com##.exv-image
 channelionline.com##.eyli
@@ -3213,6 +3211,7 @@ jagatprahari.com##aside.widget_text:not(#text-25):not(#text-27)
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 asr24.news#?#.card:-abp-has(> .card-header:-abp-contains(Advertisment))
+atalsamachar.com#?#div[id^="AS_O_LHS"] > div:-abp-has(a[href*="paid.outbrain.com"])
 azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="u=https%3A%2F%2Fazhimukham.com"]))
 bdcrime24.com#?#.textwidget:-abp-has(.adsbygoogle)
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(MIsource))
