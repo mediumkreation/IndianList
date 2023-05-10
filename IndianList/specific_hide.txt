@@ -1378,7 +1378,7 @@ tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 odishareporter.in##.colombia
-anugrahavision.com,azhimukham.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
+anugrahavision.com,azhimukham.com,chopaltv.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
@@ -1876,6 +1876,7 @@ postpati.com##.long_adv
 doolnews.com##.long_adv_area
 bholabani.com##.longad
 newsdoor.net##.lrads
+chopaltv.com##.m-280
 71sangbad.com##.m_none > a[target="_blank"]
 irinjalakudalive.com,themenews24.com##.mag-adver-part
 odia-ray.in##.main .bannergroup
@@ -3442,6 +3443,7 @@ todaypostlive.com##div[id^="today-"]
 vachakam.com##div[id^="topmiddle"]
 tvannapurna.com##div[id^="tvann-"]
 udupixpress.com##div[id^="udupi-"]
+chopaltv.com##div[id^="v-chopaltv"]
 vijayavani.net##div[id^="vijay-"]
 visiontimes.news##div[id^="vision-"]
 navayuganews.com##div[id^="vuqly-"]
