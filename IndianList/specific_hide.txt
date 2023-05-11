@@ -569,7 +569,7 @@ prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
-bbn24news.com,brightpost.in,dainikchintak.com,haikaravali.com,indiapolkhol.in,kelopravah.news,konnivartha.com###secondary .widget_block
+bbn24news.com,brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiapolkhol.in,kelopravah.news,konnivartha.com###secondary .widget_block
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
@@ -579,7 +579,7 @@ dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 jogiexpress.com###secondary .widget_media_video
 nagarikbahas.com###secondary .widget_sp_image
-24city.news,bangla52news.com,cpnews24.com,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
+24city.news,bangla52news.com,cpnews24.com,dastavej.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
 badaunexpress.com###secondary > aside:not(#recent-posts-3)
@@ -1538,7 +1538,7 @@ ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
 thelucknowtribune.com##.entry-content > div[class]:not(.addtoany_content)
-kaptaan.co.in##.entry-content > div[style*="float"]
+dastavej.in,kaptaan.co.in##.entry-content > div[style*="float"]
 loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
@@ -2804,7 +2804,6 @@ dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
-dastavej.in##.widget_text iframe
 thejoharnews.com##.widget_text iframe[title]
 prothomshomoy.com##.widget_text img
 anubhaviaankhennews.com##.widget_text p
