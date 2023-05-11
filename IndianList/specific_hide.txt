@@ -888,7 +888,7 @@ aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,malayalamuk.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
+akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,mazzakoonline.com,mediaoneonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,swalenewsbank.com,virakesari.lk##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
@@ -906,7 +906,6 @@ cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 news18.com,saralpatrika.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
-malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 nayabikalpa.com,newsroomme.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
@@ -2584,7 +2583,6 @@ krishideepam.in##.tm-adv-header
 lankasri.com##.today-eds-wrap
 news4nation.com##.top iframe
 anweshanam.com##.top-ad-d
-malayalamuk.com##.top-ad4
 beanibazarnews24.com,bigkhabar.com##.top-add
 thereport24.com##.top-add-left4
 aperata.net##.top-ads-block
