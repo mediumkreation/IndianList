@@ -3498,6 +3498,7 @@ lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
 horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
+kailarionline.com##hr:first-child ~ div
 hrbreakingnews.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > h5:-abp-contains(Ad |))
 infosrilankanews.info##html12
 infosrilankanews.info##html2
