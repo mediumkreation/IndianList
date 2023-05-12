@@ -3489,6 +3489,7 @@ kheldhaba.com##figure.wp-block-image:not(.size-large)
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
+filmybuzz.com#?#.container-fluid div:-abp-has(> h2:-abp-contains(Ads))
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 garavigujarat.biz#?#.wpb_raw_html:-abp-has(.adsbymahimeta)
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
