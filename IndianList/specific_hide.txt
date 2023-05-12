@@ -2823,7 +2823,7 @@ cityhalchal.com,fbdnews.com##.wonderpluginslider
 amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
-lalitpurkhabar.com,sabaikosamachar.com##.wp-block-gallery
+lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 dristyprotidin.com##.wp-block-gallery-3
 ghaziabad365.com,royalnews13.in##.wp-block-group
 dainikdishari.com,dthreeonline.com,epaperindia.in,joharlive.com,royalnews13.in##.wp-block-image
@@ -3473,7 +3473,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-aksherpati.com,amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,namastepurvanchal.in,newssarakhon.com,newswings.online,prasashan.com,tirhutnow.com,unveilnewser.com##figure.wp-block-image
+aksherpati.com,amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,prasashan.com,tirhutnow.com,unveilnewser.com##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
