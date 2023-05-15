@@ -2360,7 +2360,7 @@ hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
-andhrajyothy.com##.stickyAds
+andhrajyothy.com,channel24bd.tv##.stickyAds
 doolnews.com##.story-ad250
 livehindustan.com##.story-listing:empty
 bankura24x7.com##.story_content > .image-and-caption-wrapper
@@ -3448,6 +3448,7 @@ maagulf.com##div[style*="height:260px"]
 patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
 thedailycampus.com##div[style*="width: 300px"][style*="height: 250px;"]
 thedailycampus.com##div[style*="width:300px"][style*="height:250px;"]
+channel24bd.tv##div[style="height: 250px;"]
 bbarta24.net##div[style="height:78px; width:100%"]
 telugucalendar.org##div[style="margin-top:-10px; text-align:center;"] span
 kannada.oneindia.com##div[style="min-height: 250px;"]
