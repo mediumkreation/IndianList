@@ -1819,6 +1819,7 @@ alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
+filmyfanda.com##.jft_ads
 jharkhand-news.com##.jhark-content
 joginderposwal.com##.jogin-widget
 jonopodsangbad.com##.jonop-content
@@ -1866,7 +1867,7 @@ farwesttimesdaily.com##.logo__right
 hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
 aayokhabar.com,arthakoartha.com,dharananews.com##.long-ad
-ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
+ebrightnepal.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
