@@ -2838,6 +2838,7 @@ newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042
 kalyugkatehelka.com##.wp-image-1118
 hindustanheadlines.in##.wp-image-11223
+lokhitexpress.com##.wp-image-122343
 odishasambad.in##.wp-image-126002
 bebakuttarakhand.com##.wp-image-12972
 onakanthirkantho.com##.wp-image-133
@@ -2870,7 +2871,6 @@ namastepurvanchal.in##.wp-image-404
 lokhitexpress.com##.wp-image-41683
 banglanewsdunia.com##.wp-image-43277
 paribahanjagot.com##.wp-image-4609
-lokhitexpress.com##.wp-image-53212
 paribahanjagot.com##.wp-image-5343
 paribahanjagot.com##.wp-image-5345
 paribahanjagot.com##.wp-image-5348
@@ -3124,7 +3124,6 @@ eelamalar.com##a[href*="veeramaravarkal.com"]
 eelamalar.com##a[href*="veeravengaikal.com"]
 eelamalar.com##a[href*="verkal.com"]
 varthabharati.in##a[href*="vishwasbawa.com"]
-lokhitexpress.com##a[href*="wa.me"]
 uttranews.com##a[href*="wa0009"]
 uttranews.com##a[href*="wa0013"]
 uttranews.com##a[href*="wa0014"]
