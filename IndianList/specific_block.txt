@@ -13,7 +13,7 @@
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|satkhiraprotidin.net|suprovatsatkhira.com
--add-$image,domain=chauthiduniya.com|dainikazadi.net|filmyfanda.com|samarneetinews.com|shomoynews.net
+-add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com|shomoynews.net
 -add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
 -add.jpg|*$domain=ratdinnews.net
@@ -1618,7 +1618,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ferozepuronline.com/wp-content/uploads/2019/12/gp-webs-banner.jpg
 ||ferozepuronline.com/wp-content/uploads/2019/12/wings-ad.jpeg
 ||filmdon.com/images/add.jpg
-||filmyfanda.com^*/oppo.png
 ||filmykhabar.com/data/web_banner/
 ||financialviews.in/storage/uploads/admin/ads/
 ||firstbihar.com/Media/parcha/
