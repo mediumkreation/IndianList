@@ -1395,6 +1395,7 @@ udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 colombotamil.lk,rni.news,udaybulletin.com##.container-bn
 newsworldweb.in##.container.frame
+aponzonepatrika.com##.container1
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
