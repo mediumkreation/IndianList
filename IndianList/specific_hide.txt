@@ -2924,6 +2924,7 @@ lokpukar.com##.wpb_single_image img:not([src*="mukhaya-mantri-add.gif"])
 newsboardindia.com##.wpb_singleimage_heading
 todaybhaskar.com##.wpb_text_column
 smartlady.lk##.wpb_text_column.tagdiv-type
+bholanews24.com##.wpb_text_column.wpb_content_element
 alamkikhabar.in,deshbartabd.com,saunewsnetwork.com##.wpb_video_widget
 wishavwarta.in##.wpb_widgetised_column .wp-block-image
 aadarshhimachal.com##.wpb_wrapper .rll-youtube-player
@@ -3208,7 +3209,6 @@ bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(Prasadam))
 bhaskar.com#?#div:-abp-has(> div[id^="Ad--"])
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
-bholanews24.com#?#.wpb_wrapper > p:-abp-has(ins.adsbygoogle)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
