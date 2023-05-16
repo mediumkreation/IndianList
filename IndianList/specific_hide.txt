@@ -2924,6 +2924,7 @@ lokpukar.com##.wpb_single_image img:not([src*="mukhaya-mantri-add.gif"])
 newsboardindia.com##.wpb_singleimage_heading
 todaybhaskar.com##.wpb_text_column
 smartlady.lk##.wpb_text_column.tagdiv-type
+bholanews24.com##.wpb_text_column.wpb_content_element
 alamkikhabar.in,deshbartabd.com,saunewsnetwork.com##.wpb_video_widget
 wishavwarta.in##.wpb_widgetised_column .wp-block-image
 aadarshhimachal.com##.wpb_wrapper .rll-youtube-player
