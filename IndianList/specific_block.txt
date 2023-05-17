@@ -7,6 +7,7 @@
 -ad-Side-Bar.png|$domain=buxaruptodate.com
 -ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
+-Ad.jpg|$domain=barishalcrimenews.com
 -ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
 -Ad.jpg|$domain=gtamilnews.com
 -ad.jpg|$domain=rashtrachandika.com|unitednewskannada.com
@@ -596,12 +597,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||barishalcitynews.com/wp-content/uploads/2021/05/OK.jpg
 ||barishalcitynews.com/wp-content/uploads/2021/10/adcityu.jpg
 ||barishalcitynews.com/wp-content/uploads/2022/07/291745943_901771514550847_4905507911618585760_n-8.jpg
-||barishalcrimenews.com/wp-content/uploads/2020/01/AnchorAD$image
-||barishalcrimenews.com/wp-content/uploads/2020/01/ShikderAD$image
-||barishalcrimenews.com/wp-content/uploads/2020/01/SuvoAD1$image
-||barishalcrimenews.com/wp-content/uploads/2020/01/website-ad$image
-||barishalcrimenews.com/wp-content/uploads/2021/01/Anchor-20.jpg
-||barishalcrimenews.com^*/Ad$image
+||barishalcrimenews.com^*/Anchor
 ||barishaltimes.com/wp-content/uploads/2021/01/Screenshot.png
 ||barishaltimes.com/wp-content/uploads/2021/09/Screenshot-27-1.png
 ||barishaltimes.com^*/Anchor-2.png
