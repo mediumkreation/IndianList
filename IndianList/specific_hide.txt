@@ -256,7 +256,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,livepress24.com,matribhumisamachar.com,media24news.in,minoritiesnews.com,mussoorieaajtak.com,muthalvannews.com,newschutney.com,oktelugu.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,media24news.in,minoritiesnews.com,mussoorieaajtak.com,muthalvannews.com,newschutney.com,oktelugu.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,satnanews.net,satyagrahanews.in,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -2022,7 +2022,7 @@ onlinekhabar.com##.nh_list
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
-minnal24.com,newstodaycg.com,sakalakhabar.com,sudurpashimkhabar.com,tvannapurna.com,wayanadnewsdaily.com##.no-bg-box-model
+live7tv.com,minnal24.com,newstodaycg.com,sakalakhabar.com,sudurpashimkhabar.com,tvannapurna.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
@@ -3329,7 +3329,7 @@ biratkhabar.com##div[class^="top-sidebar-adv"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,live7tv.com,makalukhabar.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
 himaliawaj.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
