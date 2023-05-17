@@ -1070,7 +1070,6 @@ nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 newscircle.in##.ads-2018
 iamgujarat.com,samayam.com##.ads-between-story
 bangladesherkhabor.net##.ads-center-mt
-nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
 madhyakesari.com##.ads-iframe
 bangladhara.com,ekattorbanglanews.com##.ads-rightside
@@ -2049,7 +2048,7 @@ apnapunjabmedia.com##.order-3 .mt-4
 cinemavalai.com##.page.hentry
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
-corporatenepal.com##.para-3-ad
+corporatenepal.com,nepalbahas.com##.para-3-ad
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
 parvatprerna.com##.parva-widget
@@ -3296,6 +3295,7 @@ patnapost.com##div[class^="aryav-"]
 hindustanvision.com##div[class^="avtg"]
 mathrubhumi.com##div[class^="banner_sliders"]
 barnalatoday.com##div[class^="barnalatoday"]
+nepalbahas.com##div[class^="bigyapan"]
 deshajtimes.com##div[class^="desha-"]
 rajyasameeksha.com##div[class^="display-area"]
 kungumam.co.in##div[class^="google-"]
@@ -3638,7 +3638,7 @@ news24bd.net##section.text-center
 aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,khabarkura.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 suryakhabar.com##section.widget > figure
-clickmandu.com,himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,nepalbahas.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,sutranews.com,yohokhabar.com##section.widget img
+clickmandu.com,himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,sutranews.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
