@@ -1160,7 +1160,7 @@ jananesan.com##.advertisement_bar
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
-anugrahavision.com,cricketkhabara.com,keralavoter.com,upuklive.com##.advertismentRow
+anugrahavision.com,cricketkhabara.com,keralavoter.com,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
 dainiksylhet.com##.advsingle
@@ -1378,9 +1378,8 @@ banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 odishareporter.in##.colombia
 anugrahavision.com,azhimukham.com,chopaltv.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,rochakkhabare.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
-uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,uttarakhandpost.com,yuvaharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 capitalnepal.com##.comon-ads
