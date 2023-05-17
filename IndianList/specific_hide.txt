@@ -3589,6 +3589,7 @@ pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > spa
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > img:only-child)
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > ins)
+manvadhikarabhivyakti.com#?#.td-main-content-wrap .td-a-rec:-abp-has(> div > div > h4.block-title)
 arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
