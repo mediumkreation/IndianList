@@ -2072,8 +2072,6 @@ hamdardtv.com##.plyr
 eimuhurte.com##.popUPBox
 jamalpurlive.com##.popbox
 bonikbarta.net##.popupCloseButton
-rtvonline.com##.popup_blackoverlay
-rtvonline.com##.popup_whiteoverlay
 apnamzn.com##.portlet-journal-content
 thenewsqube.com##.pos
 dailydhaka24.com##.pos-index img
