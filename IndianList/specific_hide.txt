@@ -1972,6 +1972,7 @@ dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
 aamsanchar.com##.my-2
+corporatenews.com.bd##.my-3 img
 patrika.com##.my-4[style*="min-height"]
 mzamin.com##.my-5.justify-content-center
 news18.com##.my-ad-rhs
