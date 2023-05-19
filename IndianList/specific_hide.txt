@@ -1514,7 +1514,7 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 graminujala.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
-ambalacoverage.com##.elementor-widget-shortcode img
+ambalacoverage.com,banglasangbad24.com##.elementor-widget-shortcode img
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
 citizenlive.news##.elementor-widget-smartmag-codes
@@ -1958,7 +1958,6 @@ news13.in##.mobadv-4
 bhilwarahalchal.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 mohagani.com##.mohag-widget
-banglasangbad24.com##.mom-e3lan
 everesttimes.net,pclive7.com,uthayannews.ca##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 khoborbari24.com##.mom_ads300
