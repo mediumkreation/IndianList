@@ -1193,6 +1193,7 @@ paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
 heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
+helloswasthya.com##.article-desktop-ad-container
 lokmatnews.in##.articlePage
 moviemax.in##.articleText > center > div
 newsatfirst.com##.aside-add
