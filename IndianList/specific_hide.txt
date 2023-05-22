@@ -442,7 +442,7 @@ derbykhabar.com,divyalive.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 aajkaaditya.in,cgtazanews.com,globalnews24x7.com,indianamo.com,khabarchalisa.com,livesamachar.live,mussoorieaajtak.com,news127.com,pradeshnews24x7.com###media_video-2
-apnades.in,digitaltrend-news.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,newswayanad.in,thesunrisetoday.com###media_video-3
+apnades.in,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,newswayanad.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 countrynewstoday.com,madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
@@ -713,7 +713,6 @@ aapkisafalta.com,achhisoch.com,apnades.in,ekusheralo24.com,roopcare.com###text-2
 satyamlive.com,tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
-garhwalkavikas.com###text-29 iframe
 abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,tamizhdb.com,uniquesamay.com###text-30
@@ -2826,7 +2825,7 @@ nainilive.com##.wp-block-image img
 abtnews.in##.wp-block-jetpack-slideshow
 purvanchalnews.com##.wp-block-nextend-smartslider3
 kafaltree.com##.wp-block-video
-dgnews.co.in,pplnews.in##.wp-custom-header
+dgnews.co.in,garhwalkavikas.com,pplnews.in##.wp-custom-header
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042
