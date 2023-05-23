@@ -3599,6 +3599,7 @@ namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contai
 nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(Advertisment))
 punjabiherald.co.nz##nav + div
 naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
+nayanjagriti.com#?#div:-abp-has(> ins.adsbygoogle)
 news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#.listview-story li:-abp-has(div[id^="mobileAd"])
