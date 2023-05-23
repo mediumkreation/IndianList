@@ -2628,6 +2628,7 @@ ajakoartha.com,banglavashi.com,dcnepal.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 nepalplus.com##.topfull
+sandeshnow.com##.tophightlight_ad
 janwani.in##.toplogobannerRS1 .topcol1
 divyahimachal.com##.topnewsbx > div[style]
 seithy.com##.toppageadsindexheader
@@ -2806,6 +2807,7 @@ anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
 khabareducation.com##.widget_text:not(#text-15)
+sandeshnow.com##.widget_text:not(#text-6)
 akashjatra.com##.widget_tibwky
 chandrikadaily.qa##.widget_viral_advertisement
 mathabhanga.com##.widget_viy
