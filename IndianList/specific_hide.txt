@@ -449,6 +449,7 @@ democratictvnews.com,udaydinmaan.com###media_video-6
 middleeastchandrika.com###mep_0
 arthanepal.com,eparinews.com,sunaulonepal.com###messagem
 ganthan.com###messagem1
+ravivardelhi.com###metaslider-id-135
 tarunchhattisgarhkorba.com###metaslider-id-56652
 smnewshimachal.in###metaslider-id-8121
 idunammaooru.in###metaslider_10258
@@ -462,7 +463,7 @@ biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
 abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in###metaslider_widget-2
-24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,thekhabri.in###metaslider_widget-3
+24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,ravivardelhi.com,thekhabri.in###metaslider_widget-3
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
@@ -1707,7 +1708,7 @@ dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 metroplus.online##.header-wraper .fullwidthabanner
 talashbangla.com##.header__add
-corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,shramjeevijournalist.com,tamilstar.com##.header__banner
+corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
 lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
