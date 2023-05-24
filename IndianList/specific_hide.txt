@@ -2234,6 +2234,7 @@ despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 aajbangla.in##.sidebar-widget
 dhamaka36.com##.sidebar-widget .image
+dakshinapath.com##.sidebar-widget .widget-body > p > img
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
