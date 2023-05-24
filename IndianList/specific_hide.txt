@@ -311,7 +311,7 @@ newsbazar24.com###header .col-lg-7
 odishamirror.com###header .sidebar
 digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
 khabarhouse.com###header .widget_block
-cinemasthi.com,prothomshomoy.com,punjabinational.ca###header-aside
+cinemasthi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
 allwnews.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,keralanewz.com,naturalnews.co.in,paryavaranpost.com,primepunjab.com,rozanapost.in###header-right-section
@@ -384,7 +384,7 @@ webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 goodmorningindia.net###media_image-1
-bijoynewsbd24.com,canvasmagazine.com.bd,dailynewshindi.com,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,magahinews.com,navpradesh.com,news21live.in,parbatyachattagram.com,solantoday.com,starexpress.news###media_image-10
+bijoynewsbd24.com,canvasmagazine.com.bd,dailynewshindi.com,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,magahinews.com,navpradesh.com,news21live.in,parbatyachattagram.com,starexpress.news###media_image-10
 canvasmagazine.com.bd,navpradesh.com,palampuronline.com,samacharplusnews.com###media_image-11
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,manzilnews.in,samajeralo.com###media_image-12
 dgnews.co.in,jansaamna.com###media_image-13
