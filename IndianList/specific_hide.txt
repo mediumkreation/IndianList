@@ -324,7 +324,6 @@ newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 samudrapari.com###home-top-sidebar
-theeditors.net###home_row .widget_media_image
 apkhabar.com,radiobihani.org###homeads
 thedailycampus.com###homepageTopLeader_2
 thedailycampus.com###homepageTopLeaderboard_1
@@ -1564,7 +1563,6 @@ news1hindustan.com##.entry-content iframe
 newswatch.co.in##.entry-content img:only-child
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 thepoliticsagain.com##.entry-content p > img
-theeditors.net##.entry-content p img
 chhapratoday.com##.entry-the-content .code-block
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -1749,7 +1747,7 @@ biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
 news71online.com,shamolynews24.com##.home_last_ad
-bornamelanews24.com,dainikdeshseba.com,durnitibarta.com,gouripurnews.com,saplatv.com##.home_page_ad
+bornamelanews24.com,dainikdeshseba.com,durnitibarta.com,gouripurnews.com,saplatv.com,theeditors.net##.home_page_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 bishwabarta.com,shamolynews24.com##.home_widget
