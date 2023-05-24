@@ -880,7 +880,7 @@ keralakaumudi.com##.a-728-90
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com,business24bd.com##.a-widget
-dailysamvad.com,glimeindianews.in,himachalvarta.com,indianewsviral.co.in,kannadanewsnow.com,livemagadh.com,thenetizennews.com##.a-wrap
+dailysamvad.com,glimeindianews.in,himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,thenetizennews.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -1824,6 +1824,7 @@ joginderposwal.com##.jogin-widget
 jonopodsangbad.com##.jonop-content
 abhibharat.com##.jur
 kageshworikhabar.com##.kages-widget
+kanakaionline.com##.kanak-content
 prabartan.com##.kc_single_image
 karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
@@ -2323,7 +2324,7 @@ rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
-inews.zoombangla.com,kanakaionline.com,kannadanewsnow.com##.smartmag-widget-codes
+inews.zoombangla.com,kannadanewsnow.com##.smartmag-widget-codes
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 dinajpurnews24.com##.software
