@@ -2159,6 +2159,7 @@ amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
 prernanews.com##.sadv
+samaydarshan.in##.samay-widget
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
 khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
