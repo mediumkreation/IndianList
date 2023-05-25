@@ -1536,7 +1536,6 @@ beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangl
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
-andbiharnews.co.in##.entry-content .wp-block-gallery
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
