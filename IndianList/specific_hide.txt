@@ -3401,6 +3401,7 @@ sathyamonline.com##div[id^="inven-"]
 aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
 khabarbihar.in,khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
+livetrends.news##div[id^="livet-"]
 lokalok.in##div[id^="lokal-"]
 madathakaja.com##div[id^="madat-"]
 malabarinews.com##div[id^="malab-"] > img
