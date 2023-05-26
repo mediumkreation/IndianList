@@ -1307,6 +1307,7 @@ britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 topnepalnews.com##.border-bottom.bg-white
+bornamelanews24.com##.bornamelanews24adlabel
 bbcpunjab.com##.bot-ads
 samakal.com##.bottomReadMoreCart div[style*="width: 300px !important;height: 250px"]
 samakal.com##.bottomStickyDesktopDiv
@@ -1686,7 +1687,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
-anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com,update24.net##.header-banner
+anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 ratopati.com##.header-blocks-aspace
@@ -1735,7 +1736,6 @@ setoshikhar.com##.hmxbiekzq
 madhyamam.com##.hocal-ad-block
 chattogramnews.com##.home .elementor-widget-image
 bangla-news24.com##.home-e3lan
-update24.net##.home-featured-boxes
 dabangmedia.com##.home-gallery.photo-gallery
 cibindianews.com##.home-lead-block
 tamiltradepost.com##.home-mid-banner
@@ -2735,7 +2735,6 @@ amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
 24webnews.com,avikaluttarakhand.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
-update24.net##.widget_block img:not([src*="stop-war.jpg"])
 newszon.in##.widget_block:not(#block-10)
 agrtanews.com##.widget_block:not(#block-2)
 uttarakhandsamachar.com##.widget_block:not(#block-26)
@@ -3482,7 +3481,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-aksherpati.com,amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,prasashan.com,tirhutnow.com,unveilnewser.com##figure.wp-block-image
+aksherpati.com,amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
