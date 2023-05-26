@@ -1128,7 +1128,7 @@ radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
-ada.lk,divyahimachal.com,everesttimesnews.com,manithan.com,samvaad365.com,tamilan24.com##.advert
+ada.lk,divyahimachal.com,manithan.com,samvaad365.com,tamilan24.com##.advert
 ada.lk##.advert-single
 nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
@@ -3655,7 +3655,7 @@ nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 newspolar.com##section.widget img:not(.wp-image-85386):not(.wp-image-87331)
-kathmandupati.com,lokpath.com##section.widget img:only-child
+everesttimesnews.com,kathmandupati.com,lokpath.com##section.widget img:only-child
 dainikbharat24.com##section.widget_block
 bidrohee.com,drukpadam.com,uttarkal.com##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
