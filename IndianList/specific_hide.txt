@@ -3229,6 +3229,7 @@ dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contain
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 dhamaka36.com#?#h2:-abp-contains(Advertisement)
 abnews24bd.com##div img[src^="ad/"]
+sansarnews.com##div.a
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
 livehindustan.com##div.st-cat-news:empty
