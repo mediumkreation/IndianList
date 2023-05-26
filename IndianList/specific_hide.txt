@@ -223,7 +223,7 @@ humhindustanilive.com###content .master-slider-parent
 nepalimato.com###content .news_portal_ads_banner
 kelanchaltimes.com,sabkajammukashmir.com###content .stream-item
 giridihupdates.com,overlook.co.in###content .widget_block
-suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
+khabarmala.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
 panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
 kabirkiawaz.in###content .widget_text:not(#text-8)
@@ -420,7 +420,7 @@ khabarpahad.com,nationaltodaylive.com,peptechtime.com,sabkasandesh.com###media_i
 sabkasandesh.com###media_image-43
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
-badauntoday.com,banglasanglap.co.uk,dailysomoyersomikoron.com,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
+badauntoday.com,banglasanglap.co.uk,dailysomoyersomikoron.com,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 googlepokhara.com,madhyabhoomikeboal.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
