@@ -1277,7 +1277,7 @@ mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
 aayomail.com,himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
-dekhapadhi.com##.bigyaapan-section
+dekhapadhi.com,sajhapost.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
@@ -1636,7 +1636,7 @@ rastriyakhabar.com##.full-ads-wrapper
 khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
-baahrakhari.com,khelpati.com##.full-bigyapan
+baahrakhari.com,khelpati.com,sajhapost.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
 hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
