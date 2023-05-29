@@ -1307,6 +1307,7 @@ britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
 topnepalnews.com##.border-bottom.bg-white
+bornamelanews24.com##.bornamelanews24adlabel
 bbcpunjab.com##.bot-ads
 samakal.com##.bottomReadMoreCart div[style*="width: 300px !important;height: 250px"]
 samakal.com##.bottomStickyDesktopDiv
