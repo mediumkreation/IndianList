@@ -2058,7 +2058,7 @@ parvatprerna.com##.parva-widget
 dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
-updatesatkhira.com##.penci-google-adsense-2
+dailysatkhira.com,updatesatkhira.com##.penci-google-adsense-2
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
