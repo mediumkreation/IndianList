@@ -1435,6 +1435,7 @@ biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv##.d-flex
+chandpursangbad.com##.d-print-none
 mzamin.com##.d-sm-flex
 mzamin.com##.d-sm-none.d-block:not([class^="co"])
 mzamin.com##.d-sm-none.d-flex
