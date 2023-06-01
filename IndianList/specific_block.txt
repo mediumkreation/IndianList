@@ -73,7 +73,7 @@
 /ads.jpg|$domain=natunsomoy.net
 /ads/*$domain=aajkadinnews.com|andhrapatrika.in
 /Ads/*$domain=bd-journal.com
-/ads/*$domain=bdrtnn.net|dharitri.com|jugantor.com
+/ads/*$domain=bdrtnn.net|dainikdristipat.com|dharitri.com|jugantor.com
 /adss/*$domain=tharunaya.us
 /adv-$domain=devbhoomimedia.com
 /Adv/*$domain=dakhal.net
