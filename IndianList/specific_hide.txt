@@ -2752,6 +2752,7 @@ parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 giraya.lk##.widget_custom_html:not(#custom_html-7)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
+vskbihar.com##.widget_digital_newspaper_banner_ads_widget
 newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
