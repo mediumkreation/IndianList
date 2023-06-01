@@ -2094,7 +2094,7 @@ sonalibanglanews.com##.post-inner .code-block img
 mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
 shirurtaluka.com##.post-item-description p img
-mysanchar.com,ujalahiteshiexpress.com##.post-middle-banner
+ujalahiteshiexpress.com##.post-middle-banner
 telugutimes.net##.post-sidebar-area
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 mysamachar.in##.post-text section
@@ -2918,7 +2918,7 @@ poribortonersopoth.com,sangbaddiganta.com##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
-adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,nayapusta.com,newsbreathe.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
+adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 atozpatrika.com##.wpb_single_image img:not([src*="krishi-"]):not([src*="ban2-"])
@@ -3324,7 +3324,7 @@ sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
-bolanyathali.com,khabarpurwanchal.com,nayanepalnews.com,news14india.com,pcbtoday.in,samriddhasamaj.com,suryaa.co.in##div[class^="sgpb-"]
+bolanyathali.com,khabarpurwanchal.com,mysanchar.com,nayanepalnews.com,news14india.com,pcbtoday.in,samriddhasamaj.com,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 samakal.com##div[class^="textBodyAd"]
