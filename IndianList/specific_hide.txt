@@ -3486,7 +3486,6 @@ aksherpati.com,amchimumbaionline.com,chandpurtelevision.com,chitrarpar.com,daini
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
-arlivenews.com##figure.wp-block-image.size-large img:not([src*=udaipur-uit-])
 kheldhaba.com##figure.wp-block-image:not(.size-large)
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
@@ -3598,7 +3597,7 @@ pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > img:only-child)
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > ins)
 manvadhikarabhivyakti.com#?#.td-main-content-wrap .td-a-rec:-abp-has(> div > div > h4.block-title)
-arlivenews.com,cnin.co.in,dainikjaltedeep.com##marquee
+cnin.co.in,dainikjaltedeep.com##marquee
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
