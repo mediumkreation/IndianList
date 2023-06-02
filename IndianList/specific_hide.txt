@@ -3073,7 +3073,7 @@ sharebazarnews.com##a[href*="kidarkar.com"]
 malayalees.ch##a[href*="kidoovacations.com"]
 techalonews.com##a[href*="kitchenworldbd.com"]
 uttranews.com##a[href*="kolkata_2"]
-chattolarkhabor.com,ctgpratidin.com,jamuna.tv##a[href*="ksrm.com.bd"]
+chattolarkhabor.com,ctgpratidin.com##a[href*="ksrm.com.bd"]
 gramajyothi.com##a[href*="lunars.com"]
 akkinikkunchu.com##a[href*="lycamobile.com.au"]
 akkinikkunchu.com##a[href*="lycatv.tv"]
@@ -3215,6 +3215,7 @@ bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
+jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
