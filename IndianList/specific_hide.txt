@@ -723,7 +723,7 @@ satyamlive.com###text-33
 hindustanheadlines.in,satyamlive.com###text-34
 satyamlive.com###text-35
 anaicoddai.com,satyamlive.com###text-36
-anaicoddai.com,satyamlive.com,tamizhdb.com###text-37
+anaicoddai.com,satyamlive.com,sharebiz.net,tamizhdb.com###text-37
 anaicoddai.com,uniquesamay.com###text-38
 himalini.com,satyamlive.com###text-39
 ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,ekhabar.in,ghazipurkhabar.co.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,newswatch.co.in,orthosongbad.com,punjabbaani.com,sabjanta.info,shomoynews.com,shreekanchanpath.com,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
@@ -2099,6 +2099,7 @@ telugutimes.net##.post-sidebar-area
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 mysamachar.in##.post-text section
 firstbihar.com##.post-widget-carouselr
+sharebiz.net##.post-wrap.post .sidebar .widget_text
 satkarpost.com##.posts__banner__ads
 sabkikhabar.com,samarthsahara.com,todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
@@ -3114,7 +3115,6 @@ pannagam.com##a[href*="stsstudio.com"]
 tnstudy.in##a[href*="surabooks.com"]
 eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
-sharebiz.net##a[href*="target="]
 beforeprint.in,ourmyliddy.com##a[href*="tel:"]
 eelamalar.com##a[href*="thesakkatru.com"]
 lakshyatak.in,samachardoot.in,wehindustan.com##a[href*="traffictail.com"]
