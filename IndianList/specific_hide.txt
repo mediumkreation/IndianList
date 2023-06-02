@@ -1979,7 +1979,7 @@ corporatenews.com.bd##.my-3 img
 patrika.com##.my-4[style*="min-height"]
 mzamin.com##.my-5.justify-content-center
 news18.com##.my-ad-rhs
-abnews24.com,odhikar.news,ppbd.news##.myAdBox
+abnews24.com,odhikar.news##.myAdBox
 somoynews.tv##.mySlideBox
 newsroomme.com,youngvarta.com##.mySlides
 lastnewsbd.com##.myadd
