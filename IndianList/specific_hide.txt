@@ -2466,7 +2466,6 @@ saamana.com##.td-post-content .code-block
 hamdardtv.com##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 keralabreaking.com##.td-post-content > p img
-uktez.com##.td-post-content > p>strong > img
 ehapurnews.com##.td-post-content > p>strong:only-child
 morbiupdate.com##.td-post-content a > img
 vavuniyanet.com##.td-post-content a img
