@@ -2623,7 +2623,7 @@ samacharplus.com##.top_advertize
 prabhabonline.com##.top_banner
 ni24news.com##.top_index_block_adnow
 nrimalayalee.com##.top_most_news_post_ad
-abnews24.com##.top_new_add
+abnews24.com,alokitobangladesh.com##.top_new_add
 bholabani.com,gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com,kulalworld.com##.topadd
 mediavision.news##.topaddsctn
