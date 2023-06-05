@@ -3551,7 +3551,6 @@ bhilwarahalchal.com##img[alt="news"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 hosakannada.com##img[alt^="Ad "]
-samachartoday.co.in##img[alt^="Advt" i]
 purbanchal.com##img[alt^="Tribune Tower"]
 suprovatsydney.com.au##img[class^="custom_adgroup_"]
 dailypurbodesh.com##img[class^="sb-ads"]
