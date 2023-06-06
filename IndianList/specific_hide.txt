@@ -2316,7 +2316,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-bundelkhandvoice.com,countrynewstoday.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,khabarchalisa.com,newsoneindia.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
+bundelkhandvoice.com,countrynewstoday.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
@@ -2428,7 +2428,7 @@ powertvnews.in##.td-a-rec-id-custom-spot
 cgfrontline.com,newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,news1today.in,politalks.news,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,thiruvananthapuramvartha.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,amadersangbadbd.com,cgfrontline.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rashtriyapatrika.com,timetv.news##.td-a-rec-id-sidebar
-indianewsharyana.com,khabromehamarashahar.com,thekanpur.com##.td-a-rec-img
+indianewsharyana.com,khabromehamarashahar.com,newsoneindia.com,thekanpur.com##.td-a-rec-img
 navdeshtimes.com##.td-a-rec:not(.td-a-rec-id-content_top)
 politics.lk##.td-a-rec:not(.td-a-rec-id-sidebar)
 guruvayooronline.com##.td-a-rec:not(.tdi_105)
