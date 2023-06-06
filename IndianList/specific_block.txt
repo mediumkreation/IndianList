@@ -4426,7 +4426,9 @@ perfection-ias-upsc$domain=nextbihar.com
 ||thirdeyenewslive.com/wp-content/uploads/2020/02/pizzamax-e1583515709343.jpeg
 ||thirdeyenewslive.com/wp-content/uploads/2020/09/aruns-gold.jpeg
 ||thirdeyenewslive.com/wp-content/uploads/2020/10/oxygen-
-||thiruvananthapuramvartha.com/wp-content/uploads/pum/pum-site-scripts.js
+||thiruvananthapuramvartha.com^*/kalyan1
+||thiruvananthapuramvartha.com^*/Klayan-
+||thiruvananthapuramvartha.com^*/LULU-
 ||thisaikaddi.com^*/content-ad.jpg
 ||thisaikaddi.com^*/logo-header.png
 ||threesocieties.com/uploads/blocks/
@@ -4589,7 +4591,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||vaavaa.co.uk^*/Murugar-ad21.jpg
 ||vachakam.com/image/advertisement^*Edimannickal-jewellery.jpeg
 ||vachakam.com/image/advertisement^*five-star-printers-box-ad.jpg
-||vadakaravoice.com^$third-party,domain=thiruvananthapuramvartha.com
 ||vaishnav-samaj.org/add/
 ||valaitamil.com/upload/ads_banner/031116021239_StudyGuideIndia-banner.gif
 ||valaitamil.com/upload/ads_banner/120321013414_Sivamhousing.gif
