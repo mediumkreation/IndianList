@@ -1992,7 +1992,7 @@ news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
 hindi.news18.com##.n18thder
-angultv.com,ausamachar.com,bihardainik.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,rashtrabodh.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
+angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,mahadbd.com,rashtrabodh.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 naturalnews.co.in##.natur-content
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
@@ -2063,6 +2063,7 @@ corporatenepal.com,nepalbahas.com##.para-3-ad
 nepalkhabar.com,ratopati.com##.paraAd
 ratopati.com##.paraAd ~ hr
 parvatprerna.com##.parva-widget
+bordernewsmirror.com##.pbwidget.slideshow
 dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
