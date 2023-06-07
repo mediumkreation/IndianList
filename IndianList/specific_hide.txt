@@ -1680,6 +1680,7 @@ moonamvazhi.com##.headRightAdv
 alokitosonargaon.com##.head_bottom_add
 mbpratidin.com##.header .mom-e3lanat
 bdcrimenews.com##.header .pull-right
+kairalynews.com##.header .slide_img
 legendnews.in##.header--ad
 bangladesherkhabor.net##.header-ad-section
 corporatesangbad.com##.header-add
@@ -2534,6 +2535,7 @@ timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com##.text-html
 sarkarimanthan.com,ujjawalprabhat.com##.text-html-box
 banglainsider.com##.text-secondary.d-block
+kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 bdcrime24.com##.textwidget > p img
 aashanews.com##.textwidget img
