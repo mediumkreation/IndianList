@@ -2718,6 +2718,7 @@ neemkathananews.in##.widget.HTML:not(#HTML5)
 biharkhabars.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
+worsonlinenews.com##.widget.Image:not(#Image4)
 fourteenkerala.com##.widget.text-html
 dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
 bharatdarshannews.com##.widget1
