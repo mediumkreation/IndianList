@@ -196,7 +196,7 @@ batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,ras
 samrudhaodisha.com###block-61
 samrudhaodisha.com###block-62
 dgnews.co.in###block-69
-areseenews.com,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in,thenewswave.com###block-7
+areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in,thenewswave.com###block-7
 naanmedia.in,tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 varthabharati.in###block-block-253--2
@@ -2757,7 +2757,7 @@ sabkasandesh.com##.widget_block:not(#block-6)
 sylnewsbd.com##.widget_box img
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,athirvu.in,bharatnewschannel.com,cgnama.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,livereadernews.com,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,quicklinenews.com,samachaarindia.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,sylhetnewstimes.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com,ziotamil.in##.widget_custom_html
+6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,bharatnewschannel.com,cgnama.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,livereadernews.com,magahinews.com,manthannews.in,news10india.com,news1today.in,news24you.com,newsbanglaa.com,priyanews.in,purvanchalpost.com,quicklinenews.com,samachaarindia.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,sylhetnewstimes.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com,ziotamil.in##.widget_custom_html
 asrilanka.com##.widget_custom_html.panel-first-child
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
