@@ -2022,6 +2022,7 @@ chapaibarta24.com##.news_content .code-block
 sangbad-gallery.com##.news_left_part_ad
 atnbanglaonline.tv,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in##.news_portal_ads_banner
 digiana.com##.news_scrol-bean
+i-news24.com##.newsbox_text
 newsdiary.live##.newsd-widget
 jharkhandvani.in##.newsever-widget .textwidget
 satyagrahanews.in##.newsmatic-advertisement-block
@@ -2058,6 +2059,7 @@ apnapunjabmedia.com##.order-3 .mt-4
 247superfast.com,24x7cg.com,abhibharat.com,kelopravah.news,khabreaajtaklive.com,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 cinemavalai.com##.page.hentry
+i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 corporatenepal.com,nepalbahas.com##.para-3-ad
