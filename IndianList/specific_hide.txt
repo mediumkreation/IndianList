@@ -266,7 +266,6 @@ surgujasamay.com,ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
 angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,kalyankesari.com,khabarexpert.in,khabarok.com,khabarstate.com,khabaruttarakhand.com,kushtiabd.com,livehalchal.com,lotpot.com,marginalised.in,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
-tamilcnn.lk###custom_html-3 img
 saakshatv.com###custom_html-30
 thedastak24.com###custom_html-31
 jaihindustannews.com###custom_html-34
@@ -487,6 +486,7 @@ ada.lk,lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
 payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
+tamilcnn.lk###newads
 dilersamachar.com###newmodal .modal-dialog
 ratopati.com###news-modal
 aadarshasanchar.com###news-side-ad
@@ -535,6 +535,7 @@ timestodays.com###rev-slider-widget-2
 berartimes.com###rev_slider_1_1_wrapper
 lokmatnews.in###rhs-middle
 lokmatnews.in###rhs-top
+tamilcnn.lk###right-banner
 edainikazadi.net###right-holder
 hindisip.com###right-sidebar .widget_block
 kalaroanews.com###right-sidebar .widget_custom_html
@@ -1750,7 +1751,7 @@ sharebazarnews.com##.home-page-ads a:not([href*="sharebazarnews.com"])
 chttoday.com##.home-page-top-right-add
 sabsach.in##.home-secondary-wrapper .widget_media_image
 bplnews24.in##.home-secondary-wrapper .widget_media_image:not(#media_image-53)
-tamilcnnlk.com##.home-section-ad
+tamilcnn.lk,tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
