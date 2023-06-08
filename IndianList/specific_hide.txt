@@ -2227,7 +2227,7 @@ madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 bartabangla.com,khabaristan.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com,newslive24x7.com,realtimes.in,suryarekha.com##.sidebar .widget_media_image
-crimenazarnews.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com##.sidebar .widget_text
+crimenazarnews.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com,sivantv.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 bekhauphindia.com##.sidebar .widget_text:not(#text-10)
 hotnewsindia.com##.sidebar > .widget_custom_html
