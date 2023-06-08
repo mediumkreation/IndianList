@@ -3521,6 +3521,7 @@ infosrilankanews.info##html12
 infosrilankanews.info##html2
 pinakatimes.com##iframe[class^="FrameAdvt"]
 anweshanam.com,hastakshep.com##iframe[id^="ifr_"]
+kelimandala.lk##iframe[name="myiFrame"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 khabarbhatapara.in##iframe[src*="google.com/presentation/"]
