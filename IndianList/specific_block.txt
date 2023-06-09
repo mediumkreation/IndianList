@@ -439,9 +439,8 @@ perfection-ias-upsc$domain=nextbihar.com
 ||aswamedham.com/uploads/cms_images/kccna
 ||aswamedham.com^*/flowersadvt.gif
 ||atalstambh.com/wsdata/wwwatalstambhcom/news/202103/atal.jpg
-||atharvnews.com^*/ad-
-||atharvnews.com^*/add-
-||atharvnews.com^*/jetsor
+||atharvnews.com^*-ad.
+||atharvnews.com^*-add-
 ||attingalvartha.com/wp-content/uploads/2023/01/side-bar-top-ad1-
 ||attingalvartha.com^*/Klayan-
 ||attingalvartha.com^*/Rajakumari-
