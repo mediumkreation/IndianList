@@ -519,7 +519,7 @@ lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
 nepalipaisa.com###popUp
 samakal.com###popUpModalAd
-bharatdarshannews.com###popup_box
+bharatdarshannews.com,hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 ajdapunjab.com###primary .widget_media_image
@@ -1107,7 +1107,7 @@ amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
-andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,maharashtratimes.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
+andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,orthosongbad.com,sonalinews.com##.adv-img
 sunnews24x7.com##.adv-load
