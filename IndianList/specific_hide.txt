@@ -328,9 +328,6 @@ apkhabar.com,radiobihani.org###homeads
 thedailycampus.com###homepageTopLeader_2
 thedailycampus.com###homepageTopLeaderboard_1
 malayaleepathram.com.au###hotwp-header-banner
-akkinikkunchu.com###html-2
-akkinikkunchu.com###html-3
-akkinikkunchu.com###html-4
 media4support.com,omexpress.in###hugeit_slider_widget-4
 barciknews.com###id-widget-advertisements-4
 chhapratoday.com###image_gallery_36934
@@ -705,7 +702,7 @@ fatehnagarnews.com,gadhsamvedna.com,janvadtimes.com,manvadhikartimes.com,meherpu
 achhisoch.com,amaderparis.com,banglarkonthosor.com,newsnowbangla.com,sambadsaradin.com,vavuniyanet.com###text-18
 akashgyanvatika.com,anytechtune.com,bdtodays.net,biharhalchalnews.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
 sabsach.in###text-19 iframe:last-child
-abhibharat.com,anaicoddai.com,attachowk.com,bihar.express,binodonnews24.com,ccnnews24.in,cinemasthi.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,deshpatra.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,maharashtradesha.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
+abhibharat.com,akkinikkunchu.com,anaicoddai.com,attachowk.com,bihar.express,binodonnews24.com,ccnnews24.in,cinemasthi.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,deshpatra.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,maharashtradesha.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
 anytechtune.com,fastlivenews.com,roopcare.com###text-21
@@ -3090,12 +3087,8 @@ techalonews.com##a[href*="kitchenworldbd.com"]
 uttranews.com##a[href*="kolkata_2"]
 chattolarkhabor.com,ctgpratidin.com##a[href*="ksrm.com.bd"]
 gramajyothi.com##a[href*="lunars.com"]
-akkinikkunchu.com##a[href*="lycamobile.com.au"]
-akkinikkunchu.com##a[href*="lycatv.tv"]
 maloutlive.com##a[href*="maloutonline.com/listing/"] > img:only-child
 bhalukanews.com##a[href*="mastercafebd"]
-akkinikkunchu.com##a[href*="mks.net.au"]
-akkinikkunchu.com##a[href*="naamtamilar.org.au"]
 arthasarokar.com##a[href*="nabilbank.com"]
 gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 news4himalayans.com##a[href*="narendramodi.in"]
