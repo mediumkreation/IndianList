@@ -446,7 +446,6 @@ middleeastchandrika.com###mep_0
 arthanepal.com,eparinews.com,sunaulonepal.com###messagem
 ganthan.com###messagem1
 ravivardelhi.com###metaslider-id-135
-tarunchhattisgarhkorba.com###metaslider-id-56652
 smnewshimachal.in###metaslider-id-8121
 idunammaooru.in###metaslider_10258
 moviemandu.com###metaslider_1316
@@ -2480,7 +2479,6 @@ vavuniyanet.com##.td-post-content a img
 bongobani.ca##.td-post-content figure figcaption
 ehapurnews.com,newsfastweb.com,ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 prabhattimes.com##.td-post-content img.size-full
-tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
 aurbta.com##.td-spot-id-content_bottom
 aurbta.com,mawbima.lk##.td-spot-id-content_top
 amansavera.com,mawbima.lk##.td-spot-id-header
@@ -3203,7 +3201,7 @@ smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 hellouttarakhandnews.com,nammabantwala.com,thelifelinetoday.com##aside.widget_media_video
-brajpatrika.com,tarunchhattisgarhkorba.com##aside.widget_metaslider_widget
+brajpatrika.com##aside.widget_metaslider_widget
 newsdeskkannada.com##aside.widget_simpleimage
 grenonews.com,rsnewslive.com##aside.widget_sp_image
 chaukastoli.com,grenonews.com,hellobikaner.in,newsvariant.com,rajsattanews.com##aside.widget_text
