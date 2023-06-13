@@ -3473,6 +3473,7 @@ kannada.oneindia.com##div[style="min-height: 250px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
+currentnews.com.bd##div[style^="font-size:25px;"] > table
 dinvishesh.com##div[style^="height: 350px;"]
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
