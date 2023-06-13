@@ -97,6 +97,7 @@ maihugodda.com###adoverlay
 malayalamdaily.in###adrotate-wrapper
 udayavani.com###ads
 vikalptimes.com###ads120_60-widget-2
+ishantimes.com###ads160_600-widget-2
 hastakshep.com###ads300_600-widget-3
 seithy.com###ads400px
 press4news.live###adsBanner
@@ -1079,7 +1080,6 @@ news18.com##.ads-slider
 loksattanews.co.in##.ads-slider-widget
 hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
-ishantimes.com##.ads120_240-widget
 dailyolamakantho.com,nationalpresstimes.com,welcomeindianews.com##.ads160_600-widget
 seithy.com##.ads400pxinner
 inextlive.com,prothomalo.com##.adsBox
