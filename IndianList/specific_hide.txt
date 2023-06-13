@@ -803,10 +803,11 @@ pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
+news4indiatv.com###widget-footer-0
 breakingaajtaknews.com,goodmorningnation.com,khabarbhartiindia.com,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
-atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
-breakingaajtaknews.com,sameera.co.in###widget-sidebar-2
+atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
+breakingaajtaknews.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
 atalstambh.com,breakingaajtaknews.com###widget-sidebar-3
 beauronews.com,khabarpradesh.com###widget-sidebar-4
 gujaratvaibhav.com###widget4
