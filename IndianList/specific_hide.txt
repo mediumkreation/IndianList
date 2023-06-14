@@ -819,7 +819,7 @@ kewalsach.com###widget_sp_image-14
 despardesweekly.co.uk,ruhelkhandpost.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
-news30express.com,sansanikhejsamachar.in###wonderpluginslider-container-1
+bihardootnews.com,news30express.com,sansanikhejsamachar.in###wonderpluginslider-container-1
 gautamsandesh.com###wonderpluginslider-container-3
 bharatdarshannews.com###wows31_0
 hindustanvision.com###wowslider-container105
@@ -1521,6 +1521,7 @@ theeditor24.com##.elementor-widget-penci-featured-boxes
 graminujala.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 ambalacoverage.com,banglasangbad24.com##.elementor-widget-shortcode img
+bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
 citizenlive.news##.elementor-widget-smartmag-codes
