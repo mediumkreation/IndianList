@@ -355,7 +355,7 @@ chandpurreport.com###main .code-block
 jansangathan.com###main .container
 dailynewsreport.in###main .entered:not([src*="WhatsApp-Join-Link.jpg"])
 newsuperbharat.com,primepunjab.com###main .widget_custom_html
-chhapratoday.com,himwantpradeshnews.com,newsxindia.com,songbadpratidin.com###main .widget_media_image
+chhapratoday.com,newsxindia.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
 naturalnews.co.in###main aside.widget_media_image
 mithlahindinews.com###main-ads-post
