@@ -2922,7 +2922,7 @@ ratopost.com##.wp-image-9728
 nammabantwala.com##.wp-video
 arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-channelionline.com,delhicrimepressnews.com##.wpb_content_element img
+channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
