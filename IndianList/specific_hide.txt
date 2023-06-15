@@ -3507,6 +3507,7 @@ mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 garavigujarat.biz#?#.wpb_raw_html:-abp-has(.adsbymahimeta)
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
+haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
 khabor.com##header a[href*="/click-"]
 himalayapost.com#?#.post-wrap:-abp-has(> .otw-sidebar-vertical)
 lokmat.com##homepage-taboola
