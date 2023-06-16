@@ -684,7 +684,6 @@ alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
 dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
-samugammedia.com###tdi_124
 srujananedu.com###tdi_191
 ajhindidaily.in###tdi_90_f99
 anbnews24.com,liveindia.live,munshigonjerkagoj.com,timesoneodia.com###text-1
@@ -1652,6 +1651,7 @@ pchelpcenterbd.com##.fullwidhtads
 unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
 dcnewsbd.com,hotnewsindia.com##.fullwidthbanner-container
+samugammedia.com##.fw-bold.text-black
 ctgpratidin.com##.fxozitmah
 damaulikhabar.com##.g-dyn
 trttamilolli.com##.galboxcontainer
@@ -2519,7 +2519,6 @@ newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 newsgil.in,tejastoday.com##.tdb_single_content p img
 khaboronline.com##.tdc-element-style
 guruvayooronline.com##.tdi_118
-samugammedia.com##.tdi_153
 devbhoomimedia.com##.tdi_25
 deshprahari.com##.tdi_348
 prasthutha.com##.tdi_76
