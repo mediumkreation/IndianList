@@ -2238,7 +2238,7 @@ yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
 ntinews.com##.sidebar iframe
-dhangadhikhabar.com##.sidebar-add
+dhangadhikhabar.com,gpnnews.com##.sidebar-add
 sunbd24.com##.sidebar-adv
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 ajakoartha.com,newssanjal.com##.sidebar-banner
