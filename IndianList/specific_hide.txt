@@ -1891,7 +1891,7 @@ ezhomelive.com##.main-ads-pikihome
 hkgnews247.com##.main-and-sidebar .Image
 policevarthe.com##.main-bg .carousel
 khabarmukam.com##.main-bigyapan
-aaryaanews.com,hindsat.in,hkgnews247.com,punjabiakhbaar.ca,tararalo.net##.main-content .stream-item
+aaryaanews.com,hindsat.in,hkgnews247.com,punjabiakhbaar.ca,satyagrahnews.in,tararalo.net##.main-content .stream-item
 deshprotikhon.com##.main-content a[target="_blank"] img
 indianewsviral.co.in##.main-footer .widget_text
 thejoharnews.com##.main-full .elementor-widget-image
@@ -2371,7 +2371,7 @@ cityhotnews.com,janaagaj.in,primestv.in##.sticky-sidebar .widget_block
 hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
-punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
+punjabiakhbar.com##.sticky-sidebar section.widget_media_image
 andhrajyothy.com,channel24bd.tv##.stickyAds
 doolnews.com##.story-ad250
 livehindustan.com##.story-listing:empty
@@ -2391,7 +2391,7 @@ magahinews.com##.stream-item-in-post
 bankalive.net,lovedevbhoomi.com,narsingdirbani.com##.stream-item-inline-post
 capitalvoice.in,eastcoastdaily.com,gnewsindia.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,mbkhabar.com,natunbarta.com,nepaltvonline.com,thetimesofchhattisgarh.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,rajdhanitimescg.in,tamilveedhi.com##.stream-item-top
-airanewsnetwork.com,bengallive.in,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
+airanewsnetwork.com,bengallive.in,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,satyagrahnews.in,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
 aamaadmi.in,aapkimedia.com,allindianews.me,apnahimachalapnishaan.in,asha.news,bastarflame.in,bundelkhandsamachar.com,cgujala.in,chandinarsomoy.com,charotarnoavaj.com,crimejasoos.in,damaulikhabar.com,ehapuruday.com,globalecampus.com,hamarahimachal.com,highwaychannel.in,hindsat.in,indiaprimenews.in,jantaconnect.com,keralabhooshanam.com,livequicknews.in,livereadernews.com,massnews.online,mbkhabar.com,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newslive24x7.com,newssow.com,panchagarhonline.com,pokharanews.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,rewariupdate.com,rig24.in,satyavoice.com,shekhawatilive.com,sonprabhat.live,telegramnews24.com,thehindkeshari.in,thepublicnews.live,thetadkanews.com,thetimesofchhattisgarh.com,vaanishreenews.com,webmorcha.com,wegwannews.com##.stream-item-widget
 aapabhitak.tv,abhitaknewsuk.in##.stream-item-widget-content
 airanewsnetwork.com##.stream-item-widget:not(#stream-item-widget-3)
