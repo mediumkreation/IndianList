@@ -339,6 +339,7 @@ filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 fastnewsindia.co###jssor_1
 globenepal.com###khb-button-ades
+emungaru.com###kode-iklan-bawah
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
 kottayammedia.com###leader-wrap
@@ -2719,7 +2720,7 @@ daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-biharkhabars.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
+biharkhabars.com,emungaru.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
