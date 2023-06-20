@@ -329,7 +329,7 @@ apkhabar.com,radiobihani.org###homeads
 thedailycampus.com###homepageTopLeader_2
 thedailycampus.com###homepageTopLeaderboard_1
 malayaleepathram.com.au###hotwp-header-banner
-media4support.com,omexpress.in###hugeit_slider_widget-4
+media4support.com###hugeit_slider_widget-4
 barciknews.com###id-widget-advertisements-4
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
@@ -1203,7 +1203,6 @@ moviemax.in##.articleText > center > div
 newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 bijoybanglabd.com##.asn-bk-txt
-omexpress.in##.at-above-post ~ p img[sizes]
 gujarati.economictimes.com,maharashtratimes.com##.atf-wrapper
 timesnowhindi.com##.atfAdContainer
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
@@ -1696,7 +1695,7 @@ corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
-chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
+chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com##.header-ads-wrapper
 pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,veekshanam.com,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
@@ -2761,7 +2760,7 @@ topchand.com##.widget_block:not(#block-9)
 sylnewsbd.com##.widget_box img
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,bharatnewschannel.com,cgnama.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,journalistonlive.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,livereadernews.com,magahinews.com,manthannews.in,metroplus.online,news10india.com,news1today.in,news24you.com,newsbanglaa.com,newsorbit.com,priyanews.in,purvanchalpost.com,quicklinenews.com,samachaarindia.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,sylhetnewstimes.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com,ziotamil.in##.widget_custom_html
+6pmnews.com,aavakaaya.in,alivenews.co.in,anokhateer.com,apnakhata.guide,bharatnewschannel.com,cgnama.com,cibindianews.com,editorjee.com,gayamahanagar.com,gujjugully.com,journalistonlive.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabriadda.in,livequicknews.in,livereadernews.com,magahinews.com,manthannews.in,metroplus.online,news10india.com,news1today.in,news24you.com,newsbanglaa.com,newsorbit.com,omexpress.in,priyanews.in,purvanchalpost.com,quicklinenews.com,samachaarindia.com,satyamnews.net,sb24live.com,socialsamvad.com,swapnilbangladesh.com,sylhetnewstimes.com,tamilthisai.com,todaysdigitalbreakingnews.in,uluberiasambad.in,vishban.com,voice4bihar.com,ziotamil.in##.widget_custom_html
 asrilanka.com##.widget_custom_html.panel-first-child
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 siwanexpressonline.com##.widget_custom_html:not(#custom_html-11):not(#custom_html-2)
@@ -3502,7 +3501,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-aksherpati.com,amchimumbaionline.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,amchimumbaionline.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
