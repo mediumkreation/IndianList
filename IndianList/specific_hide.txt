@@ -2722,6 +2722,7 @@ dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
+bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
 biharkhabars.com,emungaru.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
