@@ -257,7 +257,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,media24news.in,minoritiesnews.com,mussoorieaajtak.com,muthalvannews.com,newschutney.com,oktelugu.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,sbdnews24.com,tamilvoicenews.com,thamilan.lk,todayindia.com,webakhbar.in###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,knlslive.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,media24news.in,minoritiesnews.com,mussoorieaajtak.com,muthalvannews.com,newschutney.com,oktelugu.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,sbdnews24.com,tamilvoicenews.com,todayindia.com,webakhbar.in###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -780,7 +780,6 @@ vorerbangladesh.com###top-stories
 gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
 janprahar.com###top_level_3
-thamilan.lk###topbanneer
 chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
@@ -1269,6 +1268,7 @@ lknews.lk##.besides-slider-right
 beanibazarview24.com##.better-ads-listitemad
 71newstoday.com##.betterad-container
 humsamvet.com##.bg-color-gray-fot
+thamilan.lk##.bg-grey-lighter.w-full
 timesnowhindi.com##.bggrayAd
 bharatlive.co.in##.bhara-content
 lalkhabar.com##.bichar
@@ -1934,7 +1934,6 @@ newshubinsight.in,newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
 mzamin.com##.mb-5.justify-content-center
 divyamarathi.bhaskar.com##.mb_ads_title
-thamilan.lk##.mbs
 ctgsangbad24.com##.mcyd
 media4support.com##.media-content_2
 vasistatoday.in##.mega-wrap .main-ads-pikihome
@@ -2998,6 +2997,7 @@ sunnews24x7.com##a .adv-vload
 canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,tamilwin.com,viduppu.com##a.d-flex
 newstodaynetwork.com##a.disabled img
 adiyakkamangalam.com##a.external
+thamilan.lk##a.group.w-full
 dhakatoday.com##a.hide-for-print
 tamilthisai.com##a.in-cell-link
 biharnews7.com##a.post-middle-banner
