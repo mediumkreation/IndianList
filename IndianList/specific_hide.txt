@@ -2968,6 +2968,7 @@ ekagaj.com##.wrapper-box
 aajkasamay.com##.ws-block-body > a[href=""]
 fastindianews.com##.ws_gestures
 bnnbharat.com##.xembgt
+truenews.lk##.youtube-responsive-container
 news71bangla.tv##.yvdo
 probashibangla.tv##.zja
 khabreelal.com,thesabera.com##.zox-post-ad-wrap
