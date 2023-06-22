@@ -1418,7 +1418,6 @@ bhilwarasamwad.com##.content_top:first-child .latest_slider
 gonokantho.com##.countdown_wrapper
 pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
-wayanadvision.in##.cpwls
 keralakaumudi.com##.cs-sec-feat-title
 mediavarta.com##.cscra-promotion
 internationalmalayaly.com##.cscra-promotion > img
@@ -2928,7 +2927,7 @@ hotnewsindia.com##.wp-image-87280
 hotnewsindia.com##.wp-image-87281
 ratopost.com##.wp-image-9728
 nammabantwala.com##.wp-video
-arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com##.wpb_content_element
+arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
