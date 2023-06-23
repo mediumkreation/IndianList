@@ -17,7 +17,7 @@
 -add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com|shomoynews.net
 -add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
--add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|firstsuddi.com|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
+-add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
 -add.jpg|*$domain=ratdinnews.net
 -add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
