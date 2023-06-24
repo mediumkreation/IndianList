@@ -2841,7 +2841,7 @@ dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
 thejoharnews.com##.widget_text iframe[title]
-cgmitan.com,prothomshomoy.com##.widget_text img
+cgmitan.com,dharitri.com,prothomshomoy.com##.widget_text img
 anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
