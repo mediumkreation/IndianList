@@ -198,6 +198,7 @@ samrudhaodisha.com###block-61
 samrudhaodisha.com###block-62
 dgnews.co.in###block-69
 areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in,thenewswave.com###block-7
+cgtop36.com###block-71
 bharatpostlive.com,naanmedia.in,tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 varthabharati.in###block-block-253--2
@@ -772,7 +773,6 @@ jubileepost.in,sehattimes.com###text-html-widget-8
 starvrutta.com###theme-my-login-4 ~ .widget_media_image
 europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
-cgtop36.com###tie-block_3472
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
