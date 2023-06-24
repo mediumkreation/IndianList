@@ -303,6 +303,7 @@ malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
 dishadaily.com###full_level_1_detail
+haribhoomi.com###full_width_0_right
 uttareralo24.com###gallery-1
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
@@ -1867,6 +1868,7 @@ thebengalitimes.com##.lefr-box
 haribhoomi.com,hmtvlive.com,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
+haribhoomi.com##.level_bottom_full
 damaulionline.com##.list-advertisement
 heralokhabar.com##.list_ads1
 dailyjugantorsangbad.com##.live .embed-responsive
@@ -2168,6 +2170,7 @@ dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
+haribhoomi.com##.right_level_1
 hmtvlive.com##.right_level_2
 ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
