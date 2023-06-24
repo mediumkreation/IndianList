@@ -1584,6 +1584,7 @@ cgfrontline.com,garjachhattisgarhnews.com##.epcl-banner
 grandnews.in##.epcl-row
 livehindustan.com##.epr-ads
 azchavattomonline.com##.et_pb_ads_0
+youth18.com##.et_pb_code:not(.et_pb_code_1_tb_body)
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
 hpnewsatl.com##.et_pb_slider
