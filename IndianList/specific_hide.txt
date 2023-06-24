@@ -568,7 +568,7 @@ prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
-bbn24news.com,brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiapolkhol.in,kelopravah.news,konnivartha.com###secondary .widget_block
+bbn24news.com,brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiapolkhol.in,janmat.co.in,kelopravah.news,konnivartha.com###secondary .widget_block
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
