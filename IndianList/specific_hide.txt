@@ -722,11 +722,11 @@ anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
 abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,newstodayjharkhand.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,uniquesamay.com###text-30
-e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
+e-jaffna.com,fastlivenews.com,fatehnagarnews.com,satyamlive.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,uniquesamay.com###text-32
 satyamlive.com###text-33
 hindustanheadlines.in,satyamlive.com###text-34
-satyamlive.com###text-35
+himalini.com,satyamlive.com###text-35
 anaicoddai.com,satyamlive.com###text-36
 anaicoddai.com,satyamlive.com,sharebiz.net###text-37
 anaicoddai.com,uniquesamay.com###text-38
@@ -1567,7 +1567,6 @@ newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
-himalini.com##.entry-content div > .row
 dainikkhabraan.com##.entry-content div[class*="daini-"]
 dailysatnadee.com##.entry-content div[data-adid]
 cgmitan.com##.entry-content div[id^="cgmit-"]
