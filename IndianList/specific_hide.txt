@@ -1836,6 +1836,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 setokhari.com##.insert-ad
+janjwar.com##.inside-post-ad-before
 metrojournalonline.com,newzfast.com##.intes_fixed
 metrojournalonline.com,newzfast.com##.intes_fixed + div
 samvetshikhar.com##.item-size-right img
