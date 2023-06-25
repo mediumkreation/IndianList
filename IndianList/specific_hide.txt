@@ -519,6 +519,7 @@ karmalamadhanews24.com###pg-38-7
 kusenews.com###pgc-7-1-1
 lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
+jugantor.com###popAd
 nepalipaisa.com###popUp
 samakal.com###popUpModalAd
 bharatdarshannews.com,hindustanvision.com###popup_box
@@ -1154,7 +1155,7 @@ news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 bonikbarta.net,jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dhakapost.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,jugantor.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dhakapost.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
@@ -2093,7 +2094,6 @@ hindlives.com,tamilstar.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
 gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
-jugantor.com##.pg-ad
 jamunanewsbd.com##.photo-gellary iframe
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
@@ -3084,7 +3084,6 @@ jugantor.com##a[href*="eximbankbd.com"]:only-child
 tamilarul.net##a[href*="facebook.com"] > img
 times-bd24.com##a[href*="facebook.com/Future-Company-"]
 hindlives.com##a[href*="fkrt.it"]
-jugantor.com##a[href*="fsiblbd.com"]:only-child
 arthasarokar.com##a[href*="garimabank.com.np"]
 currentgk.in##a[href*="gkprashnuttar.com"]
 tamilarul.net##a[href*="goo.gl/"] > img
