@@ -1386,6 +1386,7 @@ kannadi.news##.code-block:not(.code-block-15)
 kelopravah.news,magahinews.com##.code-block:not(.code-block-4)
 deshprahari.com##.code-block:not(.code-block-6)
 bankingkhabar.com##.codeneric_uam_link
+colombotamil.lk##.col-bn-ds
 apnapunjabmedia.com##.col-lg-2 > .white-bg
 hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
@@ -1408,7 +1409,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-colombotamil.lk,rni.news,udaybulletin.com##.container-bn
+rni.news,udaybulletin.com##.container-bn
 newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
