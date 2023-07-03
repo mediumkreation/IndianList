@@ -2481,6 +2481,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com,pratidindaily.com##.td-header-sp-recs
 dpcnews24.com##.td-header-template-wrap .td-a-rec
 prathamnews.in##.td-is-sticky .td-a-rec
+soochnanews.in##.td-main-content .ml-slider
 abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,biswabanglanews.com,ccnnews24.in,rozanabhaskar.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
@@ -3733,6 +3734,7 @@ punjabikangaroo.com#?##side .widget:-abp-has(> .heading > span:-abp-contains(Adv
 iautoindia.com#?##sidebar .widget:-abp-has(.banner)
 veerdharanews.com#?##sidebar-primary-sidebar .widget:-abp-has(div[data-adid]:not([data-type="custom_code"]))
 smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
+soochnanews.in#?#h4.td-block-title:-abp-has(> span:-abp-contains(Advertisement))
 manithan.com##span[id] > iframe[id]:only-child
 barabankiexpress.in##span[style^="color: #008000"] img
 swarnimbharatnews.com##span[style^="color: red;"]
