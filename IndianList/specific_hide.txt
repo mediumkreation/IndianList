@@ -2127,7 +2127,6 @@ mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
 shirurtaluka.com##.post-item-description p img
 ujalahiteshiexpress.com##.post-middle-banner
-telugutimes.net##.post-sidebar-area
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 mysamachar.in##.post-text section
 firstbihar.com##.post-widget-carouselr
@@ -3581,6 +3580,7 @@ dcnewsbd.com##img[alt="Advertisement"]
 protidinerchitrobd.com##img[alt="Bex Bazar"]
 newspagebd.com##img[alt="Biggapon"]
 onlinemarg.com##img[alt="Header Ad"]
+telugutimes.net##img[alt="MKOne"]
 talashbangla.com##img[alt="Page Add"]
 newsnow24.com##img[alt="Pearl Hotel"]
 trttamilolli.com##img[alt="SAT"]
