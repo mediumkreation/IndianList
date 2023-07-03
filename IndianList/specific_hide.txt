@@ -220,6 +220,7 @@ cnin.co.in###carouselExampleDark
 khulasanewslive.in###categories-2 .widget-title
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
+telugu.filmibeat.com###cmscontent-article2
 suddi9.com###colorcontentasash3
 kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
@@ -1751,6 +1752,7 @@ fenirkotha.com##.header_top_banner
 telugumirchi.com##.headerad2
 shirurtaluka.com##.headeradvt
 lakshynew.blogspot.com,nunworajasthan.co.in,reporters7.com##.headerright
+telugu.goodreturns.in##.headinglist > div
 nepaljapan.com##.headline_below_ad
 tirangaacindianews.com##.headnBx .text-right
 himachalmedia.co##.himac-widget
@@ -2074,6 +2076,8 @@ ournewsbd.net##.onads
 arthoneeti.com##.one-1
 onlynews24.com##.onlyn-after-content
 apnapunjabmedia.com##.order-3 .mt-4
+telugu.mykhel.com##.os-ad
+telugu.mykhel.com##.os-ad-c
 247superfast.com,24x7cg.com,abhibharat.com,kelopravah.news,khabreaajtaklive.com,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 cinemavalai.com##.page.hentry
@@ -3303,6 +3307,7 @@ bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 nrimalayalee.com##div[class*="inner-main-ad"]
+telugu.filmibeat.com##div[class*="kan-ad"]
 jhabuanews.in##div[class*="kitsune-advert"]
 lokshahi.com,navjivanindia.com##div[class*="m__ad"]
 prothomalo.com##div[class*="m__ads"]
@@ -3341,6 +3346,7 @@ mathrubhumi.com##div[class^="banner_sliders"]
 barnalatoday.com##div[class^="barnalatoday"]
 nepalbahas.com##div[class^="bigyapan"]
 deshajtimes.com##div[class^="desha-"]
+telugu.oneindia.com##div[class^="discounts-"]
 rajyasameeksha.com##div[class^="display-area"]
 kungumam.co.in##div[class^="google-"]
 gramintimes.com##div[class^="grami-"]
@@ -3387,6 +3393,7 @@ barisalpress.com##div[data-href*="enjoynetwork.bd"]
 shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
+telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
 thereport24.com##div[id*="_300x250"]
 deshvani.in##div[id*="_webads"]
 heraldspot.com##div[id^="AS_O_"] > div:nth-child(-n+10)
@@ -3507,6 +3514,8 @@ sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 currentnews.com.bd##div[style^="font-size:25px;"] > table
 dinvishesh.com##div[style^="height: 350px;"]
+telugu.goodreturns.in##div[style^="height:250px"]
+telugu.boldsky.com##div[style^="min-height:250px;"]
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
