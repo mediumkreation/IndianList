@@ -1845,6 +1845,7 @@ janjwar.com##.inside-post-ad-before
 metrojournalonline.com,newzfast.com##.intes_fixed
 metrojournalonline.com,newzfast.com##.intes_fixed + div
 samvetshikhar.com##.item-size-right img
+suprovatsydney.com.au##.item_content
 alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
@@ -2696,6 +2697,7 @@ khabarchalisa.com##.uris-slider-post-title
 newskranti.com##.utt_top
 uttarakhandcitynews.com##.uttar-widget
 vatsalyanews.com##.vatsa-middle
+suprovatsydney.com.au##.vc_col-sm-4 .horizontal_carousel_container
 rajasthanichirag.in##.vc_col-sm-8 .mom_custom_text
 changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
@@ -2962,7 +2964,7 @@ poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 khobor71.com,tarunbharat.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
-adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
+adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
 everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 atozpatrika.com##.wpb_single_image img:not([src*="krishi-"]):not([src*="ban2-"])
@@ -3607,7 +3609,6 @@ kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 hosakannada.com##img[alt^="Ad "]
 purbanchal.com##img[alt^="Tribune Tower"]
-suprovatsydney.com.au##img[class^="custom_adgroup_"]
 dailypurbodesh.com##img[class^="sb-ads"]
 pnews.co.in##img[id^="Image"]
 newsnow24.com##img[src*="/banner/"]
@@ -3742,6 +3743,7 @@ manithan.com##span[id] > iframe[id]:only-child
 barabankiexpress.in##span[style^="color: #008000"] img
 swarnimbharatnews.com##span[style^="color: red;"]
 spnewsbd.com#?#div:-abp-has(> p > ins.adsbygoogle)
+suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
