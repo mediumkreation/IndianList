@@ -128,7 +128,6 @@
 540X100-$domain=ramailochha.com
 880x90-$image,domain=bikashnews.com
 960*.gif|$domain=bizmandu.com
-980x125$domain=kalkionline.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 @@-advertisement.$domain=newswaves.org
