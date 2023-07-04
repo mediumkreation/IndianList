@@ -905,7 +905,6 @@ arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
 chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,pratyeknewslive.com##.ad--space
 pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
-anandabazar.com##.ad-280
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
 awaaz24x7.com,awamileaguetimes.com##.ad-banner
@@ -936,7 +935,6 @@ alorkantho24.news##.ad4
 arthasarokar.com##.ad50
 eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
-anandabazar.com##.ad970x280
 dailyjagoran.com##.adBgGray
 khabarpurwanchal.com##.adBoxLong
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
@@ -953,7 +951,7 @@ bdtimesnews.com##.ad_text_box
 corporatenepal.com##.adalytics_ad
 farakdhar.com,ratopati.com##.adalyticsblock
 bharatdarshannews.com##.adbo
-lohagaranews24.com,thebharatnews.net##.adbox
+anandabazar.com,lohagaranews24.com,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,pradeshajjtak.com,pragativahini.com,rajnitiprotidin.com##.adcontainer
 ajkerdarpon.com,ajkernarsingdi.com,ajkersylhet.com,ajkertanore.com,alokitobarisal.com,alokitocoxsbazar.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglanews24ny.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,chatgaiyakhobor.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikvatibangla.com,diptonews24.com,doctortv.net,dokhinercrime.com,eibela.net,engrsvoice.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,haoranchalerkotha.com,healthpati.com,himalayannews.com,jagocomilla.com,jagodesh24.com,jamunanewsbd.com,kathmandupati.com,khabarpunja.com,lalsobujerkontho.com,narsingdipratidin.com,natunbazar24.com,natunshokal.com,news18.com,news4nation.com,newsatfirst.com,newsdnntv.com,nktelevision.com,npkhabar24.com,odekhabishwo.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,savarsangbad.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,teknafnews24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com##.add
 ajkercrimetimes.com,bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
@@ -1069,6 +1067,7 @@ udayavani.com##.adliadworld
 uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
+anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
 amaderorthoneeti.com,anusandhan24.com,arthadabali.com,ashakakiran.com,baglungpost.com,biznessnews.com,campuslive24.com,canadanepal.com,chandpur24.net,chapaibarta24.com,chapainews.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,ekattor.tv,emalayalee.com,gandakilive.com,ganthan.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kaligandakikhabar.com,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,newsbihani.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
 sunaulonepal.com##.ads .widget_media_image > img
@@ -1945,8 +1944,8 @@ fastnewsbd.com##.mainadvert8
 malabarnews.com##.malab-article-top-ads
 malabarnews.com##.malab-home-page-sidebar-2
 gnewsbd24.com##.maniio
-anandabazar.com##.manyawarbox
 cninews24.com##.map
+anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
 backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
@@ -2184,6 +2183,7 @@ haribhoomi.com##.right_level_1
 hmtvlive.com##.right_level_2
 ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
+anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
 bikashnews.com##.rightside a[target="_blank"]
 gossiplankanews.com##.rimage
