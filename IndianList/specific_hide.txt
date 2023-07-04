@@ -1757,6 +1757,7 @@ telugu.goodreturns.in##.headinglist > div
 nepaljapan.com##.headline_below_ad
 tirangaacindianews.com##.headnBx .text-right
 krushinama.com##.herald-da
+supportmeindia.com##.hero-section
 himachalmedia.co##.himac-widget
 khabareducation.com##.hm-header-image
 brightpost.in##.hm-header-sidebar
@@ -2067,8 +2068,6 @@ livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
-supportmeindia.com##.offer-box
-supportmeindia.com##.offer-box + a[href*="go/hostgatorindia"]
 priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
 newsbrahmanbaria.com##.oit-ad-code
