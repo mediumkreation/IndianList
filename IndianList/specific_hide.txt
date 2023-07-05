@@ -1380,6 +1380,7 @@ delhibulletin.in,theexclusivestory.com##.code-block-1
 kannadi.news##.code-block-15 div:nth-child(3)
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
+krishakjagat.org##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com##.code-block-8
 jogindernagar.com##.code-block-9
@@ -1733,7 +1734,6 @@ newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
 manoramaonline.com##.header-sponser-left
-krishakjagat.org##.header-subscription
 dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 talashbangla.com##.header__add
