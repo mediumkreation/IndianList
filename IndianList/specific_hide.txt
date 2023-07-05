@@ -3275,6 +3275,7 @@ deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 dhamaka36.com#?#h2:-abp-contains(Advertisement)
 abnews24bd.com##div img[src^="ad/"]
 sansarnews.com##div.a
+khaskhabar.com##div.mrgR5[style*="height:250px;"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
 livehindustan.com##div.st-cat-news:empty
@@ -3518,6 +3519,7 @@ telugucalendar.org##div[style="margin-top:-10px; text-align:center;"] span
 kannada.oneindia.com##div[style="min-height: 250px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
+khaskhabar.com##div[style^="background-color: lightgrey;"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 currentnews.com.bd##div[style^="font-size:25px;"] > table
 dinvishesh.com##div[style^="height: 350px;"]
