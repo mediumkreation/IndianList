@@ -98,7 +98,6 @@
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
 /banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
-/bannersads/*$domain=namasteandhra.com
 /bigyaapan/*$domain=godawarinews.com|khelpati.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
@@ -2733,9 +2732,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||najiknews.com/uploads/Good-Negobers-Bajura-by-najiknews.com.gif
 ||nalandalive.com/wp-content/uploads/2018/04/book-domain.png
 ||namadhukaavalan.com/wp-content/uploads/2021/07/NK-ad2.jpg
-||namasteandhra.com/wp-content/uploads/2021/04/469ba03a-0d97-4467-8664-3e54a1beabbf.jpg
-||namasteandhra.com/wp-content/uploads/2021/04/f29ade8c-7e02-4ec4-a606-81ae3d8e3cbf.jpg
-||namasteandhra.com^*/VisitorsCoverage_Banner.jpg
 ||namastenri.net/wp-content/uploads/2021/03/amasteNRI.jpg
 ||namastenri.net/wp-content/uploads/2021/09/728-and-90.jpg
 ||naogaontimes.com/uploads/images/2020/10/image_750x_5f82aae7a6f23.jpg
