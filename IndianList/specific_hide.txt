@@ -2751,7 +2751,7 @@ e24bollywood.com##.widget-sidebar img
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-biharkhabars.com,emungaru.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
+ajeybharat.com,biharkhabars.com,emungaru.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
