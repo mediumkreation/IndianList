@@ -1511,7 +1511,7 @@ maithilbrahminmahasabha.in##.elementor-element-f2e9897
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 todaypostlive.com##.elementor-image a[target="_blank"]
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
-delhicrimepress.com,ksdlivenews.com##.elementor-image-carousel-wrapper
+delhicrimepress.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
 attingalvartha.com,vijayavani.net##.elementor-popup-modal
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 delhiuptodate.com,wayanadlivenews.com##.elementor-shortcode img
@@ -1520,7 +1520,7 @@ khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
 khabriyanews.com##.elementor-widget-heading
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,bisshobarta24.com,citywatchnews.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,realtamilnews.com,sitakundabarta.com,thurannakathu.com,timetvusa.com,topnewskerala.com,ulipur.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,bisshobarta24.com,citywatchnews.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,realtamilnews.com,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,topnewskerala.com,ulipur.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
@@ -2441,7 +2441,6 @@ xxx-indian-porn.com##.tac
 onlinedabali.com##.tadd
 kamdhenupost.com##.tagdiv-type .td-fix-index img
 tamilmint.com,tamiltradepost.com##.tamil-widget
-tarunbharat.com##.tarun-content
 nepaldut.com##.tauke
 nepaljapan.com##.taza_ad
 nepalsamaya.com##.tc-side-ads
@@ -2964,7 +2963,7 @@ hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 cgbasket.in,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
-khobor71.com,tarunbharat.com##.wpb_raw_code img
+khobor71.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,meherpurnews.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
@@ -3750,6 +3749,7 @@ khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
+tarunbharat.com#?#.a-wrap:-abp-has(div[id^="div-gpt-ad"])
 telugugateway.com#?#div:-abp-has(> ins.adsbygoogle)
 teluguglobal.com#?#div:-abp-has(> ins.adsbygoogle)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
