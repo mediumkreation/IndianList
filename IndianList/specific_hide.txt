@@ -236,7 +236,6 @@ panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
-ratopati.com###content a[target="_blank"] img
 news129.com###content center img
 samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
@@ -492,7 +491,6 @@ payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
 tamilcnn.lk###newads
 dilersamachar.com###newmodal .modal-dialog
-ratopati.com###news-modal
 aadarshasanchar.com###news-side-ad
 indianewscentre.in,punjabenews.com###newsSection img
 sokalerbangla.com###news_portal_ads_banner-20
@@ -948,7 +946,7 @@ infoway24.com##.ad_section_1
 enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
 corporatenepal.com##.adalytics_ad
-farakdhar.com,ratopati.com##.adalyticsblock
+farakdhar.com##.adalyticsblock
 bharatdarshannews.com##.adbo
 anandabazar.com,lohagaranews24.com,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,pradeshajjtak.com,pragativahini.com,rajnitiprotidin.com##.adcontainer
@@ -1116,6 +1114,7 @@ arthasarokar.com##.adsspace
 andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,orthosongbad.com,sonalinews.com##.adv-img
+ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
 anweshanam.com,cityandolan.com,devpath.in##.advRow-fullW
@@ -1358,7 +1357,6 @@ nepaljapan.com##.category_ads_3_cols
 thesaturdaynews.com##.category_page_right .single_page_bottom_ad
 unfoldbangla.com##.category_side
 makalukhabar.com##.cdbofrqam
-ratopati.com##.center-aligned-ad
 chaipanchayat.com##.chaip-after-content_4
 chamaktaaina.com##.chama-widget
 chandrikadaily.qa##.chand-before-content_5
@@ -1717,7 +1715,6 @@ ajkerbd24.com##.header-baner
 anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
-ratopati.com##.header-blocks-aspace
 digitalkhobor.com##.header-full-ads-top
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
@@ -1824,7 +1821,6 @@ amadershomoy.com##.index_ads_two
 pchelpcenterbd.com##.indexadsone
 thedailycampus.com##.infostation
 janaaastha.com##.inline__bigyapaan
-ratopati.com##.inline_disp
 ctgsangbad.com.bd##.inlineads
 mannarkkadlive.com##.inner-add
 khabarmukam.com##.inner-bigyapan
@@ -2086,8 +2082,7 @@ shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 virakesari.lk##.paid-banners
 corporatenepal.com,nepalbahas.com##.para-3-ad
-nepalkhabar.com,ratopati.com##.paraAd
-ratopati.com##.paraAd ~ hr
+nepalkhabar.com##.paraAd
 parvatprerna.com##.parva-widget
 bordernewsmirror.com##.pbwidget.slideshow
 dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
@@ -3592,7 +3587,7 @@ trttamilolli.com##img[alt="SAT"]
 makdaiexpress24.com##img[alt="Shree sai"]
 makdaiexpress24.com##img[alt="Shreegrah"]
 eyenewsbd.com##img[alt="ad image"]
-farakdhar.com,groundzeroenews.co.in,hamrokhelkud.com,knanayaworld.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
+farakdhar.com,groundzeroenews.co.in,hamrokhelkud.com,knanayaworld.com,newsarchives24.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
 dhakareport24.com,khabarwaale.com##img[alt="add"]
