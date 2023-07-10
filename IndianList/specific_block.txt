@@ -110,7 +110,6 @@
 /offers/*$image,domain=priyo.com
 /output_$image,domain=tamiltradepost.com
 /post_image/ad-$domain=newslaya.com
-/robiad/*$domain=bd-pratidin.com
 /sponsors/*$image,domain=wahcricket.com
 1140X100.gif|$domain=nayapage.com
 250x250-Middle$domain=newstrendz.co.in
