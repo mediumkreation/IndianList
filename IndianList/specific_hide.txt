@@ -1542,6 +1542,7 @@ goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 shivshahilive.com##.elementor-widget-video
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 computerbichitra.com##.elementor-widget-wp-widget-news247_ads_banner_widget
+simanapari.com##.elementor[data-elementor-type="wp-page"] .elementor-widget-image
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
 dainiknayak.com##.entry img.alignnone
@@ -3608,7 +3609,6 @@ purbanchal.com##img[alt^="Tribune Tower"]
 dailypurbodesh.com##img[class^="sb-ads"]
 pnews.co.in##img[id^="Image"]
 newsnow24.com##img[src*="/banner/"]
-simanapari.com##img[src*="Deepesh-gif"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
