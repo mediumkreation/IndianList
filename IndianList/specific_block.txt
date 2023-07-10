@@ -3391,9 +3391,8 @@ perfection-ias-upsc$domain=nextbihar.com
 ||pressnarayanganj24.com/media/Advertisement/Dr-Farhad-Ahmed-Zenith.jpg
 ||pressnarayanganj24.com/media/Advertisement/m2m-Mobile-Zone
 ||pressnarayanganj24.com/media/Advertisement/nbp8.gif
-||pressnote.in/advt/Pacific
-||pressnote.in/images/hzl.jpg
-||pressnote.in/images/News%20Wire%20Mask%20-%20%20728x90%20px.jpg
+||pressnote.in/advt/
+||pressnote.in/images/newwiremask.jpg
 ||primenewsbd.com^*/Orion.png
 ||primenewsbd.com^*/Pubali-bank.png
 ||primenewsbd.com^*/rupaliBank_new.gif
@@ -3566,7 +3565,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||rojanapunjab.com/wp-content/uploads/2022/01/1-1458x180.jpg
 ||rojanapunjab.com/wp-content/uploads/2022/01/1.jpg
 ||rosemalayalam.com^*/long.jpg
-||royalharbinger.com^$third-party,domain=pressnote.in
 ||rozanabhaskar.com/wp-content/uploads/2022/04/pka.jpg
 ||rozanabhaskar.com/wp-content/uploads/2022/07/IMG-20220705-WA0002.jpg
 ||rozanapost.in/wp-content/uploads/elementor/thumbs/White-stone-residency-
