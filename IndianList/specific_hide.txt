@@ -373,7 +373,6 @@ p2pnews.co###main-content > .e3lan-post
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
 kasargodvartha.com###main-widget .widget.HTML
-kathmandutoday.com###main_body
 abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
 bethanchokkhabar.com###masthead > .site-header-ads
@@ -830,6 +829,7 @@ hindustanvision.com###wowslider-container113
 bharatdarshannews.com###wowslider-container3
 chamaktabharat.com,rkhabar.com,samnanews.com,sbharatnews.com###wp-custom-header
 janaaastha.com###wr
+kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
 malwanews.com###youtube_responsive-10
 citynewsexpress.com##.-indx
@@ -1631,6 +1631,7 @@ narmadanchal.com,usanewsonline.com##.fn-widget-image
 usanewsonline.com##.fn-widget_media_image
 mymensinghpratidin.com##.font_widget_two
 nijamtoday.com##.foogallery_widget
+kathmandutoday.com##.foot_ad
 anweshanam.com##.footer-ad-img
 firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
