@@ -1474,6 +1474,7 @@ thodkyaat.com##.dmp
 newspr.live##.dns-caption-below
 gulfmalayaly.com##.do-space
 doolnews.com##.dool-ad
+doolnews.com##.doolgad
 dailyajkershomoy.com##.down_social_display_ad
 drikpanchang.com##.dpAdSection
 canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,news.lankasri.com,tamilwin.com,viduppu.com##.ds-ms-blurb
@@ -1900,7 +1901,6 @@ ebrightnepal.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
-doolnews.com##.long_adv_area
 bholabani.com##.longad
 newsdoor.net##.lrads
 chopaltv.com##.m-280
@@ -2396,7 +2396,6 @@ bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar 
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
 andhrajyothy.com,channel24bd.tv##.stickyAds
-doolnews.com##.story-ad250
 livehindustan.com##.story-listing:empty
 bankura24x7.com##.story_content > .image-and-caption-wrapper
 aajtak.in##.stoybday-ad
