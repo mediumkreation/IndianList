@@ -100,7 +100,7 @@
 /banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
-/bigyapan/*$domain=himalkhabar.com|khelpati.com|setopati.com
+/bigyapan/*$domain=himalkhabar.com|khelpati.com|merolagani.com|setopati.com
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=aankhennews24.com|bhavtarini.com|encounterindia.in|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|pickthekhoj.in|polkholindia.com|postcardbd.com|purvikranti.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
@@ -153,6 +153,9 @@
 @@||i2inews.in/images/advertisement/adv0158100001643868498.jpeg
 @@||i2inews.in/images/advertisement/adv0360869001643674034.jpg
 @@||image.lanka4.com/promotion/2023/03/lanka4-header.gif
+@@||images.merolagani.com//content/bigyapan/21e82634-bb94-4f0b-9f26-b3b0dccf1d1c.gif
+@@||images.merolagani.com//content/bigyapan/3614f561-42c2-429f-8424-d0a8d10bfb56.gif
+@@||images.merolagani.com//content/bigyapan/53f9e1f4-59de-4cd5-9ae0-c98a139a0068.gif
 @@||img.setopaty.com/uploads/bigyaapan/1582009187.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
