@@ -2212,8 +2212,6 @@ agraleaks.com,onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-over
 sunbd24.com##.share-ads
 cgujala.in##.sharedaddy ~ .code-block
 shrinaradmedia.com##.shrin-widget
-newsmoments.in##.side-300x100
-newsmoments.in##.side-300x250
 rastriyakhabar.com##.side-ads-wrapper
 gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
@@ -3208,7 +3206,6 @@ atharvnews.com##aside .theiaStickySidebar .widget_text
 news15india.com##aside .w-100.text-center
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
 gtamilnews.com,tv24live.com##aside .widget_media_image
-newsmoments.in##aside#sidebar .chmnr
 bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 dineshkhabar.com##aside.ads-info-block
@@ -3665,6 +3662,7 @@ news18.com#?#div:-abp-has(> .myad)
 news24bite.com#?#figure:-abp-has(> figcaption:-abp-contains(Advertisement))
 newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
+newsmoments.in#?#div[id^="AS_O_LHS_"] > div:-abp-has(> div > div > a > div > p:-abp-contains(Ad |))
 newspoint24.com#?#div[id^="AS_O_"] > div:-abp-has(> div > div > span[name="adchoicehtml"])
 newstodaynetwork.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h4:-abp-contains(Ad: ))
 newstodaynetwork.com#?#div[id^="AS_O_RHS"] > div:-abp-has(> div > div > div > p)
