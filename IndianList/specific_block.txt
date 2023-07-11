@@ -2379,6 +2379,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||lekalionline.com^*/yavarest.gif
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
+||linodeobjects.com^*/$image,domain=arghakhanchi.com
 ||lipuleknews.com/wp-content/uploads/2020/05/Aalital-ad.jpg
 ||lipuleknews.com/wp-content/uploads/2020/05/Amargadhi-ad.gif
 ||lipuleknews.com/wp-content/uploads/2020/05/Bhageshwor-ad.jpg
@@ -2838,6 +2839,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||nepalpati.com^*/400x167.gif
 ||nepalpati.com^*/output_49XlZy-1-1.gif
 ||nepalpati.com^*/pb.gif
+||nepalpress.com^*/$image,domain=arghakhanchi.com
 ||nepalsamaya.com^*/bigyapan/
 ||nepalsamaya.de/uploads/bigyaapan/
 ||nepalsandesh.com/wp-content/uploads/2023/02/Main-Menu-ads-top-banner-new.gif
@@ -3380,6 +3382,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||prixa.net^*/sadak_ra_sawari_banner-_white_2Fi4KPbRQP.png$domain=ujyaaloonline.com
 ||prixacdn.net/media/240x200_NepaliPatro-Compressed.gif
 ||prixacdn.net/media/Mikes.gif
+||prixacdn.net^*/$image,domain=arghakhanchi.com
 ||priyoshomoy.com^*/diabeties-course
 ||priyoshomoy.com^*/piles-cure
 ||probash-mela.com/wp-content/uploads/2018/06/Sol1000p.jpg
