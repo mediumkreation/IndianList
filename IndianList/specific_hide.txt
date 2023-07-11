@@ -1839,8 +1839,8 @@ innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 setokhari.com##.insert-ad
 janjwar.com##.inside-post-ad-before
-metrojournalonline.com,newzfast.com##.intes_fixed
-metrojournalonline.com,newzfast.com##.intes_fixed + div
+newzfast.com##.intes_fixed
+newzfast.com##.intes_fixed + div
 samvetshikhar.com##.item-size-right img
 suprovatsydney.com.au##.item_content
 alokitoshitalakha.com##.itpolly_widget img
@@ -1903,6 +1903,7 @@ nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
 bholabani.com##.longad
 newsdoor.net##.lrads
+metrojournalonline.com##.m-116
 chopaltv.com##.m-280
 71sangbad.com##.m_none > a[target="_blank"]
 irinjalakudalive.com,themenews24.com##.mag-adver-part
