@@ -1157,7 +1157,6 @@ apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
-bizmandu.com##.advertisement-inside-content
 khabardabali.com##.advertisement-primary
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
@@ -1231,6 +1230,7 @@ samajeralo.com##.bannar-full-width
 alokitomymensingh24.com##.banner-ad-01
 kahalenews.com##.banner-ad-wrap
 24hnbc.com##.banner-add
+bizmandu.com##.banner-bigyapan
 musicjoymedia.com##.banner-half
 aapkaparyas.in,enewsmp.com##.banner-header
 bholarbani.com,madhyabindu.com,mahendranagarpost.com,newsportals.in,onstimes.com,tatviknews.com##.banner-img
@@ -1291,6 +1291,7 @@ janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
+bizmandu.com##.bigyapan-inside-content
 ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
 lokaantar.com##.bigyapan-title
@@ -2181,7 +2182,6 @@ anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
 bikashnews.com##.rightside a[target="_blank"]
 gossiplankanews.com##.rimage
-bizmandu.com##.roadblock
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 thedailycampus.com##.roni-bhai-special
@@ -2259,6 +2259,7 @@ ntinews.com##.sidebar iframe
 dhangadhikhabar.com,gpnnews.com##.sidebar-add
 sunbd24.com##.sidebar-adv
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
+bizmandu.com##.sidebar-advs
 ajakoartha.com,newssanjal.com##.sidebar-banner
 shineupindia.com##.sidebar-box a[ target="_blank"]
 cgsandesh.com##.sidebar-box.bg-aqua
@@ -2678,11 +2679,9 @@ webkhabar.com##.twp-advertisement-section
 dailyajkershomoy.com##.uc-sdr-ads
 amaderorthoneeti.com##.uc-sky-ads
 newslabz.com##.ugaam-ad-wrapper-outer
-bizmandu.com##.uk-block > .uk-grid-small
 globenepal.com##.uk-container section.widget
 marathi.abplive.com##.uk-sidebar._hsidebar
 abplive.com##.uk-text-meta
-bizmandu.com##.uk-text-muted
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 khabarchalisa.com##.uris-slider-post-title
