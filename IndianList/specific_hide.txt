@@ -2676,6 +2676,7 @@ polkholonline.com,vorerava24.com##.twp-ad
 speednewskannada.com##.twp-ad-image-section
 unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
+dailyjanakantha.com##.ub-anchor-adcontainer
 dailyajkershomoy.com##.uc-sdr-ads
 amaderorthoneeti.com##.uc-sky-ads
 newslabz.com##.ugaam-ad-wrapper-outer
@@ -3321,6 +3322,7 @@ manvadhikarabhivyakti.in##div[class*="tdi_140"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com##div[class*="vigyapan"] > :not(.custom-html-widget)
 aggarjanpatrika.com,himalayanupdate.com,jagmarg.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
+dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
 eenadu.net##div[class^="ad-block"]
@@ -3433,6 +3435,7 @@ chhattisgarhprimetime.com##div[id^="chhat-"]
 tamil.filmibeat.com##div[id^="cmscontent-article"]
 dainikchintak.com##div[id^="daini"]
 desikhabar.in##div[id^="desik-"]
+dailyjanakantha.com##div[id^="div-gpt-ad-"]
 doabatimes.com##div[id^="doaba-"]
 dolphintimes.in##div[id^="dolph-"]
 eadarsha.com##div[id^="eadar-"]
