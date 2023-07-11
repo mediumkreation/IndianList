@@ -1562,7 +1562,7 @@ loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
 karmalamadhanews24.com##.entry-content > p > img
-chavakkadonline.com,emaatimes.com,fbdnews.com,jangathatimes.com,sabkikhabar.net##.entry-content > p img
+emaatimes.com,fbdnews.com,jangathatimes.com,sabkikhabar.net##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
@@ -3298,7 +3298,6 @@ probashirdiganta.com##div[class*="adbox"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 justnewsbd.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
-chavakkadonline.com##div[class*="before-header"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
@@ -3376,7 +3375,7 @@ eurobanglanews24.com##div[class^="topad"]
 uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,onlinemalayali.in,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,onlinemalayali.in,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
 himaliawaj.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
