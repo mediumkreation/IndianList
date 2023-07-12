@@ -2664,7 +2664,6 @@ sandeshnow.com##.tophightlight_ad
 janwani.in##.toplogobannerRS1 .topcol1
 divyahimachal.com##.topnewsbx > div[style]
 seithy.com##.toppageadsindexheader
-dhakareport24.com##.topright_add
 kolhabinews.com##.topside-ad
 uukmanews.com##.tp-ad
 damstv.com##.tr-ad
@@ -3588,7 +3587,7 @@ eyenewsbd.com##img[alt="ad image"]
 farakdhar.com,groundzeroenews.co.in,hamrokhelkud.com,knanayaworld.com,newsarchives24.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
-dhakareport24.com,khabarwaale.com##img[alt="add"]
+khabarwaale.com##img[alt="add"]
 buxaruptodate.com##img[alt="ads buxar"]
 sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 ajkerograbani.com,dhakanewsexpress.com##img[alt="advertisement"]
