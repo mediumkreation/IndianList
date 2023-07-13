@@ -1100,6 +1100,7 @@ lightnewsbd.com##.ads_first_p_disp
 padmatimes24.com##.ads_fix
 calcuttanews.tv##.adsaboronw
 divyahimachal.com##.adsbx728x90
+kannada.asianetnews.com##.adsection
 himachalnownews.com##.adsen
 newsnationtv.com##.adsense
 aajbangla.in##.adsense-inject
@@ -1460,6 +1461,7 @@ deshabhimani.com##.db-scnAd2
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
+kannada.asianetnews.com##.desktop-ad-1
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 argusnews.in##.desktop-square-ad
 nayabishwo.com##.detail-ad-holder
