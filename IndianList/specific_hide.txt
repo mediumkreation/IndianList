@@ -2083,6 +2083,7 @@ telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
 247superfast.com,24x7cg.com,abhibharat.com,kelopravah.news,khabreaajtaklive.com,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
+bangladeshglobal.com##.p-b-35.container
 cinemavalai.com##.page.hentry
 i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
@@ -2433,6 +2434,7 @@ chhaharinetwork.com##.subhakamana-ad
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 notebook.today##.t-out-span
+bangladeshglobal.com##.tab01 > .row
 adhunikdaur.com##.tab_265top_left
 xxx-indian-porn.com##.tac
 onlinedabali.com##.tadd
