@@ -91,7 +91,6 @@ weeklysonarbangla.net###adOrGretings
 thereport24.com###add-place
 kasargodvartha.com###add-widget
 deshbandhu.co.in###addImage
-lnstarnews.com###add_wrapper
 editorjee.com###addheaderbanner
 professorsbd.com###addv
 maihugodda.com###adoverlay
@@ -3640,6 +3639,7 @@ kirandoot.com#?#.sidebar-widget:-abp-has(> div > h4:-abp-contains(adv))
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div > a > h5:-abp-contains(Ad:))
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div a > p:-abp-contains(Ad:))
+lnstarnews.com#?#.elementor-widget-wrap:-abp-has(h2:-abp-contains(Adv.))
 loginkerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h2 + span:-abp-contains(Ad |))
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
