@@ -1079,7 +1079,7 @@ nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 newscircle.in##.ads-2018
 iamgujarat.com,samayam.com##.ads-between-story
 bangladesherkhabor.net##.ads-center-mt
-khullamanch.com,thenepaltoday.com##.ads-container
+thenepaltoday.com##.ads-container
 madhyakesari.com##.ads-iframe
 bangladhara.com,ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
@@ -1683,8 +1683,8 @@ trttamilolli.com##.galboxcontainer
 bangladesherkhabor.net##.gallery
 pardaphash.com##.gallery-ads
 dainikdeshersathe.com##.gallery_section
-dcnepal.com,merofilm.com##.gam-ad-position-wrap
-emailkhabar.com,nawalpurtimes.com##.gam-each-ad
+dcnepal.com,khullamanch.com,merofilm.com##.gam-ad-position-wrap
+emailkhabar.com,khullamanch.com,nawalpurtimes.com##.gam-each-ad
 nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
