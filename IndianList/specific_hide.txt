@@ -397,7 +397,7 @@ flowersoriginals.com###media_image-16
 hindvatannews.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,webreporter.co.in###media_image-19
-aajtakmedia.net,abpbharat.com,balliatimes.com,banglaralobd.com,banglatelegraph.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,knlslive.com,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,pathivaraonline.com,prajasatta.in,punjablivekhabarnama.com,sajagpahad.com,sancharbani.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,upnewz.in###media_image-2
+aajtakmedia.net,abpbharat.com,balliatimes.com,banglaralobd.com,banglatelegraph.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,knlslive.com,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,pathivaraonline.com,prajasatta.in,punjablivekhabarnama.com,sajagpahad.com,sancharbani.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews.com,upnewz.in###media_image-2
 prompttimes.com###media_image-20
 dainikmaharajganj.in,ggsnews24.com,gnews5.com###media_image-21
 cgnews24x7.wordpress.com,dainikchintak.com###media_image-23
@@ -721,7 +721,7 @@ anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
 abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,newstodayjharkhand.com,odishanews365.com,orthosongbad.com,parichowk.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,uniquesamay.com###text-30
-e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com###text-31
+e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,uniquesamay.com###text-32
 satyamlive.com###text-33
 hindustanheadlines.in,satyamlive.com###text-34
@@ -3555,6 +3555,7 @@ gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
 khabor.com##header a[href*="/click-"]
+ukhiyanews.com##header ~ .bg
 himalayapost.com#?#.post-wrap:-abp-has(> .otw-sidebar-vertical)
 lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
@@ -3594,7 +3595,7 @@ trttamilolli.com##img[alt="SAT"]
 makdaiexpress24.com##img[alt="Shree sai"]
 makdaiexpress24.com##img[alt="Shreegrah"]
 eyenewsbd.com##img[alt="ad image"]
-farakdhar.com,groundzeroenews.co.in,hamrokhelkud.com,knanayaworld.com,newsarchives24.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
+farakdhar.com,groundzeroenews.co.in,hamrokhelkud.com,knanayaworld.com,newsarchives24.com,thahakhabar.com,ujyaaloonline.com##img[alt="ad"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
 khabarwaale.com##img[alt="add"]
