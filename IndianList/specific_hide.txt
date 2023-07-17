@@ -340,6 +340,7 @@ barciknews.com###id-widget-advertisements-4
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
+rtvonline.com###infostation-0-0 iframe
 tamilcinemaz.com###itro_opaco
 filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
@@ -1457,6 +1458,7 @@ mzamin.com##.d-sm-none.d-flex
 esidhakura.com##.daraz-ad
 ekantipur.com##.daraz-sponser
 telugusmtv.com##.data-area2 .heading
+rtvonline.com##.dazar-ad
 deshabhimani.com##.db-scnAd2
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
