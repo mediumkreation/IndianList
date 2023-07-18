@@ -288,6 +288,7 @@ f21news.com,futurekerala.in,mynews36.com,newsuniversal.in,pangighatidanikapatrik
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,sarhadkasakshi.com,satyaketansamachar.com,uttranews.com###custom_html-9
 pundrokotha.com.bd###descripton div[style*="url"]
 manithan.com###dfp_banner_header_panel + span
+bhorerkagoj.com###div-ub-bhorerkagoj
 ittefaq.com.bd###div_252
 teluguwishesh.com###djslider875
 biharjharkhandnewsnetwork.com###doy-2
