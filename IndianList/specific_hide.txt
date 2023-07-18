@@ -1287,6 +1287,7 @@ thamilan.lk##.bg-grey-lighter.w-full
 timesnowhindi.com##.bggrayAd
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
+anytechtune.com##.big-add
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com##.biggapon
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
@@ -3354,6 +3355,7 @@ hindustanvision.com##div[class^="avtg"]
 mathrubhumi.com##div[class^="banner_sliders"]
 barnalatoday.com##div[class^="barnalatoday"]
 nepalbahas.com##div[class^="bigyapan"]
+anytechtune.com##div[class^="contentadd-"]
 deshajtimes.com##div[class^="desha-"]
 telugu.oneindia.com##div[class^="discounts-"]
 rajyasameeksha.com##div[class^="display-area"]
