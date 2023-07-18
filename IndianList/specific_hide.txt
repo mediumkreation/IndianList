@@ -1400,6 +1400,8 @@ tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 purvanchal24.com##.col-md-4 .pbwidget
+dailynayadiganta.com##.col-md-4 .row.center-block
+dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 odishareporter.in##.colombia
 anugrahavision.com,azhimukham.com,chopaltv.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
@@ -3583,7 +3585,6 @@ malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 khabarbhatapara.in##iframe[src*="google.com/presentation/"]
 hulchalpunjab.com##iframe[src*="igoogleportal.com"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
-dailynayadiganta.com##iframe[style*="height: 250px"]
 dbcnews.tv##iframe[style*="height: 90px"]
 timenewsbd.net##img + aside.sidebar
 deshsanchar.com##img.alignnone.size-full
