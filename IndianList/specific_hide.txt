@@ -842,10 +842,11 @@ citynewsexpress.com##.-indx
 samayam.com##.ATF_300
 hetaudatoday.com##.Ad
 natunsomoy.net##.Ad-Section
+bahumatrik.com##.AdSection
 indurkanibarta.com##.Add
 deshergarjan.net##.Add img
 newsdustak.com##.Add-Master-Sside1
-bvnews24.com,dailyjanakantha.com##.AdvertClass
+bahumatrik.com,bvnews24.com,dailyjanakantha.com##.AdvertClass
 dailythanthi.com##.Advt
 deshclick.com,punjabiinholland.com,sachikalam.com##.AdvtRight
 pinakatimes.com,sachikalam.com,sehajtimes.com##.AdvtSample
