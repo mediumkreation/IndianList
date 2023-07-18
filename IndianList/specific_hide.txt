@@ -242,6 +242,7 @@ celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 giridihupdates.com###content section.widget_text[id^="text-1"]
+sylhetview24.net###content_add
 haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
@@ -690,6 +691,7 @@ mediamangalam.com###stream-item-widget-7
 solantoday.com###sub-footer .widget_media_image
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
+sylhetview24.net###sv_gad_left
 swarajnewstoday.com###sync3
 dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
 srujananedu.com###tdi_191
@@ -1016,7 +1018,6 @@ dainikpurbokone.net##.addVertise
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
 dailynewsbd24.com,thedhakacrimenews.com##.add_03
-sylhetview24.net##.add_2_part
 shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
@@ -2192,6 +2193,7 @@ khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
 haribhoomi.com##.right_level_1
 hmtvlive.com##.right_level_2
+sylhetview24.net##.right_part div[style^="float:left;"]
 ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
 anandabazar.com##.rightadbox
