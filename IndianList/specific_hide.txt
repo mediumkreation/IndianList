@@ -801,6 +801,7 @@ ghaziabadparikrama.com###video-widget-2
 news18.com###vigyapan
 malwanews.com###viral_advertisement-11
 malwanews.com###viral_advertisement-7
+banglatribune.com###walton_300x100
 crimesuspence.com###wb_element_instance35
 crimesuspence.com###wb_element_instance48
 moviemandu.com,punjablivekhabarnama.com###wds_container1_0
@@ -1744,7 +1745,7 @@ ausamachar.com##.header-widget-region
 talashbangla.com##.header__add
 corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
-lakshmipur24.com##.header_ad_block
+banglatribune.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 banglapost.co.uk##.header_adv
@@ -3403,6 +3404,7 @@ shubhoprotidin24.com,tirthchetna.com,uttrakhandtoday.com##div[data-index]
 pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
+banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
 deshvani.in##div[id*="_webads"]
 heraldspot.com##div[id^="AS_O_"] > div:nth-child(-n+10)
