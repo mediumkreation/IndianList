@@ -1067,7 +1067,7 @@ jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 agrinewsnetwork.in##.ader_ads
 thekeralapost.com##.adert-cnter-mdlif
-bdnewsclub.com##.adflexbox
+bdnewsclub.com,nitharsanam.net##.adflexbox
 newslabz.com##.adfoxly-wrapper
 truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
 udayavani.com##.adliadworld
