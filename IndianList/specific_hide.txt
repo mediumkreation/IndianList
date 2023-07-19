@@ -505,6 +505,7 @@ citiupdate.com###newscard_horizontal_vertical_posts-8
 taftishofcrime.com###newsphere_posts_slider-7
 ghaziabad365.com###npkit-recent-posts-5
 onlinekhabar.com###ok18-roadblock-wrap
+outlookhindi.com###olh-rhs1
 saaravita.lk###openModal1
 patnalive.co.in###oppopo
 crickethimalaya.com,musickhabar.com,udghoshdaily.com###ouibounce-modal
@@ -954,6 +955,7 @@ aswamedham.com##.ad_sec
 infoway24.com##.ad_section_1
 enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
+outlookhindi.com##.ad_unit_728x90
 corporatenepal.com##.adalytics_ad
 farakdhar.com##.adalyticsblock
 bharatdarshannews.com##.adbo
