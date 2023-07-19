@@ -97,7 +97,7 @@
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
-/banners/*$domain=digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
+/banners/*$domain=bajroshakti.com|digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|merolagani.com|setopati.com
