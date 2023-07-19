@@ -766,8 +766,6 @@ indiawarta.com###text-8 iframe
 sharebazarnews.com###text-882
 bograsangbad.com,cgmitan.com,divyalive.com,himalayauk.org,himshimlalive.com,jagprerna.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
 mpbreaking.in###text-9 iframe
-janamtv.com###text-html-widget-11
-janamtv.com###text-html-widget-12
 bharatsamachartv.in###text-html-widget-14
 globalnews24x7.com,thesurgicalnews.in,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
@@ -3644,6 +3642,7 @@ indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google A
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 indiatv.in#?#.ad:-abp-has(> div:first-child)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
+janamtv.com#?#div:-abp-has(> .jeg_block_title > span:-abp-contains(ADVT))
 janprahar.com#?#div:-abp-has(> ins)
 jansandeshonline.com#?#div[id^="AS_P_LHS_"] > div:-abp-has(> div > div > a>div > h5:-abp-contains(Ad |))
 jansandeshonline.com#?#div[id^="AS_P_LHS_"] > div:-abp-has(> div > div > a>div > p:-abp-contains(Ad |))
