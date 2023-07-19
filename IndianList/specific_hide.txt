@@ -3058,7 +3058,6 @@ uttranews.com##a[href*="/a11/"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
 lankasri.com##a[href*="/adpage"]
 sajhamanch.com##a[href*="/ads/"]
-emalayalee.com##a[href*="/advertise"]
 khabardabali.com##a[href*="/advertisement/"]
 uttranews.com##a[href*="/hayat/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
