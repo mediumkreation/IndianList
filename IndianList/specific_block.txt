@@ -97,7 +97,7 @@
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
-/banners/*$domain=bajroshakti.com|digiana.com|kannadigaworld.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
+/banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|merolagani.com|setopati.com
@@ -2086,16 +2086,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||kannadavani.news/wp-content/uploads/2022/12/TextMaster_12-13-01.33.14
 ||kannadavani.news/wp-content/uploads/2023/03/ba226849-3709-47af-9c45-edf236b98275
 ||kannadavani.news/wp-content/uploads/2023/03/IMG-20230321-WA0015
-||kannadigaworld.com/wp-content/uploads/images/jyothishya_vani.png
-||kannadigaworld.com^*/acme.gif
-||kannadigaworld.com^*/acmemuscat.png
-||kannadigaworld.com^*/dunes.png
-||kannadigaworld.com^*/fortunegroup.png
-||kannadigaworld.com^*/inlanddxb.gif
-||kannadigaworld.com^*/meritfreight.png
-||kannadigaworld.com^*/thumbay.gif
-||kannadigaworld.com^*/venture.png
-||kannadigaworld.com^*/vritee.gif
 ||kannurmetroonline.com/uploads/adds/1507362061-420011360_zain.jpg
 ||kannurmetroonline.com/uploads/adds/1521349373-366726693_vismaya_new.jpg
 ||kannurmetroonline.com/uploads/adds/1535032705-1391107138_ad%20sml%20p%20here%20metro.jpg
