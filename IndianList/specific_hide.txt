@@ -2149,6 +2149,7 @@ mysamachar.in##.post-text section
 firstbihar.com##.post-widget-carouselr
 sharebiz.net##.post-wrap.post .sidebar .widget_text
 satkarpost.com##.posts__banner__ads
+pavilion.com.bd##.powrMarkContainer
 sabkikhabar.com,samarthsahara.com,todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
@@ -2387,6 +2388,7 @@ groundzeroenews.co.in##.soliloquy-container
 kaumudiplus.com##.sp-ad-row
 laatsaab.com##.sp_simple_youtube
 alorkantho24.news##.spad
+pavilion.com.bd##.spad-section img
 ekuruvi.com##.span-2 a:only-child
 dnewsnetwork.in##.spcp-sidebar
 manoramaonline.com##.special-banner-block
