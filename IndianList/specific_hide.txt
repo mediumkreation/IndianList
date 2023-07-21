@@ -1684,7 +1684,7 @@ biratkhabar.com##.full-with-add
 hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
 sidhakhabar.com##.full_ad_section img:not([src*="sanchar"])
 dailybangladeshbani.com##.full_ad_widget
-hindi.webdunia.com##.full_ads_block
+hindi.webdunia.com,tamil.webdunia.com##.full_ads_block
 pchelpcenterbd.com##.fullwidhtads
 unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
