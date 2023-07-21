@@ -2791,7 +2791,7 @@ dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
-24webnews.com,avikaluttarakhand.com,bharatsarathi.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
+24webnews.com,36garhi.com,avikaluttarakhand.com,bharatsarathi.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 newszon.in##.widget_block:not(#block-10)
 agrtanews.com##.widget_block:not(#block-2)
@@ -2867,7 +2867,7 @@ moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com,purbelinews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
-36garhi.com,biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
+biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
 thejoharnews.com##.widget_text iframe[title]
@@ -3117,13 +3117,11 @@ tamilarul.net##a[href*="goo.gl/"] > img
 visarnews.com##a[href*="goo.gl/18LXwT"]
 channelionline.com##a[href*="guardianlife.com.bd"]
 nayapage.com##a[href*="gurkhasfinance.com.np"]
-36garhi.com##a[href*="gurturgoth.com"]
 thahakhabar.com##a[href*="himalayaswater.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 gramajyothi.com##a[href*="hotelapsara.com"]
 newslabz.com##a[href*="href.li"]
-36garhi.com##a[href*="indiblogger.in"]
 sharebarta24.com##a[href*="islamibankbd.com"]
 banglarkonthosor.com##a[href*="itcornerbd"] img
 uttranews.com##a[href*="jai_shree"]
