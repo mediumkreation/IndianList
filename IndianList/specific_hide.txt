@@ -560,7 +560,6 @@ haribhoomi.com###right_level_4
 haribhoomi.com###right_level_6
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
-kungumam.co.in###road
 ekantipur.com###roadblock-ad
 farwesttimesdaily.com###roadblockModal
 deshdigital.in###rozu-2
@@ -2189,6 +2188,7 @@ pakwangali.in##.right-add
 dailysabuj.com##.right-add-container
 newsdnntv.com,samaylive.com##.right-banner
 banglanews24.com##.right-container .ads
+kungumam.co.in##.right-inner .right-box
 argusnews.in##.right-section-top-2
 dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
