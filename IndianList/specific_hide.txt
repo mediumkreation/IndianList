@@ -1219,7 +1219,7 @@ moviemax.in##.articleText > center > div
 newsatfirst.com##.aside-add
 canvasmagazine.com.bd##.aside_add
 bijoybanglabd.com##.asn-bk-txt
-gujarati.economictimes.com,maharashtratimes.com##.atf-wrapper
+eisamay.com,gujarati.economictimes.com,maharashtratimes.com##.atf-wrapper
 timesnowhindi.com##.atfAdContainer
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
