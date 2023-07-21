@@ -931,7 +931,7 @@ state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 eisamay.com,iamgujarat.com,samayam.com##.ad-wrapper-250
 eisamay.com##.ad-wrapper-275
-alorkantho24.news,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
+alorkantho24.news,bengali.timesxp.com,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 maharashtratimes.com##.ad1_native
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
