@@ -207,6 +207,7 @@ varthabharati.in###block-block-263--2
 varthabharati.in###block-block-338
 thinaboomi.com###block-block-81
 subasetha.lk###block-views-ads-display-inner-block
+nakkheeran.in###block-views-block-detail-page-ads-block-2
 eenadu.net###body_ad
 bdnewshour24.com###bottom-header-banner
 janprahar.com###bottom_3
@@ -1726,6 +1727,7 @@ bdcrimenews.com##.header .pull-right
 kairalynews.com##.header .slide_img
 legendnews.in##.header--ad
 bangladesherkhabor.net##.header-ad-section
+nakkheeran.in##.header-ad-section-desk
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
@@ -2037,6 +2039,7 @@ news13.in##.n13_home_adv5
 hindi.news18.com##.n18thder
 angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,mahadbd.com,rashtrabodh.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
+nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,odiannews.com,overlook.co.in,prajawani.in,punjabiakhbar.com,samnanews.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
@@ -2598,6 +2601,7 @@ gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 shivamoggalive.com##.theiaPostSlider_slides p>img
+nakkheeran.in##.theiaStickySidebar .block-block-content
 bheldailynews.com##.theiaStickySidebar .e3lan
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 bebakmanch.com##.theiaStickySidebar .owl-carousel
@@ -3277,6 +3281,7 @@ steelcity.online##body > .container > .row:first-child > div:last-child
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
+nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
