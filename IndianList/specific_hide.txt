@@ -391,16 +391,16 @@ webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 goodmorningindia.net###media_image-1
-bijoynewsbd24.com,canvasmagazine.com.bd,dailynewshindi.com,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,magahinews.com,navpradesh.com,news21live.in,parbatyachattagram.com,starexpress.news###media_image-10
-canvasmagazine.com.bd,navpradesh.com,palampuronline.com,samacharplusnews.com###media_image-11
+bijoynewsbd24.com,dailynewshindi.com,deshajtimes.com,dhakardak-bd.com,kalkudahnation.com,magahinews.com,navpradesh.com,news21live.in,parbatyachattagram.com,starexpress.news###media_image-10
+navpradesh.com,palampuronline.com,samacharplusnews.com###media_image-11
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,manzilnews.in,samajeralo.com###media_image-12
 dgnews.co.in,jansaamna.com###media_image-13
 indianow24.com,jansaamna.com,sabkasandesh.com###media_image-14
 punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 hindvatannews.com###media_image-17
-canvasmagazine.com.bd,webreporter.co.in###media_image-18
-canvasmagazine.com.bd,webreporter.co.in###media_image-19
+webreporter.co.in###media_image-18
+webreporter.co.in###media_image-19
 aajtakmedia.net,abpbharat.com,balliatimes.com,banglaralobd.com,banglatelegraph.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,knlslive.com,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,newsxindia.com,nikharanews.com,nkdigital.live,odishanewsservice.com,pathivaraonline.com,prajasatta.in,punjablivekhabarnama.com,sajagpahad.com,sancharbani.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews.com,upnewz.in###media_image-2
 prompttimes.com###media_image-20
 dainikmaharajganj.in,ggsnews24.com,gnews5.com###media_image-21
@@ -1217,7 +1217,6 @@ helloswasthya.com##.article-desktop-ad-container
 lokmatnews.in##.articlePage
 moviemax.in##.articleText > center > div
 newsatfirst.com##.aside-add
-canvasmagazine.com.bd##.aside_add
 bijoybanglabd.com##.asn-bk-txt
 eisamay.com,gujarati.economictimes.com,maharashtratimes.com##.atf-wrapper
 timesnowhindi.com##.atfAdContainer
@@ -1359,6 +1358,7 @@ despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
 dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
+canvasmagazine.com.bd##.canvas-slider
 munaadi.com##.card-body > center > img
 aloavanews24.com,cgwebnews.in,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
@@ -2993,6 +2993,7 @@ everestdainik.com,keralatimes.com##.wpb_single_image figure
 newsmerchants.com##.wpb_single_image figure img:not([src*="NM-01"])
 atozpatrika.com##.wpb_single_image img:not([src*="krishi-"]):not([src*="ban2-"])
 lokpukar.com##.wpb_single_image img:not([src*="mukhaya-mantri-add.gif"])
+canvasmagazine.com.bd##.wpb_single_image.vc_align_center a[target="_blank"] img
 newsboardindia.com##.wpb_singleimage_heading
 todaybhaskar.com##.wpb_text_column
 smartlady.lk##.wpb_text_column.tagdiv-type
