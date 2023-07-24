@@ -88,6 +88,7 @@ headline24x7.com,rkexpose.com###adAboveHeader
 andhrajyothy.com#@##adDiv
 rkexpose.com###adHeaderBottom
 weeklysonarbangla.net###adOrGretings
+anandamela.in###ad_container2
 thereport24.com###add-place
 kasargodvartha.com###add-widget
 deshbandhu.co.in###addImage
@@ -2199,6 +2200,7 @@ dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
+anandamela.in##.right_box_golpo
 haribhoomi.com##.right_level_1
 hmtvlive.com##.right_level_2
 sylhetview24.net##.right_part div[style^="float:left;"]
