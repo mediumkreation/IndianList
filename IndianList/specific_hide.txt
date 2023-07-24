@@ -1377,7 +1377,7 @@ dinamalar.com##.clsadblock
 oneindia.com##.cmscontent-article1
 tamil.oneindia.com##.cmscontent-top
 livetvkerala.com##.cntarea img
-aafnokura.com,aamsanchar.com,abhayindia.com,ajkercrimetimes.com,antarkatha.com,bbn24news.com,biharivoice.com,chandaulisamachar.com,chirantannews.in,cinemapettai.com,cityhalchal.com,dakhalchhattisgarh.com,dalitawaaz.com,ebharatnews.in,globalindiannews.in,gorakhpurhindinews.com,govtofgaurang.com,gujaratexclusive.in,indianewsviral.co.in,jkcnews.com,kannadanewsnow.com,kansatnews24.com,khabarbharat36.com,khabarhikhabar.com,khabor24x7.com,kothamangalamnews.com,lankamurasu.com,lokshahilive.com,mahendranagarpost.com,malwanews.com,media24news.in,mediavisionnews.in,navamalayali.com,navrashtramedia.com,newscg11.com,newsfact.in,newsfront.co,nikharanews.in,pathanamthittamedia.com,pradeshonlinekhabar.com,priyoshomoy.com,rajasthanichirag.in,roopcare.com,rosemalayalam.com,sachchadost.in,samacharplusnews.com,sangbadsafar.com,satyakhabarindia.com,sharpbharat.com,shottoboyan.com,shottoboyan24.com,starbangla.in,sundarbontimes.com,theindiandaily.in,thejharokha.com,tnpanchayat.com,zoombangla.com##.code-block
+aafnokura.com,aamsanchar.com,abhayindia.com,ajkercrimetimes.com,antarkatha.com,bbn24news.com,biharivoice.com,chandaulisamachar.com,chirantannews.in,cinemapettai.com,cityhalchal.com,dakhalchhattisgarh.com,dalitawaaz.com,ebharatnews.in,globalindiannews.in,gorakhpurhindinews.com,govtofgaurang.com,gujaratexclusive.in,indianewsviral.co.in,jkcnews.com,kannadanewsnow.com,kansatnews24.com,khabarbharat36.com,khabarhikhabar.com,khabor24x7.com,kothamangalamnews.com,lankamurasu.com,lokshahilive.com,mahendranagarpost.com,malwanews.com,media24news.in,mediavisionnews.in,navamalayali.com,navrashtramedia.com,newscg11.com,newsfact.in,newsfront.co,nikharanews.in,pathanamthittamedia.com,pradeshonlinekhabar.com,priyoshomoy.com,rajasthanichirag.in,roopcare.com,rosemalayalam.com,sachchadost.in,samacharplusnews.com,sangbadsafar.com,satyakhabarindia.com,sharpbharat.com,shottoboyan.com,shottoboyan24.com,starbangla.in,sundarbontimes.com,techzoom.tv,theindiandaily.in,thejharokha.com,tnpanchayat.com,zoombangla.com##.code-block
 samajbad.tv##.code-block > img
 karmalamadhanews24.com,kottayammedia.com,muthalvannews.com,prajasattaknews.com##.code-block img
 suddinews.com##.code-block p img
@@ -1866,6 +1866,7 @@ ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
 sorejominbarta.com##.jeg_main .elementor-widget-image
+techzoom.tv##.jeg_main_content .wpb_widgetised_column
 filmyfanda.com##.jft_ads
 jharkhand-news.com##.jhark-content
 joginderposwal.com##.jogin-widget
@@ -2821,6 +2822,7 @@ filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com,solantoday.com##.widget_hootkit-slider-image
 trttamilolli.com##.widget_html_javascript_adder
+techzoom.tv##.widget_jnews_module_element_ads
 filmcityworld.com##.widget_kenm
 vplnews.com##.widget_local_news_banner_ads_widget
 a2znewslive.com,baghuabarta.com,bangla52news.com,cgmitan.com,hindvatannews.com,kundeshwartimes.com,news4live.com,newsnowbangla.com,pressbangla24.com,shiftindia.com,shreekanchanpath.com,tv36hindustan.com,vvnewsvaashvara.in##.widget_media_gallery
