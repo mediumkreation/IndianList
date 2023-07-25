@@ -1502,13 +1502,13 @@ jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
 gramnagarbarta.com##.dtl_section figure.image
 doshdik.com##.duble_advertisement
 dailynewshindi.com##.e-widget-swiper
-awajnews.com,bdjournal365.com,bdlawnews24.com,belagavisuddi.com,chalonbeelbarta.com,cholomanjobab24.com.bd,dainikaamsabha.com,ghazipurkhabar.co.in,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,pratidinertottho.com,punjabnewslive.co.in,purvanchalnews.com,saffronfactor.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,starnews24bd.com,thecgnews.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
+awajnews.com,bdjournal365.com,bdlawnews24.com,belagavisuddi.com,ceylonradio.co.uk,chalonbeelbarta.com,cholomanjobab24.com.bd,dainikaamsabha.com,ghazipurkhabar.co.in,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,pratidinertottho.com,punjabnewslive.co.in,purvanchalnews.com,saffronfactor.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,starnews24bd.com,thecgnews.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
 livekhagaria.in##.e3lan a img
 alayadivembuweb.lk##.e3lan img
 gvtjob.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,graminujala.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,mithilacitynews.in##.e3lan-post
-ceylonradio.co.uk,chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com##.e3lan-top
+chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
 dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in,uluberiasambad.in##.eaa-ad
@@ -2888,6 +2888,7 @@ anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
 khabareducation.com##.widget_text:not(#text-15)
+ceylonradio.co.uk##.widget_text:not(#text-24)
 sandeshnow.com##.widget_text:not(#text-6)
 akashjatra.com##.widget_tibwky
 chandrikadaily.qa##.widget_viral_advertisement
