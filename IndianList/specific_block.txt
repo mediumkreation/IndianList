@@ -87,6 +87,7 @@
 /Advertisement/*$domain=aparajeobangla.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=dailyinqilab.com|keralasabdam.in|nanaonline.in|newsabhiyan.com|srijannews.com|swatantraawaz.com|tatkalnews.com
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
+/advertisement/*$domain=thannambikkai.org
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /Advertizement/*$domain=biniyougbarta.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -4058,6 +4059,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||thandoraa.com/wp-content/uploads/2017/09/add-img-1.jpg
 ||thandoraa.com/wp-content/uploads/2019/09/rc-ad-sml.jpg
 ||thannambikkai.org/images/magazine/IMaruthuvamadv.jpg
+||thannambikkai.org/images/magazine/pub1.png
 ||tharexpressnews.com/banner/
 ||thavady.com/gifs/greetings/tamils4news.jpg
 ||theargus.in/wp-content/uploads/2020/05/SUM-COVID-19_33X25_09-1-scaled.jpg

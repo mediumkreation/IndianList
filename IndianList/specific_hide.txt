@@ -3791,6 +3791,7 @@ tarunbharat.com#?#.a-wrap:-abp-has(div[id^="div-gpt-ad"])
 telugugateway.com#?#div:-abp-has(> ins.adsbygoogle)
 teluguglobal.com#?#div:-abp-has(> ins.adsbygoogle)
 krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
+thannambikkai.org#?#h2:-abp-contains(Advertisement)
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
 thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
