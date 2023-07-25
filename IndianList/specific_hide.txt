@@ -1901,6 +1901,7 @@ haribhoomi.com,hmtvlive.com,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
 haribhoomi.com##.level_bottom_full
+maatram.org##.lightwidget-widget
 damaulionline.com##.list-advertisement
 heralokhabar.com##.list_ads1
 dailyjugantorsangbad.com##.live .embed-responsive
