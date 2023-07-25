@@ -103,8 +103,7 @@ ishantimes.com###ads160_600-widget-2
 hastakshep.com###ads300_600-widget-3
 seithy.com###ads400px
 press4news.live###adsBanner
-nethgossip.lk###ads_hide
-nethnews.lk###ads_hide img
+nethgossip.lk,nethnews.lk###ads_hide
 news24nepal.tv,vishvakannada.com###adv
 newsnib.in###advertisement
 torontotamil.com###advertsub2
