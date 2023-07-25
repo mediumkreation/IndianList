@@ -301,6 +301,7 @@ cellitnews.com###example
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 indianletter.com###featured-multi-wrap
 nayapusta.com###flashnews
+houseplan.lk###flexiselDemo1
 nerpatham.com###floating-sidebar .custom
 narmadanchal.com###fn-before-content-sidebar
 shikkharalo24.com###focus_slider
@@ -2373,7 +2374,7 @@ newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
-bharathalchal.com,bhilwarahalchal.com,samajkihalchal.com##.slider2
+bharathalchal.com,bhilwarahalchal.com,houseplan.lk,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 lokjeewan.com##.slider_ad_top
@@ -3086,6 +3087,7 @@ gramajyothi.com##a[href*="SeemasEdappally"]
 battinews.com##a[href*="ad.battinews.com"]
 24ghanta.net##a[href*="adroll.com"]
 protidinersangbad.com##a[href*="ads-page"]
+houseplan.lk##a[href*="advertising page"] img
 uttranews.com##a[href*="advt-new"]
 apnepal.com##a[href*="alljobvacancies.com"]
 bhaskarenews.com,hindlives.com,vasundhara.net##a[href*="amzn.to"]
