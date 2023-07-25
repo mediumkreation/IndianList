@@ -884,6 +884,7 @@ bharatsamachartv.in##.RightCont iframe
 dinamalar.com##.Seladv
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
+kamadenu.hindutamil.in##.Stickyads
 hindi.news18.com##.TABOOLA
 citynewsexpress.com##.Tollywood-indx
 tamil.oneindia.com##._adr_abp_container
@@ -3329,7 +3330,7 @@ newskannada.com##div[class*="_adv_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 thewall.in##div[class*="_ning"]
 nrimalayalee.com##div[class*="_right_ad"]
-kumudam.com##div[class*="ad-slot-"]
+kamadenu.hindutamil.in,kumudam.com##div[class*="ad-slot-"]
 probashirdiganta.com##div[class*="adbox"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 justnewsbd.com##div[class*="advertisement"]
