@@ -376,6 +376,7 @@ gmnewsbd.com###main-content .textwidget img
 p2pnews.co###main-content > .e3lan-post
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
+punalurnews.blogspot.com###main-top
 kasargodvartha.com###main-widget .widget.HTML
 abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
