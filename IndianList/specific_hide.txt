@@ -531,7 +531,6 @@ jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
 ajdapunjab.com###primary .widget_media_image
 bhalukanews.com###primary img[alt="ads"]
-koshionline.com###primary section.widget_media_image
 purbashabd24.com###primary-sidebar
 samacharhouse.com###quads-ad17070
 akhandbharatsamachar.com###recent-boxes2
@@ -922,7 +921,7 @@ edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
-koshionline.com,nepalsandesh.com##.ad-sec
+nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
 bangladesherkhabor.net##.ad-sm
@@ -1419,6 +1418,7 @@ aapkaparyas.in##.container > .flex-c-c
 udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 rni.news,udaybulletin.com##.container-bn
+koshionline.com##.container-fluid.pt-3
 newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
@@ -2786,7 +2786,7 @@ newsofmithila.in##.widget_300x250_advertisement
 jagatprahari.com##.widget_728x90_advertisement
 jiwanjotsavera.com##.widget_ads_big
 ethiri.com##.widget_ads_easy_widget
-hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
+hamromat.com,pradeshdainik.com##.widget_advertisement-bar
 e-kantho24.com,gtbnews24.com##.widget_area
 pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
 dainikcampus.com##.widget_area > .textwidget
