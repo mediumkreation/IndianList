@@ -677,7 +677,6 @@ globenepal.com###square-close .front
 sanskardarshan.in###sticky-wrapper
 chandpurprobaha.com###sticky-wrapper .widget_media_image
 indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
-lokaantar.com###stickyAdBottom
 dailypunorutthan.com###stickyadd
 webmorcha.com###stream-item-125-widget-3
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
@@ -909,7 +908,7 @@ pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-awaaz24x7.com,awamileaguetimes.com##.ad-banner
+awaaz24x7.com,awamileaguetimes.com,lokaantar.com##.ad-banner
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
@@ -1297,11 +1296,10 @@ janaaastha.com##.bigyapaan
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
-corporatenepal.com,lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
+corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
 ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
-lokaantar.com##.bigyapan-title
 biharaaptak.com##.bihar-widget
 aapkiummid.com##.billboardad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
@@ -1363,6 +1361,7 @@ doshdik.com##.category_ad_space
 thesaturdaynews.com##.category_page_right .single_page_bottom_ad
 unfoldbangla.com##.category_side
 makalukhabar.com##.cdbofrqam
+lokaantar.com##.center-aligned-ad
 chaipanchayat.com##.chaip-after-content_4
 chamaktaaina.com##.chama-widget
 chandrikadaily.qa##.chand-before-content_5
@@ -2109,6 +2108,7 @@ pahadprabhat.com##.pahad-widget
 virakesari.lk##.paid-banners
 corporatenepal.com,nepalbahas.com##.para-3-ad
 nepalkhabar.com##.paraAd
+lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatprerna.com##.parva-widget
 bordernewsmirror.com##.pbwidget.slideshow
 dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
