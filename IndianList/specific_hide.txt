@@ -47,10 +47,10 @@ poonththalir.blogspot.com###Image119
 madhepuratimes.com,nepalmother.com,thattungal.com###Image12
 poonththalir.blogspot.com###Image125
 madhepuratimes.com,thattungal.com###Image13
-arthasarokar.com,gidhaur.com,kalvinews.com,madhepuratimes.com,thattungal.com###Image14
+gidhaur.com,kalvinews.com,madhepuratimes.com,thattungal.com###Image14
 madhepuratimes.com,thattungal.com###Image15
 madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image16
-arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
+madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
 36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,jaunpurlive.com,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sandwanews.com,shivpurisamachaar.com,siyanenews.com,spyviewnews.in,thattungal.com###Image2
@@ -77,7 +77,6 @@ patnadaily.com###Mod173
 patnadaily.com###Mod174
 odia-ray.in###Mod182
 odia-ray.in###Mod225
-arthasarokar.com###RoadBlock
 pnews.co.in###SidebarWidgets-S1
 battirepnews.com###SidebarWidgets-S1 .widget.Image
 puthiyathalaimurai.com###__ads1
@@ -156,7 +155,6 @@ kusenews.com###belowflash
 kusenews.com###belowmainnews
 tamilcnn.lk###big-banner
 bankingsansar.com###bigyapan-top
-arthasarokar.com###bigyapan_top_right_logo
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,mycitydilse.com,paridarshaka.com,tamizhdb.com,thenewsmirchi.com###block-10
@@ -939,7 +937,6 @@ maharashtratimes.com##.ad1_native
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
-arthasarokar.com##.ad50
 eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
 dailyjagoran.com##.adBgGray
@@ -1121,7 +1118,6 @@ chakrapath.com##.adspace
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
-arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
@@ -1260,7 +1256,6 @@ kalyugkatehelka.com##.bannerListWidget
 rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
-arthasarokar.com##.banner_bigyapan
 rosemalayalam.com##.banner_slider
 hapurhulchul.com##.banner_wrapper
 4tamilmedia.com##.bannerfooter
@@ -1280,7 +1275,6 @@ nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
 belagavisuddi.com##.belag-content
-arthasarokar.com##.below-author-bigyapan
 nwnews24.com##.below-content.widget_text
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
@@ -1309,7 +1303,6 @@ bizmandu.com##.bigyapan-inside-content
 ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
 lokaantar.com##.bigyapan-title
-arthasarokar.com##.bigyapan_banner
 biharaaptak.com##.bihar-widget
 aapkiummid.com##.billboardad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
@@ -1451,6 +1444,7 @@ internationalmalayaly.com##.cscra-promotion > img
 internationalmalayaly.com##.cscra-promotion a:not([href*="internationalmalayaly.com"])
 internationalmalayaly.com##.cscra-promotion:empty
 shasakprashasak.com##.custom img
+arthasarokar.com##.custom-ad-link
 sylhetview24.news##.custom-ads-row
 kalyugkatehelka.com,roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
@@ -1609,6 +1603,7 @@ chhapratoday.com##.entry-the-content img.alignnone.size-full
 cgfrontline.com,garjachhattisgarhnews.com##.epcl-banner
 grandnews.in##.epcl-row
 livehindustan.com##.epr-ads
+arthasarokar.com##.esn_twin_ad_widget
 azchavattomonline.com##.et_pb_ads_0
 youth18.com##.et_pb_code:not(.et_pb_code_1_tb_body)
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
@@ -3127,7 +3122,6 @@ jugantor.com##a[href*="eximbankbd.com"]:only-child
 tamilarul.net##a[href*="facebook.com"] > img
 times-bd24.com##a[href*="facebook.com/Future-Company-"]
 hindlives.com##a[href*="fkrt.it"]
-arthasarokar.com##a[href*="garimabank.com.np"]
 currentgk.in##a[href*="gkprashnuttar.com"]
 tamilarul.net##a[href*="goo.gl/"] > img
 visarnews.com##a[href*="goo.gl/18LXwT"]
@@ -3154,10 +3148,8 @@ chattolarkhabor.com,ctgpratidin.com##a[href*="ksrm.com.bd"]
 gramajyothi.com##a[href*="lunars.com"]
 maloutlive.com##a[href*="maloutonline.com/listing/"] > img:only-child
 bhalukanews.com##a[href*="mastercafebd"]
-arthasarokar.com##a[href*="nabilbank.com"]
 gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 news4himalayans.com##a[href*="narendramodi.in"]
-arthasarokar.com##a[href*="nbbl.com.np"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
 gramajyothi.com##a[href*="nirapara.com"]
