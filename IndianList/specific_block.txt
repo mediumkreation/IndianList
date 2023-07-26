@@ -99,9 +99,9 @@
 /banner-$image,domain=bikashnews.com
 /banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
-/bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|swasthyakhabar.com
+/bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|setopati.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
-/bigyapan/*$domain=himalkhabar.com|khelpati.com|merolagani.com|setopati.com
+/bigyapan/*$domain=himalkhabar.com|khelpati.com|merolagani.com
 /block_$image,domain=ntvtelugu.com
 /blocks/block_$domain=aankhennews24.com|bhavtarini.com|encounterindia.in|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|pickthekhoj.in|polkholindia.com|postcardbd.com|purvikranti.com|sansaninews.com|vartanews.com
 /bn/add/*$domain=24updatenews.com
@@ -183,6 +183,7 @@
 @@||samacharprime24.com/img/cust/31.jpg
 @@||samacharvarta.com/matri2/ad_pages/jawano%20ko%20salam.jpg
 @@||samacharvarta.com/matri2/ad_pages/school%20varta%20add.jpg
+@@||setopati.com/uploads/bigyaapan/59415100.jpg
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
 @@||shomoyeralo.com/ad/Google-News.jpg
 @@||swadeshpratidin.com/ad/SW-920.jpg
