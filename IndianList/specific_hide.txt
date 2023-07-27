@@ -3065,6 +3065,7 @@ sagartvnews.com##a[class^="myadsply"]
 ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
 bangladeshonline24.com##a[href*=".ac.bd"]
+divaina.lk##a[href*=".daraz.lk"] img
 yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
