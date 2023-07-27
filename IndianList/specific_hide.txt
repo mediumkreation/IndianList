@@ -1127,7 +1127,6 @@ khabardabali.com##.adv-margin-bottom
 anweshanam.com,cityandolan.com,devpath.in##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
-keralaexpress.com##.adv_big
 doolnews.com##.adv_box_3x25
 bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
@@ -1655,7 +1654,6 @@ firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 rkexpose.com##.footer-adv
 goodmorningindia.net##.footer-right-widget
-keralaexpress.com##.footer-sponsored
 srimanexpress.digital##.footer-widget .textwidget img
 gionews.in##.footer-widget .widget_media_image
 raisingvoice.com##.footer-widgets-area section.widget_media_image
@@ -1942,6 +1940,7 @@ sharebazarnews.com##.main-header-ads
 subhechhanews.com##.main-headera .advertise
 khabarmukam.com##.main-long-advert
 samudrapari.com##.main-news-ads
+keralaexpress.com##.main-right-ad
 cgnewsonline.com##.main-sidebar .widget_block
 khulnanchal.com##.main-sidebar .widget_custom_html
 bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
@@ -2399,8 +2398,6 @@ dnewsnetwork.in##.spcp-sidebar
 manoramaonline.com##.special-banner-block
 coxbangla.com##.special_featur
 kaumudiplus.com##.spnsrd-ad
-keralaexpress.com##.sponser-adv
-keralaexpress.com##.sponser-update
 abasangthandp.com##.sponsers
 shankhnaad.in,swarajnewstoday.com##.sponsored
 preyopathok.com##.sports_section .muktomot_section
@@ -3313,6 +3310,7 @@ punjabiherald.co.nz##div[aria-label^="HSB-"]
 punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
 punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
 otvkhabar.in##div[class$="-ad"]
+keralaexpress.com##div[class$="-adv"]
 odishareporter.in##div[class$="0-ad"]
 asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
