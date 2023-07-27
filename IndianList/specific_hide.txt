@@ -288,6 +288,7 @@ aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnew
 pundrokotha.com.bd###descripton div[style*="url"]
 manithan.com###dfp_banner_header_panel + span
 bhorerkagoj.com###div-ub-bhorerkagoj
+eveningkerala.com###divSliderMain
 ittefaq.com.bd###div_252
 teluguwishesh.com###djslider875
 biharjharkhandnewsnetwork.com###doy-2
@@ -2834,6 +2835,7 @@ tibrakhabar.com.np##.widget_media_image > img
 chamolitimes.com##.widget_media_image img:not(.wp-image-11601):not(.wp-image-11642)
 lekhajokhanews.com##.widget_media_image img:not([src*="nocs.png"])
 smartindiadial.com##.widget_media_image:not(#block-6)
+eveningkerala.com##.widget_media_image:not(#media_image-121):not(#media_image-113)
 madhyantar.com##.widget_media_image:not(#media_image-125)
 pplnews.in##.widget_media_image:not(#media_image-13)
 isns.co.in##.widget_media_image:not(#media_image-16)
