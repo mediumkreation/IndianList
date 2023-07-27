@@ -88,6 +88,7 @@
 /advertisement/*$domain=dailyinqilab.com|keralasabdam.in|nanaonline.in|newsabhiyan.com|srijannews.com|swatantraawaz.com|tatkalnews.com
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
 /advertisement/*$domain=thannambikkai.org
+/advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /Advertizement/*$domain=biniyougbarta.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -2068,7 +2069,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||kbuccket.sgp1.digitaloceanspaces.com/balliakhabar/*/Aishpra-
 ||kbuccket.sgp1.digitaloceanspaces.com/balliakhabar/2022/04/03153431/Milk
 ||kelimandala.lankadeepa.lk^*/advr_
-||keralaexpress.com^*/banners
 ||keralanewshunt.com/images/coirfed%20cut.jpg
 ||keralanewshunt.com/images/csb.jpg
 ||keralanewshunt.com/images/Kerafednew.jpg
