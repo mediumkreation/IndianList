@@ -1401,7 +1401,6 @@ banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 purvanchal24.com##.col-md-4 .pbwidget
 dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
-odishareporter.in##.colombia
 anugrahavision.com,azhimukham.com,chopaltv.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
@@ -3314,6 +3313,7 @@ punjabiherald.co.nz##div[aria-label^="HSB-"]
 punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
 punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
 otvkhabar.in##div[class$="-ad"]
+odishareporter.in##div[class$="0-ad"]
 asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 news18.com##div[class*="Header_inner_ad"]
