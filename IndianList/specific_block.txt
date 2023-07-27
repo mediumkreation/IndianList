@@ -319,7 +319,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||abplive.com//testfeeds/banners/
 ||abtakkhabar.com/wp-content/uploads/2023/06/Screenshot_2023-06-01-12-18-07-223-
 ||abtakkhabar.com/wp-content/uploads/2023/06/Screenshot_2023-06-01-12-18-07-223-edit_com.android.chrome
-||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
 ||adarshbharattv.com/upload/Ad/
 ||adhorekhit.com/wp-content/uploads/2021/09/ad-news.jpg
 ||adhunikdaur.com/webdata/ranbhumiexpress.com/media/
@@ -3416,7 +3415,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ratopanda.com^render?$third-party
 ||ratopost.com/wp-content/uploads/2020/05/Birtamod$image
 ||ratopost.com/wp-content/uploads/2020/06/gauriganj$image
-||raxcdn.com/media/*.gif|$third-party,domain=thahakhabar.com
 ||realbulletin.in/mynewsadmin/img/add/add1548668647.jpeg
 ||realbulletin.in/mynewsadmin/img/add/add1561545198.jpeg
 ||realbulletin.in/mynewsadmin/img/add/add1565001491.jpeg
