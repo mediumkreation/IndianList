@@ -2764,6 +2764,7 @@ scgnews.in##.widget-ad-image
 gstv.in##.widget-area-1 .widget_custom_html
 labanglatimes.com##.widget-banner
 crimediarybd.com##.widget-body > p img
+samakalikamalayalam.com##.widget-container-130
 kannadaprabha.com##.widget-container-188
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 kusenews.com##.widget-header > img
