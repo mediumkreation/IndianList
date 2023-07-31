@@ -2760,6 +2760,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||netrigun.com^*160x1001.gif
 ||netrokonajournal.com^*/Ads-
 ||new.bolbolbollywood.com/wp-content/uploads/2020/07/newspaper-rec
+||new.raozannews.com.bd/AddImages/
 ||newcinemaexpress.com/wp-content/uploads/2020/12/Chiyaangal-BG.jpg
 ||newcinemaexpress.com/wp-content/uploads/2021/02/anbirkiniyal-bg-ad.jpg
 ||newneervely.com/wp-content/uploads/2020/04/web-240x300.jpg
@@ -3384,9 +3385,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||rangpursangbad.com/wp-content/uploads/2020/07/43650_116-600x225.jpg
 ||rangpursangbad.com/wp-content/uploads/2020/07/fghjl.jpg
 ||rantraibaar.in^*/newspaper-rec
-||raozannews.com.bd/wp-content/uploads/2020/08/Pioneer-Add2-300x42.gif
-||raozannews.com.bd^*/MUSCat-Holiday-Resort.gif
-||raozannews.com.bd^*/Pioneer-Add2.gif
 ||rapidprnews.com^*/add-2.jpg
 ||rapidprnews.com^*/bb.gif
 ||rapidprnews.com^*/dream.jpg
