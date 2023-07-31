@@ -933,8 +933,9 @@ state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 state7online.com##.ad-title ~ img:not([src*="BARON-"])
 eisamay.com,iamgujarat.com,samayam.com##.ad-wrapper-250
 eisamay.com##.ad-wrapper-275
+eisamay.com##.ad-wrapper-photo
 alorkantho24.news,bengali.timesxp.com,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
-maharashtratimes.com##.ad1_native
+eisamay.com,maharashtratimes.com##.ad1_native
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
@@ -1208,6 +1209,7 @@ bangalorewaves.com##.almanacheader
 babuaa.com##.aloks
 ibc24.in##.alt-balaji
 jagonarayanganj24.com##.amws-custom-widget-show-ad
+eisamay.com##.amz-with-ads
 bspabla.com##.amzn_wdgt
 paristamil.com##.annonce_head
 voiceofsatkhira.com##.article-body-banner
@@ -1807,7 +1809,7 @@ doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 thecinematimes.com##.horizontal-adv
 tips4blog.com##.hot_rwc_ads
-indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
+eisamay.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 ibc24.in##.hr_banner
@@ -1991,6 +1993,7 @@ punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
 samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
+eisamay.com##.midArtContainer
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 prabhabonline.com##.middle-banner
@@ -2759,7 +2762,7 @@ newsagencyindia.com##.w-100
 etamilnews.com##.w-60
 etamilnews.com##.w-70
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
-iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
+eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com##.webAds
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com,tahalaka.in##.well
