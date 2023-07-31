@@ -421,7 +421,7 @@ delhibulletin.in###media_image-35
 sabkasandesh.com,voiceofbihar.in###media_image-36
 delhibulletin.in,mpnewscast.com,voiceofbihar.in###media_image-38
 delhibulletin.in###media_image-39
-aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainiklumbini.com,dhinakkavalan.com,ejanakpurtoday.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,otvnepal.com,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
+aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainiklumbini.com,dhinakkavalan.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,otvnepal.com,pahaltoday.com,prakharpurvanchal.com,samacharkyari.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
 sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,peptechtime.com,sabkasandesh.com###media_image-42
@@ -1256,6 +1256,7 @@ rojanapunjab.com##.banner1
 jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 kalyugkatehelka.com##.bannerListWidget
+ejanakpurtoday.com##.banner__ads
 rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
