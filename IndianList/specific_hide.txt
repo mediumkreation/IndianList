@@ -3594,6 +3594,7 @@ mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 garavigujarat.biz#?#.wpb_raw_html:-abp-has(.adsbymahimeta)
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
+boishakhionline.com##h5[style*="PEARL-ads.jpg)"]
 haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
 khabor.com##header a[href*="/click-"]
 ukhiyanews.com##header ~ .bg
