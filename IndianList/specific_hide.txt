@@ -674,6 +674,7 @@ dabangrajdhani.com###sp-right .bannergroup
 techtamil.com###sp_widget_post_slider-2
 khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
+sylheterdak.com.bd###spcl_advertise_right
 telugutimes.net###splide24
 globenepal.com###square-close .front
 sanskardarshan.in###sticky-wrapper
@@ -691,7 +692,7 @@ mediamangalam.com###stream-item-widget-7
 solantoday.com###sub-footer .widget_media_image
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
-sylhetview24.net###sv_gad_left
+sylheterdak.com.bd,sylhetview24.net###sv_gad_left
 swarajnewstoday.com###sync3
 dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
 srujananedu.com###tdi_191
@@ -854,6 +855,7 @@ onp24.com##.BannerAdd2
 janashaktinews.com##.CMAC_AdChangerWidget
 cvoice24.com,eyenews.news##.DADD
 amaderprotidin.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
+sylheterdak.com.bd##.DAdd .hidden-xs
 sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
 bdprojonmo71.com##.DAdvertisement
