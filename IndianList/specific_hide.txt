@@ -413,7 +413,6 @@ cgimpact.org,dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,madhyabhoomikeboa
 ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
 amritvarshanews.in,ayushindianews.com,bangladaily24.com,dainikkhojkhabar.live,darpansamachar.com,dharuvu.com,envazhi.com,fairnepal.com,fenirzamin.com,globalsylhet.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,odisha24.com,opensearch.co.in,pahar24.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
-purbelinews.com###media_image-30
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
 delhibulletin.in###media_image-34
@@ -956,7 +955,7 @@ enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
 outlookhindi.com##.ad_unit_728x90
 corporatenepal.com##.adalytics_ad
-farakdhar.com##.adalyticsblock
+farakdhar.com,purbelinews.com##.adalyticsblock
 bharatdarshannews.com##.adbo
 anandabazar.com,lohagaranews24.com,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,pradeshajjtak.com,pragativahini.com,rajnitiprotidin.com##.adcontainer
@@ -2115,7 +2114,7 @@ i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 virakesari.lk##.paid-banners
-corporatenepal.com,nepalbahas.com##.para-3-ad
+corporatenepal.com,nepalbahas.com,purbelinews.com##.para-3-ad
 nepalkhabar.com##.paraAd
 lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatprerna.com##.parva-widget
@@ -2341,6 +2340,7 @@ sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
 nepalbritain.com,rastriyakhabar.com##.single-wrapper-details-sidebar-ads
 eimuhurte.com##.singleAds
+purbelinews.com##.single__bigyapaan
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
@@ -2883,7 +2883,7 @@ awaznews24x7.com,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,sadeaalara
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
-ausnepalnews.com,purbelinews.com##.widget_sp_image
+ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
@@ -3037,7 +3037,6 @@ probashibangla.tv##.zja
 khabreelal.com,thesabera.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
 kashishnews.com##[alt="add image"]
-purbelinews.com##[class$="-ads"]
 yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
 vikatan.com##[class*="__ad"]
