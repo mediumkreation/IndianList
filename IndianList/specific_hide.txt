@@ -324,7 +324,7 @@ cinemasthi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-asid
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
 allwnews.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,keralanewz.com,naturalnews.co.in,paryavaranpost.com,primepunjab.com,rozanapost.in###header-right-section
-cgimpact.org,thepunjabwire.com###header-right-sidebar
+cgimpact.org,jamalpurbarta.com,thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
 keralaviews.com###header-widgets
