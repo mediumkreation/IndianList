@@ -2522,6 +2522,7 @@ dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com,matopath.com##.td-main-content-wrap .td_block_single_image
 ratdinnews.net##.td-main-content-wrap .tdm_block
+teknafnews.com##.td-main-content-wrap .vc_raw_html
 newsfireonline.com##.td-main-content-wrap .widget_text
 egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
@@ -2562,7 +2563,7 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,lakfmnews.lk,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,lakfmnews.lk,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
