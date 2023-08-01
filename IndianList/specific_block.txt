@@ -64,7 +64,7 @@
 /ADD.gif|$domain=paryabekhyak.com
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$domain=thenewspost.in
-/add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylheterdak.com.bd|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
+/add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
 /ADD_$domain=amarbarta24.com
 /add_$domain=shamolbangla24.com
 /AddImages/*$domain=thurannakathu.com
@@ -3879,7 +3879,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||swatvasamachar.com/wp-content/uploads/2020/03/new-ad.jpg
 ||sylheterchakrirkhabar.com/itfactory.jpg
 ||sylheterchakrirkhabar.com/wp-content/uploads/2023/03/ins-
-||sylheterdak.com.bd/adv/
 ||sylhetersokal.com/images/2019/11/2016_02_01_39_3_b-copy-333x600.jpg
 ||sylhetersokal.com/images/2019/12/9-600x119.jpeg
 ||sylhetersokal.com/images/2019/12/WhatsApp-Image-2019-11-28-at-12.21-300x275.jpg
