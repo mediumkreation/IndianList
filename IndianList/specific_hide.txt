@@ -933,7 +933,6 @@ bangladesherkhabor.net##.ad-sm
 news24bd.tv##.ad-ticker-right
 officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
-state7online.com##.ad-title ~ img:not([src*="BARON-"])
 eisamay.com,iamgujarat.com,samayam.com##.ad-wrapper-250
 eisamay.com##.ad-wrapper-275
 eisamay.com##.ad-wrapper-photo
@@ -3417,7 +3416,7 @@ sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
-bolanyathali.com,khabarpurwanchal.com,mysanchar.com,nayanepalnews.com,news14india.com,pcbtoday.in,samriddhasamaj.com,suryaa.co.in##div[class^="sgpb-"]
+bolanyathali.com,khabarpurwanchal.com,mysanchar.com,nayanepalnews.com,news14india.com,pcbtoday.in,samriddhasamaj.com,state7online.com,suryaa.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 samakal.com##div[class^="textBodyAd"]
