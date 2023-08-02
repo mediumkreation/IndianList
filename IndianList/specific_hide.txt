@@ -1986,7 +1986,6 @@ divyamarathi.bhaskar.com##.mb_ads_title
 ctgsangbad24.com##.mcyd
 media4support.com##.media-content_2
 vasistatoday.in##.mega-wrap .main-ads-pikihome
-bankingkhabar.com##.meroads
 lalitpurfastnews.com,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 shasansandesh.in##.mg-headwidget .code-block
@@ -3226,6 +3225,7 @@ yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 sylheterjanapad.tv##a[target="_blank"] > img
 aarthiknews.com,abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 hollywoodkhabar.com##a[target="_blank"] img:not([src*="Screenshot_2022-11-22_at_10_43_32_PM.png"])
+bankingkhabar.com##a[target="_blank"] img:not([src*="icons"])
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 newsajako.com##a[target="_blank"] img[src*=".gif"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
