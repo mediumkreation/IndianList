@@ -3712,6 +3712,8 @@ nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(
 punjabiherald.co.nz##nav + div
 naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
 nayanjagriti.com#?#div:-abp-has(> ins.adsbygoogle)
+neplays.com#?#.widget--title .h4:-abp-contains(Advertisement)
+neplays.com#?#div.ptop--30:-abp-has(> .ad--space)
 news11.live#?#.align_cent:-abp-contains(Advertise)
 news18.com#?#.listview-story li:-abp-has(div[data-implementation])
 news18.com#?#.listview-story li:-abp-has(div[id^="mobileAd"])
