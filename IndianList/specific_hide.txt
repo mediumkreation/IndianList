@@ -1152,7 +1152,7 @@ nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
-bikashnews.com,dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
+dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
 drukpadam.com,hindustandailynews.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 margarekha.com##.advertise-border
@@ -1421,7 +1421,7 @@ malayalamuk.com##.container #sidebar img
 news24delhi.com##.container .container #page-sidebar
 upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
-udupitimes.com##.container a[target="_blank"] img
+bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 rni.news,udaybulletin.com##.container-bn
 koshionline.com##.container-fluid.pt-3
@@ -1480,6 +1480,7 @@ jansatta.com##.desk-ad-bg-container
 kannada.asianetnews.com##.desktop-ad-1
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 argusnews.in##.desktop-square-ad
+bikashnews.com##.desktop_main_news_banner
 nayabishwo.com##.detail-ad-holder
 baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
@@ -1750,7 +1751,7 @@ digitalbharatnews.in##.header-inner .sidebar-col
 firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 alochitokantho.com.bd##.header-promotion
-a2zsamachar.com,azadsandesh.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,malayalamnewstimes.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,theprobashi.com##.header-right
+a2zsamachar.com,azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,malayalamnewstimes.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,theprobashi.com##.header-right
 headline24x7.com,khabarduniya.com,mp1news.com##.header-right-adv
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
@@ -1861,7 +1862,6 @@ laxminews24x7.com##.inner-wrapper .e3lan-below_header
 globalmalayalam.com##.innerAdColum
 jagonews24.com##.inner_ad_item
 bholabani.com##.innerad2
-bikashnews.com##.innercontainer a[target="_blank"] img
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
@@ -1986,8 +1986,6 @@ divyamarathi.bhaskar.com##.mb_ads_title
 ctgsangbad24.com##.mcyd
 media4support.com##.media-content_2
 vasistatoday.in##.mega-wrap .main-ads-pikihome
-bikashnews.com##.menu_ad
-bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
 lalitpurfastnews.com,swatantraawam.in##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
@@ -2225,7 +2223,6 @@ ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
 anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
-bikashnews.com##.rightside a[target="_blank"]
 gossiplankanews.com##.rimage
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
