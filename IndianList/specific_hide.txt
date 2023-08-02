@@ -1779,6 +1779,9 @@ lakshynew.blogspot.com,nunworajasthan.co.in,reporters7.com##.headerright
 telugu.goodreturns.in##.headinglist > div
 tirangaacindianews.com##.headnBx .text-right
 krushinama.com##.herald-da
+lokpati.com##.herald-no-sid
+lokpati.com##.herald-txt-module img.size-full
+lokpati.com##.herald-txt-module img[src*="gif"]
 supportmeindia.com##.hero-section
 himachalmedia.co##.himac-widget
 khabareducation.com##.hm-header-image
