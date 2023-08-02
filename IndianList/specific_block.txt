@@ -560,11 +560,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||bankbimaarthonity.com/wp-content/uploads/2015/10/Pragati_Life_Insurance_Monthly.gif
 ||bankbimaarthonity.com/wp-content/uploads/2015/10/Progoti-Insurance-AAA.jpg
 ||bankbimaarthonity.com/wp-content/uploads/2015/10/SWADESH-LIFE-AD.gif
-||bankingkhabar.com/wp-content/uploads/2019/03/lumbini-insurance.gif
-||bankingkhabar.com/wp-content/uploads/2021/02/300x-300px-Sarwadhik.gif
-||bankingkhabar.com^*/1140X100.gif
-||bankingkhabar.com^*/810x90.gif
-||bankingkhabar.com^*/prabhu
 ||banshidharnews.com/26/n121.jpeg
 ||banshidharnews.com/26/qw1.jpg
 ||barisalbani.com/wp-content/uploads/2021/01/IBHB-1.png
@@ -4300,8 +4295,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||wp.com^$third-party,domain=crimeexpressbd.com|radionrn.com
 ||wp.com^*/10/unique-dental-e1570777415632.jpg$domain=uttaranews24.com
 ||wp.com^*/250-x-350.jpg$domain=tnn.lk
-||wp.com^*/262-185bankingkhabar.gif?$domain=bankingkhabar.com
-||wp.com^*/300x150-Swornim.gif$domain=bankingkhabar.com
 ||wp.com^*/Abhimaani-vasathi-01-726x1024.jpeg$domain=eesanje.com
 ||wp.com^*/AD-2x2.png$domain=corporatesangbad.com
 ||wp.com^*/add$image,domain=loksansar.in
@@ -4309,7 +4302,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||wp.com^*/bef3a7acf8de4d81bda39bbdc3265d32_18image$domain=uttaranews24.com
 ||wp.com^*/cjmc-new-add-$domain=pariwartankhabar.com
 ||wp.com^*/eastern-$image,domain=indiavisionmedia.com
-||wp.com^*/gandaki.jpg?$domain=bankingkhabar.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
 ||wp.com^*/icb.gif$domain=dhakanews24.com
 ||wp.com^*/IMG-20181101-WA0043.jpg$domain=uttranews.com
