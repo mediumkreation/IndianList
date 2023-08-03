@@ -17,7 +17,7 @@
 -add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com|shomoynews.net
 -add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
--add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|ramailochha.com|suprovatsatkhira.com|teluguwishesh.com
+-add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|suprovatsatkhira.com|teluguwishesh.com
 -add.jpg|*$domain=ratdinnews.net
 -add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
@@ -117,7 +117,6 @@
 250x250-Middle$domain=newstrendz.co.in
 290x180_c.jpg|$domain=karaihinducanada.com
 300X150$image,domain=bikashnews.com
-540X100-$domain=ramailochha.com
 880x90-$image,domain=bikashnews.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
@@ -3264,13 +3263,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||rajsattapost.com^*/ads-
 ||rajshahinews24.com^*/Ruprekha-02-1.jpg
 ||rakhewaldaily.com^*/345Final%20logo%20(1).jpg
-||ramailochha.com/wp-content/uploads/2020/01/500x100-sanglo.jpg
-||ramailochha.com/wp-content/uploads/2020/02/mygg2_web_250x417
-||ramailochha.com^*/550x100-hajar-juni-samma
-||ramailochha.com^*/550x100-maruni
-||ramailochha.com^*/550x100-password
-||ramailochha.com^*/hajar-juni-samma
-||ramailochha.com^*/soch-banner.jpg
 ||ranbhumiexpress.com/webdata/ranbhumiexpress.com/media/1576069706add_up_1.JPG
 ||rangpur24.com/wp-content/uploads/2020/01/H-$image
 ||rangpur24.com/wp-content/uploads/2020/01/H.png
