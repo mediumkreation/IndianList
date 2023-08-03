@@ -957,7 +957,7 @@ infoway24.com##.ad_section_1
 enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
 outlookhindi.com##.ad_unit_728x90
-corporatenepal.com##.adalytics_ad
+corporatenepal.com,merofilm.com##.adalytics_ad
 farakdhar.com,purbelinews.com##.adalyticsblock
 bharatdarshannews.com##.adbo
 anandabazar.com,beanibazarnews24.com,lohagaranews24.com,thebharatnews.net##.adbox
@@ -1301,8 +1301,10 @@ aayomail.com,himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
 dekhapadhi.com,sajhapost.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
+merofilm.com##.bigyapaan__section
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
+merofilm.com##.bigyapan-banner
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
@@ -1704,7 +1706,7 @@ trttamilolli.com##.galboxcontainer
 bangladesherkhabor.net##.gallery
 pardaphash.com##.gallery-ads
 dainikdeshersathe.com##.gallery_section
-dcnepal.com,khullamanch.com,merofilm.com##.gam-ad-position-wrap
+dcnepal.com,khullamanch.com##.gam-ad-position-wrap
 emailkhabar.com,khullamanch.com,nawalpurtimes.com##.gam-each-ad
 nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 nepalpress.com##.gam-each-npad
