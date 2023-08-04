@@ -109,7 +109,6 @@ torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
 importmirror.com###adx
 thejharokha.com###ai_widget-2
-chakarianews.com###akismet_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,punjabijagran.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
@@ -721,6 +720,7 @@ dainiksatkhira.com###text-22
 divyalive.com,tnilive.com###text-23
 achhisoch.com,apnades.in,janvadtimes.com,tnilive.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in,ekusheralo24.com,roopcare.com###text-25
+chakarianews.com###text-26
 satyamlive.com,tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
@@ -758,7 +758,7 @@ avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdto
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bigkhabar.com###text-69
-aajkiawaaz.com,apnades.in,barisaltoday.com,bdtodays.net,brajpatrika.com,cgmitan.com,ekhansangbad.com,hastakshep.com,indianow24.com,indiawarta.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,whitemirchi.com,youngorganiser.com###text-7
+aajkiawaaz.com,apnades.in,barisaltoday.com,bdtodays.net,brajpatrika.com,cgmitan.com,chakarianews.com,ekhansangbad.com,hastakshep.com,indianow24.com,indiawarta.com,jagprerna.com,jeevanutsahnews.in,kalmunainet.com,lenseyenews.com,manikganj24.com,mpbreaking.in,pabilnews.com,scnnewsindia.com,whitemirchi.com,youngorganiser.com###text-7
 hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 chandpurtimes.com###text-72
 247superfast.com,ekhansangbad.com,gauravnews.in,gazarianews.com,globaltamilnews.net,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,janvadtimes.com,jeevanutsahnews.in,joyparajoy.com,legalvoice24.com,muslimkural.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
