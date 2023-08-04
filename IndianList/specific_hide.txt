@@ -977,7 +977,7 @@ bwazarakatha.com##.add img:not(.wp-image-19734)
 dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 dailydishari.com##.add img:not([src*="Dainik-Dishari-"])
 kopotakkhotimes.com##.add p img
-motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.add-2
+motivatenews.com.np,pokharapatra.com.np,sancharkendra.com##.add-2
 talashbangla.com##.add-area
 newsatfirst.com,samadhannews.com##.add-banner
 voiceofnewjersey.com##.add-bar
@@ -1044,7 +1044,7 @@ bslnews24.com##.add_pad_bot_single
 bslnews24.com##.add_pad_bottom
 news18.com##.add_secton
 pokharapatra.com.np##.adda
-donnews.com,sancharkendra.com##.addb
+donnews.com,ratopost.com,sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 khabarpunja.com##.addbelow
 tirangaacindianews.com##.addbx
@@ -2943,8 +2943,6 @@ jpworldnews.com##.wp-image-1366
 abtnews.in##.wp-image-15989
 banglanewsdunia.com##.wp-image-17000
 newssunamganj.com##.wp-image-19215
-ratopost.com##.wp-image-19317
-ratopost.com##.wp-image-19553
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
 banglanewsdunia.com##.wp-image-21155
@@ -2998,7 +2996,6 @@ paribahanjagot.com##.wp-image-825
 news4himachal.com##.wp-image-8371
 hotnewsindia.com##.wp-image-87280
 hotnewsindia.com##.wp-image-87281
-ratopost.com##.wp-image-9728
 nammabantwala.com##.wp-video
 arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,sajagindia.com,therisingcampus.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
