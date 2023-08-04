@@ -2881,6 +2881,7 @@ dainik4media.com##.widget_nivo_slider_widget
 wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 diyopost.com##.widget_palika_advertisement
+sambad.in##.widget_pkgrdlaobc
 freelancerstory.com##.widget_right .textwidget
 khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
