@@ -1847,6 +1847,7 @@ pratyeknews.com##.imgad1
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
+moolbato.com##.in__between_ads
 lokmat.com,lokmatnews.in##.inarticleAd
 amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
@@ -2890,7 +2891,6 @@ khosbasbarta.com##.widget_section .add
 sunamganjerkhobor.com##.widget_simpleimage
 awaznews24x7.com,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
-moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
