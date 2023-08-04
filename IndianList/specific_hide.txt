@@ -2466,6 +2466,7 @@ youthmukam.com##.su-image-carousel
 nellaionline.net##.sub_new:not(.sss)
 chhaharinetwork.com##.subhakamana-ad
 suddidina.com##.suddi-after-content_13
+suddidina.com##.suddi-content_10
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 notebook.today##.t-out-span
