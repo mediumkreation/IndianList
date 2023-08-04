@@ -3279,8 +3279,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ratdinnews.net^*/add-
 ||ratopanda.com^$third-party,domain=hamrakura.com
 ||ratopanda.com^render?$third-party
-||ratopost.com/wp-content/uploads/2020/05/Birtamod$image
-||ratopost.com/wp-content/uploads/2020/06/gauriganj$image
 ||realbulletin.in/mynewsadmin/img/add/add1548668647.jpeg
 ||realbulletin.in/mynewsadmin/img/add/add1561545198.jpeg
 ||realbulletin.in/mynewsadmin/img/add/add1565001491.jpeg
