@@ -2465,6 +2465,8 @@ timenewsbd.net##.stretched_link
 youthmukam.com##.su-image-carousel
 nellaionline.net##.sub_new:not(.sss)
 chhaharinetwork.com##.subhakamana-ad
+suddidina.com##.suddi-after-content_13
+suddidina.com##.suddi-content_10
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 notebook.today##.t-out-span
@@ -2772,6 +2774,7 @@ eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com##.webAds
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,starsamachar.com,tahalaka.in##.well
+suddidina.com##.whistleAds
 newskoseli.com##.wid-1
 emungaru.com##.widget img[src^="data:"]
 scgnews.in##.widget-ad-image
