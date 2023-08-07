@@ -1447,6 +1447,8 @@ perfection-ias-upsc$domain=nextbihar.com
 ||fastnewsnetwork.in/wp-content/uploads/2022/03/Adani_DPCL_Ad_new.jpg
 ||fbcdn.net^$third-party,domain=malayalammedia.one
 ||fbs.com$third-party,domain=tamilleader.com
+||fdcdn.prixacdn.net/media/Ireland_adv_update.gif
+||fdcdn.prixacdn.net/media/unicampus.gif
 ||feninews.com/images/ads0000007.gif
 ||feninews.com/images/feni.jpg
 ||feninews.com/images/feniUniversity.jpg
