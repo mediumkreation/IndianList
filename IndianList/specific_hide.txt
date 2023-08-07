@@ -920,12 +920,12 @@ cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 news18.com,saralpatrika.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
-khabardabali.com##.ad-half-middle
 nayabikalpa.com,newsroomme.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
+khabardabali.com##.ad-row-container
 nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
@@ -1130,7 +1130,6 @@ gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,orthosongbad.com,sonalinews.com##.adv-img
 ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
-khabardabali.com##.adv-margin-bottom
 anweshanam.com,cityandolan.com,devpath.in##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
@@ -1172,7 +1171,6 @@ kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 navrashtramedia.com##.advertisement-area
 bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
-khabardabali.com##.advertisement-primary
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
@@ -1687,7 +1685,6 @@ puthiyathalaimurai.com##.full-ad-close
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 rastriyakhabar.com##.full-ads-wrapper
-khabardabali.com##.full-adv-row
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 baahrakhari.com,khelpati.com,sajhapost.com##.full-bigyapan
@@ -1891,7 +1888,6 @@ kageshworikhabar.com##.kages-widget
 kanakaionline.com##.kanak-content
 prabartan.com##.kc_single_image
 karobardaily.com##.kd-ad-horizontal
-khabardabali.com##.kdb-topAdd
 filmcityworld.com##.kenm
 khabhar24live.co.in##.khaba-single-blog-manual
 khabarpahad.com##.khaba-widget
@@ -1934,7 +1930,6 @@ hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
 aayokhabar.com,arthakoartha.com,dharananews.com##.long-ad
 ebrightnepal.com,sudurpatra.com##.long-ads
-khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
 bholabani.com##.longad
@@ -3090,7 +3085,6 @@ uttranews.com##a[href*="/a11/"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
 lankasri.com##a[href*="/adpage"]
 sajhamanch.com##a[href*="/ads/"]
-khabardabali.com##a[href*="/advertisement/"]
 uttranews.com##a[href*="/hayat/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
 attachowk.com##a[href*="?advert="]
