@@ -752,7 +752,7 @@ udaydarpan.com###text-51
 anaicoddai.com,oneindia24live.com,recentnepal.com###text-52
 aapkisafalta.com###text-54
 oneindia24live.com###text-55
-anaicoddai.com,himalayapost.com###text-57
+anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
 avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,brajpatrika.com,clearnews.live,dailypunjabtimes.com,hbharat.com,jagprerna.com,janadhikarmedia.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nnews24.com,orthosongbad.com,shreekanchanpath.com,siwanbazar.com###text-6
@@ -1619,6 +1619,7 @@ livehindustan.com##.epr-ads
 arthasarokar.com##.esn_twin_ad_widget
 azchavattomonline.com##.et_pb_ads_0
 youth18.com##.et_pb_code:not(.et_pb_code_1_tb_body)
+himalayapost.com##.et_pb_image
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
 hpnewsatl.com##.et_pb_slider
@@ -2898,6 +2899,7 @@ dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 jenerakhun.com##.widget_text .td-all-devices
+himalayapost.com##.widget_text a[target="_new"] img
 thejoharnews.com##.widget_text iframe[title]
 cgmitan.com,dharitri.com,prothomshomoy.com,swaviman.com##.widget_text img
 anubhaviaankhennews.com##.widget_text p
@@ -3606,7 +3608,6 @@ boishakhionline.com##h5[style*="PEARL-ads.jpg)"]
 haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
 khabor.com##header a[href*="/click-"]
 ukhiyanews.com##header ~ .bg
-himalayapost.com#?#.post-wrap:-abp-has(> .otw-sidebar-vertical)
 lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
