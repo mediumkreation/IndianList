@@ -3313,6 +3313,7 @@ dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contain
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 dhamaka36.com#?#h2:-abp-contains(Advertisement)
 dhinasari.com#?#.tdm-descr:-abp-contains(Advertisement)
+nepaltara.com##div a[target="_blank"] img
 abnews24bd.com##div img[src^="ad/"]
 sansarnews.com##div.a
 khaskhabar.com##div.mrgR5[style*="height:250px;"]
