@@ -991,7 +991,7 @@ dailygazipuronline.com##.add-high
 ekhansangbad.com,sambadsaradin.com##.add-image
 dainikagnipath.com##.add-img
 dainiknarsingdi.com,diptonews24.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com,teknaf71.com##.add-imgae
-colorsnewslive.com,janaboli.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
+colorsnewslive.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
 vachakam.com##.add-item
 khabarwaale.com##.add-jj
 vishvasnews.com##.add-large-box
@@ -3351,7 +3351,7 @@ nrimalayalee.com##div[class*="_right_ad"]
 kamadenu.hindutamil.in,kumudam.com##div[class*="ad-slot-"]
 probashirdiganta.com##div[class*="adbox"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
-justnewsbd.com##div[class*="advertisement"]
+janaboli.com,justnewsbd.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
