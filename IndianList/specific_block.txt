@@ -4264,7 +4264,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/banner-top.jpg
-||wp.com/www.hamroeconomy.com/*/add-mangaldip
 ||wp.com^$image,domain=torontotamil.com
 ||wp.com^$third-party,domain=crimeexpressbd.com|radionrn.com
 ||wp.com^*/10/unique-dental-e1570777415632.jpg$domain=uttaranews24.com

@@ -783,7 +783,6 @@ janatarnews24.com###tie-block_1354
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
-hamroeconomy.com###top section.widget img
 lastnewsbd.com###top-banner
 thenrinews.com###top-slider2
 gossiplankanews.com###top1
@@ -3766,7 +3765,7 @@ news24bd.net##section.text-center
 aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarhub.com,khabarkura.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 suryakhabar.com##section.widget > figure
-clickmandu.com,himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,sutranews.com,thecinematimes.com,yohokhabar.com##section.widget img
+clickmandu.com,hamroeconomy.com,himalpost.com,janatatimes.com,livemandu.com,nagarikkhabar.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,sutranews.com,thecinematimes.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
