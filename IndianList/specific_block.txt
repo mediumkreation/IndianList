@@ -98,7 +98,7 @@
 /Banner-$domain=indias18.com
 /banner-$domain=navakal.in
 /banner-$image,domain=bikashnews.com
-/banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|tamil.com|thereport24.com
+/banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|setopati.com|swasthyakhabar.com
 /bigyaapan^$domain=aayomail.com|baahrakhari.com|kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
@@ -2565,8 +2565,8 @@ perfection-ias-upsc$domain=nextbihar.com
 ||nayapage.com^*/Prime-bank.jpg
 ||nayapage.com^*/Ruslan-Nayapage-1030-x-100.gif
 ||nayasadak.com/users_upload/
-||nbs24.org^*/mc-3.gif
-||nbs24.org^*/waltonadd.jpg
+||nbs24.org/nbs-
+||nbs24.org/walton
 ||nchs.edu.lk^$third-party,domain=ada.lk
 ||neervely.ca/images/bala.jpg
 ||nepal-assets-cdn.ekantipur.com/uploads/source/ads/
