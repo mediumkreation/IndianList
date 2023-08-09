@@ -3568,6 +3568,7 @@ telugu.goodreturns.in##div[style^="height:250px"]
 telugu.boldsky.com##div[style^="min-height:250px;"]
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
+bdtimes365.com##div[style^="width:320px; height: 260px!important; float: right;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 doonhorizon.in#?#div:-abp-has(> ins.adsbygoogle)
 editiontoday.in#?#.sppb-column-addons > div:-abp-has(.carouselbanner)
