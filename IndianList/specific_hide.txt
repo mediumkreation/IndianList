@@ -3254,7 +3254,7 @@ bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 dineshkhabar.com##aside.ads-info-block
 magnificentbihar.com##aside.ai_widget
-chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
+chitrodesh.com,navakeralanews.com##aside.sidebar .widget_media_image
 ghaziabadparikrama.com##aside.sidebar-narrow
 firstbihar.com##aside.tb-posts-slide-widget
 cnewsbharat.com##aside.text-center
