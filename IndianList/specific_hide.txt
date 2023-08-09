@@ -2488,7 +2488,7 @@ ctgnews.com,dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content
 ehapurnews.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
 newsxtra.in##.td-a-rec-id-footer_top
-amaderkhulna.net,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,news1today.in,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,uknews.co.in##.td-a-rec-id-header
+amaderkhulna.net,awajmedia.com,banglaxp.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,keralabreaking.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,news1today.in,politicsnews24.com,poribortonersopoth.com,prajasatta.in,sanmarga.com,sridungargarhtimes.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,uknews.co.in##.td-a-rec-id-header
 aadyashanewsman.in,amaderkhulna.net,amadersangbadbd.com,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,rashtriyapatrika.com,timetv.news,uktez.com##.td-a-rec-id-sidebar
 indianewsharyana.com,khabromehamarashahar.com,newsoneindia.com,thekanpur.com##.td-a-rec-img
 navdeshtimes.com##.td-a-rec:not(.td-a-rec-id-content_top)
@@ -2578,6 +2578,7 @@ tejastoday.com##.tdb_single_content h1 a img
 newsbritant.com,ujjwalhimachal.com##.tdb_single_content img
 newsgil.in,tejastoday.com##.tdb_single_content p img
 khaboronline.com##.tdc-element-style
+politicsnews24.com##.tdc-row-content-vert-center
 guruvayooronline.com##.tdi_118
 devbhoomimedia.com##.tdi_25
 suprobhat.com##.tdi_33 .td_block_single_image
@@ -2737,7 +2738,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
-dailyceylon.lk,malayalimanasu.com,ournews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
+dailyceylon.lk,malayalimanasu.com,ournews24.com,politicsnews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
 ctgnews.com##.vc_raw_html a[target="_blank"]
 postmanindia.in##.vc_raw_html iframe
 coastal-mirror.com##.vc_raw_html img
