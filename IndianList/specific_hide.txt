@@ -2294,6 +2294,7 @@ crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
 ntinews.com##.sidebar iframe
 dhangadhikhabar.com,gpnnews.com##.sidebar-add
+unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
 bdbarrta24.com,orthosongbad.com##.sidebar-adv img
 bizmandu.com##.sidebar-advs
