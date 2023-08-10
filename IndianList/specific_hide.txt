@@ -1147,7 +1147,6 @@ yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
 ada.lk,divyahimachal.com,manithan.com,samvaad365.com,tamilan24.com##.advert
 ada.lk##.advert-single
-nepalsamaya.com##.advert-width
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
@@ -1687,6 +1686,7 @@ uukmanews.com##.full-ad-wrp
 rastriyakhabar.com##.full-ads-wrapper
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
+nepalsamaya.com##.full-bigyaapan
 baahrakhari.com,khelpati.com,sajhapost.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
