@@ -1942,6 +1942,7 @@ newsfirst.lk##.main-ad-half
 ezhomelive.com##.main-ads-pikihome
 hkgnews247.com##.main-and-sidebar .Image
 policevarthe.com##.main-bg .carousel
+setopati.com##.main-bigyaapan
 khabarmukam.com##.main-bigyapan
 aaryaanews.com,hindsat.in,hkgnews247.com,punjabiakhbaar.ca,satyagrahnews.in,tararalo.net##.main-content .stream-item
 deshprotikhon.com##.main-content a[target="_blank"] img
