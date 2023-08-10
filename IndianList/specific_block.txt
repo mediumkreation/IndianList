@@ -1221,6 +1221,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||dhadingupdate.com/wp-content/uploads/2022/12/1200x100.gif
 ||dhakametronews.com/storage/media/image/NheM19102709.png
 ||dhakametronews.com/storage/media/image/w8i718080618.png
+||dhakanews24.com/advertisementimages/
 ||dhakanewsexpress.com/wp-content/uploads/2022/02/FIFA-20-11-2022.jpg
 ||dhakanewsexpress.com/wp-content/uploads/2022/02/received_480123487520444.jpeg
 ||dhakanewsexpress.com/wp-content/uploads/2022/02/received_646861940559585.jpeg
@@ -4243,7 +4244,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||wp.com^*/cjmc-new-add-$domain=pariwartankhabar.com
 ||wp.com^*/eastern-$image,domain=indiavisionmedia.com
 ||wp.com^*/hot-news-update.gif$domain=sabguru.com
-||wp.com^*/icb.gif$domain=dhakanews24.com
 ||wp.com^*/IMG-20181101-WA0043.jpg$domain=uttranews.com
 ||wp.com^*/krisok-theke-vokta-e1570777467656.gif$domain=uttaranews24.com
 ||wp.com^*/kumaun-jwellers.jpg$domain=uttranews.com
