@@ -83,7 +83,7 @@
 /advertiesment/*$domain=theendnews.com
 /advertisement/*$domain=360malayalam.com
 /Advertisement/*$domain=aloavanews24.com
-/advertisement/*$domain=amader-protidin.com|bangbandhupatrika.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
+/advertisement/*$domain=amader-protidin.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=bizshala.com|dailyinqilab.com|keralasabdam.in|nanaonline.in|newsabhiyan.com|srijannews.com|swatantraawaz.com|tatkalnews.com
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
