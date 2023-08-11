@@ -1172,7 +1172,7 @@ bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
-chhattisgarh.co,primepunjab.com##.advertisement_above_footer
+chhattisgarh.co,primepunjab.com,skyhawktimes.com##.advertisement_above_footer
 jananesan.com##.advertisement_bar
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
@@ -2900,7 +2900,7 @@ ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com
 jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
 thejoharnews.com##.widget_text iframe[title]
-barishaltimes.com,cgmitan.com,dharitri.com,prothomshomoy.com,swaviman.com##.widget_text img
+barishaltimes.com,cgmitan.com,dharitri.com,prothomshomoy.com,skyhawktimes.com,swaviman.com##.widget_text img
 anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
 jaihindtimes.in##.widget_text:not(#custom_html-7)
