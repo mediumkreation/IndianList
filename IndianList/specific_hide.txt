@@ -1522,6 +1522,7 @@ lanka4.com##.eds-link
 manoramaonline.com##.el-banner-main-logo
 channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 aajkijandhara.com##.elementor-col-33 .elementor-section
+hamdardmediagroup.com##.elementor-col-50 .elementor-widget-image .attachment-large
 nikharanews.in##.elementor-element .size-large
 namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
@@ -2943,6 +2944,7 @@ bonggonews.com##.wp-image-13566
 jpworldnews.com##.wp-image-1366
 abtnews.in##.wp-image-15989
 banglanewsdunia.com##.wp-image-17000
+hamdardmediagroup.com##.wp-image-173195
 newssunamganj.com##.wp-image-19215
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
