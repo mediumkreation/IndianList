@@ -2616,6 +2616,7 @@ bholarbani.com##.thedailytext-advertise
 shivamoggalive.com##.theiaPostSlider_slides p>img
 nakkheeran.in##.theiaStickySidebar .block-block-content
 bheldailynews.com##.theiaStickySidebar .e3lan
+marathwadaneta.com##.theiaStickySidebar .elementor-inner-section
 dinamina.lk##.theiaStickySidebar .elementor-widget-image img:not([src*="admit.jpg"])
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
 bebakmanch.com##.theiaStickySidebar .owl-carousel
