@@ -3706,6 +3706,7 @@ malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div 
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > ins)
 manvadhikarabhivyakti.com#?#.td-main-content-wrap .td-a-rec:-abp-has(> div > div > h4.block-title)
 cnin.co.in,dainikjaltedeep.com##marquee
+akhandbharatsamachar.com##marquee img
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
