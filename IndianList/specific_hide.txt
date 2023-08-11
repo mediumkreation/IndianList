@@ -483,8 +483,6 @@ balliakhabar.com,lankac.news###mvp-leader-wrap
 channelindia.news###mvp-side-wrap .widget_media_image
 unikannada.com###mvp-site-wall
 samwadbundelkhand.com###myCarouse2
-just36news.com###myCarouse3
-just36news.com###myCarouse4
 himachalabhiabhi.com,ujyaaloonline.com,upkikhabar.com###myCarousel
 rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
@@ -605,7 +603,6 @@ nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
 blivenews.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,toptamilnews.com###showAS_O_BEL_0
-just36news.com###showimage
 arthikawaj.com,hariyarexpress.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
 laxminews24x7.com###sidebar .e3lan
@@ -1326,7 +1323,7 @@ dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
 jvpnews.com##.blurb img
 aajbangla.in,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,jagrantimesnews.com,kirandoot.com,lokjannews.com,nattuvartha.news,sangritimes.com,sirajganjexpress.com##.bn-lg
-aajbangla.in,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
+aajbangla.in,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,just36news.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
 nirpakhawaaz.in,timetovisit.in##.bookingaff
@@ -1362,7 +1359,7 @@ dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 munaadi.com##.card-body > center > img
-aloavanews24.com,cgwebnews.in,indiasamachar24.com,just36news.com,malayalamtodayonline.com##.carousel
+aloavanews24.com,cgwebnews.in,indiasamachar24.com,malayalamtodayonline.com##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
@@ -2762,7 +2759,6 @@ jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
 khaptadonline.com##.view-ads-view
-just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
 muznews.net##.vmagazine-lite-medium-rectangle-ad
