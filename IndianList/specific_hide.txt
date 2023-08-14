@@ -497,7 +497,7 @@ aadarshasanchar.com###news-side-ad
 indianewscentre.in,punjabenews.com###newsSection img
 sokalerbangla.com###news_portal_ads_banner-20
 sokalerbangla.com###news_portal_ads_banner-22
-dailykhowai.com###news_portal_ads_banner-3
+dailykhowai.com,onlinejalandhar.com###news_portal_ads_banner-3
 livestorytime.com###news_portal_ads_banner-5
 citiupdate.com###newscard_horizontal_vertical_posts-3 .col-md-4:not(.first-col)
 citiupdate.com###newscard_horizontal_vertical_posts-8
@@ -2089,7 +2089,8 @@ malayalamexpress.in##.no-bg-box-model img
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
-nepalimato.com#@#.np-ads-wrapper
+nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
+onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
