@@ -2139,6 +2139,7 @@ prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 eimuhurte.com##.popUPBox
 jamalpurlive.com##.popbox
+bharatiyadigitalnews.in##.popup
 bonikbarta.net##.popupCloseButton
 apnamzn.com##.portlet-journal-content
 thenewsqube.com##.pos
@@ -3227,6 +3228,7 @@ sylheterjanapad.tv##a[target="_blank"] > img
 aarthiknews.com,abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 hollywoodkhabar.com##a[target="_blank"] img:not([src*="Screenshot_2022-11-22_at_10_43_32_PM.png"])
 bankingkhabar.com##a[target="_blank"] img:not([src*="icons"])
+bharatiyadigitalnews.in##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 newsajako.com##a[target="_blank"] img[src*=".gif"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
@@ -3284,6 +3286,8 @@ azhimukham.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a:not([href*="
 bdcrime24.com#?#.textwidget:-abp-has(.adsbygoogle)
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(MIsource))
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(Prasadam))
+bharatiyadigitalnews.in#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
+bharatiyadigitalnews.in#?#center:-abp-contains(Advertisement)
 bhaskar.com#?#div:-abp-has(> div[id^="Ad--"])
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
