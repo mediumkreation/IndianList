@@ -2091,8 +2091,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
 livehindustan.com##.ntwrk-wdgt
@@ -3377,7 +3377,7 @@ nammabantwala.com##div[class*="td_uid_163_"]
 manvadhikarabhivyakti.in##div[class*="tdi_140"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com##div[class*="vigyapan"] > :not(.custom-html-widget)
-aggarjanpatrika.com,himalayanupdate.com,jagmarg.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
+aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,jagmarg.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
