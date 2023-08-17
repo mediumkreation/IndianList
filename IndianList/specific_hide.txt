@@ -476,7 +476,6 @@ npg.news###metaslider_widget-6
 kathir.news###mid_level_3_after
 filmistreet.com###modalBody
 tharunaya.us###module_03_ads300x250
-gnewsindia.com###moneywiz_widget
 aapkiummid.com###ms-admananger a:not([imageanchor]) img:not([src*="qr-code"])
 uttrakhandtoday.com###mvp-ad-rel-wrap
 uttrakhandtoday.com###mvp-head-top
@@ -2091,8 +2090,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
 livehindustan.com##.ntwrk-wdgt
@@ -2381,7 +2380,7 @@ dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
-bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,jalauntimes.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
+bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,jalauntimes.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
 bharathalchal.com,bhilwarahalchal.com,houseplan.lk,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
@@ -2450,7 +2449,7 @@ magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,khabarhikhabar.com,mitanbhoomi.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
 magahinews.com##.stream-item-in-post
 bankalive.net,lovedevbhoomi.com,narsingdirbani.com##.stream-item-inline-post
-capitalvoice.in,eastcoastdaily.com,gnewsindia.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,mbkhabar.com,natunbarta.com,nepaltvonline.com,thetimesofchhattisgarh.com##.stream-item-mag
+capitalvoice.in,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,mbkhabar.com,natunbarta.com,nepaltvonline.com,thetimesofchhattisgarh.com##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,rajdhanitimescg.in,tamilveedhi.com##.stream-item-top
 airanewsnetwork.com,bengallive.in,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,satyagrahnews.in,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
 aamaadmi.in,aapkimedia.com,allindianews.me,apnahimachalapnishaan.in,asha.news,bastarflame.in,bundelkhandsamachar.com,cgujala.in,chandinarsomoy.com,charotarnoavaj.com,crimejasoos.in,damaulikhabar.com,ehapuruday.com,globalecampus.com,hamarahimachal.com,highwaychannel.in,hinditechy.com,hindsat.in,indiaprimenews.in,jantaconnect.com,keralabhooshanam.com,livequicknews.in,livereadernews.com,massnews.online,mbkhabar.com,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newslive24x7.com,newssow.com,panchagarhonline.com,pokharanews.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,rewariupdate.com,rig24.in,satyavoice.com,shekhawatilive.com,sonprabhat.live,telegramnews24.com,thehindkeshari.in,thepublicnews.live,thetadkanews.com,thetimesofchhattisgarh.com,vaanishreenews.com,vinayavani.com,voiceofmedia.lk,webmorcha.com,wegwannews.com##.stream-item-widget
@@ -2634,6 +2633,7 @@ parvatjan.com##.theiaStickySidebar .widget_media_video
 kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,indootimes.com.au,opennewsx24.com,pnn24.in,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+gnewsindia.com##.theiaStickySidebar .widget_text:not(#text-22)
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 khabrainabhitak.org##.theiaStickySidebar .wpb_content_element
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
