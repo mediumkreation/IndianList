@@ -2487,7 +2487,7 @@ vasundharadeep.news##.td-a-rec img:not([src*="Whatsapp-Strip-scaled-"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 boleindia.in##.td-a-rec img[alt="Google search engine"]
 dhunga.in,rantraibaar.in##.td-a-rec video
-eaibanglai.com,impact24news.com,shadhinalo.com##.td-a-rec-id-content_bottom
+impact24news.com,shadhinalo.com##.td-a-rec-id-content_bottom
 janjankiawaaz.in##.td-a-rec-id-content_bottom .ml-slider:nth-child(n+6)
 ctgnews.com,dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
 ehapurnews.com,sridungargarhtimes.com,thegandhigiri.com##.td-a-rec-id-content_top
