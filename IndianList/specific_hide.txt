@@ -2092,8 +2092,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
 livehindustan.com##.ntwrk-wdgt
@@ -3433,7 +3433,6 @@ samakal.com##div[class^="textBodyAd"]
 thejoharnews.com##div[class^="thejo-"]
 biratkhabar.com##div[class^="top-sidebar-adv"]
 eurobanglanews24.com##div[class^="topad"]
-uttarakhandcitynews.com##div[class^="uttar-"]
 uttranews.com##div[class^="uttra-content_"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
 ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,gandaknews.com,journalistcafe.com,justaction.in,kilinochchinet.com,konarklive.com,koshalnews.in,makalukhabar.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,onlinemalayali.in,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,raajdhaninews.com,safalnews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
@@ -3550,6 +3549,7 @@ todaypostlive.com##div[id^="today-"]
 vachakam.com##div[id^="topmiddle"]
 tvannapurna.com##div[id^="tvann-"]
 udupixpress.com##div[id^="udupi-"]
+uttarakhandcitynews.com##div[id^="uttar-"]
 chopaltv.com##div[id^="v-chopaltv"]
 vijayavani.net##div[id^="vijay-"]
 visiontimes.news##div[id^="vision-"]
