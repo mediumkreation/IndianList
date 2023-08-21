@@ -1087,6 +1087,7 @@ mohanagarnews.com##.ads img
 nepalmanch.com##.ads img:not(.wp-image-72119)
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 newscircle.in##.ads-2018
+natunsylhet24.com##.ads-bar
 iamgujarat.com,samayam.com##.ads-between-story
 bangladesherkhabor.net##.ads-center-mt
 thenepaltoday.com##.ads-container
@@ -1486,6 +1487,7 @@ baahrakhari.com##.detail-bigyapan
 ekusheysangbad.com##.details-big-banner
 citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
 citynewsdhaka.com##.details-page-side-banner-2
+natunsylhet24.com##.details-sidebar > .row.justify-content-center
 ejanshakti.com##.dgw
 surabhisaloni.co.in##.dialog-widget
 biniyogbarta.com##.divAdvertisement
@@ -3723,6 +3725,7 @@ momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 munaadi.com#?#.card:-abp-has(> h5:-abp-contains(Advertisment))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
 nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(Advertisment))
+natunsylhet24.com#?#div:-abp-has(> ins.adsbygoogle)
 punjabiherald.co.nz##nav + div
 naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
 nayanjagriti.com#?#div:-abp-has(> ins.adsbygoogle)
