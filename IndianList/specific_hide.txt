@@ -2095,8 +2095,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 up18news.com##.np-home-bottom-section .news_portal_ads_banner
 livehindustan.com##.ntwrk-wdgt
@@ -3414,7 +3414,6 @@ indianewsviral.co.in##div[class^="india-content_"]
 jagatbhumi.com##div[class^="jagat-content_"]
 hindi.scoopwhoop.com##div[class^="jsx-"]
 kokanmedia.in##div[class^="kokan-"]
-lagatar.in##div[class^="lagat-"]
 prothomalo.com##div[class^="multipurposeComponent-m__base"]
 navinsamachar.com##div[class^="navin-content"] img:not([src*="PicsArt_05-19-01.16.30.png"])
 patnapost.com##div[class^="newsf-"]
@@ -3513,6 +3512,7 @@ aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.
 khabarbihar.in,khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
 koyilandydiary.com##div[id^="koyil-"]
+lagatar.in##div[id^="lagat-"]
 livetrends.news##div[id^="livet-"]
 lokalok.in##div[id^="lokal-"]
 madathakaja.com##div[id^="madat-"]
