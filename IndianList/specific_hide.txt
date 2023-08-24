@@ -977,7 +977,7 @@ dailydishari.com##.add img:not([src*="Dainik-Dishari-"])
 kopotakkhotimes.com##.add p img
 motivatenews.com.np,pokharapatra.com.np,sancharkendra.com##.add-2
 talashbangla.com##.add-area
-newsatfirst.com,samadhannews.com##.add-banner
+newsatfirst.com##.add-banner
 voiceofnewjersey.com##.add-bar
 khobor24ghonta.com##.add-bg-02
 aajkasach.in##.add-block
@@ -1416,7 +1416,7 @@ usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 capitalnepal.com##.comon-ads
 sharebazarnews.com##.company-ads
-samayapost.com##.cont_break_ads
+samadhannews.com,samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
 news24delhi.com##.container .container #page-sidebar
 upbhoktajanghosh.com##.container > .features-today-box:only-child
