@@ -171,10 +171,10 @@ ojasvitimes.in,telugumalli.com###block-17
 tamizhdb.com,viewpointjharkhand.com###block-19
 bansalnews.com,bulandsoch.com,ekhabar.in,hamdardtv.com,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 tamizhdb.com###block-21
-sansanisurag.com###block-22
+newslab24.in,sansanisurag.com###block-22
 peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
-govindia.in,hnn24x7.com,tamizhdb.com###block-24
+govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com###block-24
 govindia.in###block-25
 govindia.in,khabardarinews.com,organizeindia.in###block-26
 khabarcgnews.com###block-27
@@ -2095,8 +2095,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
