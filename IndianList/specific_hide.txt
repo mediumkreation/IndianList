@@ -585,7 +585,7 @@ dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 jogiexpress.com###secondary .widget_media_video
 nagarikbahas.com###secondary .widget_sp_image
-24city.news,bangla52news.com,cpnews24.com,dastavej.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
+24city.news,aapkakhabri.co.in,bangla52news.com,cpnews24.com,dastavej.in,livebavaal.com,phaddalo.com,ptbnews.in,sanjeevanisamachar.com,seithisolai.com,vatankiawaz.in###secondary .widget_text
 keralaviews.com###secondary .widget_text img
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
