@@ -1577,7 +1577,7 @@ uksuddi.in##.entry-content .bsac
 beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,rcbrn.com,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
-punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
+boguralive.com,punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 prabhatvaibhav.com##.entry-content > div > img
@@ -2443,7 +2443,7 @@ mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
 gnewsindia.com,magahinews.com,nepaltvonline.com,prabhatvaibhav.com##.stream-item-above-header
 gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,lovedevbhoomi.com,mitanbhoomi.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
 rajdhanitimescg.in##.stream-item-after-post-title
-abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
+abhitaknewsuk.in,boguralive.com,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,khabarhikhabar.com,mitanbhoomi.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
