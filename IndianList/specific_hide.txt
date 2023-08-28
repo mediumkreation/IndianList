@@ -2084,6 +2084,7 @@ jharkhandvani.in##.newsever-widget .textwidget
 satyagrahanews.in##.newsmatic-advertisement-block
 bishwanathbd24.com##.newspaper-advertisement
 onlinekhabar.com##.nh_list
+weeklydesh.co.uk##.nhsgallery
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
 nnews24.com##.nnews-content
@@ -2093,8 +2094,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
