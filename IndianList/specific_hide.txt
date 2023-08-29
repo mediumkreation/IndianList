@@ -956,7 +956,7 @@ enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
 outlookhindi.com##.ad_unit_728x90
 corporatenepal.com,merofilm.com##.adalytics_ad
-farakdhar.com,purbelinews.com##.adalyticsblock
+farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
 bharatdarshannews.com##.adbo
 anandabazar.com,beanibazarnews24.com,lohagaranews24.com,radiokanchan.com.np,thebharatnews.net##.adbox
 onlinedabali.com##.adbx img
@@ -1122,7 +1122,7 @@ dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
-andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
+andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,sonalinews.com##.adv-img
 ratopati.com##.adv-item
