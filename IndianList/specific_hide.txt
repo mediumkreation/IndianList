@@ -1490,6 +1490,7 @@ citynewsdhaka.com##.details-page-side-banner-2
 sunamganjerkhobor.com##.details-sidebar .mb-3
 natunsylhet24.com##.details-sidebar > .row.justify-content-center
 ejanshakti.com##.dgw
+dhadingupdate.com##.dhadi-content_2
 biniyogbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
 prajavani.net##.dk_only
@@ -2095,8 +2096,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
