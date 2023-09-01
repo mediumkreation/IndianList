@@ -2090,6 +2090,7 @@ onlinekhabar.com##.nh_list
 weeklydesh.co.uk##.nhsgallery
 punjabvarta.com##.nivoSlider
 nepalkhabar.com##.nk-sidebar-ads
+newskannada.com##.nktv_adv
 nnews24.com##.nnews-content
 ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,sudurpashimkhabar.com,tvannapurna.com,wayanadnewsdaily.com##.no-bg-box-model
 malayalamexpress.in##.no-bg-box-model img
