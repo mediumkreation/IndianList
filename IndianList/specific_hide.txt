@@ -2935,6 +2935,7 @@ abtnews.in##.wp-block-jetpack-slideshow
 purvanchalnews.com##.wp-block-nextend-smartslider3
 kafaltree.com##.wp-block-video
 dgnews.co.in,pplnews.in##.wp-custom-header
+udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
 newssunamganj.com##.wp-image-11042
