@@ -1206,6 +1206,7 @@ pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
 bangalorewaves.com##.almanacheader
 babuaa.com##.aloks
+themangaloremirror.in##.alp-advert
 ibc24.in##.alt-balaji
 jagonarayanganj24.com##.amws-custom-widget-show-ad
 eisamay.com##.amz-with-ads
@@ -2096,8 +2097,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2647,7 +2648,6 @@ sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 lokbharat.in##.theiaStickySidebar aside.widget_text
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 firstbihar.com##.theiaStickySidebar iframe
-themangaloremirror.in##.thema-aien
 somoyerkontha.com##.themesBazar_widget > .textwidget
 thestellarnews.com##.thest-widget
 entevarthakal.com##.third_section_ads
