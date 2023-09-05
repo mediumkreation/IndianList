@@ -2099,8 +2099,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3354,6 +3354,7 @@ news18.com##div[class*="Header_inner_ad"]
 prothomalo.com##div[class*="__ad-slot"]
 bangla.bdnews24.com##div[class*="_ad-slot__"]
 prothomalo.com##div[class*="_ad__"]
+sarkariniyog.com##div[class*="_ads"]
 prothomalo.com##div[class*="_ads__"]
 newskannada.com##div[class*="_adv_"]
 bizshala.com##div[class*="_bigyapan"]
