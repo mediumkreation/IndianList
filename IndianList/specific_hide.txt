@@ -3643,6 +3643,7 @@ dbcnews.tv##iframe[style*="height: 90px"]
 timenewsbd.net##img + aside.sidebar
 deshsanchar.com##img.alignnone.size-full
 madhyabindu.com,onstimes.com##img.attachment-full
+fenireport.com##img.img-fluid[src*="/backend/logo/"]
 pksnews24.com##img[alt*=" Ad-"]
 kantipath.com##img[alt*="add"]
 khabreaajtaklive.com##img[alt*="ads"]
