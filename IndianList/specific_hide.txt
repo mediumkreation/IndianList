@@ -2023,6 +2023,7 @@ prajavani.net##.mob_only
 news13.in##.mobadv-4
 bhilwarahalchal.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
+theleader.lk##.module-ct .custom
 mohagani.com##.mohag-widget
 everesttimes.net,pclive7.com,uthayannews.ca##.mom-e3lanat
 24newspress.com,48bangla.tv,bn24live.in,ibclive.in,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
