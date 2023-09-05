@@ -1523,7 +1523,6 @@ uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
 lanka4.com##.eds-link
 manoramaonline.com##.el-banner-main-logo
-channelrb.com##.elementor-col-25 div.elementor-widget-wp-widget-master-slider-main-widget
 aajkijandhara.com##.elementor-col-33 .elementor-section
 hamdardmediagroup.com##.elementor-col-50 .elementor-widget-image .attachment-large
 nikharanews.in##.elementor-element .size-large
@@ -1569,6 +1568,7 @@ goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 shivshahilive.com##.elementor-widget-video
 varthamanam.com##.elementor-widget-vinazine-ads
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
+channelrb.com##.elementor-widget-wp-widget-master-slider-main-widget
 computerbichitra.com##.elementor-widget-wp-widget-news247_ads_banner_widget
 simanapari.com##.elementor[data-elementor-type="wp-page"] .elementor-widget-image
 kannurmetroonline.com##.embed-responsive-4by3
@@ -2098,8 +2098,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
