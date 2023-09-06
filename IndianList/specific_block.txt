@@ -82,7 +82,7 @@
 /adver$domain=uppatrika.com
 /advert/*$domain=mzamin.com
 /advertiesment/*$domain=theendnews.com
-/advertisement/*$domain=360malayalam.com
+/advertisement/*$domain=360malayalam.com|agaminews.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
@@ -321,6 +321,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||adhorekhit.com/wp-content/uploads/2021/09/ad-news.jpg
 ||adhunikdaur.com/webdata/ranbhumiexpress.com/media/
 ||adnlive24.com/webdata/adnlive24.com/media/1547646966adn_live_add.JPG
+||agaminews.com/media/common/dr-neem
 ||agnisamachar.com/wp-content/uploads/2022/07/Aarati-simant.jpg
 ||agnisamachar.com/wp-content/uploads/2022/07/bhatvateni-scaled-1.jpg
 ||agnisamachar.com/wp-content/uploads/2022/07/masta.jpg
