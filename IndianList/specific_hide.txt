@@ -431,7 +431,7 @@ khabarpahad.com,nationaltodaylive.com,peptechtime.com,sabkasandesh.com###media_i
 sabkasandesh.com###media_image-43
 sabkasandesh.com###media_image-47
 sabkasandesh.com###media_image-48
-badauntoday.com,banglasanglap.co.uk,dailysomoyersomikoron.com,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
+badauntoday.com,dailysomoyersomikoron.com,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 googlepokhara.com,madhyabhoomikeboal.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
@@ -579,7 +579,7 @@ bbn24news.com,brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiap
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com,up18news.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
-aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,dakhinanchal.com,demranews.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,khulasanewslive.in,mediapassion.co.in,newsbindass.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,dakhinanchal.com,demranews.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,khulasanewslive.in,mediapassion.co.in,newsbindass.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
