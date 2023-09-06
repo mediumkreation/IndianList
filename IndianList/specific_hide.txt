@@ -3135,7 +3135,7 @@ tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
 cinereporters.com,dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com,sanjeevnitoday.com##a[href*="click.htm?"][target="_blank"]
 ntnews.com##a[href*="countryoven.com"]
-ambalanews24.com##a[href*="daraz.com.bd"]
+agaminews.com,ambalanews24.com##a[href*="daraz.com.bd"]
 deshdorpon.com##a[href*="daraz.com.bd/sepnil/"]
 loksangbad.com##a[href*="deshihost.com"]
 shikkhasongbad.com##a[href*="dreamlandhomemanagement"] img
