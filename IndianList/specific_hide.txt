@@ -1351,7 +1351,7 @@ sabkuchgyan.com##.bs-listing-multi-tab + div
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 hindsagarplk.com##.bs-shortcode
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
-ctnewsbd.com,kdnewslive.in,kollywoodvoice.com,lightnewsbd.com,prottashitoalo.com##.bsac
+ctnewsbd.com,joynewsbd.com,kdnewslive.in,kollywoodvoice.com,lightnewsbd.com,prottashitoalo.com##.bsac
 inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 hirunews.lk##.btm-sticky
@@ -1718,7 +1718,7 @@ nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
-joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
+ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 faridabadnews.live##.googlepublisherads
 grandnews.in##.grand-after-content_2
@@ -1899,6 +1899,7 @@ khabarpahad.com##.khaba-widget
 khabarhub.com##.khabarhub-inner-ads
 khulasanewslive.in##.khulasanewslivewidget
 koyilandydiary.com##.koyil-widget
+joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
 kushinagarlive.com##.kushi-after-content
 prakashkhabar.com##.last_ads
@@ -2100,8 +2101,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3019,7 +3020,7 @@ manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 cgbasket.in,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
-nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
+joynewsbd.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
 rajsattanews.com##.wpb_raw_html
