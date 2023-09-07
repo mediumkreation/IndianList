@@ -2102,8 +2102,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3323,6 +3323,7 @@ cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h
 countrynewstoday.com#?#.td-block-title > span:-abp-contains(Advertisement)
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
+dailybahadur.com#?#.textwidget:-abp-has(> p > ins.adsbygoogle)
 dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
 dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
