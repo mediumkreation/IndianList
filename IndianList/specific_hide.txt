@@ -661,6 +661,7 @@ muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
 currentkhabar.com###sitebox-ad125-3
 biznessnews.com###skip-ads
+capitallivenews.com###skipAdModal
 patrikai.com###slide-holder
 fastnewsindia.co,makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
@@ -1170,7 +1171,7 @@ apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 navrashtramedia.com##.advertisement-area
-bankingsansar.com,dhangadhikhabar.com##.advertisement-fullwith
+bankingsansar.com,capitallivenews.com,dhangadhikhabar.com##.advertisement-fullwith
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
@@ -1298,6 +1299,7 @@ lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
 anytechtune.com##.big-add
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com##.biggapon
+capitallivenews.com##.bignews_slider
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
 aayomail.com,himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
@@ -2024,7 +2026,7 @@ manoramaonline.com#@#.mmads
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
-bhilwarahalchal.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
+bhilwarahalchal.com,capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 theleader.lk##.module-ct .custom
 mohagani.com##.mohag-widget
@@ -2103,8 +2105,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3627,6 +3629,7 @@ buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 filmybuzz.com#?#.container-fluid div:-abp-has(> h2:-abp-contains(Ads))
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
+capitallivenews.com##footer ~ ul.images
 garavigujarat.biz#?#.wpb_raw_html:-abp-has(.adsbymahimeta)
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
