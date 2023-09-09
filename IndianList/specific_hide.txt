@@ -1370,7 +1370,7 @@ dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 munaadi.com##.card-body > center > img
-aloavanews24.com,cgwebnews.in,indiasamachar24.com,malayalamtodayonline.com##.carousel
+aloavanews24.com,cgwebnews.in,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
@@ -1450,6 +1450,7 @@ crimenewsbd.net##.content-inner h4
 vatakaravarthakal.in##.content-inner img
 dthreeonline.com,googlepokhara.com,nagarikbahas.com##.content-middle-ads
 bhilwarasamwad.com##.content_top:first-child .latest_slider
+thefollowup.in##.contents > p img
 beanibazarnews24.com##.coronaupperadd
 gonokantho.com##.countdown_wrapper
 pratyeknewslive.com##.counter--section
@@ -1662,7 +1663,6 @@ daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
 arohitodaynews.com,dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
-thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
@@ -2107,8 +2107,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3796,6 +3796,7 @@ satyavoice.com#?#div[id^="AS_O_"] > div:-abp-has(> div > a>div > h5:-abp-contain
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 jubileepost.in##section ~ .e3lan
+thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
 aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
