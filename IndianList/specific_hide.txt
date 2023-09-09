@@ -1150,7 +1150,7 @@ radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
-ada.lk,divyahimachal.com,manithan.com,samvaad365.com,tamilan24.com##.advert
+ada.lk,divyahimachal.com,manithan.com,samvaad365.com,shyamalsylhet.net,tamilan24.com##.advert
 ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
@@ -1161,7 +1161,7 @@ drukpadam.com,hindustandailynews.com,newsbrahmanbaria.com,pressbangla24.com##.ad
 margarekha.com##.advertise-border
 nobat.com##.advertise-ifrme
 pokharaexpress.com##.advertise-sec-header
-paryatanbazar.com##.advertise-section
+paryatanbazar.com,shyamalsylhet.net##.advertise-section
 socialvikassamachar.com##.advertise-widget-box
 nepalmamila.com##.advertiseImage
 sylhetbarta24.com##.advertise_image
