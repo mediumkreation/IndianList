@@ -841,6 +841,7 @@ kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
 malwanews.com###youtube_responsive-10
 citynewsexpress.com##.-indx
+dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
 samayam.com##.ATF_300
 hetaudatoday.com##.Ad
 natunsomoy.net##.Ad-Section
@@ -1171,7 +1172,7 @@ apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 navrashtramedia.com##.advertisement-area
-bankingsansar.com,capitallivenews.com,dhangadhikhabar.com##.advertisement-fullwith
+bankingsansar.com,capitallivenews.com##.advertisement-fullwith
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
@@ -2154,6 +2155,7 @@ prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 eimuhurte.com##.popUPBox
 jamalpurlive.com##.popbox
+dhangadhikhabar.com##.popover-ad
 bharatiyadigitalnews.in##.popup
 bonikbarta.net##.popupCloseButton
 apnamzn.com##.portlet-journal-content
@@ -2308,7 +2310,7 @@ yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
 ntinews.com##.sidebar iframe
-dhangadhikhabar.com,gpnnews.com##.sidebar-add
+gpnnews.com##.sidebar-add
 unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
 bdbarrta24.com##.sidebar-adv img
@@ -2717,7 +2719,7 @@ biniyogbarta.com##.topadmid
 nationaldetectivenews.com,ournewsbd.net##.topadrt
 cinema.dinamalar.com##.topadtxt160
 sylheterdak.com.bd##.topadv
-ajakoartha.com,banglavashi.com,dcnepal.com##.topbanner
+ajakoartha.com,banglavashi.com,dcnepal.com,dhangadhikhabar.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 nepalplus.com##.topfull
