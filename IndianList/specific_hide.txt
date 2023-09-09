@@ -60,7 +60,7 @@ madhepuratimes.com###Image21
 madhepuratimes.com###Image22
 madhepuratimes.com,nepalmother.com###Image23
 poonththalir.blogspot.com###Image25
-bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,mithlahindinews.com,newsprahari.com,probashbd.news,rajsamachar.com,sandwanews.com,tapnewsindia.com,tejasindia.in,thattungal.com,vyganews.com###Image3
+bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,gyandatasamachar.blogspot.com,inahardoi.com,madhepuratimes.com,malabarflash.com,mithlahindinews.com,newsprahari.com,probashbd.news,rajsamachar.com,sandwanews.com,tapnewsindia.com,tejasindia.in,thattungal.com,vyganews.com###Image3
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
@@ -2105,8 +2105,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
