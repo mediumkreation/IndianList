@@ -363,6 +363,7 @@ dhanamonline.com,janprahar.com,kathir.news###left_level_2
 dhanamonline.com,kathir.news###left_level_3
 dishadaily.com###left_level_after_paragraph
 specialcoveragenews.in###level_6_before
+swadeshnews.in###level_bottom_full
 u71news.com###logo-right
 enepalese.com###logo_middle
 cellitnews.com###logoright
@@ -1915,7 +1916,7 @@ jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
-haribhoomi.com,hmtvlive.com,thejasnews.com,tv5news.in##.left_level_ad
+haribhoomi.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
 haribhoomi.com##.level_bottom_full
@@ -2231,7 +2232,7 @@ adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
 anandamela.in##.right_box_golpo
-haribhoomi.com##.right_level_1
+haribhoomi.com,swadeshnews.in##.right_level_1
 hmtvlive.com##.right_level_2
 sylhetview24.net##.right_part div[style^="float:left;"]
 ctgtimes.com##.right_sidebar_ads
@@ -3506,7 +3507,7 @@ aagolavartha.com##div[id^="aagol-"]
 aapnihathai.com##div[id^="aapni-"]
 abbiharnews.com##div[id^="abbih-"]
 achhikhabar.com##div[id^="achhi-"]
-globalmalayalam.com##div[id^="ad_"]
+globalmalayalam.com,swadeshnews.in##div[id^="ad_"]
 sports.dinamalar.com##div[id^="adv"]
 prabhatparvnews.in##div[id^="advDiv"]
 aapkiummid.com##div[id^="articlead"]
