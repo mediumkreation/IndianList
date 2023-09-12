@@ -2107,8 +2107,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2853,6 +2853,7 @@ asrilanka.com##.widget_custom_html.panel-first-child
 parmantimes.in##.widget_custom_html:not(#custom_html-10)
 siwanexpressonline.com##.widget_custom_html:not(#custom_html-11):not(#custom_html-2)
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
+mahitivibhag.com##.widget_custom_html:not(#custom_html-4)
 giraya.lk##.widget_custom_html:not(#custom_html-7)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
 vskbihar.com##.widget_digital_newspaper_banner_ads_widget
