@@ -1400,7 +1400,7 @@ delhibulletin.in,theexclusivestory.com##.code-block-1
 kannadi.news##.code-block-15 div:nth-child(3)
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
-krishakjagat.org##.code-block-5
+krishakjagat.org,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com##.code-block-8
 jogindernagar.com##.code-block-9
@@ -1448,6 +1448,7 @@ thebdreport24.com##.content-details .code-block
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
+mangalwedhatimes.in##.content-inner > p img
 crimenewsbd.net##.content-inner h4
 vatakaravarthakal.in##.content-inner img
 dthreeonline.com,googlepokhara.com,nagarikbahas.com##.content-middle-ads
