@@ -500,6 +500,7 @@ tamilcnn.lk###newads
 dilersamachar.com###newmodal .modal-dialog
 aadarshasanchar.com###news-side-ad
 indianewscentre.in,punjabenews.com###newsSection img
+abnewslive.in###news_portal_ads_banner-2
 sokalerbangla.com###news_portal_ads_banner-20
 sokalerbangla.com###news_portal_ads_banner-22
 dailykhowai.com,onlinejalandhar.com###news_portal_ads_banner-3
@@ -2107,9 +2108,9 @@ malayalamexpress.in##.no-bg-box-model img
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
-nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-onlinejalandhar.com#@#.np-header-ads-area
+abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
