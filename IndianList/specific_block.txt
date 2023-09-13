@@ -88,7 +88,7 @@
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=bizshala.com|dailyinqilab.com|keralasabdam.in|nanaonline.in|newsabhiyan.com|srijannews.com|swatantraawaz.com|tatkalnews.com
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
-/advertisement/*$domain=sportsmail24.com|thannambikkai.org
+/advertisement/*$domain=khabarmukam.com|sportsmail24.com|thannambikkai.org
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com
@@ -159,6 +159,7 @@
 @@||jogsanjogtimes.com/banner/4856255068DF20-DF15-4610-AF62-014BCB780684.jpeg
 @@||kalikanews.com/uploads/bigyaapan/32338500.png
 @@||keralasabdam.in/assets/advertisement/WhatsApp%20Image%202023-03-29%20at%2012.25.00%20PM(1)74.jpeg
+@@||khabarmukam.com/images/advertisement/1694522411-Bidhytut.PNG
 @@||lakshmipur71.com/uploads/ad_image/PicsArt_11-16-08_58_412.jpg
 @@||mediapunjab.biz/admin/dashboard/images/poster/1537217477Darbar-sahib-live.jpg
 @@||mediapunjab.biz/admin/dashboard/images/poster/1537284846konto.jpg
