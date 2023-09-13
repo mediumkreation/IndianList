@@ -3802,7 +3802,7 @@ jubileepost.in##section ~ .e3lan
 thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
-aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
+aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 newsofnepal.com##section.widget > a img
 suryakhabar.com##section.widget > figure
 onlinetvnepal.com##section.widget figure
