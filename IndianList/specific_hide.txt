@@ -3027,6 +3027,7 @@ channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_eleme
 dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
+kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 cgbasket.in,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 joynewsbd.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
