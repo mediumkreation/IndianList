@@ -729,7 +729,7 @@ chakarianews.com###text-26
 satyamlive.com,tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,divyalive.com,fatehnagarnews.com,gvtjob.com###text-29
-abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,newstodayjharkhand.com,odishanews365.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
+abhibharat.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,minoritiesnews.com,moviemandu.com,nayaindia.com,newstodayjharkhand.com,odishanews365.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,uniquesamay.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
@@ -2616,6 +2616,7 @@ samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com##.text-html
+maloutlive.flykingimmigration.com##.text-html ~ .stream-item-widget
 sarkarimanthan.com,ujjawalprabhat.com##.text-html-box
 gulte.com##.text-html-box.h250
 banglainsider.com##.text-secondary.d-block
