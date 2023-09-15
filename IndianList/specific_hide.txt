@@ -239,6 +239,7 @@ kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
 news129.com###content center img
 samajalive.in###content div[data-adid]
+khabaruttarakhandlive.in###content div[id^="khaba-"]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
@@ -2108,8 +2109,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
