@@ -461,7 +461,7 @@ khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
 middleeastchandrika.com###mep_0
-arthanepal.com,eparinews.com,sunaulonepal.com###messagem
+arthanepal.com,eparinews.com###messagem
 ravivardelhi.com###metaslider-id-135
 smnewshimachal.in###metaslider-id-8121
 idunammaooru.in###metaslider_10258
@@ -1088,10 +1088,8 @@ deshabhimani.com##.adone > div
 anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
 amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,biznessnews.com,campuslive24.com,chandpur24.net,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,ekattor.tv,emalayalee.com,gandakilive.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kaligandakikhabar.com,kantipurpati.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,naidunia.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,newsbihani.com,newsdeskkannada.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,webtvkhabar.com##.ads
-sunaulonepal.com##.ads .widget_media_image > img
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
-sunaulonepal.com##.ads a:not([href*=".gov.np"])
 gandakitimes.com##.ads aside:not(#custom_html-7)
 mohanagarnews.com##.ads img
 nepalmanch.com##.ads img:not(.wp-image-72119)
@@ -3427,6 +3425,7 @@ khabarodisha.com##div[class^="add-"]
 sananda.in##div[class^="add-right"]
 bn.bd24report.com##div[class^="add-section"]
 dailyjonomot.com,theholytimes.com##div[class^="add_"]
+sunaulonepal.com##div[class^="ads"]
 campuslive24.com##div[class^="ads_"]
 thekeralapost.com##div[class^="advert-"]
 bonikbarta.net##div[class^="advertise_space"]
