@@ -362,7 +362,7 @@ kottayammedia.com###leader-wrap
 newscity.co.in###leaderboard-content
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 dhanamonline.com,janprahar.com,kathir.news###left_level_2
-dhanamonline.com,kathir.news###left_level_3
+dhanamonline.com,filmchilive.com,kathir.news###left_level_3
 dishadaily.com###left_level_after_paragraph
 specialcoveragenews.in###level_6_before
 swadeshnews.in###level_bottom_full
@@ -794,6 +794,7 @@ thenrinews.com###top-slider2
 gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
 janprahar.com###top_level_3
+filmchilive.com###top_level_full_1
 chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
@@ -2111,8 +2112,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
