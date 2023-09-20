@@ -194,11 +194,11 @@ tcp24.news###block-46
 tcp24.news###block-47
 hamarahimachal.com,indianvoice24.com,newsnukkad.com,rcn24bd.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
-batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,thenewswave.com,vindhya24news.com,viralfactsindia.com###block-6
+batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
 samrudhaodisha.com###block-61
 samrudhaodisha.com###block-62
 dgnews.co.in###block-69
-areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in,thenewswave.com###block-7
+areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 cgtop36.com###block-71
 bharatpostlive.com,naanmedia.in,tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
@@ -577,7 +577,7 @@ prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
-bbn24news.com,brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiapolkhol.in,janmat.co.in,kelopravah.news,konnivartha.com###secondary .widget_block
+bbn24news.com,brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiapolkhol.in,janmat.co.in,kelopravah.news,konnivartha.com,thenewswave.com###secondary .widget_block
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com,up18news.com###secondary .widget_custom_html
