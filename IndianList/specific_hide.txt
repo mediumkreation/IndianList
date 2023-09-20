@@ -1843,6 +1843,7 @@ citymirrors.in##.hustle-content
 mekhrajbairwa.com##.hustle-layout
 tarunchhattisgarhkorba.com##.hustle-popup
 blackoutnews.in##.hustle-ui
+mediabharti.net##.icici
 thereport24.com##.idlc
 60secondsnow.com##.iframe-ads-block
 tharexpressnews.com,ujyaaloonline.com##.iframe-container
@@ -2110,8 +2111,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
