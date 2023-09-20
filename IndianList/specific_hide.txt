@@ -2043,6 +2043,7 @@ uthayannews.ca##.mom_custom_text
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
 bengaluruvartha.in##.ms-parent-id-1
+damaulionline.com##.mt-3
 sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
@@ -2109,8 +2110,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3636,7 +3637,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-aksherpati.com,amchimumbaionline.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,ramailochha.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,amchimumbaionline.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,hatmakhabar.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,ramailochha.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
