@@ -1543,7 +1543,6 @@ maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 namastenri.net##.elementor-element-e9b9b10
 maithilbrahminmahasabha.in##.elementor-element-f2e9897
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
-todaypostlive.com##.elementor-image a[target="_blank"]
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
 delhicrimepress.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
 attingalvartha.com,vijayavani.net##.elementor-popup-modal
@@ -1553,6 +1552,7 @@ perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
 khabriyanews.com##.elementor-widget-heading
+todaypostlive.com##.elementor-widget-html
 zoombangla.com##.elementor-widget-html img
 abbiharnews.com,asianprimetime.com,bisshobarta24.com,citywatchnews.com,filmistreet.com,hamdardtv.com,kannadanewsnow.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,newscrime24.com,newsganga.com,polkholonline.com,rainbownews.co.in,realtamilnews.com,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,topnewskerala.com,ulipur.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,thinakaran.lk##.elementor-widget-image .size-full
