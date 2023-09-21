@@ -2110,8 +2110,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3614,11 +3614,12 @@ kannada.oneindia.com##div[style="min-height: 250px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
 khaskhabar.com##div[style^="background-color: lightgrey;"]
-filmykhabar.com##div[style^="float: left; width: 350px; height: 125px;"]
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 currentnews.com.bd##div[style^="font-size:25px;"] > table
 dinvishesh.com##div[style^="height: 350px;"]
 telugu.goodreturns.in##div[style^="height:250px"]
+filmykhabar.com##div[style^="margin-top: 16px; height: 250px;"]
+filmykhabar.com##div[style^="margin-top: 6px; height: 145px;"]
 telugu.boldsky.com##div[style^="min-height:250px;"]
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
