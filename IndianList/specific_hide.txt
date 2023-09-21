@@ -719,6 +719,7 @@ abhibharat.com,akkinikkunchu.com,anaicoddai.com,attachowk.com,bihar.express,bino
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
 anytechtune.com,fastlivenews.com,roopcare.com###text-21
+coxsbazarnews.com###text-216
 dainiksatkhira.com###text-22
 divyalive.com,tnilive.com###text-23
 achhisoch.com,apnades.in,tnilive.com###text-24
@@ -3702,7 +3703,6 @@ buxaruptodate.com##img[alt="ads buxar"]
 sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 ajkerograbani.com,dhakanewsexpress.com##img[alt="advertisement"]
 gramajyothi.com##img[alt="banner"]
-coxsbazarnews.com##img[alt="cbn"]
 mirsaraikhobor.com##img[alt="mAD"]
 news24bd.net##img[alt="meghna"]
 bhilwarahalchal.com##img[alt="news"]
