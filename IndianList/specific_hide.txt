@@ -1184,7 +1184,7 @@ jananesan.com##.advertisement_bar
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
-anugrahavision.com,cricketkhabara.com,keralavoter.com,upuklive.com,uttarakhandpost.com##.advertismentRow
+anugrahavision.com,cricketkhabara.com,keralavoter.com,newstm.in,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
 dainiksylhet.com##.advsingle
@@ -3786,6 +3786,7 @@ newscreation.in#?#.sppb-addon:-abp-has(.bannergroup)
 newsdesk24.com#?#.sidebar .widget_media_image:-abp-has(> :not(div))
 newsmoments.in#?#div[id^="AS_O_LHS_"] > div:-abp-has(> div > div > a > div > p:-abp-contains(Ad |))
 newspoint24.com#?#div[id^="AS_O_"] > div:-abp-has(> div > div > span[name="adchoicehtml"])
+newstm.in#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |) )
 newstodaynetwork.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h4:-abp-contains(Ad: ))
 newstodaynetwork.com#?#div[id^="AS_O_RHS"] > div:-abp-has(> div > div > div > p)
 nobat.com#?#div:-abp-has(> small:-abp-contains(Advertisement))
