@@ -2545,7 +2545,7 @@ insurancekhabar.com,pagetamil.com,pratidindaily.com##.td-header-sp-recs
 dpcnews24.com##.td-header-template-wrap .td-a-rec
 prathamnews.in##.td-is-sticky .td-a-rec
 soochnanews.in##.td-main-content .ml-slider
-abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,biswabanglanews.com,ccnnews24.in,rozanabhaskar.com,ttncinema.com##.td-main-content-wrap .td-a-rec
+abtakmedia.com,aviratvaatchal.com,banglarjanapad.com,biswabanglanews.com,ccnnews24.in,rozanabhaskar.com##.td-main-content-wrap .td-a-rec
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com,matopath.com##.td-main-content-wrap .td_block_single_image
@@ -3885,6 +3885,7 @@ timesnowtamil.com#?#div:-abp-has(> .ad-div)
 timesofswaraj.com#?#.widget_block:-abp-has(> ins.adsbygoogle)
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
 todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
+ttncinema.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div p:-abp-contains(AD |) )
 tv20news.in#?#p:-abp-contains(Advertisement)
 twentyfournews.com#?#div:-abp-has(> span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
