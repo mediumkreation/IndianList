@@ -320,7 +320,7 @@ telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
-chattolarkhabor.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
+chattolarkhabor.com,indiareportertoday.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
 newsbazar24.com###header .col-lg-7
 odishamirror.com###header .sidebar
 digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
@@ -2875,6 +2875,7 @@ newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
 actionindialive.com,azchavattomonline.com##.widget_et_ads
+indiareportertoday.com##.widget_fcko:not(#fcko-25)
 filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
 sameerachannel.com,solantoday.com##.widget_hootkit-slider-image
@@ -3650,6 +3651,7 @@ kheldhaba.com##figure.wp-block-image:not(.size-large)
 sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
+indiareportertoday.com##figure[id^="attachment"]
 filmybuzz.com#?#.container-fluid div:-abp-has(> h2:-abp-contains(Ads))
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 capitallivenews.com##footer ~ ul.images
