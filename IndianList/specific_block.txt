@@ -29,7 +29,6 @@
 -ads.png|$domain=ctgsun.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
--adv.gif|$domain=bikashnews.com
 -adv.png$domain=todayexpressnews.com
 -advert.jpg|$domain=samakalam.com
 -ADVT.jpg|$domain=attingalvartha.com
@@ -38,7 +37,6 @@
 -bannar.jpg|$domain=kurigramlive.com
 -banner$domain=udayasooriyan.lk
 -banner-$domain=channelionline.com
--Banner-$image,domain=bikashnews.com
 -Banner.gif$image,domain=sajhatv.com
 -Banner.gif|$domain=ottrancheithi.com
 -banner.gif|$domain=teknafnews71.com
@@ -46,7 +44,6 @@
 -banner.jpg|$domain=ntnews.com
 -Banner.jpg|$domain=ottrancheithi.com|shamolbangla24.com
 -banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
--Banner_$image,domain=bikashnews.com
 -bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
 -gif.gif|$domain=prabhattimes.com
@@ -98,7 +95,6 @@
 /advt/*$domain=himdarshan.com
 /Banner-$domain=indias18.com
 /banner-$domain=navakal.in
-/banner-$image,domain=bikashnews.com
 /banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|ninglashainionline.com|setopati.com|swasthyakhabar.com
@@ -117,8 +113,6 @@
 1140X100.gif|$domain=nayapage.com
 250x250-Middle$domain=newstrendz.co.in
 290x180_c.jpg|$domain=karaihinducanada.com
-300X150$image,domain=bikashnews.com
-880x90-$image,domain=bikashnews.com
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 @@-advertisement.$domain=newswaves.org
@@ -198,7 +192,6 @@
 @@||youngvarta.com/uploads/blocks/block_5e8dae57e47c1.JPG
 @@||youngvarta.com/uploads/blocks/block_5f056e0ef2e59.gif
 @@||youngvarta.com/uploads/blocks/block_5f60882628309.jpg
-_300-x$image,domain=bikashnews.com
 __add$domain=natuncumilla.com
 _ad.jpeg|$domain=usamibanglanews.com
 _ad.jpg|$domain=sharetimes24.com|thebarta24.com|yugjagran.com
@@ -218,7 +211,6 @@ _advt-$domain=eradioindia.com
 _Advt.gif|$domain=kasaragod.com
 _advt_$domain=channelindia.news
 _banner$image,domain=poriborton.com
-_Banner-Ad_$domain=bikashnews.com
 _banner.gif|$domain=farakdhar.com
 _Banner_$domain=deshdoot.com
 _n-300x277.jpg|$domain=barishalcrimenews.com
@@ -240,7 +232,6 @@ IMG-20221026-WA0027.jpg$domain=nawadalive.com
 IMG-20221029-WA0032.jpg$domain=nawadalive.com
 narayanganj24.com/pre-content/uploads/2018/12/alhakim.gif
 perfection-ias-upsc$domain=nextbihar.com
-|bikashnews.com^*/MEGA_MEGA-MAYA-BACHAT-KHATA_300x150pixels.gif
 ||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
 ||2.bp.blogspot.com/-HPD8Q-_QY4c/XIDtfTQVWAI/AAAAAAAAodQ/OkDJ6Lyl7dwciuxwqGgqTjXRFIvGBDstACLcBGAs/s1600/53327642_2040231206054757_8053306401486798848_n%2B%25281%2529.jpg
 ||247superfast.com/wp-content/uploads/2021/02/IMG_20210214_180703
@@ -734,7 +725,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||bikalpadainik.com/wp-content/uploads/2020/06/shuklaphanta.gif
 ||bikalpadainik.com/wp-content/uploads/2020/07/Shivanagarjun-ad.jpg
 ||bikanerhulchul.com/wp-content/uploads/2021/01/mr-bika-
-||bikashnews.com/wp-content/uploads/2023/06/SY-Bazar-1.gif
+||bikashnews.com/wp-content/uploads/2022/08/Digital-Fraud-1230X100-px.gif
 ||binodonsarabela.com/upload/images/banner/7864default-resort-image.jpg
 ||binodonsarabela.com/upload/images/news/new-york-city-pass-comparison-guide.jpg
 ||bishasangbad.com/wp-content/uploads/2021/05/11761255419551933506-1.jpg
