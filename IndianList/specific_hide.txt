@@ -2112,8 +2112,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3877,6 +3877,7 @@ thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:
 thevoices.in#?#div:-abp-has(> .nbs-flexisel-container)
 thuglak.com#?#div:-abp-has(> .adv)
 timeskerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > h5:-abp-contains(Ad |))
+timesnowtamil.com#?#div:-abp-has(> .ad-div)
 timesofswaraj.com#?#.widget_block:-abp-has(> ins.adsbygoogle)
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
 todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
