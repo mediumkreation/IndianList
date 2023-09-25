@@ -1175,7 +1175,7 @@ ajkerreport.com##.advertise_to
 apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dhakapost.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
-navrashtramedia.com##.advertisement-area
+navrashtramedia.com,tamilankural.com##.advertisement-area
 bankingsansar.com,capitallivenews.com##.advertisement-fullwith
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
@@ -3553,6 +3553,7 @@ himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 sathyamonline.com##div[id^="inven-"]
 aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
+tamilankural.com##div[id^="itro_popup"]
 joharlive.com##div[id^="johar-"]
 khabarbihar.in,khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
