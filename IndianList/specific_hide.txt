@@ -813,6 +813,7 @@ crimesuspence.com###wb_element_instance35
 crimesuspence.com###wb_element_instance48
 moviemandu.com,punjablivekhabarnama.com###wds_container1_0
 hknepal.com###wdslider-57
+nigranee.com###webbank-ad-section
 pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
@@ -1329,7 +1330,6 @@ dainikbhaskarup.com,indiaprimenews.in,khabarhikhabar.com,newj9.com,theguptchar.c
 f21news.com##.block-custom-content:not(#tie-block_1405)
 sudurpress.com##.block-inline-blockad-block
 londonbdnews24.com##.block-right-bottom-ads
-nigranee.com##.block-wrapper ~ #webbank-ad-section
 newsflash71.com##.block__2
 livekhagaria.in##.blocks-gallery-item
 dailynewsj.online##.blog-sidebar .widget_custom_html
@@ -2332,6 +2332,7 @@ khabarchalisa.com##.sidebar-inner .widget_custom_html
 janayugomonline.com##.sidebar-inside .widget_custom_html
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
+nigranee.com##.sidebar-right.card4
 aajbangla.in##.sidebar-widget
 dhamaka36.com##.sidebar-widget .image
 dakshinapath.com##.sidebar-widget .widget-body > p > img
