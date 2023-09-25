@@ -304,6 +304,7 @@ elokasha.com,lokprashna.com###eloka-google
 cellitnews.com###example
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
 indianletter.com###featured-multi-wrap
+vtv24x7.com###first-advertisement
 nayapusta.com###flashnews
 houseplan.lk###flexiselDemo1
 nerpatham.com###floating-sidebar .custom
@@ -1940,7 +1941,7 @@ radionrn.com##.logo-adverimg
 dailyuttorpurbo.com##.logo-banner
 sylhetprotidin24.net##.logo-banner .pull-right
 najiknews.com##.logo-right-ad
-bcsuddi.com,envazhi.com,khabarok.com,vtv24x7.com##.logo-right-wrapper
+bcsuddi.com,envazhi.com,khabarok.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
