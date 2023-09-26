@@ -1206,7 +1206,7 @@ batukamma.com##.after-menu-ads
 biharnownews.com##.afw_ad
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
-alakhharyana.com,anewsoffice.com,beanibazarview24.com,bwoodtadka.com,lokbharat.com,newsnow.co.in,panchkulasamachar.com,pleaseindia.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+alakhharyana.com,anewsoffice.com,beanibazarview24.com,bwoodtadka.com,lokbharat.com,newsnow.co.in,panchkulasamachar.com,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 punjabiakhbaar.ca##.aibwp_banner_widget
 ajabgjab.com##.ajabg-widget
@@ -1260,7 +1260,7 @@ hamrokhelkud.com##.banner-click-action img:not([src*="Fantasy.jpg"])
 musicjoymedia.com##.banner-half
 aapkaparyas.in,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,madhyabindu.com,newsportals.in,onstimes.com,tatviknews.com##.banner-img
-24x7breakingpoint.com,aanthaireporter.com,banglapostbd.com,biharnewstv.in,boundaryline.in,cobranews24.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,pabilnews.com,prameya.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkitop.com,shaktialmora.com,shreenews.in,siyasatdarpan.com,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
+24x7breakingpoint.com,aanthaireporter.com,banglapostbd.com,biharnewstv.in,boundaryline.in,cobranews24.com,filmaniaentertainment.com,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khabarworld.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,pabilnews.com,prameya.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkidastak.com,sachkitop.com,shaktialmora.com,shreenews.in,siyasatdarpan.com,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 inhnews.in##.banner-slider-2
