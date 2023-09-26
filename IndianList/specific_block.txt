@@ -9,9 +9,7 @@
 -ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -Ad.jpg|$domain=barishalcrimenews.com
--ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com
--Ad.jpg|$domain=gtamilnews.com
--ad.jpg|$domain=rashtrachandika.com|unitednewskannada.com
+-ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=barishaltimes.com|businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
