@@ -613,6 +613,7 @@ insightchhattisgarh.in###sidebar .advertisement
 laxminews24x7.com###sidebar .e3lan
 tamilnewsstar.com###sidebar .text-html
 bhorerkagoj.com###sidebar .textwidget
+rujalanews.blogspot.com###sidebar .widget.HTML:not(#HTML2)
 madawalaenews.com###sidebar .widget.HTML:not(#HTML8):not(#HTML6)
 coverageindia.com###sidebar .widget.Image
 citynewshindi.com###sidebar .widget.Image:not(#Image8)
@@ -2114,8 +2115,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
