@@ -956,6 +956,7 @@ eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
 odhikar.news##.adSlides
 dcnepal.com##.ad__space
+dhanamonline.com##.ad_before_level_3
 lifeglint.com##.ad_bottom_lip
 news18.com##.ad_cntainer
 nation1voice.com##.ad_responsive
