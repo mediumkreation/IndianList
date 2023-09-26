@@ -1877,6 +1877,7 @@ thedailycampus.com##.infostation
 janaaastha.com##.inline__bigyapaan
 ctgsangbad.com.bd##.inlineads
 mannarkkadlive.com##.inner-add
+chatonay71news.com##.inner-ads
 lanka4.com##.inner-eds-box
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
@@ -2115,8 +2116,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3346,6 +3347,7 @@ nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
+chatonay71news.com#?#.widget_recent_entries:-abp-contains(ads)
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
 cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h6:-abp-contains(Ad |))
 countrynewstoday.com#?#.td-block-title > span:-abp-contains(Advertisement)
