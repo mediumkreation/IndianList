@@ -583,7 +583,7 @@ newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com,up18news.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
-aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,dakhinanchal.com,demranews.com,ekhabartoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,khulasanewslive.in,mediapassion.co.in,newsbindass.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,dakhinanchal.com,demranews.com,ekhabartoday.com,emediatoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,khulasanewslive.in,mediapassion.co.in,newsbindass.com,pabnabarta24.com,patnapost.com,pradeshnews24x7.com,ptbnews.in,rozanapost.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
@@ -2918,7 +2918,7 @@ raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 delhibulletin.in##.widget_media_image:not(#media_image-57):not(#media_image-47)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-abhitaknewsuk.in,awaznews24x7.com,chamolitimes.com,dainandini.in,dainikjayantnews.com,emediatoday.com,gauravnews.in,jagouttarakhand.in,mussoorieaajtak.com,navabharat.news,newsatnet.com,newsnasha.com,newsnetindia.com,pradeshnews24x7.com,saunewsnetwork.com,shaheedokonaman.in,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in##.widget_media_video
+abhitaknewsuk.in,awaznews24x7.com,chamolitimes.com,dainandini.in,dainikjayantnews.com,gauravnews.in,jagouttarakhand.in,mussoorieaajtak.com,navabharat.news,newsatnet.com,newsnasha.com,newsnetindia.com,pradeshnews24x7.com,saunewsnetwork.com,shaheedokonaman.in,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in##.widget_media_video
 aajkaaditya.in,aapabhitak.tv,bntlive.com,cityhalchal.com,dainikujagarkhabar.in,ghumtidunia.com,hindsagarplk.com,independentcitizennews.com,indiaedgenews.com,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,thekhabrilal.com,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
 kalikadainik.com##.widget_namo_advertisement
