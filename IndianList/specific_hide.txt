@@ -825,9 +825,9 @@ news4indiatv.com###widget-footer-0
 breakingaajtaknews.com,goodmorningnation.com,khabarbhartiindia.com,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
-breakingaajtaknews.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
+breakingaajtaknews.com,newindia24.in,news4indiatv.com,sameera.co.in###widget-sidebar-2
 atalstambh.com,breakingaajtaknews.com,mpkhabar.com###widget-sidebar-3
-beauronews.com,khabarpradesh.com###widget-sidebar-4
+beauronews.com,khabarpradesh.com,newindia24.in###widget-sidebar-4
 gujaratvaibhav.com###widget4
 kewalsachtimes.com###widget_sp_image-10
 kewalsachtimes.com###widget_sp_image-11
