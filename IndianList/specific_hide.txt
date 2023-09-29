@@ -181,7 +181,7 @@ govindia.in###block-25
 govindia.in,khabardarinews.com,organizeindia.in###block-26
 khabarcgnews.com###block-27
 wealthfreedomideas.com###block-28
-alertchhattisgarh.com,bundelkhandsamachar.com,checkpostnews.com,khabarindia24x7.com,lokswar.in,mobilenews24.com,newskranti.com,newsnukkad.com,pahadkasach.in,tamizhdb.com,ujjawalprabhat.com###block-3
+alertchhattisgarh.com,bundelkhandsamachar.com,checkpostnews.com,khabarindia24x7.com,lokswar.in,mobilenews24.com,newsnukkad.com,pahadkasach.in,tamizhdb.com,ujjawalprabhat.com###block-3
 wealthfreedomideas.com###block-30
 sahmatnews.com###block-31
 khabardarinews.com,thenewssense.in###block-35
@@ -2118,12 +2118,13 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
+newskranti.com##.ob-cards
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 priyo.com##.offer_grid
 tamil.oneindia.com##.oiad
@@ -2768,7 +2769,6 @@ abplive.com##.uk-text-meta
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 khabarchalisa.com##.uris-slider-post-title
-newskranti.com##.utt_top
 uttarakhandcitynews.com##.uttar-widget
 vatsalyanews.com##.vatsa-middle
 suprovatsydney.com.au##.vc_col-sm-4 .horizontal_carousel_container
