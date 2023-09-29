@@ -322,7 +322,7 @@ telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
-chattolarkhabor.com,indiareportertoday.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
+chattolarkhabor.com,delhinews24.com,indiareportertoday.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
 newsbazar24.com###header .col-lg-7
 odishamirror.com###header .sidebar
 digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
