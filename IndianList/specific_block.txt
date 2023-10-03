@@ -86,6 +86,7 @@
 /advertisement/*$domain=khabarmukam.com|sportsmail24.com|thannambikkai.org
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
+/advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com
 /advisment/*$domain=kopotakkhonews24.com
 /advrtseimg/*$domain=msprotidin.com
