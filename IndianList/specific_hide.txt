@@ -244,6 +244,7 @@ avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 giridihupdates.com###content section.widget_text[id^="text-1"]
 sylhetview24.net###content_add
+latestlaws.com###cookieModal
 haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
@@ -329,6 +330,7 @@ digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
 khabarhouse.com###header .widget_block
 cinemasthi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-aside
 nationaltodaylive.com###header-banner
+latestlaws.com###header-banner .text-right
 ethiri.com###header-helpful
 allwnews.com,anondobarta.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,keralanewz.com,naturalnews.co.in,paryavaranpost.com,primepunjab.com,rozanapost.in###header-right-section
 cgimpact.org,jamalpurbarta.com,thepunjabwire.com###header-right-sidebar
@@ -2118,8 +2120,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
