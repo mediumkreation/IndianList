@@ -1014,7 +1014,7 @@ u71news.com##.add-right
 evartha.in##.add-row
 dainiktribuneonline.com,paschimtoday.com,thebengalitimes.com##.add-sec
 malisamajsocial.com,muktirlorai.com,thebengalitimes.com,virakesari.lk##.add-section
-newsdnntv.com##.add-section img
+khabarwaale.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
@@ -2122,8 +2122,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
