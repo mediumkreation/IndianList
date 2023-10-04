@@ -2485,9 +2485,9 @@ dhadingpost.com##.str3
 247superfast.com,aajkaaditya.in,aajkalsamachar.com,aamaadmi.in,aapkiaawaz.net,abpbharat.com,allindianews.me,amanyatralive.com,asha.news,azkersylhet.com,bastabbadi.com,bhadas36.com,bharatsamachartv.in,bhorvaibhav.com,bograsangbad.com,buxaruptodate.in,cglivenews.co.in,cgnewstime.com,cgujala.in,charotarnoavaj.com,cinenxt.com,citysmartnews.com,dainikbhaskarup.com,dainikrajeevtimes.com,damaulikhabar.com,daysbulletin24.com,delhibulletin.in,desikhabar.in,devbhumijknews.in,divyadarpan.com,divyaindianews.com,ehapuruday.com,f21news.com,gandakivoice.com,glimeindianews.in,hamarahimachal.com,highwaychannel.in,himachalsamay.com,hindustanlivetoday.com,hindxpress.com,hnn24x7.com,idp24news.com,indiaprimenews.in,inn24news.in,jharkhandnewsroom.com,jugasankha.in,k24news.in,kakakhabarilaal.com,khabarvani.com,lokswar.in,malayagam.lk,massnews.online,mitanbhoomi.com,mpcgexpress.com,muvattupuzhanews.in,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,nepaljapan.com,networktodaynews.com,newj9.com,newresultbd.com,news24you.com,newsd5.in,newslive24x7.com,newsnowbangla.com,newssow.com,newswing.com,newvavuniya.com,pataka24.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,qawmipost.com,raigarhtopnews.com,sangbadsafar.com,sarthakprayash.com,shekhawatilive.com,shrinaradmedia.com,sonprabhat.live,surmanews.com,tcp24.news,tehelkaindia.com,tharsamwad.com,thenationtimes.in,thesurgicalnews.in,thetadkanews.com,ujjawalprabhat.com,vorerbangladesh.com,webmorcha.com,wegwannews.com,youturn.in,yugjagran.com##.stream-item
 glimeindianews.in,mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
 gnewsindia.com,magahinews.com,nepaltvonline.com##.stream-item-above-header
-gnebangla.in,gurugramnewsnetwork.com,jaunpur24.com,lovedevbhoomi.com,mitanbhoomi.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
+gurugramnewsnetwork.com,jaunpur24.com,lovedevbhoomi.com,mitanbhoomi.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
 rajdhanitimescg.in##.stream-item-after-post-title
-abhitaknewsuk.in,boguralive.com,gnebangla.in,postpatrika.com##.stream-item-below-header
+abhitaknewsuk.in,boguralive.com,postpatrika.com##.stream-item-below-header
 jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,himachalnewsdaily.com,jaunpur24.com,kadwaghut.com,khabarhikhabar.com,mitanbhoomi.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
@@ -3486,7 +3486,7 @@ sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
-azadsipahi.com,bolanyathali.com,khabarpurwanchal.com,mysanchar.com,news14india.com,pcbtoday.in,samriddhasamaj.com,state7online.com,surabhisaloni.co.in,suryaa.co.in,ujyalokhabar.com##div[class^="sgpb-"]
+azadsipahi.com,bolanyathali.com,gnebangla.in,khabarpurwanchal.com,mysanchar.com,news14india.com,pcbtoday.in,samriddhasamaj.com,state7online.com,surabhisaloni.co.in,suryaa.co.in,ujyalokhabar.com##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 samakal.com##div[class^="textBodyAd"]
