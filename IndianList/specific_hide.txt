@@ -2125,8 +2125,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3486,7 +3486,7 @@ sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
 samacharvaarta.com##div[class^="sgpb"]
-azadsipahi.com,bolanyathali.com,gnebangla.in,khabarpurwanchal.com,mysanchar.com,news14india.com,pcbtoday.in,samriddhasamaj.com,state7online.com,surabhisaloni.co.in,suryaa.co.in,ujyalokhabar.com##div[class^="sgpb-"]
+azadsipahi.com,bolanyathali.com,entertainmentkhabar.com,gnebangla.in,khabarpurwanchal.com,mysanchar.com,news14india.com,pcbtoday.in,samriddhasamaj.com,state7online.com,surabhisaloni.co.in,suryaa.co.in,ujyalokhabar.com##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
 samakal.com##div[class^="textBodyAd"]
