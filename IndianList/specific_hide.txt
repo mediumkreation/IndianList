@@ -1648,6 +1648,7 @@ satyapathnews.com##.etad
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
+womeneye24.com##.exclusiveSec + .row
 metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 parichaya.com##.exv-image
@@ -2640,6 +2641,7 @@ trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
+womeneye24.com##.text-center.col-lg-12
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com##.text-html
 maloutlive.flykingimmigration.com##.text-html ~ .stream-item-widget
