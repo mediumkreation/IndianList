@@ -1422,6 +1422,7 @@ colombotamil.lk##.col-bn-ds
 apnapunjabmedia.com##.col-lg-2 > .white-bg
 hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
+ajkerjholok.com##.col-md-12 .textwidget
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 purvanchal24.com##.col-md-4 .pbwidget
@@ -2652,6 +2653,7 @@ kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 bdcrime24.com##.textwidget > p img
 aashanews.com##.textwidget img
+ajkerjholok.com##.textwidget:only-child
 thinkwithniche.in##.tg-addbox
 projonmonews24.com##.thads
 gujjujankari.in##.the_content > div[class^="gujju-content"]
