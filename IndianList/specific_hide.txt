@@ -629,6 +629,7 @@ satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
 awajnews.com,bolpanipat.com,dbnnews.in,kannadavani.news,meruraibar.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
+lokhitkipukar.com###sidebar .ws-block-body > a > img
 rjfnews.com###sidebar > .widget_media_image
 veerdharanews.com###sidebar-footer-4
 silkcitynews.com###sidebar-primary aside.widget_media_image
