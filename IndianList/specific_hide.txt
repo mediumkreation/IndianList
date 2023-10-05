@@ -1579,7 +1579,7 @@ srimanexpress.digital##.elementor-widget-image-carousel:only-child
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
 thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
-graminujala.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
+graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
 ambalacoverage.com,banglasangbad24.com##.elementor-widget-shortcode img
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
