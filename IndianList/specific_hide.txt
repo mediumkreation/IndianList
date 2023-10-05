@@ -551,7 +551,7 @@ lokmatnews.in###rhs-middle
 lokmatnews.in###rhs-top
 tamilcnn.lk###right-banner
 edainikazadi.net###right-holder
-hindisip.com###right-sidebar .widget_block
+hindisip.com,onelivenews.com###right-sidebar .widget_block
 kalaroanews.com###right-sidebar .widget_custom_html
 emulyankan.org###right-sidebar .widget_sp_image
 kalaroanews.com###right-sidebar .widget_text img:not([src*="/Apps-"])
