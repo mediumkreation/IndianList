@@ -1380,6 +1380,7 @@ dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 munaadi.com##.card-body > center > img
+lanka4.com##.card.text-center
 aloavanews24.com,cgwebnews.in,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in,panchayattantra24.com##.carouselbanner
@@ -1544,7 +1545,6 @@ dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
-lanka4.com##.eds-link
 manoramaonline.com##.el-banner-main-logo
 aajkijandhara.com##.elementor-col-33 .elementor-section
 hamdardmediagroup.com##.elementor-col-50 .elementor-widget-image .attachment-large
@@ -1886,7 +1886,6 @@ janaaastha.com##.inline__bigyapaan
 ctgsangbad.com.bd##.inlineads
 mannarkkadlive.com##.inner-add
 chatonay71news.com##.inner-ads
-lanka4.com##.inner-eds-box
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
 laxminews24x7.com##.inner-wrapper .e3lan-below_header
@@ -1936,6 +1935,7 @@ jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
+lanka4.com##.left .aside-wrapper
 bankura24x7.com,haribhoomi.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
@@ -2127,8 +2127,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
