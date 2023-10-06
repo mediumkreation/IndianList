@@ -1656,7 +1656,6 @@ metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 parichaya.com##.exv-image
 channelionline.com##.eyli
-hindifiber.com##.ezoic-autoinsert-ad + .wp-block-image
 lankasri.com##.f-single
 dakhal.net##.fadInleft_ads
 paschimtoday.com##.fb-lipage + .img-wrap
@@ -2128,8 +2127,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
