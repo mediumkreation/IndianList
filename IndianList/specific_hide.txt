@@ -560,6 +560,7 @@ mekhrajbairwa.com###right-sidebar-inner
 punjablivenews.in###right-sidebar-inner .widget_media_image
 starbangla.in###right-sidebar-inner .widget_text
 samachardoot.com###right_banner
+teluguglobal.com###right_level_0
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
 thejasnews.com###right_level_3
@@ -1898,6 +1899,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 setokhari.com##.insert-ad
 janjwar.com##.inside-post-ad-before
+teluguglobal.com##.inside-post-ad-before-before
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
 samvetshikhar.com##.item-size-right img
