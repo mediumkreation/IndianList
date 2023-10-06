@@ -946,6 +946,7 @@ bangladesherkhabor.net##.ad-sm
 news24bd.tv##.ad-ticker-right
 officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
+udayavani.com##.ad-white-blk
 eisamay.com,iamgujarat.com,samayam.com##.ad-wrapper-250
 eisamay.com##.ad-wrapper-275
 eisamay.com##.ad-wrapper-photo
@@ -1112,6 +1113,7 @@ news18.com##.ads-slider
 loksattanews.co.in##.ads-slider-widget
 hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
+udayavani.com##.ads-white-blk
 dailyolamakantho.com,nationalpresstimes.com,welcomeindianews.com##.ads160_600-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
