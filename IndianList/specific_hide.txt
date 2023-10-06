@@ -1451,6 +1451,7 @@ newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
 sunamganjerkhobor.com##.container_fluid.bgColor2
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
+arthasansar.com##.content-advertisement
 protichhobi.com##.content-area .ad
 dinamani.com##.content-av
 hetaudatoday.com##.content-banner
@@ -2127,8 +2128,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
