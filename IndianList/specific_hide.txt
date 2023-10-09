@@ -171,7 +171,7 @@ ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
 khabarok.com###block-18
 tamizhdb.com,viewpointjharkhand.com###block-19
-bansalnews.com,bulandsoch.com,ekhabar.in,hamdardtv.com,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
+bansalnews.com,ekhabar.in,hamdardtv.com,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 tamizhdb.com###block-21
 newslab24.in,sansanisurag.com###block-22
 peptechtime.com###block-222
@@ -1196,7 +1196,7 @@ jananesan.com##.advertisement_bar
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
-anugrahavision.com,cricketkhabara.com,keralavoter.com,newstm.in,upuklive.com,uttarakhandpost.com##.advertismentRow
+anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
 dainiksylhet.com##.advsingle
@@ -2131,8 +2131,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3357,6 +3357,7 @@ bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
+bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |))
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
