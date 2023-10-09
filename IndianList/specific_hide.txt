@@ -976,6 +976,7 @@ outlookhindi.com##.ad_unit_728x90
 corporatenepal.com,merofilm.com##.adalytics_ad
 farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
 prabhatvaibhav.com##.adbar-area--
+dainikvishwamitra.com##.adbnr
 bharatdarshannews.com##.adbo
 anandabazar.com,beanibazarnews24.com,lohagaranews24.com,radiokanchan.com.np,thebharatnews.net##.adbox
 onlinedabali.com##.adbx img
@@ -2131,8 +2132,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
