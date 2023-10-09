@@ -158,7 +158,7 @@ tamilcnn.lk###big-banner
 bankingsansar.com###bigyapan-top
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
-londonbdnews24.com,mycitydilse.com,paridarshaka.com,prameyanews7.com,tamizhdb.com,thenewsmirchi.com###block-10
+londonbdnews24.com,paridarshaka.com,prameyanews7.com,tamizhdb.com,thenewsmirchi.com###block-10
 sirsonews24.com###block-100
 aajkijandhara.com,magahinews.com,paridarshaka.com###block-11
 asomkhobor.com,paryavaranpost.com###block-12
@@ -1448,7 +1448,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,rni.news,udaybulletin.com##.container-bn
+aajtakmedia.net,mycitydilse.com,rni.news,udaybulletin.com##.container-bn
 koshionline.com##.container-fluid.pt-3
 newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
@@ -2131,8 +2131,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
