@@ -2133,8 +2133,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2554,7 +2554,7 @@ dainikhindmitra.com##.td-a-rec:not([class*="tdi_127_"])
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
 nayabangla.com,southlive.in##.td-banner-bg
-cinemapressclub.com,dotooknews.com,irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
+cinemapressclub.com,dotooknews.com,irinjalakuda.com,kalakkalcinema.com,ucchakontha.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
 egoomedia.com##.td-fix-index > h4
 24ghonta.news,dailydeshkidharti.com##.td-fix-index img
