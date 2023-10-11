@@ -791,6 +791,7 @@ jubileepost.in,sehattimes.com###text-html-widget-8
 starvrutta.com###theme-my-login-4 ~ .widget_media_image
 europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
+damaulikhabar.com###tie-block_2253
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
@@ -2504,7 +2505,7 @@ bankalive.net,lovedevbhoomi.com,narsingdirbani.com##.stream-item-inline-post
 capitalvoice.in,eastcoastdaily.com,kadwaghut.com,kelanchaltimes.com,livequicknews.in,mbkhabar.com,natunbarta.com,nepaltvonline.com,thetimesofchhattisgarh.com,tismedia.in##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,rajdhanitimescg.in,tamilveedhi.com##.stream-item-top
 airanewsnetwork.com,bengallive.in,natunbarta.com,newschutney.com,newsnasha.com,pahar24.com,rudrakshnews.com,satyagrahnews.in,thetadkanews.com,tistanews24.com##.stream-item-top-wrapper
-aamaadmi.in,aapkimedia.com,akjnews.com,allindianews.me,apnahimachalapnishaan.in,asha.news,bastarflame.in,bundelkhandsamachar.com,chandinarsomoy.com,charotarnoavaj.com,crimejasoos.in,damaulikhabar.com,ehapuruday.com,glimeindianews.in,globalecampus.com,hamarahimachal.com,highwaychannel.in,hinditechy.com,hindsat.in,indiaprimenews.in,jantaconnect.com,keralabhooshanam.com,livequicknews.in,livereadernews.com,massnews.online,mbkhabar.com,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newslive24x7.com,newssow.com,panchagarhonline.com,pokharanews.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,rewariupdate.com,rig24.in,shekhawatilive.com,sonprabhat.live,telegramnews24.com,thehindkeshari.in,thepublicnews.live,thetadkanews.com,thetimesofchhattisgarh.com,vaanishreenews.com,vinayavani.com,voiceofmedia.lk,webmorcha.com,wegwannews.com##.stream-item-widget
+aamaadmi.in,aapkimedia.com,akjnews.com,allindianews.me,apnahimachalapnishaan.in,asha.news,bastarflame.in,bundelkhandsamachar.com,chandinarsomoy.com,charotarnoavaj.com,crimejasoos.in,ehapuruday.com,glimeindianews.in,globalecampus.com,hamarahimachal.com,highwaychannel.in,hinditechy.com,hindsat.in,indiaprimenews.in,jantaconnect.com,keralabhooshanam.com,livequicknews.in,livereadernews.com,massnews.online,mbkhabar.com,mpcgexpress.com,nationupdate.in,natunbarta.com,nayalook.com,newsd5.in,newslive24x7.com,newssow.com,panchagarhonline.com,pokharanews.com,prabudhajanata.online,pudhari.news,punjabbaani.com,punjabiakhbaar.ca,rewariupdate.com,rig24.in,shekhawatilive.com,sonprabhat.live,telegramnews24.com,thehindkeshari.in,thepublicnews.live,thetadkanews.com,thetimesofchhattisgarh.com,vaanishreenews.com,vinayavani.com,voiceofmedia.lk,webmorcha.com,wegwannews.com##.stream-item-widget
 aapabhitak.tv,abhitaknewsuk.in##.stream-item-widget-content
 airanewsnetwork.com##.stream-item-widget:not(#stream-item-widget-3)
 scgnews.in##.stream-item-widget:not(#stream-item-widget-5):not(#stream-item-widget-3)
