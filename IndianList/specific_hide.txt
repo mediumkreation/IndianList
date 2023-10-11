@@ -265,7 +265,7 @@ dnspnews.in###custom_html-169
 muznews.online,prompttimes.com,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,tejalgyannews.com,ujiarpurnews.com###custom_html-19
-amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,media24news.in,minoritiesnews.com,muthalvannews.com,newschutney.com,oktelugu.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,sbdnews24.com,tamilvoicenews.com,todayindia.com,vedsansar.com,webakhbar.in###custom_html-2
+amritvarshanews.in,apnuuttarakhand.com,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,channelindia.news,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,groundzeroenews.co.in,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,media24news.in,minoritiesnews.com,muthalvannews.com,navyugsandesh.com,newschutney.com,oktelugu.com,onlookersmedia.com,pragativahini.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,sbdnews24.com,tamilvoicenews.com,todayindia.com,vedsansar.com,webakhbar.in###custom_html-2
 ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
@@ -2135,8 +2135,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
