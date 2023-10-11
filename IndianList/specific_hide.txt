@@ -849,7 +849,7 @@ bharatdarshannews.com###wows31_0
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bharatdarshannews.com###wowslider-container3
-chamaktabharat.com,newsmalayalionline.com,rkhabar.com,samnanews.com,sbharatnews.com###wp-custom-header
+chamaktabharat.com,dainikathah.com,newsmalayalionline.com,rkhabar.com,samnanews.com,sbharatnews.com###wp-custom-header
 janaaastha.com###wr
 kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
@@ -2136,8 +2136,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
