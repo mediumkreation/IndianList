@@ -1792,6 +1792,7 @@ newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
 manoramaonline.com##.header-sponser-left
+nepalbritain.com##.header-top-details-right
 dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 talashbangla.com##.header__add
@@ -2134,8 +2135,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2871,7 +2872,7 @@ dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
-24webnews.com,36garhi.com,avikaluttarakhand.com,bharatsarathi.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,khabredinraat.com,nepalbritain.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,thetruths.in,upaajtak.com##.widget_block
+24webnews.com,36garhi.com,avikaluttarakhand.com,bharatsarathi.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,khabredinraat.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,thetruths.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 newszon.in##.widget_block:not(#block-10)
 agrtanews.com##.widget_block:not(#block-2)
