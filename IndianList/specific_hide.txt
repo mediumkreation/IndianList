@@ -184,6 +184,7 @@ wealthfreedomideas.com###block-28
 alertchhattisgarh.com,bundelkhandsamachar.com,checkpostnews.com,khabarindia24x7.com,lokswar.in,mobilenews24.com,newsnukkad.com,pahadkasach.in,tamizhdb.com,ujjawalprabhat.com###block-3
 wealthfreedomideas.com###block-30
 sahmatnews.com###block-31
+newsuniversal.in###block-34
 khabardarinews.com,thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
@@ -289,7 +290,7 @@ roddure.com###custom_html-53
 roddure.com###custom_html-54
 bidhannagartimes.com,bnanews24.com,cgctnews.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,f21news.com,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in,ujjwalduniya.com###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
-f21news.com,futurekerala.in,mynews36.com,newsuniversal.in,pangighatidanikapatrika.in,pradhanavartha.in,ujjwalduniya.com###custom_html-8
+f21news.com,futurekerala.in,mynews36.com,pangighatidanikapatrika.in,pradhanavartha.in,ujjwalduniya.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,sarhadkasakshi.com,satyaketansamachar.com,uttranews.com###custom_html-9
 pundrokotha.com.bd###descripton div[style*="url"]
 manithan.com###dfp_banner_header_panel + span
@@ -2031,7 +2032,7 @@ shasansandesh.in##.mg-headwidget .code-block
 himachalmedia.co##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
 rojdin.in##.mh-header-widget-2
-janjoshnews.in,newsuniversal.in,uniquesamay.com##.mh-sidebar .widget_media_image
+janjoshnews.in,uniquesamay.com##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
 samvetshikhar.com##.mid-adv-sec-bottom
@@ -2135,8 +2136,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
