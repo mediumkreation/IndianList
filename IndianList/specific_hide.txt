@@ -144,7 +144,6 @@ dhaka18.com###awaken_video_widget-4
 ntvtelugu.com###awt-left
 dailypunorutthan.com,dhakanews24.com###backgroundad
 hindinetnews.in,ilamai.com,sitakundabarta.com,upayuktha.com###banner
-dhakapost.com###banner-ad-top
 ekattor.tv###banner0
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
@@ -1111,7 +1110,7 @@ newscircle.in##.ads-2018
 natunsylhet24.com##.ads-bar
 iamgujarat.com,samayam.com##.ads-between-story
 bangladesherkhabor.net##.ads-center-mt
-thenepaltoday.com##.ads-container
+dhakapost.com,thenepaltoday.com##.ads-container
 madhyakesari.com##.ads-iframe
 ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
@@ -1188,7 +1187,7 @@ news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 bonikbarta.net,jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,dhakapost.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,gujaratabroad.ca,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 navrashtramedia.com,tamilankural.com##.advertisement-area
@@ -1455,6 +1454,7 @@ bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 aajtakmedia.net,mycitydilse.com,rni.news,udaybulletin.com##.container-bn
 koshionline.com##.container-fluid.pt-3
+dhakapost.com##.container-section.py-3
 newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
 sunamganjerkhobor.com##.container_fluid.bgColor2
@@ -2246,7 +2246,6 @@ sunamganjerkhobor.com##.py-3
 brightpost.in##.quads-ad-label
 yesnewsmarathi.com##.quads-location
 rajnitiprotidin.com##.qvzk
-dhakapost.com##.ramadan-box
 hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 healthaawaj.com,hetaudakhabar.com##.rd-between-ads
@@ -3434,6 +3433,7 @@ banglamail.news##div[class*="banner"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
+dhakapost.com##div[class*="h-[250px]"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 telugu.filmibeat.com##div[class*="kan-ad"]
 jhabuanews.in##div[class*="kitsune-advert"]
