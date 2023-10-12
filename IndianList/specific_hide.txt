@@ -1087,6 +1087,7 @@ avikaluttarakhand.com##.addtoany_content_bottom ~ div img
 snn24.com##.addtop_header
 jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
+newscircle.in##.addver > ul:only-child
 agrinewsnetwork.in##.ader_ads
 thekeralapost.com##.adert-cnter-mdlif
 bdnewsclub.com,nitharsanam.net##.adflexbox
