@@ -2138,8 +2138,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3693,6 +3693,7 @@ filmybuzz.com#?#.container-fluid div:-abp-has(> h2:-abp-contains(Ads))
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 capitallivenews.com##footer ~ ul.images
 garavigujarat.biz#?#.wpb_raw_html:-abp-has(.adsbymahimeta)
+gossiplanka.com#?#.HTML:-abp-has(.title:-abp-contains(Advertisement))
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg)"]
