@@ -1915,6 +1915,7 @@ alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
+dharananews.com##.jeg_ad
 sorejominbarta.com##.jeg_main .elementor-widget-image
 techzoom.tv##.jeg_main_content .wpb_widgetised_column
 citynewsgiridih.com##.jeg_midbar
@@ -1972,7 +1973,7 @@ dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
 hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
-aayokhabar.com,arthakoartha.com,dharananews.com##.long-ad
+aayokhabar.com,arthakoartha.com##.long-ad
 ebrightnepal.com,sudurpatra.com##.long-ads
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
