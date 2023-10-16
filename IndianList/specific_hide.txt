@@ -353,6 +353,7 @@ barciknews.com###id-widget-advertisements-4
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
+indiadhuandhar.in###india-slider-227
 jamuna.tv###infostation-0-0
 rtvonline.com###infostation-0-0 iframe
 tamilcinemaz.com###itro_opaco
@@ -1590,7 +1591,7 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 punjabvarta.com##.elementor-widget-shortcode + .elementor-widget-image
-ambalacoverage.com,banglasangbad24.com##.elementor-widget-shortcode img
+ambalacoverage.com,banglasangbad24.com,indiadhuandhar.in##.elementor-widget-shortcode img
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
@@ -2138,8 +2139,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
