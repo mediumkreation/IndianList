@@ -164,7 +164,7 @@ aajkijandhara.com,nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 peptechtime.com###block-142
 khabardarinews.com###block-15
-smartindiadial.com,telugumalli.com###block-16
+sajhamanch.com,smartindiadial.com,telugumalli.com###block-16
 ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
 khabarok.com###block-18
@@ -2081,7 +2081,7 @@ sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
-aamsanchar.com##.my-2
+aamsanchar.com,sajhamanch.com##.my-2
 corporatenews.com.bd##.my-3 img
 patrika.com##.my-4[style*="min-height"]
 mzamin.com##.my-5.justify-content-center
@@ -2727,7 +2727,6 @@ bigkhabar.com##.top-add
 thereport24.com##.top-add-left4
 aperata.net##.top-ads-block
 manoramanews.com##.top-advt
-sajhamanch.com##.top-area iframe
 sangbadprotidin.com##.top-banner
 thekeralapost.com##.top-banner-advert
 jamalpurlive.com##.top-bar
@@ -3164,7 +3163,6 @@ yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
 lankasri.com##a[href*="/adpage"]
-sajhamanch.com##a[href*="/ads/"]
 uttranews.com##a[href*="/hayat/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
 attachowk.com##a[href*="?advert="]
