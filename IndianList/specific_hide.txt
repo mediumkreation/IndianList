@@ -2143,8 +2143,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3552,7 +3552,7 @@ anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+
 keralavoter.com##div[id^="AS_O_LHS_"] > div:nth-child(n+21)
 dalhousiehulchul.com##div[id^="AS_O_LHS_"] > div:nth-child(n+31)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
-realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
+rajasthankhabre.com,realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
 rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+6)
 newzfast.com,toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(n+16)
@@ -3847,6 +3847,7 @@ pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
 prothomalo.com#?#div:-abp-has(> .widget-or-advertisement)
 prothomalo.com#?#div:-abp-has(> iframe[title*="title"])
+rajasthankhabre.com.mostreadiframe[title~="ad"]
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 news18.com#?##right div:-abp-has(> div.nw18-dfp-ad)
 rochakkhabare.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
