@@ -1447,7 +1447,6 @@ khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,cinereporters.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
-capitalnepal.com##.comon-ads
 sharebazarnews.com##.company-ads
 samadhannews.com,samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
@@ -1728,7 +1727,7 @@ rastriyakhabar.com##.full-ads-wrapper
 samadhannews.com##.full-bann
 dcnepal.com,safalkhabar.com##.full-banner
 nepalsamaya.com##.full-bigyaapan
-baahrakhari.com,khelpati.com,sajhapost.com##.full-bigyapan
+baahrakhari.com,capitalnepal.com,khelpati.com,sajhapost.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
 hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com##.full_ad_section
@@ -1908,7 +1907,7 @@ jagonews24.com##.inner_ad_item
 bholabani.com##.innerad2
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
-setokhari.com##.insert-ad
+capitalnepal.com,setokhari.com##.insert-ad
 janjwar.com##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
 newzfast.com##.intes_fixed
@@ -2144,8 +2143,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
