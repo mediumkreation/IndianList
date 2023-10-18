@@ -77,6 +77,7 @@
 /adver$domain=uppatrika.com
 /advert/*$domain=mzamin.com
 /advertiesment/*$domain=theendnews.com
+/advertise/*$domain=kapurinews.com
 /advertisement/*$domain=360malayalam.com|agaminews.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
@@ -152,6 +153,7 @@
 @@||jogsanjogtimes.com/banner/1445259611B0041-52A0-4432-A379-A273EF51EB69.jpeg
 @@||jogsanjogtimes.com/banner/4856255068DF20-DF15-4610-AF62-014BCB780684.jpeg
 @@||kalikanews.com/uploads/bigyaapan/32338500.png
+@@||kapurinews.com/uploads/advertise/324799624_1305148430327950_1217548921347564525_n_1679809920.jpg
 @@||keralasabdam.in/assets/advertisement/WhatsApp%20Image%202023-03-29%20at%2012.25.00%20PM(1)74.jpeg
 @@||khabarmukam.com/images/advertisement/1694522411-Bidhytut.PNG
 @@||lakshmipur71.com/uploads/ad_image/PicsArt_11-16-08_58_412.jpg
