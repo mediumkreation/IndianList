@@ -2143,8 +2143,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3046,6 +3046,7 @@ reportsindia.in##.wp-image-62663
 news4himachal.com##.wp-image-643
 dailyajkertalash.com##.wp-image-6674
 dainikkhojkhabar.live##.wp-image-68028
+antarkatha.com##.wp-image-68549
 republicadainik.com##.wp-image-70951
 reportsindia.in##.wp-image-71118
 reportsindia.in##.wp-image-71139
