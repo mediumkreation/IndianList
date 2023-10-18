@@ -1919,7 +1919,7 @@ alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
-dharananews.com##.jeg_ad
+dharananews.com,sanjaygram.com##.jeg_ad
 sorejominbarta.com##.jeg_main .elementor-widget-image
 techzoom.tv##.jeg_main_content .wpb_widgetised_column
 citynewsgiridih.com##.jeg_midbar
@@ -2144,8 +2144,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
