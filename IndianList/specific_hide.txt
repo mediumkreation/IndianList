@@ -1499,6 +1499,7 @@ biharivoice.com,divyahimachal.com##.customad
 banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv##.d-flex
+protidinerchitrobd.com##.d-flex > div[style*="height: 130px"]
 chandpursangbad.com##.d-print-none
 mzamin.com##.d-sm-flex
 mzamin.com##.d-sm-none.d-block:not([class^="co"])
@@ -2140,8 +2141,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3942,8 +3943,8 @@ unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(adver
 upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-contains(Ad |))
 uthayannews.ca#?#.widget_text:-abp-has(.widget-title > span:-abp-contains(Advertising))
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
-utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div h3 + p )
+utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(div-gpt-ad > div > div > a> div *:-abp-contains(Ad:) )
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
 visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
