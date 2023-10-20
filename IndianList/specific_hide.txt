@@ -927,7 +927,7 @@ sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
-chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,pratyeknewslive.com##.ad--space
+chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,panpadu.com,pratyeknewslive.com##.ad--space
 pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 ajmernama.com##.ad-ajmernama
