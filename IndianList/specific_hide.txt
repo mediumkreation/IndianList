@@ -1749,6 +1749,7 @@ emailkhabar.com,khullamanch.com,nawalpurtimes.com##.gam-each-ad
 nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 bethanchokkhabar.com,nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
+24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
 ourbiratnagar.net,rajdhanidaily.com##.gofollow
@@ -2141,8 +2142,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
