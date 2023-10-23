@@ -1390,7 +1390,7 @@ himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 munaadi.com##.card-body > center > img
 lanka4.com##.card.text-center
-aloavanews24.com,cgwebnews.in,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
+aloavanews24.com,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
 eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
@@ -2144,8 +2144,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3382,6 +3382,7 @@ yarldevinews.net##center > img[style="margin-top:20px;"]
 nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
+cgwebnews.in#?#.pt-4:-abp-has(> .carousel)
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
 chatonay71news.com#?#.widget_recent_entries:-abp-contains(ads)
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
