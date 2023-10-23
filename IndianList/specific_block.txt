@@ -201,7 +201,6 @@ _AD_GIF$domain=kahalenews.com
 _add-$domain=pba.agency
 _add.gif|$domain=malayalamtodayonline.com
 _add.jpg|$domain=gourbarta24.com|paryabekhyak.com
-_add.jpg|*$domain=medicallife.in
 _add.png|$domain=dcnewsbd.com
 _Ads.gif|$domain=deshbarta.news
 _ADS.gif|$domain=focusmohona.com
@@ -2320,9 +2319,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||mediavisionnews.in/wp-content/uploads/2018/10/red-club-neww
 ||mediavisionnews.in/wp-content/uploads/2019/12/champion-sports-web-3
 ||mediavisionnews.in/wp-content/uploads/2019/12/kuzhi-mandi-web
-||medicallife.in/webdata/amritdeep.com/media/1644901459q.JPG
-||medicallife.in/webdata/medicallife.in/media/1632563468q.JPG
-||medicallife.in/webdata/medicallife.in/media/1636693838q.JPG
 ||meelparvai.net^*/Payanam-
 ||meelparvai.net^*/Vaiharai-
 ||megaportal.in/uploads/1_1641666138.jpg$domain=newsagencyindia.com
