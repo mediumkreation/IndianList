@@ -2817,6 +2817,7 @@ amaderkhulna.net,netmalayalam.com##.vc_slide
 gionews.in##.vc_widget_sidebar
 sachetonbarta.com.bd##.vc_widget_sidebar .td-a-rec
 beautynewsnepal.com##.vce-blank-module:not(#main-box-12)
+velsmedia.com##.velsm-content
 dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
 indianewscentre.in##.video-container
