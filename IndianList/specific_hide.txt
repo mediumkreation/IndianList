@@ -2632,7 +2632,7 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,lakfmnews.lk,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,lakfmnews.lk,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 akkbd.com##.td_block_single_image:not([data-td-block-uid="tdi_30"])
@@ -2812,7 +2812,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
-bangladeshmail.news,dailyceylon.lk,malayalimanasu.com,ournews24.com,politicsnews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
+bangladeshmail.news,dailyceylon.lk,malayalimanasu.com,ournews24.com,politicsnews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com,yespunjab.com##.vc_raw_html
 ctgnews.com##.vc_raw_html a[target="_blank"]
 postmanindia.in##.vc_raw_html iframe
 coastal-mirror.com##.vc_raw_html img
@@ -3174,7 +3174,6 @@ ajkerbazzar.com##a[data-amads-id]:not([href*="ajkerbazzar.com"])
 uttranews.com##a[href*="-advt-"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 divaina.lk##a[href*=".daraz.lk"] img
-yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
 lankasri.com##a[href*="/adpage"]
@@ -3182,7 +3181,6 @@ uttranews.com##a[href*="/hayat/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
 attachowk.com##a[href*="?advert="]
 somoynews.tv##a[href*="?ref="]
-yespunjab.com##a[href*="Amarinder-Madan-Lal-Dhingra-Ad-English"]
 bartabangla.com##a[href*="BandhoB"]
 divaina.lk##a[href*="CrystalSoapLK"]
 gramajyothi.com##a[href*="SeemasEdappally"]
@@ -3311,7 +3309,6 @@ indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Fei
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 haryanaekhabar.com##a[rel*="sponsored"]
 dhadingnews.com##a[rel*="wp-att"]
-yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
 sylheterjanapad.tv##a[target="_blank"] > img
 aarthiknews.com,abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 hollywoodkhabar.com##a[target="_blank"] img:not([src*="Screenshot_2022-11-22_at_10_43_32_PM.png"])
