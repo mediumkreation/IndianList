@@ -282,7 +282,7 @@ gondwanaexpress.com,saakshatv.com###custom_html-39
 24timestoday.com,amanyatralive.com,apnahimachalapnishaan.in,hindirush.com,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabarwarrior.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 gondwanaexpress.com###custom_html-40
 jaunpurlivenews.in###custom_html-43
-247superfast.com,asrilanka.com,bdcrictime.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com###custom_html-5
+247superfast.com,asrilanka.com,bdcrictime.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com,theriyuma.com###custom_html-5
 hindi-news-today.com###custom_html-51
 roddure.com###custom_html-53
 roddure.com###custom_html-54
@@ -916,7 +916,7 @@ keralakaumudi.com##.a-728-90
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com##.a-widget
-dailysamvad.com,himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,thenetizennews.com##.a-wrap
+dailysamvad.com,himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,thenetizennews.com,theriyuma.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -2149,8 +2149,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2467,7 +2467,7 @@ rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
-inews.zoombangla.com,kannadanewsnow.com##.smartmag-widget-codes
+inews.zoombangla.com,kannadanewsnow.com,theriyuma.com##.smartmag-widget-codes
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 dinajpurnews24.com##.software
