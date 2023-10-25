@@ -939,7 +939,7 @@ awaaz24x7.com,awamileaguetimes.com,lokaantar.com##.ad-banner
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
-news18.com,saralpatrika.com##.ad-container
+dainikshiksha.com,news18.com,saralpatrika.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
 business-standard.com##.ad-height-desktop
 newsroomme.com##.ad-img
@@ -2152,8 +2152,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2208,6 +2208,7 @@ jamalpurlive.com##.popbox
 dhangadhikhabar.com##.popover-ad
 bharatiyadigitalnews.in##.popup
 bonikbarta.net##.popupCloseButton
+dainikshiksha.com##.popupad
 apnamzn.com##.portlet-journal-content
 thenewsqube.com##.pos
 dailydhaka24.com##.pos-index img
