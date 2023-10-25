@@ -148,8 +148,6 @@
 @@||images.merolagani.com//content/bigyapan/3614f561-42c2-429f-8424-d0a8d10bfb56.gif
 @@||images.merolagani.com//content/bigyapan/53f9e1f4-59de-4cd5-9ae0-c98a139a0068.gif
 @@||img.setopaty.com/uploads/bigyaapan/1582009187.jpg
-@@||imgur.com^0xhs9wf.png|$domain=news71online.com
-@@||imgur.com^rIebk7K.jpg|$domain=news71online.com
 @@||jogsanjogtimes.com/banner/1445259611B0041-52A0-4432-A379-A273EF51EB69.jpeg
 @@||jogsanjogtimes.com/banner/4856255068DF20-DF15-4610-AF62-014BCB780684.jpeg
 @@||kalikanews.com/uploads/bigyaapan/32338500.png
@@ -1690,7 +1688,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
 ||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
-||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|news71online.com|wowsansar.com
+||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
 ||inayam.com/upload/news/8301239_1642034724-b.jpg
 ||inbcn.in/admin/view/upload/btp.jpg
