@@ -3024,6 +3024,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||pba.agency^*/lpg-ads-final.jpg
 ||pba.agency^*/Sky-Wagon.jpg
 ||pbd.news/assets/gallery/shahbagh/300x250%20(2).jpg
+||pbd.news/templates/web-v1/images/video-ad/basundhara.mp4
 ||pbd.news^*/Ads/
 ||pbknews.com/wp-content/uploads/2022/11/ad-banner1.jpg
 ||pchelpcenterbd.com^*/domain-hosting.png
@@ -3077,7 +3078,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||postmanindia.in/wp-content/uploads/2021/04/rec300.png
 ||pothujanam.com/images/banners/KARIKKAKOM_ADV_
 ||ppbd.news/assets/gallery/nondini/300%20x%20250.gif
-||ppbd.news^*/Ads/
 ||pplnews.in/wp-content/uploads/2020/07/PPL-News-4.png
 ||prabhatkhabar.com^*/kashmir_vastraylaya.gif
 ||prabhatmantra.com/admin/Ishtehaar/
