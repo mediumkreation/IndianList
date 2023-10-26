@@ -3094,7 +3094,7 @@ nammabantwala.com##.wp-video
 bangladeshmail.news##.wp-widget-group__inner-blocks
 arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
+bholanews.com,channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
