@@ -1192,7 +1192,7 @@ nepalmamila.com##.advertiseImage
 sylhetbarta24.com##.advertise_image
 news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
-bonikbarta.net,jamalpurlive.com##.advertise_space2
+jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
 apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
@@ -2154,8 +2154,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2274,6 +2274,7 @@ vaaramanjari.lk##.region-banner
 anytechtune.com##.reseller-add
 manoranjannama.com##.rhs-cont
 thekeralapost.com##.rht-ad-position
+bonikbarta.net##.rib__wrapper
 pakwangali.in##.right-add
 dailysabuj.com##.right-add-container
 newsdnntv.com,samaylive.com##.right-banner
@@ -3494,7 +3495,6 @@ dailyjonomot.com,theholytimes.com##div[class^="add_"]
 sunaulonepal.com##div[class^="ads"]
 campuslive24.com##div[class^="ads_"]
 thekeralapost.com##div[class^="advert-"]
-bonikbarta.net##div[class^="advertise_space"]
 ajabgjab.com##div[class^="ajabg-"]
 udayavani.com##div[class^="amp_Ad"]
 bdtimesnews.com##div[class^="angwp_"]
