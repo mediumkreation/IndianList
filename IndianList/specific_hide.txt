@@ -1463,6 +1463,7 @@ hamrosandesh.com##.container-ad
 aajtakmedia.net,mycitydilse.com,rni.news,udaybulletin.com##.container-bn
 koshionline.com##.container-fluid.pt-3
 dhakapost.com##.container-section.py-3
+vaaramanjari.lk##.container-single-page .elementor-widget-image
 newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
 sunamganjerkhobor.com##.container_fluid.bgColor2
@@ -2156,8 +2157,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2272,7 +2273,6 @@ jhilko.com##.rd-ads img:not(.wp-image-2735)
 healthaawaj.com,hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
-vaaramanjari.lk##.region-banner
 anytechtune.com##.reseller-add
 manoranjannama.com##.rhs-cont
 thekeralapost.com##.rht-ad-position
