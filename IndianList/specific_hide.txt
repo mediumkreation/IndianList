@@ -26,7 +26,7 @@ ekumaon.com###HTML23
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
-36kaakda.in,battinews.com,cnblive.com,insightchhattisgarh.in,kanaighatnews.com,kushiyaranews.com,thattungal.com,ukliveuttrakhand.com###HTML3
+36kaakda.in,battinews.com,cnblive.com,insightchhattisgarh.in,kanaighatnews.com,kushiyaranews.com,punalurnews.com,thattungal.com,ukliveuttrakhand.com###HTML3
 gramsamachar.com,jaldhakanews.com,vbnews24.com###HTML30
 99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,eluvannews.com,kanaighatnews.com,kolhapurlive.in,malwalive.com,media24media.com,nbcbangla.com###HTML4
@@ -1125,6 +1125,7 @@ loksattanews.co.in##.ads-slider-widget
 hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
 udayavani.com##.ads-white-blk
+punalurnews.com##.ads-widget-sec
 dailyolamakantho.com,nationalpresstimes.com,welcomeindianews.com##.ads160_600-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
