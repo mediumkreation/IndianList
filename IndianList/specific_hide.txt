@@ -1950,6 +1950,7 @@ khabarpahad.com##.khaba-widget
 khabarhub.com##.khabarhub-inner-ads
 khulasanewslive.in##.khulasanewslivewidget
 parchhayin.com##.kopa-adv-widget
+timesofadventure.com##.kopa-banner-300
 koyilandydiary.com##.koyil-widget
 joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
@@ -2155,8 +2156,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
