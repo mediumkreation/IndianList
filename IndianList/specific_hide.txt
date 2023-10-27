@@ -2154,8 +2154,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2609,7 +2609,7 @@ janmatexpress.in##.td-pb-span12 .td-a-rec-id-custom-spot
 prabhattimes.com##.td-post-content .aligncenter
 prabhattimes.com##.td-post-content .alignleft
 saamana.com##.td-post-content .code-block
-hamdardtv.com##.td-post-content .td-a-rec
+hamdardtv.com,prajapragathi.com##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 vavuniyanet.com##.td-post-content > div[style^="clear"]
 keralabreaking.com,uktez.com##.td-post-content > p img
