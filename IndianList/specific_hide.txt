@@ -1274,7 +1274,6 @@ kahalenews.com##.banner-ad-wrap
 24hnbc.com##.banner-add
 sansanisurag.com##.banner-adver
 bizmandu.com##.banner-bigyapan
-hamrokhelkud.com##.banner-click-action img:not([src*="Fantasy.jpg"])
 musicjoymedia.com##.banner-half
 aapkaparyas.in,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,madhyabindu.com,newsportals.in,onstimes.com,tatviknews.com##.banner-img
@@ -1535,6 +1534,7 @@ natunsylhet24.com##.details-sidebar > .row.justify-content-center
 ejanshakti.com##.dgw
 dhadingupdate.com##.dhadi-content_2
 dailyfaridgonj.com##.digital-newspaper-advertisement-block
+hamrokhelkud.com##.display
 biniyogbarta.com##.divAdvertisement
 business-standard.com##.div[id^="between_article_content"]
 ukmalayalampathram.com##.div_ad_rgt
@@ -2154,8 +2154,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2754,6 +2754,7 @@ ukmalayalampathram.com##.top-flash
 nobat.com##.top-hda
 samvetshikhar.com##.top-head-hori-adv
 musickhabar.com##.top-header .add-bottom-margin
+hamrokhelkud.com##.top-income-source-wrapper
 lionexpress.in##.top-left-add
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
