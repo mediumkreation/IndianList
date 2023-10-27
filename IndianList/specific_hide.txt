@@ -924,7 +924,7 @@ aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,newsclickbd.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,sunamganjerkhobor.com,swalenewsbank.com##.ad
+akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,newsclickbd.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,sunamganjerkhobor.com,swalenewsbank.com##.ad
 cialive.in##.ad .carousel
 sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
