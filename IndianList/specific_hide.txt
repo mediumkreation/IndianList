@@ -213,6 +213,7 @@ dailyamadercomilla.com###bottomadothers
 paristamil.com###box
 malayalamtodayonline.com###boxes
 ajkalerkontho.com###bunyad_ads_widget-3
+satv.tv###bunyad_ads_widget-9 > .widget-title
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
 al-ihsan.net###carousel
@@ -917,7 +918,7 @@ keralakaumudi.com##.a-728-90
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com##.a-widget
-dailysamvad.com,himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,thenetizennews.com,theriyuma.com##.a-wrap
+dailysamvad.com,himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,satv.tv,thenetizennews.com,theriyuma.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -2156,8 +2157,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
