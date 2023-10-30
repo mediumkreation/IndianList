@@ -2211,6 +2211,7 @@ rtvonline.com##.point-table-container a[href*="MamaNoodles_"]
 eimuhurte.com##.popUPBox
 jamalpurlive.com##.popbox
 dhangadhikhabar.com##.popover-ad
+ranchiexpress.com##.popular-section.pt-50
 bharatiyadigitalnews.in##.popup
 bonikbarta.net##.popupCloseButton
 dainikshiksha.com##.popupad
