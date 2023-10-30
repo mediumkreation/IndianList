@@ -730,7 +730,6 @@ abhibharat.com,akkinikkunchu.com,anaicoddai.com,attachowk.com,bihar.express,bino
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
 anytechtune.com,fastlivenews.com,roopcare.com###text-21
-coxsbazarnews.com###text-216
 dainiksatkhira.com###text-22
 divyalive.com,tnilive.com###text-23
 achhisoch.com,apnades.in,sachkahoon.com,tnilive.com###text-24
@@ -2157,8 +2156,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
