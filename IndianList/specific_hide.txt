@@ -8,9 +8,9 @@ metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 actionnews.in,adrasaka.com,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
-chilahatiweb.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
+bhopalsamachar.com,chilahatiweb.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
-99samacharexpress.in,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
+99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
 dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
@@ -38,7 +38,7 @@ dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.c
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 kasargodvartha.com###HTML92
-99samacharexpress.in,bhopalsamachar.com,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,pinkcitynews.in,probashbd.news,shaharaman.com,siyanenews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
+99samacharexpress.in,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,pinkcitynews.in,probashbd.news,shaharaman.com,siyanenews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,gidhaur.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
 poonththalir.blogspot.com###Image119
@@ -343,6 +343,7 @@ livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
+bhopalsamachar.com###home-ads
 samudrapari.com###home-top-sidebar
 apkhabar.com,radiobihani.org###homeads
 thedailycampus.com###homepageTopLeader_2
@@ -2158,8 +2159,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
