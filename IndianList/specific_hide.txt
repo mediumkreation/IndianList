@@ -1017,7 +1017,7 @@ ekhansangbad.com,sambadsaradin.com##.add-image
 dainikagnipath.com##.add-img
 dainiknarsingdi.com,diptonews24.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com,teknaf71.com##.add-imgae
 colorsnewslive.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
-vachakam.com##.add-item
+dinajpur24.com,vachakam.com##.add-item
 vishvasnews.com##.add-large-box
 24updatenews.com,u71news.com##.add-left
 dailysabuj.com##.add-longhead
@@ -1025,7 +1025,7 @@ bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
 evartha.in##.add-row
 dainiktribuneonline.com,paschimtoday.com,thebengalitimes.com##.add-sec
-malisamajsocial.com,muktirlorai.com,thebengalitimes.com,virakesari.lk##.add-section
+dinajpur24.com,malisamajsocial.com,muktirlorai.com,thebengalitimes.com,virakesari.lk##.add-section
 khabarwaale.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
@@ -1804,6 +1804,7 @@ budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
 firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
+dinajpur24.com##.header-promo
 alochitokantho.com.bd##.header-promotion
 a2zsamachar.com,azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,malayalamnewstimes.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,theprobashi.com##.header-right
 headline24x7.com,khabarduniya.com,mp1news.com##.header-right-adv
@@ -3771,6 +3772,7 @@ makdaiexpress24.com##img[alt="Shree sai"]
 makdaiexpress24.com##img[alt="Shreegrah"]
 eyenewsbd.com##img[alt="ad image"]
 farakdhar.com,groundzeroenews.co.in,knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
+dinajpur24.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
 khabarwaale.com##img[alt="add"]
