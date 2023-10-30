@@ -2208,6 +2208,7 @@ knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 business-standard.com##.podcastads
+rtvonline.com##.point-table-container a[href*="MamaNoodles_"]
 eimuhurte.com##.popUPBox
 jamalpurlive.com##.popbox
 dhangadhikhabar.com##.popover-ad
