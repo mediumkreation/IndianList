@@ -244,6 +244,7 @@ celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 giridihupdates.com###content section.widget_text[id^="text-1"]
+dailykaratoa.com###content-p > .row
 sylhetview24.net###content_add
 latestlaws.com###cookieModal
 haryananewsexpress.com###covernews_posts_carousel-7
@@ -941,7 +942,7 @@ awaaz24x7.com,awamileaguetimes.com,lokaantar.com##.ad-banner
 ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
-dainikshiksha.com,news18.com,saralpatrika.com##.ad-container
+dailykaratoa.com,dainikshiksha.com,news18.com,saralpatrika.com##.ad-container
 mediaoneonline.com##.ad-gap-sm
 business-standard.com##.ad-height-desktop
 newsroomme.com##.ad-img
@@ -3260,6 +3261,7 @@ jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
 gramajyothi.com##a[href*="kalyansilks.com"]
 divaina.lk##a[href*="kandos.lk"]
+dailykaratoa.com##a[href*="karatoacourierservice.com"]
 kvartha.com##a[href*="kasargodvartha.com"]
 sharebazarnews.com##a[href*="kidarkar.com"]
 malayalees.ch##a[href*="kidoovacations.com"]
