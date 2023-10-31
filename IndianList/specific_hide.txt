@@ -909,7 +909,7 @@ dinamalar.com##.Seladv
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
 kamadenu.hindutamil.in##.Stickyads
-hindi.news18.com##.TABOOLA
+hindi.news18.com,punjab.news18.com##.TABOOLA
 citynewsexpress.com##.Tollywood-indx
 tamil.oneindia.com##._adr_abp_container
 amarbanglabd.com##._df_custom
@@ -1061,6 +1061,7 @@ fenitribune.com##.add_area > .textwidget
 voiceofnewjersey.com##.add_area img
 allnewsbharat.com,emstv.in,n7india.com,provatnews.com##.add_banner
 gtamilnews.com##.add_block_hdefault
+punjab.news18.com##.add_container
 ridoyachandpur.com##.add_content
 rosemalayalam.com##.add_image_ryt
 rosemalayalam.com##.add_img_left
@@ -2126,6 +2127,7 @@ cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
 nepalijanta.com##.nepalijanta-ad
 citynewsdhaka.com##.new-international-right
+punjab.news18.com##.newadd
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 maharashtratimes.com##.news-advertorial
