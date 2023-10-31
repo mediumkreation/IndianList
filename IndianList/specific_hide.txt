@@ -704,7 +704,7 @@ bestnow.in,hnn24x7.com###stream-item-widget-5
 solantoday.com###sub-footer .widget_media_image
 alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
-sylheterdak.com.bd,sylhetview24.net###sv_gad_left
+dainiksylhet.com,sylheterdak.com.bd,sylhetview24.net###sv_gad_left
 swarajnewstoday.com###sync3
 dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
 telugu.regnews.in###tdi_101
@@ -1155,7 +1155,7 @@ dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
-aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,cg24news.in,dainiksylhet.com,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,uttamhindu.com,weeklynepal.com##.adv
+aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,cg24news.in,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com,sonalinews.com##.adv-img
 ratopati.com##.adv-item
@@ -1213,7 +1213,6 @@ bdipo.com##.advertisements
 anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
-dainiksylhet.com##.advsingle
 news19tv.com,parthokko.com.bd##.advt-col
 sangbadpratidin.in##.advt-text1
 indiaspeaks.news##.advt-widget
@@ -3418,6 +3417,7 @@ dailybahadur.com#?#.textwidget:-abp-has(> p > ins.adsbygoogle)
 dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 dailypurbodesh.com#?#.wpb_wrapper > p:-abp-has(> ins.adsbygoogle)
 dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
+dainiksylhet.com#?#.textwidget > p:-abp-has(ins.adsbygoogle)
 dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 deshkikhabar.in#?#span:-abp-contains(Advertisement)
