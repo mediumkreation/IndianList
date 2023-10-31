@@ -1357,8 +1357,8 @@ livekhagaria.in##.blocks-gallery-item
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
 jvpnews.com##.blurb img
-aajbangla.in,aankhennews24.com,bhadainimirror.com,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,ekaainabharat.com,fesn.in,jagrantimesnews.com,kirandoot.com,lokjannews.com,nattuvartha.news,sangritimes.com,sirajganjexpress.com,threesocieties.com##.bn-lg
-aajbangla.in,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,fesn.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,just36news.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
+aajbangla.in,aankhennews24.com,bhadainimirror.com,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,ekaainabharat.com,fesn.in,jagrantimesnews.com,kirandoot.com,lokjannews.com,nattuvartha.news,prativad.com,sangritimes.com,sirajganjexpress.com,threesocieties.com##.bn-lg
+aajbangla.in,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,fesn.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,jagrantimesnews.com,janajeevala.com,just36news.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,prativad.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 aankhennews24.com##.bn-md
 britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
@@ -1782,6 +1782,7 @@ alivenews.co.in##.head-main-ad
 vgnews.in##.headAdExBlock
 moonamvazhi.com##.headRightAdv
 alokitosonargaon.com##.head_bottom_add
+prativad.com##.header .banner
 mbpratidin.com##.header .mom-e3lanat
 bdcrimenews.com##.header .pull-right
 kairalynews.com##.header .slide_img
@@ -2160,8 +2161,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
