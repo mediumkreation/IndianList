@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: IndianList Specific_hide
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
 livebihar24news.com###AD_FLOAT
 eelamtimes.com###AutoNumber1
 bdipo.com###BDIPO_ad_id

@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: IndianList AdServers
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
 ||admana.net$third-party
 ||admitad.com^$third-party,domain=hellonepalkorea.com
 ||ads2publish.com^$third-party

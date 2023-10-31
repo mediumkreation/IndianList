@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: IndianList Specific_block
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
 -1024x1024.jpeg|$domain=muzaffarpurnow.in|muznow.in
 -1024x256$domain=dailyfenchugonj.com
 -500x300$domain=khojinews.co.in
