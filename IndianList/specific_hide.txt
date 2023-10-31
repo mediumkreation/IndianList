@@ -497,6 +497,7 @@ rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
 bhilwarahalchal.com,kathmandupati.com###myModal
 ada.lk,lankadeepa.lk###myModal1
+dailynayadiganta.com###myVideo
 newsuperbharat.com###myVideo1
 payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
@@ -2161,8 +2162,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
