@@ -1007,6 +1007,7 @@ dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 dailydishari.com##.add img:not([src*="Dainik-Dishari-"])
 kopotakkhotimes.com##.add p img
 motivatenews.com.np,pokharapatra.com.np,sancharkendra.com##.add-2
+gujaratimidday.com##.add-300x250
 talashbangla.com##.add-area
 newsatfirst.com##.add-banner
 voiceofnewjersey.com##.add-bar
@@ -2283,6 +2284,7 @@ hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
 anytechtune.com##.reseller-add
 manoranjannama.com##.rhs-cont
+gujaratimidday.com##.rhsTopBannerParentAd
 thekeralapost.com##.rht-ad-position
 bonikbarta.net##.rib__wrapper
 pakwangali.in##.right-add
