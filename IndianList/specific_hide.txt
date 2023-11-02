@@ -158,7 +158,7 @@ malayaleepathram.com.au###black-studio-tinymce-67
 londonbdnews24.com,paridarshaka.com,prameyanews7.com,tamizhdb.com,thenewsmirchi.com###block-10
 sirsonews24.com###block-100
 aajkijandhara.com,magahinews.com,paridarshaka.com###block-11
-asomkhobor.com,paryavaranpost.com###block-12
+asomkhobor.com,paryavaranpost.com,sathiyam.tv###block-12
 aajkijandhara.com,nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 peptechtime.com###block-142
@@ -197,7 +197,7 @@ samrudhaodisha.com###block-62
 dgnews.co.in###block-69
 areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 cgtop36.com###block-71
-bharatpostlive.com,naanmedia.in,tamizhakam.com,wayanadnewsdaily.com###block-8
+bharatpostlive.com,naanmedia.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
 bharatjan.com,bundelkhandsamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 varthabharati.in###block-block-253--2
 varthabharati.in###block-block-263--2
