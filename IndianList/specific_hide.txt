@@ -2164,8 +2164,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2558,7 +2558,6 @@ chhaharinetwork.com##.subhakamana-ad
 suddidina.com##.suddi-after-content_13
 suddidina.com##.suddi-content_10
 awajnews.com##.supsystic-slider-wrapper
-ibctamil.com##.t-eds
 notebook.today##.t-out-span
 bangladeshglobal.com##.tab01 > .row
 adhunikdaur.com##.tab_265top_left
@@ -3294,6 +3293,7 @@ eelamalar.com##a[href*="puliveeram.wordpress.com"]
 alokitobogura.com,sangbaddinrat.com##a[href*="pustokbazar"]
 visarnews.com##a[href*="puthinamnews.com"]
 deepika.com##a[href*="redirectadvt.aspx?"]
+ibctamil.com##a[href*="reecha.lk"] img
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
 ourmyliddy.com##a[href*="rv-weddinghall"]
 seithy.com##a[href*="splads"]
