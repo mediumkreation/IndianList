@@ -1080,7 +1080,7 @@ onlinedabali.com##.addb > a img
 khabarpunja.com##.addbelow
 tirangaacindianews.com##.addbx
 motivatenews.com.np##.addc img
-osnepal.com##.addcomponent
+osnepal.com,osvevo.com##.addcomponent
 ajkercrimetimes.com,aznewsbd24.com,barishalsomoynews.com,dailyjuboraj.com,deshergarjan.net,mediadabali.com,natunbazar24.com,pirojpursomoy.com,shahnamabd.com,songkalpo.net,tadantachitra.com,uttorersomoy.com##.addd
 nationalduniya.org##.addd_banner
 bangalorewaves.com##.addima
@@ -2161,8 +2161,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
