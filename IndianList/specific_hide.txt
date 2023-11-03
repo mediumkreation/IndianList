@@ -904,7 +904,6 @@ newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
 hindusthansamachar.in##.NewClass iframe
 business-standard.com##.Nws_banner_Hp
-lastnewsbd.com##.Photo_top_banner
 tutyonline.net##.R300100
 bharatsamachartv.in##.RightCont iframe
 dinamalar.com##.Seladv
@@ -1964,7 +1963,6 @@ joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
 kushinagarlive.com##.kushi-after-content
 prakashkhabar.com##.last_ads
-lastnewsbd.com##.lastnews_add_1
 punjabenews.com##.latest_post > img
 mewartimes.com##.latest_postnav
 jayhosh.com##.leaderboard-wrapper
@@ -2163,8 +2161,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
