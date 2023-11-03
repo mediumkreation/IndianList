@@ -2161,8 +2161,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3268,6 +3268,7 @@ achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
 gramajyothi.com##a[href*="nirapara.com"]
 hindilok.com##a[href*="ojassoft"]
+kelimandala.lk##a[href*="pabcbank.com"] img
 kvartha.com##a[href*="pace.edu.in"]
 sarakhon.com##a[href*="padmabankbd.com"]
 tamilolli.com##a[href*="periyarkural.com"]
@@ -3737,7 +3738,6 @@ infosrilankanews.info##html12
 infosrilankanews.info##html2
 pinakatimes.com##iframe[class^="FrameAdvt"]
 anweshanam.com,hastakshep.com##iframe[id^="ifr_"]
-kelimandala.lk##iframe[name="myiFrame"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 khabarbhatapara.in##iframe[src*="google.com/presentation/"]
