@@ -2264,7 +2264,7 @@ farwesttimesdaily.com##.promotional__col
 publictv.in##.pt-adv
 awaaz24x7.com##.publish-image
 janayugomonline.com##.pum
-cinemapressclub.com,pagetamil.com,telugu.industryhit.com##.pum-content
+cinemapressclub.com,telugu.industryhit.com##.pum-content
 thedailycampus.com##.purplepatch
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
@@ -2598,7 +2598,7 @@ thebharatnews.net##.td-footer-wrapper aside.widget_text img
 bengalwatch.in,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,newsinside24.com,positivekhabar.com,sarhadkasakshi.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
-insurancekhabar.com,pagetamil.com,pratidindaily.com##.td-header-sp-recs
+insurancekhabar.com,pratidindaily.com##.td-header-sp-recs
 dpcnews24.com##.td-header-template-wrap .td-a-rec
 eelanadu.lk,prathamnews.in##.td-is-sticky .td-a-rec
 soochnanews.in##.td-main-content .ml-slider
@@ -3174,7 +3174,6 @@ divyamarathi.bhaskar.com##[id*="_ad_"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 gtamilnews.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
-pagetamil.com##[id^="td_uid_3"]
 thestellarnews.com##[id^="thest-"]
 sunnews24x7.com##a .adv-vload
 newstodaynetwork.com##a.disabled img
@@ -3862,6 +3861,7 @@ nobat.com#?#div:-abp-has(> small:-abp-contains(Advertisement))
 onstimes.com#?#div.row:-abp-has(> .col-md12 > .margin-top > img.attachment-full)
 overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
 horizonhind.com##p[class="fontBold"]
+pagetamil.com#?#.widget_custom_html:-abp-has(> div > ins.adsbygoogle)
 pardaphashnews.live#?#.sidebar-widget:-abp-has(> .widget-body > p> img:only-child)
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
