@@ -1165,6 +1165,7 @@ jagonews24.com,sonalinews.com##.adv-img
 ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
+marathi.hindustantimes.com##.advMasterSlot
 anweshanam.com,cityandolan.com,devpath.in##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
@@ -2162,8 +2163,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3509,6 +3510,7 @@ bn.bd24report.com,rajshahinews24.com##div[class^="add-section"]
 dailyjonomot.com,theholytimes.com##div[class^="add_"]
 sunaulonepal.com##div[class^="ads"]
 campuslive24.com##div[class^="ads_"]
+marathi.hindustantimes.com##div[class^="advInBtweenNewsCard"]
 thekeralapost.com##div[class^="advert-"]
 ajabgjab.com##div[class^="ajabg-"]
 udayavani.com##div[class^="amp_Ad"]
