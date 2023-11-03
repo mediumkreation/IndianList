@@ -65,7 +65,7 @@
 /Ads-$domain=dailyceylon.com
 /ads-$domain=gmnewsbd.com|prothom-feni.com
 /ads.jpg|$domain=natunsomoy.net
-/ads/*$domain=aajkadinnews.com|andhrapatrika.in
+/ads/*$domain=aajkadinnews.com
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dainikdristipat.com|dharitri.com|jugantor.com
 /adss/*$domain=tharunaya.us
