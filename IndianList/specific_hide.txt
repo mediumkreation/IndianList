@@ -2164,8 +2164,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3045,14 +3045,17 @@ bebakuttarakhand.com##.wp-image-12972
 onakanthirkantho.com##.wp-image-133
 bonggonews.com##.wp-image-13566
 jpworldnews.com##.wp-image-1366
+lokpati.com##.wp-image-148506
 abtnews.in##.wp-image-15989
 badimalikakhabar.com##.wp-image-169446
 banglanewsdunia.com##.wp-image-17000
 hamdardmediagroup.com##.wp-image-173195
+lokpati.com##.wp-image-178800
 newssunamganj.com##.wp-image-19215
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
 banglanewsdunia.com##.wp-image-21155
+lokpati.com##.wp-image-225930
 newssunamganj.com##.wp-image-22995
 banglanewsdunia.com##.wp-image-23927
 sachkahoon.com##.wp-image-248125
@@ -3106,6 +3109,7 @@ odishasambad.in##.wp-image-82180
 paribahanjagot.com##.wp-image-822
 paribahanjagot.com##.wp-image-825
 news4himachal.com##.wp-image-8371
+lokpati.com##.wp-image-84961
 hotnewsindia.com##.wp-image-87280
 hotnewsindia.com##.wp-image-87281
 nammabantwala.com##.wp-video
