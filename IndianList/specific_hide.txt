@@ -1201,7 +1201,7 @@ news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,banglapost.co.uk,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dailylokaloy.com,ekushnews24.com,gorkhalikhabar.com,kalantor24.com,khaptadmalikanews.com,lakshmipur24.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,navrashtramedia.com,tamilankural.com##.advertisement-area
@@ -1515,6 +1515,7 @@ msprotidin.com##.d-block
 dbcnews.tv##.d-flex
 protidinerchitrobd.com##.d-flex > div[style*="height: 130px"]
 chandpursangbad.com##.d-print-none
+dailyinqilab.com##.d-sm-block.my-3
 mzamin.com##.d-sm-flex
 mzamin.com##.d-sm-none.d-block:not([class^="co"])
 mzamin.com##.d-sm-none.d-flex
