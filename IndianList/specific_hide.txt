@@ -2851,6 +2851,7 @@ khoborersomoy.com##.vide_area
 indianewscentre.in##.video-container
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 a2znewsup.com##.videoaddwraper
+gramajyothi.com##.videowrapper.mtop20
 khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
 khaptadonline.com##.view-ads-view
@@ -3203,7 +3204,6 @@ newsajako.com##a[href*="/newspaper-ads/"] img
 somoynews.tv##a[href*="?ref="]
 bartabangla.com##a[href*="BandhoB"]
 divaina.lk##a[href*="CrystalSoapLK"]
-gramajyothi.com##a[href*="SeemasEdappally"]
 battinews.com##a[href*="ad.battinews.com"]
 24ghanta.net##a[href*="adroll.com"]
 protidinersangbad.com##a[href*="ads-page"]
@@ -3219,8 +3219,6 @@ bartamanbangladesh24.com,tritiyamatra.com##a[href*="bdinfobiz.com/pos-software"]
 gkprashnuttar.com##a[href*="bit.ly"]
 varthabharati.in##a[href*="bitmangalore.edu.in"]
 prothomalo.com##a[href*="bkash.com"]
-gramajyothi.com##a[href*="bobychemmanur.com"]
-gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 dailyindianherald.com##a[href*="chemmanurinternational.com"]
@@ -3252,13 +3250,11 @@ channelionline.com##a[href*="guardianlife.com.bd"]
 nayapage.com##a[href*="gurkhasfinance.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
-gramajyothi.com##a[href*="hotelapsara.com"]
 newslabz.com##a[href*="href.li"]
 sharebarta24.com##a[href*="islamibankbd.com"]
 banglarkonthosor.com##a[href*="itcornerbd"] img
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
-gramajyothi.com##a[href*="kalyansilks.com"]
 divaina.lk##a[href*="kandos.lk"]
 dailykaratoa.com##a[href*="karatoacourierservice.com"]
 kvartha.com##a[href*="kasargodvartha.com"]
@@ -3266,14 +3262,11 @@ sharebazarnews.com##a[href*="kidarkar.com"]
 malayalees.ch##a[href*="kidoovacations.com"]
 techalonews.com##a[href*="kitchenworldbd.com"]
 chattolarkhabor.com,ctgpratidin.com##a[href*="ksrm.com.bd"]
-gramajyothi.com##a[href*="lunars.com"]
 maloutlive.com##a[href*="maloutonline.com/listing/"] > img:only-child
 bhalukanews.com##a[href*="mastercafebd"]
-gramajyothi.com##a[href*="nagarjunaayurveda.com"]
 news4himalayans.com##a[href*="narendramodi.in"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
-gramajyothi.com##a[href*="nirapara.com"]
 hindilok.com##a[href*="ojassoft"]
 kelimandala.lk##a[href*="pabcbank.com"] img
 kvartha.com##a[href*="pace.edu.in"]
@@ -3284,7 +3277,6 @@ tamilolli.com##a[href*="pna-aerial.fr"]
 attachowk.com,vijaychowk.com##a[href*="prabhatnamkeen.com"]
 sarakhon.com##a[href*="premierbankltd.com"]
 eelamalar.com##a[href*="pulikalinkural.com"]
-gramajyothi.com##a[href*="pulimoottilonline.com"]
 eelamalar.com##a[href*="puliveeram.wordpress.com"]
 alokitobogura.com,sangbaddinrat.com##a[href*="pustokbazar"]
 visarnews.com##a[href*="puthinamnews.com"]
