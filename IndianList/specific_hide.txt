@@ -723,7 +723,7 @@ anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,k24news.in,khagrac
 apnapradesh24x7.com###text-11 iframe
 despardesweekly.co.uk,divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
-bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,newsi.in,padmatimes24.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,voiceofshatabdi.com,vyavasthadarpan.com###text-13
+bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,newsi.in,padmatimes24.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,news24x365.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 gangalahar.com###text-14 iframe
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
@@ -3730,7 +3730,6 @@ provatnews.com##h2[style^="width:710px; height: 100px;"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg)"]
 haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
 khabor.com##header a[href*="/click-"]
-ukhiyanews.com##header ~ .bg
 lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
