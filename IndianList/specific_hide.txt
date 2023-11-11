@@ -1951,6 +1951,7 @@ jharkhand-news.com##.jhark-content
 joginderposwal.com##.jogin-widget
 jonopodsangbad.com##.jonop-content
 abhibharat.com##.jur
+deshrupantor.com##.jw_article_body div[style="text-align:center"] div[style*="width:300px;"]
 kageshworikhabar.com##.kages-widget
 kanakaionline.com##.kanak-content
 prabartan.com##.kc_single_image
@@ -2999,7 +3000,7 @@ eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
-ainnews.tv,awazeuttarpradesh.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
+ainnews.tv,awazeuttarpradesh.com,deshrupantor.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
