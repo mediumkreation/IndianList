@@ -2995,6 +2995,7 @@ diyopost.com##.widget_palika_advertisement
 sambad.in##.widget_pkgrdlaobc
 freelancerstory.com##.widget_right .textwidget
 khosbasbarta.com##.widget_section .add
+satlujbiastimes.com##.widget_sisw_widget
 awaznews24x7.com,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
