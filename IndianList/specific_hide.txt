@@ -732,7 +732,7 @@ fatehnagarnews.com,gadhsamvedna.com,manvadhikartimes.com,meherpurpratidin.com###
 achhisoch.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,newsnowbangla.com,sambadsaradin.com###text-18
 akashgyanvatika.com,anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
 sabsach.in###text-19 iframe:last-child
-abhibharat.com,akkinikkunchu.com,anaicoddai.com,attachowk.com,bihar.express,binodonnews24.com,ccnnews24.in,cinemasthi.com,cinesnacks.net,communitynews24.com,currentkhabar.com,dailymomenshahi.com,deshpatra.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,maharashtradesha.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
+abhibharat.com,akkinikkunchu.com,anaicoddai.com,attachowk.com,bihar.express,binodonnews24.com,ccnnews24.in,cinemasthi.com,cinesnacks.net,communitynews24.com,currentkhabar.com,currentnewz.in,dailymomenshahi.com,deshpatra.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,joyparajoy.com,karmalamadhanews24.com,komashisha.com,maharashtradesha.com,moviemandu.com,news39.net,pabilnews.com,parichowk.com,parvasinewspaper.com,postpatrika.com,prajasatta.in,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,udaipurnewschannel.in,udayindiahindi.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
 anytechtune.com,fastlivenews.com,roopcare.com###text-21
@@ -2166,8 +2166,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
