@@ -845,6 +845,7 @@ breakingaajtaknews.com,newindia24.in,news4indiatv.com,sameera.co.in###widget-sid
 atalstambh.com,breakingaajtaknews.com,mpkhabar.com###widget-sidebar-3
 beauronews.com,khabarpradesh.com,newindia24.in###widget-sidebar-4
 gujaratvaibhav.com###widget4
+itvbd.com###widget_626
 kewalsachtimes.com###widget_sp_image-10
 kewalsachtimes.com###widget_sp_image-11
 himalayonlinemedia.com###widget_sp_image-12
@@ -862,6 +863,7 @@ chamaktabharat.com,dainikathah.com,newsmalayalionline.com,rkhabar.com,samnanews.
 janaaastha.com###wr
 kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
+itvbd.com###wrapper_526
 malwanews.com###youtube_responsive-10
 citynewsexpress.com##.-indx
 dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
@@ -2165,8 +2167,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
