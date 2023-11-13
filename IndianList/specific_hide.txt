@@ -3232,7 +3232,6 @@ ntnews.com##a[href*="countryoven.com"]
 agaminews.com,ambalanews24.com##a[href*="daraz.com.bd"]
 deshdorpon.com##a[href*="daraz.com.bd/sepnil/"]
 loksangbad.com##a[href*="deshihost.com"]
-shikkhasongbad.com##a[href*="dreamlandhomemanagement"] img
 agaminews.com##a[href*="drneem.com"]
 eelamalar.com##a[href*="eelamhomeland.com"]
 eelamalar.com##a[href*="eelamview.com"]
