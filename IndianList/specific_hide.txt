@@ -339,6 +339,7 @@ allwnews.com,anondobarta.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,
 cgimpact.org,jamalpurbarta.com,thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
+sankhnaad.com###header-widget
 keralaviews.com###header-widgets
 lokmat.com,lokmatnews.in###headerBanner
 livekeralanews.com###headermain .sp7
