@@ -1314,8 +1314,7 @@ iamgujarat.com,samayam.com##.bccl-ad-wrapper
 muktijoddharkantho.com##.bd-sidebar .widget_text
 garjachhattisgarhnews.com##.bdaia-box7
 punjabbaani.com##.bdaia-e3-container
-humarabikaner.com,nabaz-e-punjab.com,nalandalive.com##.bdaia-header-e3-desktop
-humarabikaner.com##.bdaia-post-content > div > a[href=""] img
+nabaz-e-punjab.com,nalandalive.com##.bdaia-header-e3-desktop
 voiceofdarbhanga.com##.bdaia-post-content figure
 voiceofdarbhanga.com##.bdaia-post-content p img
 ashmitanews.in,nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
@@ -1641,6 +1640,7 @@ chhattisgarhcrimes.in##.entry-content .g-single
 boguralive.com,punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
+humarabikaner.com##.entry-content > div
 thelucknowtribune.com##.entry-content > div[class]:not(.addtoany_content)
 dastavej.in,kaptaan.co.in##.entry-content > div[style*="float"]
 loksaakshya.com##.entry-content > div[style^="float"]
@@ -1860,6 +1860,7 @@ sangbadprotidin.com##.hm-sidebar > div[style]
 setoshikhar.com##.hmxbiekzq
 madhyamam.com##.hocal-ad-block
 chattogramnews.com##.home .elementor-widget-image
+humarabikaner.com##.home .site-wrap > div:not(.elementor)
 bangla-news24.com##.home-e3lan
 dabangmedia.com##.home-gallery.photo-gallery
 cibindianews.com##.home-lead-block
@@ -2169,8 +2170,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
