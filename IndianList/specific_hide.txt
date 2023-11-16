@@ -1900,7 +1900,7 @@ blackoutnews.in##.hustle-ui
 mediabharti.net##.icici
 thereport24.com##.idlc
 60secondsnow.com##.iframe-ads-block
-tharexpressnews.com,ujyaaloonline.com##.iframe-container
+ujyaaloonline.com##.iframe-container
 visionnewsservice.in##.image-ad
 bhilwarahalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
@@ -2082,7 +2082,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
-abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
+abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,tharexpressnews.com,ujjwalhimachal.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
@@ -2173,8 +2173,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3666,6 +3666,7 @@ sudurkhabar.com##div[id^="sudur-"]
 tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
+tharexpressnews.com##div[id^="thare-"]
 thehdnews.in##div[id^="thehd-"]
 thirdeyenewslive.com##div[id^="third-"]
 todaypostlive.com##div[id^="today-"]
