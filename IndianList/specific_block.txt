@@ -1661,6 +1661,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
 ||ibb.co^$domain=bhilaitimes.com|nayabharat.live
 ||ibb.co^$third-party,domain=shahzadpursangbad.com
+||ibn24x7news.com^*/diwali-ad-
 ||ibnsinahealthcare.com^$third-party,domain=priyoshomoy.com
 ||icetoday.net^*/aura-add-
 ||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
