@@ -391,7 +391,7 @@ naturalnews.co.in###main aside.widget_media_image
 mithlahindinews.com###main-ads-post
 agrilife24.com###main-body .custom
 lankadawasa.com###main-content + aside > .widget_media_image
-theexclusivestory.com###main-content .e3lan
+ibn24x7news.com,theexclusivestory.com###main-content .e3lan
 gmnewsbd.com###main-content .textwidget img
 p2pnews.co###main-content > .e3lan-post
 p2pnews.co###main-content > .ml-slider
@@ -1570,8 +1570,8 @@ dailynewshindi.com##.e-widget-swiper
 awajnews.com,bdjournal365.com,bdlawnews24.com,belagavisuddi.com,ceylonradio.co.uk,chalonbeelbarta.com,cholomanjobab24.com.bd,dainikaamsabha.com,ghazipurkhabar.co.in,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,pratidinertottho.com,punjabnewslive.co.in,purvanchalnews.com,saffronfactor.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,starnews24bd.com,thecgnews.com,thelastpagenews.com,tosnews.com,udaipurkiran.in##.e3lan
 livekhagaria.in##.e3lan a img
 alayadivembuweb.lk##.e3lan img
-gvtjob.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
-deshersangbad.com,graminujala.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
+gvtjob.com,ibn24x7news.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
+deshersangbad.com,graminujala.com,ibn24x7news.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,mithilacitynews.in##.e3lan-post
 chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
