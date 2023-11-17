@@ -956,7 +956,7 @@ amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
 khabardabali.com##.ad-row-container
-nepalsandesh.com,paschimtoday.com##.ad-sec
+nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
 bangladesherkhabor.net##.ad-sm
@@ -1034,7 +1034,7 @@ dailysabuj.com##.add-longhead
 bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
 evartha.in##.add-row
-dainiktribuneonline.com,paschimtoday.com,thebengalitimes.com##.add-sec
+dainiktribuneonline.com,thebengalitimes.com##.add-sec
 dinajpur24.com,malisamajsocial.com,muktirlorai.com,ndtv.in,thebengalitimes.com,virakesari.lk##.add-section
 khabarwaale.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
@@ -1694,7 +1694,6 @@ parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
 dakhal.net##.fadInleft_ads
-paschimtoday.com##.fb-lipage + .img-wrap
 eisamay.com##.fbnad
 bbc24news.com,bholabani.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
