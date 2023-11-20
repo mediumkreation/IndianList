@@ -3162,6 +3162,7 @@ news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
 shabdsaransh.com##.ws-block img:only-child
+sansanilive.com##.ws-block video
 aajkasamay.com##.ws-block-body > a[href=""]
 fastindianews.com##.ws_gestures
 bnnbharat.com##.xembgt
