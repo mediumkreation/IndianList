@@ -819,7 +819,6 @@ shreemanglamlive.com###ucier-4
 shreemanglamlive.com###ucier-5
 shreemanglamlive.com###ucier-6
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
-mediapunjab.com###up_height img[src^="data:image"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
 marunadanmalayalee.com###vdo_ai_div-0
@@ -2198,6 +2197,7 @@ i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 virakesari.lk##.paid-banners
+mediapunjab.com##.paidPoster
 corporatenepal.com,nepalbahas.com,purbelinews.com##.para-3-ad
 nepalkhabar.com##.paraAd
 lokaantar.com##.paraAd img:not([src*="viber_image_"])
