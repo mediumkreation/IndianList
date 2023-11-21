@@ -2231,7 +2231,6 @@ bonikbarta.net##.popupCloseButton
 dainikshiksha.com##.popupad
 apnamzn.com##.portlet-journal-content
 thenewsqube.com##.pos
-dailydhaka24.com##.pos-index img
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
 fmnews24.com##.post figure[id]
@@ -2494,7 +2493,7 @@ rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
-inews.zoombangla.com,kannadanewsnow.com,theriyuma.com##.smartmag-widget-codes
+dailydhaka24.com,inews.zoombangla.com,kannadanewsnow.com,theriyuma.com##.smartmag-widget-codes
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 dinajpurnews24.com##.software
@@ -3301,6 +3300,7 @@ tnstudy.in##a[href*="surabooks.com"]
 eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
 beforeprint.in,ourmyliddy.com##a[href*="tel:"]
+dailydhaka24.com##a[href*="theme-sphere.com"] img
 eelamalar.com##a[href*="thesakkatru.com"]
 lakshyatak.in,samachardoot.in,wehindustan.com##a[href*="traffictail.com"]
 arohitodaynews.com##a[href*="traffictail.com"] img
