@@ -649,6 +649,7 @@ jabalpurdarpan.in###sidebar-primary-sidebar .widget_block:not(#block-8)
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
 channelionline.com,hind24news.com,kannadanews.today,npg.news###sidebar-primary-sidebar .widget_media_image
 dainikjagrotochattogram.com###sidebar-primary-sidebar .widget_text
+sudurkhabar.com###sidebar-primary-sidebar .widget_text:not(#custom_html-4)
 citypostlive.com###sidebar-primary-sidebar > .widget:not(#better-social-counter-2)
 khabarcgnews.com###sidebar-right .widget_block
 localnewsodia.com###sidebar-right .widget_block figure
@@ -2168,8 +2169,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2257,7 +2258,6 @@ sabkikhabar.com,samarthsahara.com,todaysheoharnews.com,varchasvnews.com,viznews.
 pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
 sakalakhabar.com##.primary-sidebar-widget
-sudurkhabar.com##.primary-sidebar-widget img
 arthosuchak.com##.primary-sidebar-widget:not(.h-c)
 gandaknews.com##.primary-sidebar-widget:not(.widget_bs-thumbnail-listing-1)
 bankbimaarthonity.com##.printOff
@@ -3659,7 +3659,6 @@ metrojournalonline.com,newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
 shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
-sudurkhabar.com##div[id^="sudur-"]
 tejastoday.com##div[id^="tdi_112_"]
 youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
