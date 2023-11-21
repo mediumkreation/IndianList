@@ -164,7 +164,6 @@ asomkhobor.com,paryavaranpost.com,sathiyam.tv###block-12
 aajkijandhara.com,nwnews24.com###block-13
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 peptechtime.com###block-142
-khabardarinews.com###block-15
 mediyaan.com,sajhamanch.com,smartindiadial.com,telugumalli.com###block-16
 ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
@@ -177,13 +176,14 @@ peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com###block-24
 govindia.in###block-25
-govindia.in,khabardarinews.com,organizeindia.in###block-26
+govindia.in,organizeindia.in###block-26
 wealthfreedomideas.com###block-28
+khabardarinews.com###block-29
 alertchhattisgarh.com,bundelkhandsamachar.com,checkpostnews.com,khabarindia24x7.com,lokswar.in,mobilenews24.com,newsnukkad.com,pahadkasach.in,tamizhdb.com,ujjawalprabhat.com###block-3
 wealthfreedomideas.com###block-30
 sahmatnews.com###block-31
 newsuniversal.in###block-34
-khabardarinews.com,thenewssense.in###block-35
+thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
