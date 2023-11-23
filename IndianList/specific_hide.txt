@@ -2618,6 +2618,7 @@ dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com,matopath.com##.td-main-content-wrap .td_block_single_image
 ratdinnews.net##.td-main-content-wrap .tdm_block
+akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
 teknafnews.com##.td-main-content-wrap .vc_raw_html
 newsfireonline.com##.td-main-content-wrap .widget_text
 egoomedia.com,vision2020news.com##.td-main-sidebar .widget_custom_html
@@ -2661,7 +2662,6 @@ apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
-akkbd.com##.td_block_single_image:not([data-td-block-uid="tdi_30"])
 dunvalleymail.com,lankanewsweb.net,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
@@ -3346,7 +3346,6 @@ aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponso
 abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Advertisement))
 dainikjharkhand.com,jaunpur24.com,pressmirchi.com##adnblock
 ajkalerkhobor.com#?#div:-abp-has(> ins.adsbygoogle)
-akkbd.com#?#.widget_custom_html:-abp-has(> div > ins.adsbygoogle)
 andhrajyothy.com#?#div:-abp-has(> div[id*="-ad-"])
 angulonline.com#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Sponsored))
 chakrapath.com##app-ad-control-header
