@@ -2193,8 +2193,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3867,7 +3867,6 @@ malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div 
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > ins)
 manvadhikarabhivyakti.com#?#.td-main-content-wrap .td-a-rec:-abp-has(> div > div > h4.block-title)
 cnin.co.in,dainikjaltedeep.com##marquee
-akhandbharatsamachar.com##marquee img
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 maxwoman.in#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
