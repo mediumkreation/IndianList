@@ -2221,7 +2221,7 @@ i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
 virakesari.lk##.paid-banners
-mediapunjab.com##.paidPoster
+mediapunjab.biz,mediapunjab.com##.paidPoster
 corporatenepal.com,nepalbahas.com,purbelinews.com##.para-3-ad
 nepalkhabar.com##.paraAd
 lokaantar.com##.paraAd img:not([src*="viber_image_"])
