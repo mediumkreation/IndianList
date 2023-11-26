@@ -865,6 +865,7 @@ breakingaajtaknews.com,goodmorningnation.com,khabarbhartiindia.com,medicallife.i
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
 breakingaajtaknews.com,newindia24.in,news4indiatv.com,sameera.co.in###widget-sidebar-2
+mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,breakingaajtaknews.com,mpkhabar.com###widget-sidebar-3
 beauronews.com,khabarpradesh.com,newindia24.in###widget-sidebar-4
 gujaratvaibhav.com###widget4
@@ -1846,7 +1847,7 @@ jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com##.header-promo
 alochitokantho.com.bd##.header-promotion
 a2zsamachar.com,azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,malayalamnewstimes.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,theprobashi.com##.header-right
-headline24x7.com,khabarduniya.com,mp1news.com##.header-right-adv
+headline24x7.com,khabarduniya.com##.header-right-adv
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
