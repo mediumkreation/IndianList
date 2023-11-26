@@ -3837,6 +3837,7 @@ indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google A
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 indiatv.in#?#.ad:-abp-has(> div:first-child)
 indocanadiantimes.com#?#.block-title span:-abp-contains(Sponsored Ads)
+jalauntimessite.wordpress.com#?#.widget-title:-abp-contains(Advertisment)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 janamtv.com#?#div:-abp-has(> .jeg_block_title > span:-abp-contains(ADVT))
 janprahar.com#?#div:-abp-has(> ins)
