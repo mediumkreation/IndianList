@@ -1641,6 +1641,7 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,samachardoot.in##.elementor-widget-shortcode
 ambalacoverage.com,banglasangbad24.com,indiadhuandhar.in##.elementor-widget-shortcode img
+krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
@@ -2194,8 +2195,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3971,14 +3972,12 @@ swarnimbharatnews.com##span[style^="color: red;"]
 spnewsbd.com#?#div:-abp-has(> p > ins.adsbygoogle)
 suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
-krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]
 bihardootnews.com##tagdiv
 tamilnews.cc#?#.main-menu ~ .container div:-abp-has(> a > img[src*="/uploads/ads/"])
 tamizhakam.com#?#p:-abp-contains(Advertisement)
 tarunbharat.com#?#.a-wrap:-abp-has(div[id^="div-gpt-ad"])
 telugugateway.com#?#div:-abp-has(> ins.adsbygoogle)
 teluguglobal.com#?#div:-abp-has(> ins.adsbygoogle)
-krantikarisanket.in##th[height="66"][bgcolor="#F8F8F8"]
 thannambikkai.org#?#h2:-abp-contains(Advertisement)
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
 thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
