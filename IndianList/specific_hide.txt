@@ -1362,7 +1362,7 @@ bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com
 capitallivenews.com##.bignews_slider
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
-aayomail.com,himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
+himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
 dekhapadhi.com,sajhapost.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
@@ -2196,8 +2196,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3366,6 +3366,7 @@ aajkaaldaily.com#?#div.col-lg-3:-abp-has(> ins.adsbygoogle)
 aapkikhabar.com#?#[id^="custom"]:-abp-has(> a:-abp-contains(Government Ad))
 aapkikhabar.com#?#div[id^="AS_O_"] div:-abp-has(> div > div > a> div h5:-abp-contains(Ad |) )
 aapkikhabar.com#?#div[id^="AS_O_LHS"] div:-abp-has(> div > span > a[rel*="sponsored"] )
+aayomail.com#?#.text-center:-abp-has(> a >img[src*="/ads/"])
 abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Advertisement))
 dainikjharkhand.com,jaunpur24.com,pressmirchi.com##adnblock
 ajkalerkhobor.com#?#div:-abp-has(> ins.adsbygoogle)
@@ -3934,7 +3935,7 @@ jubileepost.in##section ~ .e3lan
 thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 news24bd.net##section.text-center
-aayomail.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
+arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
 onlinetvnepal.com##section.widget figure
 clickmandu.com,hamroeconomy.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,thecinematimes.com,yohokhabar.com##section.widget img
