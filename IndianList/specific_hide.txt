@@ -969,7 +969,6 @@ chhattisgarhaaj.com##.ad--widget-no
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
 awaaz24x7.com,awamileaguetimes.com,lokaantar.com##.ad-banner
-ekagaj.com##.ad-block-small
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 dailykaratoa.com,dainikshiksha.com,news18.com,saralpatrika.com##.ad-container
@@ -1016,7 +1015,7 @@ enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
 outlookhindi.com##.ad_unit_728x90
 corporatenepal.com,merofilm.com##.adalytics_ad
-farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
+ekagaj.com,farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
 prabhatvaibhav.com##.adbar-area--
 dainikvishwamitra.com##.adbnr
 bharatdarshannews.com##.adbo
