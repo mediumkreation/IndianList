@@ -658,7 +658,7 @@ rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 nationalwartanews.com###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,bolpanipat.com,dbnnews.in,kannadavani.news,meruraibar.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
+awajnews.com,bolpanipat.com,dbnnews.in,kannadavani.news,meruraibar.com,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
@@ -2196,8 +2196,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
