@@ -2196,8 +2196,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3748,7 +3748,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv##figure.wp-block-embed
 aajexpress.com##figure.wp-block-gallery
-aksherpati.com,amchimumbaionline.com,apnashaharnews.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,eveningkerala.com,hatmakhabar.com,janasongjog.com,jonotaradalot.com,kheldhaba.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,amchimumbaionline.com,apnashaharnews.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,eveningkerala.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,kheldhaba.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
