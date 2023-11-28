@@ -1235,6 +1235,7 @@ kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,navrashtramedia.com,tamilankural.com##.advertisement-area
 bankingsansar.com,capitallivenews.com##.advertisement-fullwith
+arthadabali.com##.advertisement-heading
 newsbrahmanbaria.com##.advertisement-section
 ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
@@ -2196,8 +2197,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2851,6 +2852,7 @@ dailyjanakantha.com##.ub-anchor-adcontainer
 dailyajkershomoy.com##.uc-sdr-ads
 amaderorthoneeti.com##.uc-sky-ads
 newslabz.com##.ugaam-ad-wrapper-outer
+arthadabali.com##.uk-container a[target="_blank"] img[src*=".gif"]
 globenepal.com##.uk-container section.widget
 marathi.abplive.com##.uk-sidebar._hsidebar
 abplive.com##.uk-text-meta
