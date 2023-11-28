@@ -1174,7 +1174,6 @@ dailyonusondhan.com,passengervoice.net##.ads_click_counter
 telugu.greatandhra.com##.ads_css_title
 lightnewsbd.com##.ads_first_p_disp
 padmatimes24.com##.ads_fix
-calcuttanews.tv##.adsaboronw
 divyahimachal.com##.adsbx728x90
 kannada.asianetnews.com##.adsection
 himachalnownews.com##.adsen
@@ -3426,6 +3425,7 @@ bholanews.com#?#div:-abp-has(> p>img.wp-image-23118)
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
+calcuttanews.tv##body > [class$="ads"]
 bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |))
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
