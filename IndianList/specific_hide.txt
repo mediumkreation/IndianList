@@ -1432,7 +1432,6 @@ munaadi.com##.card-body > center > img
 lanka4.com##.card.text-center
 aloavanews24.com,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
 news11.live##.carousel.slide
-eimuhurte.com##.carousel:not(#carouselExampleIndicators4)
 editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
@@ -1637,6 +1636,7 @@ newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 muznews.online##.elementor-widget-image-carousel
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
+eimuhurte.com##.elementor-widget-jet-listing-grid
 marathwadaneta.com##.elementor-widget-jnews_element_ads_elementor
 thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
@@ -1978,6 +1978,7 @@ sorejominbarta.com##.jeg_main .elementor-widget-image
 techzoom.tv##.jeg_main_content .wpb_widgetised_column
 citynewsgiridih.com##.jeg_midbar
 tamil2daynews.com##.jeg_midbar .jeg_nav_right
+eimuhurte.com##.jet-popup
 filmyfanda.com##.jft_ads
 jharkhand-news.com##.jhark-content
 joginderposwal.com##.jogin-widget
@@ -2250,7 +2251,6 @@ prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 business-standard.com##.podcastads
 rtvonline.com##.point-table-container a[href*="MamaNoodles_"]
-eimuhurte.com##.popUPBox
 jamalpurlive.com##.popbox
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
@@ -2463,7 +2463,6 @@ kanvkanv.com##.single-sidebar iframe
 sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
 nepalbritain.com,rastriyakhabar.com##.single-wrapper-details-sidebar-ads
-eimuhurte.com##.singleAds
 purbelinews.com##.single__bigyapaan
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
@@ -2773,7 +2772,6 @@ thestellarnews.com##.thest-widget
 entevarthakal.com##.third_section_ads
 sangalokhabar.com##.three-col-ads
 sangalokhabar.com##.three-col-ads-block
-eimuhurte.com##.threeAdsArea
 namasteandhra.com##.three_ads
 gurgaonmail.com##.thumbnail_container
 ourislam24.net##.ti-ads
