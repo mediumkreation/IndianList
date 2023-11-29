@@ -886,7 +886,7 @@ bharatdarshannews.com###wows31_0
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bharatdarshannews.com###wowslider-container3
-bbn24news.com,chamaktabharat.com,dainikathah.com,newsmalayalionline.com,odiabarta.in,rkhabar.com,samnanews.com,sbharatnews.com###wp-custom-header
+bbn24news.com,chamaktabharat.com,champawatkhabar.com,dainikathah.com,newsmalayalionline.com,odiabarta.in,rkhabar.com,samnanews.com,sbharatnews.com###wp-custom-header
 janaaastha.com###wr
 kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
