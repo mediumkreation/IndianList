@@ -221,7 +221,7 @@ dgnews.co.in###block-69
 areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 cgtop36.com###block-71
 bharatpostlive.com,naanmedia.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
-bharatjan.com,bundelkhandsamachar.com,purvanchalnews.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
+bundelkhandsamachar.com,purvanchalnews.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 varthabharati.in###block-block-253--2
 varthabharati.in###block-block-263--2
 varthabharati.in###block-block-338
@@ -458,7 +458,7 @@ cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
 sabkasandesh.com,voiceofbihar.in###media_image-36
 voiceofbihar.in###media_image-38
-aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainiklumbini.com,dhinakkavalan.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
+aakhriaankh.com,bharatjan.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainiklumbini.com,dhinakkavalan.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
 sabkasandesh.com###media_image-40
 khabarpahad.com,sabkasandesh.com,voiceofbihar.in###media_image-41
 khabarpahad.com,nationaltodaylive.com,peptechtime.com,sabkasandesh.com###media_image-42
@@ -490,6 +490,7 @@ apnades.in,chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahn
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
+bharatjan.com###media_video-9
 middleeastchandrika.com###mep_0
 arthanepal.com,eparinews.com###messagem
 ravivardelhi.com###metaslider-id-135
@@ -3399,7 +3400,7 @@ todaybhaskar.com##aside.widget_black_studio_tinymce
 bhadas4media.com,inkpoint.in##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,kokanmedia.in,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
-64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bharatjan.com,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,impact24news.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,ktmkhabar.com,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,mediawala.in,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,odishasambad.in,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,sutranews.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,impact24news.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,ktmkhabar.com,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,mediawala.in,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,odishasambad.in,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,sutranews.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
