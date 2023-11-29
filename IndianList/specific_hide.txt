@@ -2685,7 +2685,7 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
+dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,skynewspunjab.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 dunvalleymail.com,lankanewsweb.net,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
