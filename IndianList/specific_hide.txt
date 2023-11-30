@@ -1257,6 +1257,7 @@ enepalese.com,samayapost.com##.advt_r
 newsplus24x7.com##.advtertise
 citykhabre.com##.adwrp
 trustnews24.com##.af-middle-header .content_block
+aryavi.com##.affiliate-card.text-center
 updatenews360.com##.aft-sticky-sidebar
 batukamma.com##.after-menu-ads
 biharnownews.com##.afw_ad
@@ -2200,8 +2201,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
