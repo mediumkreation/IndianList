@@ -3969,6 +3969,7 @@ hmtvlive.com##section[class*="ad_after_"]
 shyamalsylhet.com##section[class^="advertise"]
 muznews.online##section[data-id="9a0f91e"]
 bihardootnews.com##section[data-id="e3b7c3d"]
+hindnama.com##section[id^="ai_widget-"]
 chennaitodaynews.com##section[id^="id"]
 seithipunal.com#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 shikshabhartinetwork.com#?#div:-abp-has(> .box_header:-abp-contains(Advertisements))
