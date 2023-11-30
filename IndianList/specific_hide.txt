@@ -1498,7 +1498,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,mycitydilse.com,rni.news,udaybulletin.com##.container-bn
+aajtakmedia.net,mycitydilse.com,rni.news,suragbureau.com,udaybulletin.com##.container-bn
 koshionline.com##.container-fluid.pt-3
 dhakapost.com##.container-section.py-3
 vaaramanjari.lk##.container-single-page .elementor-widget-image
