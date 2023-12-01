@@ -2534,6 +2534,7 @@ laatsaab.com##.sp_simple_youtube
 alorkantho24.news##.spad
 pavilion.com.bd##.spad-section img
 ekuruvi.com##.span-2 a:only-child
+chattogramerpatrika.com##.spbs-width-ad
 dnewsnetwork.in##.spcp-sidebar
 manoramaonline.com##.special-banner-block
 coxbangla.com##.special_featur
