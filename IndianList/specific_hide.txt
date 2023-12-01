@@ -755,7 +755,7 @@ bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,newsi.in,padmatimes24.co
 anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,news24x365.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,sambadsaradin.com,swadeshbani.com,updatetimes.com###text-15
 fatehnagarnews.com,gadhsamvedna.com,manvadhikartimes.com,meherpurpratidin.com###text-16
-247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,manvadhikartimes.com,theblastkhabar.com,updatesatkhira.com###text-17
+247superfast.com,anaicoddai.com,apnades.in,e-jaffna.com,gadhsamvedna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,newsnowbangla.com,sambadsaradin.com###text-18
 akashgyanvatika.com,anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
 sabsach.in###text-19 iframe:last-child
@@ -2201,8 +2201,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
