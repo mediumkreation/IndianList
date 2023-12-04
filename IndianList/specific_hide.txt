@@ -2722,6 +2722,8 @@ annapurnatimes.com##.tdm_block
 mekhadooth.com##.tdm_block img
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
+aashanews.com##.text-4
+aashanews.com##.text-5
 samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
 sajhasabal.com##.text-center iframe
@@ -2735,7 +2737,6 @@ banglainsider.com##.text-secondary.d-block
 kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 bdcrime24.com##.textwidget > p img
-aashanews.com##.textwidget img
 ajkerjholok.com##.textwidget:only-child
 thinkwithniche.in##.tg-addbox
 projonmonews24.com##.thads
