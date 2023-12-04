@@ -231,7 +231,6 @@ subasetha.lk###block-views-ads-display-inner-block
 nakkheeran.in###block-views-block-detail-page-ads-block-2
 eenadu.net###body_ad
 bdnewshour24.com###bottom-header-banner
-janprahar.com###bottom_3
 dailyamadercomilla.com###bottomadothers
 paristamil.com###box
 malayalamtodayonline.com###boxes
@@ -2787,6 +2786,7 @@ netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
+janprahar.com##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
 lankasri.com##.today-eds-wrap
 news4nation.com##.top iframe
