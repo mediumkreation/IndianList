@@ -2349,7 +2349,7 @@ amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
 timetvusa.com##.rt-post-slider-style1
-shomoynews24.net##.sa-ad
+shomoynews24.com,shomoynews24.net##.sa-ad
 prernanews.com##.sadv
 samaydarshan.in##.samay-widget
 sangbadchorcha.com##.sangb-after-content
