@@ -2723,6 +2723,7 @@ asomkhobor.com##.tdm-popup-modal
 biswabanglanews.com##.tdm-popup-modal-wrap
 annapurnatimes.com##.tdm_block
 mekhadooth.com##.tdm_block img
+expertmedianews.com##.tdm_block_inline_image
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 aashanews.com##.text-4
