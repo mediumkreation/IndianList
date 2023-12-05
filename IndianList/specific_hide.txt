@@ -2349,7 +2349,7 @@ amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
 timetvusa.com##.rt-post-slider-style1
-shomoynews24.com,shomoynews24.net##.sa-ad
+shomoynews24.net##.sa-ad
 prernanews.com##.sadv
 samaydarshan.in##.samay-widget
 sangbadchorcha.com##.sangb-after-content
@@ -2712,6 +2712,8 @@ khaboronline.com##.tdc-element-style
 politicsnews24.com##.tdc-row-content-vert-center
 guruvayooronline.com##.tdi_118
 devbhoomimedia.com##.tdi_25
+youthmukam.com##.tdi_26 .block-title
+youthmukam.com##.tdi_27
 suprobhat.com##.tdi_33 .td_block_single_image
 deshprahari.com##.tdi_348
 jk24x7news.tv##.tdi_66
@@ -3705,7 +3707,6 @@ shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
 tejastoday.com##div[id^="tdi_112_"]
-youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
 tharexpressnews.com##div[id^="thare-"]
 thehdnews.in##div[id^="thehd-"]
