@@ -559,7 +559,7 @@ kusenews.com###pgc-7-1-1
 lokmatnews.in###photoInlist1
 lokmatnews.in###photoInlist2
 jugantor.com###popAd
-nepalipaisa.com###popUp
+amadershomoy.com,nepalipaisa.com###popUp
 samakal.com###popUpModalAd
 bharatdarshannews.com,hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
