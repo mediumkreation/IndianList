@@ -897,17 +897,19 @@ dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
 samayam.com##.ATF_300
 hetaudatoday.com##.Ad
 natunsomoy.net##.Ad-Section
+jagranjosh.com##.AdCont
 bahumatrik.com##.AdSection
 ajkercrimenews.com,indurkanibarta.com##.Add
 deshergarjan.net##.Add img
 newsdustak.com##.Add-Master-Sside1
-sutranews.com##.Ads
+jagranjosh.com,sutranews.com##.Ads
 bahumatrik.com,bvnews24.com,dailyjanakantha.com##.AdvertClass
 dailythanthi.com##.Advt
 deshclick.com,punjabiinholland.com,sachikalam.com##.AdvtRight
 pinakatimes.com,sachikalam.com,sehajtimes.com##.AdvtSample
 tutyonline.net##.Amain
 onp24.com##.BannerAdd2
+jagranjosh.com##.BannerAds
 janashaktinews.com##.CMAC_AdChangerWidget
 cvoice24.com,eyenews.news##.DADD
 amaderprotidin.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,usharbani.com,weeklydesh.co.uk##.DAdd
@@ -934,6 +936,7 @@ twentyfournews.com##.InsidePost
 nellaionline.net,tutyonline.net##.MR300250
 newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
+jagranjosh.com##.NativeAd
 hindusthansamachar.in##.NewClass iframe
 business-standard.com##.Nws_banner_Hp
 tutyonline.net##.R300100
@@ -2203,8 +2206,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
