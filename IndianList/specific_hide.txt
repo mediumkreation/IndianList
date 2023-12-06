@@ -360,7 +360,7 @@ nationaltodaylive.com###header-banner
 latestlaws.com###header-banner .text-right
 ethiri.com###header-helpful
 allwnews.com,anondobarta.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,naturalnews.co.in,paryavaranpost.com,rozanapost.in###header-right-section
-cgimpact.org,jamalpurbarta.com,thepunjabwire.com###header-right-sidebar
+cgimpact.org,jamalpurbarta.com,thebharatnama.com,thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
 sankhnaad.com###header-widget
