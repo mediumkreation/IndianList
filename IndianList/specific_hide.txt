@@ -522,7 +522,6 @@ cialive.in###myCarouselv
 bhilwarahalchal.com,kathmandupati.com###myModal
 ada.lk,lankadeepa.lk###myModal1
 dailynayadiganta.com###myVideo
-newsuperbharat.com###myVideo1
 payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
 tamilcnn.lk###newads
@@ -1450,6 +1449,7 @@ chandrikadaily.qa##.chand-before-content_5
 chandrikadaily.qa##.chand-widget
 chetaktimes.com##.cheta-before-content
 tamilmithran.com##.cine_ad
+newsuperbharat.com##.click-zoom
 dinamalar.com##.clsadblock
 oneindia.com##.cmscontent-article1
 tamil.oneindia.com##.cmscontent-top
