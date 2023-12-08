@@ -1436,6 +1436,7 @@ munaadi.com##.card-body > center > img
 lanka4.com##.card.text-center
 aloavanews24.com,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
 news11.live##.carousel.slide
+chhattisgarhaaj.com##.carousel:not(#myCarousel2)
 editiontoday.in,panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
@@ -2205,8 +2206,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
