@@ -218,9 +218,9 @@ tcp24.news###block-47
 anokhateer.com,hamarahimachal.com,indianvoice24.com,newsbanglaa.com,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
-dgnews.co.in###block-69
 areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 cgtop36.com###block-71
+dgnews.co.in###block-76
 bharatpostlive.com,naanmedia.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
 bundelkhandsamachar.com,purvanchalnews.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 varthabharati.in###block-block-253--2
@@ -3088,7 +3088,7 @@ nainilive.com##.wp-block-image img
 abtnews.in##.wp-block-jetpack-slideshow
 theinternalnews.co##.wp-block-jetpack-tiled-gallery
 kafaltree.com##.wp-block-video
-dgnews.co.in,pplnews.in##.wp-custom-header
+pplnews.in##.wp-custom-header
 udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
