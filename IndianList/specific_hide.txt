@@ -2204,8 +2204,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3218,7 +3218,7 @@ bnnbharat.com##.xembgt
 truenews.lk##.youtube-responsive-container
 news71bangla.tv##.yvdo
 probashibangla.tv##.zja
-khabreelal.com,thesabera.com##.zox-post-ad-wrap
+thesabera.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
 kashishnews.com##[alt="add image"]
 yoyocial.news##[class*="  ad-"]
@@ -3842,6 +3842,7 @@ gramajyothi.com##img[alt="banner"]
 mirsaraikhobor.com##img[alt="mAD"]
 news24bd.net##img[alt="meghna"]
 bhilwarahalchal.com##img[alt="news"]
+khabreelal.com##img[alt="sonu"]
 khabarwaale.com##img[alt="topbanner1"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
