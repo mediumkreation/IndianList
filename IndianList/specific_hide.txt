@@ -952,7 +952,7 @@ abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 thinatamil.com##.a-vd-content
 bartabangla.com##.a-widget
-dailysamvad.com,himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,satv.tv,thenetizennews.com,theriyuma.com##.a-wrap
+himachalvarta.com,indianewsviral.co.in,kanakaionline.com,kannadanewsnow.com,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,satv.tv,thenetizennews.com,theriyuma.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -1684,6 +1684,7 @@ newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
+dailysamvad.com##.entry-content center > img
 dainikkhabraan.com##.entry-content div[class*="daini-"]
 dailysatnadee.com##.entry-content div[data-adid]
 cgmitan.com##.entry-content div[id^="cgmit-"]
