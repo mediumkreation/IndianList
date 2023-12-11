@@ -2145,6 +2145,7 @@ sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
+urjanchaltiger.in##.mvp-post-ad-wrap
 aamsanchar.com,sajhamanch.com##.my-2
 corporatenews.com.bd##.my-3 img
 patrika.com##.my-4[style*="min-height"]
@@ -2398,7 +2399,6 @@ motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.sidea
 newskoseli.com##.sidea .wp-block-image
 kulalaworld.com##.sideadd
 cknewsgroup.ca##.sideadholder
-urjanchaltiger.in##.sideads-sec
 dainiklivenews24.com##.sidebar .HTML > .widget-content:first-child
 nayasabera.com##.sidebar .HTML:not(#HTML15):not(#HTML8)
 nayasabera.com##.sidebar .Image:not(#Image6)
