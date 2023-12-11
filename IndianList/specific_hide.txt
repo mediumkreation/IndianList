@@ -1639,6 +1639,7 @@ pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 udghoshdaily.com##.elementor-widget-image img:not([src*="Purna-Khop.jpg"]):not([src*="Novel_corona_AD-"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
+udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
 muznews.online##.elementor-widget-image-carousel
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 himantar.com##.elementor-widget-image:not(.elementor-element-79c39f1)
@@ -2206,8 +2207,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
