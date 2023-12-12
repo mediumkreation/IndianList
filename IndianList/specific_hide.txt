@@ -1031,7 +1031,7 @@ dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 amarbarta24.com##.add > a img
 channeldurjoy.com##.add figure.size-full
-alokitokhobor.com,bandarbanpratidin.com,barishalsomoynews.com,bdgaibandha.news,bonggonews.com,channelcox.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,nirjatitonewsbd.com,pabnamail24.com,paharechok.com,patheo24.com,prbnews24.com,probashbarta.com,protisomoy.com,quicknewsbd.com,satkhiratimes24.com,shubhoprotidin24.com##.add img
+alokitokhobor.com,bandarbanpratidin.com,barishalsomoynews.com,bdgaibandha.news,bonggonews.com,channelcox.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,nirjatitonewsbd.com,pabnamail24.com,paharechok.com,patheo24.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiratimes24.com,shubhoprotidin24.com##.add img
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 bwazarakatha.com##.add img:not(.wp-image-19734)
@@ -1061,7 +1061,7 @@ bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
 evartha.in##.add-row
 dainiktribuneonline.com,thebengalitimes.com##.add-sec
-dinajpur24.com,malisamajsocial.com,muktirlorai.com,ndtv.in,thebengalitimes.com,virakesari.lk##.add-section
+dinajpur24.com,malisamajsocial.com,muktirlorai.com,ndtv.in,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
 khabarwaale.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
@@ -2461,6 +2461,7 @@ odekhabishwo.com##.single-dtls img
 etvuttarakhand.com##.single-entry > div[style^="float"]
 thenewswords.com##.single-image .carousel
 beanibazarnews24.com##.single-news-widget > img.size-full
+probashbarta.com##.single-page-add2
 bn.bd24report.com##.single-page2-topAdd
 ktmdainik.com##.single-post aside.widget_media_image
 nepalmamila.com##.single-post-advertisement
