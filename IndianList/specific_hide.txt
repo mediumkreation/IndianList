@@ -815,7 +815,7 @@ akjnews.com,globalnews24x7.com,thesurgicalnews.in,uttareralo24.com###text-html-w
 bdtoday24.com###text-html-widget-25
 abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com,punjabiakhbaar.ca###text-html-widget-3
 bdtoday24.com###text-html-widget-35
-globalpunjabtv.com###text-html-widget-4
+globalpunjabtv.com,pnn24.in###text-html-widget-4
 bdtoday24.com###text-html-widget-41
 sarkarimanthan.com###text-html-widget-6
 sehattimes.com###text-html-widget-7
@@ -2213,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -4047,5 +4047,3 @@ vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
 visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
-pnn24.in###text-html-widget-4
-pnn24.in##.post-content ~ *:not(div)
