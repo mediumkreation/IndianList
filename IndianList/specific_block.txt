@@ -766,6 +766,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||blogger.googleusercontent.com^*/ad$domain=nawadalive.com
 ||blogger.googleusercontent.com^*/b447948a-4089-487b-a389-b7544362480a.jpg
 ||blogger.googleusercontent.com^*/rattan%20ad%202.jpg
+||blogger.googleusercontent.com^*ezgif-2$domain=backtobollywood.com
 ||blogs.bangalorewaves.com/images/buzinessone.jpg
 ||blogspot.com^$third-party,domain=amarsylhet24.com|manabadi.co.in
 ||blogspot.com^*/1579368906960.jpg$domain=balliaexpress.in

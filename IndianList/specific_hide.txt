@@ -22,7 +22,7 @@ rashtrasamarpan.com,thattungal.com###HTML18
 obolokon24.com,spyviewnews.in,tamilarul.net###HTML19
 banglarawaj.com,chilahatiweb.com,kushiyaranews.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
-gossiplankanews.com###HTML20
+backtobollywood.com,gossiplankanews.com###HTML20
 ekumaon.com###HTML22
 ekumaon.com###HTML23
 gidhaur.com###HTML24
@@ -2093,7 +2093,6 @@ malabarnews.com##.malab-home-page-sidebar-2
 cninews24.com##.map
 anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
-backtobollywood.com##.masonryContainer p[style^="text-align: center;"]
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 veerdharanews.com##.master-slider-parent
@@ -2214,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
