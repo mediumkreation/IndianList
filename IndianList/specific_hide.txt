@@ -324,9 +324,11 @@ manithan.com###dfp_banner_header_panel + span
 spyviewnews.in###disqus_recommendations
 bhorerkagoj.com###div-ub-bhorerkagoj
 eveningkerala.com###divSliderMain
+deepika.com###divTopNewsHead + .row > .inner_news_head
 ittefaq.com.bd###div_252
 teluguwishesh.com###djslider875
 biharjharkhandnewsnetwork.com###doy-2
+deepika.com###dvPopup
 firsteyenews.co.in###dynamic_sidebar_before
 hastakshep.com###eaa-12
 barishalcitynews.com###elementor-popup-modal-15610
@@ -3347,7 +3349,6 @@ eelamalar.com##a[href*="pulikalinkural.com"]
 eelamalar.com##a[href*="puliveeram.wordpress.com"]
 alokitobogura.com,sangbaddinrat.com##a[href*="pustokbazar"]
 visarnews.com##a[href*="puthinamnews.com"]
-deepika.com##a[href*="redirectadvt.aspx?"]
 ibctamil.com##a[href*="reecha.lk"] img
 tamilserialtoday-247.net##a[href*="reviewmaster.info"]
 ourmyliddy.com##a[href*="rv-weddinghall"]
