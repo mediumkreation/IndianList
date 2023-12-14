@@ -3725,6 +3725,7 @@ atalsamachar.com,woneminute.com##div[id^="showAS_O_BEL"]
 metrojournalonline.com,newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
 shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
+kairalinewsonline.com##div[id^="slideshow"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
 tejastoday.com##div[id^="tdi_112_"]
 tejastoday.com##div[id^="tdi_55_"]
