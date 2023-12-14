@@ -3864,6 +3864,7 @@ newsnow24.com##img[src*="/banner/"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
+voiceasian.news##img[src*="ad_files"]
 hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
 wijeya.lk##img[target]
@@ -4014,6 +4015,7 @@ swarnimbharatnews.com##span[style^="color: red;"]
 spnewsbd.com#?#div:-abp-has(> p > ins.adsbygoogle)
 suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
+voiceasian.news##table[width="1000"]:not([cellpadding])
 bihardootnews.com##tagdiv
 tamilnews.cc#?#.main-menu ~ .container div:-abp-has(> a > img[src*="/uploads/ads/"])
 tamizhakam.com#?#p:-abp-contains(Advertisement)
@@ -4050,4 +4052,5 @@ varchasvnews.com#?#.heading:-abp-has(> span:-abp-contains(Advt))
 vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
 visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
+voiceasian.news#?#table[height="100"]:-abp-has(> tbody > tr[bgcolor])
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
