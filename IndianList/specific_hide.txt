@@ -2195,7 +2195,7 @@ news13uttarakhand.com##.news1-before-content_9
 bangla24x7.news,realtamilnews.com##.news247_ads_banner_widget
 chapaibarta24.com##.news_content .code-block
 sangbad-gallery.com##.news_left_part_ad
-atnbanglaonline.tv,chirirbandar.com,clearnews.live,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in##.news_portal_ads_banner
+atnbanglaonline.tv,chirirbandar.com,currentpoltics.in,dainikkirankamal.com,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,trendnew.in##.news_portal_ads_banner
 digiana.com##.news_scrol-bean
 i-news24.com##.newsbox_text
 newsdiary.live##.newsd-widget
@@ -2213,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2247,7 +2247,7 @@ nepalkhabar.com##.paraAd
 lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatprerna.com##.parva-widget
 bordernewsmirror.com##.pbwidget.slideshow
-dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
+clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallbangladesh.com,newsmalwa.com,shramjeevijournalist.com##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
 dailysatkhira.com,meherpurnews.com,updatesatkhira.com##.penci-google-adsense-2
@@ -3188,7 +3188,7 @@ cgbasket.in,keralatimes.com,shramjeevijournalist.com##.wpb_images_carousel
 joynewsbd.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
-rajsattanews.com##.wpb_raw_html
+clearnews.live,rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
 adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com##.wpb_single_image
