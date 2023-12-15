@@ -1250,6 +1250,7 @@ jananesan.com##.advertisement_bar
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
+newsplus24x7.com##.advertising
 anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,satyavoice.com,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
