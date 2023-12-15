@@ -1478,6 +1478,7 @@ krishakjagat.org,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com##.code-block-8
 jogindernagar.com##.code-block-9
+chanakyanewz.com##.code-block-center
 newsbindass.com##.code-block:not(.code-block-1)
 navarashtra.com##.code-block:not(.code-block-10)
 kannadi.news##.code-block:not(.code-block-15)
