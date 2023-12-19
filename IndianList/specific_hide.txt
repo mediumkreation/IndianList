@@ -3232,6 +3232,7 @@ news71bangla.tv##.yvdo
 probashibangla.tv##.zja
 thesabera.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
+tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
 yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
