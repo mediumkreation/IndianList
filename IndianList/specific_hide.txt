@@ -2217,8 +2217,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2318,7 +2318,7 @@ farwesttimesdaily.com##.promotional__col
 publictv.in##.pt-adv
 awaaz24x7.com##.publish-image
 janayugomonline.com##.pum
-cinemapressclub.com,telugu.industryhit.com##.pum-content
+cinemapressclub.com##.pum-content
 thedailycampus.com##.purplepatch
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
