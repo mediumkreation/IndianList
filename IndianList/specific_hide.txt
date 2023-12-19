@@ -1305,7 +1305,6 @@ newshubinsight.in##.avt_masterslider_el
 kabirkiawaz.in##.avv_custom
 ittefaq.com.bd##.aw320
 dnewsnetwork.in##.awac img.image
-prabhanews.com##.awt_side_sticky
 barnanmedia.com##.axdv__page
 barnanmedia.com##.axdvertisement
 newstaglive.com##.axil-banner
@@ -2644,6 +2643,7 @@ haryana.indianews.in,indianewsharyana.com,khabromehamarashahar.com,newsoneindia.
 navdeshtimes.com##.td-a-rec:not(.td-a-rec-id-content_top)
 politics.lk##.td-a-rec:not(.td-a-rec-id-sidebar)
 dainikjanwani.com##.td-a-rec:not(.tdi_274)
+prabhanews.com##.td-a-rec:not(.tdi_72)
 dainikhindmitra.com##.td-a-rec:not([class*="tdi_127_"])
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
