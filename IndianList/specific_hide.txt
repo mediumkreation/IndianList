@@ -213,7 +213,7 @@ thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bd24views.com,bdcrictime.com,hdhrm.com,janadeshexpress.in,khabarsar.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,veekshanam.com###block-4
+bd24views.com,bdcrictime.com,bihardailynews.com,hdhrm.com,janadeshexpress.in,khabarsar.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,veekshanam.com###block-4
 tcp24.news###block-46
 tcp24.news###block-47
 anokhateer.com,hamarahimachal.com,indianvoice24.com,newsbanglaa.com,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com###block-5
@@ -1221,7 +1221,7 @@ ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
-dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
+bihardailynews.com,dailysylheterdinkal.com,hipamat.com,redtimes.com.bd##.advertise
 dailyajkerbarta.com##.advertise a
 bikashnews.com##.advertise img
 drukpadam.com,hindustandailynews.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
