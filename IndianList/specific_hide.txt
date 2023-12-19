@@ -2878,6 +2878,7 @@ mukhyadhara.in##.twp-ad-section
 unmadmagazine.com##.twp-adv-header
 webkhabar.com##.twp-advertisement-section
 mukhyadhara.in##.twp-home-widget-section
+manvimedia.page##.ty-trigger
 dailyjanakantha.com##.ub-anchor-adcontainer
 dailyajkershomoy.com##.uc-sdr-ads
 amaderorthoneeti.com##.uc-sky-ads
@@ -3461,6 +3462,7 @@ biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
 calcuttanews.tv##body > [class$="ads"]
+manvimedia.page##body ~ iframe
 bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |))
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
