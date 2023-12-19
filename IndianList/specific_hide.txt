@@ -1604,6 +1604,7 @@ missionsandesh.com##.dpad_custom
 canadamirror.com,cineulagam.com,ibctamil.com,ibctamilnadu.com,jvpnews.com,manithan.com,news.lankasri.com,tamilwin.com,viduppu.com##.ds-ms-blurb
 subhayug.com##.ds-scroll-ads
 manabadi.co.in##.dsc-banners
+fenionline.net##.dt-dynamic-banner-holder-others-dt
 jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
 gramnagarbarta.com##.dtl_section figure.image
 doshdik.com##.duble_advertisement
