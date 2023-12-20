@@ -2445,7 +2445,6 @@ despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
 nigranee.com##.sidebar-right.card4
 aajbangla.in##.sidebar-widget
-dhamaka36.com##.sidebar-widget .image
 dakshinapath.com##.sidebar-widget .widget-body > p > img
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
@@ -3489,7 +3488,7 @@ dainiksylhet.com#?#.textwidget > p:-abp-has(ins.adsbygoogle)
 dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
 deshkikhabar.in#?#span:-abp-contains(Advertisement)
-dhamaka36.com#?#h2:-abp-contains(Advertisement)
+dhamaka36.com#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
 dhinasari.com#?#.tdm-descr:-abp-contains(Advertisement)
 nepaltara.com##div a[target="_blank"] img
 abnews24bd.com##div img[src^="ad/"]
