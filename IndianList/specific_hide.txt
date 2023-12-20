@@ -111,7 +111,6 @@ mujibnagarkhabor.com###adsentop
 news24nepal.tv,vishvakannada.com###adv
 newsnib.in###advertisement
 torontotamil.com###advertsub2
-ap7am.com###advt-dtindex
 importmirror.com###adx
 thejharokha.com###ai_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
@@ -985,6 +984,7 @@ edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 dinajpurtv.com##.ad-part
+ap7am.com##.ad-pvt
 khabardabali.com##.ad-row-container
 nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
@@ -2321,7 +2321,6 @@ janayugomonline.com##.pum
 cinemapressclub.com##.pum-content
 thedailycampus.com##.purplepatch
 purvanchalpost.com##.purva-widget
-ap7am.com##.pvt-ads-column
 indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
 sunamganjerkhobor.com##.py-3
