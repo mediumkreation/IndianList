@@ -736,6 +736,7 @@ punnalaikkadduvan.com###supermag_ad-3
 dainiksylhet.com,sylheterdak.com.bd,sylhetview24.net###sv_gad_left
 swarajnewstoday.com###sync3
 dinamalar.com###taboola-above-article-thumbnails ~ div[style*="color: #999999"]
+thelallantop.com###taboola-ads
 telugu.regnews.in###tdi_101
 guruvayooronline.com###tdi_102 .td-theme-slider
 regnews.in###tdi_115
@@ -2320,6 +2321,7 @@ thedailycampus.com##.purplepatch
 purvanchalpost.com##.purva-widget
 indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
+thelallantop.com##.py-2
 sunamganjerkhobor.com##.py-3
 brightpost.in##.quads-ad-label
 yesnewsmarathi.com##.quads-location
@@ -2914,6 +2916,7 @@ dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
 indianewscentre.in##.video-container
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
+thelallantop.com##.videoAdInArticle
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
 khabarkunj.com##.view-ads
