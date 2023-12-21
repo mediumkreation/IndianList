@@ -7,6 +7,7 @@ arerajdarshan.com###FullWidthWidget-Top
 metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 atalsamachar.com###HP_O_LHS_7 > div:nth-child(-n+10)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
+odiascraps.info###HP_O_LHS_7 > div:nth-child(-n+5)
 actionnews.in,adrasaka.com,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
 bhopalsamachar.com,chilahatiweb.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
@@ -3645,6 +3646,7 @@ telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns
 banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
 deshvani.in##div[id*="_webads"]
+odiascraps.info##div[id="showAS_O_BEL_0"]
 heraldspot.com##div[id^="AS_O_"] > div:nth-child(-n+10)
 chandaulisamachar.com##div[id^="AS_O_LHS"] > div:nth-child(-n+10)
 aapninews.in,anugrahavision.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
@@ -3950,6 +3952,8 @@ newstm.in#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |) 
 newstodaynetwork.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h4:-abp-contains(Ad: ))
 newstodaynetwork.com#?#div[id^="AS_O_RHS"] > div:-abp-has(> div > div > div > p)
 nobat.com#?#div:-abp-has(> small:-abp-contains(Advertisement))
+odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > h4 > span:-abp-contains(Ad:))
+odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > p:-abp-contains(Ad:))
 onstimes.com#?#div.row:-abp-has(> .col-md12 > .margin-top > img.attachment-full)
 overlook.co.in#?#section.widget_block:-abp-has(> p > ins)
 horizonhind.com##p[class="fontBold"]
