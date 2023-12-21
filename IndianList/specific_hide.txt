@@ -332,7 +332,7 @@ hastakshep.com###eaa-12
 barishalcitynews.com###elementor-popup-modal-15610
 elokasha.com,lokprashna.com###eloka-google
 cellitnews.com###example
-suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
+suddi9.com###featgal ~ div > #colorcontentblock
 indianletter.com###featured-multi-wrap
 vtv24x7.com###first-advertisement
 nayapusta.com###flashnews
@@ -2216,8 +2216,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
