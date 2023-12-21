@@ -565,6 +565,7 @@ bharatdarshannews.com,hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
+badaunexpress.com###posts-list-widget-5 ~ .widget_text
 bhalukanews.com###primary img[alt="ads"]
 purbashabd24.com###primary-sidebar
 samacharhouse.com###quads-ad17070
@@ -626,7 +627,6 @@ nagarikbahas.com###secondary .widget_sp_image
 keralaviews.com###secondary .widget_text img
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
-badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 dnspnews.in###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
@@ -1613,7 +1613,7 @@ alayadivembuweb.lk##.e3lan img
 gvtjob.com,ibn24x7news.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,graminujala.com,ibn24x7news.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,mithilacitynews.in##.e3lan-post
-chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
+badaunexpress.com,chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
 dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in##.eaa-ad
@@ -1757,7 +1757,7 @@ nepaljapan.com##.fixedbar
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
-arohitodaynews.com,dainik4media.com##.flexslider
+arohitodaynews.com,badaunexpress.com,dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
@@ -2190,7 +2190,6 @@ maharashtratimes.com##.news-advertorial
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
-badaunexpress.com##.news-slider
 payyolionline.in##.news-text-content p img
 news13uttarakhand.com##.news1-before-content_6
 news13uttarakhand.com##.news1-before-content_9
@@ -2215,8 +2214,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
