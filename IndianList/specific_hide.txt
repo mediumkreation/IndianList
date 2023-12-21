@@ -1903,7 +1903,6 @@ khabareducation.com##.hm-header-image
 brightpost.in##.hm-header-sidebar
 sangbadprotidin.com##.hm-sidebar > div[style]
 setoshikhar.com##.hmxbiekzq
-madhyamam.com##.hocal-ad-block
 chattogramnews.com##.home .elementor-widget-image
 humarabikaner.com##.home .site-wrap > div:not(.elementor)
 bangla-news24.com##.home-e3lan
@@ -2025,6 +2024,7 @@ setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
 lanka4.com##.left .aside-wrapper
+madhyamam.com##.left_level_2
 bankura24x7.com,haribhoomi.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
@@ -2214,8 +2214,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2574,6 +2574,7 @@ bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar 
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
 andhrajyothy.com,channel24bd.tv##.stickyAds
+madhyamam.com##.story-ad1
 livehindustan.com##.story-listing:empty
 chandaulisamachar.com##.story-wrapper a.disabled
 aajtak.in##.stoybday-ad
