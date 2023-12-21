@@ -1940,6 +1940,7 @@ tarunchhattisgarhkorba.com##.hustle-popup
 blackoutnews.in##.hustle-ui
 mediabharti.net##.icici
 thereport24.com##.idlc
+bengali.indianexpress.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
 ujyaaloonline.com##.iframe-container
 iftamil.com##.iftam-content
@@ -2214,8 +2215,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
