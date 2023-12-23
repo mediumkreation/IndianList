@@ -1735,7 +1735,6 @@ metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 parichaya.com##.exv-image
 channelionline.com##.eyli
-lankasri.com##.f-single
 dakhal.net##.fadInleft_ads
 eisamay.com##.fbnad
 bbc24news.com,bholabani.com,chtmedia24.com##.featad
@@ -2058,6 +2057,7 @@ nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
 bholabani.com##.longad
 newsdoor.net##.lrads
+lankasri.com##.lsb-blurb-sections
 metrojournalonline.com##.m-116
 chopaltv.com##.m-280
 71sangbad.com##.m_none > a[target="_blank"]
@@ -2811,7 +2811,6 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 janprahar.com##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
-lankasri.com##.today-eds-wrap
 news4nation.com##.top iframe
 anweshanam.com##.top-ad-d
 bigkhabar.com##.top-add
@@ -3276,7 +3275,6 @@ sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 divaina.lk##a[href*=".daraz.lk"] img
 mymensinghpratidin.com##a[href*="/ad-2/"]
-lankasri.com##a[href*="/adpage"]
 newsajako.com##a[href*="/newspaper-ads/"] img
 somoynews.tv##a[href*="?ref="]
 bartabangla.com##a[href*="BandhoB"]
