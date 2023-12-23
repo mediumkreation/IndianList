@@ -2215,8 +2215,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2615,7 +2615,7 @@ awajnews.com##.supsystic-slider-wrapper
 notebook.today##.t-out-span
 bangladeshglobal.com##.tab01 > .row
 adhunikdaur.com##.tab_265top_left
-sandesh.com##.taboola
+livehindustan.com,sandesh.com##.taboola
 news18.com##.taboola_setting
 xxx-indian-porn.com##.tac
 kamdhenupost.com##.tagdiv-type .td-fix-index img
@@ -3555,6 +3555,7 @@ prothomalo.com##div[class*="m__ads"]
 navjivanindia.com##div[class*="m__dfp"]
 deshdoot.com##div[class*="m_ad-slot"]
 nainilive.com##div[class*="naini-"]
+akilanews.com##div[class*="pannel-banner"]
 meddlingmedia.com##div[class*="pubadban"]
 sachkitop.com##div[class*="sachk-"]
 angultv.com,todaypati.com##div[class*="sgpb-"]
@@ -4072,4 +4073,3 @@ visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
 voiceasian.news#?#table[height="100"]:-abp-has(> tbody > tr[bgcolor])
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
-akilanews.com##div[class*="pannel-banner"]
