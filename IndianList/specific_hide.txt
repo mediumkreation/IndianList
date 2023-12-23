@@ -1971,6 +1971,7 @@ thedailycampus.com##.infostation
 janaaastha.com##.inline__bigyapaan
 ctgsangbad.com.bd##.inlineads
 mannarkkadlive.com##.inner-add
+deshbandhu.co.in##.inner-add-banner
 chatonay71news.com##.inner-ads
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
@@ -2216,8 +2217,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
