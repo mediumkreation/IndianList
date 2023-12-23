@@ -1251,7 +1251,7 @@ sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
 newsplus24x7.com##.advertising
-anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,satyavoice.com,upuklive.com,uttarakhandpost.com##.advertismentRow
+anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,publicnewstv.in,satyavoice.com,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 sangbadprotidin.com##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
@@ -1499,7 +1499,7 @@ dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 anugrahavision.com,azhimukham.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
@@ -2216,8 +2216,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
