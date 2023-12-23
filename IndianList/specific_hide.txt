@@ -3769,6 +3769,7 @@ channel24bd.tv##div[style="height: 250px;"]
 bbarta24.net##div[style="height:78px; width:100%"]
 telugucalendar.org##div[style="margin-top:-10px; text-align:center;"] span
 kannada.oneindia.com##div[style="min-height: 250px;"]
+prabhasakshi.com##div[style="min-height:280px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
 khaskhabar.com##div[style^="background-color: lightgrey;"]
