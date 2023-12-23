@@ -20,7 +20,7 @@
 -add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -adds-$domain=ddnews24x7.com
 -ads-$domain=aruna.lk
--Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
+-Ads-$domain=bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
 -ads-banner-$domain=timeshindi.in
 -ads.jpg|$domain=bigulnews.tv|channelionline.com|thebiharnews.com
 -ads.png|$domain=ctgsun.com

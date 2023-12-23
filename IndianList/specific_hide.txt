@@ -2215,8 +2215,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3448,7 +3448,6 @@ chaukastoli.com,grenonews.com,hellobikaner.in,newsvariant.com,rajsattanews.com##
 jagatprahari.com##aside.widget_text:not(#text-25):not(#text-27)
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
-asomiyapratidin.in#?#[style*="min-height"]:-abp-has(> div[class*="ad-slot-"])
 asr24.news#?#.card:-abp-has(> .card-header:-abp-contains(Advertisment))
 atalhind.com#?#div:-abp-has(> div > p >.adsbygoogle)
 atalsamachar.com#?#div[id^="AS_O_LHS"] > div:-abp-has(a[href*="paid.outbrain.com"])
@@ -3517,7 +3516,7 @@ otvkhabar.in##div[class$="-ad"]
 chakrikhobor.com##div[class$="-ads"]
 keralaexpress.com##div[class$="-adv"]
 odishareporter.in##div[class$="0-ad"]
-metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
+asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
 setopati.com##div[class*="-bigyaapan-"]
