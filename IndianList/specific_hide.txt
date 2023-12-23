@@ -4072,3 +4072,4 @@ visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
 voiceasian.news#?#table[height="100"]:-abp-has(> tbody > tr[bgcolor])
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
+akilanews.com##div[class*="pannel-banner"]
