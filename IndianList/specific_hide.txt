@@ -1499,7 +1499,7 @@ dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 anugrahavision.com,azhimukham.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
@@ -3908,6 +3908,7 @@ khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div 
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
 kirandoot.com#?#.sidebar-widget:-abp-has(> div > h4:-abp-contains(adv))
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
+lifestylenama.in#?#div[id*="_O_LHS_"] > div:-abp-has(> div > div > a>div > h5:-abp-contains(Ad |))
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div > a > h5:-abp-contains(Ad:))
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div a > p:-abp-contains(Ad:))
 lnstarnews.com#?#.elementor-widget-wrap:-abp-has(h2:-abp-contains(Adv.))
