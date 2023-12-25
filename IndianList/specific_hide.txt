@@ -1874,6 +1874,7 @@ manoramaonline.com##.header-sponser-left
 nepalbritain.com##.header-top-details-right
 dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
+dailykesari.com##.headerHt
 talashbangla.com##.header__add
 corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 barnanmedia.com##.header__top .d-lg-block
@@ -2218,8 +2219,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
