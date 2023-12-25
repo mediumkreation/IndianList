@@ -2219,8 +2219,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3238,7 +3238,6 @@ truenews.lk##.youtube-responsive-container
 news71bangla.tv##.yvdo
 probashibangla.tv##.zja
 thesabera.com##.zox-post-ad-wrap
-marathiworld.com##?#div:-abp-has(> ins.adsbygoogle)
 tollywood.net##[alt*=" ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
@@ -3929,6 +3928,7 @@ pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > img:only-child)
 malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div > p > ins)
 manvadhikarabhivyakti.com#?#.td-main-content-wrap .td-a-rec:-abp-has(> div > div > h4.block-title)
+marathiworld.com#?#div:-abp-has(> ins.adsbygoogle)
 cnin.co.in,dainikjaltedeep.com##marquee
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 maxwoman.in#?#div:-abp-has(> ins.adsbygoogle)
