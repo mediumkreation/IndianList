@@ -2115,7 +2115,7 @@ punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 shasansandesh.in##.mg-headwidget .code-block
 himachalmedia.co##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
-rojdin.in##.mh-header-widget-2
+marathisrushti.com,rojdin.in##.mh-header-widget-2
 janjoshnews.in,uniquesamay.com##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 newsdeskkannada.com##.mid-adv .row
