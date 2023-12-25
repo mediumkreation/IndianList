@@ -114,6 +114,7 @@
 ?final*.gif|$domain=narayanionline.com
 @@-advertisement.$domain=newswaves.org
 @@/ad/live-$domain=abnews24bd.com
+@@/content/ads/*$domain=dailykesari.com
 @@favicon.ico|
 @@||abhiyandaily.com/advertisements/abhiyan-viber.gif
 @@||anweshanam.com/static/ad/commons/js/3445/colombia_v11.js
@@ -1107,7 +1108,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||dailykaljoyi.com^*/web-banner-
 ||dailykaratoa.com/embed/
 ||dailykaratoa.com/public/images/inserted/image_
-||dailykesari.com^*/TMV-add-
 ||dailykhoborbarisal24.com/wp-content/uploads/2018/11/buy-website-bangladesh.jpg
 ||dailykhoborbarisal24.com/wp-content/uploads/2020/03/Untitled-2-copy-1$image
 ||dailykhoborbarisal24.com/wp-content/uploads/2020/07/goru-700x426.jpg
