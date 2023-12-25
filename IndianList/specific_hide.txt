@@ -2228,7 +2228,7 @@ patrikai.com##.oad
 newskranti.com##.ob-cards
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 priyo.com##.offer_grid
-tamil.oneindia.com##.oiad
+tamil.mykhel.com,tamil.oneindia.com##.oiad
 newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.ok-full-widht-adv
 onlinekhabar.com##.okam-ad-position-wrap
@@ -2367,6 +2367,7 @@ amarbarishal24.com##.row + .single_side_bar
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
 timetvusa.com##.rt-post-slider-style1
+tamil.mykhel.com##.rt-top-ad
 shomoynews24.net##.sa-ad
 prernanews.com##.sadv
 samaydarshan.in##.samay-widget
@@ -4039,6 +4040,7 @@ suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
 voiceasian.news##table[width="1000"]:not([cellpadding])
 bihardootnews.com##tagdiv
+tamil.mykhel.com#?#.article-tag-content:-abp-has(> .oiad)
 tamilnews.cc#?#.main-menu ~ .container div:-abp-has(> a > img[src*="/uploads/ads/"])
 tamizhakam.com#?#p:-abp-contains(Advertisement)
 tarunbharat.com#?#.a-wrap:-abp-has(div[id^="div-gpt-ad"])
