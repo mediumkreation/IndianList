@@ -2021,6 +2021,7 @@ joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
 kushinagarlive.com##.kushi-after-content
 prakashkhabar.com##.last_ads
+nrimalayalee.com##.latest_news_post_ad
 mewartimes.com##.latest_postnav
 jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
@@ -2218,8 +2219,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
