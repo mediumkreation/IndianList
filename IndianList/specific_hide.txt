@@ -1504,6 +1504,7 @@ sharebazarnews.com##.company-ads
 samadhannews.com,samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
 news24delhi.com##.container .container #page-sidebar
+manoramaonline.com##.container .experiencefragment
 upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
@@ -1620,7 +1621,6 @@ dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
-manoramaonline.com##.el-banner-main-logo
 aajkijandhara.com##.elementor-col-33 .elementor-section
 hamdardmediagroup.com##.elementor-col-50 .elementor-widget-image .attachment-large
 nikharanews.in##.elementor-element .size-large
@@ -1869,7 +1869,6 @@ headline24x7.com,khabarduniya.com##.header-right-adv
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
-manoramaonline.com##.header-sponser-left
 nepalbritain.com##.header-top-details-right
 dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
@@ -2134,9 +2133,7 @@ abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.co
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
-manoramanews.com,manoramaonline.com##.mm-other-ad
-manoramaonline.com##.mm-textlink-ad
-manoramaonline.com#@#.mmads
+manoramanews.com##.mm-other-ad
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -2219,8 +2216,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2555,7 +2552,6 @@ pavilion.com.bd##.spad-section img
 ekuruvi.com##.span-2 a:only-child
 chattogramerpatrika.com##.spbs-width-ad
 dnewsnetwork.in##.spcp-sidebar
-manoramaonline.com##.special-banner-block
 coxbangla.com##.special_featur
 kaumudiplus.com##.spnsrd-ad
 abasangthandp.com##.sponsers
@@ -2824,6 +2820,7 @@ thereport24.com##.top-add-left4
 aajtak.in##.top-add-section
 aperata.net##.top-ads-block
 manoramanews.com##.top-advt
+manoramaonline.com##.top-advt-block
 sangbadprotidin.com##.top-banner
 thekeralapost.com##.top-banner-advert
 jamalpurlive.com##.top-bar
