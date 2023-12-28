@@ -1198,7 +1198,7 @@ ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
 marathi.hindustantimes.com##.advMasterSlot
-anweshanam.com,cityandolan.com,devpath.in##.advRow-fullW
+anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com##.advRow-fullW
 barnanmedia.com##.adv__detail
 barnanmedia.com##.adv__sidebar
 doolnews.com##.adv_box_3x25
