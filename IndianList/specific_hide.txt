@@ -840,6 +840,7 @@ janamsakshi.org###toprightAd
 shreemanglamlive.com###ucier-4
 shreemanglamlive.com###ucier-5
 shreemanglamlive.com###ucier-6
+10tv.in###unitDivWrapper-0
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
@@ -1947,6 +1948,7 @@ iftamil.com##.iftam-content
 visionnewsservice.in##.image-ad
 bhilwarahalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
+10tv.in##.image_Ad
 khulasaonline.com##.img-ad
 samacharplus.com##.img-add
 khabarkunj.com##.img-ads
@@ -2216,8 +2218,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
