@@ -1267,7 +1267,7 @@ batukamma.com##.after-menu-ads
 biharnownews.com##.afw_ad
 agnijwala.com##.agnij-post-top
 ntcnewsmedia.com##.ai-attributes
-alakhharyana.com,anewsoffice.com,beanibazarview24.com,bwoodtadka.com,lokbharat.com,newsnow.co.in,panchkulasamachar.com,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+alakhharyana.com,anewsoffice.com,beanibazarview24.com,bwoodtadka.com,newsnow.co.in,panchkulasamachar.com,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 punjabiakhbaar.ca##.aibwp_banner_widget
 ajabgjab.com##.ajabg-widget
@@ -2219,8 +2219,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3683,6 +3683,7 @@ globalmalayalam.com,swadeshnews.in##div[id^="ad_"]
 sports.dinamalar.com##div[id^="adv"]
 prabhatparvnews.in##div[id^="advDiv"]
 nagariknews.nagariknetwork.com##div[id^="adverts"]
+lokbharat.com##div[id^="ai_widget"]
 aapkiummid.com##div[id^="articlead"]
 aryavartposts.com##div[id^="aryav-"]
 banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
