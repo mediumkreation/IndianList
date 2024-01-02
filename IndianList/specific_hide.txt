@@ -344,7 +344,6 @@ rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 importmirror.com###full-size-Ad
 dishadaily.com###full_level_1_detail
-haribhoomi.com###full_width_0_right
 uttareralo24.com###gallery-1
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
@@ -592,8 +591,6 @@ teluguglobal.com###right_level_0
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
 thejasnews.com###right_level_3
-haribhoomi.com###right_level_4
-haribhoomi.com###right_level_6
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
 ekantipur.com###roadblock-ad
@@ -1831,6 +1828,7 @@ gujjujankari.in##.gujju-before-content_4
 bdbarrta24.com##.h_ads
 sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 myfirstshow.com##.hb-img
+haribhoomi.com##.hbm-320-50-ad
 alokitobarisal.com##.hdr_banner
 dailysports24.com##.head-banner
 alivenews.co.in##.head-main-ad
@@ -2028,10 +2026,9 @@ sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
 lanka4.com##.left .aside-wrapper
 madhyamam.com##.left_level_2
-bankura24x7.com,haribhoomi.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
+bankura24x7.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
-haribhoomi.com##.level_bottom_full
 hindifiber.com##.lhk-ads-container
 maatram.org##.lightwidget-widget
 damaulionline.com##.list-advertisement
@@ -2349,7 +2346,7 @@ adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
 anandamela.in##.right_box_golpo
-haribhoomi.com,swadeshnews.in##.right_level_1
+swadeshnews.in##.right_level_1
 hmtvlive.com##.right_level_2
 sylhetview24.net##.right_part div[style^="float:left;"]
 ctgtimes.com##.right_sidebar_ads
