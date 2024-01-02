@@ -2330,6 +2330,8 @@ hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
 anytechtune.com##.reseller-add
 asianetnews.com##.revive-ads-article-top
+rastriyadaily.com##.rg-advertisement-long-horizontal
+rastriyadaily.com##.rg-side-adv
 manoranjannama.com##.rhs-cont
 gujaratimidday.com##.rhsTopBannerParentAd
 thekeralapost.com##.rht-ad-position
@@ -3553,7 +3555,7 @@ nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
 meddlingmedia.com##div[class*="pubadban"]
 sachkitop.com##div[class*="sachk-"]
-angultv.com,todaypati.com##div[class*="sgpb-"]
+angultv.com,rastriyadaily.com,todaypati.com##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
