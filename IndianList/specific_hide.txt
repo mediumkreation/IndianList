@@ -1175,7 +1175,6 @@ telugu.greatandhra.com##.ads_css_title
 lightnewsbd.com##.ads_first_p_disp
 padmatimes24.com##.ads_fix
 divyahimachal.com##.adsbx728x90
-kannada.asianetnews.com##.adsection
 himachalnownews.com##.adsen
 aajbangla.in##.adsense-inject
 nepalesediaspora.com##.adsgo
@@ -1568,7 +1567,7 @@ deshabhimani.com##.db-scnAd2
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
-kannada.asianetnews.com##.desktop-ad-1
+asianetnews.com##.desktop-ad-1
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 argusnews.in##.desktop-square-ad
 bikashnews.com##.desktop_main_news_banner
@@ -2212,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2330,6 +2329,7 @@ healthaawaj.com,hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
 anytechtune.com##.reseller-add
+asianetnews.com##.revive-ads-article-top
 manoranjannama.com##.rhs-cont
 gujaratimidday.com##.rhsTopBannerParentAd
 thekeralapost.com##.rht-ad-position
@@ -3418,6 +3418,7 @@ newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
 todaysdigitalbreakingnews.in##article div[class*="today-"]
+asianetnews.com#?#.adsection:-abp-has(.ad-1)
 atharvnews.com##aside .theiaStickySidebar .widget_text
 news15india.com##aside .w-100.text-center
 sabkuchgyan.com,sanchorenews.com##aside .widget_custom_html
