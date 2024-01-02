@@ -1083,9 +1083,7 @@ karnatakamalla.com##.addDivR1
 newspagebd.com##.addMidle
 janata.news##.addSecound-sidebar
 dainikpurbokone.net##.addVertise
-dailynewsbd24.com##.add_01
-dailynewsbd24.com##.add_02
-dailynewsbd24.com,thedhakacrimenews.com##.add_03
+thedhakacrimenews.com##.add_03
 shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
@@ -1819,7 +1817,6 @@ banglaxp.com##.gb-container-f86c88c8
 24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
-brandbharat.com##.gnsu-Iframe
 ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 faridabadnews.live##.googlepublisherads
@@ -3413,7 +3410,6 @@ abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Adve
 dainikjharkhand.com,jaunpur24.com,pressmirchi.com##adnblock
 ajkalerkhobor.com#?#div:-abp-has(> ins.adsbygoogle)
 ammanealing.org#?#.wpb_wrapper:-abp-has(> div > .sc_item_title:-abp-contains(Advertisement))
-brandbharat.com##amp-img[src*="gnsu.jpg"]
 andhrajyothy.com#?#div:-abp-has(> div[id*="-ad-"])
 angulonline.com#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Sponsored))
 chakrapath.com##app-ad-control-header
