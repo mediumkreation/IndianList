@@ -602,6 +602,7 @@ rashtrachandika.com###rudba-5
 rashtrachandika.com###rudba-7
 rashtrachandika.com###rudba-8
 rashtrachandika.com###rudba-9
+sanjeevnitoday.com###sanje-slider-30
 pressnote.in###sb-container
 kodanki.in,nayabharat.live###secondary
 prajasattaknews.com###secondary .ai-sticky-widget
@@ -1493,7 +1494,7 @@ dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 anugrahavision.com,anweshanam.com,azhimukham.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samacharnama.com,samachartoday.co.in,sanjeevnitoday.com,skynews100.com,yuvaharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,azhimukham.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
@@ -3299,7 +3300,7 @@ pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 dailyindianherald.com##a[href*="chemmanurinternational.com"]
 tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
-dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com,sanjeevnitoday.com##a[href*="click.htm?"][target="_blank"]
+dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,royalbulletin.in,samacharnama.com##a[href*="click.htm?"][target="_blank"]
 ntnews.com##a[href*="countryoven.com"]
 thinatamil.com##a[href*="dailymatrimony.com"]
 agaminews.com,ambalanews24.com##a[href*="daraz.com.bd"]
@@ -3727,6 +3728,7 @@ lokmat.com##div[id^="photoInlist"]
 rashtranayaknews.com,rashtrasamvad.com##div[id^="rasht-"]
 lokmat.com##div[id^="rhs-"]
 samacharsach.com,samacharuk.com##div[id^="samac-"]
+sanjeevnitoday.com##div[id^="sanje-"] img
 sarthaksamay.com##div[id^="sarth-"]
 satymevjayte.com##div[id^="satym-"]
 bilaspurlive.com##div[id^="sgpb-"]
