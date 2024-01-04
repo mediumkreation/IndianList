@@ -1384,7 +1384,6 @@ janadhvani.com##.block-29
 jankaritoday.com##.block-60
 jankaritoday.com##.block-74
 jankaritoday.com##.block-85
-sankathi24.com##.block-adverts
 andhrabhoomi.net##.block-block:not(#block-block-13)
 dainikbhaskarup.com,indiaprimenews.in,khabarhikhabar.com,newj9.com,theguptchar.com##.block-custom-content
 f21news.com##.block-custom-content:not(#tie-block_1405)
@@ -2212,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
