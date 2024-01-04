@@ -1257,6 +1257,7 @@ citykhabre.com##.adwrp
 trustnews24.com##.af-middle-header .content_block
 aryavi.com##.affiliate-card.text-center
 updatenews360.com##.aft-sticky-sidebar
+tatokhabar.com##.after-menu-ad
 batukamma.com##.after-menu-ads
 biharnownews.com##.afw_ad
 agnijwala.com##.agnij-post-top
@@ -2430,7 +2431,7 @@ yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
 ntinews.com##.sidebar iframe
-gpnnews.com##.sidebar-add
+gpnnews.com,tatokhabar.com##.sidebar-add
 unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
 bdbarrta24.com##.sidebar-adv img
