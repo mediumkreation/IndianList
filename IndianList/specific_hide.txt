@@ -2212,8 +2212,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3184,6 +3184,7 @@ lokpati.com##.wp-image-84961
 hotnewsindia.com##.wp-image-87280
 hotnewsindia.com##.wp-image-87281
 bangladeshmail.news##.wp-widget-group__inner-blocks
+newsdainik.com##.wpb-image-popup
 arthosuchak.com,atharvnews.com,beanibazarview24.com,hakkatha.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,therisingcampus.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,bholanews.com,channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
@@ -3497,6 +3498,7 @@ dhinasari.com#?#.tdm-descr:-abp-contains(Advertisement)
 nepaltara.com##div a[target="_blank"] img
 abnews24bd.com##div img[src^="ad/"]
 sansarnews.com##div.a
+newsdainik.com##div.g
 khaskhabar.com##div.mrgR5[style*="height:250px;"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 anweshanam.com##div.rhs > div:nth-child(n+4)
