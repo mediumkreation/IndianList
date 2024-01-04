@@ -3275,6 +3275,7 @@ sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 divaina.lk##a[href*=".daraz.lk"] img
 mymensinghpratidin.com##a[href*="/ad-2/"]
+hamrobiratnagar.com##a[href*="/ads/"]
 newsajako.com##a[href*="/newspaper-ads/"] img
 somoynews.tv##a[href*="?ref="]
 bartabangla.com##a[href*="BandhoB"]
