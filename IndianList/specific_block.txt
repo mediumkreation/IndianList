@@ -395,8 +395,8 @@ perfection-ias-upsc$domain=nextbihar.com
 ||appusami.com^*/thejomayaad3.jpg
 ||appusami.com^*/yogesh.jpg
 ||ararianews.com/wp-content/uploads/2022/09/bpsc-batch-perfection-ias.jpg
-||arghakhanchi.com/wp-content/uploads/2023/09/Screenshot-2023-09-02-190757.png
 ||arghakhanchi.com/wp-content/uploads/2023/10/Screenshot-2023-10-11-134629.png
+||arghakhanchi.com/wp-content/uploads/2023/12/387022938_349141800880212_3024339511594388559_n-1-1.gif
 ||arlivenews.com/wp-content/uploads/2022/04/udaipur-uit-advertisement
 ||arlivenews.com/wp-content/uploads/2022/07/20220714_193742.gif
 ||arlivenews.com^*/sojatia-
@@ -2012,6 +2012,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||kazirbazar.com^*/ad-1.jpg
 ||kbuccket.sgp1.digitaloceanspaces.com/balliakhabar/*/Aishpra-
 ||kbuccket.sgp1.digitaloceanspaces.com/balliakhabar/2022/04/03153431/Milk
+||kendrabindu.com/ads/$domain=arghakhanchi.com
 ||keralakaumudi.com/static/ads/imgs/saltandpepper.jpg
 ||keralanewshunt.com/images/coirfed%20cut.jpg
 ||keralanewshunt.com/images/csb.jpg
@@ -2204,7 +2205,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||lekalionline.com^*/yavarest.gif
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
-||linodeobjects.com^$image,domain=arghakhanchi.com
 ||lipuleknews.com/wp-content/uploads/2020/05/Aalital-ad.jpg
 ||lipuleknews.com/wp-content/uploads/2020/05/Amargadhi-ad.gif
 ||lipuleknews.com/wp-content/uploads/2020/05/Bhageshwor-ad.jpg
@@ -3072,7 +3072,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||prixa.net^*/sadak_ra_sawari_banner-_white_2Fi4KPbRQP.png$domain=ujyaaloonline.com
 ||prixacdn.net/media/240x200_NepaliPatro-Compressed.gif
 ||prixacdn.net/media/Mikes.gif
-||prixacdn.net^*/$image,domain=arghakhanchi.com
 ||priyoshomoy.com^*/diabeties-course
 ||priyoshomoy.com^*/piles-cure
 ||probash-mela.com/wp-content/uploads/2018/06/Sol1000p.jpg
