@@ -1005,7 +1005,6 @@ eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
 odhikar.news##.adSlides
 aajkaal.in##.ad__full--length
-dcnepal.com##.ad__space
 dhanamonline.com##.ad_before_level_3
 lifeglint.com##.ad_bottom_lip
 news18.com##.ad_cntainer
@@ -1306,7 +1305,7 @@ bolbihar.in##.b-ads
 manabadi.co.in##.backg-g
 71barta24.com,71times.com,ajkercrimenews.com,ajkercrimetimes.com,ajkertanore.com,alochitosokal.com,alokitodhaka.com,alokitonarayanganj24.net,alokitoteknaf.com,aznewsbd24.com,bandarbanpratidin.com,bangla71news.com,banglalivenews24.tv,banglanewstv.com,banglarkagoj.net,banglarkonthosor.com,barishalsomoynews.com,bholatimes24.com,borendronews.com,businesshour24.com,ccnews24.com,chatgarsangbad.net,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailyajkersurjodoy.com,dailyamaderbangladesh.com,dailyapashinkantha.com,dailybahadur.com,dailydishari.com,dailyjugantorsangbad.com,dailynotunsongbad.com,dainikcampus.com,dainikdishari.com,dainikshikkhokderkotha.com,dainiksomoyerbangladesh.com,dainikvatibangla.com,daynikekusherbani.com,deshersangbad24.com,deshprotidin.com,eibela.net,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gabtalisangbad.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,indurkanibarta.com,jagratajanata24.com,jamunanewsbd.com,jubokantho24.com,kansatnews24.com,kopotakkhotimes.com,lalsobujerkontho.com,munshiganjvision.com,narayanganjprotidin.com,newsbna.com,newspabna.com,paribahanjagot.com,patiyapratidin.com,pollysoktybarta.com,pracestanews24.com,priyobanglanews24.com,rbcnewsbd.com,sarakkhonnews.com,setvnews24.com,sharekhabar24.com,sherpurgrambangla.com,shikkhapotrika.com,shiromoni.com,somoyerdak24.com,songbadsarakkhon.com,surjodoy.com,sylhetmail24.com,teknaf71.com,thebarisal.com,weeklyhajiganj.com##.bannar
 samajeralo.com##.bannar-full-width
-24hnbc.com,asianmetronews.com,chapainews.com,comilla71tv.com,coxsbazarpost.com,crimeexpressbd.com,dailyganomukti.com,dcnepal.com,firlive.com,globalmalayalam.com,hajjnews.com.bd,kanchanjanghaonline.com,kharinews.com,khobor24ghonta.com,malayaleevision.com,narsingdijournal.com,odia-ray.in,postpati.com,puthithu.com,safalkhabar.com,sajhasabal.com,satkhiratoday.com,tamilscreen.com,tezsamachar.in,voiceofsatkhira.com##.banner
+24hnbc.com,asianmetronews.com,chapainews.com,comilla71tv.com,coxsbazarpost.com,crimeexpressbd.com,dailyganomukti.com,firlive.com,globalmalayalam.com,hajjnews.com.bd,kanchanjanghaonline.com,kharinews.com,khobor24ghonta.com,malayaleevision.com,narsingdijournal.com,odia-ray.in,postpati.com,puthithu.com,safalkhabar.com,sajhasabal.com,satkhiratoday.com,tamilscreen.com,tezsamachar.in,voiceofsatkhira.com##.banner
 alokitomymensingh24.com##.banner-ad-01
 kahalenews.com##.banner-ad-wrap
 24hnbc.com##.banner-add
@@ -1787,7 +1786,7 @@ nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 rastriyakhabar.com##.full-ads-wrapper
 samadhannews.com##.full-bann
-dcnepal.com,safalkhabar.com##.full-banner
+safalkhabar.com##.full-banner
 nepalsamaya.com##.full-bigyaapan
 baahrakhari.com,capitalnepal.com,khelpati.com,sajhapost.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
@@ -2212,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2860,7 +2859,7 @@ biniyogbarta.com##.topadmid
 nationaldetectivenews.com,ournewsbd.net##.topadrt
 cinema.dinamalar.com##.topadtxt160
 sylheterdak.com.bd##.topadv
-ajakoartha.com,banglavashi.com,dcnepal.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
+ajakoartha.com,banglavashi.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 filmykhabar.com##.topheaderpic
