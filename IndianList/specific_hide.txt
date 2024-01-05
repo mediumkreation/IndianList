@@ -1370,7 +1370,7 @@ dekhapadhi.com,sajhapost.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 merofilm.com##.bigyapaan__section
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
-canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
+annapurnapost.com,canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 merofilm.com##.bigyapan-banner
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
@@ -2136,6 +2136,7 @@ prajavani.net##.mob_only
 news13.in##.mobadv-4
 bhilwarahalchal.com,capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
+annapurnapost.com##.modal__img
 theleader.lk##.module-ct .custom
 mohagani.com##.mohag-widget
 everesttimes.net,pclive7.com,uthayannews.ca##.mom-e3lanat
