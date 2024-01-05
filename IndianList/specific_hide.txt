@@ -1547,6 +1547,7 @@ teluguwirals.com##.custom-header
 durnityreport24.com,enavabharat.com,kositimes.com,seradesh.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
+gramajyothi.com##.custom1
 andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
 biharivoice.com,divyahimachal.com##.customad
@@ -1802,6 +1803,7 @@ dcnewsbd.com,hotnewsindia.com##.fullwidthbanner-container
 samugammedia.com##.fw-bold.text-black
 ctgpratidin.com##.fxozitmah
 damaulikhabar.com##.g-dyn
+gramajyothi.com##.ga-1
 cinema.dinamalar.com##.gal-img2
 trttamilolli.com##.galboxcontainer
 bangladesherkhabor.net##.gallery
@@ -2211,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
