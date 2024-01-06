@@ -1207,7 +1207,7 @@ radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
-ada.lk,divyahimachal.com,manithan.com,samvaad365.com,shyamalsylhet.net,tamilan24.com##.advert
+ada.lk,manithan.com,samvaad365.com,shyamalsylhet.net,tamilan24.com##.advert
 ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
@@ -1550,7 +1550,7 @@ gtamilnews.com##.custom-html-widget iframe
 gramajyothi.com##.custom1
 andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
-biharivoice.com,divyahimachal.com##.customad
+biharivoice.com##.customad
 banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv##.d-flex
