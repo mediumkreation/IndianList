@@ -83,7 +83,7 @@
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
 /advertisement/*$domain=khabarmukam.com|newuthayan.com|sportsmail24.com|thannambikkai.org
 /advertisementBanners/*$domain=keralaexpress.com
-/advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
+/advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -144,6 +144,11 @@
 @@||images.merolagani.com//content/bigyapan/3614f561-42c2-429f-8424-d0a8d10bfb56.gif
 @@||images.merolagani.com//content/bigyapan/53f9e1f4-59de-4cd5-9ae0-c98a139a0068.gif
 @@||img.setopaty.com/uploads/bigyaapan/1582009187.jpg
+@@||janachasotimes.com/advertisements/28-09-2023-65154da95e0c2-add5.gif
+@@||janachasotimes.com/advertisements/28-09-2023-65154e7db1ed0-final-2.gif
+@@||janachasotimes.com/advertisements/28-09-2023-6515549d80d0c-3-add.gif
+@@||janachasotimes.com/advertisements/28-09-2023-65155553318bd-add-4.gif
+@@||janachasotimes.com/advertisements/31-10-2023-65408519b3308-tarkeshwor.gif
 @@||jogsanjogtimes.com/banner/1445259611B0041-52A0-4432-A379-A273EF51EB69.jpeg
 @@||jogsanjogtimes.com/banner/4856255068DF20-DF15-4610-AF62-014BCB780684.jpeg
 @@||kalikanews.com/uploads/bigyaapan/32338500.png
