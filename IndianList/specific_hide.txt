@@ -1289,7 +1289,7 @@ moviemax.in##.articleText > center > div
 newsatfirst.com##.aside-add
 bijoybanglabd.com##.asn-bk-txt
 eisamay.com,gujarati.economictimes.com,maharashtratimes.com##.atf-wrapper
-timesnowhindi.com##.atfAdContainer
+timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 ourbiratnagar.net##.av_block
 kabirkiawaz.in##.av_slied
@@ -1356,7 +1356,7 @@ beanibazarview24.com,paathoknews.com##.better-ads-listitemad
 71newstoday.com##.betterad-container
 humsamvet.com##.bg-color-gray-fot
 thamilan.lk##.bg-grey-lighter.w-full
-timesnowhindi.com##.bggrayAd
+timesnowhindi.com,timesnowmarathi.com##.bggrayAd
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
 anytechtune.com##.big-add
@@ -2213,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3771,6 +3771,7 @@ paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
 malayalivartha.com##div[style*="height:1120px; "]
 maagulf.com##div[style*="height:260px"]
+timesnowmarathi.com##div[style*="min-height: 181px;"]
 patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
 thedailycampus.com##div[style*="width: 300px"][style*="height: 250px;"]
 thedailycampus.com##div[style*="width:300px"][style*="height:250px;"]
