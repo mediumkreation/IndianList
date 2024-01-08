@@ -564,6 +564,7 @@ rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
 badaunexpress.com###posts-list-widget-5 ~ .widget_text
+pardafas.com###primary .gam-ad-position-wrap
 bhalukanews.com###primary img[alt="ads"]
 purbashabd24.com###primary-sidebar
 samacharhouse.com###quads-ad17070
@@ -2213,8 +2214,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2358,6 +2359,7 @@ anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
 gossiplankanews.com##.rimage
 kendrabindu.com##.roadblock
+pardafas.com##.roadblock__ad a img
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 thedailycampus.com##.roni-bhai-special
