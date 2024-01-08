@@ -49,7 +49,6 @@
 /AD-$domain=ptbnewsbd.com
 /ad-*-300$domain=pahareralo.com
 /ad-*x300$domain=pahareralo.com
-/ad-jd-$domain=jaianndata.com
 /ad-saint$domain=pahareralo.com
 /ad.jpg|$domain=bbc24news.com
 /Ad.jpg|$domain=newsvob.com
@@ -1826,9 +1825,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||jagratilahar.com/control/media/1622749256.jpg
 ||jagratilahar.com/control/media/1625073535.jpg
 ||jagruktimes.co.in/uploads/editorial/1668848340.jpg
-||jaianndata.com/wp-content/uploads/2020/05/IMG-20230304-WA0003.jpg
-||jaianndata.com/wp-content/uploads/2022/09/IMG-20230405-WA0006.jpg
-||jaianndata.com/wp-content/uploads/2022/09/IMG-20230405-WA0007.jpg
+||jaianndata.com/wp-content/uploads/2023/12/CG-ADVT.jpg
 ||jaijaidinbd.com^*/ad_
 ||jaijaidinbd.com^*/shwapno
 ||jaijaidinbd.com^*/swopno
