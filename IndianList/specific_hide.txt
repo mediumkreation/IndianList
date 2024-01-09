@@ -1926,6 +1926,7 @@ jeevalokam.com##.homeboxouter
 saharanpurweb.in##.homemainads
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
+desimartini.com##.horizontal_ad_wrap
 tips4blog.com##.hot_rwc_ads
 eisamay.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
