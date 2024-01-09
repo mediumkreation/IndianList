@@ -1366,8 +1366,8 @@ capitallivenews.com##.bignews_slider
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
 himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
-baahrakhari.com,himalkhabar.com##.bigyaapan-item
-dekhapadhi.com,sajhapost.com##.bigyaapan-section
+himalkhabar.com##.bigyaapan-item
+baahrakhari.com,dekhapadhi.com,sajhapost.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 merofilm.com##.bigyapaan__section
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
@@ -1574,7 +1574,6 @@ kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 argusnews.in##.desktop-square-ad
 bikashnews.com##.desktop_main_news_banner
 nayabishwo.com##.detail-ad-holder
-baahrakhari.com##.detail-bigyapan
 khabardabali.com##.detail-right-ad img:not([src*="unicode_converter.jpg"])
 ekusheysangbad.com##.details-big-banner
 citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
@@ -2396,7 +2395,6 @@ rastriyakhabar.com##.side-ads-wrapper
 gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
-baahrakhari.com##.side-bigyaapan
 gournadi24.com##.side-indent .wgs-ads:first-child
 allnewsbharat.com,provatnews.com##.sideAdd
 gramnagarbarta.com##.sideAds_bg
@@ -2542,7 +2540,6 @@ rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
-hamrokhelkud.com##.small_space_wrapper
 dailydhaka24.com,inews.zoombangla.com,kannadanewsnow.com,theriyuma.com##.smartmag-widget-codes
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
