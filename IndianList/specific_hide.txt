@@ -1723,7 +1723,6 @@ hpnewsatl.com##.et_pb_post_content img
 hpnewsatl.com##.et_pb_slider
 satyapathnews.com##.etad
 tandavnews.com##.euvradxs
-eveningkerala.com##.eveni-content_5
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
 womeneye24.com##.exclusiveSec + .row
@@ -2101,7 +2100,7 @@ anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
 ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
-veerdharanews.com##.master-slider-parent
+eveningkerala.com,veerdharanews.com##.master-slider-parent
 mzamin.com##.mb-5.justify-content-center
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
