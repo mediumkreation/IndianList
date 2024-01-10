@@ -10,7 +10,7 @@ samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 odiascraps.info###HP_O_LHS_7 > div:nth-child(-n+5)
 actionnews.in,adrasaka.com,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
-bhopalsamachar.com,chilahatiweb.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
+bhopalsamachar.com,cnblive.com,ezhomelive.com,hadapsarexpress.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
 dailyhealthletters.com,india2daynews.com,liveaaryaavart.com###HTML12
@@ -38,7 +38,7 @@ tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,nobojagorontv.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
 gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
 chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
-dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
+chilahatiweb.com,dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 kasargodvartha.com###HTML92
