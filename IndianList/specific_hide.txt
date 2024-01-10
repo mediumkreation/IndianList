@@ -365,6 +365,8 @@ thedailybarta.com###header-section .my-1
 sankhnaad.com###header-widget
 keralaviews.com###header-widgets
 lokmat.com,lokmatnews.in###headerBanner
+tamil.goodreturns.in###headerBannerPromo
+goodreturns.in###headerTopAd
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
@@ -1812,6 +1814,7 @@ nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 bethanchokkhabar.com,nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 banglaxp.com##.gb-container-f86c88c8
+tamil.goodreturns.in##.gd-multi-news ul > div
 24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
@@ -4045,6 +4048,7 @@ suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
 voiceasian.news##table[width="1000"]:not([cellpadding])
 bihardootnews.com##tagdiv
+tamil.goodreturns.in#?#li:-abp-has(> div[id^="taboola-mid"])
 tamil.mykhel.com#?#.article-tag-content:-abp-has(> .oiad)
 tamilnews.cc#?#.main-menu ~ .container div:-abp-has(> a > img[src*="/uploads/ads/"])
 tamizhakam.com#?#p:-abp-contains(Advertisement)
