@@ -1325,7 +1325,6 @@ rojanapunjab.com##.banner1
 jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 kalyugkatehelka.com,raftaarindianews.com##.bannerListWidget
-ejanakpurtoday.com##.banner__ads
 rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
@@ -2212,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3521,6 +3520,7 @@ otvkhabar.in##div[class$="-ad"]
 chakrikhobor.com##div[class$="-ads"]
 keralaexpress.com##div[class$="-adv"]
 odishareporter.in##div[class$="0-ad"]
+ejanakpurtoday.com##div[class$="_ads"]
 asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
