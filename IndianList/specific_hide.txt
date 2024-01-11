@@ -38,7 +38,7 @@ tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,nobojagorontv.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
 gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
 chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
-chilahatiweb.com,dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
+dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 kasargodvartha.com###HTML92
@@ -2214,8 +2214,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
