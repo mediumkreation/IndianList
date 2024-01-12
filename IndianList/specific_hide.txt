@@ -1891,7 +1891,6 @@ tirangaacindianews.com##.headnBx .text-right
 krushinama.com##.herald-da
 lokpati.com##.herald-no-sid
 lokpati.com##.herald-txt-module img.size-full
-lokpati.com##.herald-txt-module img[src*="gif"]
 supportmeindia.com##.hero-section
 business-standard.com##.hide-on-mobile
 himachalmedia.co##.himac-widget
@@ -2214,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3131,6 +3130,8 @@ banglanewsdunia.com##.wp-image-21155
 lokpati.com##.wp-image-225930
 newssunamganj.com##.wp-image-22995
 banglanewsdunia.com##.wp-image-23927
+lokpati.com##.wp-image-242302
+lokpati.com##.wp-image-243512
 sachkahoon.com##.wp-image-248125
 sachkahoon.com##.wp-image-248302
 gangnirchokh.com##.wp-image-25993
