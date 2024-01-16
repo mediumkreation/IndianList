@@ -502,7 +502,7 @@ biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
 abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in###metaslider_widget-2
-24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,ravivardelhi.com,thekhabri.in###metaslider_widget-3
+digitalnewslive.com,januday.com,mahekasansar.com,npg.news,ravivardelhi.com,thekhabri.in###metaslider_widget-3
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
@@ -1670,6 +1670,7 @@ kamuktastories.com##.enhanced-text-widget
 dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,sunbd24.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
+24expressnews.in##.entry-content .banner_wrapper
 uksuddi.in##.entry-content .bsac
 beforepublish.com,bharatbarta.com,dainikjayantnews.com,deepamnews.lk,healthbangla.com,rcbrn.com,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
@@ -2124,7 +2125,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
-abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,tharexpressnews.com##.ml-slider
+24expressnews.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,tharexpressnews.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
@@ -2211,8 +2212,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
