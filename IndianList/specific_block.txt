@@ -81,7 +81,7 @@
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=bizshala.com|keralasabdam.in|nanaonline.in|newsabhiyan.com|srijannews.com|swatantraawaz.com|tatkalnews.com
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
-/advertisement/*$domain=khabarmukam.com|newuthayan.com|sportsmail24.com|thannambikkai.org
+/advertisement/*$domain=khabarmukam.com|newuthayan.com|sportsmail24.com|thannambikkai.org|yugvartanews.com
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /advertisments/*$domain=parchhayin.com

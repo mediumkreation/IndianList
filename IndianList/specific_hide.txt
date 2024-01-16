@@ -2210,8 +2210,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -4087,4 +4087,5 @@ vijaykarnataka.com#?#div:-abp-has(> div[data-native-ad])
 visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
 voiceasian.news#?#table[height="100"]:-abp-has(> tbody > tr[bgcolor])
+yugvartanews.com#?#center:-abp-contains(ADVERTISEMENT)
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
