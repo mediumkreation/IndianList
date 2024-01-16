@@ -490,7 +490,6 @@ bharatjan.com###media_video-9
 middleeastchandrika.com###mep_0
 arthanepal.com,eparinews.com###messagem
 ravivardelhi.com###metaslider-id-135
-smnewshimachal.in###metaslider-id-8121
 idunammaooru.in###metaslider_10258
 moviemandu.com###metaslider_1316
 dailypunjabnews.com###metaslider_16689
@@ -3566,7 +3565,7 @@ nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
 meddlingmedia.com##div[class*="pubadban"]
 sachkitop.com##div[class*="sachk-"]
-angultv.com,rastriyadaily.com,todaypati.com##div[class*="sgpb-"]
+angultv.com,rastriyadaily.com,smnewshimachal.in,todaypati.com##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
