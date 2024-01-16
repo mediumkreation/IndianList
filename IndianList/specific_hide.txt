@@ -1688,7 +1688,6 @@ newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
-dailysamvad.com##.entry-content center > img
 dainikkhabraan.com##.entry-content div[class*="daini-"]
 dailysatnadee.com##.entry-content div[data-adid]
 cgmitan.com##.entry-content div[id^="cgmit-"]
@@ -2209,8 +2208,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3885,6 +3884,7 @@ kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 india2daynews.com##img[alt^="Menu"]
 purbanchal.com##img[alt^="Tribune Tower"]
+dailysamvad.com##img[alt^="iTree"]:not([data-lazy-src*="-my-PIC"])
 dailypurbodesh.com##img[class^="sb-ads"]
 pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
