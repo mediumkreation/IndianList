@@ -1500,7 +1500,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,mycitydilse.com,rni.news,suragbureau.com,udaybulletin.com##.container-bn
+aajtakmedia.net,malayalamnewstimes.com,mycitydilse.com,rni.news,suragbureau.com,udaybulletin.com##.container-bn
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 koshionline.com##.container-fluid.pt-3
 dhakapost.com##.container-section.py-3
@@ -1857,7 +1857,7 @@ firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com##.header-promo
 alochitokantho.com.bd##.header-promotion
-a2zsamachar.com,azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,malayalamnewstimes.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,theprobashi.com##.header-right
+a2zsamachar.com,azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,theprobashi.com##.header-right
 headline24x7.com,khabarduniya.com##.header-right-adv
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
@@ -2141,7 +2141,6 @@ janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 uthayannews.ca##.mom_custom_text
 chattogramersomoy.com##.mom_e3lan-empty
-malayalamnewstimes.com##.momizat-video
 bengaluruvartha.in##.ms-parent-id-1
 damaulionline.com##.mt-3
 sandhannews.com##.mtphr-dnt-widget
