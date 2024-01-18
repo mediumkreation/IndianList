@@ -97,6 +97,7 @@ deshbandhu.co.in###addImage
 editorjee.com###addheaderbanner
 professorsbd.com###addv
 khabor.com###adgshp985719811
+sylheterchakrirkhabar.com###adm-container-1118
 maihugodda.com###adoverlay
 malayalamdaily.in###adrotate-wrapper
 udayavani.com###ads
@@ -3856,6 +3857,7 @@ kantipath.com##img[alt*="add"]
 khabreaajtaklive.com##img[alt*="ads"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
+sylheterchakrirkhabar.com##img[alt="Ad space"]
 newswayanad.in##img[alt="Ad"]
 dcnewsbd.com##img[alt="Advertisement"]
 newspagebd.com##img[alt="Biggapon"]
