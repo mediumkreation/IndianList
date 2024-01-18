@@ -2295,7 +2295,7 @@ firstbihar.com##.post-widget-carouselr
 sharebiz.net##.post-wrap.post .sidebar .widget_text
 satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
-sabkikhabar.com,samarthsahara.com,todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
+sabkikhabar.com,samarthsahara.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
 sakalakhabar.com##.primary-sidebar-widget
@@ -2441,6 +2441,7 @@ cgsandesh.com##.sidebar-box.bg-aqua
 meddlingmedia.com##.sidebar-column
 khabarchalisa.com##.sidebar-inner .widget_custom_html
 janayugomonline.com##.sidebar-inside .widget_custom_html
+todaysheoharnews.com##.sidebar-nav .mb-2 img
 sunamganjerkhobor.com##.sidebar-news.justify-content-center
 despardesweekly.co.uk##.sidebar-right
 sanjevani.com##.sidebar-right > .widget_text > h5
@@ -4076,7 +4077,6 @@ timeskerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > h5:
 timesnowtamil.com#?#div:-abp-has(> .ad-div)
 timesofswaraj.com#?#.widget_block:-abp-has(> ins.adsbygoogle)
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
-todaysheoharnews.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt))
 ttncinema.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div p:-abp-contains(AD |) )
 tv20news.in#?#p:-abp-contains(Advertisement)
 twentyfournews.com#?#div:-abp-has(> span:-abp-contains(Advertisement))
