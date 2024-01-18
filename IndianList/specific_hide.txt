@@ -3457,6 +3457,7 @@ chaukastoli.com,grenonews.com,hellobikaner.in,newsvariant.com,rajsattanews.com##
 jagatprahari.com##aside.widget_text:not(#text-25):not(#text-27)
 thepublicworld.com##aside.widget_text:not(#text-49):not(#text-51)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
+nbchindi.com##aside[id^="ai_widget-"]
 asr24.news#?#.card:-abp-has(> .card-header:-abp-contains(Advertisment))
 atalhind.com#?#div:-abp-has(> div > p >.adsbygoogle)
 atalsamachar.com#?#div[id^="AS_O_LHS"] > div:-abp-has(a[href*="paid.outbrain.com"])
