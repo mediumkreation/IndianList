@@ -2027,6 +2027,7 @@ lanka4.com##.left .aside-wrapper
 madhyamam.com##.left_level_2
 bankura24x7.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
+odishasambad.in##.leg
 lekalionline.com##.lekali_online_adv
 hindifiber.com##.lhk-ads-container
 maatram.org##.lightwidget-widget
@@ -2210,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3114,7 +3115,6 @@ newssunamganj.com##.wp-image-11042
 kalyugkatehelka.com##.wp-image-1118
 hindustanheadlines.in##.wp-image-11223
 lokhitexpress.com##.wp-image-122343
-odishasambad.in##.wp-image-126002
 bebakuttarakhand.com##.wp-image-12972
 onakanthirkantho.com##.wp-image-133
 bonggonews.com##.wp-image-13566
@@ -3181,7 +3181,6 @@ dailyajkertalash.com##.wp-image-7688
 newssunamganj.com##.wp-image-77
 dailyoporad.com##.wp-image-783
 paribahanjagot.com##.wp-image-8135
-odishasambad.in##.wp-image-82180
 paribahanjagot.com##.wp-image-822
 paribahanjagot.com##.wp-image-825
 dnewsnetwork.in##.wp-image-82536
@@ -3448,7 +3447,7 @@ todaybhaskar.com##aside.widget_black_studio_tinymce
 bhadas4media.com,inkpoint.in##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,kokanmedia.in,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
 bihardootnews.com,thenewsblast.com##aside.widget_media_gallery
-64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,impact24news.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,ktmkhabar.com,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,mediawala.in,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,odishasambad.in,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,sutranews.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
+64kalalu.com,amaderbharat.com,anshprabhat.com,anwesantv.wordpress.com,bahrainvartha.com,bdnews.live,bharatnewsservice.com,bijoybangla.news,buxaruptodate.com,canamnews.com,champawatkhabar.com,cinemapluz.com,cumillarbarta.com,dailygazipuronline.com,deshbartabd.com,dhunkhabar.com,impact24news.com,kalakarmi.com,kannadanet.com,khabarhp.com,kohramlive.com,kokanmedia.in,ktmkhabar.com,kuberbhoomi.com,mahavoicenews.com,matraeducation.com,mbdwebnews.com,mediawala.in,mirmireonline.com,motivatenews.com,nepalawaj.com,news39.net,poribortonersopoth.com,prabartan.com,punjabinational.ca,rajsattapost.com,realviewnews.com,rj24news.com,samarneetinews.com,samaysakshya.co.in,saurahaonline.com,shadhinalo.com,sokalerkhobor24.com,sutranews.com,tarangabarta.com,theeditor24.com,thelifelinetoday.com,udayakala.news,udaydinmaan.com,updatesatkhira.com,vtvvitla.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
 onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
