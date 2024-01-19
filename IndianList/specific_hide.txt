@@ -1487,7 +1487,7 @@ banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 purvanchal24.com##.col-md-4 .pbwidget
 dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
-anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,crimecapital.in,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
+anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com##.colombiatracked
@@ -1532,6 +1532,7 @@ beanibazarnews24.com##.coronaupperadd
 gonokantho.com##.countdown_wrapper
 pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
+crimecapital.in##.crime-before-content
 keralakaumudi.com##.cs-sec-feat-title
 mediavarta.com##.cscra-promotion
 internationalmalayaly.com##.cscra-promotion > img
@@ -2209,8 +2210,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3489,8 +3490,6 @@ chatonay71news.com#?#.widget_recent_entries:-abp-contains(ads)
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
 cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h6:-abp-contains(Ad |))
 countrynewstoday.com#?#.td-block-title > span:-abp-contains(Advertisement)
-crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
-crimecapital.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h6:-abp-contains(Ad |))
 crimediarybd.com#?#.sidebar-widget:-abp-has(> .widget-body > p:only-child )
 dailybahadur.com#?#.textwidget:-abp-has(> p > ins.adsbygoogle)
 dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
