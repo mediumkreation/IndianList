@@ -3903,7 +3903,6 @@ kasargodvartha.com##img[title="wellfitindia"]
 indiakhabar.co.in#?#div:-abp-has(> .section-title > h4:-abp-contains(ADVERTISEMENT))
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertise))
-indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Google Ad))
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 indiatv.in#?#.ad:-abp-has(> div:first-child)
 indocanadiantimes.com#?#.block-title span:-abp-contains(Sponsored Ads)
