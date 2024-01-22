@@ -2211,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3278,6 +3278,7 @@ firstlookbihar.in##a.sideAdd
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
+vasundharadeep.news##a[aria-label="728×90"]
 prothomalo.com##a[class*="_ad_wrapper__"]
 sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
@@ -3762,6 +3763,7 @@ udupixpress.com##div[id^="udupi-"]
 uttarakhandcitynews.com##div[id^="uttar-"]
 chopaltv.com##div[id^="v-chopaltv"]
 mumbaitak.in##div[id^="v-mumbaitak-in-"]
+vasundharadeep.news##div[id^="vasun-"]
 vijayavani.net##div[id^="vijay-"]
 visiontimes.news##div[id^="vision-"]
 vknews.in##div[id^="vknews"]
