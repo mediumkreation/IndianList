@@ -274,6 +274,7 @@ haryananewsexpress.com###covernews_posts_carousel-7
 biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 chennairoyalcinema.com###custom-img-header
+dankaram.in###customVideo
 biharnewslive.com###custom_html-1
 dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jaihindtimes.in,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
@@ -352,6 +353,7 @@ puttalamonline.com###head-imgput
 anytechtune.com###headadd
 chattolarkhabor.com,delhinews24.com,indiareportertoday.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
 newsbazar24.com###header .col-lg-7
+dankaram.in###header .right
 odishamirror.com###header .sidebar
 digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
 khabarhouse.com###header .widget_block
@@ -1393,7 +1395,7 @@ livekhagaria.in##.blocks-gallery-item
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,manithan.com##.blurb
 jvpnews.com##.blurb img
-aajbangla.in,aankhennews24.com,bhadainimirror.com,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,dakshinapath.com,darsilivetv.com,ekaainabharat.com,fesn.in,hindikhabarwaala.com,indraprasthasamachar.com,jagrantimesnews.com,kirandoot.com,lokjannews.com,naradnews.live,nattuvartha.news,prativad.com,sangritimes.com,sirajganjexpress.com,threesocieties.com##.bn-lg
+aajbangla.in,aankhennews24.com,bhadainimirror.com,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,dakshinapath.com,dankaram.in,darsilivetv.com,ekaainabharat.com,fesn.in,hindikhabarwaala.com,indraprasthasamachar.com,jagrantimesnews.com,kirandoot.com,lokjannews.com,naradnews.live,nattuvartha.news,prativad.com,sangritimes.com,sirajganjexpress.com,threesocieties.com##.bn-lg
 aajbangla.in,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,bundelkhandnews.com,champarantoday.in,darsilivetv.com,fesn.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,highwaychannel.in,hindikhabarwaala.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,indraprasthasamachar.com,jagrantimesnews.com,janajeevala.com,just36news.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,naradnews.live,nayabharat.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,prativad.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sangritimes.com,sansaninews.com,sirajganjexpress.com,starsamachar.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 aankhennews24.com##.bn-md
 britishpathram.com##.body2_ad
