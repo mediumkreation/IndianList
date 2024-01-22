@@ -68,7 +68,6 @@
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dainikdristipat.com|dharitri.com|jugantor.com
 /adss/*$domain=tharunaya.us
-/adv-$domain=devbhoomimedia.com
 /Adv/*$domain=dakhal.net
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com

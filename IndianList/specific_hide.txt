@@ -215,7 +215,7 @@ meerutdarpan.com###block-39
 bd24views.com,bdcrictime.com,bihardailynews.com,hdhrm.com,janadeshexpress.in,khabarsar.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,veekshanam.com###block-4
 anokhateer.com,hamarahimachal.com,indianvoice24.com,newsbanglaa.com,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
-batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
+batukamma.com,devbhoomimedia.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
 areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 cgtop36.com###block-71
 dgnews.co.in###block-76
@@ -2717,7 +2717,7 @@ apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 atulyabharat.in,dailysomoyersomikoron.com,hellobikaner.in,khabargujarat.com,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,shahtimesnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
-dunvalleymail.com,lankanewsweb.net,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
+devbhoomimedia.com,dunvalleymail.com,lankanewsweb.net,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
 navdeshtimes.com##.td_separator_solid
