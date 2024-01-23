@@ -1019,6 +1019,7 @@ bdtimesnews.com##.ad_text_box
 outlookhindi.com##.ad_unit_728x90
 corporatenepal.com,merofilm.com##.adalytics_ad
 ekagaj.com,farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
+barnanmedia.com##.adalyticsblock img:not([src*="newbarnan_"])
 prabhatvaibhav.com##.adbar-area--
 dainikvishwamitra.com##.adbnr
 bharatdarshannews.com##.adbo
@@ -1193,8 +1194,6 @@ sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
 marathi.hindustantimes.com##.advMasterSlot
 anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com##.advRow-fullW
-barnanmedia.com##.adv__detail
-barnanmedia.com##.adv__sidebar
 doolnews.com##.adv_box_3x25
 bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
@@ -1299,8 +1298,6 @@ newshubinsight.in##.avt_masterslider_el
 kabirkiawaz.in##.avv_custom
 ittefaq.com.bd##.aw320
 dnewsnetwork.in##.awac img.image
-barnanmedia.com##.axdv__page
-barnanmedia.com##.axdvertisement
 newstaglive.com##.axil-banner
 newstaglive.com##.axile-ads-wrapper
 bolbihar.in##.b-ads
@@ -1369,7 +1366,7 @@ himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
 himalkhabar.com##.bigyaapan-item
 baahrakhari.com,dekhapadhi.com,sajhapost.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
-merofilm.com##.bigyapaan__section
+barnanmedia.com,merofilm.com##.bigyapaan__section
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 annapurnapost.com,canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 merofilm.com##.bigyapan-banner
@@ -1874,7 +1871,6 @@ ausamachar.com##.header-widget-region
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
 corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
-barnanmedia.com##.header__top .d-lg-block
 banglatribune.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
@@ -2214,8 +2210,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
