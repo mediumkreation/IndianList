@@ -212,7 +212,7 @@ thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bd24views.com,bdcrictime.com,bihardailynews.com,hdhrm.com,janadeshexpress.in,khabarsar.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,veekshanam.com###block-4
+bd24views.com,bdcrictime.com,bihardailynews.com,hdhrm.com,janadeshexpress.in,khabarsar.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,thedastak24.com,veekshanam.com###block-4
 anokhateer.com,hamarahimachal.com,indianvoice24.com,newsbanglaa.com,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com###block-5
 anwesantv.wordpress.com###block-52
 batukamma.com,devbhoomimedia.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
@@ -302,7 +302,6 @@ khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
 angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,kalyankesari.com,khabarexpert.in,khabarstate.com,khabaruttarakhand.com,kushtiabd.com,livehalchal.com,lotpot.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,newswayanad.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 saakshatv.com###custom_html-30
-thedastak24.com###custom_html-31
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
 gondwanaexpress.com,saakshatv.com###custom_html-39
@@ -2211,8 +2210,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3070,7 +3069,7 @@ tibrakhabar.com.np##.widget_sow-editor
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
-biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com,thedastak24.com##.widget_supermag_ad
+biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com##.widget_supermag_ad
 ainnews.tv,awazeuttarpradesh.com,deshrupantor.com,gangalahar.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
