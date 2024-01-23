@@ -2213,8 +2213,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3550,6 +3550,7 @@ kamadenu.hindutamil.in,kumudam.com,puthiyathalaimurai.com##div[class*="ad-slot-"
 probashirdiganta.com##div[class*="adbox"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 newsnationtv.com##div[class*="adsense"]
+dailyuttorpurbo.com##div[class*="advert"]
 janaboli.com,justnewsbd.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
 bikanerhulchul.com##div[class*="bikan"]
