@@ -3231,6 +3231,7 @@ boolokam.com##.wpcnt
 news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
+headline24x7.com##.ws-block img:not([src*="headline24.jpg"])
 shabdsaransh.com##.ws-block img:only-child
 sansanilive.com##.ws-block video
 aajkasamay.com##.ws-block-body > a[href=""]
