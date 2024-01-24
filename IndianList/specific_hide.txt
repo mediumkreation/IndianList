@@ -3975,6 +3975,7 @@ patrika.com#?#div[style]:-abp-has(> div[id^="gpt_ads_"])
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
+prabhatkhabar.com#?#div:-abp-has(> div[id^="div-gpt-ad-"])
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
 prothomalo.com#?#div:-abp-has(> .dfp-ad-unit)
 rajasthankhabre.com.mostreadiframe[title~="ad"]
