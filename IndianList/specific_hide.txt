@@ -3645,6 +3645,7 @@ sandhan24.com##div[data-widget_type*="_ads"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
 banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
+uttarakhandpost.com##div[id*="_O_LHS_"] > div:nth-child(-n+10)
 deshvani.in##div[id*="_webads"]
 odiascraps.info##div[id="showAS_O_BEL_0"]
 heraldspot.com##div[id^="AS_O_"] > div:nth-child(-n+10)
