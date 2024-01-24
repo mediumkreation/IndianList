@@ -2211,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3278,7 +3278,6 @@ biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
 vasundharadeep.news##a[aria-label="728×90"]
-prothomalo.com##a[class*="_ad_wrapper__"]
 sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
@@ -3304,7 +3303,6 @@ gkprashnuttar.com##a[href*="bit.ly"]
 divaina.lk##a[href*="bit.ly"] img
 lankadeepa.lk##a[href*="bit.ly/44036s6"] img
 varthabharati.in##a[href*="bitmangalore.edu.in"]
-prothomalo.com##a[href*="bkash.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
 dailyindianherald.com##a[href*="chemmanurinternational.com"]
@@ -3533,11 +3531,8 @@ setopati.com##div[class*="-bigyaapan-"]
 chavakkadonline.com##div[class*="-pubadban"]
 gandaknews.com##div[class*="-shortcode-"]
 news18.com##div[class*="Header_inner_ad"]
-prothomalo.com##div[class*="__ad-slot"]
 bangla.bdnews24.com##div[class*="_ad-slot__"]
-prothomalo.com##div[class*="_ad__"]
 globalnewsbd24.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
-prothomalo.com##div[class*="_ads__"]
 newskannada.com##div[class*="_adv_"]
 bizshala.com##div[class*="_bigyapan"]
 nrimalayalee.com##div[class*="_bottom_ad"]
@@ -3559,7 +3554,6 @@ telugu.filmibeat.com##div[class*="kan-ad"]
 jhabuanews.in##div[class*="kitsune-advert"]
 lokshahi.com,navjivanindia.com##div[class*="m__ad"]
 kalkionline.com##div[class*="m__ad-"]
-prothomalo.com##div[class*="m__ads"]
 navjivanindia.com##div[class*="m__dfp"]
 deshdoot.com##div[class*="m_ad-slot"]
 nainilive.com##div[class*="naini-"]
@@ -3611,7 +3605,6 @@ indianewsviral.co.in##div[class^="india-content_"]
 jagatbhumi.com##div[class^="jagat-content_"]
 hindi.scoopwhoop.com##div[class^="jsx-"]
 kokanmedia.in##div[class^="kokan-"]
-prothomalo.com##div[class^="multipurposeComponent-m__base"]
 navinsamachar.com##div[class^="navin-content"] img:not([src*="PicsArt_05-19-01.16.30.png"])
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
@@ -3619,7 +3612,6 @@ nokhaexpress.com##div[class^="nokha-"]
 pakundiapratidin.com##div[class^="pakun-"]
 parvatprerna.com##div[class^="parva-after-content"]
 patnapost.com##div[class^="patna-"]
-prothomalo.com##div[class^="row1-m__widget-available"]
 sajagpahad.com##div[class^="sajag-"]
 samaydarshan.in##div[class^="samay-"]
 sanjeevanisamachar.com##div[class^="sanje-"]
@@ -3983,8 +3975,7 @@ pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 promisenews24.com#?#.safe_life:-abp-has(> .textwidget)
-prothomalo.com#?#div:-abp-has(> .widget-or-advertisement)
-prothomalo.com#?#div:-abp-has(> iframe[title*="title"])
+prothomalo.com#?#div:-abp-has(> .dfp-ad-unit)
 rajasthankhabre.com.mostreadiframe[title~="ad"]
 rajbirajdainik.com.np#?#section:-abp-has(> div > .advimg)
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
