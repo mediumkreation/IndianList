@@ -452,8 +452,8 @@ cgnews24x7.wordpress.com,dainikchintak.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
-cgimpact.org,dhamakachhattisi.in,ggsnews24.com,khabarpahad.com,loksaakshya.com,madhyabhoomikeboal.com###media_image-27
-ggsnews24.com,khabarpahad.com,loksaakshya.com,voiceofbihar.in###media_image-28
+cgimpact.org,dhamakachhattisi.in,ggsnews24.com,loksaakshya.com,madhyabhoomikeboal.com###media_image-27
+ggsnews24.com,loksaakshya.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
 amritvarshanews.in,ayushindianews.com,dainikkhojkhabar.live,dainiklumbini.com,darpansamachar.com,dharuvu.com,fairnepal.com,fenirzamin.com,globalsylhet.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
 cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
@@ -461,8 +461,8 @@ starbanglanews.net###media_image-32
 voiceofbihar.in###media_image-36
 voiceofbihar.in###media_image-38
 aakhriaankh.com,bharatjan.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dainiklumbini.com,dhinakkavalan.com,himachalnewsdaily.com,hindustanrepublic.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,pahaltoday.com,prakharpurvanchal.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
-khabarpahad.com,voiceofbihar.in###media_image-41
-khabarpahad.com,nationaltodaylive.com,peptechtime.com###media_image-42
+voiceofbihar.in###media_image-41
+nationaltodaylive.com,peptechtime.com###media_image-42
 badauntoday.com,dailysomoyersomikoron.com,dainikkhojkhabar.live,dgnews.co.in,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 googlepokhara.com,madhyabhoomikeboal.com###media_image-51
@@ -2096,7 +2096,7 @@ malabarnews.com##.malab-home-page-sidebar-2
 cninews24.com##.map
 anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
-ayushindianews.com,khabarpahad.com,tv20news.in##.master-slider
+ayushindianews.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 eveningkerala.com,veerdharanews.com##.master-slider-parent
 mzamin.com##.mb-5.justify-content-center
@@ -2210,8 +2210,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3256,7 +3256,6 @@ cinejosh.com##[class*="googleAd"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
 sirfsach.in##[class^="adsbox"]
-khabarpahad.com##[class^="khaba-"]
 hamromat.com##[class^="sgpb-"]
 attariyaonline.com,channelionline.com,setohimalnews.com,telugumuchatlu.com,theutkal.in##[data-adid]
 kositimes.com##[data-adid] > p
@@ -3716,7 +3715,7 @@ aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.
 aanthaireporter.in,tamil2daynews.com,tamilankural.com##div[id^="itro_popup"]
 joharlive.com##div[id^="johar-"]
 kasturinews.com##div[id^="kastu-"]
-khabarbihar.in,khabarmuluk.com,khabarsameeksha.com##div[id^="khaba-"]
+khabarbihar.in,khabarmuluk.com,khabarpahad.com,khabarsameeksha.com##div[id^="khaba-"]
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
 koyilandydiary.com##div[id^="koyil-"]
 lagatar.in##div[id^="lagat-"]
