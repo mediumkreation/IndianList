@@ -2211,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2266,6 +2266,7 @@ hamdardtv.com##.plyr
 business-standard.com##.podcastads
 rtvonline.com##.point-table-container a[href*="MamaNoodles_"]
 jamalpurlive.com##.popbox
+dhadingnews.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
 bharatiyadigitalnews.in##.popup
@@ -2986,6 +2987,7 @@ dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 amarsandesh.com##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
+dhadingnews.com##.widget_black_studio_tinymce
 24webnews.com,36garhi.com,a2znewsup.com,avikaluttarakhand.com,azchavattomonline.com,bharatsarathi.com,dainikchhattisgarhwatch.com,insightonlinenews.in,khabareducation.com,khabredinraat.com,nammakudlanews.com,newsaroma.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,scgnews.in,thetruths.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 newszon.in##.widget_block:not(#block-10)
@@ -3396,7 +3398,6 @@ pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 haryanaekhabar.com##a[rel*="sponsored"]
-dhadingnews.com##a[rel*="wp-att"]
 sylheterjanapad.tv##a[target="_blank"] > img
 aarthiknews.com,abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 hollywoodkhabar.com##a[target="_blank"] img:not([src*="Screenshot_2022-11-22_at_10_43_32_PM.png"])
