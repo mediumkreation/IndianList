@@ -1029,7 +1029,6 @@ ajkercrimetimes.com,bholahatchitro.com,sunbanglanews.com##.add .widget_area > im
 alokitonarayanganj24.net##.add .widget_area img:not([src*="54342.jpg"])
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
-amarbarta24.com##.add > a img
 channeldurjoy.com##.add figure.size-full
 alokitokhobor.com,bandarbanpratidin.com,barishalsomoynews.com,bdgaibandha.news,bonggonews.com,channelcox.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,nirjatitonewsbd.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiratimes24.com,shubhoprotidin24.com##.add img
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)

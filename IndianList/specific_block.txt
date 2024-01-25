@@ -58,7 +58,6 @@
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$domain=thenewspost.in
 /add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
-/ADD_$domain=amarbarta24.com
 /add_$domain=shamolbangla24.com
 /AddImages/*$domain=thurannakathu.com
 /Ads-$domain=dailyceylon.com
@@ -362,6 +361,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||amarbanglabd.com^*/ads-
 ||amarbarishal24.com/wp-content/uploads/2017/12/courstika-ad.jpg
 ||amarbarta.com/templates/web-view/images/ad2.jpg
+||amarbarta24.com/templates/web-view/images/ad2.jpg
 ||amarrajshahi.com/media/PhotoGallery/2018November/001-2003161339.jpg
 ||amarzila.news^*/ad/
 ||amazonaws.com/deshsanchar*/nibl_240x103.gif
