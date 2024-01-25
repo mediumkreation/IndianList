@@ -3399,7 +3399,7 @@ indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Fei
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 haryanaekhabar.com##a[rel*="sponsored"]
 sylheterjanapad.tv##a[target="_blank"] > img
-aarthiknews.com,abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
+abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 hollywoodkhabar.com##a[target="_blank"] img:not([src*="Screenshot_2022-11-22_at_10_43_32_PM.png"])
 bankingkhabar.com##a[target="_blank"] img:not([src*="icons"])
 bharatiyadigitalnews.in##a[target="_blank"] img:only-child
