@@ -1621,7 +1621,7 @@ maithilbrahminmahasabha.in##.elementor-element-f2e9897
 biharnewsindia.com,himalipatrika.com.np,parbattaanchal24.com,theeditor24.com##.elementor-image
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
 delhicrimepress.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
-attingalvartha.com##.elementor-popup-modal
+attingalvartha.com,news24bd.net##.elementor-popup-modal
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 delhiuptodate.com,wayanadlivenews.com##.elementor-shortcode img
 perfecttamil.com##.elementor-size-small
@@ -1651,6 +1651,7 @@ graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,samac
 ambalacoverage.com,banglasangbad24.com,indiadhuandhar.in##.elementor-widget-shortcode img
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
+news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
 citizenlive.news##.elementor-widget-smartmag-codes
@@ -2211,8 +2212,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3870,7 +3871,6 @@ sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 ajkerograbani.com,dhakanewsexpress.com##img[alt="advertisement"]
 gramajyothi.com##img[alt="banner"]
 mirsaraikhobor.com##img[alt="mAD"]
-news24bd.net##img[alt="meghna"]
 bhilwarahalchal.com##img[alt="news"]
 khabreelal.com##img[alt="sonu"]
 khabarwaale.com##img[alt="topbanner1"]
@@ -3997,7 +3997,6 @@ dainiki.com##section img.attachment-full
 jubileepost.in##section ~ .e3lan
 thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
-news24bd.net##section.text-center
 arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,news24nepal.tv,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sagarmatha.tv,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
 abcnepal.tv,onlinetvnepal.com##section.widget figure
