@@ -348,6 +348,7 @@ dishadaily.com###full_level_1_detail
 uttareralo24.com###gallery-1
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
+lagatar.in###hadd
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
 chattolarkhabor.com,delhinews24.com,indiareportertoday.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
@@ -2210,8 +2211,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
