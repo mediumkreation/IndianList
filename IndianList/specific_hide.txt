@@ -1061,7 +1061,7 @@ newsnationtv.com,u71news.com##.add-right
 evartha.in##.add-row
 dainiktribuneonline.com,thebengalitimes.com##.add-sec
 dinajpur24.com,malisamajsocial.com,muktirlorai.com,ndtv.in,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
-khabarwaale.com,newsdnntv.com##.add-section img
+newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
@@ -1113,7 +1113,7 @@ osnepal.com,osvevo.com##.addcomponent
 ajkercrimetimes.com,aznewsbd24.com,barishalsomoynews.com,dailyjuboraj.com,deshergarjan.net,mediadabali.com,natunbazar24.com,pirojpursomoy.com,shahnamabd.com,songkalpo.net,tadantachitra.com,uttorersomoy.com##.addd
 nationalduniya.org##.addd_banner
 bangalorewaves.com##.addima
-khabarwaale.com,pathivaradaily.com,protikhon.com##.adds
+pathivaradaily.com,protikhon.com##.adds
 jubokantho.com##.adds-block
 gourbarta24.com##.adds-lg
 onlinemajdoor.com##.adds-sec
@@ -3865,7 +3865,6 @@ farakdhar.com,groundzeroenews.co.in,knanayaworld.com,newsarchives24.com,ujyaaloo
 dinajpur24.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
-khabarwaale.com##img[alt="add"]
 buxaruptodate.com##img[alt="ads buxar"]
 sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 ajkerograbani.com,dhakanewsexpress.com##img[alt="advertisement"]
@@ -3873,7 +3872,6 @@ gramajyothi.com##img[alt="banner"]
 mirsaraikhobor.com##img[alt="mAD"]
 bhilwarahalchal.com##img[alt="news"]
 khabreelal.com##img[alt="sonu"]
-khabarwaale.com##img[alt="topbanner1"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 india2daynews.com##img[alt^="Menu"]
