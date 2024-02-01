@@ -1057,7 +1057,7 @@ dailysabuj.com##.add-longhead
 bnewskolhapur.com,shikkhakantho.com##.add-place
 newsnationtv.com,u71news.com##.add-right
 evartha.in##.add-row
-dainiktribuneonline.com,thebengalitimes.com##.add-sec
+dainiktribuneonline.com,netizennepal.com,thebengalitimes.com##.add-sec
 dinajpur24.com,malisamajsocial.com,muktirlorai.com,ndtv.in,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
 newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
