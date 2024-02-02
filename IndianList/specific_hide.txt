@@ -1528,7 +1528,6 @@ pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 crimecapital.in##.crime-before-content
 keralakaumudi.com##.cs-sec-feat-title
-mediavarta.com##.cscra-promotion
 internationalmalayaly.com##.cscra-promotion > img
 internationalmalayaly.com##.cscra-promotion a:not([href*="internationalmalayaly.com"])
 internationalmalayaly.com##.cscra-promotion:empty
