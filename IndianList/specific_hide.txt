@@ -1792,6 +1792,7 @@ hindi.webdunia.com,tamil.webdunia.com##.full_ads_block
 pchelpcenterbd.com##.fullwidhtads
 unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
+nepalwatch.com##.fullwidth__add
 dcnewsbd.com,hotnewsindia.com##.fullwidthbanner-container
 samugammedia.com##.fw-bold.text-black
 ctgpratidin.com##.fxozitmah
@@ -2209,8 +2210,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
