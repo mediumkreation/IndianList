@@ -1903,7 +1903,6 @@ deshprotikhon.com##.home-page-ads a:not([href*="deshprotikhon.com"])
 sharebazarnews.com##.home-page-ads a:not([href*="sharebazarnews.com"])
 chttoday.com##.home-page-top-right-add
 sabsach.in##.home-secondary-wrapper .widget_media_image
-bplnews24.in##.home-secondary-wrapper .widget_media_image:not(#media_image-53)
 tamilcnn.lk,tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
@@ -2210,8 +2209,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
