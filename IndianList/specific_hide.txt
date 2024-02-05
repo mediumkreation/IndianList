@@ -971,6 +971,7 @@ awamileaguetimes.com,lokaantar.com##.ad-banner
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 dailykaratoa.com,dainikshiksha.com,ichowk.in,news18.com,saralpatrika.com##.ad-container
+cityliveindia.com##.ad-div
 mediaoneonline.com##.ad-gap-sm
 business-standard.com##.ad-height-desktop
 ekagaj.com,newsroomme.com##.ad-img
@@ -2210,8 +2211,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3484,6 +3485,7 @@ champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contai
 chatonay71news.com#?#.widget_recent_entries:-abp-contains(ads)
 chhattisgarhaaj.com#?#.main--sidebar .widget:-abp-has(> div.ad--widget-no)
 cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h6:-abp-contains(Ad |))
+cityliveindia.com#?#div:-abp-has(> .main-heading:-abp-contains(Advertizement))
 countrynewstoday.com#?#.td-block-title > span:-abp-contains(Advertisement)
 crimediarybd.com#?#.sidebar-widget:-abp-has(> .widget-body > p:only-child )
 dailybahadur.com#?#.textwidget:-abp-has(> p > ins.adsbygoogle)
