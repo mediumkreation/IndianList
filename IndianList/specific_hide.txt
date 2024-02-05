@@ -239,7 +239,6 @@ thehdnews.in###cactus-body-container .widget_custom_html
 al-ihsan.net,thattungal.com###carousel
 chouranews.com,nzpunjabinews.com###carouselExampleControls
 cnin.co.in###carouselExampleDark
-khulasanewslive.in###categories-2 .widget-title
 emstv.in###ccr-right-section #sidebar-video-post img
 bangalorewaves.com###classlistmain
 bbn24news.com###cm-secondary .widget_block
@@ -615,7 +614,7 @@ newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,newslemonchoose.com,thelucknowtribune.com,up18news.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
-aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,dakhinanchal.com,demranews.com,ekhabartoday.com,emediatoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,k24news.in,khulasanewslive.in,mediapassion.co.in,newsbindass.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,dakhinanchal.com,demranews.com,ekhabartoday.com,emediatoday.com,fourthpost.com,ghaziabad365.com,haryanabhaskar.com,ideaciti.com,janpatranews.com,jogiexpress.com,k24news.in,mediapassion.co.in,newsbindass.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,sirajganjnews24.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
@@ -711,7 +710,6 @@ garimatvnews.com###sp-ads
 editiontoday.in###sp-adsforbody
 dabangrajdhani.com###sp-right .bannergroup
 techtamil.com###sp_widget_post_slider-2
-khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
 sylheterdak.com.bd###spcl_advertise_right
 telugutimes.net###splide24
@@ -1559,6 +1557,7 @@ ekantipur.com##.daraz-sponser
 telugusmtv.com##.data-area2 .heading
 rtvonline.com##.dazar-ad
 deshabhimani.com##.db-scnAd2
+khulasanewslive.in##.dce-dynamic-posts-collection
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
@@ -1612,6 +1611,7 @@ uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
 aajkijandhara.com##.elementor-col-33 .elementor-section
 nikharanews.in##.elementor-element .size-large
+khulasanewslive.in##.elementor-element-3fb6b77
 namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 namastenri.net##.elementor-element-e9b9b10
@@ -2007,7 +2007,6 @@ filmcityworld.com##.kenm
 khabhar24live.co.in##.khaba-single-blog-manual
 khabarpahad.com,khabarworld.com##.khaba-widget
 khabarhub.com##.khabarhub-inner-ads
-khulasanewslive.in##.khulasanewslivewidget
 parchhayin.com##.kopa-adv-widget
 timesofadventure.com##.kopa-banner-300
 koyilandydiary.com##.koyil-widget
@@ -2509,7 +2508,6 @@ kopotakkhotimes.com##.singlepage-section .widget_area
 news18.com##.site-ad-container
 gaunsahar.com##.site-adv1
 dakshinbharat.com,purvanchalsandesh.com,swatantrabharat.net##.site-content .imagewidget
-khulasanewslive.in##.site-footer .featured-stories
 khabarkunj.com##.site-footer__bottom
 googlepokhara.com,janatakoaawaj.com,kalikadainik.com,nagarikbahas.com,panchakoshitimes.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
