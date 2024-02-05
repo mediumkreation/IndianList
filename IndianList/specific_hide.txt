@@ -539,7 +539,7 @@ onlinekhabar.com###ok18-roadblock-wrap
 outlookhindi.com###olh-rhs1
 saaravita.lk###openModal1
 patnalive.co.in###oppopo
-crickethimalaya.com,musickhabar.com,udghoshdaily.com###ouibounce-modal
+crickethimalaya.com,musickhabar.com###ouibounce-modal
 ratantimes.com###owl-demo1
 importmirror.com###p-vila
 muzaffarpurwow.com###panel-134-5-1-0
@@ -1635,7 +1635,6 @@ simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"]
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
-udghoshdaily.com##.elementor-widget-image img:not([src*="Purna-Khop.jpg"]):not([src*="Novel_corona_AD-"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
