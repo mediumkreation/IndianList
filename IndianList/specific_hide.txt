@@ -2210,8 +2210,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2790,7 +2790,7 @@ sabkasandesh.com##.theiaStickySidebar .widget_media_image:not(#media_image-15)
 parvatjan.com##.theiaStickySidebar .widget_media_video
 kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,indootimes.com.au,minnambalam.com,opennewsx24.com,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,indootimes.com.au,minnambalam.com,navrashtramedia.com,opennewsx24.com,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
 gnewsindia.com##.theiaStickySidebar .widget_text:not(#text-22)
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 khabrainabhitak.org##.theiaStickySidebar .wpb_content_element
@@ -3717,6 +3717,7 @@ madathakaja.com##div[id^="madat-"]
 malabarinews.com##div[id^="malab-"] > img
 nammabantwala.com##div[id^="namma-"]
 nandednewslive.com##div[id^="nande-"]
+navrashtramedia.com##div[id^="navra-"]
 nayapage.com##div[id^="nayap-"]
 newsheight.com##div[id^="newsh-"]
 newslinkers.com##div[id^="newsl-"]
