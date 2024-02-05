@@ -967,7 +967,7 @@ pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-awaaz24x7.com,awamileaguetimes.com,lokaantar.com##.ad-banner
+awamileaguetimes.com,lokaantar.com##.ad-banner
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 dailykaratoa.com,dainikshiksha.com,ichowk.in,news18.com,saralpatrika.com##.ad-container
@@ -2311,7 +2311,6 @@ farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
 publictv.in##.pt-adv
-awaaz24x7.com##.publish-image
 janayugomonline.com##.pum
 cinemapressclub.com##.pum-content
 punjabnewslive.co.in##.punja-after-content_14
@@ -2362,6 +2361,7 @@ ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
 thedailycampus.com##.roni-bhai-special
 amarbarishal24.com##.row + .single_side_bar
+awaaz24x7.com##.row > .mb-3
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
 timetvusa.com##.rt-post-slider-style1
