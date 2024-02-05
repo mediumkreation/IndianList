@@ -79,7 +79,7 @@
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|nepalipaisa.com|odiaspotnews.in|shankhnaad.in
 /advertisement/*$domain=bizshala.com|keralasabdam.in|nanaonline.in|newsabhiyan.com|srijannews.com|swatantraawaz.com|tatkalnews.com
 /Advertisement/*$domain=ekushey-tv.com|womeneye24.com
-/advertisement/*$domain=khabarmukam.com|newuthayan.com|sportsmail24.com|thannambikkai.org|yugvartanews.com
+/advertisement/*$domain=khabarmukam.com|newuthayan.com|sportsmail24.com|thannambikkai.org|udghoshdaily.com|yugvartanews.com
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /advertisments/*$domain=parchhayin.com
@@ -188,6 +188,7 @@
 @@||ttinews.in//add/grp991d912445.jpg
 @@||ttinews.in//add/grpacb55f9af7.png
 @@||udayanadu.com/images/ads/$domain=udayanadu.com
+@@||udghoshdaily.com/images/advertisement/2023/737943fc784e2ee0d887fd195c843e87.gif
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
 @@||youngvarta.com/uploads/blocks/block_5e8dae57e47c1.JPG
 @@||youngvarta.com/uploads/blocks/block_5f056e0ef2e59.gif
