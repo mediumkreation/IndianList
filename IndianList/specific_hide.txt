@@ -3114,6 +3114,7 @@ newssunamganj.com##.wp-image-11042
 kalyugkatehelka.com##.wp-image-1118
 hindustanheadlines.in##.wp-image-11223
 lokhitexpress.com##.wp-image-122343
+nationalthoughts.com##.wp-image-12870
 bebakuttarakhand.com##.wp-image-12972
 onakanthirkantho.com##.wp-image-133
 bonggonews.com##.wp-image-13566
@@ -3130,8 +3131,11 @@ lokpati.com##.wp-image-225930
 newssunamganj.com##.wp-image-22995
 lokpati.com##.wp-image-242302
 lokpati.com##.wp-image-243512
+nationalthoughts.com##.wp-image-245
 sachkahoon.com##.wp-image-248125
 sachkahoon.com##.wp-image-248302
+nationalthoughts.com##.wp-image-251
+nationalthoughts.com##.wp-image-252
 gangnirchokh.com##.wp-image-25993
 geetanjalipost.com##.wp-image-27299
 lumbinisanchar.com##.wp-image-27407
@@ -3936,7 +3940,6 @@ momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 mumbaitak.in#?#div:-abp-has(div[id^="div-gpt-ad-"])
 munaadi.com#?#.card:-abp-has(> h5:-abp-contains(Advertisment))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
-nationalthoughts.com#?#.elementor-headline:-abp-has(> span > span:-abp-contains(Advertisment))
 natunsylhet24.com#?#div:-abp-has(> ins.adsbygoogle)
 punjabiherald.co.nz##nav + div
 naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
