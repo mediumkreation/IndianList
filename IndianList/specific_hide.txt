@@ -2301,6 +2301,7 @@ pchelpcenterbd.com##.pragads
 keralatimes.com,paathok.news##.prettyphoto
 sakalakhabar.com##.primary-sidebar-widget
 arthosuchak.com##.primary-sidebar-widget:not(.h-c)
+headlinekarnataka.com##.prime-add
 bankbimaarthonity.com##.printOff
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
 balaganjprotidin.com##.prl-panel .widget_text
