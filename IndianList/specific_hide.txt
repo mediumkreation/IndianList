@@ -1167,7 +1167,6 @@ lightnewsbd.com##.ads_bottom_disp
 hindi.business-standard.com##.ads_box_grid
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 telugu.greatandhra.com##.ads_css_title
-lightnewsbd.com##.ads_first_p_disp
 padmatimes24.com##.ads_fix
 divyahimachal.com##.adsbx728x90
 himachalnownews.com##.adsen
@@ -2210,8 +2209,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -4019,6 +4018,7 @@ newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
 cityonclick.in##section.widget_metaslider_widget
+lightnewsbd.com##section.widget_section img
 duniyasamachar.com##section.widget_text
 dainiklivenews24.com##section.widget_text:not(#text-2)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
