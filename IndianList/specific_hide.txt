@@ -2779,7 +2779,7 @@ bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,n
 kasaragod.com##.theiaStickySidebar .text-html-box
 banglanewslive.co.in##.theiaStickySidebar .widget.HTML:not(#HTML7)
 apnahimachalapnishaan.in,purvanchalnews.com,thepublicnews.live##.theiaStickySidebar .widget_block
-bharatnews18.in,bheldailynews.com,bograsangbad.com,khabar36.com,mithilacitynews.in,navsatta.com,samaynewslive.com,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
+bharatnews18.in,bheldailynews.com,bograsangbad.com,khabar36.com,mithilacitynews.in,navsatta.com,parvatanchal.com,samaynewslive.com,sangbadonline.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 lalluram.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-6):not(#custom_html-12)
 aajexpress.com,acpnews24.com,aryasamay.com,awazlive.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,hamarahimachal.com,hindustandailynews.com,inn24news.in,jansaamna.com,jharkhandnews.live,kadwaghut.com,khaskhabar24.com,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,parvatjan.com,poojanews.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sabkajammukashmir.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,sunmision.tv,thejoharnews.com,tosnews.com,vedantbhoomi.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
