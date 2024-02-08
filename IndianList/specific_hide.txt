@@ -438,7 +438,7 @@ navpradesh.com,palampuronline.com,samacharplusnews.com###media_image-11
 bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,kalkudahnation.com,manzilnews.in,samajeralo.com###media_image-12
 dgnews.co.in,jansaamna.com###media_image-13
 indianow24.com,jansaamna.com###media_image-14
-punjabbaani.com,radiobihani.org###media_image-15
+punjabbaani.com,radiobihani.org,samacharagency.com###media_image-15
 flowersoriginals.com###media_image-16
 hindvatannews.com###media_image-17
 webreporter.co.in###media_image-18
@@ -2208,8 +2208,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
