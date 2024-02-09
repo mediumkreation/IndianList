@@ -206,7 +206,8 @@ wealthfreedomideas.com###block-28
 khabardarinews.com###block-29
 bundelkhandsamachar.com,checkpostnews.com,khabarindia24x7.com,lokswar.in,mobilenews24.com,newsnukkad.com,pahadkasach.in,sanatanjan.com,tamizhdb.com,ujjawalprabhat.com###block-3
 wealthfreedomideas.com###block-30
-sahmatnews.com###block-31
+aisakya.in,sahmatnews.com###block-31
+aisakya.in###block-32
 newsuniversal.in###block-34
 thenewssense.in,ukpkg.com###block-35
 dnspnews.in###block-37
@@ -2211,8 +2212,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
