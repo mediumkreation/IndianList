@@ -111,6 +111,7 @@ news24nepal.tv,vishvakannada.com###adv
 newsnib.in###advertisement
 torontotamil.com###advertsub2
 importmirror.com###adx
+bansgaonsandesh.com###after-ad
 thejharokha.com###ai_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,punjabijagran.com###aniview
@@ -148,6 +149,7 @@ cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
 nalandalive.com###bdaia-widget-html-5
+bansgaonsandesh.com###before-ad
 lokmat.com,lokmatnews.in###beforehead
 newscg11.com###below-header
 kusenews.com###belowflash
