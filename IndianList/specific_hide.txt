@@ -763,7 +763,7 @@ patheo24.com,tnilive.com###text-23
 achhisoch.com,apnades.in,sachkahoon.com,tnilive.com###text-24
 aapkisafalta.com,achhisoch.com,apnades.in,ekusheralo24.com,roopcare.com###text-25
 chakarianews.com###text-26
-satyamlive.com,tnilive.com###text-27
+tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
 abhibharat.com,agranews.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,kyakhayal.com,livehalchal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
@@ -772,7 +772,7 @@ achhikhabar.com,himalini.com,live18h.com,uniquesamay.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com###text-32
 satyamlive.com###text-33
-hindustanheadlines.in,satyamlive.com###text-34
+hindustanheadlines.in###text-34
 himalini.com,satyamlive.com###text-35
 anaicoddai.com,satyamlive.com,uniquesamay.com###text-36
 anaicoddai.com,satyamlive.com,sharebiz.net###text-37
@@ -2210,8 +2210,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2323,6 +2323,7 @@ thelallantop.com##.py-2
 sunamganjerkhobor.com##.py-3
 brightpost.in##.quads-ad-label
 yesnewsmarathi.com##.quads-location
+satyamlive.com##.quadss-location
 rajnitiprotidin.com##.qvzk
 hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
