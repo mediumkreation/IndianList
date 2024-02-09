@@ -967,6 +967,7 @@ chhattisgarhaaj.com##.ad--widget-no
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
 awamileaguetimes.com,lokaantar.com##.ad-banner
+bizshala.com##.ad-banner-img
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 dailykaratoa.com,dainikshiksha.com,ichowk.in,news18.com,saralpatrika.com##.ad-container
@@ -3535,7 +3536,6 @@ news18.com##div[class*="Header_inner_ad"]
 bangla.bdnews24.com##div[class*="_ad-slot__"]
 globalnewsbd24.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newskannada.com##div[class*="_adv_"]
-bizshala.com##div[class*="_bigyapan"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 thewall.in##div[class*="_ning"]
 nrimalayalee.com##div[class*="_right_ad"]
