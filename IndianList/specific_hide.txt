@@ -1870,7 +1870,7 @@ ausamachar.com##.header-widget-region
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
 dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
-banglatribune.com,lakshmipur24.com##.header_ad_block
+banglatribune.com,deshrupantor.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 banglapost.co.uk##.header_adv
@@ -1881,6 +1881,7 @@ bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
 fenirkotha.com,natuncumilla.com##.header_date_sidebar
 lalkhabar.com,murchungatv.com##.header_img
 banglanewsca.com##.header_top_ad_area_2
+deshrupantor.com##.header_top_ad_code
 fenirkotha.com##.header_top_banner
 shirurtaluka.com##.headeradvt
 lakshynew.blogspot.com,nunworajasthan.co.in,reporters7.com##.headerright
@@ -2213,8 +2214,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
