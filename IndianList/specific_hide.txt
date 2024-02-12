@@ -1381,6 +1381,7 @@ jankaritoday.com##.block-85
 andhrabhoomi.net##.block-block:not(#block-block-13)
 dainikbhaskarup.com,indiaprimenews.in,khabarhikhabar.com,newj9.com,theguptchar.com##.block-custom-content
 f21news.com##.block-custom-content:not(#tie-block_1405)
+corporatesangbad.com##.block-da
 sudurpress.com##.block-inline-blockad-block
 londonbdnews24.com##.block-right-bottom-ads
 newsflash71.com##.block__2
@@ -1840,7 +1841,6 @@ kairalynews.com##.header .slide_img
 legendnews.in##.header--ad
 bangladesherkhabor.net##.header-ad-section
 nakkheeran.in##.header-ad-section-desk
-corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
@@ -1869,7 +1869,7 @@ dailyreportbd.com##.header-top-right
 ausamachar.com##.header-widget-region
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
-corporatesangbad.com,dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
+dailysobujbarta.com,htvpunjabi.com,indootimes.com.au,lankasudar.com,newsallbangladesh.com,ravivardelhi.com,shramjeevijournalist.com,tamilstar.com##.header__banner
 banglatribune.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
@@ -2213,8 +2213,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3243,6 +3243,7 @@ yashbharat.com##.yashb-adlabel
 yashbharat.com##.yashb-content
 truenews.lk##.youtube-responsive-container
 news71bangla.tv##.yvdo
+corporatesangbad.com##.zeen-da-wrap
 probashibangla.tv##.zja
 thesabera.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
@@ -3730,7 +3731,6 @@ nextkhabar.in##div[id^="nextk-"]
 nikharanews.in##div[id^="nikha-"]
 1news.com.bd##div[id^="nutdcr"]
 pahadkasach.in,pahadprabhat.com##div[id^="pahad-"]
-corporatesangbad.com##div[id^="penci_block_7__"]
 lokmat.com##div[id^="photoInlist"]
 rashtranayaknews.com,rashtrasamvad.com##div[id^="rasht-"]
 lokmat.com##div[id^="rhs-"]
