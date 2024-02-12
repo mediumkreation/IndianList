@@ -1184,7 +1184,7 @@ saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
 aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,cg24news.in,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
-jagonews24.com,sonalinews.com##.adv-img
+jagonews24.com##.adv-img
 ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
@@ -1353,6 +1353,7 @@ timesnowhindi.com,timesnowmarathi.com##.bggrayAd
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
 anytechtune.com##.big-add
+sonalinews.com##.big-banner-left
 bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com##.biggapon
 capitallivenews.com##.bignews_slider
 mediapunjab.com##.bigposter
@@ -2212,8 +2213,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
