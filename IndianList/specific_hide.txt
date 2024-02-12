@@ -1499,6 +1499,7 @@ bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 aajtakmedia.net,malayalamnewstimes.com,mycitydilse.com,rni.news,suragbureau.com,udaybulletin.com##.container-bn
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
+newsnow24.com##.container-fluid a[target="_blank"] img
 koshionline.com##.container-fluid.pt-3
 dhakapost.com##.container-section.py-3
 vaaramanjari.lk##.container-single-page .elementor-widget-image
