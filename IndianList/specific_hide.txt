@@ -2213,8 +2213,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2610,7 +2610,6 @@ dainikmaharajganj.in##.stream-item.half-box
 anokhateer.com##.stream-item:not(#tie-block_1354)
 apnahimachalapnishaan.in##.stream-item:not(#tie-block_243)
 bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
-timenewsbd.net##.stretched_link
 youthmukam.com##.su-image-carousel
 nellaionline.net##.sub_new:not(.sss)
 chhaharinetwork.com##.subhakamana-ad
@@ -3850,7 +3849,6 @@ khabarbhatapara.in##iframe[src*="google.com/presentation/"]
 hulchalpunjab.com##iframe[src*="igoogleportal.com"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 dbcnews.tv##iframe[style*="height: 90px"]
-timenewsbd.net##img + aside.sidebar
 deshsanchar.com##img.alignnone.size-full
 madhyabindu.com,onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
@@ -3932,6 +3930,7 @@ madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 magadhexpress.in#?#.wp-block-group:-abp-has(> div > .wp-block-heading:-abp-contains(Advertisement))
 amritvichar.com##main .htmlwidget
 amritvichar.com##main .imagewidget
+timenewsbd.net##main .py-0 center img
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
