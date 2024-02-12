@@ -1499,6 +1499,7 @@ bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 aajtakmedia.net,malayalamnewstimes.com,mycitydilse.com,rni.news,suragbureau.com,udaybulletin.com##.container-bn
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
+newsnow24.com##.container-fluid a[target="_blank"] img
 koshionline.com##.container-fluid.pt-3
 dhakapost.com##.container-section.py-3
 vaaramanjari.lk##.container-single-page .elementor-widget-image
@@ -2213,8 +2214,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
