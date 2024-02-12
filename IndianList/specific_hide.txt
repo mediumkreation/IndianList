@@ -314,7 +314,7 @@ roddure.com###custom_html-53
 roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,cgctnews.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,f21news.com,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in,ujjwalduniya.com###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
-f21news.com,futurekerala.in,mynews36.com,pradhanavartha.in,thepressnepal.com,ujjwalduniya.com###custom_html-8
+channelionline.com,f21news.com,futurekerala.in,mynews36.com,pradhanavartha.in,thepressnepal.com,ujjwalduniya.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,sarhadkasakshi.com,satyaketansamachar.com###custom_html-9
 pundrokotha.com.bd###descripton div[style*="url"]
 manithan.com###dfp_banner_header_panel + span
@@ -1727,7 +1727,6 @@ womeneye24.com##.exclusiveSec + .row
 metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 parichaya.com##.exv-image
-channelionline.com##.eyli
 dakhal.net##.fadInleft_ads
 eisamay.com##.fbnad
 bbc24news.com,bholabani.com,chtmedia24.com##.featad
@@ -3207,7 +3206,7 @@ khobor71.com##.wpb_raw_code img
 clearnews.live,rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
-adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com,udaipurnews.in##.wpb_single_image
+adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,channelionline.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,shramjeevijournalist.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com,udaipurnews.in##.wpb_single_image
 mpnewscast.com##.wpb_single_image .attachment-full
 mpnewscast.com##.wpb_single_image .wpb_heading
 everestdainik.com,keralatimes.com##.wpb_single_image figure

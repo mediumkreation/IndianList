@@ -3,13 +3,12 @@
 -500x300$domain=khojinews.co.in
 -ad-banner-$domain=bihardootnews.com
 -Ad-Final-$domain=dmpnews.org
--ad-for$image,domain=channelionline.com
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad-Side-Bar.png|$domain=buxaruptodate.com
 -ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -Ad.jpg|$domain=barishalcrimenews.com
--ad.jpg|$domain=channelionline.com|cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
+-ad.jpg|$domain=cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
@@ -20,9 +19,9 @@
 -add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -adds-$domain=ddnews24x7.com
 -ads-$domain=aruna.lk
--Ads-$domain=bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
+-Ads-$domain=bdtoday24.com|dailyceylon.com|gopalganj.org|meelparvai.net
 -ads-banner-$domain=timeshindi.in
--ads.jpg|$domain=bigulnews.tv|channelionline.com|thebiharnews.com
+-ads.jpg|$domain=bigulnews.tv|thebiharnews.com
 -ads.png|$domain=ctgsun.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
@@ -33,7 +32,6 @@
 -Agust-AD-$domain=indiapolkhol.in
 -bannar.jpg|$domain=kurigramlive.com
 -banner$domain=udayasooriyan.lk
--banner-$domain=channelionline.com
 -Banner.gif$image,domain=sajhatv.com
 -Banner.gif|$domain=ottrancheithi.com
 -banner.gif|$domain=teknafnews71.com
