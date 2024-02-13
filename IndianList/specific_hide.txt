@@ -2214,8 +2214,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3918,6 +3918,7 @@ khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertis
 khabareast.com#?#.add:-abp-has(> div[id$="advertisement"])
 khabreelal.com#?#div[name="ArticleShow-Organic-LHS-1"] div:-abp-has(> div > div > span + a)
 khoborersomoy.com#?#aside.right_content div.single_sidebar:-abp-has(> a[target="_blank"])
+khulnagazette.com#?#div:-abp-has(> p > ins.adsbygoogle)
 kirandoot.com#?#.sidebar-widget:-abp-has(> div > h4:-abp-contains(adv))
 kolomerbatra.com#?#.add .widget_area:-abp-has(> img)
 lifestylenama.in#?#div[id*="_O_LHS_"] > div:-abp-has(> div > div > a>div > h5:-abp-contains(Ad |))
