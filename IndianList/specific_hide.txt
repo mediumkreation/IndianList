@@ -385,7 +385,6 @@ chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
 indiadhuandhar.in###india-slider-227
 jamuna.tv###infostation-0-0
-rtvonline.com###infostation-0-0 iframe
 tamilcinemaz.com###itro_opaco
 filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
@@ -2268,7 +2267,6 @@ knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 business-standard.com##.podcastads
-rtvonline.com##.point-table-container a[href*="MamaNoodles_"]
 jamalpurlive.com##.popbox
 dhadingnews.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
