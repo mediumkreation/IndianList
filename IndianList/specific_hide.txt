@@ -2213,8 +2213,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3929,6 +3929,7 @@ loginkerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h2 + span
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 magadhexpress.in#?#.wp-block-group:-abp-has(> div > .wp-block-heading:-abp-contains(Advertisement))
+netrokonajournal.com##main .advertisement img
 amritvichar.com##main .htmlwidget
 amritvichar.com##main .imagewidget
 timenewsbd.net##main .py-0 center img
