@@ -2216,8 +2216,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2416,7 +2416,6 @@ motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.sidea
 newskoseli.com##.sidea .wp-block-image
 kulalaworld.com##.sideadd
 cknewsgroup.ca##.sideadholder
-dainiklivenews24.com##.sidebar .HTML > .widget-content:first-child
 nayasabera.com##.sidebar .HTML:not(#HTML15):not(#HTML8)
 nayasabera.com##.sidebar .Image:not(#Image6)
 adbhutsamachar.com##.sidebar .kopa-carousel-widget
@@ -3500,6 +3499,7 @@ dailybahadur.com#?#.textwidget:-abp-has(> p > ins.adsbygoogle)
 dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 dailypurbodesh.com#?#.wpb_wrapper > p:-abp-has(> ins.adsbygoogle)
 dainikamadershomoy.com#?#div:-abp-has(> .w3-small)
+dainiklivenews24.com#?#.widget_text:-abp-has(> div > div[id^="daini"])
 dainiksylhet.com#?#.textwidget > p:-abp-has(ins.adsbygoogle)
 dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
 deshclick.com#?#.bce:-abp-has(> .AdvtSample)
@@ -4030,7 +4030,6 @@ mpbreaking.in##section.widget_media_image:not(#media_image-6)
 cityonclick.in##section.widget_metaslider_widget
 lightnewsbd.com##section.widget_section img
 duniyasamachar.com##section.widget_text
-dainiklivenews24.com##section.widget_text:not(#text-2)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 hmtvlive.com##section[class*="-ad-"]
 hmtvlive.com##section[class*="ad_after_"]
