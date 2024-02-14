@@ -1701,6 +1701,8 @@ abnewslive.in,ekattorbanglanews.com,himachalsamay.com,kannurnewsonline.com##.ent
 jaunpurlivenews.in##.entry-content figure.wp-block-image:not(.size-large)
 news1hindustan.com##.entry-content iframe
 247superfast.com,dainiknayak.com,himwantpradeshnews.com,khabardekho.com,newsportals.in,odishamirror.com,pclive7.com##.entry-content img
+today24.in##.entry-content img.alignleft
+today24.in##.entry-content img.alignright
 jeewanaadhar.com##.entry-content img.size-full
 newswatch.co.in##.entry-content img:only-child
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
