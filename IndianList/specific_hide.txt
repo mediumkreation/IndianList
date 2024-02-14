@@ -710,6 +710,7 @@ dailyalokitovor.com###small-news
 garimatvnews.com###sp-ads
 editiontoday.in###sp-adsforbody
 dabangrajdhani.com###sp-right .bannergroup
+agrilife24.com###sp-slider-wrapper
 techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
 sylheterdak.com.bd###spcl_advertise_right
@@ -2215,8 +2216,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3248,6 +3249,7 @@ news71bangla.tv##.yvdo
 corporatesangbad.com##.zeen-da-wrap
 probashibangla.tv##.zja
 thesabera.com##.zox-post-ad-wrap
+agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
@@ -4036,6 +4038,7 @@ shyamalsylhet.com##section[class^="advertise"]
 jubokantho24.com##section[data-id="147a440"]
 muznews.online##section[data-id="9a0f91e"]
 bihardootnews.com##section[data-id="e3b7c3d"]
+agrilife24.com##section[id$="add-wrapper"]
 hindnama.com##section[id^="ai_widget-"]
 chennaitodaynews.com##section[id^="id"]
 seithipunal.com#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
