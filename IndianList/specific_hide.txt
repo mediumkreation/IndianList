@@ -2217,8 +2217,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3908,6 +3908,7 @@ indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertis
 indiatimes.com#?#div:-abp-has(> div[data-native-ad])
 indiatv.in#?#.ad:-abp-has(> div:first-child)
 indocanadiantimes.com#?#.block-title span:-abp-contains(Sponsored Ads)
+mzamin.com##ins[id^="infostation-"]
 jalauntimessite.wordpress.com#?#.widget-title:-abp-contains(Advertisment)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 janamtv.com#?#div:-abp-has(> .jeg_block_title > span:-abp-contains(ADVT))

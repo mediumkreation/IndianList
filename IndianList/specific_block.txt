@@ -68,7 +68,6 @@
 /Adv/*$domain=dakhal.net
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
-/advert/*$domain=mzamin.com
 /advertiesment/*$domain=theendnews.com
 /advertise/*$domain=kapurinews.com
 /advertisement/*$domain=360malayalam.com|aarthiknews.com|agaminews.com
