@@ -3586,7 +3586,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||sokalpratidin.com/wp-content/uploads/2021/03/15327204263263264437.gif
 ||sokalpratidin.com/wp-content/uploads/2021/03/3511991401683872532-1-300x250.gif
 ||sokalpratidin.com/wp-content/uploads/2021/03/ads-2.png
-||soledaddemo.pencidesign.net^$third-party,domain=uttamhindu.com
 ||somoyersangbad.com/wp-content/uploads/2020/10/a54248dd869c582f60a2b33335689c5a.0-3.jpg
 ||somoyersangbad.com/wp-content/uploads/2020/10/FB_IMG_15936966713195266.jpg
 ||somoyersangbad.com/wp-content/uploads/2020/10/FB_IMG_15955893145254343-16.jpg
@@ -4015,6 +4014,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||urjanchaltiger.in/wp-content/uploads/2023/05/mpc-waidhan.jpeg
 ||usamibanglanews.com/wp-content/uploads/2019/05/add2-e1558119625817.jpg
 ||usercontent.one/wp/www.rewariyasat.com/wp-content/uploads/2020/02/UTTAM-SINGH-ACADEMY$image
+||uttamhindu.com^*/1WEBSITE-LOK-SEVA-CAMPS-CREATIVE
 ||uttarakhandmorningpost.com/wp-content/uploads/2021/07/IMG-20210720-WA0033.jpg
 ||uttaranews24.com/wp-content/uploads/2020/06/ads3fi.gif
 ||uttaranews24.com^*/1135385410478006636.gif
