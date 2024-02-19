@@ -2852,7 +2852,7 @@ vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
-rninews.co.in##.topRightAdSec
+hindi.pardaphash.com,rninews.co.in##.topRightAdSec
 samakal.com##.topStickyDesktopDiv
 bankbimaarthonity.com,biniyogbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
