@@ -1868,6 +1868,7 @@ newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
 nepalbritain.com##.header-top-details-right
 dailyreportbd.com##.header-top-right
+unb.com.bd##.header-upper .pull-right
 ausamachar.com##.header-widget-region
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
