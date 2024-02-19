@@ -2274,7 +2274,7 @@ jamalpurlive.com##.popbox
 dhadingnews.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
-bharatiyadigitalnews.in##.popup
+bharatiyadigitalnews.in,divaina.lk##.popup
 bonikbarta.net##.popupCloseButton
 dainikshiksha.com##.popupad
 apnamzn.com##.portlet-journal-content
@@ -3308,7 +3308,6 @@ pannagam.com##a[href*="baluasiaadd"]
 bartamanbangladesh24.com,tritiyamatra.com##a[href*="bdinfobiz.com/pos-software"]
 chennaivision.com##a[href*="bharatgeneric.com"]
 gkprashnuttar.com##a[href*="bit.ly"]
-divaina.lk##a[href*="bit.ly"] img
 lankadeepa.lk##a[href*="bit.ly/44036s6"] img
 varthabharati.in##a[href*="bitmangalore.edu.in"]
 nepalipost.com##a[href*="callrakesh.com"]
