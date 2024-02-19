@@ -2261,6 +2261,7 @@ dailysatkhira.com,meherpurnews.com,updatesatkhira.com##.penci-google-adsense-2
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
+dinamina.lk##.penci_topblock
 gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jamunanewsbd.com##.photo-gellary iframe
@@ -2273,7 +2274,7 @@ prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 business-standard.com##.podcastads
 jamalpurlive.com##.popbox
-dhadingnews.com##.popmake-content
+dhadingnews.com,dinamina.lk##.popmake-content
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
 bharatiyadigitalnews.in,divaina.lk##.popup
