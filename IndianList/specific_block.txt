@@ -2565,7 +2565,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||nayapatrikadaily.com/uploads/advertise/
 ||nayasadak.com/users_upload/
 ||nbs24.org/nbs-
-||nbs24.org/walton-
+||nbs24.org^*/walton
 ||nchs.edu.lk^$third-party,domain=ada.lk
 ||neervely.ca/images/bala.jpg
 ||nepal-assets-cdn.ekantipur.com/uploads/source/ads/
