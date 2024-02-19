@@ -2217,8 +2217,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3342,7 +3342,6 @@ nayapage.com##a[href*="gurkhasfinance.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 newslabz.com##a[href*="href.li"]
-sharebarta24.com##a[href*="islamibankbd.com"]
 banglarkonthosor.com##a[href*="itcornerbd"] img
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
