@@ -199,7 +199,7 @@ tamizhdb.com###block-21
 alivenews.co.in,newslab24.in###block-22
 peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
-govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com###block-24
+govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com,whatinindia.com###block-24
 banglarjanapad.com,govindia.in###block-25
 govindia.in,organizeindia.in###block-26
 wealthfreedomideas.com###block-28
@@ -2221,8 +2221,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
