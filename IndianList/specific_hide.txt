@@ -633,7 +633,6 @@ chandreknews.com###secondary section.widget_media_image:not(#media_image-23)
 hindustanrepublic.in###secondary section.widget_text
 doabatimes.com###secondary-right
 youthexpress.in###secondaryright .widget_custom_html
-sawalnepal.com###section_right .ad
 pratidinakhbar.com###services1 li.last
 nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
@@ -695,7 +694,6 @@ kulalworld.com###simpleimage-29
 kulalworld.com###simpleimage-31
 kulalworld.com###simpleimage-5
 muslimmedia.info###simpleimage-6
-sawalnepal.com###sing_cont .ad
 currentkhabar.com###sitebox-ad125-3
 biznessnews.com###skip-ads
 capitallivenews.com###skipAdModal
@@ -958,7 +956,6 @@ kapotham.com##.above-sidebar-wrapper
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
 akhabarhub.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,shomoynews.net,sidhakhabar.com,sunamganjerkhobor.com,swalenewsbank.com##.ad
 cialive.in##.ad .carousel
-sawalnepal.com##.ad .single-below
 protichhobi.com##.ad .txt
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
@@ -1320,6 +1317,7 @@ rojanapunjab.com##.banner1
 jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 kalyugkatehelka.com,raftaarindianews.com##.bannerListWidget
+sawalnepal.com##.banner__ads
 rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
@@ -1962,7 +1960,7 @@ pratyeknews.com##.imgad1
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-moolbato.com##.in__between_ads
+moolbato.com,sawalnepal.com##.in__between_ads
 lokmat.com,lokmatnews.in##.inarticleAd
 amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
@@ -2221,8 +2219,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2466,6 +2464,7 @@ mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 newspagebd.com##.sidebarAdd
 ambalanews24.com##.sidebarVoteAd
+sawalnepal.com##.sidebar__ads
 hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
 sidhakhabar.com##.sidebar_top_Ad img:not([src*="Bagmati"])
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
@@ -2494,7 +2493,6 @@ ghazipuraajkal.com##.single-post-content img.alignnone
 madhyabindu.com##.single-post-wrapper nav ~ img
 newssanjal.com##.single-sidebar .post-carousel-1
 kanvkanv.com##.single-sidebar iframe
-sawalnepal.com##.single-up img
 tibrakhabar.com.np##.single-wrapper-details-sidebar .widget_media_image img:not(.wp-image-212460)
 nepalbritain.com,rastriyakhabar.com##.single-wrapper-details-sidebar-ads
 purbelinews.com##.single__bigyapaan
