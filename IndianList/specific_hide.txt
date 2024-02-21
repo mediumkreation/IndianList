@@ -370,6 +370,7 @@ keralaviews.com###header-widgets
 lokmat.com,lokmatnews.in###headerBanner
 tamil.goodreturns.in###headerBannerPromo
 goodreturns.in###headerTopAd
+specialcoveragenews.in###header_ad_mobile
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
@@ -397,6 +398,7 @@ biharpatrika.in###lcs_ad
 kottayammedia.com###leader-wrap
 newscity.co.in###leaderboard-content
 edainikazadi.net,edainikpurbokone.net###left-top-holder
+specialcoveragenews.in###left_level_0_before_1
 dhanamonline.com,janprahar.com,kathir.news###left_level_2
 dhanamonline.com,filmchilive.com,kathir.news###left_level_3
 dishadaily.com###left_level_after_paragraph
@@ -1982,7 +1984,7 @@ bholabani.com##.innerad2
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 capitalnepal.com,setokhari.com##.insert-ad
-janjwar.com##.inside-post-ad-before
+janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
 neelkanthafm.com##.inside_ads
 newzfast.com##.intes_fixed
@@ -2219,8 +2221,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2860,6 +2862,7 @@ shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
 prabhabonline.com##.top_banner
 ni24news.com##.top_index_block_adnow
+specialcoveragenews.in##.top_level_1
 nrimalayalee.com##.top_most_news_post_ad
 abnews24.com,alokitobangladesh.com##.top_new_add
 bholabani.com,gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
