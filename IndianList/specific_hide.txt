@@ -374,6 +374,9 @@ specialcoveragenews.in###header_ad_mobile
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
+lokpati.com###herald-module-1-10
+lokpati.com###herald-module-1-15
+lokpati.com###herald-module-1-19
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com###home-ads
 apkhabar.com,neelkanthafm.com,radiobihani.org###homeads
@@ -3135,15 +3138,14 @@ lokpati.com##.wp-image-148506
 abtnews.in##.wp-image-15989
 badimalikakhabar.com##.wp-image-169446
 hamdardmediagroup.com##.wp-image-173195
-lokpati.com##.wp-image-178800
 newssunamganj.com##.wp-image-19215
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
 lokpati.com##.wp-image-225930
 newssunamganj.com##.wp-image-22995
 lokpati.com##.wp-image-242302
-lokpati.com##.wp-image-243512
 nationalthoughts.com##.wp-image-245
+lokpati.com##.wp-image-246528
 sachkahoon.com##.wp-image-248125
 sachkahoon.com##.wp-image-248302
 nationalthoughts.com##.wp-image-251
