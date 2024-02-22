@@ -2223,8 +2223,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2535,7 +2535,6 @@ donnews.com##.skads
 nepalraftar.com##.skip-ads
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
-newsbritant.com##.slider-ad1
 telugutimes.net##.slider-below-ads
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
@@ -2740,7 +2739,6 @@ realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
 tejastoday.com##.tdb_single_content h1 a img
-newsbritant.com##.tdb_single_content img
 newsgil.in,tejastoday.com##.tdb_single_content p img
 politicsnews24.com##.tdc-row-content-vert-center
 guruvayooronline.com##.tdi_118
