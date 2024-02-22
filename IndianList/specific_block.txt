@@ -2332,6 +2332,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||meghnanews.com.bd/wp-content/uploads/2019/10/ad_pic_112.jpg
 ||meherpurpratidin.com/wp-content/uploads/2023/03/radiopayraads.jpg
 ||mekshq.com/static/gridlove/td_gridlove_248.jpg$domain=dailysikhnews.com
+||mekshq.com^$third-party,domain=bhojpurimedia.net
 ||merabharatnews.com/wp-content/uploads/2021/02/Step-by-step.png
 ||meranews.com/frontend/_assets/images/navajivan-
 ||meranews.com/frontend/_assets/images/navjivan-trust-narrow.jpg
