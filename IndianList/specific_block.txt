@@ -12,7 +12,7 @@
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
--add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com|shomoynews.net
+-add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com
 -add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|panchkulasamachar.com|patheo24.com|pragativahini.com|suprovatsatkhira.com|teluguwishesh.com
 -add.jpg|*$domain=ratdinnews.net
@@ -3521,7 +3521,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||shobshomoy.com^*/Marchblink725X60.jpg
 ||shobshomoy.com^*/robi407x75.gif
 ||shomoyeralo.com/ad/
-||shomoynews.net/img/agrani_bank
 ||shortpixel.ai^*/cropped-IMG-20211019-WA0036-scaled-1.jpg
 ||shortpixel.ai^*/Photo_1587877598469-819x1024.png
 ||shortpixel.ai^*/Photo_1647405392227.png
