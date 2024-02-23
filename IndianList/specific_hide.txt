@@ -345,7 +345,6 @@ rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 importmirror.com###full-size-Ad
 dishadaily.com###full_level_1_detail
-uttareralo24.com###gallery-1
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 lagatar.in###hadd
@@ -379,6 +378,7 @@ lokpati.com###herald-module-1-15
 lokpati.com###herald-module-1-19
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com###home-ads
+uttareralo24.com###home_page_ad
 apkhabar.com,neelkanthafm.com,radiobihani.org###homeads
 thedailycampus.com###homepageTopLeader_2
 thedailycampus.com###homepageTopLeaderboard_1
@@ -813,7 +813,7 @@ sharebazarnews.com###text-882
 bograsangbad.com,cgmitan.com,himalayauk.org,himshimlalive.com,jagprerna.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
 mpbreaking.in###text-9 iframe
 bharatsamachartv.in###text-html-widget-14
-akjnews.com,globalnews24x7.com,thesurgicalnews.in,uttareralo24.com###text-html-widget-2
+akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
 bdtoday24.com###text-html-widget-25
 abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com,punjabiakhbaar.ca###text-html-widget-3
 bdtoday24.com###text-html-widget-35
@@ -2515,7 +2515,6 @@ songkalpo.net##.single_page_ad
 sangbad-gallery.com##.single_page_bottom_ad
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
-uttareralo24.com##.singlepage-section .add
 fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
 news18.com##.site-ad-container
