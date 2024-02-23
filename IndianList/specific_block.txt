@@ -1511,7 +1511,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||geetanjalipost.com/wp-content/uploads/2020/10/IMG-20201015-WA0005
 ||ghumtidunia.com/wp-content/uploads/2022/06/IMG-20220520-WA0011.jpg
 ||giphy.com$domain=rangpursangbad.com
-||giphy.com^$third-party,domain=shreekanchanpath.com|sunamganj24.com|uttareralo24.com
+||giphy.com^$third-party,domain=shreekanchanpath.com|sunamganj24.com
 ||globalmalayalam.com/images/header_banner.jpg
 ||globalmalayalam.com/images/inner_add_colum_demo_image.jpg
 ||globalnews24x7.com^*/IMG-20211129-WA0008
