@@ -709,7 +709,7 @@ kayalconnection.com###slideshow
 pravasi.us###slideshow2
 pravasi.us###slideshow3
 nayaharyana.com###slotbanner
-dailyalokitovor.com###small-news
+dailyalokitovor.com,padmatimes24.com###small-news
 garimatvnews.com###sp-ads
 editiontoday.in###sp-adsforbody
 dabangrajdhani.com###sp-right .bannergroup
@@ -2224,8 +2224,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
