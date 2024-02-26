@@ -1053,7 +1053,7 @@ dailygazipuronline.com##.add-high
 ekhansangbad.com,sambadsaradin.com##.add-image
 dainikagnipath.com##.add-img
 dainiknarsingdi.com,diptonews24.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com,teknaf71.com##.add-imgae
-colorsnewslive.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
+colorsnewslive.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com,womenscorner.com.bd##.add-inner
 dinajpur24.com,vachakam.com##.add-item
 vishvasnews.com##.add-large-box
 24updatenews.com,u71news.com##.add-left
@@ -2227,8 +2227,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
