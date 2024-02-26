@@ -2454,7 +2454,7 @@ unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
 bdbarrta24.com##.sidebar-adv img
 bizmandu.com##.sidebar-advs
-ajakoartha.com,newssanjal.com##.sidebar-banner
+newssanjal.com##.sidebar-banner
 shineupindia.com##.sidebar-box a[ target="_blank"]
 cgsandesh.com##.sidebar-box.bg-aqua
 meddlingmedia.com##.sidebar-column
@@ -2876,7 +2876,7 @@ biniyogbarta.com##.topadmid
 nationaldetectivenews.com,ournewsbd.net##.topadrt
 cinema.dinamalar.com##.topadtxt160
 sylheterdak.com.bd##.topadv
-ajakoartha.com,banglavashi.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
+banglavashi.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 filmykhabar.com##.topheaderpic
