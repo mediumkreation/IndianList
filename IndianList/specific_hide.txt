@@ -990,7 +990,6 @@ esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
 bangladesherkhabor.net##.ad-sm
 news24bd.tv##.ad-ticker-right
-officialkhabar.com##.ad-title + a
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 vikatan.com##.ad-top-bottom-space
 udayavani.com##.ad-white-blk
@@ -2227,8 +2226,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
