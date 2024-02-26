@@ -1070,6 +1070,7 @@ thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
 24updatenews.com##.add-sideber
 gourbarta24.com##.add-slider
+techworldbd.com##.add-slot-3
 samacharxpress.com##.add-sm
 cnibd.net##.add-space
 samachar4media.com##.add-text
@@ -2226,8 +2227,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
