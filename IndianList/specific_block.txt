@@ -205,7 +205,6 @@ _advt-$domain=eradioindia.com
 _Advt.gif|$domain=kasaragod.com
 _advt_$domain=channelindia.news
 _banner$image,domain=poriborton.com
-_banner.gif|$domain=farakdhar.com
 _Banner_$domain=deshdoot.com
 _n-300x277.jpg|$domain=barishalcrimenews.com
 _n.jpg|$domain=barishalcrimenews.com|hmnews24.com
@@ -1030,7 +1029,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||coxsbazartimes.com/wp-content/uploads/2020/10/121910863_477192559903465_1125571012813218875_new.jpg
 ||cplusbd.net/wp-content/uploads/2020/02/700-x-100.jpg
 ||creative.hamropatro.com/img/hamro_patro_web_rectangle.gif
-||creative.hamropatro.com^$third-party,domain=farakdhar.com
 ||cricbd24.com/wp-content/uploads/2014/06/Apollo_Ispat.gif
 ||crimehilore.in/newcrimehilore/wp-content/uploads/2014/06/school.jpg
 ||crimehilore.in/wp-content/uploads/2014/06/add2.png
@@ -1592,6 +1590,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||hamdardmediagroup.com/wp-content/uploads/2023/12/Mann-Travels_page-
 ||hamrobiratnagar.com/content/upload/post_image/720-1-
 ||hamrokhabar.com/front/images/advertise/
+||hamropatro.com^$third-party,domain=farakdhar.com
 ||hamrosandesh.com/wp-content/uploads/2021/11/web.gif
 ||hamrosandesh.com^*/300-x-200.gif
 ||hamrosandesh.com^*/internet.jpg
@@ -3063,6 +3062,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||primenewsbd.com^*/walton.png
 ||prixa.net^*/sadak_ra_sawari_banner-_white_2Fi4KPbRQP.png$domain=ujyaaloonline.com
 ||prixacdn.net/media/240x200_NepaliPatro-Compressed.gif
+||prixacdn.net/media/Digimedical_to_Farakdhar_1.gif
 ||prixacdn.net/media/Mikes.gif
 ||priyoshomoy.com^*/diabeties-course
 ||priyoshomoy.com^*/piles-cure
