@@ -1925,7 +1925,7 @@ biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
 news71online.com,shamolynews24.com##.home_last_ad
-barishalnews24.com,bornamelanews24.com,coxsbazaralo.com,dainikdeshseba.com,durnitibarta.com,gnewsbd24.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,theeditors.net##.home_page_ad
+barishalnews24.com,bornamelanews24.com,coxsbazaralo.com,dainikdeshseba.com,dainikkishoreganj.com,durnitibarta.com,gnewsbd24.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,theeditors.net##.home_page_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 bishwabarta.com,dailyoporad.com,news71online.com,shamolynews24.com##.home_widget
@@ -2229,8 +2229,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
