@@ -2443,6 +2443,7 @@ barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 indiannewsroom.com,mbpratidin.com##.sidebar .widget_block
 aajkaaditya.in,bartabangla.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,navamalayali.com,newslive24x7.com,realtimes.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
+mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
 crimenazarnews.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com,sivantv.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 bekhauphindia.com##.sidebar .widget_text:not(#text-10)
