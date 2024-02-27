@@ -75,6 +75,7 @@
 /advertisement/*$domain=amader-protidin.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|ekushey-tv.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in|womeneye24.com
 /advertisement/*$domain=keralasabdam.in|khabarmukam.com|nanaonline.in|newsabhiyan.com|newuthayan.com|sportsmail24.com|srijannews.com|swatantraawaz.com|tatkalnews.com|thannambikkai.org|udghoshdaily.com|yugvartanews.com
+/Advertisement/*$domain=lifetv24.com
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /advertisments/*$domain=parchhayin.com
