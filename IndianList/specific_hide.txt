@@ -3870,6 +3870,7 @@ deshsanchar.com##img.alignnone.size-full
 madhyabindu.com,onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 pksnews24.com##img[alt*=" Ad-"]
+ablivenews.com##img[alt*="Sidebar AD –"]
 kantipath.com##img[alt*="add"]
 khabreaajtaklive.com##img[alt*="ads"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
