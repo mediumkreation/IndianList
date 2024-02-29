@@ -211,7 +211,7 @@ aisakya.in,sahmatnews.com###block-31
 aisakya.in###block-32
 newsuniversal.in###block-34
 thenewssense.in,ukpkg.com###block-35
-dnspnews.in###block-37
+dnspnews.in,ukpkg.com###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
 bd24views.com,bdcrictime.com,bihardailynews.com,hdhrm.com,janadeshexpress.in,khabarsar.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,thedastak24.com,veekshanam.com###block-4
@@ -2231,8 +2231,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
