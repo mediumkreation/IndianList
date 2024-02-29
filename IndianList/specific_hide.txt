@@ -1558,6 +1558,7 @@ gramajyothi.com##.custom1
 andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
 biharivoice.com##.customad
+news4nation.com##.custtwo_swiper-container
 banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv##.d-flex
@@ -2833,7 +2834,6 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 janprahar.com##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
-news4nation.com##.top iframe
 anweshanam.com##.top-ad-d
 bigkhabar.com##.top-add
 thereport24.com##.top-add-left4
