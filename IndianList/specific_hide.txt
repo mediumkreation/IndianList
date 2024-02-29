@@ -2722,7 +2722,7 @@ egoomedia.com##.td-ss-main-content .code-block
 satwadhara.news##.td-ss-main-content p img.size-full
 bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
-news27.org,torrongonews.com,vartavani.com##.td-ss-main-sidebar .widget_block
+boltauttarakhand.com,news27.org,torrongonews.com,vartavani.com##.td-ss-main-sidebar .widget_block
 hugujarati.in,khabarbhatapara.in,newsofmithila.in,odiapua.com,sarthaksamay.com,shadhinalo.com,trendingnewsindia.in,ucchakontha.com##.td-ss-main-sidebar .widget_custom_html
 dainikhindmitra.com##.td-ss-main-sidebar .widget_media_gallery
 akkbd.com,brajeshkibaat.com,dainikbharatbhaskar.com,keralabreaking.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
