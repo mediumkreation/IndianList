@@ -2232,8 +2232,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3210,7 +3210,7 @@ bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
 arthosuchak.com,atharvnews.com,beanibazarview24.com,budaunamarprabhat.com,hakkatha.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,shramjeevijournalist.com,therisingcampus.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-aadarshhimachal.com,bholanews.com,channelionline.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
+aadarshhimachal.com,bholanews.com,delhicrimepressnews.com,raozantimes24.com##.wpb_content_element img
 dailysatnadee.com##.wpb_content_element img:only-child
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
@@ -3223,7 +3223,7 @@ khobor71.com##.wpb_raw_code img
 clearnews.live,rajsattanews.com##.wpb_raw_html
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
-adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,channelionline.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com,udaipurnews.in##.wpb_single_image
+adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sajhaonlinekhabar.com,suprovatsydney.com.au,tamilscreen.com,theamplenews.com,theprobashi.com,todaynp.com,udaipurnews.in##.wpb_single_image
 mpnewscast.com##.wpb_single_image .attachment-full
 mpnewscast.com##.wpb_single_image .wpb_heading
 everestdainik.com,keralatimes.com##.wpb_single_image figure
@@ -3279,7 +3279,7 @@ pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
 sirfsach.in##[class^="adsbox"]
 hamromat.com##[class^="sgpb-"]
-attariyaonline.com,channelionline.com,setohimalnews.com,telugumuchatlu.com,theutkal.in##[data-adid]
+attariyaonline.com,setohimalnews.com,telugumuchatlu.com,theutkal.in##[data-adid]
 kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
@@ -3351,7 +3351,6 @@ hindlives.com##a[href*="fkrt.it"]
 currentgk.in##a[href*="gkprashnuttar.com"]
 tamilarul.net##a[href*="goo.gl/"] > img
 visarnews.com##a[href*="goo.gl/18LXwT"]
-channelionline.com##a[href*="guardianlife.com.bd"]
 nayapage.com##a[href*="gurkhasfinance.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
@@ -3708,6 +3707,7 @@ aryavartposts.com##div[id^="aryav-"]
 banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
 bebakuttarakhand.com##div[id^="bebak-"]
 kalamlok.com##div[id^="car-SL_"]
+channelionline.com##div[id^="chann-"] img:not([src*="Google-News-Icon-Channel-i-1.jpg"])
 chhattisgarhprimetime.com##div[id^="chhat-"]
 tamil.filmibeat.com##div[id^="cmscontent-article"]
 dainikchintak.com##div[id^="daini"]
