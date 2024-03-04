@@ -1568,7 +1568,6 @@ mzamin.com##.d-sm-flex
 mzamin.com##.d-sm-none.d-block:not([class^="co"])
 mzamin.com##.d-sm-none.d-flex
 esidhakura.com##.daraz-ad
-ekantipur.com##.daraz-sponser
 telugusmtv.com##.data-area2 .heading
 rtvonline.com##.dazar-ad
 deshabhimani.com##.db-scnAd2
