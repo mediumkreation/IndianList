@@ -2231,8 +2231,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3800,6 +3800,7 @@ channel24bd.tv##div[style="height: 250px;"]
 bbarta24.net##div[style="height:78px; width:100%"]
 telugucalendar.org##div[style="margin-top:-10px; text-align:center;"] span
 kannada.oneindia.com##div[style="min-height: 250px;"]
+risingbd.com##div[style="min-height: 90px;"]
 prabhasakshi.com##div[style="min-height:280px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 sylhetprothidin24.com##div[style^="background-color: #9fb300; "]
