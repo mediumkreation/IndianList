@@ -5,7 +5,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad-Side-Bar.png|$domain=buxaruptodate.com
--ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|satkarpost.com|sharetimes24.com|simpaninews.com|timesofnellore.com
+-ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|sharetimes24.com|simpaninews.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -Ad.jpg|$domain=barishalcrimenews.com
 -ad.jpg|$domain=cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
@@ -202,7 +202,6 @@ _ADS.gif|$domain=focusmohona.com
 _ads.gif|$domain=uttaranews24.com
 _ads.jpg|$domain=uttaranews24.com
 _ads.png|$domain=utkalmailtv.com
-_ads_gif$domain=satkarpost.com
 _advt-$domain=eradioindia.com
 _Advt.gif|$domain=kasaragod.com
 _advt_$domain=channelindia.news
@@ -3364,7 +3363,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||sasthabangla.com^*/TATA.png
 ||satghoria.com/wp-content/uploads/2022/10/add-sundarban-it.com_.gif
 ||satghoria.com/wp-content/uploads/2022/10/sundarban-IT-1536x960-1-700x390.jpg
-||satkarpost.com/wp-content/uploads/2019/05/maruti-may-1140x100pix.gif
 ||satkhira24news.com/wp-content/uploads/2019/07/NUB$image
 ||satkhirapress.com/wp-content/uploads/2018/05/Special-Promotion-2-01-
 ||satkhirapress.com/wp-content/uploads/2018/06/Webp.net-gifmaker-1.gif
