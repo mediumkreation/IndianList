@@ -1145,7 +1145,7 @@ thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
 anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
-amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,campuslive24.com,chandpur24.net,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,emalayalee.com,gandakilive.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,khabortv.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,naidunia.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,unb.com.bd,webtvkhabar.com##.ads
+amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,campuslive24.com,chandpur24.net,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,emalayalee.com,gandakilive.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,khabortv.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,naidunia.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,unb.com.bd,webtvkhabar.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
 gandakitimes.com##.ads aside:not(#custom_html-7)
@@ -1369,9 +1369,9 @@ bangla71news.com,banglarjamin24.com,crimeexpressbd.com,mkantho.com,sobkhobar.com
 capitallivenews.com##.bignews_slider
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
-himalkhabar.com,nayadainiki.com,sajhapost.com##.bigyaapan-box
+himalkhabar.com,nayadainiki.com##.bigyaapan-box
 himalkhabar.com##.bigyaapan-item
-baahrakhari.com,dekhapadhi.com,sajhapost.com##.bigyaapan-section
+baahrakhari.com,dekhapadhi.com##.bigyaapan-section
 janaaastha.com##.bigyapaan
 barnanmedia.com,merofilm.com##.bigyapaan__section
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
@@ -1800,7 +1800,7 @@ rastriyakhabar.com##.full-ads-wrapper
 samadhannews.com##.full-bann
 safalkhabar.com##.full-banner
 nepalsamaya.com##.full-bigyaapan
-baahrakhari.com,capitalnepal.com,khelpati.com,nepallive.com,sajhapost.com##.full-bigyapan
+baahrakhari.com,capitalnepal.com,khelpati.com,nepallive.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
 hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,nawayug.com##.full_ad_section
@@ -2231,8 +2231,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
