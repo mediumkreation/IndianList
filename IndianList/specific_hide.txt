@@ -1425,7 +1425,7 @@ navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 hindsagarplk.com##.bs-shortcode
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
-ctnewsbd.com,joynewsbd.com,kdnewslive.in,kollywoodvoice.com,lightnewsbd.com,prottashitoalo.com##.bsac
+ctnewsbd.com,kdnewslive.in,kollywoodvoice.com,lightnewsbd.com,prottashitoalo.com##.bsac
 positiveindia.net.in##.bsac img:not([src*="1-1.jpg"])
 inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
@@ -2666,6 +2666,7 @@ aadyashanewsman.in,amaderkhulna.net,amadersangbadbd.com,chetona71bdnews.com,dewa
 haryana.indianews.in,indianewsharyana.com,khabromehamarashahar.com,newsoneindia.com,thekanpur.com##.td-a-rec-img
 navdeshtimes.com##.td-a-rec:not(.td-a-rec-id-content_top)
 politics.lk##.td-a-rec:not(.td-a-rec-id-sidebar)
+joynewsbd.com##.td-a-rec:not(.tdi_138)
 dainikjanwani.com##.td-a-rec:not(.tdi_274)
 prabhanews.com##.td-a-rec:not(.tdi_72)
 dainikhindmitra.com##.td-a-rec:not([class*="tdi_127_"])
@@ -3217,7 +3218,7 @@ hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 cgbasket.in,keralatimes.com,mpnewscast.com##.wpb_images_carousel
-agniban.com,joynewsbd.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
+agniban.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
 clearnews.live,rajsattanews.com##.wpb_raw_html
