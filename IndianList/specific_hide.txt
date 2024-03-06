@@ -255,7 +255,7 @@ nepalimato.com###content .news_portal_ads_banner
 kelanchaltimes.com,navabharat.news,pkdnewschannelnoi.com,sabkajammukashmir.com###content .stream-item
 giridihupdates.com,overlook.co.in###content .widget_block
 hindikhabar.com###content .widget_block:not(#block-62)
-khabarmala.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
+khabarmala.com,nobokontho.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
 panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
 kabirkiawaz.in###content .widget_text:not(#text-8)
@@ -2231,8 +2231,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
