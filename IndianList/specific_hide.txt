@@ -2685,7 +2685,6 @@ bengalwatch.in,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navd
 newsvariant.com,sanatanjan.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pratidindaily.com##.td-header-sp-recs
-dpcnews24.com##.td-header-template-wrap .td-a-rec
 eelanadu.lk,prathamnews.in##.td-is-sticky .td-a-rec
 soochnanews.in##.td-main-content .ml-slider
 abtakmedia.com,aviratvaatchal.com,biswabanglanews.com,ccnnews24.in##.td-main-content-wrap .td-a-rec
@@ -2837,7 +2836,7 @@ krishideepam.in##.tm-adv-header
 janprahar.com##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
 anweshanam.com##.top-ad-d
-bigkhabar.com##.top-add
+bigkhabar.com,dpcnews24.com##.top-add
 thereport24.com##.top-add-left4
 aajtak.in##.top-add-section
 aperata.net##.top-ads-block
