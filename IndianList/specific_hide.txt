@@ -830,7 +830,7 @@ starvrutta.com###theme-my-login-4 ~ .widget_media_image
 europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
 damaulikhabar.com###tie-block_2253
-jaybharatnews.com###tie-block_576
+dailybihar.in,jaybharatnews.com###tie-block_576
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
@@ -3112,7 +3112,7 @@ thirdeyetoday.com##.widget_youtube_responsive
 bangladeshsangbadpratidin.com##.width-ad-wrap
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
-jaybharatnews.com##.wonderplugincarousel
+dailybihar.in,jaybharatnews.com##.wonderplugincarousel
 khabarhikhabar.com,surgujasamay.com##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com##.wonderpluginslider
 amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
