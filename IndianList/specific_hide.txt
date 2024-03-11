@@ -2153,7 +2153,7 @@ manoramanews.com##.mm-other-ad
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
-bhilwarahalchal.com,capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
+capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 nepalmamila.com##.modal-content
 annapurnapost.com##.modal__img
@@ -2548,7 +2548,7 @@ jagratilahar.com##.slider img:not([src*="1595764637"])
 telugutimes.net##.slider-below-ads
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
-bharathalchal.com,bhilwarahalchal.com,houseplan.lk,samajkihalchal.com##.slider2
+bharathalchal.com,houseplan.lk,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 lokjeewan.com##.slider_ad_top
@@ -3902,7 +3902,6 @@ sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
 ajkerograbani.com,dhakanewsexpress.com##img[alt="advertisement"]
 gramajyothi.com##img[alt="banner"]
 mirsaraikhobor.com##img[alt="mAD"]
-bhilwarahalchal.com##img[alt="news"]
 khabreelal.com##img[alt="sonu"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
