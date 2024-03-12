@@ -1493,7 +1493,7 @@ purvanchal24.com##.col-md-4 .pbwidget
 dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 businesshour24.com##.col-sm-6 .add-imgae
-anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
+anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,metrojournalonline.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
@@ -2234,8 +2234,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3767,7 +3767,7 @@ bilaspurlive.com##div[id^="sgpb-"]
 sherpurtimes.com##div[id^="sherp-"]
 anugrahavision.com##div[id^="showAS_"]
 atalsamachar.com,woneminute.com##div[id^="showAS_O_BEL"]
-metrojournalonline.com,newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
+newzfast.com,samayduniya.com##div[id^="showAS_O_BEL_"]
 shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
 kairalinewsonline.com##div[id^="slideshow"]
