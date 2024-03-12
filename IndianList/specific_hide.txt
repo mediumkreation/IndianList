@@ -1730,7 +1730,6 @@ grandnews.in##.epcl-row
 livehindustan.com##.epr-ads
 arthasarokar.com##.esn_twin_ad_widget
 azchavattomonline.com##.et_pb_ads_0
-youth18.com##.et_pb_code:not(.et_pb_code_1_tb_body)
 himalayapost.com##.et_pb_image
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
@@ -2234,8 +2233,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3793,6 +3792,7 @@ webreporter.co.in##div[id^="webre-"]
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 anweshanam.com##div[name^="ArticleShow_Paid_"]
 pundrokotha.com.bd##div[pid^="10"]
+youth18.com##div[role*="CUSTOM"]
 paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
 filmykhabar.com##div[style*="float: left; width: 320px; height: 180px;"]
