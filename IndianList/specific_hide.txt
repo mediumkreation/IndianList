@@ -448,7 +448,6 @@ bbttimes.com,capitalnews.lk,dailynagorik.com,dainikmaharajganj.in,jansaamna.com,
 dgnews.co.in,jansaamna.com###media_image-13
 indianow24.com,jansaamna.com###media_image-14
 punjabbaani.com,radiobihani.org,samacharagency.com###media_image-15
-flowersoriginals.com###media_image-16
 hindvatannews.com###media_image-17
 webreporter.co.in###media_image-18
 webreporter.co.in###media_image-19
@@ -933,7 +932,7 @@ thinkwithniche.in##.Home-seo-add-sidebar-bigborder
 yarldevinews.net##.Image
 mithimedia.in##.Image.widget
 khabarpahad.com##.InArtilce-AdSlot01
-twentyfournews.com##.InsidePost
+flowersoriginals.com,twentyfournews.com##.InsidePost
 nellaionline.net,tutyonline.net##.MR300250
 newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
