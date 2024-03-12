@@ -955,7 +955,7 @@ abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 thinatamil.com##.a-vd-content
 bartabangla.com##.a-widget
-himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,satv.tv,thenetizennews.com,theriyuma.com##.a-wrap
+abtakmedia.com,himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,satv.tv,thenetizennews.com,theriyuma.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -2690,7 +2690,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pratidindaily.com##.td-header-sp-recs
 eelanadu.lk,prathamnews.in##.td-is-sticky .td-a-rec
 soochnanews.in##.td-main-content .ml-slider
-abtakmedia.com,aviratvaatchal.com,biswabanglanews.com,ccnnews24.in##.td-main-content-wrap .td-a-rec
+aviratvaatchal.com,biswabanglanews.com,ccnnews24.in##.td-main-content-wrap .td-a-rec
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com,matopath.com##.td-main-content-wrap .td_block_single_image
