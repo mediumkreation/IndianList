@@ -3967,6 +3967,7 @@ malayaleepathram.com.au#?#.hotwp-box.widget_black_studio_tinymce:-abp-has(> div 
 manvadhikarabhivyakti.com#?#.td-main-content-wrap .td-a-rec:-abp-has(> div > div > h4.block-title)
 marathiworld.com#?#div:-abp-has(> ins.adsbygoogle)
 cnin.co.in,dainikjaltedeep.com##marquee
+arlivenews.com##marquee img
 maxmaharashtra.com#?#div:-abp-has(> ins.adsbygoogle)
 maxwoman.in#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
