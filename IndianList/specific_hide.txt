@@ -3362,6 +3362,7 @@ kvartha.com##a[href*="kasargodvartha.com"]
 sharebazarnews.com##a[href*="kidarkar.com"]
 malayalees.ch##a[href*="kidoovacations.com"]
 techalonews.com##a[href*="kitchenworldbd.com"]
+keraleeyammasika.com##a[href*="ksfe.com"]
 chattolarkhabor.com,ctgpratidin.com##a[href*="ksrm.com.bd"]
 maloutlive.com##a[href*="maloutonline.com/listing/"] > img:only-child
 bhalukanews.com##a[href*="mastercafebd"]
