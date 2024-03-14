@@ -1761,7 +1761,7 @@ nepaljapan.com##.fixedbar
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
-arohitodaynews.com,badaunexpress.com,dainik4media.com##.flexslider
+arohitodaynews.com,badaunexpress.com##.flexslider
 sahilonline.net##.flexslider-eid
 donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
@@ -2539,7 +2539,6 @@ donnews.com,sancharkendra.com##.skada
 donnews.com,sancharkendra.com##.skadd
 donnews.com##.skads
 nepalraftar.com##.skip-ads
-dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 telugutimes.net##.slider-below-ads
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,rajdhanitimescg.in,republicbharatnews24.com,tnnews24.in##.slider-pro
@@ -3075,7 +3074,6 @@ aajkaaditya.in,aapabhitak.tv,bntlive.com,cityhalchal.com,dainikujagarkhabar.in,g
 news-punjab.com##.widget_mts_widget_adcode
 kalikadainik.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
-dainik4media.com##.widget_nivo_slider_widget
 wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 diyopost.com##.widget_palika_advertisement
@@ -3247,7 +3245,7 @@ ptcnews.tv##.wpb_wrapper aside.widget_media_image
 newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 boolokam.com##.wpcnt
-news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
+dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
 headline24x7.com##.ws-block img:not([src*="headline24.jpg"])
