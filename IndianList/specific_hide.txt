@@ -29,7 +29,7 @@ importmirror.com###HTML27
 gramsamachar.com###HTML29
 36kaakda.in,battinews.com,cnblive.com,insightchhattisgarh.in,kanaighatnews.com,kushiyaranews.com,punalurnews.com,thattungal.com,ukliveuttrakhand.com###HTML3
 gramsamachar.com,jaldhakanews.com,vbnews24.com###HTML30
-99samacharexpress.in,khabreaajtaklive.com,yerahajawab.in###HTML33
+99samacharexpress.in,yerahajawab.in###HTML33
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,ekumaon.com,eluvannews.com,kanaighatnews.com,kolhapurlive.in,malwalive.com,media24media.com,nbcbangla.com,tamilarul.net###HTML4
 tamilarul.net###HTML40
 tamilarul.net###HTML42
@@ -2229,8 +2229,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2249,7 +2249,7 @@ onlynews24.com##.onlyn-after-content
 apnapunjabmedia.com##.order-3 .mt-4
 telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
-247superfast.com,24x7cg.com,abhibharat.com,khabreaajtaklive.com,nawidunia.com,timesandspace.com##.owl-carousel
+247superfast.com,24x7cg.com,abhibharat.com,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 bangladeshglobal.com##.p-b-35.container
 cinemavalai.com##.page.hentry
@@ -3108,7 +3108,7 @@ bangladeshsangbadpratidin.com##.width-ad-wrap
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com##.wonderplugincarousel
-khabarhikhabar.com,surgujasamay.com##.wonderplugincarousel-container
+khabarhikhabar.com,khabreaajtaklive.com,surgujasamay.com##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com##.wonderpluginslider
 amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
@@ -3875,7 +3875,6 @@ fenireport.com##img.img-fluid[src*="/backend/logo/"]
 pksnews24.com##img[alt*=" Ad-"]
 ablivenews.com##img[alt*="Sidebar AD –"]
 kantipath.com##img[alt*="add"]
-khabreaajtaklive.com##img[alt*="ads"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
