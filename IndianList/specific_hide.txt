@@ -3252,6 +3252,7 @@ headline24x7.com##.ws-block img:not([src*="headline24.jpg"])
 shabdsaransh.com##.ws-block img:only-child
 sansanilive.com##.ws-block video
 aajkasamay.com##.ws-block-body > a[href=""]
+janghatna.com##.ws-block-body a img:not([src*="dj.JPG"])
 fastindianews.com##.ws_gestures
 bnnbharat.com##.xembgt
 yashbharat.com##.yashb-adlabel
