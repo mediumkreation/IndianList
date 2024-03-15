@@ -2958,6 +2958,7 @@ eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com##.webAds
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,tahalaka.in##.well
+webgossip.lk##.wg-advert
 suddidina.com##.whistleAds
 newskoseli.com##.wid-1
 ndtv.in##.wid_tboola
