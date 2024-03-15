@@ -461,7 +461,7 @@ ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
 cgimpact.org,dhamakachhattisi.in,ggsnews24.com,loksaakshya.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,loksaakshya.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-amritvarshanews.in,ayushindianews.com,dainikkhojkhabar.live,dainiklumbini.com,darpansamachar.com,dharuvu.com,fairnepal.com,fenirzamin.com,globalsylhet.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
+amritvarshanews.in,ayushindianews.com,dainikkhojkhabar.live,dainiklumbini.com,darpansamachar.com,dharuvu.com,fairnepal.com,fbdnews.com,fenirzamin.com,globalsylhet.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,navpradesh.com,newshunter.online,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
 cg24x7.news,cgnews24x7.wordpress.com,satkarpost.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
 voiceofbihar.in###media_image-36
@@ -1697,7 +1697,7 @@ loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
 karmalamadhanews24.com##.entry-content > p > img
-apnashaharnews.com,emaatimes.com,fbdnews.com,sabkikhabar.net##.entry-content > p img
+apnashaharnews.com,emaatimes.com,sabkikhabar.net##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
