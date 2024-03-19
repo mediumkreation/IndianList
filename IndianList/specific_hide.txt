@@ -352,7 +352,6 @@ lagatar.in###hadd
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
 chattolarkhabor.com,delhinews24.com,indiareportertoday.com,indiavisionmedia.com,infokhabar.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
-newsbazar24.com###header .col-lg-7
 dankaram.in###header .right
 odishamirror.com###header .sidebar
 digitalkhabar.com,focusbd24.com,pradeshajjtak.com###header .sidebar-col
