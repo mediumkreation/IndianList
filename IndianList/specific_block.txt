@@ -39,7 +39,6 @@
 -banner.jpg|$domain=ntnews.com
 -Banner.jpg|$domain=ottrancheithi.com|shamolbangla24.com
 -banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
--bediAds-$domain=shramikmantr.com
 -Campaign_$image,domain=publictv.in
 -gif.gif|$domain=prabhattimes.com
 -GIF.gif|$domain=rajdhanidaily.com
@@ -3506,6 +3505,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||shortpixel.ai^*9853049042272558631$domain=ideatvnews.com
 ||shottoboyan.com/wp-content/uploads/2021/10/anigif.gif
 ||shottoboyan24.com^*gif.gif
+||shramikmantr.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-14-at-10.17.50-AM
 ||shubhoprotidin24.com^*/haramine
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
 ||simpaninews.com/wp-content/uploads/2018/09/gif-forex.gif
