@@ -2229,8 +2229,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3822,6 +3822,7 @@ bdtimes365.com##div[style^="width:320px; height: 260px!important; float: right;"
 divyahimachal.com#?#div:-abp-has(> .advert)
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 doonhorizon.in#?#div:-abp-has(> ins.adsbygoogle)
+doonited.in#?#p:-abp-has(ins.adsbygoogle)
 editiontoday.in#?#.sppb-column-addons > div:-abp-has(.carouselbanner)
 encounterindia.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADS))
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
