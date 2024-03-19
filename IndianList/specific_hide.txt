@@ -595,7 +595,7 @@ samachardoot.com###right_banner
 teluguglobal.com###right_level_0
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
-thejasnews.com###right_level_3
+jantakiawaz.org,thejasnews.com###right_level_3
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
 ekantipur.com###roadblock-ad
@@ -2830,7 +2830,7 @@ netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
-janprahar.com##.to-be-async-loaded-ad
+janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
 anweshanam.com##.top-ad-d
 bigkhabar.com,dpcnews24.com##.top-add
