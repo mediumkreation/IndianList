@@ -2437,7 +2437,6 @@ dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 fourteenkerala.com,pokharasports.com##.sidebar .stream-item-widget
 bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
 thenewsrepair.com##.sidebar .widget.HTML
-madhepurakhabar.com##.sidebar .widget.HTML:not(#HTML12):not(#HTML2):not(#HTML22)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 indiannewsroom.com,mbpratidin.com##.sidebar .widget_block
@@ -3951,6 +3950,7 @@ livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div a > p:-abp-contains(
 lnstarnews.com#?#.elementor-widget-wrap:-abp-has(h2:-abp-contains(Adv.))
 loginkerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h2 + span:-abp-contains(Ad |))
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
+madhepurakhabar.com#?#.HTML:-abp-has(> .widget-title > .title:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 magadhexpress.in#?#.wp-block-group:-abp-has(> div > .wp-block-heading:-abp-contains(Advertisement))
 netrokonajournal.com##main .advertisement img
