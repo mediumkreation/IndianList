@@ -2928,6 +2928,7 @@ coastal-mirror.com##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 sharpbharat.com##.vc_raw_html:not(.tdi_87)
 sankalpsavera.com##.vc_row.vc_row-has-fill
+khaboriya24.com##.vc_row:has(> .vc_column > .wpb_wrapper > .td-a-rec:only-child)
 ibclive.in##.vc_sidebar .widget_custom_html
 guruvayooronline.com##.vc_single_image.tdi_78
 amaderkhulna.net,netmalayalam.com##.vc_slide
