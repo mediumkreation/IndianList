@@ -3112,7 +3112,7 @@ teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com##.wonderplugincarousel
 khabarhikhabar.com,khabreaajtaklive.com,surgujasamay.com##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com##.wonderpluginslider
-amanshantinews.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
+amanshantinews.com,himachalreport.com,ikvnews.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
 chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
@@ -3855,6 +3855,7 @@ gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
+ikvnews.com##header + div .elementor-shortcode img
 khabor.com##header a[href*="/click-"]
 lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
