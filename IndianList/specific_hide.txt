@@ -301,7 +301,7 @@ saakshatv.com###custom_html-26
 surgujasamay.com,ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,kalyankesari.com,khabarexpert.in,khabarstate.com,khabaruttarakhand.com,kushtiabd.com,livehalchal.com,lotpot.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
+angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,kalyankesari.com,khabarexpert.in,khabarstate.com,khabaruttarakhand.com,kushtiabd.com,livehalchal.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 saakshatv.com###custom_html-30
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
@@ -2231,8 +2231,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2304,6 +2304,7 @@ jaunpurlive.com##.post-content .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
 pnn24.in##.post-content ~ :not(div)
 khasokhas.com##.post-entry .code-block
+manamnews.com##.post-entry div[style^="float"]
 sahityarachana.com##.post-footer center
 probashirdiganta.com##.post-header .bg-e2e2e2
 faridabadnews.live##.post-header a[target="_blank"] img
