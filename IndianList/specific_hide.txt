@@ -2301,7 +2301,6 @@ nayasabera.com##.post-body .tr-caption-container
 web.nawadalive.com##.post-body > span img
 beanibazarnews24.com##.post-content .sidebar-content
 jaunpurlive.com##.post-content .tr-caption-container
-agraleaks.com##.post-content > figure > img:only-child
 pnn24.in##.post-content ~ :not(div)
 khasokhas.com##.post-entry .code-block
 manamnews.com##.post-entry div[style^="float"]
@@ -2411,8 +2410,8 @@ ns7.tv##.seithigalad
 banglatelegraph.com##.sentbe-top
 gulfmalayaly.com##.sep
 dokhinercrime.com##.sg-ad
-agraleaks.com,raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
-agraleaks.com,onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
+raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
+onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
 sunbd24.com##.share-ads
 shrinaradmedia.com##.shrin-widget
 rastriyakhabar.com##.side-ads-wrapper
