@@ -867,7 +867,7 @@ atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khaba
 newindia24.in,news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,mpkhabar.com###widget-sidebar-3
-beauronews.com,khabarpradesh.com,newindia24.in###widget-sidebar-4
+khabarpradesh.com,newindia24.in###widget-sidebar-4
 gujaratvaibhav.com###widget4
 ekattor.tv###widget_623
 itvbd.com###widget_626
@@ -1875,7 +1875,7 @@ jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com##.header-promo
 alochitokantho.com.bd##.header-promotion
 a2zsamachar.com,azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,starvrutta.com,theprobashi.com##.header-right
-headline24x7.com,khabarduniya.com##.header-right-adv
+beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
 sylhetprothidin24.com##.header-section .header_ad_banner
@@ -2233,8 +2233,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
