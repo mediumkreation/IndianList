@@ -3288,6 +3288,7 @@ hamromat.com##[class^="sgpb-"]
 attariyaonline.com,setohimalnews.com,telugumuchatlu.com,theutkal.in##[data-adid]
 kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
+sharechat.com##[href*="whistleloop.com"] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 gtamilnews.com##[id^="itro_"]
