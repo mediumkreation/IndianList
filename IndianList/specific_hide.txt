@@ -1917,7 +1917,6 @@ setoshikhar.com##.hmxbiekzq
 chattogramnews.com##.home .elementor-widget-image
 humarabikaner.com##.home .site-wrap > div:not(.elementor)
 bangla-news24.com##.home-e3lan
-dabangmedia.com##.home-gallery.photo-gallery
 cibindianews.com##.home-lead-block
 tamiltradepost.com##.home-mid-banner
 deshprotikhon.com##.home-page-ads a:not([href*="deshprotikhon.com"])
@@ -2234,8 +2233,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2369,7 +2368,6 @@ newsdnntv.com,samaylive.com##.right-banner
 banglanews24.com##.right-container .ads
 kungumam.co.in##.right-inner .right-box
 argusnews.in##.right-section-top-2
-dabangmedia.com##.right_adbox
 adnlive24.com##.right_adbox iframe
 khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
