@@ -2002,6 +2002,7 @@ newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
 samvetshikhar.com##.item-size-right img
 suprovatsydney.com.au##.item_content
+aajtak.in##.itgdAdsPlaceholder
 alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
