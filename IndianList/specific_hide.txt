@@ -969,7 +969,7 @@ pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-awamileaguetimes.com,lokaantar.com##.ad-banner
+adityabharat.com,awamileaguetimes.com,lokaantar.com##.ad-banner
 bizshala.com##.ad-banner-img
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
@@ -2233,8 +2233,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
