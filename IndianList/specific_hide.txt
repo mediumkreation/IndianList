@@ -1432,7 +1432,6 @@ cgjanadesh.com##.bwp_gallery_slideshow
 dhanamonline.com##.c-ad-container
 himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
-munaadi.com##.card-body > center > img
 lanka4.com##.card.text-center
 aloavanews24.com,indiasamachar24.com,malayalamtodayonline.com,thefollowup.in##.carousel
 news11.live##.carousel.slide
@@ -3499,6 +3498,7 @@ bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(A
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
+munaadi.com##center img.w-100
 nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 cgnewsonline.com#?#div:-abp-has(> small:-abp-contains(Advt))
@@ -3974,7 +3974,7 @@ maxwoman.in#?#div:-abp-has(> ins.adsbygoogle)
 meranews.com#?#p:-abp-contains(Advertisement)
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
 mumbaitak.in#?#div:-abp-has(div[id^="div-gpt-ad-"])
-munaadi.com#?#.card:-abp-has(> h5:-abp-contains(Advertisment))
+munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
 natunsylhet24.com#?#div:-abp-has(> ins.adsbygoogle)
 punjabiherald.co.nz##nav + div
