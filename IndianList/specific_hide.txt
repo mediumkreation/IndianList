@@ -277,13 +277,13 @@ dankaram.in###customImage
 dankaram.in###customVideo
 biharnewslive.com,khagracharipratidin.com###custom_html-1
 dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
-arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jaihindtimes.in,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
+arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 vichareknayeesoch.com###custom_html-116
 jugerbarta.online,sonprabhat.live,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
-247superfast.com,ausamachar.com,jaihindtimes.in###custom_html-13
+247superfast.com,ausamachar.com###custom_html-13
 sharebazarnews.com###custom_html-1371
 goindianews.com###custom_html-14
 bhaskarenews.com,crimekhabar.live,jonopotro.com,tejalgyannews.com###custom_html-15
@@ -1856,7 +1856,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 pahadkasach.in##.header-advertise
 ambikapurcity.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
-anbnews24.com,azranews.in,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,khabardev.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
+anbnews24.com,azranews.in,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,khabardev.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 digitalkhobor.com##.header-full-ads-top
@@ -1998,6 +1998,7 @@ aajtak.in##.itgdAdsPlaceholder
 alokitoshitalakha.com##.itpolly_widget img
 ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
+jaihindtimes.in##.jaihi-before-content
 sankalpsavera.com##.jeg-vc-wrapper iframe
 bharatjan.com,dharananews.com,sanjaygram.com##.jeg_ad
 sorejominbarta.com##.jeg_main .elementor-widget-image
