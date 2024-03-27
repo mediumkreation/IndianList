@@ -250,7 +250,7 @@ ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
 nepalimato.com###content .news_portal_ads_banner
-kelanchaltimes.com,pkdnewschannelnoi.com,sabkajammukashmir.com###content .stream-item
+kelanchaltimes.com,pkdnewschannelnoi.com,sabkajammukashmir.com,sabkasandesh.com###content .stream-item
 giridihupdates.com,overlook.co.in###content .widget_block
 hindikhabar.com###content .widget_block:not(#block-62)
 khabarmala.com,nobokontho.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
