@@ -2760,7 +2760,7 @@ asomkhobor.com##.tdm-popup-modal
 biswabanglanews.com##.tdm-popup-modal-wrap
 annapurnatimes.com##.tdm_block
 mekhadooth.com##.tdm_block img
-expertmedianews.com,myagdikali.com##.tdm_block_inline_image
+myagdikali.com##.tdm_block_inline_image
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 samakal.com##.text-body-ad
