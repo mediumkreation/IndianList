@@ -608,7 +608,7 @@ prajasattaknews.com###secondary .ai-sticky-widget
 bcsuddi.com###secondary .ai_widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
-brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,indiapolkhol.in,janmat.co.in,kelopravah.news,konnivartha.com,thenewswave.com###secondary .widget_block
+brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,janmat.co.in,kelopravah.news,konnivartha.com,thenewswave.com###secondary .widget_block
 creativenewsexpress.com###secondary .widget_block iframe
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
@@ -1537,6 +1537,7 @@ keralakaumudi.com##.cs-sec-feat-title
 internationalmalayaly.com##.cscra-promotion > img
 internationalmalayaly.com##.cscra-promotion a:not([href*="internationalmalayaly.com"])
 internationalmalayaly.com##.cscra-promotion:empty
+indiapolkhol.in##.ct-header-text
 shasakprashasak.com##.custom img
 arthasarokar.com##.custom-ad-link
 sylhetview24.news##.custom-ads-row
@@ -2228,8 +2229,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area

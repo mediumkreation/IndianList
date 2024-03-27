@@ -29,7 +29,6 @@
 -advert.jpg|$domain=samakalam.com
 -ADVT.jpg|$domain=attingalvartha.com
 -Advt.png|$domain=centralindia.news
--Agust-AD-$domain=indiapolkhol.in
 -bannar.jpg|$domain=kurigramlive.com
 -banner$domain=udayasooriyan.lk
 -Banner.gif$image,domain=sajhatv.com
