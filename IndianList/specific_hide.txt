@@ -1999,7 +1999,6 @@ samvetshikhar.com##.item-size-right img
 suprovatsydney.com.au##.item_content
 aajtak.in##.itgdAdsPlaceholder
 alokitoshitalakha.com##.itpolly_widget img
-ekhabartoday.com##.ivrss_widget
 dainikjharkhand.com##.ixnf
 jaihindtimes.in##.jaihi-before-content
 sankalpsavera.com##.jeg-vc-wrapper iframe
@@ -3115,7 +3114,7 @@ delhiuptodate.com,fbdnews.com##.wonderpluginslider
 amanshantinews.com,himachalreport.com,ikvnews.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
-chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
+chatgarsangbad.net,ekhabartoday.com,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 dristyprotidin.com##.wp-block-gallery-3
 ghaziabad365.com,royalnews13.in##.wp-block-group
 dainikdishari.com,dthreeonline.com,epaperindia.in,ramailochha.com,royalnews13.in##.wp-block-image
