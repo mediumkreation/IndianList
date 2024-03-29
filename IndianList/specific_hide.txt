@@ -2483,6 +2483,7 @@ mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
 khabaristan.com##.single-728
+probashbarta.com##.single-add
 news71online.com##.single-block .col-sm-12 img
 khabaristan.com##.single-box
 dhadingpost.com##.single-content p~figure.wp-block-image
