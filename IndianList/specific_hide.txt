@@ -2335,7 +2335,6 @@ farwesttimesdaily.com##.promotional__col
 publictv.in##.pt-adv
 janayugomonline.com##.pum
 cinemapressclub.com,nepalpostdaily.com##.pum-content
-punjabnewslive.co.in##.punja-after-content_14
 thedailycampus.com##.purplepatch
 purvanchalpost.com##.purva-widget
 indiatimes.com,vijaykarnataka.com##.pwa-deals
@@ -3754,6 +3753,7 @@ nikharanews.in##div[id^="nikha-"]
 1news.com.bd##div[id^="nutdcr"]
 pahadkasach.in,pahadprabhat.com##div[id^="pahad-"]
 lokmat.com##div[id^="photoInlist"]
+punjabnewslive.co.in##div[id^="punja-"]
 rashtranayaknews.com,rashtrasamvad.com##div[id^="rasht-"]
 lokmat.com##div[id^="rhs-"]
 sachkitop.com##div[id^="sachk-"]
