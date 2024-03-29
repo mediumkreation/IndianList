@@ -417,7 +417,7 @@ newsuperbharat.com###main .widget_custom_html
 chhapratoday.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
 naturalnews.co.in###main aside.widget_media_image
-mithlahindinews.com###main-ads-post
+dildarnagar.com,mithlahindinews.com###main-ads-post
 agrilife24.com###main-body .custom
 lankadawasa.com###main-content + aside > .widget_media_image
 ibn24x7news.com,theexclusivestory.com###main-content .e3lan
