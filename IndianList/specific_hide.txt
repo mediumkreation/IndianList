@@ -1718,6 +1718,7 @@ bhilaitimes.com##.entry-content img[src*="advt"]
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 thepoliticsagain.com##.entry-content p > img
 newskadaba.com##.entry-content p img
+morbinews.in##.entry-content.single-post-content > img
 chhapratoday.com##.entry-the-content .code-block
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
