@@ -2749,7 +2749,7 @@ n7india.com##.tdb_single_content .code-block
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
-tejastoday.com##.tdb_single_content h1 a img
+tejastoday.com##.tdb_single_content img.size-full
 newsgil.in,tejastoday.com##.tdb_single_content p img
 politicsnews24.com##.tdc-row-content-vert-center
 guruvayooronline.com##.tdi_118
@@ -2763,6 +2763,7 @@ jk24x7news.tv##.tdi_66
 prasthutha.com##.tdi_76
 samayviews.com##.tdi_86
 shahtimesnews.com##.tdi_88
+tejastoday.com##.tdm-inline-image-wrap
 asomkhobor.com##.tdm-popup-modal
 biswabanglanews.com##.tdm-popup-modal-wrap
 annapurnatimes.com##.tdm_block
@@ -3776,8 +3777,6 @@ shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
 kairalinewsonline.com##div[id^="slideshow"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
-tejastoday.com##div[id^="tdi_112_"]
-tejastoday.com##div[id^="tdi_55_"]
 tharexpressnews.com##div[id^="thare-"]
 thehdnews.in##div[id^="thehd-"]
 thirdeyenewslive.com##div[id^="third-"]
@@ -3859,6 +3858,7 @@ garavigujarat.biz#?#.wpb_raw_html:-abp-has(.adsbymahimeta)
 ghatail.com#?#.mb-3:-abp-has(> div > ins.adsbygoogle)
 gossiplanka.com#?#.HTML:-abp-has(.title:-abp-contains(Advertisement))
 gossiplankanews.com#?#div.HTML:-abp-has(> div ins.adsbygoogle)
+tejastoday.com##h2 a[href*="one-medicine-"]
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 haal.fashion#?#div:-abp-has(> div > .dfp-ad-unit)
