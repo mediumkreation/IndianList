@@ -306,7 +306,7 @@ saakshatv.com###custom_html-30
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
 gondwanaexpress.com,saakshatv.com###custom_html-39
-24timestoday.com,amanyatralive.com,apnahimachalapnishaan.in,hindirush.com,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabarwarrior.com,tahalka24x7.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
+24timestoday.com,amanyatralive.com,apnahimachalapnishaan.in,hindirush.com,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabarwarrior.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 gondwanaexpress.com###custom_html-40
 jaunpurlivenews.in###custom_html-43
 247superfast.com,asrilanka.com,bdcrictime.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,news129.com,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com,theriyuma.com,uttranews.com###custom_html-5
@@ -454,8 +454,8 @@ prompttimes.com###media_image-20
 dainikmaharajganj.in,ggsnews24.com,gnews5.com###media_image-21
 cgnews24x7.wordpress.com,dainikchintak.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
-cg24x7.news,cgnews24x7.wordpress.com###media_image-25
-ggsnews24.com,pabnabarta24.com,voiceofbihar.in###media_image-26
+cg24x7.news,cgnews24x7.wordpress.com,tahalka24x7.com###media_image-25
+ggsnews24.com,pabnabarta24.com,tahalka24x7.com,voiceofbihar.in###media_image-26
 cgimpact.org,dhamakachhattisi.in,ggsnews24.com,loksaakshya.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,loksaakshya.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
@@ -2187,7 +2187,7 @@ news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
 hindi.news18.com##.n18thder
-24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,mahadbd.com,rashtrabodh.com,rozanapost.in,tahalka24x7.com,thehdnews.in,zamania.in##.n2-section-smartslider
+24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,mahadbd.com,rashtrabodh.com,rozanapost.in,thehdnews.in,zamania.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
@@ -2234,8 +2234,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
