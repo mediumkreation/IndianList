@@ -1699,6 +1699,7 @@ newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com##.entry-content a img
+sheikhpuranews.com##.entry-content a[target="_blank"] img
 dainikkhabraan.com##.entry-content div[class*="daini-"]
 dailysatnadee.com##.entry-content div[data-adid]
 cgmitan.com##.entry-content div[id^="cgmit-"]
@@ -1951,6 +1952,7 @@ thereport24.com##.idlc
 bengali.indianexpress.com,jansatta.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
 ujyaaloonline.com##.iframe-container
+sheikhpuranews.com##.iframely-embed
 iftamil.com##.iftam-content
 visionnewsservice.in##.image-ad
 bhilwarahalchal.com##.image-post-slider
