@@ -318,6 +318,7 @@ barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.i
 channelionline.com,f21news.com,futurekerala.in,gadhsamvedna.com,mynews36.com,pradhanavartha.in,thepressnepal.com,ujjwalduniya.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,sarhadkasakshi.com,satyaketansamachar.com###custom_html-9
 pundrokotha.com.bd###descripton div[style*="url"]
+sinhala.asianmirror.lk###desktopad
 manithan.com###dfp_banner_header_panel + span
 spyviewnews.in###disqus_recommendations
 bhorerkagoj.com###div-ub-bhorerkagoj
@@ -2235,8 +2236,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
