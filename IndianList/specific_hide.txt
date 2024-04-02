@@ -948,7 +948,7 @@ keralakaumudi.com##.a-300-250
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com##.a-widget
-abtakmedia.com,himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,satv.tv,satyaday.com,thenetizennews.com,theriyuma.com##.a-wrap
+abtakmedia.com,himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,newsdeskkannada.com,satv.tv,satyaday.com,thenetizennews.com,theriyuma.com##.a-wrap
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -1647,6 +1647,7 @@ zoombangla.com##.elementor-widget-html img
 abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,hamdardtv.com,iftamil.com,jalauntimes.com,kannadanewsnow.com,khabarwithcover.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,mediasaheb.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,polkholonline.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,topnewskerala.com,ulipur.com,updatepunjab.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,humhindustaniusa.com,thinakaran.lk##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
+newsdeskkannada.com##.elementor-widget-image .size-large
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
@@ -2102,7 +2103,7 @@ subhechhanews.com##.main-headera .advertise
 keralaexpress.com##.main-right-ad
 cgnewsonline.com##.main-sidebar .widget_block
 khulnanchal.com##.main-sidebar .widget_custom_html
-bastarkiaawaz.com,colombotoday.com,khabarbastar.in##.main-sidebar .widget_media_image
+bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 bharatdarshannews.com##.main-slider
 deshdigital.in##.main-wrap div[class^="rozu"]
@@ -2137,7 +2138,6 @@ marathisrushti.com,rojdin.in##.mh-header-widget-2
 janjoshnews.in,uniquesamay.com##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
 nawayug.com##.mid-ad-heading
-newsdeskkannada.com##.mid-adv .row
 samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
 eisamay.com##.midArtContainer
@@ -2237,8 +2237,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2567,6 +2567,7 @@ rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
 agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
+newsdeskkannada.com##.smart-head-mid .h-text
 dailydhaka24.com,inews.zoombangla.com,kannadanewsnow.com,theriyuma.com##.smartmag-widget-codes
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
