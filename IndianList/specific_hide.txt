@@ -510,6 +510,7 @@ digitalnewslive.com,januday.com,mahekasansar.com,npg.news,ravivardelhi.com,thekh
 mahekasansar.com,npg.news,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
+timesnowhindi.com###mgIDReadMore div[style*="min-height"]
 kathir.news###mid_level_3_after
 filmistreet.com###modalBody
 tharunaya.us###module_03_ads300x250
@@ -2236,8 +2237,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
