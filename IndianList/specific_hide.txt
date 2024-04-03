@@ -1666,7 +1666,7 @@ graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnew
 ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in##.elementor-widget-shortcode img
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
-news24bd.net##.elementor-widget-sidebar
+joharlive.com,news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
 citizenlive.news##.elementor-widget-smartmag-codes
