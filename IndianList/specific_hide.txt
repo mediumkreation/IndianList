@@ -40,6 +40,7 @@ dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.c
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 kasargodvartha.com###HTML92
+exprestamil.com###HTML94
 99samacharexpress.in,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,pinkcitynews.in,probashbd.news,shaharaman.com,siyanenews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,gidhaur.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
@@ -2237,8 +2238,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
