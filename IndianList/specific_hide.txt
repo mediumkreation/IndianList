@@ -2237,8 +2237,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2694,7 +2694,7 @@ somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pratidindaily.com##.td-header-sp-recs
 eelanadu.lk,prathamnews.in##.td-is-sticky .td-a-rec
 soochnanews.in##.td-main-content .ml-slider
-aviratvaatchal.com,biswabanglanews.com,ccnnews24.in,watnopaarpunjabinews.com##.td-main-content-wrap .td-a-rec
+aviratvaatchal.com,biswabanglanews.com,ccnnews24.in,mahaxpress.com,watnopaarpunjabinews.com##.td-main-content-wrap .td-a-rec
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 janatarsylhet24.com,matopath.com##.td-main-content-wrap .td_block_single_image
