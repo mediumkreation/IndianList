@@ -2260,7 +2260,6 @@ telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
 247superfast.com,24x7cg.com,abhibharat.com,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
-bangladeshglobal.com##.p-b-35.container
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
 bartamanpatrika.com##.pageAdBanner_300X255 div
@@ -2644,7 +2643,6 @@ suddidina.com##.suddi-after-content_13
 suddidina.com##.suddi-content_10
 awajnews.com##.supsystic-slider-wrapper
 notebook.today##.t-out-span
-bangladeshglobal.com##.tab01 > .row
 adhunikdaur.com##.tab_265top_left
 livehindustan.com,sandesh.com##.taboola
 news18.com##.taboola_setting
@@ -3892,6 +3890,7 @@ dbcnews.tv##iframe[style*="height: 90px"]
 deshsanchar.com##img.alignnone.size-full
 madhyabindu.com,onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
+bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
 pksnews24.com##img[alt*=" Ad-"]
 ablivenews.com##img[alt*="Sidebar AD –"]
 kantipath.com##img[alt*="add"]
