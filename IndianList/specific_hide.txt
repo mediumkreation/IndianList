@@ -2058,7 +2058,6 @@ damaulionline.com##.list-advertisement
 heralokhabar.com##.list_ads
 dailyjugantorsangbad.com##.live .embed-responsive
 manasmediaonline.com##.livedemo img
-liveindianews18.in##.livei-after-content
 vplnews.com##.ln-advertisement-block
 lankanewsweb.net##.lnw-ad
 nepaldubai.com,setoghar.com##.logo-ads
@@ -3748,6 +3747,7 @@ khabarbihar.in,khabarmuluk.com,khabarpahad.com,khabarsameeksha.com##div[id^="kha
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
 koyilandydiary.com##div[id^="koyil-"]
 lagatar.in##div[id^="lagat-"]
+liveindianews18.in##div[id^="livei-"]
 livetrends.news##div[id^="livet-"]
 lokalok.in##div[id^="lokal-"]
 madathakaja.com##div[id^="madat-"]
