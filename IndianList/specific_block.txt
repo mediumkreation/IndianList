@@ -1,6 +1,7 @@
 -1024x1024.jpeg|$domain=muzaffarpurnow.in|muznow.in
 -1024x256$domain=dailyfenchugonj.com
 -500x300$domain=khojinews.co.in
+-ad-$domain=atharvnews.com
 -ad-banner-$domain=bihardootnews.com
 -Ad-Final-$domain=dmpnews.org
 -ad-new.jpeg|$domain=swatvasamachar.com
@@ -427,8 +428,12 @@ perfection-ias-upsc$domain=nextbihar.com
 ||aswamedham.com/uploads/cms_images/kccna
 ||aswamedham.com^*/flowersadvt.gif
 ||atalstambh.com/wsdata/wwwatalstambhcom/news/202103/atal.jpg
+||atharvnews.com/wp-content/uploads/2020/09/jetsor-
+||atharvnews.com/wp-content/uploads/2024/03/grand-holi
+||atharvnews.com/wp-content/uploads/2024/03/kamal-jha-unique
 ||atharvnews.com^*-ad.
 ||atharvnews.com^*-add-
+||atharvnews.com^*/ad-
 ||attingalvartha.com/wp-content/uploads/2023/01/side-bar-top-ad1-
 ||attingalvartha.com^*/Klayan-
 ||attingalvartha.com^*/Rajakumari-
