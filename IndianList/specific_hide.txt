@@ -566,7 +566,7 @@ lokmatnews.in###photoInlist2
 jugantor.com###popAd
 amadershomoy.com,nepalipaisa.com###popUp
 samakal.com###popUpModalAd
-bharatdarshannews.com,hindustanvision.com###popup_box
+hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
@@ -878,10 +878,8 @@ despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
 bihardootnews.com,news30express.com,sansanikhejsamachar.in###wonderpluginslider-container-1
 gautamsandesh.com###wonderpluginslider-container-3
-bharatdarshannews.com###wows31_0
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
-bharatdarshannews.com###wowslider-container3
 bbn24news.com,chamaktabharat.com,champawatkhabar.com,dainikathah.com,gadhsamvedna.com,newsmalayalionline.com,odiabarta.in,rkhabar.com,sbharatnews.com###wp-custom-header
 janaaastha.com###wr
 kathmandutoday.com###wrapper a[target*="blank"] img
@@ -1018,7 +1016,6 @@ ekagaj.com,farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
 barnanmedia.com##.adalyticsblock img:not([src*="newbarnan_"])
 prabhatvaibhav.com##.adbar-area--
 dainikvishwamitra.com##.adbnr
-bharatdarshannews.com##.adbo
 anandabazar.com,banglaxp.com,beanibazarnews24.com,lohagaranews24.com,pangighatidanikapatrika.in,radiokanchan.com.np,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,pradeshajjtak.com,pragativahini.com,rajnitiprotidin.com##.adcontainer
 ajkercrimenews.com,ajkerdarpon.com,ajkernarsingdi.com,ajkertanore.com,alokitobarisal.com,alokitocoxsbazar.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,bdfinancialnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,chatgaiyakhobor.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikshokalerchattogram.com,dainikvatibangla.com,diptonews24.com,doctortv.net,eibela.net,engrsvoice.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,haoranchalerkotha.com,healthpati.com,himalayannews.com,inhnews.in,jagocomilla.com,jagodesh24.com,jamunanewsbd.com,janamsakshi.org,kathmandupati.com,khabarpunja.com,khoborpatrabd.com,lalsobujerkontho.com,nagoriknewsbd.com,narsingdipratidin.com,natunbazar24.com,natunshokal.com,news18.com,news4nation.com,newsatfirst.com,newsdnntv.com,nktelevision.com,npkhabar24.com,odekhabishwo.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pokharaexpress.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,savarsangbad.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,teknafnews24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com,voiceworld24.com##.add
@@ -2104,7 +2101,6 @@ cgnewsonline.com##.main-sidebar .widget_block
 khulnanchal.com##.main-sidebar .widget_custom_html
 bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
-bharatdarshannews.com##.main-slider
 deshdigital.in##.main-wrap div[class^="rozu"]
 digitalkhabar.com##.main-wrap div[data-adid]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
@@ -2236,8 +2232,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2640,6 +2636,7 @@ chhaharinetwork.com##.subhakamana-ad
 suddidina.com##.suddi-after-content_13
 suddidina.com##.suddi-content_10
 awajnews.com##.supsystic-slider-wrapper
+bharatdarshannews.com##.swiper
 notebook.today##.t-out-span
 adhunikdaur.com##.tab_265top_left
 livehindustan.com,sandesh.com##.taboola
@@ -2992,7 +2989,6 @@ vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
 fourteenkerala.com##.widget.text-html
 dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
-bharatdarshannews.com##.widget1
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
