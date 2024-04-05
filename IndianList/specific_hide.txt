@@ -2179,6 +2179,7 @@ abnews24.com,odhikar.news##.myAdBox
 gbnews24.com##.myIFrame
 somoynews.tv##.mySlideBox
 newsroomme.com,youngvarta.com##.mySlides
+indiainside.org##.mySlides2
 lastnewsbd.com##.myadd
 mathuranews24.com##.mzb-advertisement
 news13.in##.n13_adv
@@ -2959,6 +2960,7 @@ vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
 etamilnews.com##.w-60
 etamilnews.com##.w-70
+indiainside.org##.w3-section
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com##.webAds
