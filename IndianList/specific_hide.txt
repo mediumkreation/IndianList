@@ -1303,6 +1303,7 @@ kahalenews.com##.banner-ad-wrap
 bizmandu.com##.banner-bigyapan
 hamrokhelkud.com##.banner-click-action
 musicjoymedia.com##.banner-half
+newsnationtv.com##.banner-head
 aapkaparyas.in,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,janotarbani.com,madhyabindu.com,newsportals.in,onstimes.com,tatviknews.com##.banner-img
 lekaalionline.com##.banner-news-section
