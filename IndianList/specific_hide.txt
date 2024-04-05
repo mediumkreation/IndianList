@@ -900,7 +900,7 @@ jagranjosh.com,sutranews.com##.Ads
 bahumatrik.com,bvnews24.com,dailyjanakantha.com##.AdvertClass
 dailythanthi.com##.Advt
 deshclick.com,punjabiinholland.com,sachikalam.com##.AdvtRight
-pinakatimes.com,sachikalam.com,sehajtimes.com##.AdvtSample
+sachikalam.com,sehajtimes.com##.AdvtSample
 onp24.com##.BannerAdd2
 jagranjosh.com##.BannerAds
 janashaktinews.com##.CMAC_AdChangerWidget
@@ -2145,7 +2145,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
-24expressnews.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,tharexpressnews.com##.ml-slider
+24expressnews.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,tharexpressnews.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 manoramanews.com##.mm-banner300-ad
@@ -2235,8 +2235,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3877,7 +3877,6 @@ hrbreakingnews.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > 
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 ibmnews24.com#?#p:-abp-contains(Advertisement)
-pinakatimes.com##iframe[class^="FrameAdvt"]
 anweshanam.com,hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
