@@ -79,7 +79,7 @@
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /advertisments/*$domain=parchhayin.com
-/Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com
+/Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
 /advrtseimg/*$domain=msprotidin.com
 /advs/*$domain=streetbuzz.co.in
