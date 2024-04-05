@@ -1751,6 +1751,7 @@ bbc24news.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
 hetaudatoday.com##.feature-bottom-ad
 sylhetprothidin24.com##.feature_category_section .header_ad_banner
+harithakeralamnews.com##.featured-ad-bg
 shomoynews24.com,shomoynews24.net##.featured-add
 pchelpcenterbd.com##.featured-post-ads
 yarldevinews.net##.featuredposts
