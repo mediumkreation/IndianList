@@ -2166,6 +2166,7 @@ janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 uthayannews.ca##.mom_custom_text
 chattogramersomoy.com##.mom_e3lan-empty
+countryinsidenews.com##.momizat-ads
 bengaluruvartha.in##.ms-parent-id-1
 damaulionline.com##.mt-3
 sandhannews.com##.mtphr-dnt-widget
@@ -2235,8 +2236,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
