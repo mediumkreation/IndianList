@@ -573,6 +573,7 @@ jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
 badaunexpress.com###posts-list-widget-5 ~ .widget_text
 pardafas.com###primary .gam-ad-position-wrap
+himwantpradeshnews.com###primary .widget_media_image
 bhalukanews.com###primary img[alt="ads"]
 purbashabd24.com###primary-sidebar
 samacharhouse.com###quads-ad17070
@@ -2237,8 +2238,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
