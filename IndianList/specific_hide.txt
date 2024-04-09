@@ -571,7 +571,6 @@ hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
-badaunexpress.com###posts-list-widget-5 ~ .widget_text
 pardafas.com###primary .gam-ad-position-wrap
 himwantpradeshnews.com###primary .widget_media_image
 bhalukanews.com###primary img[alt="ads"]
@@ -660,7 +659,7 @@ keepinspiringme.in,nationalwartanews.com###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
 awajnews.com,bolpanipat.com,dbnnews.in,kannadavani.news,meruraibar.com,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
-cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
+badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
 rjfnews.com###sidebar > .widget_media_image
 veerdharanews.com###sidebar-footer-4
@@ -1618,7 +1617,7 @@ alayadivembuweb.lk##.e3lan img
 gvtjob.com,ibn24x7news.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 graminujala.com,ibn24x7news.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 mithilacitynews.in##.e3lan-post
-badaunexpress.com,chandpurtimes.com,communitynews24.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
+chandpurtimes.com,communitynews24.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
 dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in##.eaa-ad
