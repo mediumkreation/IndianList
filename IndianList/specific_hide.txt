@@ -303,7 +303,7 @@ saakshatv.com###custom_html-26
 surgujasamay.com,ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,kalyankesari.com,khabarexpert.in,khabarstate.com,khabaruttarakhand.com,kushtiabd.com,livehalchal.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
+angindianews.com,barisaltoday.com,channelindia.news,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,khabarexpert.in,khabarstate.com,khabaruttarakhand.com,kushtiabd.com,livehalchal.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 saakshatv.com###custom_html-30
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
@@ -1619,7 +1619,7 @@ graminujala.com,ibn24x7news.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,sa
 mithilacitynews.in##.e3lan-post
 chandpurtimes.com,communitynews24.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
-dailysharebazar.com##.e3lan300_600-widget
+dailysharebazar.com,kalyankesari.com##.e3lan300_600-widget
 krishideepam.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
@@ -2236,8 +2236,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
