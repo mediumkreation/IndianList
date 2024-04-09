@@ -815,7 +815,7 @@ mpbreaking.in###text-9 iframe
 bharatsamachartv.in###text-html-widget-14
 akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
 bdtoday24.com###text-html-widget-25
-abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com,punjabiakhbaar.ca###text-html-widget-3
+abhitaknewsuk.in,globalpunjabtv.com,hkgnews247.com,mpcgexpress.com###text-html-widget-3
 bdtoday24.com###text-html-widget-35
 globalpunjabtv.com,pnn24.in###text-html-widget-4
 bdtoday24.com###text-html-widget-41
@@ -1258,7 +1258,6 @@ agnijwala.com##.agnij-news-bhitra
 ntcnewsmedia.com##.ai-attributes
 alakhharyana.com,anewsoffice.com,bwoodtadka.com,newsnow.co.in,panchkulasamachar.com,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
-punjabiakhbaar.ca##.aibwp_banner_widget
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
 eisamay.com##.align-home-ads
@@ -2238,8 +2237,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3065,7 +3064,7 @@ madhyantar.com##.widget_media_image:not(#media_image-125)
 pplnews.in##.widget_media_image:not(#media_image-13)
 isns.co.in##.widget_media_image:not(#media_image-16)
 ajkersylhet.com##.widget_media_image:not(#media_image-17)
-uttarakhand24news.com##.widget_media_image:not(#media_image-2)
+punjabiakhbaar.ca,uttarakhand24news.com##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 kmassnews.com##.widget_media_image:not(#media_image-2):not(#media_image-6)
 navabharat.news##.widget_media_image:not(#media_image-20)
