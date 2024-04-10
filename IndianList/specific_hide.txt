@@ -1194,7 +1194,6 @@ weeklynepal.com##.adv_side
 alokitomymensingh24.com##.adv_single
 tamilthamarai.com##.adv_slider
 publictv.in##.adv_swiper1
-keralaonlive.com##.advblock
 laatsaab.com##.advbox
 radionrn.com##.adver-half
 radionrn.com##.adver-mkks
@@ -1351,6 +1350,7 @@ beanibazarview24.com,paathoknews.com##.better-ads-listitemad
 71newstoday.com##.betterad-container
 humsamvet.com##.bg-color-gray-fot
 thamilan.lk##.bg-grey-lighter.w-full
+keralaonlive.com##.bg-light.py-5
 timesnowhindi.com,timesnowmarathi.com##.bggrayAd
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
@@ -2236,8 +2236,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
