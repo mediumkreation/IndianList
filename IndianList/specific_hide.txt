@@ -2236,8 +2236,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2753,6 +2753,7 @@ realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
 digitalmalayalionline.com##.tdb_single_content figure.wp-block-image
+kheldhaba.com##.tdb_single_content img
 tejastoday.com##.tdb_single_content img.size-full
 newsgil.in,tejastoday.com##.tdb_single_content p img
 politicsnews24.com##.tdc-row-content-vert-center
@@ -3846,7 +3847,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv,apnades.in##figure.wp-block-embed
 aajexpress.com,ishwardinews24.net##figure.wp-block-gallery
-aksherpati.com,amchimumbaionline.com,apnashaharnews.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,citypokhara.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,eveningkerala.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,kheldhaba.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,amchimumbaionline.com,apnashaharnews.com,binodonbichitra.com.bd,chandpurtelevision.com,chitrarpar.com,citypokhara.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,eveningkerala.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,mymensinghpratidin.com,namastepurvanchal.in,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,prasashan.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 beforepublish.com##figure.wp-block-image.size-full
 reportersnepal.com,vtvvitla.com##figure.wp-block-image.size-large
