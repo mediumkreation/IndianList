@@ -2916,6 +2916,7 @@ manvimedia.page##.ty-trigger
 dailyjanakantha.com##.ub-anchor-adcontainer
 dailyajkershomoy.com##.uc-sdr-ads
 amaderorthoneeti.com##.uc-sky-ads
+moviewingz.com##.ugaam-ad-wrapper
 newslabz.com##.ugaam-ad-wrapper-outer
 arthadabali.com##.uk-container a[target="_blank"] img[src*=".gif"]
 globenepal.com##.uk-container section.widget
