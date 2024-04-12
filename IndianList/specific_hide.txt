@@ -408,6 +408,7 @@ specialcoveragenews.in###left_level_0_before_1
 dhanamonline.com,janprahar.com,kathir.news###left_level_2
 dhanamonline.com,filmchilive.com,kathir.news###left_level_3
 dishadaily.com###left_level_after_paragraph
+dhanamonline.com###level_5_after_ad_space
 specialcoveragenews.in###level_6_before
 swadeshnews.in###level_bottom_full
 u71news.com###logo-right
@@ -2236,8 +2237,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
