@@ -1661,6 +1661,7 @@ eimuhurte.com##.elementor-widget-jet-listing-grid
 deshersangbad.com,marathwadaneta.com,snpsports24.com##.elementor-widget-jnews_element_ads_elementor
 thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
+lakfmnews.lk##.elementor-widget-rt-image
 graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in##.elementor-widget-shortcode img
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
