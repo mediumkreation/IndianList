@@ -1261,6 +1261,7 @@ pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
 eisamay.com##.align-home-ads
+news11bharat.com##.align_cent
 hulchalnews24.com##.alignnone.size-medium
 pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
