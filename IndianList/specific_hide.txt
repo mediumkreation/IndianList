@@ -244,6 +244,7 @@ al-ihsan.net,thattungal.com###carousel
 chouranews.com,nzpunjabinews.com###carouselExampleControls
 cnin.co.in###carouselExampleDark
 emstv.in###ccr-right-section #sidebar-video-post img
+newindia24.in###center-container [alt="Image"]
 bangalorewaves.com###classlistmain
 bbn24news.com###cm-secondary .widget_block
 telugu.filmibeat.com###cmscontent-article2
@@ -864,10 +865,10 @@ news4indiatv.com###widget-footer-0
 goodmorningnation.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
-newindia24.in,news4indiatv.com,sameera.co.in###widget-sidebar-2
+news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,mpkhabar.com###widget-sidebar-3
-khabarpradesh.com,newindia24.in###widget-sidebar-4
+khabarpradesh.com###widget-sidebar-4
 gujaratvaibhav.com###widget4
 ekattor.tv###widget_623
 itvbd.com###widget_626
@@ -935,6 +936,7 @@ newsdustak.com##.Matter-Top-Add
 jagranjosh.com##.NativeAd
 hindusthansamachar.in##.NewClass iframe
 business-standard.com##.Nws_banner_Hp
+newindia24.in##.PixyPaperad
 tutyonline.net##.R300100
 bharatsamachartv.in##.RightCont iframe
 dinamalar.com##.Seladv
