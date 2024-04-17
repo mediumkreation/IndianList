@@ -2170,7 +2170,7 @@ janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 uthayannews.ca##.mom_custom_text
 chattogramersomoy.com##.mom_e3lan-empty
-countryinsidenews.com##.momizat-ads
+countryinsidenews.com,everesttimes.net##.momizat-ads
 bengaluruvartha.in##.ms-parent-id-1
 damaulionline.com##.mt-3
 sandhannews.com##.mtphr-dnt-widget
