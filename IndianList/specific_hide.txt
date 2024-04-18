@@ -2352,6 +2352,7 @@ indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
 thelallantop.com##.py-2
 sunamganjerkhobor.com##.py-3
+praharkhabar.com##.py-3 .w-100
 brightpost.in##.quads-ad-label
 yesnewsmarathi.com##.quads-location
 satyamlive.com##.quadss-location
