@@ -2126,6 +2126,7 @@ ideatvnews.com##.marquee-ads
 ayushindianews.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 eveningkerala.com,veerdharanews.com##.master-slider-parent
+arthadabali.com##.mb-4 .mt-3 img
 mzamin.com##.mb-5.justify-content-center
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
