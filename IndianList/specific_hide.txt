@@ -66,7 +66,7 @@ poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
-bankingsansar.com,evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
+evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 adminmedia.in,hamaramahanagar.in,kurunews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
 abtakapakesath.com,importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
@@ -156,7 +156,6 @@ newscg11.com###below-header
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 tamilcnn.lk###big-banner
-bankingsansar.com###bigyapan-top
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 malayaleepathram.com.au###black-studio-tinymce-67
@@ -1228,7 +1227,7 @@ apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.co
 hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,navrashtramedia.com,tamilankural.com##.advertisement-area
-bankingsansar.com,capitallivenews.com##.advertisement-fullwith
+capitallivenews.com##.advertisement-fullwith
 arthadabali.com##.advertisement-heading
 deshdorshon.com,newsbrahmanbaria.com##.advertisement-section
 kalaroanews.com,ournewsbd.net##.advertisement-single-float
@@ -1736,6 +1735,7 @@ chhapratoday.com##.entry-the-content img.alignnone.size-full
 cgfrontline.com##.epcl-banner
 grandnews.in##.epcl-row
 livehindustan.com##.epr-ads
+bankingsansar.com##.esn-ainfo-widget
 arthasarokar.com##.esn_twin_ad_widget
 azchavattomonline.com##.et_pb_ads_0
 himalayapost.com##.et_pb_image
