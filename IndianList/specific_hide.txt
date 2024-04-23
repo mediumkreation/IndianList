@@ -897,7 +897,7 @@ malwanews.com###youtube_responsive-10
 citynewsexpress.com##.-indx
 dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
 samayam.com##.ATF_300
-hetaudatoday.com##.Ad
+hetaudatoday.com,tukhabar.com##.Ad
 natunsomoy.net##.Ad-Section
 jagranjosh.com##.AdCont
 bahumatrik.com##.AdSection
@@ -963,7 +963,7 @@ aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,sidhakhabar.com,sunamganjerkhobor.com,swalenewsbank.com##.ad
+akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,sidhakhabar.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
 cialive.in##.ad .carousel
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
