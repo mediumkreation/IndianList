@@ -2155,7 +2155,6 @@ arthadabali.com##.mb-4 .mt-3 img
 mzamin.com##.mb-5.justify-content-center
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
-ctgsangbad24.com##.mcyd
 vasistatoday.in##.mega-wrap .main-ads-pikihome
 bhilaitimes.com,lalitpurfastnews.com##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
@@ -2268,8 +2267,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3281,7 +3280,7 @@ hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 cgbasket.in,mpnewscast.com##.wpb_images_carousel
-agniban.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
+agniban.com,ctgsangbad24.com,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
 clearnews.live,rajsattanews.com##.wpb_raw_html
