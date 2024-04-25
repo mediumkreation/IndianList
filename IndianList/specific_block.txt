@@ -69,6 +69,7 @@
 /Adv1^$domain=cnin.co.in
 /adver$domain=uppatrika.com
 /advertiesment/*$domain=theendnews.com
+/advertiesment_$domain=parthokko.com.bd
 /advertise/*$domain=kapurinews.com
 /advertisement/*$domain=360malayalam.com|aarthiknews.com|agaminews.com
 /Advertisement/*$domain=aloavanews24.com
