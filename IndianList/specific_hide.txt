@@ -1895,7 +1895,7 @@ corporatenepal.com##.header-bigyapan
 digitalkhobor.com##.header-full-ads-top
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
-digitalbharatnews.in##.header-inner .sidebar-col
+digitalbharatnews.in,odishabhaskar.com##.header-inner .sidebar-col
 firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com##.header-promo
@@ -2128,6 +2128,7 @@ sharebazarnews.com##.main-header-ads
 subhechhanews.com##.main-headera .advertise
 tamilnews.cc##.main-menu ~ .container div:has(> a > img[src*="/uploads/ads/"])
 keralaexpress.com##.main-right-ad
+odishabhaskar.com##.main-section [data-adid]
 cgnewsonline.com##.main-sidebar .widget_block
 khulnanchal.com##.main-sidebar .widget_custom_html
 bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
@@ -2267,8 +2268,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
