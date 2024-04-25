@@ -331,7 +331,6 @@ eveningkerala.com###divSliderMain
 deepika.com###divTopNewsHead + .row > .inner_news_head
 ittefaq.com.bd###div_252
 teluguwishesh.com###djslider875
-biharjharkhandnewsnetwork.com###doy-2
 deepika.com###dvPopup
 firsteyenews.co.in###dynamic_sidebar_before
 hastakshep.com###eaa-12
