@@ -2022,7 +2022,7 @@ innews16.com##.innew-widget
 capitalnepal.com,setokhari.com##.insert-ad
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
-hotpati.com,neelkanthafm.com##.inside_ads
+hotpati.com,neelkanthafm.com,nepalawaj.com##.inside_ads
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
 samvetshikhar.com##.item-size-right img
@@ -2264,8 +2264,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
