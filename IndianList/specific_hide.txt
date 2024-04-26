@@ -2264,8 +2264,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -4083,7 +4083,6 @@ newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
 cityonclick.in##section.widget_metaslider_widget
-lightnewsbd.com##section.widget_section img
 duniyasamachar.com##section.widget_text
 rajbirajdainik.com.np##section:has(> div > .advimg)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
