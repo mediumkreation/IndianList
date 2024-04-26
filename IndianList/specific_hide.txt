@@ -681,7 +681,7 @@ khabarcgnews.com###sidebar-right .widget_block
 localnewsodia.com###sidebar-right .widget_block figure
 khamoshduniya.com###sidebar-right .widget_custom_html
 24x7cg.com###sidebar-right .widget_custom_html:not(#custom_html-33)
-khamoshduniya.com,news24x365.com,parbattaanchal24.com,shasansandesh.in###sidebar-right .widget_media_image
+khamoshduniya.com,parbattaanchal24.com,shasansandesh.in###sidebar-right .widget_media_image
 mariahulive.com,samacharplusnews.com###sidebar-right .widget_media_video
 telugu99.com###sidebar-right > .widget_media_image
 samjhobharat.com###sidebar-right-1 .widget.Image
@@ -756,8 +756,8 @@ apnapradesh24x7.com###text-11 iframe
 despardesweekly.co.uk,ekhansangbad.com,firstuttarpradesh.com,globaltamilnews.net,jagprerna.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,newsi.in,padmatimes24.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
-anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,news24x365.com,onlinebhaskar.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
-ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
+anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,onlinebhaskar.com,porospor.com,sambadsaradin.com,surgujasamay.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
+ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,news24x365.com,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
 fatehnagarnews.com,manvadhikartimes.com,meherpurpratidin.com,swadeshbani.com###text-16
 247superfast.com,anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,akashgyanvatika.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,newsnowbangla.com,sambadsaradin.com###text-18
@@ -1320,7 +1320,7 @@ newsnationtv.com##.banner-head
 aapkaparyas.in,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,janotarbani.com,madhyabindu.com,newsportals.in,onstimes.com,tatviknews.com##.banner-img
 lekaalionline.com##.banner-news-section
-24x7breakingpoint.com,aanthaireporter.com,banglapostbd.com,biharnewstv.in,boundaryline.in,cobranews24.com,filmaniaentertainment.com,focusnews.co.in,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,news24x365.com,newspagebd.com,newswayanad.in,pabilnews.com,prameya.com,primepunjab.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkidastak.com,shaktialmora.com,shreenews.in,siyasatdarpan.com,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
+24x7breakingpoint.com,aanthaireporter.com,banglapostbd.com,biharnewstv.in,boundaryline.in,cobranews24.com,filmaniaentertainment.com,focusnews.co.in,frontline24.com,globalhimachaltimes.com,himalini.com,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,navpradesh.com,newspagebd.com,newswayanad.in,pabilnews.com,prameya.com,primepunjab.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkidastak.com,shaktialmora.com,shreenews.in,siyasatdarpan.com,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 nepalipatro.com.np##.banner-slider
@@ -2264,8 +2264,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
