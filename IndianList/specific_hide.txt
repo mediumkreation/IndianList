@@ -517,6 +517,7 @@ digitalnewslive.com,npg.news###metaslider_widget-5
 npg.news###metaslider_widget-6
 timesnowhindi.com###mgIDReadMore div[style*="min-height"]
 kathir.news###mid_level_3_after
+maxwoman.in###middle_level_1
 filmistreet.com###modalBody
 tharunaya.us###module_03_ads300x250
 aapkiummid.com###ms-admananger a:not([imageanchor]) img:not([src*="qr-code"])
@@ -2068,7 +2069,7 @@ thebengalitimes.com##.lefr-box
 lanka4.com##.left .aside-wrapper
 madhyamam.com##.left_level_2
 newstrack.com##.left_level_3
-bankura24x7.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
+bankura24x7.com,hmtvlive.com,maxwoman.in,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 odishasambad.in##.leg
 lekalionline.com##.lekali_online_adv
