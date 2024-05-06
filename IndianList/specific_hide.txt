@@ -3743,7 +3743,7 @@ odiascraps.info##div[id="showAS_O_BEL_0"]
 newspoint24.com##div[id^="AS_O_"] > div:has(> div > div > span[name="adchoicehtml"])
 heraldspot.com##div[id^="AS_O_"] > div:nth-child(-n+10)
 atalsamachar.com##div[id^="AS_O_LHS"] > div:has(a[href*="paid.outbrain.com"])
-chandaulisamachar.com##div[id^="AS_O_LHS"] > div:nth-child(-n+10)
+chandaulisamachar.com,newspoint24.com##div[id^="AS_O_LHS"] > div:nth-child(-n+10)
 aapkikhabar.com##div[id^="AS_O_LHS"] div:has(> div > span > a[rel*="sponsored"] )
 thehindutimes.in##div[id^="AS_O_LHS_"] > div:has(> div > div > a > p + h3)
 aapninews.in,anugrahavision.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
