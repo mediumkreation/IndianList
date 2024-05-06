@@ -908,7 +908,7 @@ newsdustak.com##.Add-Master-Sside1
 jagranjosh.com,sutranews.com##.Ads
 bahumatrik.com,bvnews24.com,dailyjanakantha.com##.AdvertClass
 dailythanthi.com##.Advt
-deshclick.com,punjabiinholland.com,sachikalam.com##.AdvtRight
+punjabiinholland.com,sachikalam.com##.AdvtRight
 sachikalam.com,sehajtimes.com##.AdvtSample
 onp24.com##.BannerAdd2
 jagranjosh.com##.BannerAds
@@ -1347,7 +1347,6 @@ valvainews.org##.bannertopimg2
 bastarkiaawaz.com##.basta-first
 dakhalchhattisgarh.com,khabarbharat36.com,newscrime24.com,odiabarta.in##.bc_random_banner
 iamgujarat.com,samayam.com##.bccl-ad-wrapper
-deshclick.com##.bce:has(> .AdvtSample)
 muktijoddharkantho.com##.bd-sidebar .widget_text
 garjachhattisgarhnews.com##.bdaia-box7
 punjabbaani.com##.bdaia-e3-container
