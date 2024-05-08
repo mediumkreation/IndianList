@@ -1823,7 +1823,7 @@ uukmanews.com##.full-ad-wrp
 rastriyakhabar.com##.full-ads-wrapper
 samadhannews.com##.full-bann
 safalkhabar.com##.full-banner
-nepalsamaya.com##.full-bigyaapan
+nepalsamaya.com,prabhabonline.com##.full-bigyaapan
 baahrakhari.com,capitalnepal.com,khelpati.com,nepallive.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
@@ -2169,7 +2169,6 @@ pokharaexpress.com##.mid-header .navbar-nav img
 eisamay.com##.midArtContainer
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
-prabhabonline.com##.middle-banner
 dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
@@ -2266,8 +2265,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2921,7 +2920,6 @@ upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
 shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
-prabhabonline.com##.top_banner
 ni24news.com##.top_index_block_adnow
 specialcoveragenews.in##.top_level_1
 nrimalayalee.com##.top_most_news_post_ad
