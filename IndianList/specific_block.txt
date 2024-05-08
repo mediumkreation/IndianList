@@ -77,6 +77,7 @@
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|ekushey-tv.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in|womeneye24.com
 /advertisement/*$domain=cgwebnews.in|indianewscentre.in|keralasabdam.in|khabarmukam.com|nanaonline.in|newsabhiyan.com|newuthayan.com|sportsmail24.com|srijannews.com|swatantraawaz.com|tatkalnews.com|thannambikkai.org|udghoshdaily.com|yugvartanews.com
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
+/advertisement/*$domain=nattuvartha.news
 /advertisementBanners/*$domain=keralaexpress.com
 /advertisements/*$domain=abhiyandaily.com|banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
 /advertisments/*$domain=parchhayin.com
@@ -214,7 +215,7 @@ Ad_.png?$domain=bangladeshonline24.com
 ads.jpg|$domain=meherpurnews.com
 adsss.jpg|$domain=gzpnews.com
 Banner_File.jpeg|*$domain=indiaheadlinenews.com
-blocks/block_$domain=hindustansamay.com|hindustanvarta.com|livenewsxpress.com|nattuvartha.news|poorvanchalmedia.com|sirajganjexpress.com
+blocks/block_$domain=hindustansamay.com|hindustanvarta.com|livenewsxpress.com|poorvanchalmedia.com|sirajganjexpress.com
 home_right_add$domain=dtvbangla.com
 images/img_$domain=sirajganjexpress.com
 IMG-20220927-WA0033.jpg$domain=nawadalive.com
