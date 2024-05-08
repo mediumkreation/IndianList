@@ -1086,6 +1086,7 @@ deshkonews.com##.add-wrap
 kulalworld.com##.add1
 khabareast.com##.add:has(> div[id$="advertisement"])
 dainikdishari.com##.add:not(.wp-image-3687)
+vinnabarta.com##.add:only-child
 bharatkiawaj24.com##.addBox
 liveindia.news##.addCenter
 karnatakamalla.com##.addDivR1
@@ -3597,6 +3598,7 @@ janprahar.com##div:has(> ins)
 ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 bholanews.com##div:has(> p>img.wp-image-23118)
+vinnabarta.com##div:not(.tab-header) ~ .add
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
 punjabiherald.co.nz##div[aria-label="27.jpg"]
