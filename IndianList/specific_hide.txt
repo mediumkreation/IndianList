@@ -833,6 +833,7 @@ europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
 damaulikhabar.com###tie-block_2253
 dailybihar.in,jaybharatnews.com###tie-block_576
+edunews.com.bd###tie-block_855
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
@@ -2652,7 +2653,7 @@ dhadingpost.com##.str3
 aajkaaditya.in,aajkalsamachar.com,aapkiaawaz.net,abpbharat.com,allindianews.me,amanyatralive.com,asha.news,azkersylhet.com,bastabbadi.com,bhadas36.com,bharatsamachartv.in,bhorvaibhav.com,bograsangbad.com,buxaruptodate.in,cglivenews.co.in,cgnewstime.com,cgujala.in,charotarnoavaj.com,cinenxt.com,citysmartnews.com,dainikbhaskarup.com,dainikrajeevtimes.com,damaulikhabar.com,damrua.com,daysbulletin24.com,delhibulletin.in,desikhabar.in,devbhumijknews.in,divyadarpan.com,divyaindianews.com,ehapuruday.com,f21news.com,gandakivoice.com,glimeindianews.in,hamarahimachal.com,himachalsamay.com,hindustanlivetoday.com,hindxpress.com,hnn24x7.com,idp24news.com,indiaprimenews.in,inn24news.in,jharkhandnewsroom.com,jugasankha.in,kakakhabarilaal.com,kakkajee.com,kaskikhabar.com,khabardekho.com,khabarvani.com,khabor24x7.com,khaskhabarchhattisgarh.com,lokswar.in,lovedevbhoomi.com,malayagam.lk,massnews.online,mitanbhoomi.com,mpcgexpress.com,muvattupuzhanews.in,narailsangbad.com,nationupdate.in,navakeralanews.com,nayalook.com,nepaljapan.com,networktodaynews.com,newj9.com,newresultbd.com,news24you.com,newsd5.in,newslive24x7.com,newsnowbangla.com,newssow.com,newswing.com,newvavuniya.com,nilkantho.in,pataka24.com,pnn24.in,pokharanews.com,pokharasports.com,prabudhajanata.online,pudhari.news,purvanchaltimes.in,qawmipost.com,saffronfactor.com,sangbadsafar.com,sarthakprayash.com,shaktinews.in,shekhawatilive.com,shrinaradmedia.com,sonprabhat.live,surmanews.com,tehelkaindia.com,tharsamwad.com,thenationtimes.in,thepublicnews.live,thesurgicalnews.in,thetadkanews.com,theupkhabar.com,ujjawalprabhat.com,uktez.com,vorerbangladesh.com,webmorcha.com,wegwannews.com,youturn.in,yugjagran.com##.stream-item
 boguralive.com##.stream-item img
 satkarpost.com##.stream-item img:not([src*="File.gif"])
-glimeindianews.in,mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
+edunews.com.bd,glimeindianews.in,mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
 gnewsindia.com,magahinews.com,nepaltvonline.com##.stream-item-above-header
 gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
 rajdhanitimescg.in##.stream-item-after-post-title
