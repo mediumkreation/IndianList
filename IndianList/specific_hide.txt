@@ -1268,7 +1268,7 @@ batukamma.com##.after-menu-ads
 biharnownews.com##.afw_ad
 agnijwala.com##.agnij-news-bhitra
 ntcnewsmedia.com##.ai-attributes
-alakhharyana.com,anewsoffice.com,bwoodtadka.com,newsnow.co.in,panchkulasamachar.com,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+alakhharyana.com,anewsoffice.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
@@ -1403,6 +1403,7 @@ f21news.com##.block-custom-content:not(#tie-block_1405)
 corporatesangbad.com##.block-da
 sudurpress.com##.block-inline-blockad-block
 londonbdnews24.com##.block-right-bottom-ads
+panchkulasamachar.com##.block-widget
 newsflash71.com##.block__2
 livekhagaria.in##.blocks-gallery-item
 newswayanad.in##.blockspare-blocks
