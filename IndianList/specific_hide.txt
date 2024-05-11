@@ -494,7 +494,7 @@ derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 aajkaaditya.in,cgtazanews.com,globalnews24x7.com,indianamo.com,khabarchalisa.com,odiannews.com###media_video-2
-chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,krantiodishanews.com,meruraibar.com,thesunrisetoday.com###media_video-3
+chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,meruraibar.com,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
@@ -2058,6 +2058,8 @@ khabarhub.com##.khabarhub-inner-ads
 parchhayin.com##.kopa-adv-widget
 timesofadventure.com##.kopa-banner-300
 koyilandydiary.com##.koyil-widget
+krantiodishanews.com##.krant-after-content
+krantiodishanews.com##.krant-below-title
 joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
 kushinagarlive.com##.kushi-after-content
