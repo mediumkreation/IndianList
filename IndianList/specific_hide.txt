@@ -3734,6 +3734,7 @@ pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 sandhan24.com##div[data-widget_type*="_ads"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
+reportexclusive.com##div[id$="-ad"]
 banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
 utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
