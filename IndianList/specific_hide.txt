@@ -2268,8 +2268,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3377,6 +3377,7 @@ battinews.com##a[href*="ad.battinews.com"]
 protidinersangbad.com##a[href*="ads-page"]
 houseplan.lk##a[href*="advertising page"] img
 madhyanhadaily.com##a[href*="adview"] img
+jivanihindi.com##a[href*="affiliraiser.com"]
 apnepal.com##a[href*="alljobvacancies.com"]
 bhaskarenews.com,hindlives.com,vasundhara.net##a[href*="amzn.to"]
 khulasaonline.com##a[href*="angelbroking.com"]
