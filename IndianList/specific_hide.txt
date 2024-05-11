@@ -2253,6 +2253,7 @@ i-news24.com##.newsbox_text
 chandpurprobaha.com##.newscard-widget-ad
 newsdiary.live##.newsd-widget
 jharkhandvani.in##.newsever-widget .textwidget
+expressindian.co.in##.newshit-header-ads-wrapper
 newskannada.com##.newsk-content
 satyagrahanews.in##.newsmatic-advertisement-block
 bishwanathbd24.com##.newspaper-advertisement
