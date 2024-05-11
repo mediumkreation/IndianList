@@ -191,7 +191,7 @@ samrudhaodisha.com###block-137
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 peptechtime.com###block-142
 cinemapressclub.com###block-15
-mediyaan.com,sajhamanch.com,smartindiadial.com,telugumalli.com###block-16
+mediyaan.com,sajhamanch.com,satyamevtv.com,smartindiadial.com,telugumalli.com###block-16
 ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
 khabarok.com###block-18
@@ -924,7 +924,6 @@ cvoice24.com,womeneye24.com##.DContentAdd
 mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com##.DHeaderBanner
 dailyjalalabad.com##.DetailsContent .textwidget
-satyamevtv.com##.Eod_right
 bhadas4media.com##.FooterAdArea .wp-block-image
 starkhabre.com##.FrameAdvt1
 banglanewsca.com##.Front-page-Right-Side-Ad
@@ -2268,8 +2267,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3327,6 +3326,7 @@ news71bangla.tv##.yvdo
 corporatesangbad.com##.zeen-da-wrap
 probashibangla.tv##.zja
 thesabera.com##.zox-post-ad-wrap
+satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
