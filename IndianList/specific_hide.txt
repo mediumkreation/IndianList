@@ -404,7 +404,7 @@ emungaru.com###kode-iklan-bawah
 sabaikosamachar.com###kp-premodal-1--wrap
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
-kottayammedia.com###leader-wrap
+dakhalchhattisgarh.com,kottayammedia.com###leader-wrap
 newscity.co.in###leaderboard-content
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 specialcoveragenews.in###left_level_0_before_1
@@ -1346,7 +1346,7 @@ am.lk,editiontoday.in,nepalkhabar.com,srilankamirror.com,tcvonline.co.in,webcoac
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
 bastarkiaawaz.com##.basta-first
-dakhalchhattisgarh.com,khabarbharat36.com,newscrime24.com,odiabarta.in##.bc_random_banner
+khabarbharat36.com,newscrime24.com,odiabarta.in##.bc_random_banner
 iamgujarat.com,samayam.com##.bccl-ad-wrapper
 muktijoddharkantho.com##.bd-sidebar .widget_text
 garjachhattisgarhnews.com##.bdaia-box7
