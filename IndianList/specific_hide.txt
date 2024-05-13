@@ -2720,6 +2720,7 @@ prabhanews.com##.td-a-rec:not(.tdi_72)
 dainikhindmitra.com##.td-a-rec:not([class*="tdi_127_"])
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
 loksansar.in,pathramonline.com##.td-adspot-title + a
+odisha.live##.td-all-devices
 nayabangla.com,southlive.in##.td-banner-bg
 bmnews24.net,dotooknews.com,irinjalakuda.com,kalakkalcinema.com,ucchakontha.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
