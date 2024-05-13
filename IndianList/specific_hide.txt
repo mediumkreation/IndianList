@@ -2010,7 +2010,6 @@ pchelpcenterbd.com##.indexadsone
 thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
 janaaastha.com##.inline__bigyapaan
-ctgsangbad.com.bd##.inlineads
 mannarkkadlive.com##.inner-add
 deshbandhu.co.in##.inner-add-banner
 chatonay71news.com##.inner-ads
@@ -2270,8 +2269,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
