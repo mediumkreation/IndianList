@@ -2274,8 +2274,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2726,6 +2726,9 @@ dainikjanwani.com##.td-a-rec:not(.tdi_274)
 prabhanews.com##.td-a-rec:not(.tdi_72)
 dainikhindmitra.com##.td-a-rec:not([class*="tdi_127_"])
 manvadhikarabhivyakti.in##.td-a-rec:not([class*="tdi_345"])
+dainikdawa.com#@#.td-ad-m
+dainikdawa.com#@#.td-ad-p
+dainikdawa.com#@#.td-ad-tp
 loksansar.in,pathramonline.com##.td-adspot-title + a
 odisha.live##.td-all-devices
 nayabangla.com,southlive.in##.td-banner-bg
