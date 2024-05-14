@@ -2431,6 +2431,8 @@ amarbarishal24.com##.row + .single_side_bar
 awaaz24x7.com##.row > .mb-3
 southwrap.in##.row-thirty.sidebar
 newssanjal.com##.row.mb-30
+vedantsamachar.in##.rslides1
+vedantsamachar.in##.rslides4
 timetvusa.com##.rt-post-slider-style1
 hindi.mykhel.com,tamil.mykhel.com##.rt-top-ad
 shomoynews24.com,shomoynews24.net##.sa-ad
