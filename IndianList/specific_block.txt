@@ -29,7 +29,6 @@
 -adv.png$domain=todayexpressnews.com
 -advert.jpg|$domain=samakalam.com
 -ADVT.jpg|$domain=attingalvartha.com
--Advt.png|$domain=centralindia.news
 -bannar.jpg|$domain=kurigramlive.com
 -banner$domain=udayasooriyan.lk
 -Banner.gif$image,domain=sajhatv.com
@@ -890,8 +889,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||cdn.sarakhonbd.com/contents/cache/images/336x0x0/uploads/media/2020/10/19/cc2f1b9621982345517f1782971662fd-5f8d790a8fa28.png
 ||cdn.shortpixel.ai/client/q_glossy,ret_img,w_526/http://ilsheypar.com/wp-content/uploads/2020/04/news-paper
 ||cdnews24.com/wp-content/uploads/2020/02/top-news-adindex-2.jpg
-||centralindia.news/wp-content/uploads/2021/06/JSPL-june-ad-655x1024.jpg
-||centralindia.news/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-27-at-12.16.11.jpeg
+||centralindia.news/wp-content/uploads/2023/12/Duragaurd-
 ||centralvoice.in/uploads/images/2023/04/image_750x_643e67cd81995.jpg
 ||cgbasket.in/wp-content/uploads/2020/07/Arpaa-Radio-Banner
 ||cgjanadesh.com/wp-content/uploads/photo-gallery/imported_from_media_libray/add1_(1)_(1)_(1).jpg
