@@ -2027,6 +2027,7 @@ innews16.com##.innew-widget
 capitalnepal.com,setokhari.com##.insert-ad
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
+hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
 hotpati.com,neelkanthafm.com,nepalawaj.com##.inside_ads
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
