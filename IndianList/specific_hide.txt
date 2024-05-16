@@ -2230,8 +2230,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3667,6 +3667,7 @@ lokshahi.com,navjivanindia.com##div[class*="m__ad"]
 kalkionline.com##div[class*="m__ad-"]
 navjivanindia.com##div[class*="m__dfp"]
 deshdoot.com##div[class*="m_ad-slot"]
+makdaiexpress24.com##div[class*="makda-"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
 meddlingmedia.com##div[class*="pubadban"]
@@ -3983,8 +3984,6 @@ onlinemarg.com##img[alt="Header Ad"]
 telugutimes.net##img[alt="MKOne"]
 talashbangla.com##img[alt="Page Add"]
 trttamilolli.com##img[alt="SAT"]
-makdaiexpress24.com##img[alt="Shree sai"]
-makdaiexpress24.com##img[alt="Shreegrah"]
 eyenewsbd.com##img[alt="ad image"]
 groundzeroenews.co.in,knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
 dinajpur24.com##img[alt="ad728"]
