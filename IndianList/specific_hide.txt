@@ -2276,8 +2276,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2754,7 +2754,6 @@ citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 manvadhikarabhivyakti.com##.td-main-content-wrap .td-a-rec:has(> div > div > h4.block-title)
 janatarsylhet24.com,matopath.com##.td-main-content-wrap .td_block_single_image
 digitalmalayalionline.com##.td-main-content-wrap .td_spot_img_all
-ratdinnews.net##.td-main-content-wrap .tdm_block
 akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
 teknafnews.com##.td-main-content-wrap .vc_raw_html
@@ -2830,7 +2829,7 @@ asomkhobor.com##.tdm-popup-modal
 biswabanglanews.com##.tdm-popup-modal-wrap
 annapurnatimes.com##.tdm_block
 mekhadooth.com##.tdm_block img
-digitalmalayalionline.com,myagdikali.com##.tdm_block_inline_image
+digitalmalayalionline.com,myagdikali.com,ratdinnews.net##.tdm_block_inline_image
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 samakal.com##.text-body-ad
