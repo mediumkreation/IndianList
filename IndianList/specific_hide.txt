@@ -1482,7 +1482,7 @@ aafnokura.com,aamsanchar.com,abhayindia.com,ajkercrimetimes.com,andolana.in,anta
 thinatamil.com##.code-block .my-a
 samajbad.tv##.code-block > img
 jhunjhununewz.com##.code-block figure:has(> figcaption)
-jogindernagar.com,karmalamadhanews24.com,kottayammedia.com,muthalvannews.com,orthosongbad.com,prajasattaknews.com##.code-block img
+jogindernagar.com,karmalamadhanews24.com,keralaspeaks.news,kottayammedia.com,muthalvannews.com,orthosongbad.com,prajasattaknews.com##.code-block img
 suddinews.com##.code-block p img
 buxaruptodate.in##.code-block ~ img
 theexclusivestory.com##.code-block-1
@@ -2276,8 +2276,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
