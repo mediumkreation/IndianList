@@ -2270,7 +2270,7 @@ weeklydesh.co.uk##.nhsgallery
 nepalkhabar.com##.nk-sidebar-ads
 newskannada.com##.nktv_adv
 nnews24.com##.nnews-content
-ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,tvannapurna.com,upsamachar.org,wayanadnewsdaily.com##.no-bg-box-model
+ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,tvannapurna.com,upsamachar.org##.no-bg-box-model
 nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
@@ -3737,6 +3737,7 @@ ahinsaexpress.in,akashjatra.com,ananda-alo.com,angultv.com,bdsangbad24.com,bihar
 arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
 himaliawaj.com,ontimenews.in,sahityapost.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
+wayanadnewsdaily.com##div[data-adid]:not(.nmrh-type-custom_code)
 meddlingmedia.com##div[data-adid]:not([data-adid="3307"])
 bikalpadainik.com##div[data-adid]:not([data-adid="5022"]):not([data-adid="3716"])
 voice4bihar.com##div[data-adid]:not([data-adid="99627"])
