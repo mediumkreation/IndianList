@@ -1514,7 +1514,7 @@ purvanchal24.com##.col-md-4 .pbwidget
 dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 businesshour24.com##.col-sm-6 .add-imgae
-anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,metrojournalonline.com,newstodaynetwork.com,rochakkhabare.com,timeskerala.com##.colombiaadcode
+anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,metrojournalonline.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
@@ -2231,8 +2231,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3754,6 +3754,7 @@ deshdoot.com##div[data-test-id="ad"]
 sandhan24.com##div[data-widget_type*="_ads"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
 reportexclusive.com##div[id$="-ad"]
+thechopal.com##div[id*="ArticleShow_"] > div:nth-child(-n+10)
 banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
 utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
