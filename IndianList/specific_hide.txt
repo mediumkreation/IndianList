@@ -2232,8 +2232,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3245,6 +3245,8 @@ uthayamnews.com##.wp-image-35679
 uthayamnews.com##.wp-image-35692
 newssunamganj.com##.wp-image-3711
 kannadi.news##.wp-image-3732
+satyasandhana.in##.wp-image-38968
+satyasandhana.in##.wp-image-38972
 namastepurvanchal.in##.wp-image-404
 lokhitexpress.com##.wp-image-41683
 paribahanjagot.com##.wp-image-4609
@@ -4078,6 +4080,7 @@ samajkihalchal.com#?#div.sidebar h5:-abp-has(> span:-abp-contains(Ads))
 samarthsahara.com#?#.heading:-abp-has(> span:-abp-contains(Advt))
 samayduniya.com#?#div:-abp-has(> a span:-abp-contains(Ad |))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
+satyasandhana.in#?#div:has(> div > div > p:-abp-contains(Advertisement))
 satyavoice.com#?#div[id^="AS_O_"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
