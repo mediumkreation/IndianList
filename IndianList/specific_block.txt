@@ -1119,6 +1119,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||dailykhowai.com/wp-content/uploads/2020/07/add.jpg
 ||dailylokaloy.com/images/ad_$image
 ||dailynabochitro.com/wp-content/uploads/2019/08/Webp.net-gifmaker-1.gif
+||dailynarayanganjerdak.com/media/2023/12/fresh-ads-ani-mations.gif
 ||dailynayadiganta.com/ads/
 ||dailynewsbd24.com^*/bike-hub-banner
 ||dailypunjabnews.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-30-at-19.43.05-300x300.jpeg
@@ -1442,6 +1443,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||eyewitnesslivenews.com^*adv1.php
 ||eyewitnesslivenews.com^*adv2.php
 ||eyewitnessnewsindia.com/wp-content/themes/nextline_v3.1/images/Spangles-Added1.jpg
+||facebook.com/plugins/video.php$domain=dailynarayanganjerdak.com
 ||faridpur-protidin.com/media/PhotoGallery/2018November/maxresdefault-2002161630.jpg
 ||fastnewsbd.com/images/parasut.jpg
 ||fastnewsindia.co/Ad/
