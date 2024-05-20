@@ -197,7 +197,7 @@ ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
 khabarok.com###block-18
 tamizhdb.com,viewpointjharkhand.com###block-19
-bansalnews.com,ekhabar.in,hamdardtv.com,hellomaharashtra.in,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
+bansalnews.com,bolpanipat.com,ekhabar.in,hamdardtv.com,hellomaharashtra.in,idealindianews.com,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 sabkasandesh.com###block-20
 tamizhdb.com###block-21
 alivenews.co.in,newslab24.in###block-22
@@ -668,7 +668,7 @@ rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 keepinspiringme.in,nationalwartanews.com###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,bolpanipat.com,dbnnews.in,kannadavani.news,meruraibar.com,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
+awajnews.com,dbnnews.in,kannadavani.news,meruraibar.com,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
@@ -2277,8 +2277,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
