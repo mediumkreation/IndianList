@@ -18,7 +18,7 @@
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|patheo24.com|pragativahini.com|suprovatsatkhira.com|teluguwishesh.com
 -add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -adds-$domain=ddnews24x7.com
--ads-$domain=aruna.lk
+-ads-$domain=aruna.lk|bahrainvartha.com
 -Ads-$domain=bdtoday24.com|dailyceylon.com|gopalganj.org|meelparvai.net
 -ads-banner-$domain=timeshindi.in
 -ads.jpg|$domain=bigulnews.tv|thebiharnews.com
@@ -468,6 +468,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||badikhabar.in/wp-content/uploads/2018/03/raj-33979444542160-large-300x220.jpg
 ||badimalikakhabar.com/wp-content/uploads/2022/10/a2z-computer.gif
 ||badimalikakhabar.com/wp-content/uploads/2023/06/badimalika-nagarpalika-add.gif
+||bahrainvartha.com/wp-content/uploads/2023/01/LULU-COMMON.png
 ||balaganjprotidin.com/files/uploads/2020/01/balaganjprotidin-adv_new.jpg
 ||bangalorewaves.com/images/addbanner/
 ||bangalorewaves.com/images/addbannersmall/
