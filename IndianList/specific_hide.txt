@@ -2359,6 +2359,7 @@ manamnews.com##.post-entry div[style^="float"]
 sahityarachana.com##.post-footer center
 probashirdiganta.com##.post-header .bg-e2e2e2
 faridabadnews.live##.post-header a[target="_blank"] img
+4pmnewsonline.com##.post-image.entry-content
 sonalibanglanews.com##.post-inner .code-block img
 mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
