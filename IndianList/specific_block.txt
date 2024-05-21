@@ -214,11 +214,6 @@ Banner_File.jpeg|*$domain=indiaheadlinenews.com
 blocks/block_$domain=hindustansamay.com|hindustanvarta.com|livenewsxpress.com|poorvanchalmedia.com|sirajganjexpress.com
 home_right_add$domain=dtvbangla.com
 images/img_$domain=sirajganjexpress.com
-IMG-20220927-WA0033.jpg$domain=nawadalive.com
-IMG-20221019-WA0004.jpg$domain=nawadalive.com
-IMG-20221022-WA0005.jpg$domain=nawadalive.com
-IMG-20221026-WA0027.jpg$domain=nawadalive.com
-IMG-20221029-WA0032.jpg$domain=nawadalive.com
 narayanganj24.com/pre-content/uploads/2018/12/alhakim.gif
 perfection-ias-upsc$domain=nextbihar.com
 ||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
@@ -763,6 +758,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||blogger.googleusercontent.com^*/9e547d2d-bbc6-43e3-b9e3-1646a8b374eb.jpg
 ||blogger.googleusercontent.com^*/ad$domain=nawadalive.com
 ||blogger.googleusercontent.com^*/b447948a-4089-487b-a389-b7544362480a.jpg
+||blogger.googleusercontent.com^*/IMG-20240204-WA0002.jpg
 ||blogger.googleusercontent.com^*/rattan%20ad%202.jpg
 ||blogger.googleusercontent.com^*ezgif-2$domain=backtobollywood.com
 ||blogs.bangalorewaves.com/images/buzinessone.jpg
