@@ -1093,6 +1093,7 @@ deshkonews.com##.add-wrap
 kulalworld.com##.add1
 khabareast.com##.add:has(> div[id$="advertisement"])
 dainikdishari.com##.add:not(.wp-image-3687)
+dainikparibarton.com##.add:not(:has(> .widget_area > h3))
 vinnabarta.com##.add:only-child
 bharatkiawaj24.com##.addBox
 liveindia.news##.addCenter
@@ -2281,8 +2282,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3176,7 +3177,7 @@ thejoharnews.com##.widget_text iframe[title]
 barishaltimes.com,cgmitan.com,dharitri.com,prothomshomoy.com,punjablivenews.in,skyhawktimes.com,swaviman.com##.widget_text img
 bartakontho.com##.widget_text img:not([src*="Captureeeebbbb.jpg"])
 anubhaviaankhennews.com##.widget_text p
-ctgdailynews24.com,dainikparibarton.com##.widget_text.widget_area
+ctgdailynews24.com##.widget_text.widget_area
 dainiklivenews24.com##.widget_text:has(> div > div[id^="daini"])
 jaihindtimes.in##.widget_text:not(#custom_html-7)
 khabareducation.com##.widget_text:not(#text-15)
