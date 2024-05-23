@@ -2803,6 +2803,7 @@ sajagindia.com##.td-ss-main-sidebar aside
 devbhoomimedia.com,lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,digitalmalayalionline.com,hellobikaner.in,khabargujarat.com,ournews24.com,postmanindia.in,pradeshsanchar.com,pratidindaily.com,shahtimesnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
+vtvvitla.com##.td_block_single_image > span
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 biswabanglasangbad.com##.td_block_single_image:not([data-td-block-uid="tdi_41"])
