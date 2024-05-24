@@ -88,7 +88,7 @@
 /banner-$domain=navakal.in
 /banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
-/bigyaapan/*$domain=baahrakhari.com|godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|nepalsamaya.com|newsgriha.com|ninglashainionline.com|setopati.com|swasthyakhabar.com
+/bigyaapan/*$domain=baahrakhari.com|godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|nepalsamaya.com|newsgriha.com|ninglashainionline.com|setopati.com|sidhakhabar.com|swasthyakhabar.com
 /bigyaapan^$domain=kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|khelpati.com|merolagani.com
 /block_$image,domain=ntvtelugu.com
@@ -178,6 +178,8 @@
 @@||setopati.com/uploads/bigyaapan/59415100.jpg
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
 @@||shomoyeralo.com/ad/Google-News.jpg
+@@||sidhakhabar.com/uploads/bigyaapan/90365200.jpg
+@@||sidhakhabar.com/uploads/bigyaapan/95759200.jpg
 @@||swadeshpratidin.com/ad/SW-920.jpg
 @@||tejastoday.com^*/ADD-TEJAS
 @@||ttinews.in//add/grp991d912445.jpg
