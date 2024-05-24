@@ -1111,6 +1111,7 @@ gtamilnews.com##.add_block_hdefault
 news18.com,news18marathi.com##.add_container
 ridoyachandpur.com##.add_content
 rosemalayalam.com##.add_image_ryt
+bdnews999.com##.add_img
 rosemalayalam.com##.add_img_left
 rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
@@ -2282,8 +2283,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
