@@ -1401,6 +1401,7 @@ loktantrapost.com##.bigyapan-section
 biharaaptak.com##.bihar-widget
 aapkiummid.com##.billboardad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
+keelainews.com##.block-15
 janadhvani.com##.block-29
 jankaritoday.com##.block-60
 jankaritoday.com##.block-74
@@ -2235,8 +2236,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2281,8 +2282,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3083,7 +3084,7 @@ dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 nepalbritain.com##.widget_black-studio-tinymce
 dhadingnews.com##.widget_black_studio_tinymce
-24webnews.com,36garhi.com,a2znewsup.com,avikaluttarakhand.com,azchavattomonline.com,bharatsarathi.com,dainikchhattisgarhwatch.com,devbhoomimedia.com,insightonlinenews.in,khabareducation.com,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thetruths.in,upaajtak.com##.widget_block
+24webnews.com,36garhi.com,a2znewsup.com,avikaluttarakhand.com,azchavattomonline.com,bharatsarathi.com,dainikchhattisgarhwatch.com,devbhoomimedia.com,insightonlinenews.in,keelainews.com,khabareducation.com,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thetruths.in,upaajtak.com##.widget_block
 dailyfaridpurkantho.com##.widget_block img
 khabarcgnews.com,timesofswaraj.com##.widget_block:has(> ins.adsbygoogle)
 newszon.in##.widget_block:not(#block-10)
