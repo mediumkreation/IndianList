@@ -854,6 +854,7 @@ shreemanglamlive.com###ucier-6
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
+uptak.in###v-uptak-in-0
 marunadanmalayalee.com###vdo_ai_div-0
 manobkantha.com.bd###vi-sticky-ad
 ghaziabadparikrama.com###video-widget-2
@@ -2843,7 +2844,7 @@ samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
 sajhasabal.com##.text-center iframe
 womeneye24.com##.text-center.col-lg-12
-crimetak.in##.text-center.my-1
+crimetak.in,uptak.in##.text-center.my-1
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com##.text-html
