@@ -695,6 +695,7 @@ haryananewsonline.com###sidebar-secondary-sidebar
 citypostlive.com###sidebar-secondary-sidebar > .widget
 zamania.in###sidebar-section-top
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
+sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
 upayuktha.com###sidebar-wrapper .widget.Image
 abtaknews.com,asalbaat.co.in,digontonewsbd.com,pradeepamonline.com###sidebar1
 hadapsarexpress.com###sidebar1 .widget.HTML:not(#HTML6)
@@ -2285,8 +2286,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
