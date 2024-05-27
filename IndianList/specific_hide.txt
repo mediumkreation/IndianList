@@ -891,7 +891,7 @@ kewalsach.com###widget_sp_image-14
 despardesweekly.co.uk,ruhelkhandpost.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
-bihardootnews.com,news30express.com,sansanikhejsamachar.in###wonderpluginslider-container-1
+bihardootnews.com,news30express.com,newsinbihar.com,sansanikhejsamachar.in###wonderpluginslider-container-1
 gautamsandesh.com###wonderpluginslider-container-3
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
@@ -1698,7 +1698,7 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 lakfmnews.lk##.elementor-widget-rt-image
 graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
-ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in##.elementor-widget-shortcode img
+ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,newsinbihar.com##.elementor-widget-shortcode img
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 joharlive.com,news24bd.net##.elementor-widget-sidebar
