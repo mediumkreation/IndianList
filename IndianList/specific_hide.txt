@@ -1876,6 +1876,7 @@ news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
 ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
+timenews.co.in##.google_ads_section
 faridabadnews.live##.googlepublisherads
 grandnews.in##.grand-after-content_2
 paristamil.com##.group2
