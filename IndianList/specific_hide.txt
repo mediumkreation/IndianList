@@ -20,7 +20,7 @@ thattungal.com###HTML13
 india2daynews.com###HTML14
 aapkiummid.com,balotranewstrack.com,bansgaonsandesh.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
 balotranewstrack.com,thattungal.com###HTML16
-rashtrasamarpan.com,thattungal.com###HTML18
+abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
 obolokon24.com,spyviewnews.in,tamilarul.net###HTML19
 banglarawaj.com,chilahatiweb.com,kushiyaranews.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
@@ -68,9 +68,9 @@ gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.c
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 adminmedia.in,hamaramahanagar.in,kurunews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
-abtakapakesath.com,importmirror.com,nepalmother.com,thattungal.com###Image8
+importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
-abtakapakesath.com,chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
+chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
 36kaakda.in###LinkList2
 poonththalir.blogspot.com###LinkList21
 rajbem.com###MenuAlertAD
