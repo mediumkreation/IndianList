@@ -1293,6 +1293,7 @@ bangalorewaves.com##.almanacheader
 babuaa.com##.aloks
 themangaloremirror.in##.alp-advert
 ibc24.in##.alt-balaji
+kutchkhabar.com##.amazingcarousel-list-container
 bucksvault.in##.amazon-auto-links-widget
 jagonarayanganj24.com##.amws-custom-widget-show-ad
 eisamay.com##.amz-with-ads
@@ -2289,8 +2290,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
