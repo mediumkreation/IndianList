@@ -1584,7 +1584,7 @@ teluguwirals.com##.custom-header
 cinemadaddy.com,enavabharat.com,kositimes.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
-raajdhaninews.com##.custom-slider
+7elevennews.com,raajdhaninews.com##.custom-slider
 gramajyothi.com##.custom1
 andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
@@ -1702,6 +1702,7 @@ theeditor24.com##.elementor-widget-penci-featured-boxes
 lakfmnews.lk##.elementor-widget-rt-image
 graminujala.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,newsinbihar.com##.elementor-widget-shortcode img
+7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 joharlive.com,news24bd.net##.elementor-widget-sidebar
