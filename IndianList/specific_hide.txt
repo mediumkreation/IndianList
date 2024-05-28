@@ -856,6 +856,7 @@ tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
 uptak.in###v-uptak-in-0
+weunetwork.in###v-weunetwork-in-0
 primestv.in###vda-4
 marunadanmalayalee.com###vdo_ai_div-0
 manobkantha.com.bd###vi-sticky-ad
@@ -2288,8 +2289,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2456,6 +2457,7 @@ hindi.mykhel.com,tamil.mykhel.com##.rt-top-ad
 shomoynews24.com,shomoynews24.net##.sa-ad
 prernanews.com##.sadv
 promisenews24.com##.safe_life:has(> .textwidget)
+weunetwork.in##.sale-ads
 samaydarshan.in##.samay-widget
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
@@ -2949,6 +2951,7 @@ samakal.com##.topStickyDesktopDiv
 bankbimaarthonity.com,biniyogbarta.com,doshdik.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
+weunetwork.in##.top_ads_2
 shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
 ni24news.com##.top_index_block_adnow
@@ -2996,6 +2999,7 @@ abplive.com##.uk-text-meta
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 khabarchalisa.com##.uris-slider-post-title
+weunetwork.in##.utf_ad_content_area
 uttarakhandcitynews.com##.uttar-widget
 vatsalyanews.com##.vatsa-middle
 abhibharat.com##.vc_col-sm-3 .bs-shortcode
