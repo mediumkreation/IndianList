@@ -1369,6 +1369,7 @@ nabaz-e-punjab.com,nalandalive.com##.bdaia-header-e3-desktop
 voiceofdarbhanga.com##.bdaia-post-content figure
 voiceofdarbhanga.com##.bdaia-post-content p img
 ashmitanews.in,nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
+bdsomoy24.com##.bdsom-content
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
 belagavisuddi.com##.belag-content
@@ -2289,8 +2290,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2817,6 +2818,7 @@ biswabanglasangbad.com##.td_block_single_image:not([data-td-block-uid="tdi_41"])
 dunvalleymail.com,lankanewsweb.net,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
+bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
 navdeshtimes.com##.td_separator_solid
 teznews.com##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
