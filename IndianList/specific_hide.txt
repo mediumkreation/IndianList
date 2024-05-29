@@ -1815,7 +1815,7 @@ donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
 uthayamnews.com##.fn-block .size-large:not(.wp-image-64792)
-spnewsbd.com,uthayamnews.com##.fn-header-banner
+positivebdnews24.com,spnewsbd.com,uthayamnews.com##.fn-header-banner
 narmadanchal.com,usanewsonline.com##.fn-widget-image
 usanewsonline.com##.fn-widget_media_image
 mymensinghpratidin.com##.font_widget_two
@@ -2290,8 +2290,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
