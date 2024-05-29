@@ -2245,8 +2245,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3702,8 +3702,7 @@ sabkasandesh.com##div[class*="stream-item-below-post"]
 mediamalayalam.com##div[class*="td-spot-id-content_"]
 manvadhikarabhivyakti.in##div[class*="tdi_140"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
-sabaikosamachar.com##div[class*="vigyapan"]
-khabarprawaha.com##div[class*="vigyapan"] > :not(.custom-html-widget)
+khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
 aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,jagmarg.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
