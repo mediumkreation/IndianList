@@ -2244,8 +2244,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2290,8 +2290,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3123,6 +3123,7 @@ mahitivibhag.com##.widget_custom_html:not(#custom_html-4)
 giraya.lk##.widget_custom_html:not(#custom_html-7)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
 jaldimoney.com##.widget_custom_html:not(#custom_html-9)
+tv20news.in##.widget_dhnvx
 vskbihar.com##.widget_digital_newspaper_banner_ads_widget
 newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
@@ -3166,7 +3167,7 @@ raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 delhibulletin.in##.widget_media_image:not(#media_image-57):not(#media_image-47)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,devbhoomiaajtak.com,dunvalleymail.com,gadhsamvedna.com,gauravnews.in,jagouttarakhand.in,khabaruttarakhand.com,liveskgnews.com,mussoorieaajtak.com,news127.com,newsatnet.com,newsnasha.com,newsnetindia.com,pradeshnews24x7.com,rainbownews.co.in,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in##.widget_media_video
+abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,devbhoomiaajtak.com,dunvalleymail.com,gadhsamvedna.com,gauravnews.in,jagouttarakhand.in,khabaruttarakhand.com,liveskgnews.com,mussoorieaajtak.com,news127.com,newsatnet.com,newsnasha.com,newsnetindia.com,pradeshnews24x7.com,rainbownews.co.in,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in##.widget_media_video
 aapabhitak.tv,apradhprahari.in,badauntoday.com,bntlive.com,cityhalchal.com,dainikujagarkhabar.in,ghumtidunia.com,hindsagarplk.com,independentcitizennews.com,indiaedgenews.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,thekhabrilal.com,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
 kalikadainik.com##.widget_namo_advertisement
