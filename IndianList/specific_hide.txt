@@ -1583,7 +1583,7 @@ sylhetview24.news##.custom-ads-row
 kalyugkatehelka.com,roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
-cinemadaddy.com,enavabharat.com,kositimes.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
+cinemadaddy.com,enavabharat.com,kositimes.com,muktirlorai.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
 7elevennews.com,raajdhaninews.com##.custom-slider
@@ -2245,8 +2245,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2569,7 +2569,7 @@ etvuttarakhand.com##.single-entry > div[style^="float"]
 thenewswords.com##.single-image .carousel
 beanibazarnews24.com##.single-news-widget > img.size-full
 probashbarta.com,sylhetprothidin24.com##.single-page-add2
-bn.bd24report.com,priyochandpur.com##.single-page2-topAdd
+bn.bd24report.com,muktirlorai.com,priyochandpur.com##.single-page2-topAdd
 ktmdainik.com##.single-post aside.widget_media_image
 nepalmamila.com##.single-post-advertisement
 hindsagarplk.com##.single-post-content .metaslider
@@ -4076,6 +4076,7 @@ pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper
 cnin.co.in,dainikjaltedeep.com##marquee
 arlivenews.com##marquee img
 meranews.com#?#p:-abp-contains(Advertisement)
+muktirlorai.com#?#.themesBazar_widget:has(> h3:-abp-contains(sonalilife.com))
 munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
 punjabiherald.co.nz##nav + div
