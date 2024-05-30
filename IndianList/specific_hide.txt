@@ -895,6 +895,7 @@ despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
 bihardootnews.com,news30express.com,newsinbihar.com,sansanikhejsamachar.in###wonderpluginslider-container-1
 gautamsandesh.com###wonderpluginslider-container-3
+jinews.co.in###wowslider-container1
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bbn24news.com,champawatkhabar.com,dainikathah.com,gadhsamvedna.com,newsmalayalionline.com,odiabarta.in,sbharatnews.com###wp-custom-header
@@ -3548,6 +3549,7 @@ newsnib.in##app-squaread4
 todaysdigitalbreakingnews.in##article div[class*="today-"]
 sanchorenews.com##aside .widget_custom_html
 tv24live.com##aside .widget_media_image
+jinews.co.in##aside > .widget-title
 bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 dineshkhabar.com##aside.ads-info-block
