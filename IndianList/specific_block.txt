@@ -3863,6 +3863,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||theindianstate.in^*/Octi$image
 ||theindianstate.in^*/Pinnacle$image
 ||thekarmanews.com/wp-content/uploads/2020/06/KOSAMATTAM-336-x-280_Karma-New-1-300x250.jpg
+||themesbazar.net^$third-party,domain=banglaralonews.com
 ||thenepaltoday.com^*/1100x100-arthasarokar.gif
 ||thenepaltoday.com^*/1140-1305.gif
 ||thenepaltoday.com^*/780X96_2.gif
