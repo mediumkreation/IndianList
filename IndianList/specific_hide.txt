@@ -969,7 +969,7 @@ keralakaumudi.com##.a-300-250
 abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
 bartabangla.com##.a-widget
-abtakmedia.com,himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,newsdeskkannada.com,satv.tv,satyaday.com,thenetizennews.com,theriyuma.com##.a-wrap
+abtakmedia.com,himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,mujibsenanews.com,newsdeskkannada.com,satv.tv,satyaday.com,thenetizennews.com,theriyuma.com##.a-wrap
 tarunbharat.com##.a-wrap:has(div[id^="div-gpt-ad"])
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
@@ -1715,7 +1715,7 @@ bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 joharlive.com,news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
-adbudhindia.com,citizenlive.news##.elementor-widget-smartmag-codes
+adbudhindia.com,citizenlive.news,mujibsenanews.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 khabaruttarakhand.com,shivshahilive.com##.elementor-widget-video
