@@ -2302,8 +2302,8 @@ narayanionline.com##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2697,6 +2697,7 @@ satkarpost.com##.stream-item img:not([src*="File.gif"])
 edunews.com.bd,glimeindianews.in,mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
 gnewsindia.com,magahinews.com,nepaltvonline.com##.stream-item-above-header
 gurugramnewsnetwork.com,jaunpur24.com,mitanbhoomi.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
+jilanazar.in##.stream-item-above-post-content
 abhitaknewsuk.in,boguralive.com,postpatrika.com##.stream-item-below-header
 jaunpur24.com,kadwaghut.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
@@ -2911,7 +2912,7 @@ sabkasandesh.com##.theiaStickySidebar .widget_media_image:not(#media_image-15)
 parvatjan.com##.theiaStickySidebar .widget_media_video
 kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,indootimes.com.au,minnambalam.com,opennewsx24.com,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,indootimes.com.au,jilanazar.in,minnambalam.com,opennewsx24.com,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
 gnewsindia.com##.theiaStickySidebar .widget_text:not(#text-22)
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 khabrainabhitak.org##.theiaStickySidebar .wpb_content_element
