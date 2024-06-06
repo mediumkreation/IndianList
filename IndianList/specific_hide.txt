@@ -1251,7 +1251,7 @@ ajkerreport.com##.advertise_to
 apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dailylokaloy.com,dainikdeshseba.com,ekushnews24.com,globalnewsbd24.com,gorkhalikhabar.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khaptadmalikanews.com,lakshmipur24.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samaynews24.com,samvaad365.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
-aanthaireporter.in,navrashtramedia.com,tamilankural.com##.advertisement-area
+aanthaireporter.in,tamilankural.com##.advertisement-area
 capitallivenews.com##.advertisement-fullwith
 arthadabali.com##.advertisement-heading
 deshdorshon.com,newsbrahmanbaria.com##.advertisement-section
@@ -2909,7 +2909,7 @@ sabkasandesh.com##.theiaStickySidebar .widget_media_image:not(#media_image-15)
 parvatjan.com##.theiaStickySidebar .widget_media_video
 kelanchaltimes.com,navshaktinews.com,southasia24x7.com##.theiaStickySidebar .widget_metaslider_widget
 ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
-biratnews24live.com,indootimes.com.au,minnambalam.com,navrashtramedia.com,opennewsx24.com,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
+biratnews24live.com,indootimes.com.au,minnambalam.com,opennewsx24.com,samacharplusjhbr.com,thejoharnews.com,tirthchetna.com,webmorcha.com##.theiaStickySidebar .widget_text
 gnewsindia.com##.theiaStickySidebar .widget_text:not(#text-22)
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 khabrainabhitak.org##.theiaStickySidebar .wpb_content_element
@@ -3195,7 +3195,7 @@ eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com##.widget_supermag_ad
-ainnews.tv,awazeuttarpradesh.com,deshrupantor.com,gangalahar.com,khulnatimes.com,ottrancheithi.com,theevakam.com##.widget_text
+ainnews.tv,awazeuttarpradesh.com,deshrupantor.com,gangalahar.com,khulnatimes.com,navrashtramedia.com,ottrancheithi.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
@@ -3880,7 +3880,6 @@ madathakaja.com##div[id^="madat-"]
 malabarinews.com##div[id^="malab-"] > img
 nammabantwala.com##div[id^="namma-"]
 nandednewslive.com##div[id^="nande-"]
-navrashtramedia.com##div[id^="navra-"]
 nayapage.com##div[id^="nayap-"]
 newsheight.com##div[id^="newsh-"]
 newslinkers.com##div[id^="newsl-"]
