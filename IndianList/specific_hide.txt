@@ -4014,6 +4014,7 @@ madhyabindu.com,onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
 pksnews24.com##img[alt*=" Ad-"]
+bebakshakti.com##img[alt*="AD "i]
 ablivenews.com##img[alt*="Sidebar AD –"]
 kantipath.com##img[alt*="add"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
