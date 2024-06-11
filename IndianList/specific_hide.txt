@@ -206,6 +206,7 @@ hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com,whatinindia.com###block-24
 banglarjanapad.com,govindia.in###block-25
 govindia.in,organizeindia.in###block-26
+knlslive.com###block-27
 wealthfreedomideas.com###block-28
 khabardarinews.com###block-29
 bundelkhandsamachar.com,checkpostnews.com,idealindianews.com,khabarindia24x7.com,lokswar.in,mobilenews24.com,newsnukkad.com,newswayanad.in,pahadkasach.in,sanatanjan.com,tamizhdb.com###block-3
