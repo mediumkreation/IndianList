@@ -1314,6 +1314,7 @@ helloswasthya.com##.article-desktop-ad-container
 tamil.mykhel.com##.article-tag-content:has(> .oiad)
 lokmatnews.in##.articlePage
 moviemax.in##.articleText > center > div
+hellobanswara.com##.article_text-content figure
 ashmitanews.in##.ashmi-ad
 newsatfirst.com##.aside-add
 bijoybanglabd.com##.asn-bk-txt
