@@ -676,6 +676,7 @@ awajnews.com,dbnnews.in,kannadavani.news,meruraibar.com,munshigonjerkagoj.com,pu
 digitalnewslive.com###sidebar .widget_metaslider_widget
 badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
+khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
 veerdharanews.com###sidebar-footer-4
 silkcitynews.com###sidebar-primary aside.widget_media_image
@@ -2305,8 +2306,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
