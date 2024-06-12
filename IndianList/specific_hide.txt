@@ -2307,8 +2307,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3368,6 +3368,7 @@ newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
+betulsamachar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
 headline24x7.com##.ws-block img:not([src*="headline24.jpg"])
@@ -3595,6 +3596,7 @@ bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 nbchindi.com##aside[id^="ai_widget-"]
 asr24.news#?#.card:-abp-has(> .card-header:-abp-contains(Advertisment))
 bangla.24livenewspaper.com#?#.advertisement:-abp-contains(advertisement)
+betulsamachar.com#?#.gb-container:-abp-contains(Advertisement)
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(MIsource))
 bhadainimirror.com#?#.sidebar-widget:-abp-has(.title:-abp-contains(Prasadam))
 bharatiyadigitalnews.in#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
