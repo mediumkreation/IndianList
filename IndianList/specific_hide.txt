@@ -1218,7 +1218,7 @@ ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
 marathi.hindustantimes.com##.advMasterSlot
-anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com##.advRow-fullW
+anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com,livebharatnews.in##.advRow-fullW
 doolnews.com##.adv_box_3x25
 bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
@@ -3694,6 +3694,7 @@ thewall.in##div[class*="_ning"]
 nrimalayalee.com##div[class*="_right_ad"]
 kamadenu.hindutamil.in,kumudam.com,puthiyathalaimurai.com##div[class*="ad-slot-"]
 probashirdiganta.com##div[class*="adbox"]
+livebharatnews.in##div[class*="ads-height-"]
 barendraexpress.com.bd##div[class*="ads__"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 newsnationtv.com##div[class*="adsense"]
