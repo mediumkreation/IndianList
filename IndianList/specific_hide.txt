@@ -2306,8 +2306,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -2520,6 +2520,7 @@ cknewsgroup.ca##.sideadholder
 nayasabera.com##.sidebar .HTML:not(#HTML15):not(#HTML8)
 nayasabera.com##.sidebar .Image:not(#Image6)
 adbhutsamachar.com##.sidebar .kopa-carousel-widget
+notebazar.com##.sidebar .mb-2
 countryinsidenews.com##.sidebar .mom-e3lanat
 dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
 fourteenkerala.com,pokharasports.com##.sidebar .stream-item-widget
