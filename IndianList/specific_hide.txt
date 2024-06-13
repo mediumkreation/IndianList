@@ -1562,7 +1562,6 @@ aponzonepatrika.com##.container1
 sunamganjerkhobor.com##.container_fluid.bgColor2
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
 barendraexpress.com.bd##.content-ad-block360
-arthasansar.com##.content-advertisement
 dinamani.com##.content-av
 hetaudatoday.com##.content-banner
 gorkhalikhabar.com##.content-box-ad
@@ -2260,8 +2259,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3699,7 +3698,7 @@ barendraexpress.com.bd##div[class*="ads__"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 newsnationtv.com##div[class*="adsense"]
 dailyuttorpurbo.com##div[class*="advert"]
-janaboli.com,justnewsbd.com##div[class*="advertisement"]
+arthasansar.com,janaboli.com,justnewsbd.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
