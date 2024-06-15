@@ -1797,7 +1797,6 @@ khabarexpert.in##.ewic-slider
 womeneye24.com##.exclusiveSec + .row
 metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
-parichaya.com##.exv-image
 dakhal.net##.fadInleft_ads
 eisamay.com##.fbnad
 bbc24news.com,chtmedia24.com##.featad
@@ -3328,7 +3327,7 @@ bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
 arthosuchak.com,atharvnews.com,beanibazarview24.com,budaunamarprabhat.com,hakkatha.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,shramjeevijournalist.com,therisingcampus.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-aadarshhimachal.com,bholanews.com,delhicrimepressnews.com##.wpb_content_element img
+aadarshhimachal.com,bholanews.com,delhicrimepressnews.com,parichaya.com##.wpb_content_element img
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 kalingajyoti.com##.wpb_content_element.vc_align_center
@@ -3717,7 +3716,7 @@ makdaiexpress24.com##div[class*="makda-"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
 meddlingmedia.com##div[class*="pubadban"]
-a2zsamachar.com,agnisamachar.com,angultv.com,arthosuchak.com,ejanakpurtoday.com,kodanki.in,rastriyadaily.com,smnewshimachal.in,todaypati.com##div[class*="sgpb-"]
+a2zsamachar.com,agnisamachar.com,angultv.com,arthosuchak.com,ejanakpurtoday.com,kodanki.in,parichaya.com,rastriyadaily.com,smnewshimachal.in,todaypati.com##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
