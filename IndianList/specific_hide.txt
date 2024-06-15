@@ -2304,8 +2304,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -4099,6 +4099,7 @@ meranews.com#?#p:-abp-contains(Advertisement)
 muktirlorai.com#?#.themesBazar_widget:has(> h3:-abp-contains(sonalilife.com))
 munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
+nation9network.com#?#.gb-container:-abp-contains(Advertisement)
 punjabiherald.co.nz##nav + div
 naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
 neplays.com#?#.widget--title .h4:-abp-contains(Advertisement)
