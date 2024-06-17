@@ -1535,10 +1535,10 @@ purvanchal24.com##.col-md-4 .pbwidget
 dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 businesshour24.com##.col-sm-6 .add-imgae
-anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,metrojournalonline.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com,timeskerala.com##.colombiaadcode
+anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,metrojournalonline.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 sharebazarnews.com##.company-ads
@@ -2140,7 +2140,8 @@ nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
 newsdoor.net##.lrads
 lankasri.com##.lsb-blurb-sections
-metrojournalonline.com##.m-116
+haryanakranti.com,metrojournalonline.com##.m-116
+haryanakranti.com##.m-200
 chopaltv.com##.m-280
 71sangbad.com##.m_none > a[target="_blank"]
 satyadeepsandesh.com##.maan-header-adds
@@ -2305,8 +2306,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
