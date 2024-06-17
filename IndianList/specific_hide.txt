@@ -2306,8 +2306,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
@@ -2326,7 +2326,7 @@ onlynews24.com##.onlyn-after-content
 apnapunjabmedia.com##.order-3 .mt-4
 telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
-24x7cg.com,nawidunia.com,timesandspace.com##.owl-carousel
+24x7cg.com,kelopravah.news,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
