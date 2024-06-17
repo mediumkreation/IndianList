@@ -906,6 +906,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||chandpur-kantho.com/templates/web-v1/images/imazin.gif
 ||chandpur-kantho.com/templates/web-v1/images/jibondip.gif
 ||chandpurnews.com^*/cyberworldit_
+||chandpurreport.com/wp-content/uploads/2024/03/rokte-ronjito-1024x758.jpg$domain=priyoshomoy.com
 ||chandpurreport.com^*/night-king
 ||chandpursangbad.com/wp-content/themes/bwitSChaNewsPortal%2B%2B%2B%2B%2B%2B/media/common/islami-bank-app.gif
 ||chandpursangbad.com/wp-content/themes/bwitSChaNewsPortal%2B%2B%2B%2B%2B%2B/media/creative
@@ -1711,7 +1712,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ibb.co^$domain=nayabharat.live
 ||ibb.co^$third-party,domain=shahzadpursangbad.com
 ||ibn24x7news.com^*/diwali-ad-
-||ibnsinahealthcare.com^$third-party,domain=priyoshomoy.com
 ||icetoday.net^*/aura-add-
 ||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
 ||ideatvnews.com/wp-content/uploads/2020/07/web_store-front.jpg
@@ -3063,8 +3063,12 @@ perfection-ias-upsc$domain=nextbihar.com
 ||prixacdn.net/media/240x200_NepaliPatro-Compressed.gif
 ||prixacdn.net/media/Digimedical_to_Farakdhar_1.gif
 ||prixacdn.net/media/Mikes.gif
-||priyoshomoy.com^*/diabeties-course
-||priyoshomoy.com^*/piles-cure
+||priyoshomoy.com/wp-content/uploads/2020/05/sainus-tumour-ad.jpg
+||priyoshomoy.com/wp-content/uploads/2020/06/vitiligo.jpg
+||priyoshomoy.com/wp-content/uploads/2023/03/Mesta.jpg
+||priyoshomoy.com/wp-content/uploads/2023/08/Hakim-Mizanur-Rahman-New-add.jpg
+||priyoshomoy.com/wp-content/uploads/2023/10/diabet-add-gloco-nigella-sativa.jpg
+||priyoshomoy.com/wp-content/uploads/2023/11/Recap-add-new-300x242.jpg
 ||probash-mela.com/wp-content/uploads/2018/06/Sol1000p.jpg
 ||probash-mela.com^*/Advt
 ||probashbanglanews.com/wp-content/uploads/2017/04/bkashheader1.jpg
