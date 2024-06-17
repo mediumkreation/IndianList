@@ -702,8 +702,8 @@ zamania.in###sidebar-section-top
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
 upayuktha.com###sidebar-wrapper .widget.Image
-abtaknews.com,asalbaat.co.in,desikhabar.in,digontonewsbd.com,pradeepamonline.com###sidebar1
-asalbaat.co.in,nknewsindia.com###sidebar2
+abtaknews.com,desikhabar.in,digontonewsbd.com,pradeepamonline.com###sidebar1
+nknewsindia.com###sidebar2
 dailypunorutthan.com,daynightnewsbd.com,dhakanews24.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 himaliawaj.com,jkcnews.com###simple-image-popup
 kulalaworld.com###simpleimage-13
@@ -2305,8 +2305,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3624,6 +3624,7 @@ dhamaka36.com#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement
 dhinasari.com#?#.tdm-descr:-abp-contains(Advertisement)
 nepaltara.com##div a[target="_blank"] img
 abnews24bd.com##div img[src^="ad/"]
+asalbaat.co.in##div.HTML:has(> .widget-content)
 gossiplankanews.com##div.HTML:has(> div ins.adsbygoogle)
 sansarnews.com##div.a
 aajkaaldaily.com##div.col-lg-3:has(> ins.adsbygoogle)
