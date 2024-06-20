@@ -2427,7 +2427,7 @@ satyamlive.com##.quadss-location
 rajnitiprotidin.com##.qvzk
 hetaudakhabar.com,nepalipatra.com,sulsule.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
-healthaawaj.com,hetaudakhabar.com##.rd-between-ads
+hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
 anytechtune.com##.reseller-add
@@ -4137,7 +4137,7 @@ tamiltradepost.com##section.slider-sec
 arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
 abcnepal.tv,kendrabindu.com,onlinetvnepal.com##section.widget figure
-clickmandu.com,hamroeconomy.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,thecinematimes.com,yohokhabar.com##section.widget img
+clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,thecinematimes.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
