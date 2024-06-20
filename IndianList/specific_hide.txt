@@ -2258,12 +2258,11 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
-navinsamachar.com##.navin-content_13
 nayabikalpa.com##.naya-bikalpa-advertisement
 amraikhabor.com,chouranews.com,gambhirmudda.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
@@ -3760,7 +3759,6 @@ samacharfirst.com##div[class^="home-adright"]
 indianewsviral.co.in##div[class^="india-content_"]
 hindi.scoopwhoop.com##div[class^="jsx-"]
 kokanmedia.in##div[class^="kokan-"]
-navinsamachar.com##div[class^="navin-content"] img:not([src*="PicsArt_05-19-01.16.30.png"])
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
@@ -3889,6 +3887,7 @@ madathakaja.com##div[id^="madat-"]
 malabarinews.com##div[id^="malab-"] > img
 nammabantwala.com##div[id^="namma-"]
 nandednewslive.com##div[id^="nande-"]
+navinsamachar.com##div[id^="navin-"]
 nayapage.com##div[id^="nayap-"]
 newsheight.com##div[id^="newsh-"]
 newslinkers.com##div[id^="newsl-"]
