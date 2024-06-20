@@ -1164,7 +1164,7 @@ deshabhimani.com##.adone > div
 roorkeehub.com##.adore-adver
 anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
-amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,emalayalee.com,gandakilive.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,khabortv.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,naidunia.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,unb.com.bd,webtvkhabar.com##.ads
+aayokhabar.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,emalayalee.com,gandakilive.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,khabortv.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,naidunia.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,unb.com.bd,webtvkhabar.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 pankourinews.com##.ads > a
 gandakitimes.com##.ads aside:not(#custom_html-7)
@@ -2258,8 +2258,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2573,6 +2573,7 @@ probashbarta.com##.single-add
 news71online.com##.single-block .col-sm-12 img
 khabaristan.com##.single-box
 dhadingpost.com##.single-content p~figure.wp-block-image
+aayokhabar.com##.single-content ~ p
 channelcox.com##.single-ditails + .add .widget_area
 bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
 odekhabishwo.com##.single-dtls img
@@ -3716,7 +3717,7 @@ makdaiexpress24.com##div[class*="makda-"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
 meddlingmedia.com##div[class*="pubadban"]
-a2zsamachar.com,agnisamachar.com,angultv.com,arthosuchak.com,ejanakpurtoday.com,kodanki.in,parichaya.com,rastriyadaily.com,smnewshimachal.in##div[class*="sgpb-"]
+a2zsamachar.com,aayokhabar.com,agnisamachar.com,angultv.com,arthosuchak.com,ejanakpurtoday.com,kodanki.in,parichaya.com,rastriyadaily.com,smnewshimachal.in##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
