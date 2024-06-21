@@ -111,7 +111,7 @@ newsnib.in###advertisement
 torontotamil.com###advertsub2
 importmirror.com###adx
 bansgaonsandesh.com,elettilonline.com###after-ad
-lokpatrika.in,thejharokha.com###ai_widget-2
+alakhharyana.com,lokpatrika.in,thejharokha.com###ai_widget-2
 beanibazarview24.com###ai_widget-3
 timeofrajasthan.com###ai_widget-7
 spnewsworld.com###amazonautolinks_widgetbyid-2
@@ -1284,7 +1284,7 @@ biharnownews.com##.afw_ad
 agnijwala.com##.agnij-news-bhitra
 ntcnewsmedia.com##.ai-attributes
 aaryaanews.com,news4csc.com##.ai-sticky-widget
-alakhharyana.com,anewsoffice.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+anewsoffice.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
@@ -2260,8 +2260,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
