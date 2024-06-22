@@ -76,7 +76,7 @@
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=nattuvartha.news
 /advertisementBanners/*$domain=keralaexpress.com
-/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com
+/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|indiasamachar24.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|thahapati.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
