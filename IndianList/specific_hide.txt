@@ -1026,6 +1026,7 @@ indiatv.in##.ad:has(> div:first-child)
 dailyjagoran.com##.adBgGray
 eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
+blastkhabar.com##.adRightSideBar
 odhikar.news##.adSlides
 aajkaal.in##.ad__full--length
 dhanamonline.com##.ad_before_level_3
@@ -2307,8 +2308,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
