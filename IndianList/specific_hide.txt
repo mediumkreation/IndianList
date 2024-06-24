@@ -2308,8 +2308,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
@@ -2774,7 +2774,7 @@ news1today.in##.td-fix-index img:only-child
 prajasatta.in##.td-footer-wrapper
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-bengalwatch.in,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,newsinside24.com,positivekhabar.com,sarhadkasakshi.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
+bengalwatch.in,dheivegam.com,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,newsinside24.com,positivekhabar.com,sarhadkasakshi.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com,sanatanjan.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 garavigujarat.biz,insurancekhabar.com,khulnanchal.com,pratidindaily.com,temalonline.com##.td-header-sp-recs
