@@ -1186,7 +1186,7 @@ hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
 udayavani.com##.ads-white-blk
 punalurnews.com##.ads-widget-sec
-dailyolamakantho.com,nationalpresstimes.com,welcomeindianews.com##.ads160_600-widget
+dailyolamakantho.com,nationalpresstimes.com,tbcgzb.in,welcomeindianews.com##.ads160_600-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
 inextlive.com,naidunia.com,prothomalo.com##.adsBox
@@ -2308,8 +2308,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
