@@ -2311,8 +2311,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
@@ -3734,6 +3734,7 @@ mediamalayalam.com##div[class*="td-spot-id-content_"]
 manvadhikarabhivyakti.in##div[class*="tdi_140"]
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
+usbangla24.news##div[class*="width-ad"]
 aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,jagmarg.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
