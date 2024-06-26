@@ -1525,6 +1525,7 @@ delhibulletin.in##.code-block:not(.code-block-2)
 cinereporters.com##.code-block:not(.code-block-3)
 magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 deshprahari.com##.code-block:not(.code-block-6)
+bangalianaa.com##.code-widget
 bankingkhabar.com##.codeneric_uam_link
 colombotamil.lk##.col-bn-ds
 apnapunjabmedia.com##.col-lg-2 > .white-bg
@@ -2310,8 +2311,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
