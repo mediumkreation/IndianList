@@ -372,6 +372,7 @@ cinemasthi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-asid
 nationaltodaylive.com###header-banner
 latestlaws.com###header-banner .text-right
 ethiri.com###header-helpful
+kamanakhabar.com###header-right
 allwnews.com,anondobarta.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,naturalnews.co.in,paryavaranpost.com,rozanapost.in###header-right-section
 cgimpact.org,dainikjayantnews.com,jamalpurbarta.com,keralabreaking.com,thebharatnama.com,thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
