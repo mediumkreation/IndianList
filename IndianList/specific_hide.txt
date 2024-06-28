@@ -9,7 +9,7 @@ metrojournalonline.com###HP_O_LHS_1 > div:nth-child(2)
 atalsamachar.com###HP_O_LHS_7 > div:nth-child(-n+10)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 odiascraps.info###HP_O_LHS_7 > div:nth-child(-n+5)
-actionnews.in,adrasaka.com,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
+actionnews.in,adrasaka.com,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,newssapata.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
 bhopalsamachar.com,cnblive.com,ekumaon.com,ezhomelive.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
@@ -38,7 +38,7 @@ tamilarul.net###HTML42
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,media24media.com,nobojagorontv.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
 gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
 chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
-dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
+dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,newssapata.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 kasargodvartha.com###HTML92
@@ -2268,8 +2268,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
