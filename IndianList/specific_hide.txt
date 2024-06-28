@@ -980,7 +980,7 @@ aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
+akhabarhub.com,anmolkhabar.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
 cialive.in##.ad .carousel
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd,pankourinews.com##.ad img
@@ -1856,6 +1856,7 @@ theholytimes.com##.footer_top_add
 adhorekhit.com##.footer_top_banner
 firstindianews.com##.for-add
 professorsbd.com##.for_add
+anmolkhabar.com##.four-col > a[href=""] img
 banglanewsca.com##.front-page-ad
 mathagal.net##.ft-advert
 news18.com##.ftrad
@@ -1868,7 +1869,7 @@ nepalsamaya.com,prabhabonline.com##.full-bigyaapan
 baahrakhari.com,capitalnepal.com,khelpati.com,nepallive.com##.full-bigyapan
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
-hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,nawayug.com,sajhakuranews.com##.full_ad_section
+anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,nawayug.com,sajhakuranews.com##.full_ad_section
 dailybangladeshbani.com##.full_ad_widget
 hindi.webdunia.com,tamil.webdunia.com##.full_ads_block
 pchelpcenterbd.com##.fullwidhtads
@@ -2577,7 +2578,7 @@ pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
 sawalnepal.com##.sidebar__ads
-hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
+anmolkhabar.com,hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
