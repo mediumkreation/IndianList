@@ -72,6 +72,7 @@
 ||cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.thamilan.lk/wp-content/uploads/2020/06/19.jpg
 ||cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.thamilan.lk/wp-content/uploads/2020/12/Blue-ocean.gif
 ||cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_240/http://punjabguardian.com/wp-content/uploads/2017/12/Punjab-forex-front-PBFX-ADD-Paper.jpg
+||cdn.statically.io/img/newsi.lk/wp-content/uploads/2023/07/7095458812167875303.jpg
 ||cdn.telugu.gulte.com/wp-content/uploads/2020/06/amaravati-v2.gif
 ||dainiki.com/wp-content/uploads/2020/10/MBL-GIF.gif
 ||digitaloceanspaces.com/appharuspace/drishtinews/uploads/2021/04/Cozy-4.gif
