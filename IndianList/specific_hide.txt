@@ -1551,6 +1551,7 @@ khabreelal.com##.colombiaonesuccess iframe
 usanewsonline.com##.column-inner
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 nepalstatus.com##.comon-ads
+manoramanews.com##.comp-ad
 sharebazarnews.com##.company-ads
 samadhannews.com,samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
@@ -2226,8 +2227,6 @@ valanchery.in##.mkd-sidebar .widget_text
 24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,janpadnewslive.com,kundeshwartimes.com,npg.news,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,tharexpressnews.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
-manoramanews.com##.mm-banner300-ad
-manoramanews.com##.mm-other-ad
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -2272,8 +2271,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2960,7 +2959,6 @@ bigkhabar.com,dpcnews24.com##.top-add
 thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
 aperata.net##.top-ads-block
-manoramanews.com##.top-advt
 manoramaonline.com##.top-advt-block
 sangbadprotidin.com##.top-banner
 jamalpurlive.com##.top-bar
