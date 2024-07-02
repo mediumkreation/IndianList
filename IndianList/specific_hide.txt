@@ -2348,7 +2348,6 @@ telugu.mykhel.com##.os-ad-c
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
-bartamanpatrika.com##.pageAdBanner_300X255 div
 i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
@@ -3580,7 +3579,6 @@ dainikjharkhand.com,jaunpur24.com,pressmirchi.com##adnblock
 ammanealing.org#?#.wpb_wrapper:-abp-has(> div > .sc_item_title:-abp-contains(Advertisement))
 angulonline.com#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Sponsored))
 chakrapath.com##app-ad-control-header
-bartamanpatrika.com##app-ads[slotid="after6thNewsAdSlot"]
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
@@ -3714,6 +3712,7 @@ thewall.in##div[class*="_ning"]
 nrimalayalee.com##div[class*="_right_ad"]
 madhyamam.com##div[class*="ad-box"]
 kamadenu.hindutamil.in,kumudam.com,puthiyathalaimurai.com##div[class*="ad-slot-"]
+bartamanpatrika.com##div[class*="adSlot"]
 probashirdiganta.com##div[class*="adbox"]
 livebharatnews.in##div[class*="ads-height-"]
 barendraexpress.com.bd##div[class*="ads__"]
