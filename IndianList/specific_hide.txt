@@ -1439,7 +1439,7 @@ livekhagaria.in##.blocks-gallery-item
 newswayanad.in##.blockspare-blocks
 akhandbharatsamachar.com##.blog-posts marquee ~ :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
-canadamirror.com,ibctamilnadu.com,manithan.com##.blurb
+canadamirror.com,ibctamilnadu.com,lankasri.com,manithan.com##.blurb
 jvpnews.com##.blurb img
 ekaainabharat.com,sangritimes.com##.bn-content
 aajbangla.in,aankhennews24.com,bhadainimirror.com,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,dakshinapath.com,dankaram.in,darsilivetv.com,fesn.in,hindikhabarwaala.com,indraprasthasamachar.com,jagrantimesnews.com,lokjannews.com,naradnews.live,prativad.com,sirajganjexpress.com,threesocieties.com##.bn-lg
@@ -2155,7 +2155,6 @@ hamrokhabar.com##.long__ads
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
 newsdoor.net##.lrads
-lankasri.com##.lsb-blurb-sections
 haryanakranti.com,metrojournalonline.com##.m-116
 haryanakranti.com##.m-200
 chopaltv.com##.m-280
