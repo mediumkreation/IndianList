@@ -1469,6 +1469,7 @@ patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
 ctnewsbd.com,kdnewslive.in,kollywoodvoice.com,lightnewsbd.com,prottashitoalo.com##.bsac
 positiveindia.net.in##.bsac img:not([src*="1-1.jpg"])
+samagrabharat.com##.bsac img:not([src*="go-seva.jpeg"])
 inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 hirunews.lk##.btm-sticky
