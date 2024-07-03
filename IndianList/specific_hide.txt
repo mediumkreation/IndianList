@@ -80,7 +80,6 @@ patnadaily.com###Mod173
 patnadaily.com###Mod174
 odia-ray.in###Mod182
 odia-ray.in###Mod225
-ndtv.in###RHS_WYSIWYG
 pnews.co.in###SidebarWidgets-S1
 battirepnews.com###SidebarWidgets-S1 .widget.Image
 malabarflash.com,mewartimes.com,thereport24.com###ad
@@ -569,7 +568,7 @@ muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
 karmalamadhanews24.com###panel-38-2-1-1
-india.com,ndtv.in,tfipost.in###parentDiv0
+india.com,tfipost.in###parentDiv0
 soninews.net###penci_custom_html-3
 gstv.in###penci_custom_html-7
 chhapratoday.com###pg-22-3
@@ -965,6 +964,7 @@ banglanewsca.com##.Single-Post-Right-Sidebar-Ad
 kamadenu.hindutamil.in##.Stickyads
 livehindustan.com##.StoryPage_tabooWrp__NKSGA
 news18.com,news18marathi.com##.TABOOLA
+ndtv.in##.TpGnAd_ad-cn
 citynewsexpress.com##.Video-indx
 tamil.oneindia.com##._adr_abp_container
 amarbanglabd.com##._df_custom
@@ -1086,7 +1086,7 @@ bnewskolhapur.com,shikkhakantho.com##.add-place
 newsnationtv.com,u71news.com##.add-right
 evartha.in##.add-row
 dainiktribuneonline.com,netizennepal.com,thebengalitimes.com##.add-sec
-bdsomachar24.com,dinajpur24.com,jaianndata.com,malisamajsocial.com,muktirlorai.com,ndtv.in,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
+bdsomachar24.com,dinajpur24.com,jaianndata.com,malisamajsocial.com,muktirlorai.com,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
 moulvibazar24.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
@@ -1189,6 +1189,7 @@ hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
 udayavani.com##.ads-white-blk
 punalurnews.com##.ads-widget-sec
+ndtv.in##.ads-wrp
 dailyolamakantho.com,nationalpresstimes.com,tbcgzb.in,welcomeindianews.com##.ads160_600-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
@@ -1843,7 +1844,6 @@ narmadanchal.com,usanewsonline.com##.fn-widget-image
 usanewsonline.com##.fn-widget_media_image
 mymensinghpratidin.com##.font_widget_two
 nijamtoday.com##.foogallery_widget
-ndtv.in##.foot-sticky ~ div[style*="float"]
 kathmandutoday.com##.foot_ad
 anweshanam.com##.footer-ad-img
 firstlookbihar.in,wishmaya.com##.footer-add
@@ -2323,8 +2323,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
@@ -3088,7 +3088,6 @@ dabangawaj.com,fastindianews.com,shatabdinews.com,tahalaka.in##.well
 webgossip.lk##.wg-advert
 suddidina.com##.whistleAds
 newskoseli.com##.wid-1
-ndtv.in##.wid_tboola
 puthithu.com##.widget > .wp-block-image
 emungaru.com##.widget img[src^="data:"]
 gstv.in##.widget-area-1 .widget_custom_html
