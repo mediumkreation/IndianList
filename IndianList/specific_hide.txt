@@ -2958,7 +2958,7 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
-anweshanam.com##.top-ad-d
+anweshanam.com,keralaonlinenews.com##.top-ad-d
 bigkhabar.com,dpcnews24.com##.top-add
 thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
@@ -3428,6 +3428,7 @@ newsuperbharat.com##[id^="newsu-"]
 thestellarnews.com##[id^="thest-"]
 sunnews24x7.com##a .adv-vload
 sylhetprothidin24.com##a > img.img-responsive
+keralaonlinenews.com##a.disabled
 newstodaynetwork.com##a.disabled img
 adiyakkamangalam.com##a.external
 thamilan.lk##a.group.w-full
