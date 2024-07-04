@@ -1577,6 +1577,7 @@ bikashnews.com##.containerhome a[target="_blank"] img:only-child
 barendraexpress.com.bd##.content-ad-block360
 dinamani.com##.content-av
 hetaudatoday.com##.content-banner
+ratopati.com##.content-banner--single
 gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
