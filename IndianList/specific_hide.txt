@@ -1276,7 +1276,7 @@ sangbadprotidin.com,shomoynews.net##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
 sangbadpratidin.in##.advt-text1
 indiaspeaks.news##.advt-widget
-hindi.webdunia.com##.advt_336
+webdunia.com##.advt_336
 dainiknepal.com,dainiknepal.com.np,enepalese.com,samayapost.com##.advt_bx
 enepalese.com,samayapost.com##.advt_r
 newsplus24x7.com##.advtertise
@@ -1877,7 +1877,7 @@ emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
 anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,nawayug.com,sajhakuranews.com##.full_ad_section
 dailybangladeshbani.com##.full_ad_widget
-hindi.webdunia.com,tamil.webdunia.com##.full_ads_block
+webdunia.com##.full_ads_block
 pchelpcenterbd.com##.fullwidhtads
 unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
