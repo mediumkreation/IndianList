@@ -1458,6 +1458,7 @@ samacharnama.com##.both_AD
 samakal.com##.bottomReadMoreCart div[style*="width: 300px !important;height: 250px"]
 samakal.com##.bottomStickyDesktopDiv
 lokjeewan.com##.bottom_ad_slide
+dailythanthi.com##.bottom_snackbar_common
 yugabdha.com##.box-sec-bg .slider
 khoborbari24.com##.box_outer.widget_text
 gorkhalikhabar.com##.box_wrap.p-2
@@ -2073,7 +2074,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,setokhari.com##.insert-ad
-madhyamam.com##.inside-post-ad
+dailythanthi.com,madhyamam.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
@@ -2388,6 +2389,7 @@ dhadingnews.com,dinamina.lk,industryhit.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
 bharatiyadigitalnews.in,divaina.lk##.popup
+dailythanthi.com##.popup-ad-content-wrap
 bartakontho.com##.popup-wrpp
 bonikbarta.net##.popupCloseButton
 dainikshiksha.com##.popupad
