@@ -1815,6 +1815,7 @@ metrojournalonline.com##.extraList
 enlightnews.com##.extra_ad
 madhyamam.com##.extra_bottom_sections
 dakhal.net##.fadInleft_ads
+bangla.thereport24.com##.farrr
 eisamay.com##.fbnad
 bbc24news.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
@@ -2278,8 +2279,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3428,6 +3429,7 @@ instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 gtamilnews.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
 thestellarnews.com##[id^="thest-"]
+bangla.thereport24.com##[style*="height:80px;width:300px;"]
 sunnews24x7.com##a .adv-vload
 sylhetprothidin24.com##a > img.img-responsive
 keralaonlinenews.com##a.disabled
