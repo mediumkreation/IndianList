@@ -2313,7 +2313,7 @@ expressindian.co.in##.newshit-header-ads-wrapper
 newskannada.com##.newsk-content
 satyagrahanews.in##.newsmatic-advertisement-block
 bishwanathbd24.com##.newspaper-advertisement
-onlinekhabar.com##.nh_list
+onlinekhabar.com##.nh_widget_wrap
 weeklydesh.co.uk##.nhsgallery
 nepalkhabar.com##.nk-sidebar-ads
 newskannada.com##.nktv_adv
