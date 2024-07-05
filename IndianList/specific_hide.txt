@@ -2327,8 +2327,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
@@ -4089,7 +4089,6 @@ shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
 voiceasian.news##img[src*="ad_files"]
 hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
-bd-journal.com##img[src^="data:image/gif;"]
 wijeya.lk##img[target]
 kasargodvartha.com##img[title="wellfitindia"]
 indiakhabar.co.in#?#div:-abp-has(> .section-title > h4:-abp-contains(ADVERTISEMENT))
