@@ -851,6 +851,7 @@ gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
 janprahar.com###top_level_3
 filmchilive.com###top_level_full_1
+jantajanardan.com###topads
 chennairoyalcinema.com###topbanner
 shreemanglamlive.com###ucier-4
 shreemanglamlive.com###ucier-5
@@ -2327,8 +2328,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
