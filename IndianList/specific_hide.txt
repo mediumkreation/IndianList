@@ -1214,6 +1214,7 @@ dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
+sakshi.com##.adtext
 aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,cg24news.in,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com##.adv-img
@@ -1912,6 +1913,7 @@ ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 onlinepatrakar.com##.googleAdBlock
 timenews.co.in##.google_ads_section
+sakshi.com##.google_ads_wrap
 faridabadnews.live##.googlepublisherads
 grandnews.in##.grand-after-content_2
 paristamil.com##.group2
@@ -2330,8 +2332,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
