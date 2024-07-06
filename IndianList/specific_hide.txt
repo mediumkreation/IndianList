@@ -963,7 +963,6 @@ bharatsamachartv.in##.RightCont iframe
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
 kamadenu.hindutamil.in##.Stickyads
-livehindustan.com##.StoryPage_tabooWrp__NKSGA
 news18.com,news18marathi.com##.TABOOLA
 ndtv.in##.TpGnAd_ad-cn
 citynewsexpress.com##.Video-indx
@@ -2331,10 +2330,11 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
+livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
 newskranti.com##.ob-cards
@@ -3708,9 +3708,6 @@ unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
 setopati.com##div[class*="-bigyaapan-"]
 gandaknews.com##div[class*="-shortcode-"]
-livehindustan.com##div[class*="Ads_ads-head__"]
-livehindustan.com##div[class*="Ads_rhs-ad__"]
-livehindustan.com##div[class*="Ads_story-ads___"]
 news18.com##div[class*="Header_inner_ad"]
 asomiyapratidin.in##div[class*="__adContainer__"]
 bangla.bdnews24.com##div[class*="_ad-slot__"]
