@@ -355,6 +355,7 @@ keralavisiontv.com###foot-ad-wrap
 malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
+jagonews24.com###fscorecard
 importmirror.com###full-size-Ad
 dishadaily.com###full_level_1_detail
 telugu.gulte.com###gulte-text-html-widget-2
@@ -2071,7 +2072,6 @@ malabarflash.com##.inner-post-ads
 kendrabindu.com##.inner-square
 laxminews24x7.com##.inner-wrapper .e3lan-below_header
 globalmalayalam.com##.innerAdColum
-jagonews24.com##.inner_ad_item
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
@@ -2282,8 +2282,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2330,8 +2330,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
@@ -3976,6 +3976,7 @@ youth18.com##div[role*="CUSTOM"]
 paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
 filmykhabar.com##div[style*="float: left; width: 320px; height: 180px;"]
+jagonews24.com##div[style*="height:104px;"]
 malayalivartha.com##div[style*="height:1120px; "]
 maagulf.com##div[style*="height:260px"]
 filmykhabar.com##div[style*="margin-top: 16px; height: 80px;"]
