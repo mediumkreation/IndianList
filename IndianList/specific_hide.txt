@@ -2025,6 +2025,7 @@ eisamay.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 ibc24.in##.hr_banner
+arghakhanchi.com##.html-div img
 citymirrors.in##.hustle-content
 mekhrajbairwa.com##.hustle-layout
 siyasatdarpan.com##.hustle-popup
@@ -2330,8 +2331,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 swadeshbani.com##.nv-header-ads-area
