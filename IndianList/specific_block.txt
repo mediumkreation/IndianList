@@ -67,7 +67,7 @@
 /advertiesment/*$domain=theendnews.com
 /advertiesment_$domain=parthokko.com.bd
 /advertise/*$domain=kapurinews.com
-/advertisement/*$domain=360malayalam.com|aarthiknews.com|agaminews.com
+/advertisement/*$domain=360malayalam.com|agaminews.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|ekushey-tv.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in|womeneye24.com
