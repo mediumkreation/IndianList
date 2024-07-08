@@ -1279,7 +1279,6 @@ divaina.com##.advertisments
 onlinedabali.com##.advls
 sangbadprotidin.com,shomoynews.net##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
-sangbadpratidin.in##.advt-text1
 indiaspeaks.news##.advt-widget
 webdunia.com##.advt_336
 dainiknepal.com,dainiknepal.com.np,enepalese.com,samayapost.com##.advt_bx
@@ -2056,7 +2055,6 @@ chhattisgarhtimes.com##.img-my-ad
 aapkikhabar.com##.imgOverlayAd
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
-sangbadpratidin.in#@#.imgad
 pratyeknews.com##.imgad1
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
@@ -3771,7 +3769,7 @@ dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
 eenadu.net##div[class^="ad-block"]
-dailyalokitovor.com##div[class^="ad_"]
+dailyalokitovor.com,sangbadpratidin.in##div[class^="ad_"]
 britishpathram.com##div[class^="ad_mid"]
 khabarodisha.com##div[class^="add-"]
 sananda.in##div[class^="add-right"]
@@ -3985,6 +3983,7 @@ jagonews24.com##div[style*="height:104px;"]
 malayalivartha.com##div[style*="height:1120px; "]
 maagulf.com##div[style*="height:260px"]
 filmykhabar.com##div[style*="margin-top: 16px; height: 80px;"]
+sangbadpratidin.in##div[style*="margin-top:50px; margin-bottom:90px;"]
 mzamin.com##div[style*="min-height"]
 timesnowmarathi.com##div[style*="min-height: 181px;"]
 patradoot.net##div[style*="padding: 15px 0px; background-color: gray;"]
