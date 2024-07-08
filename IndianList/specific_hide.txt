@@ -1196,6 +1196,7 @@ ndtv.in##.ads-wrp
 dailyolamakantho.com,nationalpresstimes.com,tbcgzb.in,welcomeindianews.com##.ads160_600-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
+ctgbarta24.com##.ads728x90-thumb
 inextlive.com,naidunia.com,prothomalo.com##.adsBox
 aapkiaawaznews.com##.adsImg_section
 vtvgujarati.com##.adsSection
@@ -2334,8 +2335,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
