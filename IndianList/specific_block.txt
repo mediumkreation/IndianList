@@ -34,7 +34,7 @@
 -banner.gif|$domain=teknafnews71.com
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
--Banner.jpg|$domain=ottrancheithi.com|shamolbangla24.com
+-Banner.jpg|$domain=ottrancheithi.com
 -banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
 -Campaign_$image,domain=publictv.in
 -content-add$domain=ujjwalhimachal.com
@@ -52,7 +52,6 @@
 /ADD.gif|$domain=paryabekhyak.com
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
-/add_$domain=shamolbangla24.com
 /AddImages/*$domain=thurannakathu.com
 /Ads-$domain=dailyceylon.com
 /ads-$domain=gmnewsbd.com|prothom-feni.com
@@ -319,9 +318,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ajkerprosongo.com/storage/image/fXGDPkyNKKF0g3hI8Ggu1cokNausFDs6lYY1HVL3.jpg
 ||ajkershodesh.com/wp-content/uploads/2024/02/143-1024x840.jpg
 ||ajkersonargaon.com/wp-content/uploads/2020/07/60.jpg
-||ajkersylhet.com/images/254d7b47059ac44fbcd408756468353f.jpg
-||ajkersylhet.com/images/27129bea849ba7a8fbcfacb6e586b29b.gif
-||ajkersylhet.com/images/Untitled-1%20copy.jpg65a60e9ab0e37.jpg
 ||ajsamachar.com/wp-content/uploads/2020/04/0de714a2180b24abd2fc67dbbe2fa912.gif
 ||akhonsamoy.com/wp-content/uploads/2020/05/al-ac-1.jpg
 ||akijeralo.com/public/assets/frontend/img/add-img.png
@@ -3494,9 +3490,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||shadhinkantha.com/assets/walton.gif
 ||shaktialmora.com/wp-content/uploads/2020/07/half-size-ad.gif
 ||shaktialmora.com/wp-content/uploads/2021/01/numero-uno-Almora-@RCM.jpeg
-||shamolbangla24.com^*/Ad-ok.jpg
-||shamolbangla24.com^*/Hashem.gif
-||shamolbangla24.com^*/Hostshine-AD.gif
+||shamolbangla24.com/wp-content/uploads/2023/11/final01.gif
 ||shamolynews24.com/wp-content/uploads/2018/12/7262649343556923917.gif
 ||shamolynews24.com/wp-content/uploads/2019/08/01.jpg
 ||shamolynews24.com/wp-content/uploads/2019/08/02.jpg
