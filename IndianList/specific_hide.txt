@@ -872,7 +872,6 @@ ghaziabadparikrama.com###video-widget-2
 news18.com###vigyapan
 malwanews.com###viral_advertisement-11
 malwanews.com###viral_advertisement-7
-banglatribune.com###walton_300x100
 crimesuspence.com###wb_element_instance35
 crimesuspence.com###wb_element_instance48
 moviemandu.com,punjablivekhabarnama.com###wds_container1_0
@@ -1330,6 +1329,7 @@ newsatfirst.com##.aside-add
 bijoybanglabd.com##.asn-bk-txt
 eisamay.com,gujarati.economictimes.com,maharashtratimes.com,samayam.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
+banglatribune.com##.aunqur img
 ourbiratnagar.net##.av_block
 kabirkiawaz.in##.av_slied
 newshubinsight.in##.avt_masterslider_el
@@ -2338,8 +2338,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2360,6 +2360,7 @@ onlynews24.com##.onlyn-after-content
 apnapunjabmedia.com##.order-3 .mt-4
 telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
+banglatribune.com##.overayFeaturedImage
 24x7cg.com,kelopravah.news,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
@@ -3000,6 +3001,7 @@ vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
+banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,rninews.co.in##.topRightAdSec
 samakal.com##.topStickyDesktopDiv
 bankbimaarthonity.com,biniyogbarta.com,doshdik.com##.top_add
