@@ -926,6 +926,7 @@ bahumatrik.com,bvnews24.com,dailyjanakantha.com##.AdvertClass
 dailythanthi.com##.Advt
 punjabiinholland.com,sachikalam.com##.AdvtRight
 sachikalam.com,sehajtimes.com##.AdvtSample
+purbanchal.com##.Al_ads_area
 onp24.com##.BannerAdd2
 jagranjosh.com##.BannerAds
 janashaktinews.com##.CMAC_AdChangerWidget
@@ -2339,8 +2340,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4096,7 +4097,6 @@ khabreelal.com##img[alt="sonu"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 india2daynews.com##img[alt^="Menu"]
-purbanchal.com##img[alt^="Tribune Tower"]
 dailysamvad.com##img[alt^="iTree"]:not([data-lazy-src*="-my-PIC"])
 dailypurbodesh.com##img[class^="sb-ads"]
 pnews.co.in##img[id^="Image"]
