@@ -587,6 +587,7 @@ hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
+emalayalee.com###pravas-channel
 pardafas.com###primary .gam-ad-position-wrap
 himwantpradeshnews.com###primary .widget_media_image
 bhalukanews.com###primary img[alt="ads"]
