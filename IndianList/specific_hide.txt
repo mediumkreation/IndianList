@@ -4036,7 +4036,6 @@ sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 indiareportertoday.com##figure[id^="attachment"]
-filmybuzz.com#?#.container-fluid div:-abp-has(> h2:-abp-contains(Ads))
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 dailyinshort.com##footer > center img
 capitallivenews.com##footer ~ ul.images
