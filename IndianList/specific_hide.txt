@@ -4229,6 +4229,7 @@ khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0
 voiceasian.news##table[width="1000"]:not([cellpadding])
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
+nettamil.com##td:has(> script)
 thannambikkai.org#?#h2:-abp-contains(Advertisement)
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
 thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
