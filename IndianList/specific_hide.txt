@@ -14,7 +14,7 @@ kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
 bhopalsamachar.com,cnblive.com,ekumaon.com,ezhomelive.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
-dailyhealthletters.com,india2daynews.com,liveaaryaavart.com###HTML12
+dailyhealthletters.com,india2daynews.com,liveaaryaavart.com,mathagal.net###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
 india2daynews.com###HTML14
@@ -914,6 +914,7 @@ citynewsexpress.com##.-indx
 dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
 hetaudatoday.com,tukhabar.com##.Ad
 natunsomoy.net##.Ad-Section
+mathagal.net##.Ad-box-jana
 jagranjosh.com##.AdCont
 bahumatrik.com##.AdSection
 chennaicitynews.net##.AdWidget_ImageWidget
@@ -1877,7 +1878,6 @@ firstindianews.com##.for-add
 professorsbd.com##.for_add
 anmolkhabar.com##.four-col > a[href=""] img
 banglanewsca.com##.front-page-ad
-mathagal.net##.ft-advert
 news18.com##.ftrad
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
@@ -2340,8 +2340,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
