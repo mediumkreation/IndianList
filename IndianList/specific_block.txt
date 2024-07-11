@@ -36,7 +36,6 @@
 -banner.jpg|$domain=ntnews.com
 -Banner.jpg|$domain=ottrancheithi.com
 -banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
--Campaign_$image,domain=publictv.in
 -content-add$domain=ujjwalhimachal.com
 -gif.gif|$domain=prabhattimes.com
 -GIF.gif|$domain=rajdhanidaily.com
