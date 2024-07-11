@@ -1234,7 +1234,6 @@ bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
 alokitomymensingh24.com##.adv_single
 tamilthamarai.com##.adv_slider
-publictv.in##.adv_swiper1
 newsnazar.com##.advanced_text
 laatsaab.com##.advbox
 radionrn.com##.adver-half
@@ -1536,6 +1535,7 @@ jjpnews.com##.code-block-8
 chanakyanewz.com##.code-block-center
 newsbindass.com##.code-block:not(.code-block-1)
 navarashtra.com##.code-block:not(.code-block-10)
+publictv.in##.code-block:not(.code-block-14)
 kannadi.news##.code-block:not(.code-block-15)
 delhibulletin.in##.code-block:not(.code-block-2)
 cinereporters.com##.code-block:not(.code-block-3)
@@ -2340,8 +2340,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2449,7 +2449,6 @@ farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
 cgwebnews.in##.pt-4:has(> .carousel)
-publictv.in##.pt-adv
 janayugomonline.com##.pum
 cinemapressclub.com,nepalpostdaily.com##.pum-content
 thedailycampus.com##.purplepatch
