@@ -1201,7 +1201,6 @@ seithy.com##.ads400pxinner
 ctgbarta24.com##.ads728x90-thumb
 inextlive.com,naidunia.com,prothomalo.com##.adsBox
 aapkiaawaznews.com##.adsImg_section
-vtvgujarati.com##.adsSection
 epaper.lokmat.com##.ads_699
 lightnewsbd.com##.ads_bottom_disp
 hindi.business-standard.com##.ads_box_grid
@@ -3000,7 +2999,6 @@ newssewa.com##.top-most-banner
 rosemalayalam.com##.top-news-ad
 googlepokhara.com##.top-news-sidebar-ads
 radiokanchan.com.np##.top-right-ads
-vtvgujarati.com##.top-side-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
@@ -3434,6 +3432,7 @@ vikatan.com##[class*="__ad"]
 safalkhabar.com##[class*="advertisement"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
+vtvgujarati.com##[class="hidden xmd:block"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
 sirfsach.in##[class^="adsbox"]
@@ -3694,6 +3693,7 @@ momainews.com##div:has(> div > span[name="adchoicehtml"])
 indiatimes.com,vijaykarnataka.com##div:has(> div[data-native-ad])
 andhrajyothy.com##div:has(> div[id*="-ad-"])
 bhaskar.com##div:has(> div[id^="Ad--"])
+vtvgujarati.com##div:has(> div[id^="VTV_"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
 janprahar.com##div:has(> ins)
 ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
