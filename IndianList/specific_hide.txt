@@ -2178,7 +2178,7 @@ chopaltv.com##.m-280
 71sangbad.com##.m_none > a[target="_blank"]
 satyadeepsandesh.com##.maan-header-adds
 satyadeepsandesh.com##.maan-news-side-add
-irinjalakudalive.com,sansanisurag.com,shramikmantr.com,themenews24.com##.mag-adver-part
+irinjalakudalive.com,makkalmurasu.com,sansanisurag.com,shramikmantr.com,themenews24.com##.mag-adver-part
 mahasarkar.co.in##.mahas-widget
 odia-ray.in##.main .bannergroup
 chhattisgarhaaj.com##.main--sidebar .widget:has(> div.ad--widget-no)
