@@ -155,7 +155,6 @@ lokmat.com,lokmatnews.in###beforehead
 newscg11.com###below-header
 kusenews.com###belowflash
 kusenews.com###belowmainnews
-tamilcnn.lk###big-banner
 abhiyandaily.com###bigyaapan
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
@@ -602,7 +601,6 @@ berartimes.com###rev_slider_1_1_wrapper
 lokmatnews.in###rhs-middle
 lokmatnews.in###rhs-top
 news18.com###right div:has(> div.nw18-dfp-ad)
-tamilcnn.lk###right-banner
 edainikazadi.net###right-holder
 punjabvarta.com###right-sidebar .elementor-widget-image
 hindisip.com,onelivenews.com###right-sidebar .widget_block
@@ -2294,8 +2292,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2342,8 +2340,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3898,6 +3896,7 @@ lokbharat.com##div[id^="ai_widget"]
 aapkiummid.com##div[id^="articlead"]
 aryavartposts.com##div[id^="aryav-"]
 banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
+tamilcnn.lk##div[id^="banner"]
 bebakuttarakhand.com##div[id^="bebak-"]
 kalamlok.com##div[id^="car-SL_"]
 gvoice24.com##div[id^="center-ads"]
