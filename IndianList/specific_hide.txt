@@ -1563,6 +1563,7 @@ rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
+24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 nepalstatus.com##.comon-ads
 manoramanews.com##.comp-ad
