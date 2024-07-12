@@ -252,7 +252,6 @@ emstv.in###ccr-right-section #sidebar-video-post img
 newindia24.in###center-container [alt="Image"]
 bangalorewaves.com###classlistmain
 bbn24news.com###cm-secondary .widget_block
-telugu.filmibeat.com###cmscontent-article2
 suddi9.com###colorcontentasash3
 swarnimbharatnews.com###commentform img
 kathir.news###common_top_right_1
@@ -2297,8 +2296,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2345,8 +2344,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2474,6 +2473,7 @@ jhilko.com##.rd-ads img:not(.wp-image-2735)
 hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
+filmibeat.com##.removeStyleAd
 anytechtune.com##.reseller-add
 asianetnews.com##.revive-ads-top
 rastriyadaily.com##.rg-advertisement-long-horizontal
@@ -3971,6 +3971,7 @@ shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
 kairalinewsonline.com##div[id^="slideshow"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
+filmibeat.com##div[id^="taboola-"]
 tazakhabar36garh.com##div[id^="tazak-"]
 tharexpressnews.com##div[id^="thare-"]
 thehdnews.in##div[id^="thehd-"]
