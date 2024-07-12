@@ -1492,6 +1492,7 @@ cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com##.bwp_gallery_slideshow
 dhanamonline.com##.c-ad-container
+vellinakshatram.com##.c-sections__container
 himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 lanka4.com##.card.text-center
@@ -2131,6 +2132,7 @@ krantiodishanews.com##.krant-below-title
 joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
 kushinagarlive.com##.kushi-after-content
+vellinakshatram.com##.l-hp-top__off-off-lede
 prakashkhabar.com##.last_ads
 nrimalayalee.com##.latest_news_post_ad
 mewartimes.com##.latest_postnav
