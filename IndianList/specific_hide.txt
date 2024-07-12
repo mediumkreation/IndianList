@@ -3739,6 +3739,7 @@ kamadenu.hindutamil.in,kumudam.com,puthiyathalaimurai.com##div[class*="ad-slot-"
 bartamanpatrika.com##div[class*="adSlot"]
 probashirdiganta.com##div[class*="adbox"]
 livebharatnews.in##div[class*="ads-height-"]
+aajkaaldaily.com##div[class*="ads_"]
 barendraexpress.com.bd##div[class*="ads__"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 newsnationtv.com##div[class*="adsense"]
