@@ -847,7 +847,6 @@ edunews.com.bd###tie-block_855
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
-lastnewsbd.com###top-banner
 thenrinews.com###top-slider2
 gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
@@ -2286,7 +2285,6 @@ gbnews24.com##.myIFrame
 somoynews.tv##.mySlideBox
 newsroomme.com##.mySlides
 indiainside.org##.mySlides2
-lastnewsbd.com##.myadd
 dainikujagarkhabar.in,mathuranews24.com##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
@@ -2726,6 +2724,7 @@ keralanewshunt.com##.st-banner
 mysurumithra.com##.starofmysore
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
+lastnewsbd.com##.sticky > div:nth-child(2)
 cityhotnews.com,janaagaj.in##.sticky-sidebar .widget_block
 hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
@@ -3704,6 +3703,7 @@ ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,marathiworld.com,maxmaharashtra
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 bholanews.com##div:has(> p>img.wp-image-23118)
 zoombangla.com##div:has(> pubguru)
+lastnewsbd.com##div:not(.sticky) > div > .splide[aria-label="My Favorite Data"]
 vinnabarta.com##div:not(.tab-header) ~ .add
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
