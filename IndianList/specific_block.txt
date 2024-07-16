@@ -1001,6 +1001,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||corporatenews.com.bd/templates/corporate-web/images/transcend.jpg
 ||corporatenews.com.bd/templates/corporate-web/images/vention.gif
 ||corporatenews.com.bd/templates/corporate-web/images/walton
+||cosmosgroup.sgp1.cdn.digitaloceanspaces.com/advertise/
 ||cotlasweb.in^$third-party,domain=citypostlive.com
 ||cotlasweb.in^*/web-design.png
 ||coxbangla.com/wp-content/uploads/2020/09/MARS-travel-and-tour-logo.jpg
