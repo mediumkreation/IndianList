@@ -81,7 +81,7 @@
 /advt/*$domain=himdarshan.com
 /Banner-$domain=indias18.com
 /banner-$domain=navakal.in
-/banner/*$domain=arthparkash.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
+/banner/*$domain=arthparkash.com|binodonsarabela.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=baahrakhari.com|capitaldainik.com|godawarinews.com|khelpati.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|nepalsamaya.com|newsgriha.com|ninglashainionline.com|setopati.com|sidhakhabar.com|surakshyanews.com|swasthyakhabar.com
 /bigyaapan^$domain=kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
@@ -717,7 +717,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||bikalpadainik.com/wp-content/uploads/2020/07/Shivanagarjun-ad.jpg
 ||bikanerhulchul.com/wp-content/uploads/2021/01/mr-bika-
 ||bikashnews.com/wp-content/uploads/2022/08/Digital-Fraud-1230X100-px.gif
-||binodonsarabela.com/upload/images/banner/7864default-resort-image.jpg
 ||binodonsarabela.com/upload/images/news/new-york-city-pass-comparison-guide.jpg
 ||bishasangbad.com/wp-content/uploads/2021/05/11761255419551933506-1.jpg
 ||bishasangbad.com/wp-content/uploads/2021/05/5150172069964630920.gif
