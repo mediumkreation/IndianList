@@ -3598,6 +3598,7 @@ bharatiyadigitalnews.in##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
 newsajako.com##a[target="_blank"] img[src*=".gif"]
 janayugomonline.com##a[target="_blank"]:not(.btn) > img
+cinepati.com##a[target="_blank"]:not(a[href*="cinepati"])
 newsajako.com##a[target="_blank"]:only-child img
 humsamvet.com##a[target="_new"]
 srujananedu.com##a[title="Sidebar ad-1"]
