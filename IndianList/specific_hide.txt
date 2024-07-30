@@ -3751,6 +3751,7 @@ sarbochcha.com##div[class*="adver"]:not(.logoadver)
 dailyuttorpurbo.com##div[class*="advert"]
 arthasansar.com,janaboli.com,justnewsbd.com,tulsipurkhabar.com##div[class*="advertisement"]
 banglamail.news##div[class*="banner"]
+kathmandupress.com##div[class*="bigyaapan"]
 aarthiknews.com##div[class*="bigyap"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
