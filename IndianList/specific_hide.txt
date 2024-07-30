@@ -1079,7 +1079,7 @@ teluguone.com##.add-container
 anandalok.in##.add-gap
 dailygazipuronline.com##.add-high
 ekhansangbad.com,sambadsaradin.com##.add-image
-dainikagnipath.com##.add-img
+dainikagnipath.com,sajhadabali.com##.add-img
 dainiknarsingdi.com,diptonews24.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com,teknaf71.com##.add-imgae
 colorsnewslive.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com,womenscorner.com.bd##.add-inner
 dinajpur24.com,vachakam.com##.add-item
@@ -1152,7 +1152,7 @@ jubokantho.com##.adds-block
 gourbarta24.com##.adds-lg
 onlinemajdoor.com##.adds-sec
 gourbarta24.com##.adds-sm
-ashakakiran.com,dhorpatannews.com,eparinews.com,gandakitimes.com,gokarneshworonline.com,pathivaradaily.com,swadeshnepal.com##.adds_menu
+ashakakiran.com,dhorpatannews.com,eparinews.com,gandakitimes.com,gokarneshworonline.com,pathivaradaily.com,sajhadabali.com,swadeshnepal.com##.adds_menu
 newsbhandar.com##.adds_menu img
 gandakitimes.com##.adds_taja img
 ntnews.com##.addsn
@@ -2297,8 +2297,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
