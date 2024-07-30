@@ -2345,8 +2345,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2367,6 +2367,7 @@ onlynews24.com##.onlyn-after-content
 apnapunjabmedia.com##.order-3 .mt-4
 telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
+himalayapost.com##.otw-sidebar .widget_text
 banglatribune.com##.overayFeaturedImage
 24x7cg.com,kelopravah.news,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
@@ -2437,6 +2438,7 @@ hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 mysamachar.in##.post-text section
 firstbihar.com##.post-widget-carouselr
 sharebiz.net##.post-wrap.post .sidebar .widget_text
+himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
 sanghamam.com##.pr-0
