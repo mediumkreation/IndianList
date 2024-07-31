@@ -735,6 +735,7 @@ agrilife24.com###sp-slider-wrapper
 techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
 sylheterdak.com.bd###spcl_advertise_right
+thewall.in###splad
 telugutimes.net###splide24
 himachalabhiabhi.com###sppb-addon-1492748325089
 globenepal.com###square-close .front
@@ -2343,8 +2344,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2974,6 +2975,7 @@ uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 firstbihar.com##.theiaStickySidebar iframe
 somoyerkontha.com##.themesBazar_widget > .textwidget
 thestellarnews.com##.thest-widget
+thewall.in##.thewall-ad-section
 entevarthakal.com##.third_section_ads
 sangalokhabar.com##.three-col-ads
 sangalokhabar.com##.three-col-ads-block
@@ -3737,7 +3739,6 @@ bangla.bdnews24.com##div[class*="_ad-slot__"]
 globalnewsbd24.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newskannada.com##div[class*="_adv_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
-thewall.in##div[class*="_ning"]
 nrimalayalee.com##div[class*="_right_ad"]
 madhyamam.com##div[class*="ad-box"]
 kamadenu.hindutamil.in,kumudam.com,puthiyathalaimurai.com##div[class*="ad-slot-"]
@@ -4234,6 +4235,7 @@ chennaitodaynews.com##section[id^="id"]
 seithipunal.com#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 shikshabhartinetwork.com#?#div:-abp-has(> .box_header:-abp-contains(Advertisements))
 punjabikangaroo.com#?##side .widget:-abp-has(> .heading > span:-abp-contains(Advertisement))
+thewall.in##small[style*="font-size: 11px;color: #979797;display: block;text-align: center;"]
 smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
 soochnanews.in#?#h4.td-block-title:-abp-has(> span:-abp-contains(Advertisement))
 manithan.com##span[id] > iframe[id]:only-child
