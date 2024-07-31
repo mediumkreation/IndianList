@@ -2018,7 +2018,6 @@ sabsach.in##.home-secondary-wrapper .widget_media_image
 tamilcnn.lk,tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
-sylhettoday24.news##.home_add
 news71online.com,shamolynews24.com##.home_last_ad
 barishalnews24.com,bornamelanews24.com,chandpur24.net,coxsbazaralo.com,dainikkishoreganj.com,durnitibarta.com,gnewsbd24.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,theeditors.net##.home_page_ad
 bangladesherkhela.com##.home_page_ad img
@@ -4002,6 +4001,7 @@ pundrokotha.com.bd##div[pid^="10"]
 youth18.com##div[role*="CUSTOM"]
 paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
+sylhettoday24.news##div[style*="float:left; width:100%; "]
 jagonews24.com##div[style*="height:104px;"]
 malayalivartha.com##div[style*="height:1120px; "]
 maagulf.com##div[style*="height:260px"]
