@@ -286,7 +286,6 @@ dankaram.in###customVideo
 biharnewslive.com,khagracharipratidin.com###custom_html-1
 dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
-vichareknayeesoch.com###custom_html-116
 jugerbarta.online,sonprabhat.live,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
@@ -1723,7 +1722,7 @@ khabriyanews.com##.elementor-widget-heading
 joharlive.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,mediasaheb.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,parbattaanchal24.com,polkholonline.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,mediasaheb.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,parbattaanchal24.com,polkholonline.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,humhindustaniusa.com,thinakaran.lk##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 newsdeskkannada.com##.elementor-widget-image .size-large
@@ -2296,8 +2295,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2344,8 +2343,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3180,7 +3179,7 @@ topchand.com##.widget_block:not(#block-9)
 sylnewsbd.com##.widget_box img
 liveindiakhabar.in##.widget_carousel_slider
 bharatkiawaj24.com##.widget_categories:not(.postLatest-list)
-1newsnation.com,aamaadmi.in,aavakaaya.in,anokhateer.com,apnakhata.guide,apnaranglapunjab.com,apnuuttarakhand.com,awazrajasthanki.com,bharatnewschannel.com,cgnama.com,cgtaik.com,cgwall.com,cibindianews.com,ctn24.com,dailysatnadee.com,dainikkhabarlayehain.com,dhorpatannews.com,editorjee.com,gayamahanagar.com,goodnews-in.com,gujjugully.com,hadapsarexpress.com,headlineexpress.in,himalayandiary.com,hinditechy.com,indiavisionmedia.com,journalistonlive.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabardarkhabar.com,khabaristan.com,khabriadda.in,livequicknews.in,livereadernews.com,lokbharat.com,magahinews.com,manthannews.in,mbd24.com,mbmnewsnetwork.com,metroplus.online,missionsandesh.com,mussoorieaajtak.com,news10india.com,news127.com,news1today.in,news24you.com,newsbanglaa.com,newsorbit.com,omexpress.in,pataka24.com,politalks.news,pradeshonlinekhabar.com,priyanews.in,ptcnetwork.ca,purvanchalpost.com,quicklinenews.com,rghnews.com,ritambangla.com,samachaarindia.com,sangbadkonika.com,satyamnews.net,sb24live.com,shaheedokonaman.in,socialsamvad.com,starlivenews.com,swapnilbangladesh.com,swarnimbharatnews.com,sylhetnewstimes.com,tamilnews.com,tamilpadalvarigal.com,tamilthisai.com,thehillsofmussoorie.com,todaysdigitalbreakingnews.in,topchand.com,ujjawalprabhat.com,vishban.com,voice4bihar.com,voiceofpanipat.com,ziotamil.in##.widget_custom_html
+1newsnation.com,aamaadmi.in,aavakaaya.in,anokhateer.com,apnakhata.guide,apnaranglapunjab.com,apnuuttarakhand.com,awazrajasthanki.com,bharatnewschannel.com,cgnama.com,cgtaik.com,cgwall.com,cibindianews.com,ctn24.com,dailysatnadee.com,dainikkhabarlayehain.com,dhorpatannews.com,editorjee.com,gayamahanagar.com,goodnews-in.com,gujjugully.com,hadapsarexpress.com,headlineexpress.in,himalayandiary.com,hinditechy.com,indiavisionmedia.com,journalistonlive.com,kalkudahnation.com,kannadavani.news,khabarbharat36.com,khabarbhumi.com,khabardarkhabar.com,khabaristan.com,khabriadda.in,livequicknews.in,livereadernews.com,lokbharat.com,magahinews.com,manthannews.in,mbd24.com,mbmnewsnetwork.com,metroplus.online,missionsandesh.com,mussoorieaajtak.com,news10india.com,news127.com,news1today.in,news24you.com,newsbanglaa.com,newsorbit.com,omexpress.in,pataka24.com,politalks.news,pradeshonlinekhabar.com,priyanews.in,ptcnetwork.ca,purvanchalpost.com,quicklinenews.com,rghnews.com,ritambangla.com,samachaarindia.com,sangbadkonika.com,satyamnews.net,sb24live.com,shaheedokonaman.in,socialsamvad.com,starlivenews.com,swapnilbangladesh.com,swarnimbharatnews.com,sylhetnewstimes.com,tamilnews.com,tamilpadalvarigal.com,tamilthisai.com,thehillsofmussoorie.com,todaysdigitalbreakingnews.in,topchand.com,ujjawalprabhat.com,vichareknayeesoch.com,vishban.com,voice4bihar.com,voiceofpanipat.com,ziotamil.in##.widget_custom_html
 techvision24.com##.widget_custom_html img
 asrilanka.com,sanmarg.in##.widget_custom_html.panel-first-child
 pagetamil.com##.widget_custom_html:has(> div > ins.adsbygoogle)
