@@ -12,7 +12,7 @@
 -ad.jpg|$domain=cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
+-add-$domain=businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com
 -add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|patheo24.com|pragativahini.com|suprovatsatkhira.com|teluguwishesh.com
@@ -834,7 +834,10 @@ perfection-ias-upsc$domain=nextbihar.com
 ||bundelkhandnews.com/uploads/images/2024/02/image_750x_65d427099cb08.jpg
 ||bundelkhandnews.com/uploads/images/2024/04/image_750x_660a878361b2a.jpg
 ||burdwantoday.com/wp-content/uploads/2020/03/IMG_20200229_062347
+||businesshour24.com/wp-content/uploads/2022/03/jmi.png
+||businesshour24.com/wp-content/uploads/2022/11/saif-powertec-businesshour24.png
 ||businesshour24.com/wp-content/uploads/2023/09/agro-organikas.png
+||businesshour24.com/wp-content/uploads/2024/07/1000014525.jpg
 ||buxaruptodate.com^*/news-ab-
 ||bvnews.in/mynewsadmin/img/add/
 ||byndoor.com/wp-content/uploads/2016/09/RK-graphics
