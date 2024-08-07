@@ -6,7 +6,7 @@
 -Ad-Final-$domain=dmpnews.org
 -ad-new.jpeg|$domain=swatvasamachar.com
 -ad-Side-Bar.png|$domain=buxaruptodate.com
--ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|sharetimes24.com|simpaninews.com|timesofnellore.com
+-ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|sharetimes24.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -Ad.jpg|$domain=barishalcrimenews.com
 -ad.jpg|$domain=cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
@@ -3536,7 +3536,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||shubhoprotidin24.com^*/haramine
 ||silchartoday.com/images/index_01a.jpg$domain=kanchanmoni.com
 ||simpaninews.com/wp-content/uploads/2018/09/gif-forex.gif
-||simpaninews.com^*/ad_$image
+||simpaninews.com/wp-content/uploads/2024/03/AD-For-Simpani.png
 ||sindhudurgsamachar.in/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-08-at-11.43.52-AM.jpeg
 ||sinhala.asianmirror.lk^*/Asian-Mirror-Pay-
 ||siragu.com^*1329677748.jpg$domain=tamilmanam.net
