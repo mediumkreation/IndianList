@@ -390,8 +390,6 @@ sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com###home-ads
 uttareralo24.com###home_page_ad
 apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,radiobihani.org###homeads
-thedailycampus.com###homepageTopLeader_2
-thedailycampus.com###homepageTopLeaderboard_1
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
@@ -2075,6 +2073,7 @@ amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
 amadershomoy.com##.index_ads_two
 pchelpcenterbd.com##.indexadsone
+thedailycampus.com##.info_wrapper
 thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
 janaaastha.com##.inline__bigyapaan
@@ -2297,8 +2296,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2458,7 +2457,6 @@ farwesttimesdaily.com##.promotional__col
 cgwebnews.in##.pt-4:has(> .carousel)
 janayugomonline.com,sanmarg.in##.pum
 cinemapressclub.com,nepalpostdaily.com##.pum-content
-thedailycampus.com##.purplepatch
 purvanchalpost.com##.purva-widget
 indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
@@ -2506,7 +2504,6 @@ gossiplankanews.com##.rimage
 pardafas.com##.roadblock__ad a img
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
-thedailycampus.com##.roni-bhai-special
 amarbarishal24.com##.row + .single_side_bar
 awaaz24x7.com##.row > .mb-3
 southwrap.in##.row-thirty.sidebar
@@ -3692,7 +3689,7 @@ rajkajlive.com##div.td-a-rec
 punjabguardian.com##div.widget_media_image:not(#media_image-12)
 vikatan.com##div:has(> .ad)
 timesnowtamil.com##div:has(> .ad-div)
-kathir.news##div:has(> .adsbygoogle)
+kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
 thuglak.com##div:has(> .adv)
 prothomalo.com##div:has(> .dfp-ad-unit)
 news18.com##div:has(> .myad)
@@ -4015,8 +4012,6 @@ filmykhabar.com##div[style*="margin-top: 6px; height: 145px; "]
 sangbadpratidin.in##div[style*="margin-top:50px; margin-bottom:90px;"]
 mzamin.com##div[style*="min-height"]
 timesnowmarathi.com##div[style*="min-height: 181px;"]
-thedailycampus.com##div[style*="width: 300px"][style*="height: 250px;"]
-thedailycampus.com##div[style*="width:300px"][style*="height:250px;"]
 thahakhabar.com##div[style="background-color: #fff; padding:0px; margin-right:10px;"]
 channel24bd.tv##div[style="height: 250px;"]
 bbarta24.net##div[style="height:78px; width:100%"]
