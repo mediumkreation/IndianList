@@ -1296,7 +1296,7 @@ biharnownews.com##.afw_ad
 agnijwala.com##.agnij-news-bhitra
 ntcnewsmedia.com##.ai-attributes
 aaryaanews.com,news4csc.com##.ai-sticky-widget
-anewsoffice.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,sonardesh24.com,tamilnigar.com,webakhbar.in##.ai_widget
+anewsoffice.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
@@ -1404,6 +1404,7 @@ paathoknews.com##.better-ads-listitemad
 humsamvet.com##.bg-color-gray-fot
 thamilan.lk##.bg-grey-lighter.w-full
 keralaonlive.com##.bg-light.py-5
+sonardesh24.com##.bg-red-400
 timesnowhindi.com,timesnowmarathi.com##.bggrayAd
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
