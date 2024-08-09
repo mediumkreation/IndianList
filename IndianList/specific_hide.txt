@@ -678,7 +678,6 @@ lokhitkipukar.com###sidebar .ws-block-body > a > img
 khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
 veerdharanews.com###sidebar-footer-4
-silkcitynews.com###sidebar-primary aside.widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 veerdharanews.com###sidebar-primary-sidebar .widget:has(div[data-adid]:not([data-type="custom_code"]))
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
@@ -1630,6 +1629,7 @@ banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv,gagana.lk##.d-flex
 protidinerchitrobd.com##.d-flex > div[style*="height: 130px"]
+silkcitynews.com##.d-flex.justify-content-center
 chandpursangbad.com##.d-print-none
 dailyinqilab.com##.d-sm-block.my-3
 mzamin.com##.d-sm-flex
@@ -2020,7 +2020,8 @@ biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
 news71online.com,shamolynews24.com##.home_last_ad
 barishalnews24.com,bornamelanews24.com,chandpur24.net,coxsbazaralo.com,dainikkishoreganj.com,durnitibarta.com,gnewsbd24.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,theeditors.net##.home_page_ad
-bangladesherkhela.com##.home_page_ad img
+bangladesherkhela.com,silkcitynews.com##.home_page_ad img
+silkcitynews.com##.home_page_part_one_right.second
 dainikbangla.com.bd,newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
 bishwabarta.com,dailyoporad.com,news71online.com,shamolynews24.com##.home_widget
@@ -2296,8 +2297,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2344,8 +2345,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2676,6 +2677,7 @@ donnews.com,imandarmedia.com,sancharkendra.com##.skadd
 donnews.com##.skads
 nepalraftar.com##.skip-ads
 news4nation.com##.slide-container
+silkcitynews.com##.slider
 jagratilahar.com##.slider img:not([src*="1595764637"])
 telugutimes.net##.slider-below-ads
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,republicbharatnews24.com,tnnews24.in##.slider-pro
