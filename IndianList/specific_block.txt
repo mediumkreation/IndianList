@@ -41,9 +41,6 @@
 -GIF.gif|$domain=rajdhanidaily.com
 -new.jpg|$domain=prabhattimes.com
 /AD-$domain=ptbnewsbd.com
-/ad-*-300$domain=pahareralo.com
-/ad-*x300$domain=pahareralo.com
-/ad-saint$domain=pahareralo.com
 /ad.jpg|$domain=bbc24news.com
 /Ad.jpg|$domain=newsvob.com
 /ADD-$domain=bslnews24.com|tejastoday.com
@@ -2932,8 +2929,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||pahar24.com^*/zillaparishad_sm.jpg
 ||paharbarta.com^*/ctgpratidin-ad-new2.png
 ||paharbarta.com^*/dhaka-tribune.png
-||pahareralo.com^*/banner-212x300.jpg
-||pahareralo.com^*/banner.jpg
 ||pahilosamachar.com/wp-content/uploads/2020/02/thaha.jpg
 ||pahilosamachar.com/wp-content/uploads/2020/04/radiolive.gif
 ||pahilosamachar.com/wp-content/uploads/2020/04/sms_
