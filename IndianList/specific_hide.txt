@@ -415,6 +415,7 @@ dhanamonline.com,janprahar.com,kathir.news###left_level_2
 dhanamonline.com,filmchilive.com,kathir.news###left_level_3
 mediaoneonline.com###left_level_after_image
 dishadaily.com###left_level_after_paragraph
+bhilwarahalchal.com###level_1_after
 dhanamonline.com###level_5_after_ad_space
 specialcoveragenews.in###level_6_before
 swadeshnews.in###level_bottom_full
@@ -2051,7 +2052,7 @@ ujyaaloonline.com##.iframe-container
 sheikhpuranews.com##.iframely-embed
 iftamil.com##.iftam-content
 visionnewsservice.in##.image-ad
-bharathalchal.com,bhilwarahalchal.com##.image-post-slider
+bharathalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
 10tv.in##.image_Ad
 nayaindia.com##.image_head
@@ -2090,7 +2091,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,setokhari.com##.insert-ad
-dailythanthi.com,jantakiawaz.org,madhyamam.com##.inside-post-ad
+bhilwarahalchal.com,dailythanthi.com,jantakiawaz.org,madhyamam.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
@@ -2345,8 +2346,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
