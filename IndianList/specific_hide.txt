@@ -1820,6 +1820,7 @@ hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
 hpnewsatl.com##.et_pb_post_content img
 hpnewsatl.com##.et_pb_slider
 satyapathnews.com##.etad
+janomot.com##.euro_add
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
 khabarexpert.in##.ewic-slider
@@ -3017,7 +3018,7 @@ newsagencyindia.com##.topHeaderAd
 banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,rninews.co.in##.topRightAdSec
 samakal.com##.topStickyDesktopDiv
-bankbimaarthonity.com,biniyogbarta.com,doshdik.com##.top_add
+bankbimaarthonity.com,biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
 weunetwork.in##.top_ads_2
