@@ -783,7 +783,7 @@ chakarianews.com###text-26
 tnilive.com###text-27
 indianow24.com,kalaroanews.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
-abhibharat.com,agranews.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,livehalchal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,patnanow.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,shomoynews.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
+abhibharat.com,agranews.com,aryandigitalseva.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,livehalchal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,patnanow.com,pnews.co.in,punjabbaani.com,satyakhabarindia.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com,live18h.com,uniquesamay.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
@@ -795,7 +795,7 @@ anaicoddai.com,satyamlive.com,trttamilolli.com,uniquesamay.com###text-36
 anaicoddai.com,satyamlive.com###text-37
 anaicoddai.com,janvadtimes.com,uniquesamay.com###text-38
 himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,devbhoomisamvad.in,ekhabar.in,ghazipurkhabar.co.in,indoremirror.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,kannadigaworld.com,karaihinducanada.com,moviemandu.com,newswatch.co.in,prothomsurjadoy.com,punjabbaani.com,sabjanta.info,shomoynews.com,shreekanchanpath.com,siddhamaruthuvam.in,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,devbhoomisamvad.in,ekhabar.in,ghazipurkhabar.co.in,indoremirror.in,jagonatore24.com,jagprerna.com,jeevanutsahnews.in,kannadigaworld.com,karaihinducanada.com,moviemandu.com,newswatch.co.in,prothomsurjadoy.com,punjabbaani.com,sabjanta.info,shreekanchanpath.com,siddhamaruthuvam.in,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
 navsancharsamachar.com###text-4 marquee
 himalini.com###text-40
 trttamilolli.com###text-42
@@ -3255,7 +3255,7 @@ eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com##.widget_supermag_ad
-ainnews.tv,awazeuttarpradesh.com,deshrupantor.com,gangalahar.com,khulnatimes.com,navrashtramedia.com,ottrancheithi.com,theevakam.com##.widget_text
+ainnews.tv,awazeuttarpradesh.com,deshrupantor.com,gangalahar.com,khulnatimes.com,navrashtramedia.com,ottrancheithi.com,shomoynews.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
