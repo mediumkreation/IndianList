@@ -69,7 +69,7 @@ gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.c
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 adminmedia.in,hamaramahanagar.in,kurunews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
-importmirror.com,nepalmother.com,thattungal.com###Image8
+nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
 36kaakda.in###LinkList2
@@ -109,7 +109,6 @@ mujibnagarkhabor.com###adsentop
 vishvakannada.com###adv
 newsnib.in###advertisement
 torontotamil.com###advertsub2
-importmirror.com###adx
 bansgaonsandesh.com,elettilonline.com###after-ad
 alakhharyana.com,lokpatrika.in,thejharokha.com###ai_widget-2
 timeofrajasthan.com###ai_widget-7
@@ -353,7 +352,6 @@ malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 jagonews24.com###fscorecard
-importmirror.com###full-size-Ad
 dishadaily.com###full_level_1_detail
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
@@ -562,7 +560,6 @@ saaravita.lk###openModal1
 patnalive.co.in###oppopo
 crickethimalaya.com,musickhabar.com###ouibounce-modal
 ratantimes.com###owl-demo1
-importmirror.com###p-vila
 muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
@@ -2301,8 +2298,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2349,8 +2346,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3143,7 +3140,7 @@ e24bollywood.com##.widget-sidebar img
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-ajeybharat.com,biharkhabars.com,emungaru.com,india2daynews.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
+ajeybharat.com,biharkhabars.com,emungaru.com,importmirror.com,india2daynews.com,khulikhabar.com,maavarahinews.com,madawalaenews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
