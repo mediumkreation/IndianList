@@ -2049,7 +2049,7 @@ mediabharti.net##.icici
 thereport24.com##.idlc
 bengali.indianexpress.com,jansatta.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
-ujyaaloonline.com##.iframe-container
+sylheterchakrirkhabar.com,ujyaaloonline.com##.iframe-container
 sheikhpuranews.com##.iframely-embed
 iftamil.com##.iftam-content
 visionnewsservice.in##.image-ad
@@ -2159,6 +2159,8 @@ heralokhabar.com##.list_ads
 news18.com##.listview-story li:has(div[data-implementation])
 news18.com##.listview-story li:has(div[id^="mobileAd"])
 dailyjugantorsangbad.com##.live .embed-responsive
+sylheterchakrirkhabar.com##.live_title
+sylheterchakrirkhabar.com##.live_title + p
 manasmediaonline.com##.livedemo img
 vplnews.com##.ln-advertisement-block
 lankanewsweb.net##.lnw-ad
