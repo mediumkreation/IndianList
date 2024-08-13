@@ -9,7 +9,7 @@
 -ad.gif|$domain=5dariyanews.com|kanakaionline.com|newsplus.lk|newssanjal.com|onetamilnews.com|safalawaj.com|sharetimes24.com|timesofnellore.com
 -ad.jpeg|$domain=newsmindia.com
 -Ad.jpg|$domain=barishalcrimenews.com
--ad.jpg|$domain=cinemapluz.com|didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
+-ad.jpg|$domain=didnews.in|dirt-sheet.com|indiaaajkal.in|kannurmetroonline.com|rashtrachandika.com|saghata-news.com|sharetimes24.com|thebarta24.com|thebdexpress.com|timesbd24.com|unitednewskannada.com
 -ad.png|$domain=dailyghagot.com|onenewsbd.com|snpsports24.com
 -AD_$domain=ptbnewsbd.com
 -add-$domain=businesshour24.com|himaliawaj.com|navakal.in|pragativahini.com|sankalpanews.com|suprovatsatkhira.com
@@ -960,7 +960,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||cinemacompany.in/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-04-at-11.59.13-PM.jpeg
 ||cinemainbox.com/assets/advertisment_image/
 ||cinemanewsagency.com/uploads/advertise_image
-||cinemapluz.com/wp-content/uploads/2024/02/joshua-bg.jpg
+||cinemapluz.com/wp-content/uploads/2024/07/raayan-back-re.jpg
 ||cinesnacks.net/wp-content/uploads/2023/08/a56a930.jpg
 ||citizenlive.news/wp-content/uploads/2022/08/IMG-20220813-WA0182
 ||citizenvoice.in/wp-content/uploads/2023/04/NICA-BANNER_page-0001.png
