@@ -867,7 +867,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||cdn.koshixpress.com/wp-content/uploads/2021/01/IMG-20210101-WA0263
 ||cdn.koshixpress.com/wp-content/uploads/2021/01/IMG-20210103-WA0061
 ||cdn.sarakhonbd.com/contents/cache/images/336x0x0/uploads/media/2020/10/19/cc2f1b9621982345517f1782971662fd-5f8d790a8fa28.png
-||cdn.shortpixel.ai/client/q_glossy,ret_img,w_526/http://ilsheypar.com/wp-content/uploads/2020/04/news-paper
 ||cdnews24.com/wp-content/uploads/2020/02/top-news-adindex-2.jpg
 ||centralindia.news/wp-content/uploads/2023/12/Duragaurd-
 ||centralvoice.in/uploads/images/2023/04/image_750x_643e67cd81995.jpg
@@ -1712,9 +1711,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||idhayammatrimony.com/$domain=thinaboomi.com
 ||igtab.com/links/3.jpg$domain=merabharatnews.com
 ||iimtnews.com^*/ads_
-||ilsheypar.com/wp-content/uploads/2020/04/cyberworldit_advertisement.gif
-||ilsheypar.com/wp-content/uploads/2020/07/Add-Mayor-Faridgong.jpg
-||ilsheypar.com/wp-content/uploads/2020/07/Untitled-2.jpg
 ||images.assettype.com/prothomalo-bangla/2024-01/73f0c478-b0d6-432b-afd8-a356c2e82f41/kothahok.jpg
 ||imageshack.com^$third-party,domain=karaitivunews.com
 ||img.dekhapadhi.de/uploads/bigyaapan/
