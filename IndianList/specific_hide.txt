@@ -862,6 +862,7 @@ ghaziabadparikrama.com###video-widget-2
 news18.com###vigyapan
 malwanews.com###viral_advertisement-11
 malwanews.com###viral_advertisement-7
+kannada.vartamitra.com###vmadspace
 crimesuspence.com###wb_element_instance35
 crimesuspence.com###wb_element_instance48
 moviemandu.com,punjablivekhabarnama.com###wds_container1_0
@@ -2237,6 +2238,7 @@ punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 shasansandesh.in##.mg-headwidget .code-block
 himachalmedia.co##.mg-headwidget .pull-right
 todayindia.com##.mg-nav-widget-area .pull-right
+kannada.vartamitra.com##.mh-header-2
 marathisrushti.com,rojdin.in##.mh-header-widget-2
 janjoshnews.in,uniquesamay.com##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
@@ -2346,8 +2348,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
