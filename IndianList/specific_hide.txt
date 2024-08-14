@@ -220,7 +220,6 @@ anwesantv.wordpress.com###block-52
 lorai24.com###block-59
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
 areseenews.com,athirvu.in,bundelkhandsamachar.com,kundapraa.com,liveindiakhabar.in,newsnagar.in,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
-cgtop36.com###block-71
 thenationtimes.in###block-73
 thenationtimes.in###block-74
 dgnews.co.in###block-76
@@ -1575,6 +1574,7 @@ aajtakmedia.net,jaianndata.com,malayalamnewstimes.com,mycitydilse.com,rni.news,s
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
 koshionline.com##.container-fluid.pt-3
+cgtop36.com##.container-full .stream-item
 dhakapost.com##.container-section.py-3
 vaaramanjari.lk##.container-single-page .elementor-widget-image
 newsworldweb.in##.container.frame
@@ -2298,8 +2298,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
