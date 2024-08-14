@@ -10,7 +10,6 @@ atalsamachar.com###HP_O_LHS_7 > div:nth-child(-n+10)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 odiascraps.info###HP_O_LHS_7 > div:nth-child(-n+5)
 actionnews.in,adrasaka.com,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,newssapata.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
-kasargodvartha.com###HTML1 a[href*="facebook.com/kasargodvartha/"] img
 bhopalsamachar.com,cnblive.com,ekumaon.com,ezhomelive.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
@@ -41,7 +40,6 @@ chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
 dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,newssapata.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
 jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
-kasargodvartha.com###HTML92
 exprestamil.com###HTML94
 99samacharexpress.in,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,nnb.com.bd,pinkcitynews.in,probashbd.news,shaharaman.com,siyanenews.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
@@ -90,7 +88,6 @@ weeklysonarbangla.net###adOrGretings
 anandamela.in###ad_container2
 maxwoman.in###ad_first_middle
 thereport24.com###add-place
-kasargodvartha.com###add-widget
 deshbandhu.co.in###addImage
 editorjee.com###addheaderbanner
 professorsbd.com###addv
@@ -436,7 +433,6 @@ p2pnews.co###main-content > .e3lan-post
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
 punalurnews.blogspot.com###main-top
-kasargodvartha.com###main-widget .widget.HTML
 mbd24.com###main_ad1
 abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
@@ -1178,6 +1174,7 @@ natunsylhet24.com##.ads-bar
 iamgujarat.com##.ads-between-story
 bangladesherkhabor.net##.ads-center-mt
 dhakapost.com,thenepaltoday.com##.ads-container
+kasargodvartha.com##.ads-height-130
 madhyakesari.com##.ads-iframe
 tamilmirror.lk##.ads-rig
 ekattorbanglanews.com##.ads-rightside
@@ -2300,8 +2297,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2992,7 +2989,7 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
-anweshanam.com,keralaonlinenews.com##.top-ad-d
+anweshanam.com,kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bigkhabar.com,dpcnews24.com##.top-add
 thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
