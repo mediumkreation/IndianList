@@ -1716,7 +1716,7 @@ ts29.in##.elementor-video
 aajkiawaaz.com##.elementor-widget-banner-box
 cinemapressclub.com##.elementor-widget-he-advertisement-banner
 khabriyanews.com##.elementor-widget-heading
-joharlive.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
+joharlive.com,kasaragodchannel.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 zoombangla.com##.elementor-widget-html img
 abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,devbhoomimedia.com,filmistreet.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,livelokvani.com,mahendranagarpost.com,mediasaheb.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
@@ -2346,8 +2346,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2389,7 +2389,7 @@ clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,newsallb
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
 dailysatkhira.com,globaltamilnews.net,meherpurnews.com,updatesatkhira.com##.penci-google-adsense-2
-motherlandpost.in##.penci-html-ads
+kasaragodchannel.com,motherlandpost.in##.penci-html-ads
 ekkhabar.online##.penci-infeed_ad
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
