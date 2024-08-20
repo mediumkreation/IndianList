@@ -428,7 +428,6 @@ dildarnagar.com,mithlahindinews.com###main-ads-post
 agrilife24.com###main-body .custom
 lankadawasa.com###main-content + aside > .widget_media_image
 ibn24x7news.com,theexclusivestory.com###main-content .e3lan
-gmnewsbd.com###main-content .textwidget img
 p2pnews.co###main-content > .e3lan-post
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
@@ -2127,6 +2126,7 @@ filmcityworld.com##.kenm
 khabhar24live.co.in##.khaba-single-blog-manual
 khabarpahad.com,khabarworld.com##.khaba-widget
 khabarhub.com##.khabarhub-inner-ads
+gmnewsbd.com##.khandakarit_widget:has(> div > p > ins.adsbygoogle)
 parchhayin.com##.kopa-adv-widget
 timesofadventure.com##.kopa-banner-300
 koyilandydiary.com##.koyil-widget
@@ -2397,7 +2397,6 @@ navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
 startalkbd.com##.penci_single_ad_after_content
 dinamina.lk,thinakaran.lk##.penci_topblock
-gmnewsbd.com##.pf-content > div[style]
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
