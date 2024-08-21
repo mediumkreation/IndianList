@@ -3258,6 +3258,7 @@ satlujbiastimes.com##.widget_sisw_widget
 awaznews24x7.com,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
+starvrutta.com##.widget_sow-slider
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 biharpatrika.in,gujaratmirror.in,jaihindnewspaper.com,leading-news.com##.widget_supermag_ad
