@@ -3868,6 +3868,7 @@ deshdoot.com##div[data-test-id="ad"]
 sandhan24.com##div[data-widget_type*="_ads"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
 reportexclusive.com##div[id$="-ad"]
+beauronews.com##div[id*="-ad-block-"]
 thechopal.com##div[id*="ArticleShow_"] > div:nth-child(-n+10)
 banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
