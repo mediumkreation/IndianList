@@ -2305,8 +2305,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2353,8 +2353,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2443,6 +2443,7 @@ shirurtaluka.com##.post-item-description p img
 ujalahiteshiexpress.com##.post-middle-banner
 chakrikhobor.com##.post-right-side-square-ads-big
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
+ratnagirikhabardar.com##.post-text p img
 mysamachar.in##.post-text section
 firstbihar.com##.post-widget-carouselr
 sharebiz.net##.post-wrap.post .sidebar .widget_text
@@ -2860,7 +2861,7 @@ vavuniyanet.com##.td-post-content > div[style^="clear"]
 biswabanglasangbad.com##.td-post-content > p a:not([href*="biswabanglasangbad"])
 ehapurnews.com##.td-post-content > p>strong:only-child
 morbiupdate.com##.td-post-content a > img
-ehapurnews.com,newsfastweb.com,ratnagirikhabardar.com##.td-post-content figure.wp-block-image
+ehapurnews.com,newsfastweb.com##.td-post-content figure.wp-block-image
 prabhattimes.com##.td-post-content img.size-full
 aurbta.com##.td-spot-id-content_bottom
 aurbta.com,mawbima.lk##.td-spot-id-content_top
