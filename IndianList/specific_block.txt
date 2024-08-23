@@ -190,7 +190,6 @@ _ads.jpg|$domain=uttaranews24.com
 _ads.png|$domain=utkalmailtv.com
 _advt-$domain=eradioindia.com
 _Advt.gif|$domain=kasaragod.com
-_advt_$domain=channelindia.news
 _banner$image,domain=poriborton.com
 _Banner_$domain=deshdoot.com
 _n-300x277.jpg|$domain=barishalcrimenews.com
@@ -883,7 +882,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||changetv.press^*/IBBL-1.jpg
 ||changetv.press^*/manarat-1.jpg
 ||channel6bd.com/wp-content/uploads/119906190_655200908435346_6926769665504843771_n-1$image
-||channelindia.news/wp-content/uploads/2020/04/WhatsApp-Image-2020-04-16-at-1.30.09-PM.jpeg
 ||channelkhulna.tv/wp-content/uploads/2022/09/sn.png
 ||channeltoday.net/wp-content/uploads/2022/03/img-20220324-
 ||channeltoday.net/wp-content/uploads/2022/03/img-20220325-
