@@ -494,8 +494,8 @@ derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 cgtazanews.com,globalnews24x7.com,indianamo.com,khabarchalisa.com,odiannews.com###media_video-2
-chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,meruraibar.com,thesunrisetoday.com###media_video-3
-khabrainabhitak.org,uttarakhandraibar.com###media_video-4
+chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,meruraibar.com,thesingoritimes.com,thesunrisetoday.com###media_video-3
+khabrainabhitak.org,thesingoritimes.com,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
 middleeastchandrika.com###mep_0
@@ -798,7 +798,7 @@ careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 achhikhabar.com,pradeshonlinekhabar.com###text-48
 achhikhabar.com,udaydarpan.com###text-49
-biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,mpcgtoday.com,najarianews.in,navpravah.com,navsancharsamachar.com,news85.in,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,thesingoritimes.com,tnilive.com###text-5
+biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,mpcgtoday.com,najarianews.in,navpravah.com,navsancharsamachar.com,news85.in,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com###text-5
 achhikhabar.com,recentnepal.com,udaydarpan.com###text-50
 lekhaporabd.net,udaydarpan.com###text-51
 anaicoddai.com,oneindia24live.com,recentnepal.com###text-52
