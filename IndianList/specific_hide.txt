@@ -666,7 +666,7 @@ keepinspiringme.in,nationalwartanews.com###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
 awajnews.com,dbnnews.in,kannadavani.news,malayalamexpress.in,meruraibar.com,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
-badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,indias.news,udaipurkiran.in###sidebar .widget_text
+badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,indias.news###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
 khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
@@ -758,7 +758,7 @@ moonramkonam.com###text-124
 bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,newsi.in,padmatimes24.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,news24x365.com,sambadsaradin.com,sanmarg.in,trttamilolli.com,updatetimes.com###text-15
-fatehnagarnews.com,manvadhikartimes.com,meherpurpratidin.com,swadeshbani.com###text-16
+fatehnagarnews.com,manvadhikartimes.com,meherpurpratidin.com,swadeshbani.com,udaipurkiran.in###text-16
 anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,akashgyanvatika.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,newsnowbangla.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
@@ -1686,7 +1686,7 @@ doshdik.com##.duble_advertisement
 janbolnews.com##.e-con:has(> .e-con-inner > .elementor-widget-heading)
 janbolnews.com##.e-con:has(> .e-con-inner > .elementor-widget-html)
 dailynewshindi.com##.e-widget-swiper
-bdjournal365.com,bdlawnews24.com,belagavisuddi.com,ceylonradio.co.uk,chalonbeelbarta.com,cholomanjobab24.com.bd,dainikaamsabha.com,ghazipurkhabar.co.in,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,livesamachar.live,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,pratidinertottho.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,thecgnews.com,thelastpagenews.com,tosnews.com,udaipurkiran.in,weeklyhajiganj.com##.e3lan
+bdjournal365.com,bdlawnews24.com,belagavisuddi.com,ceylonradio.co.uk,chalonbeelbarta.com,cholomanjobab24.com.bd,dainikaamsabha.com,ghazipurkhabar.co.in,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,livesamachar.live,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,pratidinertottho.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,thecgnews.com,thelastpagenews.com,tosnews.com,weeklyhajiganj.com##.e3lan
 livekhagaria.in##.e3lan a img
 alayadivembuweb.lk,sabkinajar.com##.e3lan img
 gvtjob.com,ibn24x7news.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
@@ -2304,8 +2304,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
