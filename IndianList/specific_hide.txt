@@ -1800,7 +1800,6 @@ today24.in##.entry-content img.alignleft
 today24.in##.entry-content img.alignright
 jeewanaadhar.com##.entry-content img.size-full
 newswatch.co.in##.entry-content img:only-child
-bhilaitimes.com##.entry-content img[src*="advt"]
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 thepoliticsagain.com##.entry-content p > img
 newskadaba.com##.entry-content p img
@@ -3296,6 +3295,7 @@ ghaziabad365.com,royalnews13.in##.wp-block-group
 dainikdishari.com,dthreeonline.com,epaperindia.in,ramailochha.com,royalnews13.in##.wp-block-image
 ujyalokhabar.com##.wp-block-image figure
 nainilive.com##.wp-block-image img
+bhilaitimes.com##.wp-block-image img[src*="advt" i]
 abtnews.in##.wp-block-jetpack-slideshow
 theinternalnews.co##.wp-block-jetpack-tiled-gallery
 kafaltree.com##.wp-block-video
