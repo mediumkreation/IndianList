@@ -2090,7 +2090,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,setokhari.com##.insert-ad
-bhilwarahalchal.com,dailythanthi.com,jantakiawaz.org,madhyamam.com##.inside-post-ad
+bhilwarahalchal.com,dailythanthi.com,jantakiawaz.org,madhyamam.com,nayanjagriti.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
@@ -2350,8 +2350,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3790,6 +3790,7 @@ chitrodesh.com##div[class*="stream-item"]
 sabkasandesh.com##div[class*="stream-item-below-post"]
 mediamalayalam.com##div[class*="td-spot-id-content_"]
 manvadhikarabhivyakti.in##div[class*="tdi_140"]
+nayanjagriti.com##div[class*="top_full_width_level_"]:has(> [class^="ad"])
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
 usbangla24.news##div[class*="width-ad"]
