@@ -498,7 +498,8 @@ chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,thes
 khabrainabhitak.org,thesingoritimes.com,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
-middleeastchandrika.com###mep_0
+jokhimnews.com,middleeastchandrika.com###mep_0
+jokhimnews.com###mep_2
 eparinews.com###messagem
 ravivardelhi.com###metaslider-id-135
 idunammaooru.in###metaslider_10258
@@ -2274,7 +2275,7 @@ janatarishtehaar.com##.mom_box_sc
 mymarathi.net##.mom_contet_e3lanat
 uthayannews.ca##.mom_custom_text
 chattogramersomoy.com##.mom_e3lan-empty
-countryinsidenews.com,everesttimes.net,theevakam.com##.momizat-ads
+countryinsidenews.com,everesttimes.net,jokhimnews.com,theevakam.com##.momizat-ads
 bengaluruvartha.in##.ms-parent-id-1
 damaulionline.com##.mt-3
 dailyprovatbela.com##.mt-3 .wp-block-image
@@ -2577,7 +2578,7 @@ thenewsrepair.com##.sidebar .widget.HTML
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 indiannewsroom.com,mbpratidin.com##.sidebar .widget_block
 aajkaaditya.in,bartabangla.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
-aviralsamachar.com,biharnation.in,navamalayali.com,newslive24x7.com,realtimes.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
+aviralsamachar.com,biharnation.in,jokhimnews.com,navamalayali.com,newslive24x7.com,realtimes.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
 newsdesk24.com##.sidebar .widget_media_image:has(> :not(div))
 mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
 crimenazarnews.com,ekhonkhobor.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com,sivantv.com##.sidebar .widget_text
