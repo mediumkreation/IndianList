@@ -2350,8 +2350,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3709,6 +3709,7 @@ samayduniya.com##div:has(> a > div > .pd_title)
 haal.fashion##div:has(> div > .dfp-ad-unit)
 atalhind.com##div:has(> div > p >.adsbygoogle)
 momainews.com##div:has(> div > span[name="adchoicehtml"])
+newscreation.in##div:has(> div[class$="-content"] > [class*="banner"])
 indiatimes.com,vijaykarnataka.com##div:has(> div[data-native-ad])
 andhrajyothy.com##div:has(> div[id*="-ad-"])
 bhaskar.com##div:has(> div[id^="Ad--"])
