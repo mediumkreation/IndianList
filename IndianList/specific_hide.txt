@@ -2229,6 +2229,7 @@ malabarnews.com##.malab-home-page-sidebar-2
 cninews24.com##.map
 anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
+firstverdict.com##.masonry-slide-ad1
 ayushindianews.com,tv20news.in##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 awajnews.com,eveningkerala.com,veerdharanews.com##.master-slider-parent
@@ -2355,8 +2356,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
