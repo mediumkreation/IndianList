@@ -2551,6 +2551,7 @@ newstrack.com##.section_before_trneding
 mymensinghpratidin.com##.section_lead #myCarousel
 ns7.tv##.seithigalad
 gulfmalayaly.com##.sep
+backtobollywood.com##.separator a img
 dholamaru.co.in,dokhinercrime.com##.sg-ad
 raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
@@ -3506,7 +3507,7 @@ houseplan.lk##a[href*="advertising page"] img
 jivanihindi.com##a[href*="affiliraiser.com"]
 apnepal.com##a[href*="alljobvacancies.com"]
 canchannels.com##a[href*="amrutveni.com"] img
-bhaskarenews.com,hindlives.com,vasundhara.net##a[href*="amzn.to"]
+backtobollywood.com,bhaskarenews.com,hindlives.com,vasundhara.net##a[href*="amzn.to"]
 khulasaonline.com##a[href*="angelbroking.com"]
 muslimmedia.info##a[href*="arabic.iirt.info"]
 eelamalar.com##a[href*="aruchuna.com"]
@@ -4262,6 +4263,7 @@ thewall.in##small[style*="font-size: 11px;color: #979797;display: block;text-ali
 smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
 soochnanews.in#?#h4.td-block-title:-abp-has(> span:-abp-contains(Advertisement))
 manithan.com##span[id] > iframe[id]:only-child
+backtobollywood.com##span[style="font-size: 8pt; color: #bdbbbb;"]
 swarnimbharatnews.com##span[style^="color: red;"]
 suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 samaynews24.com##table:has(> tbody > tr > td > a[href*="drkeshavjee.com"])
