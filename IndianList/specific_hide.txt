@@ -2310,8 +2310,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2785,7 +2785,7 @@ banglarjanapad.com##.stream-item:not(#tie-block_309)
 bundelkhandsamachar.com##.stream-item:not(.stream-item-top-wrapper)
 youthmukam.com##.su-image-carousel
 nellaionline.net##.sub_new:not(.sss)
-chhaharinetwork.com##.subhakamana-ad
+chhaharinetwork.com,swornimkhabar.com##.subhakamana-ad
 suddidina.com##.suddi-after-content_13
 suddidina.com##.suddi-content_10
 bharatdarshannews.com##.swiper
