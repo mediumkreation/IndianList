@@ -3858,7 +3858,7 @@ thejoharnews.com##div[class^="thejo-"]
 biratkhabar.com##div[class^="top-sidebar-adv"]
 eurobanglanews24.com##div[class^="topad"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
-ahinsaexpress.in,akashjatra.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dainikpotrika.com,dhenkanalupdate.com,dumanikhabar.in,ganthan.com,hamaratoday.com,journalistcafe.com,kilinochchinet.com,konarklive.com,koshalnews.in,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,onlinemalayali.in,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,sabkuchgyan.com,safalnews.com,suddimane.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
+ahinsaexpress.in,akashjatra.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,crimecapital.in,cumillarpaper.com,dainikjagrotochattogram.com,dainikpotrika.com,dhenkanalupdate.com,dumanikhabar.in,ganthan.com,hamaratoday.com,journalistcafe.com,kilinochchinet.com,konarklive.com,koshalnews.in,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,onlinemalayali.in,paharbarta.com,parichaya.com,pehchanfaridabad.in,peoplespresstrust.com,sabkuchgyan.com,safalnews.com,suddimane.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
 himaliawaj.com,ontimenews.in,sahityapost.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
