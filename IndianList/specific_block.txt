@@ -858,6 +858,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||cdn.koshixpress.com/wp-content/uploads/2020/09/WhatsApp-Image-2020-09-22-at-8.24.02-PM
 ||cdn.koshixpress.com/wp-content/uploads/2021/01/IMG-20210101-WA0263
 ||cdn.koshixpress.com/wp-content/uploads/2021/01/IMG-20210103-WA0061
+||cdn.onesignal.com^$domain=dainikup.com
 ||cdn.sarakhonbd.com/contents/cache/images/336x0x0/uploads/media/2020/10/19/cc2f1b9621982345517f1782971662fd-5f8d790a8fa28.png
 ||cdnews24.com/wp-content/uploads/2020/02/top-news-adindex-2.jpg
 ||centralindia.news/wp-content/uploads/2023/12/Duragaurd-
@@ -964,6 +965,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ck24.tv/ad/
 ||clic2news.com/wp-content/uploads/2021/06/951.jpg
 ||clmbtech.com^$third-party,domain=samayduniya.com
+||cloud.swiftstreamhub.com^$domain=dainikup.com
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
 ||cloudinary.com^*/cement-add3.jpg$domain=firstbihar.com
 ||cnewsbangla.com/wp-content/uploads/2019/09/Gloria-arlour.jpg
