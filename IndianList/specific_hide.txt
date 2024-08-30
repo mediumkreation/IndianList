@@ -311,9 +311,8 @@ angindianews.com,barisaltoday.com,crimemukhbir.com,ekushershokal.com,firsttrackn
 saakshatv.com###custom_html-30
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
-gondwanaexpress.com,saakshatv.com###custom_html-39
+saakshatv.com###custom_html-39
 24timestoday.com,amanyatralive.com,apnahimachalapnishaan.in,hindirush.com,indianletter.com,indokalingtimes.com,karmalamadhanews24.com,khabarwarrior.com,thehimachal.com,tnnews24.in,uttarakhandhindinews.com###custom_html-4
-gondwanaexpress.com###custom_html-40
 jaunpurlivenews.in###custom_html-43
 asrilanka.com,bdcrictime.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,news129.com,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com,theriyuma.com,tnnews24.in,uttranews.com###custom_html-5
 hindi-news-today.com###custom_html-51
@@ -2358,8 +2357,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3120,6 +3119,7 @@ khabarkunj.com##.view-ads
 sadamoga.com##.view-ads-all-blocks
 khaptadonline.com##.view-ads-view
 apnepal.com,dainikprime.com,mirsarainews.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
+gondwanaexpress.com##.vl-site-content .widget_custom_html
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
 muznews.net##.vmagazine-lite-medium-rectangle-ad
 karmalamadhanews24.com,tnilive.com##.vmagazine_lite_medium_ad
