@@ -2290,7 +2290,6 @@ sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 amanpath.in##.mvp-flex-ad
-urjanchaltiger.in##.mvp-post-ad-wrap
 aamsanchar.com,sajhamanch.com##.my-2
 corporatenews.com.bd##.my-3 img
 mzamin.com##.my-5.justify-content-center
@@ -3711,6 +3710,7 @@ vikatan.com##div:has(> .ad)
 timesnowtamil.com##div:has(> .ad-div)
 kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
 thuglak.com##div:has(> .adv)
+urjanchaltiger.in##div:has(> .afw)
 prothomalo.com##div:has(> .dfp-ad-unit)
 news18.com##div:has(> .myad)
 thevoices.in##div:has(> .nbs-flexisel-container)
