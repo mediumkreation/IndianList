@@ -961,6 +961,7 @@ livehindustan.com##.StoryPage_tabooWrp__NKSGA
 news18.com,news18marathi.com##.TABOOLA
 ndtv.in##.TpGnAd_ad-cn
 citynewsexpress.com##.Video-indx
+jagratilahar.com##.WhistleFeedAds
 tamil.oneindia.com##._adr_abp_container
 amarbanglabd.com##._df_custom
 weeklynepal.com##.a-15
@@ -2271,7 +2272,6 @@ unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
 capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
-jagratilahar.com##.modal-body
 janchhaya.in,nepalmamila.com##.modal-content
 annapurnapost.com##.modal__img
 theleader.lk##.module-ct .custom
@@ -2310,8 +2310,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2358,8 +2358,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3112,7 +3112,6 @@ velsmedia.com##.velsm-content
 dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
 indianewscentre.in##.video-container
-jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 thelallantop.com##.videoAdInArticle
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
@@ -4106,9 +4105,12 @@ deshsanchar.com##img.alignnone.size-full
 onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
+jagratilahar.com##img[alt*=" Ad Image"]
 pksnews24.com##img[alt*=" Ad-"]
 bebakshakti.com##img[alt*="AD "i]
 ablivenews.com##img[alt*="Sidebar AD –"]
+jagratilahar.com##img[alt*="banner"]
+jagratilahar.com##img[alt*="business ad"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 shariatpurnews24.com##img[alt="-Advertisement-"]
 onlinemarg.com##img[alt="1205X128"]
