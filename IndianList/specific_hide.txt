@@ -1116,6 +1116,7 @@ janata.news##.addSecound-sidebar
 dainikpurbokone.net##.addVertise
 thedhakacrimenews.com##.add_03
 shobshomoy.com##.add_440
+gambhirmudda.com##.add_720_90_px
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
@@ -2315,7 +2316,7 @@ prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 nayabikalpa.com##.naya-bikalpa-advertisement
-amraikhabor.com,chouranews.com,gambhirmudda.com##.ne-banner-layout1
+amraikhabor.com,chouranews.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
 nepalijanta.com##.nepalijanta-ad
@@ -2754,6 +2755,7 @@ khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
 andhrajyothy.com,channel24bd.tv##.stickyAds
 madhyamam.com##.story-ad1
+gambhirmudda.com##.story-detail-mid-add
 chandaulisamachar.com##.story-wrapper a.disabled
 aajtak.in,swarnimbharatnews.com##.stoybday-ad
 dhadingpost.com##.str3
