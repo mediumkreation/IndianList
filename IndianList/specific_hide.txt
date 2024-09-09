@@ -4277,6 +4277,7 @@ voiceasian.news##table[width="1000"]:not([cellpadding])
 bihardootnews.com##tagdiv
 tamizhakam.com#?#p:-abp-contains(Advertisement)
 nettamil.com##td:has(> script)
+hindustannewsexpress.com##td[height="350"]:has(> marquee)
 thannambikkai.org#?#h2:-abp-contains(Advertisement)
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
 thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
