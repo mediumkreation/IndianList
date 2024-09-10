@@ -1903,7 +1903,7 @@ pchelpcenterbd.com##.fullwidhtads
 unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
 nepalwatch.com##.fullwidth__add
-dcnewsbd.com,hotnewsindia.com##.fullwidthbanner-container
+dcnewsbd.com##.fullwidthbanner-container
 jaijaidinbd.com##.futureads
 samugammedia.com##.fw-bold.text-black
 cinesamugam.com##.fw-bold.text-center
@@ -2359,8 +2359,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2567,9 +2567,7 @@ ekuruvi.com##.side-bar-big-ads
 gournadi24.com##.side-indent .wgs-ads:first-child
 allnewsbharat.com##.sideAdd
 gramnagarbarta.com##.sideAds_bg
-hotnewsindia.com##.sideLeft .custom-html-widget
 news18.com##.sideMiddle
-hotnewsindia.com##.sideRight .custom-html-widget
 news18.com##.sideTop
 postpati.com##.side_adv_part
 hongkar.com##.side_bar .py-1 img
@@ -2597,7 +2595,6 @@ mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
 crimenazarnews.com,ekhonkhobor.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com,sivantv.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 bekhauphindia.com##.sidebar .widget_text:not(#text-10)
-hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
@@ -3390,8 +3387,6 @@ paribahanjagot.com##.wp-image-825
 dnewsnetwork.in##.wp-image-82536
 news4himachal.com##.wp-image-8371
 lokpati.com##.wp-image-84961
-hotnewsindia.com##.wp-image-87280
-hotnewsindia.com##.wp-image-87281
 biharnownews.com,kalpa.news,pradeshnews24x7.com,thirdeyenewslive.com##.wp-video
 bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
@@ -3399,7 +3394,6 @@ arthosuchak.com,atharvnews.com,budaunamarprabhat.com,hakkatha.com,indootimes.com
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,bholanews.com,delhicrimepressnews.com,parichaya.com##.wpb_content_element img
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
-hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
 kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 canchannels.com##.wpb_gallery_slides
@@ -3428,7 +3422,6 @@ wishavwarta.in##.wpb_widgetised_column .wp-block-image
 pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 bdcrictime.com,dailybanglarrup.com,vaartavali.com##.wpb_wrapper .vc_raw_html
 myagdikali.com##.wpb_wrapper .vc_raw_html img
-hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 awazlive.com##.wpb_wrapper .wpb_single_image
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 dailypurbodesh.com##.wpb_wrapper > p:has(> ins.adsbygoogle)
