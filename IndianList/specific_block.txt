@@ -37,9 +37,6 @@
 -Banner.jpg|$domain=ottrancheithi.com
 -banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
 -content-add$domain=ujjwalhimachal.com
--gif.gif|$domain=prabhattimes.com
--GIF.gif|$domain=rajdhanidaily.com
--new.jpg|$domain=prabhattimes.com
 /AD-$domain=ptbnewsbd.com
 /ad.jpg|$domain=bbc24news.com
 /Ad.jpg|$domain=newsvob.com
