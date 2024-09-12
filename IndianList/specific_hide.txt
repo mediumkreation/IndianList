@@ -3566,6 +3566,7 @@ news4himalayans.com##a[href*="narendramodi.in"]
 thebharatlive.com##a[href*="newtraffictail.com"]
 achhisoch.com##a[href*="newzoninfotech.com"] img:only-child
 odhikar.news##a[href*="niet.uk"] img
+ngnews24.net##a[href*="nilport.net"] img
 hindilok.com##a[href*="ojassoft"]
 kvartha.com##a[href*="pace.edu.in"]
 sarakhon.com##a[href*="padmabankbd.com"]
