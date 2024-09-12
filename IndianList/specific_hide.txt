@@ -2473,6 +2473,7 @@ farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
 cgwebnews.in##.pt-4:has(> .carousel)
+neemuchlive.com##.pt_magazine_widget_social marquee
 janayugomonline.com,sanmarg.in##.pum
 cinemapressclub.com,nepalpostdaily.com##.pum-content
 punjabnewslive.co.in##.punja-widget
@@ -4208,6 +4209,7 @@ horizonhind.com##p[class="fontBold"]
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
+neemuchlive.com#?##pt-magazine-carousel-news-2:has(> div > .section-title .widget-title:-abp-contains(Advertisement))
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 rochakkhabare.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 rozanapost.in#?#aside:-abp-has(> h3 > span:-abp-contains(Advt))
