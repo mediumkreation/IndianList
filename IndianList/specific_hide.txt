@@ -2361,8 +2361,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2455,6 +2455,7 @@ hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 ratnagirikhabardar.com##.post-text p img
 mysamachar.in##.post-text section
 firstbihar.com##.post-widget-carouselr
+jharkhandlatestnews.com##.post-wrap img[data-ezsrcset]
 sharebiz.net##.post-wrap.post .sidebar .widget_text
 himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 satkarpost.com##.posts__banner__ads
@@ -3413,7 +3414,7 @@ clearnews.live,rajsattanews.com##.wpb_raw_html
 garavigujarat.biz##.wpb_raw_html:has(.adsbymahimeta)
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
-abcb.news,adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,currentcrime.com,dailygazipuronline.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,doinikbarta.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,kafaltree.com,krushival.in,madhyapradeshdarshan.com,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,newspost.live,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sabrangsamachar.com,sajhaonlinekhabar.com,smsofup.com,suprovatsydney.com.au,tamilscreen.com,todaynp.com,udaipurnews.in,vidivelli.lk,voiceofpanipat.com##.wpb_single_image
+abcb.news,adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,currentcrime.com,dailygazipuronline.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,doinikbarta.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,jharkhandlatestnews.com,kafaltree.com,krushival.in,madhyapradeshdarshan.com,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,newspost.live,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sabrangsamachar.com,sajhaonlinekhabar.com,smsofup.com,suprovatsydney.com.au,tamilscreen.com,todaynp.com,udaipurnews.in,vidivelli.lk,voiceofpanipat.com##.wpb_single_image
 mpnewscast.com##.wpb_single_image .attachment-full
 mpnewscast.com##.wpb_single_image .wpb_heading
 everestdainik.com##.wpb_single_image figure
