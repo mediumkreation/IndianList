@@ -2362,8 +2362,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3009,7 +3009,7 @@ netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
 pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
-janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
+hamdardmediagroup.com,janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
 anweshanam.com,kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
@@ -3334,7 +3334,6 @@ bonggonews.com##.wp-image-13566
 jpworldnews.com##.wp-image-1366
 newsgil.in##.wp-image-15016
 abtnews.in##.wp-image-15989
-hamdardmediagroup.com##.wp-image-173195
 newssunamganj.com##.wp-image-19215
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
