@@ -842,6 +842,7 @@ edunews.com.bd###tie-block_855
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
+bangladeshglobal.com###top div:has(> .flex-c-c)
 thenrinews.com###top-slider2
 gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
@@ -1360,7 +1361,7 @@ bizmandu.com##.banner-bigyapan
 hamrokhelkud.com##.banner-click-action
 musicjoymedia.com##.banner-half
 newsnationtv.com##.banner-head
-aapkaparyas.in,enewsmp.com##.banner-header
+aapkaparyas.in,bangladeshglobal.com,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,janotarbani.com,newsportals.in,onstimes.com,pahareralo.com,tatviknews.com##.banner-img
 lekaalionline.com##.banner-news-section
 24x7breakingpoint.com,aanthaireporter.com,ambikapurcity.com,banglapostbd.com,biharnewstv.in,boundaryline.in,cobranews24.com,filmaniaentertainment.com,focusnews.co.in,frontline24.com,globalhimachaltimes.com,himalini.com,indonepalnews.in,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,newspagebd.com,newswayanad.in,pabilnews.com,prameya.com,primepunjab.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkidastak.com,shaktialmora.com,shreenews.in,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
@@ -2199,6 +2200,7 @@ newsdoor.net##.lrads
 haryanakranti.com,metrojournalonline.com##.m-116
 haryanakranti.com##.m-200
 chopaltv.com##.m-280
+bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
 71sangbad.com##.m_none > a[target="_blank"]
 satyadeepsandesh.com##.maan-header-adds
 satyadeepsandesh.com##.maan-news-side-add
