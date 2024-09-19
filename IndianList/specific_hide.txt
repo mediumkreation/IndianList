@@ -929,7 +929,7 @@ onp24.com##.BannerAdd2
 jagranjosh.com##.BannerAds
 janashaktinews.com##.CMAC_AdChangerWidget
 cvoice24.com,eyenews.news##.DADD
-amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,sylhetexpress.net,usharbani.com,weeklydesh.co.uk##.DAdd
+amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,mohanagarnews.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd .hidden-xs
 sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
@@ -2320,8 +2320,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3470,6 +3470,7 @@ yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
 tv19online.com##[class*="-banner"]
 vikatan.com##[class*="__ad"]
+usharbani.com##[class*="_ads_"]
 dailyolamakantho.com##[class*="ads300_"]
 safalkhabar.com##[class*="advertisement"]
 heronewsonline.com##[class*="boxzilla"]
