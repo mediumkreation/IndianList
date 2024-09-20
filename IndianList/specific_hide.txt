@@ -2320,8 +2320,8 @@ hindi.news18.com##.n18thder
 khabreapki.com##.n2-ss-slider
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2368,8 +2368,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2984,7 +2984,7 @@ bebakmanch.com##.theiaStickySidebar .owl-carousel
 bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com,urjanchaltiger.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
 banglanewslive.co.in##.theiaStickySidebar .widget.HTML:not(#HTML7)
-apnahimachalapnishaan.in,hindustandailynews.com,jansaamna.com,purvanchalnews.com##.theiaStickySidebar .widget_block
+apnahimachalapnishaan.in,hindustandailynews.com,jansaamna.com,jiwanjotsavera.com,purvanchalnews.com##.theiaStickySidebar .widget_block
 bharatnews18.in,bheldailynews.com,bograsangbad.com,khabar36.com,mithilacitynews.in,navsatta.com,parvatanchal.com,samaynewslive.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 aajexpress.com,acpnews24.com,aryasamay.com,awazlive.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,hamarahimachal.com,inn24news.in,jharkhandnews.live,khaskhabar24.com,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,parvatjan.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sabkajammukashmir.com,sarkarimanthan.com,sitakundtimes.com,subanetha.com,sunmision.tv,thejoharnews.com,tosnews.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
@@ -3178,7 +3178,6 @@ vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 jagatprahari.com##.widget_728x90_advertisement
-jiwanjotsavera.com##.widget_ads_big
 ethiri.com##.widget_ads_easy_widget
 bantwalnews.com##.widget_adsforwp_ads_widget
 chautarikhabar.com,hamromat.com,pradeshdainik.com##.widget_advertisement-bar
