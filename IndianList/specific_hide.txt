@@ -2152,6 +2152,7 @@ joynewsbd.com##.ksrm_ads_bnr
 kannurnewsonline.com##.ktmjq
 kushinagarlive.com##.kushi-after-content
 vellinakshatram.com##.l-hp-top__off-off-lede
+jagmarg.com##.large_add_banner
 prakashkhabar.com##.last_ads
 nrimalayalee.com##.latest_news_post_ad
 mewartimes.com##.latest_postnav
@@ -3823,7 +3824,7 @@ uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
 usbangla24.news##div[class*="width-ad"]
 livehindustan.com##div[class^="Ads_"]
-aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,jagmarg.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
+aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
