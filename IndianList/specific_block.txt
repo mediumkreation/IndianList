@@ -59,7 +59,7 @@
 /advertiesment/*$domain=theendnews.com
 /advertiesment_$domain=parthokko.com.bd
 /advertise/*$domain=kapurinews.com
-/advertisement/*$domain=360malayalam.com|agaminews.com
+/advertisement/*$domain=360malayalam.com|agaminews.com|akhonsamoy.com
 /Advertisement/*$domain=aloavanews24.com
 /advertisement/*$domain=amader-protidin.com|chhattisgarhaaj.com|damaulifm.org|digiana.com|mediavision.news|notebazar.com|satghoria.com
 /Advertisement/*$domain=aparajeobangla.com|banglarchokh.com.bd|ekushey-tv.com|nepalipaisa.com|odiaspotnews.in|shankhnaad.in|womeneye24.com
@@ -302,7 +302,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ajkershodesh.com/wp-content/uploads/2024/02/143-1024x840.jpg
 ||ajkersonargaon.com/wp-content/uploads/2020/07/60.jpg
 ||ajsamachar.com/wp-content/uploads/2020/04/0de714a2180b24abd2fc67dbbe2fa912.gif
-||akhonsamoy.com/wp-content/uploads/2020/05/al-ac-1.jpg
 ||akijeralo.com/public/assets/frontend/img/add-img.png
 ||aktnews.com/mynewsadmin/img/add/add1603208498.jpeg
 ||al-ihsan.net/assets/img/250x85-left-col-2.gif
