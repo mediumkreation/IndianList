@@ -1221,7 +1221,6 @@ nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
 shamolbangla24.com##.adsp
-chakrapath.com##.adspace
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
@@ -2373,8 +2372,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3649,7 +3648,6 @@ abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Adve
 dainikjharkhand.com,jaunpur24.com,pressmirchi.com##adnblock
 ammanealing.org#?#.wpb_wrapper:-abp-has(> div > .sc_item_title:-abp-contains(Advertisement))
 angulonline.com#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Sponsored))
-chakrapath.com##app-ad-control-header
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4
@@ -4258,7 +4256,7 @@ thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
-abcnepal.tv,kendrabindu.com,onlinetvnepal.com##section.widget figure
+abcnepal.tv,chakrapath.com,kendrabindu.com,onlinetvnepal.com##section.widget figure
 clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,thecinematimes.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
