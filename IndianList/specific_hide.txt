@@ -974,7 +974,7 @@ amarbanglabd.com##._df_custom
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 abplive.com##.a-ecom-wrap
-gujarattimesusa.com,khabribox.com,londonnepalnews.com,rajdhanidaily.com##.a-single
+gujarattimesusa.com,khabribox.com,londonnepalnews.com##.a-single
 bartabangla.com##.a-widget
 abtakmedia.com,himachalvarta.com,indianewsviral.co.in,jhansidarshan.com,kanakaionline.com,kannadanewsnow.com,khabarbastar.in,livemagadh.com,mahendranagarpost.com,mbmnewsnetwork.com,mpbreakingnews.in,mujibsenanews.com,newsdeskkannada.com,satv.tv,satyaday.com,thenetizennews.com,theriyuma.com##.a-wrap
 tarunbharat.com##.a-wrap:has(div[id^="div-gpt-ad"])
@@ -1934,7 +1934,7 @@ tamil.goodreturns.in##.gd-multi-news ul > div
 24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
-ourbiratnagar.net,rajdhanidaily.com##.gofollow
+ourbiratnagar.net##.gofollow
 natunsomoy.net##.google-ads-banner
 onlinepatrakar.com##.googleAdBlock
 timenews.co.in##.google_ads_section
@@ -2372,8 +2372,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
