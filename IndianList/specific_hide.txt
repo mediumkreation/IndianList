@@ -1432,7 +1432,7 @@ janaaastha.com##.bigyapaan
 barnanmedia.com,merofilm.com##.bigyapaan__section
 janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 annapurnapost.com,canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
-merofilm.com,mynewsnepal.com##.bigyapan-banner
+avenues.tv,merofilm.com,mynewsnepal.com##.bigyapan-banner
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
