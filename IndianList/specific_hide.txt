@@ -1948,6 +1948,7 @@ gujjujankari.in##.gujju-before-content_4
 janpadnewslive.com##.h-full img
 bdbarrta24.com##.h_ads
 sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
+haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
 haribhoomi.com##.hbm-320-50-ad
 alokitobarisal.com,bd24time.com,jamunaprotidin.com,swadeshsangbad.com##.hdr_banner
@@ -2376,8 +2377,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
