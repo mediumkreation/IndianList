@@ -936,7 +936,7 @@ sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
 durjoybangla.com##.DAdd3
 bdprojonmo71.com##.DAdvertisement
-cvoice24.com,womeneye24.com##.DContentAdd
+womeneye24.com##.DContentAdd
 mohanagarnews.com##.DHeaderAdd
 ajkermymensingh.com,dainikthakurgaon.com,kurigrambarta.com##.DHeaderBanner
 dailyjalalabad.com##.DetailsContent .textwidget
@@ -2330,8 +2330,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3779,6 +3779,7 @@ deshabhimani.com,gonews24.com##div[class*="-banner"]
 setopati.com##div[class*="-bigyaapan-"]
 digitalkhobor.com##div[class*="-codes"]
 gandaknews.com##div[class*="-shortcode-"]
+cvoice24.com##div[class*="DContentAdd"]
 news18.com##div[class*="Header_inner_ad"]
 asomiyapratidin.in##div[class*="__adContainer__"]
 bangla.bdnews24.com##div[class*="_ad-slot__"]
