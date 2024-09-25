@@ -2330,8 +2330,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3720,7 +3720,6 @@ nepaltara.com##div a[target="_blank"] img
 abnews24bd.com##div img[src^="ad/"]
 asalbaat.co.in##div.HTML:has(> .widget-content)
 gossiplankanews.com##div.HTML:has(> div ins.adsbygoogle)
-sansarnews.com##div.a
 aajkaaldaily.com##div.col-lg-3:has(> ins.adsbygoogle)
 aajbikel.com##div.colombiaonesuccess div:has(> div > div > a>div > p)
 aajbikel.com##div.colombiaonesuccess div:has(> div > div > a>h2 + h4)
@@ -4270,7 +4269,7 @@ tamiltradepost.com##section.slider-sec
 arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
 abcnepal.tv,chakrapath.com,kendrabindu.com,onlinetvnepal.com##section.widget figure
-clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,sansarnews.com,thecinematimes.com,yohokhabar.com##section.widget img
+clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,thecinematimes.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
