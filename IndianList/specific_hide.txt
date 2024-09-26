@@ -208,7 +208,7 @@ bundelkhandsamachar.com,channelionline.com,checkpostnews.com,lokswar.in,mobilene
 wealthfreedomideas.com###block-30
 aisakya.in,sahmatnews.com###block-31
 aisakya.in,samvaad365.com###block-32
-thenewssense.in,ukpkg.com###block-35
+thenewssense.in###block-35
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
@@ -2378,8 +2378,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3095,7 +3095,7 @@ newsglobalbd.com,polkholonline.com,vorerava24.com##.twp-ad
 speednewskannada.com##.twp-ad-image-section
 mukhyadhara.in,ukpkg.com##.twp-ad-section
 unmadmagazine.com##.twp-adv-header
-mukhyadhara.in##.twp-home-widget-section
+mukhyadhara.in,ukpkg.com##.twp-home-widget-section
 manvimedia.page##.ty-trigger
 dailyjanakantha.com##.ub-anchor-adcontainer
 dailyajkershomoy.com##.uc-sdr-ads
