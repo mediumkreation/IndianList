@@ -21,7 +21,7 @@ balotranewstrack.com,bansgaonsandesh.com,dailyhealthletters.com,taazakhoj.com,ta
 balotranewstrack.com,thattungal.com###HTML16
 abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
 obolokon24.com,spyviewnews.in,tamilarul.net###HTML19
-banglarawaj.com,chilahatiweb.com,kushiyaranews.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
+banglarawaj.com,chilahatiweb.com,importmirror.com,kushiyaranews.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
 backtobollywood.com,gossiplankanews.com###HTML20
 sebahotnews.org###HTML21
@@ -2378,8 +2378,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
