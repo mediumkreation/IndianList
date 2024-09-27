@@ -1373,7 +1373,6 @@ nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
 ekagaj.com##.banner-top:not(.first)
 khabarhub.com##.banner-widget
-rojanapunjab.com##.banner1
 bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 kalyugkatehelka.com,raftaarindianews.com##.bannerListWidget
@@ -1975,6 +1974,7 @@ ajkerbd24.com##.header-baner
 71bdnews.net,anbnews24.com,azranews.in,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,khabardev.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
+rojanapunjab.com##.header-centerbar-ad
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
 digitalbharatnews.in,odishabhaskar.com##.header-inner .sidebar-col
