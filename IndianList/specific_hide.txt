@@ -411,7 +411,7 @@ edainikazadi.net,edainikpurbokone.net###left-top-holder
 specialcoveragenews.in###left_level_0_before_1
 rewariyasat.com###left_level_1
 dhanamonline.com,janprahar.com,kathir.news###left_level_2
-dhanamonline.com,filmchilive.com,kathir.news###left_level_3
+bhilwarahalchal.com,dhanamonline.com,filmchilive.com,kathir.news###left_level_3
 mediaoneonline.com###left_level_after_image
 dishadaily.com###left_level_after_paragraph
 bhilwarahalchal.com###level_1_after
@@ -1041,6 +1041,7 @@ aajkaal.in##.ad__full--length
 dhanamonline.com##.ad_before_level_3
 lifeglint.com##.ad_bottom_lip
 news18.com##.ad_cntainer
+bhilwarahalchal.com##.ad_level_1_before_heading
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 dailyprovatbela.com##.ad_section
@@ -2378,8 +2379,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
