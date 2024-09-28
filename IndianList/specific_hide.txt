@@ -861,7 +861,6 @@ uptak.in###v-uptak-in-0
 weunetwork.in###v-weunetwork-in-0
 primestv.in###vda-4
 marunadanmalayalee.com###vdo_ai_div-0
-mirroruttarakhand.com###video-4-2
 ghaziabadparikrama.com###video-widget-2
 news18.com###vigyapan
 malwanews.com###viral_advertisement-11
@@ -4232,6 +4231,7 @@ pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper
 cnin.co.in,dainikjaltedeep.com##marquee
 arlivenews.com##marquee img
 meranews.com#?#p:-abp-contains(Advertisement)
+mirroruttarakhand.com#?#.widget-sidebar:has(> .widget-header > h3:-abp-contains(ADVT))
 muktirlorai.com#?#.themesBazar_widget:has(> h3:-abp-contains(sonalilife.com))
 munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
