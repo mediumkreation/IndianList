@@ -1645,6 +1645,7 @@ msprotidin.com##.d-block
 dbcnews.tv,gagana.lk##.d-flex
 protidinerchitrobd.com##.d-flex > div[style*="height: 130px"]
 silkcitynews.com##.d-flex.justify-content-center
+dainikpurvoday.com##.d-lg-inline-flex
 chandpursangbad.com##.d-print-none
 dailyinqilab.com##.d-sm-block.my-3
 mzamin.com##.d-sm-flex
@@ -2378,8 +2379,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
