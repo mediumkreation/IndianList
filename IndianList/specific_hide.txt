@@ -1757,7 +1757,7 @@ bansalnews.com,ctr24.com,deshersangbad.com,marathwadaneta.com,snpsports24.com##.
 thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 lakfmnews.lk##.elementor-widget-rt-image
-graminujala.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,newsinbihar.com,onlinebhaskar.com##.elementor-widget-shortcode img
 7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
@@ -1795,7 +1795,7 @@ loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 shottoboyan.com##.entry-content > img
 karmalamadhanews24.com##.entry-content > p > img
-apnashaharnews.com,emaatimes.com,hamarahathras.com,sabkikhabar.net##.entry-content > p img
+apnashaharnews.com,emaatimes.com,sabkikhabar.net##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
@@ -2379,8 +2379,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
