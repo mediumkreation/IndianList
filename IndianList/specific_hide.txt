@@ -732,6 +732,7 @@ thewall.in###splad
 telugutimes.net###splide24
 himachalabhiabhi.com###sppb-addon-1492748325089
 globenepal.com###square-close .front
+saamtv.esakal.com###st_hp_leaderboard_1
 sanskardarshan.in###sticky-wrapper
 chandpurprobaha.com###sticky-wrapper .widget_media_image
 indianopinionnews.com###sticky-wrapper .widget_metaslider_widget
@@ -2331,8 +2332,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2379,8 +2380,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3821,7 +3822,7 @@ jhabuanews.in##div[class*="kitsune-advert"]
 lokshahi.com,navjivanindia.com##div[class*="m__ad"]
 kalkionline.com##div[class*="m__ad-"]
 navjivanindia.com##div[class*="m__dfp"]
-deshdoot.com##div[class*="m_ad-slot"]
+deshdoot.com,saamtv.esakal.com##div[class*="m_ad-slot"]
 makdaiexpress24.com##div[class*="makda-"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
