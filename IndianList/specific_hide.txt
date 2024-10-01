@@ -1270,7 +1270,7 @@ dinajpurnews24.com,news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dailylokaloy.com,dainikdeshseba.com,ekushnews24.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khaptadmalikanews.com,lakshmipur24.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,notunerkotha.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dailylokaloy.com,dainikdeshseba.com,ekushnews24.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khaptadmalikanews.com,lakshmipur24.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,tamilankural.com##.advertisement-area
@@ -1554,6 +1554,7 @@ cinereporters.com,raibaaruttarakhand.com##.code-block:not(.code-block-3)
 magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 deshprahari.com##.code-block:not(.code-block-6)
 bangalianaa.com##.code-widget
+notunerkotha.com##.codedokan_widget img
 bankingkhabar.com##.codeneric_uam_link
 colombotamil.lk,nishpakshjanavlokan.in##.col-bn-ds
 apnapunjabmedia.com##.col-lg-2 > .white-bg
@@ -2334,8 +2335,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2669,7 +2670,7 @@ etvuttarakhand.com##.single-entry > div[style^="float"]
 thenewswords.com##.single-image .carousel
 beanibazarnews24.com##.single-news-widget > img.size-full
 probashbarta.com,sylhetprothidin24.com##.single-page-add2
-bn.bd24report.com,muktirlorai.com,priyochandpur.com##.single-page2-topAdd
+bn.bd24report.com,muktirlorai.com,notunerkotha.com,priyochandpur.com##.single-page2-topAdd
 ktmdainik.com##.single-post aside.widget_media_image
 nepalmamila.com##.single-post-advertisement
 haryananewsonline.com##.single-post-content > p img:only-child
