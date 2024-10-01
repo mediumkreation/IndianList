@@ -2129,6 +2129,8 @@ dainikjharkhand.com##.ixnf
 jaihindtimes.in##.jaihi-before-content
 sankalpsavera.com##.jeg-vc-wrapper iframe
 bharatjan.com,dharananews.com,sanjaygram.com##.jeg_ad
+arlivenews.com##.jeg_content img.error
+arlivenews.com##.jeg_header a[target="_blank"] img
 sorejominbarta.com##.jeg_main .elementor-widget-image
 channelionline.com##.jeg_main .widget_media_image
 techzoom.tv##.jeg_main_content .wpb_widgetised_column
