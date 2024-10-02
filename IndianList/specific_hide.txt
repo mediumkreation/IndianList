@@ -629,7 +629,7 @@ newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,chatganrbani.com,harmudda.com,janakeeyam.in,thelucknowtribune.com,up18news.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
-aajkakanpur.com,aapkanews.com,agnichakr.in,aryavartposts.com,azranews.in,banglasanglap.co.uk,demranews.com,ekhabartoday.com,emediatoday.com,fourthpost.com,gangalahar.com,ghaziabad365.com,ideaciti.com,janpatranews.com,jogiexpress.com,k24news.in,mediapassion.co.in,network10tv.com,newsbindass.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,saunewsnetwork.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,demranews.com,ekhabartoday.com,emediatoday.com,fourthpost.com,gangalahar.com,ghaziabad365.com,ideaciti.com,janpatranews.com,jogiexpress.com,k24news.in,mediapassion.co.in,network10tv.com,newsbindass.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,saunewsnetwork.com,thebiharnow.com,thekhabri.in,thelokniti.com,vedantsamachar.in,vishwanews24.com###secondary .widget_media_image
 kundapraa.com###secondary .widget_media_image:not(#block-3)
 navpradesh.com###secondary .widget_media_image:not(#block-64)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
@@ -1974,7 +1974,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 pahadkasach.in##.header-advertise
 bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
-71bdnews.net,anbnews24.com,azranews.in,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,khabardev.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
+71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,khabardev.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 rojanapunjab.com##.header-centerbar-ad
@@ -2335,8 +2335,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
