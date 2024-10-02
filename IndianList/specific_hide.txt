@@ -877,6 +877,7 @@ pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
 pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
 news4indiatv.com###widget-footer-0
+headline24x7.com###widget-footer-1
 goodmorningnation.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
@@ -3470,7 +3471,6 @@ dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 betulsamachar.com,paharipatrika.in##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
-headline24x7.com##.ws-block img:not([src*="headline24.jpg"])
 shabdsaransh.com##.ws-block img:only-child
 sansanilive.com##.ws-block video
 aajkasamay.com##.ws-block-body > a[href=""]
@@ -4051,6 +4051,7 @@ kairalinewsonline.com##div[id^="slideshow"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
 filmibeat.com##div[id^="taboola-"]
 tazakhabar36garh.com##div[id^="tazak-"]
+headline24x7.com##div[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-2464)
 tharexpressnews.com##div[id^="thare-"]
 thehdnews.in##div[id^="thehd-"]
 themangaloremirror.in##div[id^="thema-"]
