@@ -1401,6 +1401,7 @@ nabaz-e-punjab.com,nalandalive.com##.bdaia-header-e3-desktop
 voiceofdarbhanga.com##.bdaia-post-content figure
 voiceofdarbhanga.com##.bdaia-post-content p img
 nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
+seemanchallive.com##.bdaia-widget:not(#bdaia-widget-e3-4)
 bdsomoy24.com##.bdsom-content
 lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
@@ -2335,8 +2336,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3743,6 +3744,7 @@ timesnowtamil.com##div:has(> .ad-div)
 kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
 thuglak.com##div:has(> .adv)
 urjanchaltiger.in##div:has(> .afw)
+seemanchallive.com##div:has(> .bdaia-e3-container)
 prothomalo.com##div:has(> .dfp-ad-unit)
 news18.com##div:has(> .myad)
 thevoices.in##div:has(> .nbs-flexisel-container)
