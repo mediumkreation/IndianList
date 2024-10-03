@@ -250,6 +250,7 @@ newindia24.in###center-container [alt="Image"]
 bangalorewaves.com###classlistmain
 bbn24news.com###cm-secondary .widget_block
 dandikaanthi.com,khabarindia24x7.com###cm-secondary .widget_custom_html
+rantraibaar.in###cm-secondary .widget_custom_html img:not([src*="BKTC-New-Add.jpg"])
 suddi9.com###colorcontentasash3
 swarnimbharatnews.com###commentform img
 kathir.news###common_top_right_1
@@ -2387,8 +2388,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2840,7 +2841,7 @@ vasundharadeep.news##.td-a-rec img:not([src*="Whatsapp-Strip-scaled-"])
 tarunchhattisgarhkorba.com##.td-a-rec img:not([src*="join"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 boleindia.in##.td-a-rec img[alt="Google search engine"]
-dhunga.in,rantraibaar.in##.td-a-rec video
+dhunga.in##.td-a-rec video
 impact24news.com,shadhinalo.com##.td-a-rec-id-content_bottom
 janjankiawaaz.in##.td-a-rec-id-content_bottom .ml-slider:nth-child(n+6)
 dewanganjnews.com,siwanonline.com,uknews.co.in##.td-a-rec-id-content_inline
