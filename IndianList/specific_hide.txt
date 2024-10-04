@@ -155,7 +155,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 malayaleepathram.com.au###black-studio-tinymce-41
 malayaleepathram.com.au###black-studio-tinymce-67
-londonbdnews24.com,paridarshaka.com,tamizhdb.com,thenewsmirchi.com###block-10
+dainikjaltedeep.com,londonbdnews24.com,paridarshaka.com,tamizhdb.com,thenewsmirchi.com###block-10
 sirsonews24.com###block-100
 kadwaghut.com###block-108
 lalluram.com,magahinews.com,paridarshaka.com###block-11
@@ -3130,7 +3130,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
-bangladeshmail.news,dailyceylon.lk,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com,yespunjab.com##.vc_raw_html
+bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com,yespunjab.com##.vc_raw_html
 bmnews24.net##.vc_raw_html .td-fix-index > div
 ctgnews.com##.vc_raw_html a[target="_blank"]
 postmanindia.in##.vc_raw_html iframe
@@ -4241,7 +4241,7 @@ arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
-cnin.co.in,dainikjaltedeep.com##marquee
+cnin.co.in##marquee
 arlivenews.com##marquee img
 meranews.com#?#p:-abp-contains(Advertisement)
 mirroruttarakhand.com#?#.widget-sidebar:has(> .widget-header > h3:-abp-contains(ADVT))
