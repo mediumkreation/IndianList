@@ -193,7 +193,7 @@ khabarok.com###block-18
 tamizhdb.com,viewpointjharkhand.com###block-19
 bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 sabkasandesh.com###block-20
-ekhabartoday.com,tamizhdb.com###block-21
+ekhabartoday.com,sabsach.in,tamizhdb.com###block-21
 alivenews.co.in,newslab24.in,samvaad365.com###block-22
 peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
@@ -2220,7 +2220,7 @@ bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
 71sangbad.com##.m_none > a[target="_blank"]
 satyadeepsandesh.com##.maan-header-adds
 satyadeepsandesh.com##.maan-news-side-add
-irinjalakudalive.com,makkalmurasu.com,sansanisurag.com,themenews24.com##.mag-adver-part
+irinjalakudalive.com,makkalmurasu.com,sabsach.in,sansanisurag.com,themenews24.com##.mag-adver-part
 mahasarkar.co.in##.mahas-widget
 odia-ray.in##.main .bannergroup
 chhattisgarhaaj.com##.main--sidebar .widget:has(> div.ad--widget-no)
@@ -2387,8 +2387,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
