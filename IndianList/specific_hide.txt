@@ -496,7 +496,7 @@ derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 cgtazanews.com,globalnews24x7.com,indianamo.com,khabarchalisa.com,odiannews.com###media_video-2
-chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,thesingoritimes.com,thesunrisetoday.com###media_video-3
+chaalchalan.com,digitaltrend-news.com,garhwalkavikas.com,jeevanutsahnews.in,mediasaheb.com,thesingoritimes.com,thesunrisetoday.com###media_video-3
 khabrainabhitak.org,thesingoritimes.com,uttarakhandraibar.com###media_video-4
 madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
@@ -1741,7 +1741,7 @@ khabriyanews.com##.elementor-widget-heading
 joharlive.com,kasaragodchannel.com,khagracharipratidin.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,mediasaheb.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,humhindustaniusa.com,thinakaran.lk##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 newsdeskkannada.com##.elementor-widget-image .size-large
