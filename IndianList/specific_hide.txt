@@ -2386,8 +2386,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3487,7 +3487,6 @@ yashbharat.com##.yashb-content
 truenews.lk##.youtube-responsive-container
 probashibangla.tv##.zja
 thesabera.com##.zox-post-ad-wrap
-99news.co#?#div:-abp-has(> div[class*="text-sm"]:-abp-contains(Advert))
 satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
@@ -3753,6 +3752,7 @@ seemanchallive.com##div:has(> .bdaia-e3-container)
 prothomalo.com##div:has(> .dfp-ad-unit)
 news18.com##div:has(> .myad)
 thevoices.in##div:has(> .nbs-flexisel-container)
+99news.co##div:has(> .text-left + [class*="728/90"])
 dainikamadershomoy.com##div:has(> .w3-small)
 prameya.com##div:has(> [class^="advertisement-"])
 samayduniya.com##div:has(> a > div > .pd_title)
@@ -3815,7 +3815,6 @@ newsnationtv.com##div[class*="adsense"]
 sarbochcha.com##div[class*="adver"]:not(.logoadver)
 dailyuttorpurbo.com##div[class*="advert"]
 arthasansar.com,janaboli.com,justnewsbd.com,pokharanews.com,tulsipurkhabar.com##div[class*="advertisement"]
-99news.co##div[class*="aspect-[728"]
 banglamail.news##div[class*="banner"]
 kathmandupress.com##div[class*="bigyaapan"]
 aarthiknews.com##div[class*="bigyap"]
