@@ -500,7 +500,6 @@ madhyabhoomikeboal.com###media_video-5
 democratictvnews.com,udaydinmaan.com###media_video-6
 middleeastchandrika.com###mep_0
 eparinews.com###messagem
-industrialpunch.com###metaslider-id-70314
 idunammaooru.in###metaslider_10258
 moviemandu.com###metaslider_1316
 dailypunjabnews.com###metaslider_16689
@@ -2293,6 +2292,7 @@ valanchery.in##.mkd-sidebar .widget_text
 24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,kundeshwartimes.com,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,tharexpressnews.com##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
+industrialpunch.com##.ml-slider:not(#metaslider-id-53525)
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
@@ -2386,8 +2386,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2915,7 +2915,6 @@ hugujarati.in,khabarbhatapara.in,newsofmithila.in,odiapua.com,sarthaksamay.com,s
 dainikhindmitra.com##.td-ss-main-sidebar .widget_media_gallery
 akkbd.com,brajeshkibaat.com,dainikbharatbhaskar.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
 uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
-industrialpunch.com##.td-ss-main-sidebar .widget_metaslider_widget
 saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
 thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
