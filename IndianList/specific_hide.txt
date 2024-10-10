@@ -2983,6 +2983,7 @@ dainiksylhet.com##.textwidget > p:has(ins.adsbygoogle)
 aashanews.com##.textwidget img
 banglanews24ny.com##.textwidget img:not([src*="banner-"])
 kirandoot.com##.textwidget p img
+lokhitexpress.com##.textwidget strong img
 bdcrime24.com##.textwidget:has(.adsbygoogle)
 dailybahadur.com##.textwidget:has(> p > ins.adsbygoogle)
 ajkerjholok.com##.textwidget:only-child
@@ -3342,7 +3343,7 @@ lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
 chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
-dainikdishari.com,dthreeonline.com,epaperindia.in,ramailochha.com,royalnews13.in##.wp-block-image
+dainikdishari.com,dthreeonline.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in##.wp-block-image
 ujyalokhabar.com##.wp-block-image figure
 nainilive.com##.wp-block-image img
 bhilaitimes.com##.wp-block-image img[src*="advt" i]
@@ -3357,7 +3358,6 @@ newsgil.in##.wp-image-109634
 newssunamganj.com##.wp-image-11042
 kalyugkatehelka.com##.wp-image-1118
 hindustanheadlines.in##.wp-image-11223
-lokhitexpress.com##.wp-image-122343
 nationalthoughts.com##.wp-image-12870
 bebakuttarakhand.com##.wp-image-12972
 onakanthirkantho.com##.wp-image-133
@@ -3391,13 +3391,11 @@ kannadi.news##.wp-image-3732
 satyasandhana.in##.wp-image-38968
 satyasandhana.in##.wp-image-38972
 namastepurvanchal.in##.wp-image-404
-lokhitexpress.com##.wp-image-41683
 paribahanjagot.com##.wp-image-4609
 bhilaitimes.com##.wp-image-51060
 paribahanjagot.com##.wp-image-5343
 paribahanjagot.com##.wp-image-5345
 paribahanjagot.com##.wp-image-5348
-lokhitexpress.com##.wp-image-59042
 reportsindia.in##.wp-image-62537
 reportsindia.in##.wp-image-62663
 news4himachal.com##.wp-image-643
