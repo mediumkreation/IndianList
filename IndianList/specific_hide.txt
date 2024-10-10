@@ -2339,8 +2339,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardarinews.com,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2387,8 +2387,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2849,7 +2849,7 @@ ehapurnews.com,khabarhimachalse.com,thegandhigiri.com##.td-a-rec-id-content_top
 powertvnews.in##.td-a-rec-id-custom-spot
 newsxtra.in##.td-a-rec-id-footer_top
 amaderkhulna.net,awajmedia.com,barnalatoday.com,bbc71.com,bihari.news,canamnews.com,dailybanglarrup.com,dailyrajshahibarta.com,dainikdehat.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,headlinenews.lk,independentkhabar.com,islamtime24.com,magadhnews.co.in,middleeastchandrika.com,munshiganjnews.com,news1today.in,politicsnews24.com,poribortonersopoth.com,sanmarga.com,suprovatuttarbango.com,tajakhabaruttarakhand.com,uknews.co.in##.td-a-rec-id-header
-aadyashanewsman.in,amaderkhulna.net,amadersangbadbd.com,chetona71bdnews.com,ctvnews24.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,timetv.news##.td-a-rec-id-sidebar
+aadyashanewsman.in,amaderkhulna.net,amadersangbadbd.com,chetona71bdnews.com,ctvnews24.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,karnalbreakingnews.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,poribortonersopoth.com,timetv.news##.td-a-rec-id-sidebar
 haryana.indianews.in,indianewsharyana.com,khabromehamarashahar.com,newsoneindia.com,thekanpur.com##.td-a-rec-img
 navdeshtimes.com##.td-a-rec:not(.td-a-rec-id-content_top)
 politics.lk##.td-a-rec:not(.td-a-rec-id-sidebar)
