@@ -944,7 +944,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ck24.tv/ad/
 ||clic2news.com/wp-content/uploads/2021/06/951.jpg
 ||clmbtech.com^$third-party,domain=samayduniya.com
-||cloud.swiftstreamhub.com^$domain=dainikup.com
+||cloud.swiftstreamhub.com^$domain=dainikup.com|up.news
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
 ||cloudinary.com^*/cement-add3.jpg$domain=firstbihar.com
 ||cnewsbangla.com/wp-content/uploads/2019/09/Gloria-arlour.jpg
