@@ -750,6 +750,7 @@ regnews.in###tdi_115
 citymailnews.com###tdi_117
 telugu.regnews.in###tdi_121
 citymailnews.com###tdi_126
+himalayandiscover.com###tdi_156
 srujananedu.com###tdi_191
 crimemukhabir.com###tdi_57
 ajhindidaily.in###tdi_90_f99
@@ -2926,7 +2927,7 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
 lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,digitalmalayali.com,digitalmalayalionline.com,khabargujarat.com,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
+abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in,yespunjab.com##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
