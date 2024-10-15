@@ -1059,7 +1059,7 @@ alokitonarayanganj24.net##.add .widget_area img:not([src*="54342.jpg"])
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
 kolomerbatra.com##.add .widget_area:has(> img)
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
-cninews24.com##.add figure
+cninews24.com,newsallbangladesh.com##.add figure
 digontonews.com##.add figure img
 channeldurjoy.com##.add figure.size-full
 bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiraprotidin.net,satkhiratimes24.com,sherpurtoday.com,shubhoprotidin24.com,unlimitednews24.com,updatebarta24.com##.add img
@@ -2003,7 +2003,7 @@ gangalahar.com##.header-widget
 ausamachar.com##.header-widget-region
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
-dailysobujbarta.com,ekkhabar.online,htvpunjabi.com,indootimes.com.au,lankasudar.com,nationissue.com,newsallbangladesh.com,tamilstar.com##.header__banner
+dailysobujbarta.com,ekkhabar.online,htvpunjabi.com,indootimes.com.au,lankasudar.com,nationissue.com,tamilstar.com##.header__banner
 banglatribune.com,deshrupantor.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
@@ -2391,8 +2391,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2431,7 +2431,7 @@ lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatanchal.com##.parva-before-content
 parvatprerna.com##.parva-widget
 bordernewsmirror.com##.pbwidget.slideshow
-clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,nationissue.com,newsallbangladesh.com,newsmalwa.com##.penci-banner-box
+clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,lankasudar.com,nationissue.com,newsmalwa.com##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
 dailysatkhira.com,globaltamilnews.net,meherpurnews.com,updatesatkhira.com##.penci-google-adsense-2
