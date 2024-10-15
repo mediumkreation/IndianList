@@ -960,6 +960,7 @@ tutyonline.net##.R300100
 bharatsamachartv.in##.RightCont iframe
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
+mahamtb.com##.Special-Embed-Code-2
 kamadenu.hindutamil.in##.Stickyads
 livehindustan.com##.StoryPage_tabooWrp__NKSGA
 news18.com,news18marathi.com##.TABOOLA
@@ -2208,6 +2209,7 @@ bcsuddi.com,envazhi.com,khabarok.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
+mahamtb.com##.logo_image_container a[target="_blank"]
 hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
 aayokhabar.com##.long-ad
