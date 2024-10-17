@@ -39,7 +39,6 @@
 -content-add$domain=ujjwalhimachal.com
 /AD-$domain=ptbnewsbd.com
 /ad.jpg|$domain=bbc24news.com
-/Ad.jpg|$domain=newsvob.com
 /ADD-$domain=bslnews24.com|tejastoday.com
 /add-$domain=navakal.in|solantoday.com|somoynewsbd.com
 /ADD.gif|$domain=paryabekhyak.com
@@ -2640,7 +2639,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||newstrendindia.com/wp-content/uploads/2020/05/toys-world-new
 ||newstruthlive.com/wp-content/uploads/2020/02/19022020bzjztg_compress86.jpg
 ||newstvbihar.in/wp-content/uploads/2020/03/20200312_115715.jpg
-||newsvob.com^*/NIR-Dental-Care-
 ||newswayanad.b-cdn.net^*-ad-
 ||newsxindia.com/Uploads/ad_
 ||newszonebd.com/public/images/ad/
