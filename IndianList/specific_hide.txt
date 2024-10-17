@@ -104,6 +104,7 @@ yuvnews.com###ads_slider
 dainiksandhyaprakash.com###adsense-468
 mujibnagarkhabor.com###adsentop
 vishvakannada.com###adv
+glimeindianews.in###advads_ad_widget-2
 newsnib.in###advertisement
 torontotamil.com###advertsub2
 bansgaonsandesh.com,elettilonline.com###after-ad
@@ -2393,8 +2394,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
