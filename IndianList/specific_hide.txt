@@ -187,10 +187,9 @@ samrudhaodisha.com###block-137
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
 peptechtime.com###block-142
 cinemapressclub.com###block-15
-mediyaan.com,sajhamanch.com,satyamevtv.com,smartindiadial.com,telugumalli.com###block-16
+khabarok.com,mediyaan.com,sajhamanch.com,satyamevtv.com,smartindiadial.com,telugumalli.com###block-16
 ojasvitimes.in,telugumalli.com###block-17
 24hrnews.in###block-178
-khabarok.com###block-18
 tamizhdb.com,viewpointjharkhand.com###block-19
 bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 sabkasandesh.com###block-20
@@ -203,7 +202,7 @@ banglarjanapad.com,govindia.in###block-25
 govindia.in,organizeindia.in###block-26
 knlslive.com,samvaad365.com,shramikmantr.com###block-27
 wealthfreedomideas.com###block-28
-bundelkhandsamachar.com,channelionline.com,checkpostnews.com,lokswar.in,mobilenews24.com,news1hindustan.com,newsnukkad.com,newswayanad.in,pahadkasach.in,sanatanjan.com,tamizhdb.com###block-3
+bundelkhandsamachar.com,channelionline.com,checkpostnews.com,khabarok.com,lokswar.in,mobilenews24.com,news1hindustan.com,newsnukkad.com,newswayanad.in,pahadkasach.in,sanatanjan.com,tamizhdb.com###block-3
 wealthfreedomideas.com###block-30
 aisakya.in,sahmatnews.com###block-31
 aisakya.in,samvaad365.com###block-32
@@ -756,7 +755,7 @@ himalayandiscover.com###tdi_156
 srujananedu.com###tdi_191
 crimemukhabir.com###tdi_57
 ajhindidaily.in###tdi_90_f99
-anbnews24.com,khabarok.com,liveindia.live,munshigonjerkagoj.com,priyobandhu.com,timesoneodia.com###text-1
+anbnews24.com,liveindia.live,munshigonjerkagoj.com,priyobandhu.com,timesoneodia.com###text-1
 amritvarshanews.in,gajabkhabre.com,himachalvarta.com,jagprerna.com,janmanindia.com,joyparajoy.com,medianp.com,moonbreaking.com,newscup.in,tamil.com,theblastkhabar.com###text-10
 anaicoddai.com,arthparkash.com,ctgcrimenews.com,jagprerna.com,muslimkural.com,najarianews.in,newscup.in,onlinesaptari.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
 apnapradesh24x7.com###text-11 iframe
@@ -2208,7 +2207,7 @@ radionrn.com##.logo-adverimg
 dailyuttorpurbo.com##.logo-banner
 sylhetprotidin24.net##.logo-banner .pull-right
 najiknews.com##.logo-right-ad
-bcsuddi.com,envazhi.com,khabarok.com##.logo-right-wrapper
+bcsuddi.com,envazhi.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
@@ -2348,8 +2347,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2396,8 +2395,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
