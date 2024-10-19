@@ -1113,6 +1113,7 @@ cgsandesh.com##.add-top-margin
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 kulalworld.com##.add1
+sristybarta.com##.add:has(> div:only-child)
 khabareast.com##.add:has(> div[id$="advertisement"])
 dainikdishari.com##.add:not(.wp-image-3687)
 dainikparibarton.com##.add:not(:has(> .widget_area > h3))
