@@ -1983,7 +1983,7 @@ chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkal
 pahadkasach.in##.header-advertise
 bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
-71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,khabardev.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
+71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,khabardev.com,mathuranews24.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 rojanapunjab.com##.header-centerbar-ad
@@ -2337,7 +2337,7 @@ gbnews24.com##.myIFrame
 somoynews.tv##.mySlideBox
 newsroomme.com##.mySlides
 indiainside.org##.mySlides2
-dainikujagarkhabar.in,mathuranews24.com##.mzb-advertisement
+dainikujagarkhabar.in##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
@@ -2347,8 +2347,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3752,6 +3752,7 @@ neplays.com##div.ptop--30:has(> .ad--space)
 anweshanam.com##div.rhs > div:nth-child(n+4)
 onstimes.com##div.row:has(> .col-md12 > .margin-top > img.attachment-full)
 rajkajlive.com##div.td-a-rec
+mathuranews24.com##div.text-center:has(> h5 + img)
 vikatan.com##div:has(> .ad)
 timesnowtamil.com##div:has(> .ad-div)
 kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
