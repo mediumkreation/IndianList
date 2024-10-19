@@ -2395,8 +2395,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3517,6 +3517,7 @@ hamromat.com##[class^="sgpb-"]
 attariyaonline.com,setohimalnews.com,telugumuchatlu.com,theutkal.in##[data-adid]
 kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
+positiveindia.net.in##[data-adid]:has(> img)
 sharechat.com##[href*="whistleloop.com"] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
