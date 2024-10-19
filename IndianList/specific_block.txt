@@ -64,7 +64,7 @@
 /advertisement/*$domain=cgwebnews.in|indianewscentre.in|keralaexpress.com|keralasabdam.in|khabarmukam.com|nanaonline.in|newsabhiyan.com|newuthayan.com|sportsmail24.com|srijannews.com|swatantraawaz.com|tatkalnews.com|thannambikkai.org|udghoshdaily.com|yugvartanews.com
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=madhyanhadaily.com|nattuvartha.news
-/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|thahapati.com
+/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|thahapati.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -1703,7 +1703,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||indurkaniralo.com/wp-content/uploads/2021/07/Zieaul-Ahasan-gazi-Eid-Al-Adha.png
 ||industrialpunch.com/wp-content/uploads/2023/11/Website-Marketing-1-1920-x-1080-px-1536x864.webp
 ||industryhit.com/UTLP.jpg
-||infokhabar.com/wp-content/uploads/2020/01/Web-Design.gif
 ||inkhabar.com/wp-content/uploads/2023/08/WhatsApp-Video-2023-08-29-at-10.22.32.mp4
 ||innovativedigitalteam.com/125development/sadeaala/wp-content/uploads/2017/12/newspaper-rec
 ||ipathram.com^*/newyupp_01ea0.jpg
