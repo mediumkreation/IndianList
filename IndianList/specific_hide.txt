@@ -1238,7 +1238,7 @@ allsharebazarnews.com##.adv-topx
 agniban.com##.adv-video
 marathi.hindustantimes.com##.advInBtweenNewsCard
 marathi.hindustantimes.com##.advMasterSlot
-anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com,livebharatnews.in##.advRow-fullW
+anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com,livebharatnews.in,ttncinema.com##.advRow-fullW
 doolnews.com##.adv_box_3x25
 bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
@@ -2392,8 +2392,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
