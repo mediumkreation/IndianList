@@ -875,7 +875,7 @@ headline24x7.com###widget-footer-1
 goodmorningnation.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
-news4indiatv.com,sameera.co.in###widget-sidebar-2
+khabarhekhabar.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,mpkhabar.com###widget-sidebar-3
 khabarpradesh.com###widget-sidebar-4
@@ -2543,7 +2543,6 @@ kungumam.co.in##.right-inner .right-box
 argusnews.in##.right-section-top-2
 sindhuyouth.in##.right-sidebar .widget_block
 adnlive24.com##.right_adbox iframe
-khabarhekhabar.com##.right_adbox img
 unmadmagazine.com##.right_bottom_ad_section
 anandamela.in##.right_box_golpo
 swadeshnews.in##.right_level_1
