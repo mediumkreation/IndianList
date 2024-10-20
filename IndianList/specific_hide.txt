@@ -4064,6 +4064,7 @@ kairalinewsonline.com##div[id^="slideshow"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
 filmibeat.com##div[id^="taboola-"]
 tazakhabar36garh.com##div[id^="tazak-"]
+satyaexpress.com##div[id^="th-sb-ad-block-"]
 headline24x7.com##div[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-2464)
 tharexpressnews.com##div[id^="thare-"]
 thehdnews.in##div[id^="thehd-"]
