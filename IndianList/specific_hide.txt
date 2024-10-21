@@ -1635,7 +1635,7 @@ sylhetview24.news##.custom-ads-row
 kalyugkatehelka.com,roorkeehub.com##.custom-banners-cycle-slideshow
 news4nation.com##.custom-carousel
 khonjkhobor.in##.custom-group-ads
-teluguwirals.com##.custom-header
+teluguwirals.com,vtv24x7.com##.custom-header
 cinemadaddy.com,enavabharat.com,kositimes.com,muktirlorai.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
@@ -2392,8 +2392,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
