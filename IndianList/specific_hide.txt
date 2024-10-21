@@ -1747,7 +1747,7 @@ zoombangla.com##.elementor-widget-html img
 abbiharnews.com,asianprimetime.com,azadsipahi.in,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,humhindustaniusa.com,thinakaran.lk##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
-newsdeskkannada.com##.elementor-widget-image .size-large
+andolana.in,newsdeskkannada.com##.elementor-widget-image .size-large
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
