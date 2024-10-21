@@ -1744,7 +1744,7 @@ khabriyanews.com##.elementor-widget-heading
 joharlive.com,kasaragodchannel.com,khagracharipratidin.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,azadsipahi.in,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,humhindustaniusa.com,thinakaran.lk##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 newsdeskkannada.com##.elementor-widget-image .size-large
@@ -3844,7 +3844,7 @@ deshdoot.com,saamtv.esakal.com,sarkarnama.esakal.com##div[class*="m_ad-slot"]
 makdaiexpress24.com##div[class*="makda-"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
-a2zsamachar.com,aayokhabar.com,angultv.com,arthosuchak.com,ejanakpurtoday.com,ekhonkhobor.com,khabarbit.com,kodanki.in,parichaya.com,rastriyadaily.com,smnewshimachal.in##div[class*="sgpb-"]
+a2zsamachar.com,aayokhabar.com,angultv.com,arthosuchak.com,azadsipahi.in,ejanakpurtoday.com,ekhonkhobor.com,khabarbit.com,kodanki.in,parichaya.com,rastriyadaily.com,smnewshimachal.in##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
