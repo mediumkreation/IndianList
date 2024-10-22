@@ -995,6 +995,7 @@ amritsandesh.com,awamileaguetimes.com,lokaantar.com##.ad-banner
 bizshala.com##.ad-banner-img
 cs24bd.com,primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
+dainikayodhyatimes.in##.ad-close
 dailykaratoa.com,dainikshiksha.com,ichowk.in,news18.com,saralpatrika.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 mediaoneonline.com##.ad-gap-sm
@@ -2393,8 +2394,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3559,6 +3560,7 @@ hindilok.com##a[href*="astrosage.com"]
 pannagam.com##a[href*="baluasiaadd"]
 bartamanbangladesh24.com,tritiyamatra.com##a[href*="bdinfobiz.com/pos-software"]
 chennaivision.com##a[href*="bharatgeneric.com"]
+dainikayodhyatimes.in##a[href*="biqdiq.com"]
 gkprashnuttar.com##a[href*="bit.ly"]
 lankadeepa.lk##a[href*="bit.ly/44036s6"] img
 varthabharati.in##a[href*="bitmangalore.edu.in"]
