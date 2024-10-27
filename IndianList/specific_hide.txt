@@ -2978,7 +2978,6 @@ headlinestripura.in,tedmnews.com##.technology-section-ads
 samakal.com##.text-body-ad
 paristamil.com##.text-center > table[width="98%"]
 sajhasabal.com##.text-center iframe
-womeneye24.com##.text-center.col-lg-12
 jaijaidinbd.com##.text-center.mt-3
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
@@ -4108,6 +4107,7 @@ timesnowmarathi.com##div[style*="min-height: 181px;"]
 thahakhabar.com##div[style="background-color: #fff; padding:0px; margin-right:10px;"]
 nzpunjabinews.com##div[style="font-size: 12px; color: #d0d0d0;"]
 channel24bd.tv##div[style="height: 250px;"]
+womeneye24.com##div[style="height:400px"]
 bbarta24.net##div[style="height:78px; width:100%"]
 telugucalendar.org##div[style="margin-top:-10px; text-align:center;"] span
 kannada.oneindia.com##div[style="min-height: 250px;"]
