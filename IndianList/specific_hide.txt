@@ -1374,6 +1374,7 @@ nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
 ekagaj.com##.banner-top:not(.first)
 khabarhub.com##.banner-widget
+bhnnews.com##.banner-wrap img
 banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 kalyugkatehelka.com,raftaarindianews.com##.bannerListWidget
@@ -3160,6 +3161,7 @@ beautynewsnepal.com##.vce-blank-module:not(#main-box-12)
 velsmedia.com##.velsm-content
 dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
+bhnnews.com##.video-ad
 indianewscentre.in##.video-container
 thelallantop.com##.videoAdInArticle
 a2znewsup.com##.videoaddwraper
