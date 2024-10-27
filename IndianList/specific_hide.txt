@@ -2347,8 +2347,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2729,7 +2729,6 @@ nepalmamila.com##.siteContent > p a img
 rajshahinews24.com##.siteber-add
 dainiknarsingdi.com,savarsangbad.com,teknaf71.com##.siteber-add-section
 dristyprotidin.com##.siteber-add2
-tibrakhabar.com##.siteorigin-widget-tinymce
 donnews.com,imandarmedia.com,sancharkendra.com##.skada
 donnews.com,imandarmedia.com,sancharkendra.com##.skadd
 donnews.com##.skads
@@ -3229,6 +3228,7 @@ dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 newsi.in##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
+tibrakhabar.com##.widget_black-studio-tinymce .aligncenter
 dhadingnews.com##.widget_black_studio_tinymce
 24webnews.com,36garhi.com,a2znewsup.com,aamaadmi.in,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,insightonlinenews.in,keelainews.com,khabareducation.com,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
 ashmitanews.in##.widget_block figure.size-large
@@ -3317,7 +3317,6 @@ freelancerstory.com##.widget_right .textwidget
 khosbasbarta.com##.widget_section .add
 satlujbiastimes.com##.widget_sisw_widget
 awaznews24x7.com,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
-tibrakhabar.com.np##.widget_sow-editor
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 starvrutta.com##.widget_sow-slider
 ausnepalnews.com##.widget_sp_image
