@@ -2594,6 +2594,7 @@ gulfmalayaly.com##.sep
 mybenipatti.in##.separator > a img:not([height])
 backtobollywood.com##.separator a img
 dholamaru.co.in,dokhinercrime.com##.sg-ad
+sangalokhabar.com##.sg-full-width-ads
 raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
 sunbd24.com##.share-ads
@@ -3317,6 +3318,7 @@ diyopost.com##.widget_palika_advertisement
 sambad.in##.widget_pkgrdlaobc
 freelancerstory.com##.widget_right .textwidget
 khosbasbarta.com##.widget_section .add
+sangalokhabar.com##.widget_sg_advertisement_1
 satlujbiastimes.com##.widget_sisw_widget
 awaznews24x7.com,biharharpalnews.com,khabarwarrior.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
