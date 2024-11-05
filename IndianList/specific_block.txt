@@ -1661,7 +1661,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
 ||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
-||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|wowsansar.com
+||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
 ||inayam.com/upload/news/8301239_1642034724-b.jpg
 ||inbcn.in/admin/view/upload/btp.jpg
