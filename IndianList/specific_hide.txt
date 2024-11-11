@@ -1522,7 +1522,6 @@ lokaantar.com##.center-aligned-ad
 chaipanchayat.com##.chaip-after-content_4
 chamaktaaina.com##.chama-before-content
 chamaktaaina.com##.chama-widget
-champawatkhabar.com##.champ-content
 chandrikadaily.qa##.chand-before-content_5
 chandrikadaily.qa##.chand-widget
 chetaktimes.com##.cheta-before-content
@@ -2347,8 +2346,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2395,8 +2394,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3999,6 +3998,7 @@ bebakuttarakhand.com##div[id^="bebak-"]
 kalamlok.com##div[id^="car-SL_"]
 gvoice24.com##div[id^="center-ads"]
 cgujala.in##div[id^="cguja-"]
+champawatkhabar.com##div[id^="champ-"]
 channelionline.com##div[id^="chann-"] img:not([src*="Google-News-Icon-Channel-i-1.jpg"])
 chhattisgarhprimetime.com##div[id^="chhat-"]
 tamil.filmibeat.com##div[id^="cmscontent-article"]
