@@ -2056,6 +2056,7 @@ bangladesherkhela.com,silkcitynews.com##.home_page_ad img
 silkcitynews.com##.home_page_part_one_right.second
 dainikbangla.com.bd,newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
+ekushejournal.com##.home_right_widget .textwidget > p
 bishwabarta.com,dailyoporad.com,news71online.com,shamolynews24.com##.home_widget
 musickhabar.com##.homead-fullwidth
 jeevalokam.com##.homeboxouter
@@ -2346,8 +2347,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3357,7 +3358,7 @@ lotpot.com##.wow
 24hrnews.in##.wp-block-embed-youtube
 chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
-dainikdishari.com,dthreeonline.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in##.wp-block-image
+dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in##.wp-block-image
 ujyalokhabar.com##.wp-block-image figure
 nainilive.com##.wp-block-image img
 bhilaitimes.com##.wp-block-image img[src*="advt" i]
