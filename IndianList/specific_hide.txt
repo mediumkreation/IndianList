@@ -16,7 +16,7 @@ dailyhealthletters.com,india2daynews.com,liveaaryaavart.com,mathagal.net###HTML1
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
 india2daynews.com###HTML14
-balotranewstrack.com,bansgaonsandesh.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
+balotranewstrack.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
 balotranewstrack.com,thattungal.com###HTML16
 abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
 obolokon24.com,spyviewnews.in,tamilarul.net###HTML19
@@ -107,7 +107,7 @@ vishvakannada.com###adv
 glimeindianews.in###advads_ad_widget-2
 newsnib.in###advertisement
 torontotamil.com###advertsub2
-bansgaonsandesh.com,elettilonline.com###after-ad
+elettilonline.com###after-ad
 alakhharyana.com,lokpatrika.in,thejharokha.com###ai_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,punjabijagran.com###aniview
@@ -145,7 +145,6 @@ cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
 nalandalive.com###bdaia-widget-html-5
-bansgaonsandesh.com###before-ad
 lokmat.com,lokmatnews.in###beforehead
 newscg11.com###below-header
 kusenews.com###belowflash
@@ -1736,6 +1735,7 @@ namastenri.net##.elementor-location-single .size-large
 news24bd.net##.elementor-popup-modal
 attingalvartha.com##.elementor-section-items-middle ~ section:nth-child(4)
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
+bansgaonsandesh.com##.elementor-shortcode .metaslider
 delhiuptodate.com,wayanadlivenews.com##.elementor-shortcode img
 perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
@@ -2348,8 +2348,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2649,6 +2649,7 @@ bizmandu.com##.sidebar-advs
 newssanjal.com##.sidebar-banner
 shineupindia.com##.sidebar-box a[ target="_blank"]
 cgsandesh.com##.sidebar-box.bg-aqua
+bansgaonsandesh.com##.sidebar-inner
 khabarchalisa.com##.sidebar-inner .widget_custom_html
 janayugomonline.com##.sidebar-inside .widget_custom_html
 todaysheoharnews.com##.sidebar-nav .mb-2 img
