@@ -2605,6 +2605,7 @@ gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
 gournadi24.com##.side-indent .wgs-ads:first-child
+newsheight.com##.side-widget.newsh-widget
 allnewsbharat.com##.sideAdd
 gramnagarbarta.com##.sideAds_bg
 news18.com##.sideMiddle
