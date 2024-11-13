@@ -2395,8 +2395,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3041,7 +3041,7 @@ lokbharat.in##.theiaStickySidebar aside.widget_text
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 firstbihar.com##.theiaStickySidebar iframe
 somoyerkontha.com##.themesBazar_widget > .textwidget
-banglarchithi.com##.themesBazar_widget img
+banglarchithi.com,hakkatha.com##.themesBazar_widget img
 thestellarnews.com##.thest-widget
 thewall.in##.thewall-ad-section
 entevarthakal.com##.third_section_ads
@@ -3445,7 +3445,7 @@ lokpati.com##.wp-image-84961
 biharnownews.com,kalpa.news,pradeshnews24x7.com##.wp-video
 bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
-arthosuchak.com,atharvnews.com,budaunamarprabhat.com,hakkatha.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,shramjeevijournalist.com,therisingcampus.com,thesadaknama.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
+arthosuchak.com,atharvnews.com,budaunamarprabhat.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,shramjeevijournalist.com,therisingcampus.com,thesadaknama.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,bholanews.com,delhicrimepressnews.com,parichaya.com##.wpb_content_element img
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
