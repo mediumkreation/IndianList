@@ -876,7 +876,7 @@ dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
 khabarhekhabar.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
-atalstambh.com,mpkhabar.com###widget-sidebar-3
+atalstambh.com,hakikatnews.com,mpkhabar.com###widget-sidebar-3
 khabarpradesh.com###widget-sidebar-4
 gujaratvaibhav.com###widget4
 ekattor.tv###widget_623
@@ -2397,8 +2397,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
