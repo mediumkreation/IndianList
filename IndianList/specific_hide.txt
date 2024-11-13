@@ -342,7 +342,6 @@ vtv24x7.com###first-advertisement
 nayapusta.com###flashnews
 houseplan.lk###flexiselDemo1
 nerpatham.com###floating-sidebar .custom
-narmadanchal.com###fn-before-content-sidebar
 shikkharalo24.com###focus_slider
 keralavisiontv.com###foot-ad-wrap
 malwalive.com###footer_section_1 img:not(#Image1_img)
@@ -1883,7 +1882,7 @@ lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
 uthayamnews.com##.fn-block .size-large:not(.wp-image-64792)
 positivebdnews24.com,spnewsbd.com,uthayamnews.com##.fn-header-banner
-narmadanchal.com,usanewsonline.com##.fn-widget-image
+usanewsonline.com##.fn-widget-image
 usanewsonline.com##.fn-widget_media_image
 mymensinghpratidin.com##.font_widget_two
 nijamtoday.com##.foogallery_widget
@@ -2397,8 +2396,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4050,6 +4049,7 @@ malabarinews.com##div[id^="malab-"] > img
 manvadhikartimes.com##div[id^="manva-"]
 nammabantwala.com##div[id^="namma-"]
 nandednewslive.com##div[id^="nande-"]
+narmadanchal.com##div[id^="narma-"]
 navinsamachar.com##div[id^="navin-"]
 nayapage.com##div[id^="nayap-"]
 newsheight.com##div[id^="newsh-"]
