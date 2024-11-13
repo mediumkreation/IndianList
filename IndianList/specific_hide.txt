@@ -936,6 +936,8 @@ bhadas4media.com##.FooterAdArea .wp-block-image
 starkhabre.com##.FrameAdvt1
 banglanewsca.com##.Front-page-Right-Side-Ad
 kanaighatbarta.com##.HTML .widget-content img
+khabreaajtaklive.com##.HTML:has(.slideshow-container)
+khabreaajtaklive.com##.HTML:has([alt="Image"])
 preyopathok.com##.Hero-ads
 preyopathok.com##.Hero-ads-banner
 thinkwithniche.in##.Home-seo-add-sidebar-bigborder
@@ -2347,8 +2349,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3355,7 +3357,7 @@ bangladeshsangbadpratidin.com##.width-ad-wrap
 samridhjharkhand.com##.wiejqhgsp-container
 teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
-khabarhikhabar.com,khabreaajtaklive.com,thenewswall.in##.wonderplugincarousel-container
+khabarhikhabar.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com##.wonderpluginslider
 himachalreport.com,ikvnews.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
