@@ -1748,7 +1748,7 @@ khabriyanews.com##.elementor-widget-heading
 joharlive.com,kasaragodchannel.com,khagracharipratidin.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 zoombangla.com##.elementor-widget-html img
-abbiharnews.com,asianprimetime.com,azadsipahi.in,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
+abbiharnews.com,asianprimetime.com,azadsipahi.in,bisshobarta24.com,cinemadaddy.com,citywatchnews.com,fastnewsnetwork.in,filmistreet.com,globalpunjabtv.com,hamdardtv.com,iftamil.com,indiatimesgroup.com,jalauntimes.com,kannadanewsnow.com,khabarbharat36.com,khabarwithcover.com,knanayapathram.com,koshidarpan.com,livelokvani.com,mahendranagarpost.com,namasteandhra.com,nationone.tv,news1india.in,newscrime24.com,newsganga.com,pahareralo.com,parbattaanchal24.com,polkholonline.com,raibaaruttarakhand.com,realtamilnews.com,sidelook.in,sitakundabarta.com,tarunbharat.com,thurannakathu.com,timetvusa.com,todaypostlive.com,topnewskerala.com,ulipur.com,vichareknayeesoch.com,voiceofmountains.com,zoombangla.com##.elementor-widget-image
 aafnokura.com,humhindustaniusa.com,thinakaran.lk##.elementor-widget-image .size-full
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 andolana.in,newsdeskkannada.com##.elementor-widget-image .size-large
@@ -2397,8 +2397,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
