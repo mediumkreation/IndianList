@@ -1421,6 +1421,7 @@ thamilan.lk##.bg-grey-lighter.w-full
 keralaonlive.com##.bg-light.py-5
 sonardesh24.com##.bg-red-400
 bayanno.com##.bg-striped-diagonal
+sandhyadesh.com##.bg-white.text-center:has(img)
 timesnowhindi.com,timesnowmarathi.com##.bggrayAd
 lalkhabar.com##.bichar
 bidrohee.com##.bidro-content_4
