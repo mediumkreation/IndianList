@@ -3958,6 +3958,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||webreporter.co.in/wp-content/uploads/2020/06/Agrawal-Family_25X16-sq-cm_page-
 ||websquash.com^$third-party,domain=pahaltoday.com
 ||weeklydesh.co.uk/files/uploads/2016/03/3232.jpg
+||weeklyhajiganj.com^*/mode$image
 ||wenepali.com/wp-content/uploads/2020/01/B-Tour.gif
 ||wenepali.com/wp-content/uploads/2020/08/height-mortgage.gif
 ||wenepali.com/wp-content/uploads/2020/08/holycow.gif
