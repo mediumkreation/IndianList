@@ -612,7 +612,6 @@ sanjeevnitoday.com###sanje-slider-30
 pressnote.in###sb-container
 kodanki.in,nayabharat.live###secondary
 prajasattaknews.com###secondary .ai-sticky-widget
-bcsuddi.com###secondary .ai_widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
 brightpost.in,dainikchintak.com,dastavej.in,haikaravali.com,janmat.co.in,kelopravah.news,konnivartha.com,thenewswave.com###secondary .widget_block
@@ -1629,6 +1628,7 @@ gonokantho.com##.countdown_wrapper
 pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 crimecapital.in##.crime-before-content
+bcsuddi.com##.cs-banner
 keralakaumudi.com##.cs-sec-feat-title
 indiapolkhol.in##.ct-header-text
 shasakprashasak.com##.custom img
@@ -2210,7 +2210,7 @@ radionrn.com##.logo-adverimg
 dailyuttorpurbo.com##.logo-banner
 sylhetprotidin24.net##.logo-banner .pull-right
 najiknews.com##.logo-right-ad
-bcsuddi.com,envazhi.com##.logo-right-wrapper
+envazhi.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
