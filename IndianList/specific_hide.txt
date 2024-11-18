@@ -1744,6 +1744,7 @@ attingalvartha.com##.elementor-section-items-middle ~ section:nth-child(4)
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 bansgaonsandesh.com##.elementor-shortcode .metaslider
 delhiuptodate.com,wayanadlivenews.com##.elementor-shortcode img
+krantiprayas.com##.elementor-shortcode:has(> a, [id^="krant"])
 perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
@@ -2400,8 +2401,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
