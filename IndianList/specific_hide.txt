@@ -1932,7 +1932,6 @@ dcnewsbd.com##.fullwidthbanner-container
 jaijaidinbd.com##.futureads
 samugammedia.com##.fw-bold.text-black
 cinesamugam.com##.fw-bold.text-center
-ctgpratidin.com##.fxozitmah
 damaulikhabar.com##.g-dyn
 gramajyothi.com##.ga-1
 cinema.dinamalar.com##.gal-img2
@@ -3614,7 +3613,7 @@ sharebazarnews.com##a[href*="kidarkar.com"]
 malayalees.ch##a[href*="kidoovacations.com"]
 techalonews.com##a[href*="kitchenworldbd.com"]
 keraleeyammasika.com##a[href*="ksfe.com"]
-chattolarkhabor.com,ctgpratidin.com##a[href*="ksrm.com.bd"]
+chattolarkhabor.com##a[href*="ksrm.com.bd"]
 bhalukanews.com##a[href*="mastercafebd"]
 news4himalayans.com##a[href*="narendramodi.in"]
 thebharatlive.com##a[href*="newtraffictail.com"]
