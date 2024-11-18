@@ -2351,8 +2351,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2685,7 +2685,7 @@ dhadingpost.com##.single-content p~figure.wp-block-image
 aayokhabar.com##.single-content ~ p
 channelcox.com##.single-ditails + .add .widget_area
 bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
-odekhabishwo.com##.single-dtls img
+odekhabishwo.com,paribahanjagot.com##.single-dtls img
 etvuttarakhand.com##.single-entry > div[style^="float"]
 thenewswords.com##.single-image .carousel
 beanibazarnews24.com##.single-news-widget > img.size-full
@@ -3417,11 +3417,7 @@ kannadi.news##.wp-image-3732
 satyasandhana.in##.wp-image-38968
 satyasandhana.in##.wp-image-38972
 namastepurvanchal.in##.wp-image-404
-paribahanjagot.com##.wp-image-4609
 bhilaitimes.com##.wp-image-51060
-paribahanjagot.com##.wp-image-5343
-paribahanjagot.com##.wp-image-5345
-paribahanjagot.com##.wp-image-5348
 reportsindia.in##.wp-image-62537
 reportsindia.in##.wp-image-62663
 news4himachal.com##.wp-image-643
@@ -3430,7 +3426,6 @@ dainikkhojkhabar.live##.wp-image-68028
 republicadainik.com##.wp-image-70951
 reportsindia.in##.wp-image-71118
 reportsindia.in##.wp-image-71139
-paribahanjagot.com##.wp-image-735
 reportsindia.in##.wp-image-73550
 reportsindia.in##.wp-image-73634
 reportsindia.in##.wp-image-73651
@@ -3439,14 +3434,10 @@ reportsindia.in##.wp-image-74768
 reportsindia.in##.wp-image-74770
 reportsindia.in##.wp-image-74771
 reportsindia.in##.wp-image-74772
-paribahanjagot.com##.wp-image-752
 reportsindia.in##.wp-image-75230
 dailyajkertalash.com##.wp-image-7688
 newssunamganj.com##.wp-image-77
 dailyoporad.com##.wp-image-783
-paribahanjagot.com##.wp-image-8135
-paribahanjagot.com##.wp-image-822
-paribahanjagot.com##.wp-image-825
 dnewsnetwork.in##.wp-image-82536
 news4himachal.com##.wp-image-8371
 lokpati.com##.wp-image-84961
