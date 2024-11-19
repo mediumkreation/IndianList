@@ -395,7 +395,7 @@ chhapratoday.com###image_gallery_37524
 indiadhuandhar.in###india-slider-227
 jamuna.tv###infostation-0-0
 tamilcinemaz.com###itro_opaco
-filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com,tamilcinetalk.com###itro_popup
+filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
 fastnewsindia.co###jssor_1
 globenepal.com###khb-button-ades
@@ -2356,8 +2356,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2404,8 +2404,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4032,7 +4032,7 @@ sajhaonlinekhabar.com##div[id^="hwp-"]
 vedantbhoomi.com##div[id^="image_"]
 hmtvlive.com,specialcoveragenews.in##div[id^="inside_post_content_ad_"]
 sathyamonline.com##div[id^="inven-"]
-aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
+aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilcinetalk.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
 aanthaireporter.in,tamil2daynews.com,tamilankural.com##div[id^="itro_popup"]
 jagatbhumi.com##div[id^="jagat-"]
 jangathatimes.com##div[id^="janga-"]
