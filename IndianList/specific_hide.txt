@@ -554,7 +554,7 @@ outlookhindi.com###olh-rhs1
 tamilmirror.lk###openModal0
 saaravita.lk###openModal1
 patnalive.co.in###oppopo
-agnijwala.com,crickethimalaya.com,musickhabar.com###ouibounce-modal
+agnijwala.com,crickethimalaya.com###ouibounce-modal
 ratantimes.com###owl-demo1
 muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
@@ -1079,6 +1079,7 @@ newsatfirst.com##.add-banner
 voiceofnewjersey.com##.add-bar
 khobor24ghonta.com##.add-bg-02
 aajkasach.in##.add-block
+musickhabar.com##.add-bottom-margin
 vishvasnews.com##.add-box
 aajtak.in##.add-center-div
 teluguone.com##.add-container
