@@ -2073,6 +2073,7 @@ bishwabarta.com,dailyoporad.com,news71online.com,shamolynews24.com##.home_widget
 musickhabar.com##.homead-fullwidth
 jeevalokam.com##.homeboxouter
 saharanpurweb.in##.homemainads
+lokmat.com##.homepage-taboola
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 desimartini.com##.horizontal_ad_wrap
@@ -2405,8 +2406,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4033,6 +4034,7 @@ himachalplus.com,himachalreport.com##div[id^="himac-"]
 himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 vedantbhoomi.com##div[id^="image_"]
+lokmat.com##div[id^="inlist"]
 hmtvlive.com,specialcoveragenews.in##div[id^="inside_post_content_ad_"]
 sathyamonline.com##div[id^="inven-"]
 aanthaireporter.com,cinemapluz.com,newcinemaexpress.com,tamilcinetalk.com,tamilveedhi.com,vtv24x7.com##div[id^="itro_"]
@@ -4174,7 +4176,6 @@ apnades.in##h2[id*="sponsor"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 ikvnews.com##header + div .elementor-shortcode img
 khabor.com##header a[href*="/click-"]
-lokmat.com##homepage-taboola
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
 horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
