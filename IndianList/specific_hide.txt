@@ -40,7 +40,7 @@ gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###H
 chapainawabganjnews.com,livebihar24news.com,vyganews.com###HTML7
 dailyhealthletters.com,gramsamachar.com,jaldhakanews.com,khantinews.blogspot.com,newssapata.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
-jaldhakanews.com,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
+jaldhakanews.com,kalviseithi.net,sahibganjnews.com,top99breakingnews.blogspot.com###HTML9
 exprestamil.com###HTML94
 99samacharexpress.in,coverageindia.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,gzpnews.com,hamaramahanagar.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,nnb.com.bd,pinkcitynews.in,probashbd.news,shaharaman.com,siyanenews.com,thattungal.com,thetodaytimes.in,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
@@ -2407,8 +2407,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
