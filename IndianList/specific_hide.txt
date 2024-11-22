@@ -1604,7 +1604,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,jaianndata.com,malayalamnewstimes.com,mycitydilse.com,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,jaianndata.com,kumudam.com,malayalamnewstimes.com,mycitydilse.com,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
@@ -2362,8 +2362,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3840,7 +3840,7 @@ newskannada.com##div[class*="_adv_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
 madhyamam.com##div[class*="ad-box"]
-kamadenu.hindutamil.in,kumudam.com,puthiyathalaimurai.com##div[class*="ad-slot-"]
+kamadenu.hindutamil.in,puthiyathalaimurai.com##div[class*="ad-slot-"]
 bartamanpatrika.com##div[class*="adSlot"]
 padmatimes24.com##div[class*="ad_"]
 probashirdiganta.com##div[class*="adbox"]
