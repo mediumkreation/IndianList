@@ -2136,7 +2136,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,setokhari.com##.insert-ad
-bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,jantakiawaz.org,madhyamam.com,maxmaharashtra.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com##.inside-post-ad
+bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
@@ -2261,6 +2261,7 @@ cgnewsonline.com##.main-sidebar .widget_block
 bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 deshdigital.in##.main-wrap div[class^="rozu"]
+maalaimalar.com##.main-wrapper:not(.news-details-page) div:has(> div > [id^="div-gpt-ad-"])
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 hindustanvision.com##.main_header .ws_images
 fastnewsbd.com##.mainadvert
@@ -2407,8 +2408,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2432,6 +2433,7 @@ apnapunjabmedia.com##.order-3 .mt-4
 telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
 himalayapost.com##.otw-sidebar .widget_text
+maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 banglatribune.com##.overayFeaturedImage
 24x7cg.com,kelopravah.news,nawidunia.com,timesandspace.com##.owl-carousel
 newuthayan.com##.p-3.text-center
