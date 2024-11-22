@@ -2097,6 +2097,7 @@ bengali.indianexpress.com,jansatta.com##.ie-network-taboola
 sylheterchakrirkhabar.com,ujyaaloonline.com##.iframe-container
 sheikhpuranews.com##.iframely-embed
 iftamil.com##.iftam-content
+dailythanthi.com##.image-and-caption-wrapper
 bharathalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
 10tv.in##.image_Ad
