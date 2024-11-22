@@ -1345,6 +1345,7 @@ moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
 ashmitanews.in##.ashmi-ad
 newsatfirst.com##.aside-add
+kalkionline.com##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
 eisamay.com,gujarati.economictimes.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
