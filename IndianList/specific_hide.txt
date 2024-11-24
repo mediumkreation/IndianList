@@ -1259,6 +1259,7 @@ yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
 ada.lk,manithan.com,shyamalsylhet.net,tamilan24.com##.advert
 ada.lk##.advert-single
+inkhabar.com##.advertSection
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
@@ -2554,6 +2555,7 @@ anytechtune.com##.reseller-add
 asianetnews.com##.revive-ads-top
 rastriyadaily.com##.rg-advertisement-long-horizontal
 rastriyadaily.com##.rg-side-adv
+inkhabar.com##.rgtSideAdert_main
 manoranjannama.com##.rhs-cont
 gujaratimidday.com##.rhsTopBannerParentAd
 bonikbarta.net##.rib__wrapper
