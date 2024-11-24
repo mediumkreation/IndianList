@@ -4053,3 +4053,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||zoftcdn.com^*/citysun.jpg
 ||zoftcdn.com^*/vesta.jpg
 ||zoombangla.com/jamuna/
+@@||telugutimes.net/storage/advertisements/vg7v90LFfQohYcbLLcTma9lnsjX09k7Oy2YQunki.jpg
+/advertisements/*$domain=telugutimes.net
+||bitraads.com^$third-party,domain=telugutimes.net

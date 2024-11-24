@@ -723,7 +723,6 @@ techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
 sylheterdak.com.bd###spcl_advertise_right
 thewall.in###splad
-telugutimes.net###splide24
 himachalabhiabhi.com###sppb-addon-1492748325089
 globenepal.com###square-close .front
 saamtv.esakal.com###st_hp_leaderboard_1
@@ -2760,7 +2759,6 @@ nepalraftar.com##.skip-ads
 news4nation.com##.slide-container
 silkcitynews.com##.slider
 jagratilahar.com##.slider img:not([src*="1595764637"])
-telugutimes.net##.slider-below-ads
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
 houseplan.lk,samajkihalchal.com##.slider2
@@ -4214,7 +4212,6 @@ dcnewsbd.com##img[alt="Advertisement"]
 aruna.lk##img[alt="Arpico"]
 biyanitimes.com##img[alt="Gurukpo plus app"]
 onlinemarg.com##img[alt="Header Ad"]
-telugutimes.net##img[alt="MKOne"]
 talashbangla.com##img[alt="Page Add"]
 trttamilolli.com##img[alt="SAT"]
 enews71.com##img[alt="Side banner"]
