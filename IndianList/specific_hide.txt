@@ -1246,7 +1246,7 @@ allsharebazarnews.com##.adv-topx
 agniban.com##.adv-video
 marathi.hindustantimes.com##.advInBtweenNewsCard
 marathi.hindustantimes.com##.advMasterSlot
-anweshanam.com,cityandolan.com,devpath.in,keralaonlinenews.com,livebharatnews.in,ttncinema.com##.advRow-fullW
+cityandolan.com,devpath.in,keralaonlinenews.com,livebharatnews.in,ttncinema.com##.advRow-fullW
 doolnews.com##.adv_box_3x25
 bbsrreporters.com##.adv_image
 weeklynepal.com##.adv_side
@@ -1587,10 +1587,10 @@ dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 surmanews24.com##.col-sm-4 .hidden-xs
 uttarakhandpost.com##.colombiaRequestSend
-anugrahavision.com,anweshanam.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com,timeskerala.com##.colombiaadcode
+anugrahavision.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com,timeskerala.com##.colombiaadcode
 rewanewsmedia.com##.colombiaadcode img
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,anweshanam.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,dainikhawk.com,globalbharatnews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
@@ -1904,7 +1904,6 @@ usanewsonline.com##.fn-widget_media_image
 mymensinghpratidin.com##.font_widget_two
 nijamtoday.com##.foogallery_widget
 kathmandutoday.com##.foot_ad
-anweshanam.com##.footer-ad-img
 firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 rkexpose.com##.footer-adv
@@ -2363,8 +2362,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3080,7 +3079,7 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 hamdardmediagroup.com,janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
-anweshanam.com,kasargodvartha.com,keralaonlinenews.com##.top-ad-d
+kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
 thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
@@ -3462,7 +3461,7 @@ lokpati.com##.wp-image-84961
 biharnownews.com,kalpa.news,pradeshnews24x7.com##.wp-video
 bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
-arthosuchak.com,atharvnews.com,budaunamarprabhat.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,shramjeevijournalist.com,therisingcampus.com,thesadaknama.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
+anweshanam.com,arthosuchak.com,atharvnews.com,budaunamarprabhat.com,indootimes.com.au,nayanepalnews.com,sajagindia.com,shramjeevijournalist.com,therisingcampus.com,thesadaknama.com,vidarbhaapla.com,wayanadvision.in##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,bholanews.com,delhicrimepressnews.com,parichaya.com##.wpb_content_element img
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
@@ -3776,7 +3775,6 @@ newsdainik.com##div.g
 khaskhabar.com##div.mrgR5[style*="height:250px;"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 neplays.com##div.ptop--30:has(> .ad--space)
-anweshanam.com##div.rhs > div:nth-child(n+4)
 onstimes.com##div.row:has(> .col-md12 > .margin-top > img.attachment-full)
 rajkajlive.com##div.td-a-rec
 mathuranews24.com##div.text-center:has(> h5 + img)
@@ -3996,8 +3994,6 @@ rajasthankhabre.com,realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
 rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+6)
 newzfast.com,toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(n+16)
-anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(-n+10)
-anweshanam.com##div[id^="AS_O_LHS_3"] > div:nth-child(n+21)
 newstodaynetwork.com##div[id^="AS_O_RHS"] > div:has(> div > div > div > p)
 devpath.in##div[id^="AS_O_RHS_"] > div:nth-child(n+4)
 hrbreakingnews.com##div[id^="AS_P_"]
@@ -4121,7 +4117,6 @@ navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
 khabreelal.com##div[name="ArticleShow-Organic-LHS-1"] div:has(> div > div > span + a)
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
-anweshanam.com##div[name^="ArticleShow_Paid_"]
 pundrokotha.com.bd##div[pid^="10"]
 youth18.com##div[role*="CUSTOM"]
 paristamil.com##div[style$="height:90px;"]
@@ -4194,7 +4189,7 @@ hrbreakingnews.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > 
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 ibmnews24.com#?#p:-abp-contains(Advertisement)
-anweshanam.com,hastakshep.com##iframe[id^="ifr_"]
+hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 khabarbhatapara.in##iframe[src*="google.com/presentation/"]
