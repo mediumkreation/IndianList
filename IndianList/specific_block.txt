@@ -64,7 +64,7 @@
 /advertisement/*$domain=cgwebnews.in|indianewscentre.in|keralaexpress.com|keralasabdam.in|khabarmukam.com|nanaonline.in|newsabhiyan.com|newuthayan.com|sportsmail24.com|srijannews.com|swatantraawaz.com|tatkalnews.com|thannambikkai.org|udghoshdaily.com|yugvartanews.com
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=madhyanhadaily.com|nattuvartha.news
-/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|thahapati.com
+/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|telugutimes.net|thahapati.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -166,6 +166,7 @@
 @@||sidhakhabar.com/uploads/bigyaapan/95759200.jpg
 @@||swadeshpratidin.com/ad/SW-920.jpg
 @@||tejastoday.com^*/ADD-TEJAS
+@@||telugutimes.net/storage/advertisements/vg7v90LFfQohYcbLLcTma9lnsjX09k7Oy2YQunki.jpg
 @@||ttinews.in//add/grp991d912445.jpg
 @@||ttinews.in//add/grpacb55f9af7.png
 @@||udayanadu.com/images/ads/$domain=udayanadu.com
@@ -701,6 +702,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||biswanathnews24.com/wp-content/uploads/2020/05/GARDEN-TRAVELS-OK$image
 ||biswanathnews24.com/wp-content/uploads/2020/07/shy-DD-$image
 ||biswanathnews24.com/wp-content/uploads/2020/08/HEXAS-Biswanath-add-JPEG
+||bitraads.com^$third-party,domain=telugutimes.net
 ||bknewstoday.com/assets/uploads/Adv/
 ||blogger.googleusercontent.com/img/a/AVvXsEh6204cFrPqNNfEOnkINONPTUo4LhS7tuabe4lK1KAj_OpUwfS4oF1ssdR7MpCfkTP3btt_y-Be-IeISKDwcK4Qbcu7YjbIASmt03WB14yiz7OLEonBEf5CUCVkGud2VBIx3cvw9SK3jv5GPjpkxLKz5o-uG1HaujW9C4kqgQTewRJcL9d97t40W0G6cA=w640-h422
 ||blogger.googleusercontent.com^*/1651557346-picsay.jpg
@@ -4053,6 +4055,3 @@ perfection-ias-upsc$domain=nextbihar.com
 ||zoftcdn.com^*/citysun.jpg
 ||zoftcdn.com^*/vesta.jpg
 ||zoombangla.com/jamuna/
-@@||telugutimes.net/storage/advertisements/vg7v90LFfQohYcbLLcTma9lnsjX09k7Oy2YQunki.jpg
-/advertisements/*$domain=telugutimes.net
-||bitraads.com^$third-party,domain=telugutimes.net
