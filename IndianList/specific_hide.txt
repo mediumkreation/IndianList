@@ -2537,6 +2537,7 @@ sanmarg.in##.pum
 cinemapressclub.com,nepalpostdaily.com##.pum-content
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
+ap7am.com##.pvt-ads
 indiatimes.com,vijaykarnataka.com##.pwa-deals
 news18.com##.pwa_add
 shariatpurnews24.com##.py-1 .w_lead
