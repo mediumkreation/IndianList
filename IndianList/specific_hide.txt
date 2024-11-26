@@ -233,7 +233,6 @@ nakkheeran.in###block-views-block-detail-page-ads-block-2
 eenadu.net###body_ad
 bdnewshour24.com###bottom-header-banner
 dailyamadercomilla.com###bottomadothers
-paristamil.com###box
 malayalamtodayonline.com###boxes
 simpaninews.com###brx-header .size-large
 ajkalerkontho.com###bunyad_ads_widget-3
@@ -1183,7 +1182,7 @@ deshabhimani.com##.adone > div
 roorkeehub.com##.adore-adver
 anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
-aayokhabar.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,emalayalee.com,gandakilive.com,globaltvbd.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,khabortv.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,onlinedainik.com,onlinepatrika.com,palikanews.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
+aayokhabar.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dailymatobad.com,dailynayadiganta.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,emalayalee.com,gandakilive.com,globaltvbd.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jhuthasach.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,khabortv.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,mayurpati.com,mediadabali.com,megakhabar.com,motivatenews.com,nagariknews.nagariknetwork.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,onlinedainik.com,onlinepatrika.com,palikanews.com,paristamil.com,pariwartankhabar.com,peoplessamachar.in,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,sokalerkhobor24.com,tamilan24.com,topnews24x7.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 gandakitimes.com##.ads aside:not(#custom_html-7)
 mohanagarnews.com##.ads img
@@ -1329,7 +1328,6 @@ bucksvault.in##.amazon-auto-links-widget
 jagonarayanganj24.com##.amws-custom-widget-show-ad
 eisamay.com##.amz-with-ads
 bspabla.com##.amzn_wdgt
-paristamil.com##.annonce_head
 apanderanews.com##.apand-before-content
 samakal.com##.app-news-section-div:has(> .adv)
 fns24.com##.ar_ads
@@ -1964,8 +1962,6 @@ timenews.co.in##.google_ads_section
 sakshi.com##.google_ads_wrap
 faridabadnews.live##.googlepublisherads
 grandnews.in##.grand-after-content_2
-paristamil.com##.group2
-paristamil.com##.group3
 lifeglint.com##.gsc-image
 gujjujankari.in##.gujju-before-content_4
 janpadnewslive.com##.h-full img
@@ -2366,8 +2362,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3007,7 +3003,6 @@ headlinestripura.in,tedmnews.com##.technology-section-ads
 aashanews.com##.text-10
 aashanews.com##.text-4
 samakal.com##.text-body-ad
-paristamil.com##.text-center > table[width="98%"]
 sajhasabal.com##.text-center iframe
 jaijaidinbd.com##.text-center.mt-3
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
@@ -4123,7 +4118,6 @@ khabreelal.com##div[name="ArticleShow-Organic-LHS-1"] div:has(> div > div > span
 dainikhawk.com##div[name="Articleshow-Organic-LHS-1"]
 pundrokotha.com.bd##div[pid^="10"]
 youth18.com##div[role*="CUSTOM"]
-paristamil.com##div[style$="height:90px;"]
 news18.com##div[style*="300px"][style*="background"]
 sylhettoday24.news##div[style*="float:left; width:100%; "]
 jagonews24.com##div[style*="height:104px;"]
