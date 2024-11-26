@@ -2232,6 +2232,7 @@ envazhi.com##.logo-right-wrapper
 purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
+gramerkagoj.com##.logo_banner
 mahamtb.com##.logo_image_container a[target="_blank"]
 hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
