@@ -2114,6 +2114,7 @@ aapkikhabar.com##.imgOverlayAd
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 pratyeknews.com##.imgad1
+sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
@@ -2414,8 +2415,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
