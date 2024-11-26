@@ -303,7 +303,7 @@ chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
 saakshatv.com###custom_html-26
-ujiarpurnews.com###custom_html-27
+ethiri.com,ujiarpurnews.com###custom_html-27
 khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
 angindianews.com,barisaltoday.com,cglivenews.co.in,crimemukhbir.com,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,khabarexpert.in,khabarstate.com,kushtiabd.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,outlinekhabar.com,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
@@ -364,7 +364,6 @@ khabarhouse.com###header .widget_block
 cinemasthi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-aside
 nationaltodaylive.com###header-banner
 latestlaws.com###header-banner .text-right
-ethiri.com###header-helpful
 kamanakhabar.com###header-right
 allwnews.com,anondobarta.com,heronewsonline.com,indiapolkhol.in,jannewslive.com,naturalnews.co.in,newsi.in,paryavaranpost.com,rozanapost.in###header-right-section
 brajpatrika.com,cgimpact.org,dainikjayantnews.com,jamalpurbarta.com,keralabreaking.com,thebharatnama.com,thepunjabwire.com###header-right-sidebar
@@ -1498,7 +1497,6 @@ samayam.com##.box-item
 yugabdha.com##.box-sec-bg .slider
 khoborbari24.com##.box_outer.widget_text
 gorkhalikhabar.com##.box_wrap.p-2
-ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 yuvabharat.news##.breaking-news-area.mt-15
@@ -2416,8 +2414,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3247,7 +3245,6 @@ vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 jagatprahari.com##.widget_728x90_advertisement
-ethiri.com##.widget_ads_easy_widget
 bantwalnews.com##.widget_adsforwp_ads_widget
 chautarikhabar.com,hamromat.com,pradeshdainik.com##.widget_advertisement-bar
 e-kantho24.com,gtbnews24.com##.widget_area
@@ -3650,7 +3647,6 @@ kvartha.com##a[href*="pace.edu.in"]
 sarakhon.com##a[href*="padmabankbd.com"]
 ajkerprosongo.com##a[href*="pathwaydrivingschool.com"]
 tamilolli.com##a[href*="periyarkural.com"]
-ethiri.com##a[href*="pipaffiliates.com"]
 gujratkhabar.in##a[href*="play.gamezop.com"]
 tamilolli.com##a[href*="pna-aerial.fr"]
 attachowk.com##a[href*="prabhatnamkeen.com"]
