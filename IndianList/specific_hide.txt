@@ -416,7 +416,6 @@ specialcoveragenews.in###level_6_before
 swadeshnews.in###level_bottom_full
 u71news.com###logo-right
 livehindustan.com###logoBand-image
-enepalese.com###logo_middle
 cellitnews.com###logoright
 chandpurreport.com###main .code-block
 jansangathan.com###main .container
@@ -1298,8 +1297,8 @@ sangbadprotidin.com,shomoynews.net##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
 indiaspeaks.news##.advt-widget
 webdunia.com##.advt_336
-dainiknepal.com,dainiknepal.com.np,enepalese.com,samayapost.com##.advt_bx
-enepalese.com,samayapost.com##.advt_r
+dainiknepal.com,dainiknepal.com.np,samayapost.com##.advt_bx
+samayapost.com##.advt_r
 newsplus24x7.com##.advtertise
 citykhabre.com##.adwrp
 trustnews24.com##.af-middle-header .content_block
@@ -2094,6 +2093,7 @@ bengali.indianexpress.com,jansatta.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
 sylheterchakrirkhabar.com,ujyaaloonline.com##.iframe-container
 sheikhpuranews.com##.iframely-embed
+enepalese.com##.ifrmbx
 iftamil.com##.iftam-content
 dailythanthi.com##.image-and-caption-wrapper
 bharathalchal.com##.image-post-slider
