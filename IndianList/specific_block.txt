@@ -71,6 +71,7 @@
 /advrtseimg/*$domain=msprotidin.com
 /advs/*$domain=streetbuzz.co.in
 /advt/*$domain=himdarshan.com|khaskhabar.com
+/advts/*$domain=kayalpatnam.com
 /Banner-$domain=indias18.com
 /banner-$domain=navakal.in
 /banner/*$domain=arthparkash.com|binodonsarabela.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
