@@ -114,6 +114,7 @@ alakhharyana.com,lokpatrika.in,thejharokha.com###ai_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,punjabijagran.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
+bonikbarta.com###article-middle2
 up80.online###attachment_10957
 up80.online###attachment_11499
 up80.online###attachment_11653
@@ -2283,6 +2284,7 @@ newshubinsight.in,newsspecial.in##.master-slider-main-widget
 awajnews.com,eveningkerala.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
+bonikbarta.com##.max-h-full
 amarbarta24.com##.mb-3 .w-100
 ghatail.com##.mb-3:has(> div > ins.adsbygoogle)
 arthadabali.com##.mb-4 .mt-3 img
