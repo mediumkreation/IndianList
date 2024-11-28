@@ -1658,6 +1658,7 @@ msprotidin.com##.d-block
 dbcnews.tv,gagana.lk##.d-flex
 protidinerchitrobd.com##.d-flex > div[style*="height: 130px"]
 silkcitynews.com##.d-flex.justify-content-center
+bangla.bdnews24.com##.d-lg-block iframe
 dainikpurvoday.com##.d-lg-inline-flex
 chandpursangbad.com##.d-print-none
 dailyinqilab.com##.d-sm-block.my-3
@@ -1879,7 +1880,6 @@ corporatenepal.com##.features-spaces-collages
 sudurpress.com##.field--name-field-ad-image
 tamil.filmibeat.com##.filmi-kan-ad
 tamil.filmibeat.com##.filmi-kan-header-ad-wrapper
-bangla.bdnews24.com##.first-ad
 nayabharat.live##.fix-img-fluid
 newsfirst.lk##.fixed-banner
 nepaljapan.com##.fixedbar
@@ -2601,7 +2601,6 @@ theindianstate.in##.sb-banner
 khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
 gramnagarbarta.com##.scrollable-slider
 rajshahinews24.com##.secOne-add
-bangla.bdnews24.com##.second-ad
 entevarthakal.com##.second_section_right
 newspolar.com##.section .adalyticsblock
 makalukhabar.com,nepalpress.com##.section-ad-space
@@ -3832,7 +3831,6 @@ gandaknews.com##div[class*="-shortcode-"]
 cvoice24.com##div[class*="DContentAdd"]
 news18.com##div[class*="Header_inner_ad"]
 asomiyapratidin.in##div[class*="__adContainer__"]
-bangla.bdnews24.com##div[class*="_ad-slot__"]
 globalnewsbd24.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newskannada.com##div[class*="_adv_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
