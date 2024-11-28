@@ -525,7 +525,6 @@ balliakhabar.com,cinetimee.com,lankac.news###mvp-leader-wrap
 unikannada.com###mvp-site-wall
 samwadbundelkhand.com###myCarouse2
 himachalabhiabhi.com,ujyaaloonline.com,upkikhabar.com###myCarousel
-rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
 kathmandupati.com,maagulf.com###myModal
 ada.lk,lankadeepa.lk###myModal1
@@ -1136,11 +1135,7 @@ allnewsbharat.com,emstv.in##.add_banner
 gtamilnews.com##.add_block_hdefault
 news18.com,news18marathi.com##.add_container
 ridoyachandpur.com##.add_content
-rosemalayalam.com##.add_image_ryt
 bdnews999.com##.add_img
-rosemalayalam.com##.add_img_left
-rosemalayalam.com##.add_img_left_new_2
-rosemalayalam.com##.add_img_mid
 europemalayali.co.uk##.add_inner_news
 khabortv.com##.add_logo
 bslnews24.com##.add_pad_bot_single
@@ -1386,13 +1381,11 @@ banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulviba
 dhaka18.com##.banner21
 kalyugkatehelka.com,raftaarindianews.com##.bannerListWidget
 satkarpost.com,sawalnepal.com##.banner__ads
-rosemalayalam.com##.banner_add
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
 nationalpowernews.com##.banner_ads
 cniasia.news##.banner_right
 desimediapoint.com##.banner_section
-rosemalayalam.com##.banner_slider
 aajkaaditya.in,dainikujagarkhabar.in,hapurhulchul.com##.banner_wrapper
 4tamilmedia.com##.bannerfooter
 am.lk,editiontoday.in,nepalkhabar.com,srilankamirror.com,tcvonline.co.in,webcoachbd.com##.bannergroup
@@ -2110,8 +2103,6 @@ neervely.ca##.img-ads > li > img
 newsbrahmanbaria.com##.img-advertise
 chhattisgarhtimes.com##.img-my-ad
 aapkikhabar.com##.imgOverlayAd
-rosemalayalam.com##.img_1_logo
-rosemalayalam.com##.img_2_logo
 pratyeknews.com##.imgad1
 sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
@@ -2314,7 +2305,6 @@ tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 cricket97.com##.middle-add
 dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
-rosemalayalam.com##.middle_add_image_top
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
 24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,kundeshwartimes.com,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,tharexpressnews.com##.ml-slider
@@ -2366,8 +2356,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3103,7 +3093,6 @@ hamrokhelkud.com##.top-income-source-wrapper
 lionexpress.in##.top-left-add
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
-rosemalayalam.com##.top-news-ad
 googlepokhara.com##.top-news-sidebar-ads
 radiokanchan.com.np##.top-right-ads
 shatabdinews.com##.topAdv
@@ -3125,6 +3114,7 @@ nrimalayalee.com##.top_most_news_post_ad
 abnews24.com,alokitobangladesh.com##.top_new_add
 bojrokontho.com,gujarattimesusa.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com,kulalworld.com##.topadd
+rosemalayalam.com##.topaddno
 mediavision.news##.topaddsctn
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com##.topadmid
