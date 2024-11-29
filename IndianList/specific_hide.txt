@@ -1187,7 +1187,7 @@ natunsylhet24.com##.ads-bar
 iamgujarat.com##.ads-between-story
 bangladesherkhabor.net##.ads-center-mt
 dhakapost.com,thenepaltoday.com##.ads-container
-newsnationtv.com,sathyamonline.com##.ads-div-style
+bengali.indianexpress.com,newsnationtv.com,sathyamonline.com##.ads-div-style
 kasargodvartha.com##.ads-height-130
 madhyakesari.com##.ads-iframe
 purbakantho.com##.ads-part727829
@@ -2084,7 +2084,7 @@ siyasatdarpan.com##.hustle-popup
 blackoutnews.in##.hustle-ui
 mediabharti.net##.icici
 thereport24.com##.idlc
-bengali.indianexpress.com,jansatta.com##.ie-network-taboola
+jansatta.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
 sylheterchakrirkhabar.com,ujyaaloonline.com##.iframe-container
 sheikhpuranews.com##.iframely-embed
