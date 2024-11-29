@@ -1668,7 +1668,7 @@ ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
 asianetnews.com##.desktop-ad-1
-kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
+poriborton.com##.desktop-ad-nilsagor
 argusnews.in##.desktop-square-ad
 kalerkantho.com##.desktopView:has(> [ad-position])
 bikashnews.com##.desktop_main_news_banner
