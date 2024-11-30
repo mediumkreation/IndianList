@@ -450,7 +450,7 @@ bijoynewsbd24.com,dailynewshindi.com,dhakardak-bd.com,fairnepal.com,kalkudahnati
 palampuronline.com,samacharplusnews.com###media_image-11
 bbttimes.com,capitalnews.lk,dainikmaharajganj.in,kalkudahnation.com,manzilnews.in,samajeralo.com###media_image-12
 indianow24.com###media_image-14
-punjabbaani.com,radiobihani.org,samacharagency.com###media_image-15
+punjabbaani.com,radiobihani.org###media_image-15
 hindvatannews.com###media_image-17
 webreporter.co.in###media_image-18
 webreporter.co.in###media_image-19
@@ -3321,7 +3321,7 @@ dainiklumbini.com,khabarwala.news##.widget_media_image:not(#media_image-5)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 delhibulletin.in##.widget_media_image:not(#media_image-57):not(#media_image-47)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
-khabaruttarakhand.com##.widget_media_image:not(#media_image-8)
+khabaruttarakhand.com,samacharagency.com##.widget_media_image:not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
 abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chamolitimes.com,dainikkhabarlayehain.com,dunvalleymail.com,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,gauravnews.in,jagouttarakhand.in,liveskgnews.com,mitanbhoomi.com,newsdna.co.in,newsnasha.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,sankhnaad.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,voiceofuttarakhand.net##.widget_media_video
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
