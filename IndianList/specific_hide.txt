@@ -2526,7 +2526,7 @@ farwesttimesdaily.com##.promotional__col
 cgwebnews.in##.pt-4:has(> .carousel)
 neemuchlive.com##.pt_magazine_widget_social marquee
 sanmarg.in##.pum
-cinemapressclub.com,nepalpostdaily.com##.pum-content
+biswabanglasangbad.com,cinemapressclub.com,nepalpostdaily.com##.pum-content
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads
