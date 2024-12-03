@@ -1288,7 +1288,7 @@ bdipo.com##.advertisements
 newsplus24x7.com##.advertising
 aapkikhabar.com,anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,publicnewstv.in,satyavoice.com,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
-samayam.com##.advertorialwrapper
+navbharattimes.indiatimes.com,samayam.com##.advertorialwrapper
 onlinedabali.com##.advls
 sangbadprotidin.com,shomoynews.net##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
@@ -2357,8 +2357,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2373,6 +2373,7 @@ news18.com,news18marathi.com##.newadd
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 maharashtratimes.com##.news-advertorial
+navbharattimes.indiatimes.com##.news-card.eoa-deals
 indiatimes.com##.news-card:has(.ad1)
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
@@ -2406,8 +2407,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4278,6 +4279,7 @@ munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
 nation9network.com#?#.gb-container:-abp-contains(Advertisement)
 punjabiherald.co.nz##nav + div
+navbharattimes.indiatimes.com#?#.news-card:has(> span > h2 > a>.text_ellipsis:-abp-contains(Adv:))
 naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
 neplays.com#?#.widget--title .h4:-abp-contains(Advertisement)
 news11.live#?#.align_cent:-abp-contains(Advertise)
