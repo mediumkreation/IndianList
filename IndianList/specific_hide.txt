@@ -1023,7 +1023,7 @@ udayavani.com##.ad-white-blk
 eisamay.com,iamgujarat.com##.ad-wrapper-250
 eisamay.com##.ad-wrapper-275
 marathi.abplive.com##.ad-wrapper-leaderboard
-eisamay.com##.ad-wrapper-photo
+eisamay.com,vijaykarnataka.com##.ad-wrapper-photo
 alorkantho24.news,bengali.timesxp.com,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 eisamay.com,maharashtratimes.com##.ad1_native
 dainikroorkee.com##.ad2
@@ -1288,7 +1288,7 @@ bdipo.com##.advertisements
 newsplus24x7.com##.advertising
 aapkikhabar.com,anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,publicnewstv.in,satyavoice.com,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
-navbharattimes.indiatimes.com,samayam.com##.advertorialwrapper
+navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
 onlinedabali.com##.advls
 sangbadprotidin.com,shomoynews.net##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
@@ -1339,7 +1339,7 @@ ashmitanews.in##.ashmi-ad
 newsatfirst.com##.aside-add
 kalkionline.com##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
-eisamay.com,gujarati.economictimes.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com##.atf-wrapper
+eisamay.com,gujarati.economictimes.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 banglatribune.com##.aunqur img
 loginkerala.com##.author-widget
@@ -2357,8 +2357,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2374,7 +2374,7 @@ europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 maharashtratimes.com##.news-advertorial
 navbharattimes.indiatimes.com##.news-card.eoa-deals
-indiatimes.com##.news-card:has(.ad1)
+indiatimes.com,vijaykarnataka.com##.news-card:has(.ad1)
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
@@ -2407,8 +2407,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2530,7 +2530,7 @@ cinemapressclub.com,nepalpostdaily.com##.pum-content
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads
-indiatimes.com,vijaykarnataka.com##.pwa-deals
+indiatimes.com##.pwa-deals
 news18.com##.pwa_add
 shariatpurnews24.com##.py-1 .w_lead
 dailynarayanganjerdak.com##.py-1 > a img
@@ -3527,7 +3527,7 @@ heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
 sudurkhabar.com##[class*="pubadban"]
-indiatimes.com##[class*="taboola"]
+indiatimes.com,vijaykarnataka.com##[class*="taboola"]
 vtvgujarati.com##[class="hidden xmd:block"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
