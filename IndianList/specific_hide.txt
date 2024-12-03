@@ -718,6 +718,8 @@ techtamil.com###sp_widget_post_slider-2
 ourislam24.net###spc-ads
 sylheterdak.com.bd###spcl_advertise_right
 thewall.in###splad
+lastnewsbd.com###splide24
+lastnewsbd.com###splide25
 himachalabhiabhi.com###sppb-addon-1492748325089
 globenepal.com###square-close .front
 saamtv.esakal.com###st_hp_leaderboard_1
@@ -3797,7 +3799,6 @@ ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsah
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 bholanews.com##div:has(> p>img.wp-image-23118)
 zoombangla.com##div:has(> pubguru)
-lastnewsbd.com##div:not(.sticky) > div > .splide[aria-label="My Favorite Data"]
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
 punjabiherald.co.nz##div[aria-label="27.jpg"]
