@@ -558,6 +558,7 @@ janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
 karmalamadhanews24.com###panel-38-2-1-1
 india.com,tfipost.in###parentDiv0
+dinakaran.com###penci-popup-
 soninews.net###penci_custom_html-3
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
@@ -2458,6 +2459,7 @@ indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
 dailysatkhira.com,globaltamilnews.net,meherpurnews.com,updatesatkhira.com##.penci-google-adsense-2
 kasaragodchannel.com,motherlandpost.in##.penci-html-ads
+dinakaran.com##.penci-html-ads-1
 ekkhabar.online##.penci-infeed_ad
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
