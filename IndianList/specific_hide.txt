@@ -108,7 +108,6 @@ mujibnagarkhabor.com###adsentop
 vishvakannada.com###adv
 glimeindianews.in###advads_ad_widget-2
 newsnib.in###advertisement
-torontotamil.com###advertsub2
 elettilonline.com###after-ad
 alakhharyana.com,lokpatrika.in,thejharokha.com###ai_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
@@ -784,7 +783,7 @@ achhikhabar.com,himalini.com,live18h.com,uniquesamay.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,ukhiyanews.com###text-32
 satyamlive.com###text-33
-hindustanheadlines.in###text-34
+hindustanheadlines.in,torontotamil.com###text-34
 himalini.com,satyamlive.com###text-35
 anaicoddai.com,satyamlive.com,trttamilolli.com,uniquesamay.com###text-36
 anaicoddai.com,satyamlive.com###text-37
@@ -1647,6 +1646,7 @@ teluguwirals.com,vtv24x7.com##.custom-header
 cinemadaddy.com,enavabharat.com,kositimes.com,muktirlorai.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
+torontotamil.com##.custom-html-widget table[border="1"] img
 7elevennews.com,raajdhaninews.com##.custom-slider
 gramajyothi.com##.custom1
 andhrajyothy.com##.customAds
@@ -2412,8 +2412,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
