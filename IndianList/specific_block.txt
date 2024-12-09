@@ -94,9 +94,9 @@
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 @@-advertisement.$domain=newswaves.org
-@@/ad/live-$domain=abnews24bd.com
 @@/content/ads/*$domain=dailykesari.com
 @@favicon.ico|
+@@||abnews24bd.com/ad/1723863238.jpg
 @@||anweshanam.com/static/ad/commons/js/3445/colombia_v11.js
 @@||aparajeobangla.com/media/Advertisement/use-mask.jpg
 @@||avadh24.in/mynewsadmin/img/add/add1610095077.jpeg
@@ -261,6 +261,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ab71.tv/wp-content/uploads/2021/07/ezgif.com-gif-maker
 ||abhiyan.com.np^*/Om-Cement-2x5.jpg
 ||abhiyan.com.np^*/Subisu-263-x-150.gif
+||abnews24bd.com/ad/
 ||abplive.com//testfeeds/banners/
 ||abtakkhabar.com/wp-content/uploads/2023/06/Screenshot_2023-06-01-12-18-07-223-
 ||adalytics.prixacdn.net/media/albums/unnamed_xDI8wJxhRa.gif$domain=arghakhanchi.com
