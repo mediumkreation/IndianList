@@ -322,6 +322,7 @@ aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnew
 mpenews.com###data_id_1
 pundrokotha.com.bd###descripton div[style*="url"]
 sinhala.asianmirror.lk###desktopad
+telugupost.com###details_left_level_1
 manithan.com###dfp_banner_header_panel + span
 spyviewnews.in###disqus_recommendations
 bhorerkagoj.com###div-ub-bhorerkagoj
@@ -2137,7 +2138,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,setokhari.com##.insert-ad
-bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com##.inside-post-ad
+bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
@@ -2245,6 +2246,7 @@ bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
 irinjalakudalive.com,makkalmurasu.com,sabsach.in,sansanisurag.com,themenews24.com##.mag-adver-part
 mahasarkar.co.in##.mahas-widget
 odia-ray.in##.main .bannergroup
+telugupost.com##.main .to-be-async-loaded-ad:not(.details_left_level_6)
 chhattisgarhaaj.com##.main--sidebar .widget:has(> div.ad--widget-no)
 newsfirst.lk##.main-ad-half
 ezhomelive.com##.main-ads-pikihome
