@@ -1739,6 +1739,7 @@ namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 namastenri.net##.elementor-element-e9b9b10
 maithilbrahminmahasabha.in##.elementor-element-f2e9897
+lakhokantho.com##.elementor-heading-title.elementor-size-small
 biharnewsindia.com,himalipatrika.com.np,theeditor24.com##.elementor-image
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
 delhicrimepress.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
