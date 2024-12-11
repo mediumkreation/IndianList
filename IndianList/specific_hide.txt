@@ -462,7 +462,7 @@ ggsnews24.com,pabnabarta24.com,tahalka24x7.com,voiceofbihar.in###media_image-26
 cgimpact.org,dhamakachhattisi.in,ggsnews24.com,loksaakshya.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,loksaakshya.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-amritvarshanews.in,ayushindianews.com,dainikkhojkhabar.live,darpansamachar.com,dharuvu.com,fbdnews.com,fenirzamin.com,globalsylhet.com,hadapsarexpress.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
+amritvarshanews.in,ayushindianews.com,dainikkhojkhabar.live,darpansamachar.com,dharuvu.com,fbdnews.com,fenirzamin.com,globalsylhet.com,hadapsarexpress.com,himantar.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sankeerthanam.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
 cg24x7.news,cgnews24x7.wordpress.com,satkarpost.com,starbanglanews.net,ujjwalpradesh.com###media_image-31
 starbanglanews.net,ujjwalpradesh.com###media_image-32
 voiceofbihar.in###media_image-36
@@ -2414,8 +2414,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4170,6 +4170,7 @@ sanvadnews.com##figure.wp-block-table
 buxaruptodate.com,samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 indiareportertoday.com##figure[id^="attachment"]
+sankeerthanam.com##footer .widget-area
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 dailyinshort.com##footer > center img
 bbn24news.com##footer figure.wp-block-image
