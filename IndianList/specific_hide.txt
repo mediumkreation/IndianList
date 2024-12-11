@@ -1272,7 +1272,7 @@ bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
 apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,ekushnews24.com,gandakichhadke.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khaptadmalikanews.com,lakshmipur24.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
-hotpati.com,kanchanjanghaonline.com##.advertisement img
+birgunjsanjal.com,hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,tamilankural.com##.advertisement-area
 azhimukham.com##.advertisement-cntnt
@@ -2128,6 +2128,7 @@ thahakhabar.com##.inline_disp
 mannarkkadlive.com##.inner-add
 deshbandhu.co.in##.inner-add-banner
 chatonay71news.com##.inner-ads
+birgunjsanjal.com##.inner-featured-image
 insurancekhabar.com##.inner-news-ads
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
@@ -2144,6 +2145,7 @@ janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
 hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
 gandakichhadke.com,hotpati.com,jaljalaonline.com,neelkanthafm.com,nepalawaj.com##.inside_ads
+birgunjsanjal.com##.inside_ads img
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
 makalukhabar.com##.is-full-widescreen-ad
