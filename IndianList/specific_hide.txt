@@ -3387,6 +3387,7 @@ khabarhikhabar.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com##.wonderpluginslider
 himachalreport.com,ikvnews.com,madhyapradeshdarshan.com,namastepurvanchal.in##.wonderpluginslider-container
 lotpot.com##.wow
+allnewsbharat.com##.wow.single_sidebar
 24hrnews.in##.wp-block-embed-youtube
 chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
