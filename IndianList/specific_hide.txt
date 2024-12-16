@@ -2415,8 +2415,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2969,7 +2969,7 @@ udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 biswabanglasangbad.com##.td_block_single_image:not([data-td-block-uid="tdi_41"])
 chatganrbani.com##.td_block_text_with_title
-dunvalleymail.com,lankanewsweb.net,mahanaad.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
+dunvalleymail.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
 bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
