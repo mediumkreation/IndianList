@@ -658,7 +658,7 @@ iautoindia.com###sidebar .widget:has(.banner)
 indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
-keepinspiringme.in,nationalwartanews.com###sidebar .widget_block
+keepinspiringme.inm###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
 awajnews.com,dbnnews.in,malayalamexpress.in,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
@@ -2415,8 +2415,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3288,7 +3288,7 @@ siwanexpressonline.com##.widget_custom_html:not(#custom_html-11):not(#custom_htm
 pabnabarta24.com##.widget_custom_html:not(#custom_html-14)
 fbdnews.com##.widget_custom_html:not(#custom_html-2)
 mahitivibhag.com##.widget_custom_html:not(#custom_html-4)
-giraya.lk##.widget_custom_html:not(#custom_html-7)
+giraya.lk,nationalwartanews.com##.widget_custom_html:not(#custom_html-7)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
 jaldimoney.com##.widget_custom_html:not(#custom_html-9)
 tv20news.in##.widget_dhnvx
