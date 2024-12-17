@@ -303,7 +303,7 @@ newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
 saakshatv.com###custom_html-26
 ethiri.com,ujiarpurnews.com###custom_html-27
-khabarhikhabar.com,saakshatv.com###custom_html-28
+kathastar.com,khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
 angindianews.com,barisaltoday.com,cglivenews.co.in,crimemukhbir.com,dastaktimes.org,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,khabarexpert.in,khabarstate.com,kushtiabd.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,outlinekhabar.com,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 saakshatv.com###custom_html-30
@@ -2417,8 +2417,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3264,7 +3264,7 @@ newsi.in##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
 tibrakhabar.com##.widget_black-studio-tinymce .aligncenter
 dhadingnews.com##.widget_black_studio_tinymce
-24webnews.com,36garhi.com,a2znewsup.com,aamaadmi.in,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,impactvoice.news,insightonlinenews.in,keelainews.com,khabareducation.com,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
+24webnews.com,36garhi.com,a2znewsup.com,aamaadmi.in,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,impactvoice.news,insightonlinenews.in,kathastar.com,keelainews.com,khabareducation.com,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
 ashmitanews.in##.widget_block figure.size-large
 dailyfaridpurkantho.com,dinakaran.com##.widget_block img
 khabarcgnews.com,timesofswaraj.com##.widget_block:has(> ins.adsbygoogle)
