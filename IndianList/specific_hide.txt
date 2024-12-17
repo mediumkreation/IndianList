@@ -453,7 +453,7 @@ punjabbaani.com,radiobihani.org###media_image-15
 hindvatannews.com###media_image-17
 webreporter.co.in###media_image-18
 webreporter.co.in###media_image-19
-abpbharat.com,amaderbikrampur.com,balliatimes.com,banglaralobd.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,punjablivekhabarnama.com,sajagpahad.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,sherpurnews24.net,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews.com,upnewz.in###media_image-2
+abpbharat.com,amaderbikrampur.com,balliatimes.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,punjablivekhabarnama.com,sajagpahad.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,sherpurnews24.net,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews.com,upnewz.in###media_image-2
 prompttimes.com###media_image-20
 dainikmaharajganj.in,ggsnews24.com,gnews5.com###media_image-21
 cgnews24x7.wordpress.com,himwantpradeshnews.com###media_image-23
@@ -2005,6 +2005,7 @@ dinajpur24.com,techvoice24.com##.header-promo
 alochitokantho.com.bd,jamalpurlive.net##.header-promotion
 azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,peoplenews.lk,reporterseye.com,starvrutta.com##.header-right
 beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
+banglaralobd.com##.header-right-sidebar
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
 awaaz24x7.com##.header-top .align-items-end
@@ -2415,8 +2416,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
