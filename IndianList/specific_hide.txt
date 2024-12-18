@@ -642,7 +642,7 @@ pratidinakhbar.com###services1 li.last
 nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
-blivenews.com,chandaulisamachar.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,toptamilnews.com###showAS_O_BEL_0
+blivenews.com,chandaulisamachar.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -1652,6 +1652,7 @@ andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
 biharivoice.com##.customad
 news4nation.com##.custtwo_swiper-container
+thechopal.com##.d-117
 banglamail.news##.d-ad
 msprotidin.com##.d-block
 dbcnews.tv,gagana.lk##.d-flex
@@ -3968,7 +3969,6 @@ telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns
 reportexclusive.com##div[id$="-ad"]
 news4indiatv.com##div[id*="-ad-"]
 beauronews.com##div[id*="-ad-block-"]
-thechopal.com##div[id*="ArticleShow_"] > div:nth-child(-n+10)
 banglatribune.com##div[id*="BT_Inner_"]
 thereport24.com##div[id*="_300x250"]
 utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
@@ -4376,6 +4376,7 @@ tamizhakam.com#?#p:-abp-contains(Advertisement)
 nettamil.com##td:has(> script)
 hindustannewsexpress.com##td[height="350"]:has(> marquee)
 thannambikkai.org#?#h2:-abp-contains(Advertisement)
+thechopal.com#?#div[id*="ArticleShow_"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 thedesiawaaz.com#?#div:-abp-has(> div > a>div > p:-abp-contains(Ad:))
 thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |))
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
