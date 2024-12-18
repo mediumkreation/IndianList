@@ -1595,7 +1595,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,kumudam.com,malayalamnewstimes.com,mycitydilse.com,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,kalamlok.com,kumudam.com,malayalamnewstimes.com,mycitydilse.com,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
@@ -4019,7 +4019,6 @@ banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
 tamilcnn.lk##div[id^="banner"]
 bebakuttarakhand.com##div[id^="bebak-"]
 brightpost.in##div[id^="brigh-"]
-kalamlok.com##div[id^="car-SL_"]
 gvoice24.com##div[id^="center-ads"]
 cgujala.in##div[id^="cguja-"]
 champawatkhabar.com##div[id^="champ-"]
