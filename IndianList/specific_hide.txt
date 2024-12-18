@@ -472,13 +472,13 @@ aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolo
 voiceofbihar.in###media_image-41
 nationaltodaylive.com,peptechtime.com###media_image-42
 newshunter.online###media_image-44
-dailysomoyersomikoron.com,dainikkhojkhabar.live,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com,shabddoot.com###media_image-5
+dailysomoyersomikoron.com,dainikkhojkhabar.live,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 googlepokhara.com,madhyabhoomikeboal.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
 madhyabhoomikeboal.com###media_image-53
 madhyabhoomikeboal.com###media_image-56
-bdmetronews24.com,bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,kannurvarthakal.in,katghara.in,muldharpost.com,odishalink.com,prajawani.in,sasthabangla.com,scotnepal.com,starexpress.news,theblastkhabar.com,trendnew.in###media_image-6
+bdmetronews24.com,bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,kannurvarthakal.in,katghara.in,muldharpost.com,odishalink.com,prajawani.in,sasthabangla.com,scotnepal.com,shabddoot.com,starexpress.news,theblastkhabar.com,trendnew.in###media_image-6
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 bhanjyangnews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,starexpress.news,swatantradastak.com,visfotnews.com###media_image-7
@@ -2366,8 +2366,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
