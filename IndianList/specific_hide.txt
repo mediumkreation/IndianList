@@ -184,7 +184,6 @@ samrudhaodisha.com###block-135
 samrudhaodisha.com###block-136
 samrudhaodisha.com###block-137
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd###block-14
-peptechtime.com###block-142
 cinemapressclub.com###block-15
 khabarok.com,mediyaan.com,sajhamanch.com,satyamevtv.com,smartindiadial.com,telugumalli.com###block-16
 akkbd.com,ojasvitimes.in,telugumalli.com###block-17
@@ -194,7 +193,6 @@ bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,
 sabkasandesh.com###block-20
 ekhabartoday.com,sabsach.in,tamizhdb.com###block-21
 alivenews.co.in,newslab24.in,samvaad365.com###block-22
-peptechtime.com###block-222
 hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com,whatinindia.com###block-24
 banglarjanapad.com,govindia.in###block-25
@@ -469,7 +467,7 @@ voiceofbihar.in###media_image-36
 voiceofbihar.in###media_image-38
 aakhriaankh.com,bharatnews18.in,bhawalbarta.com,chandankesari.com,dailykagojkolom.com,dhinakkavalan.com,hindustanrepublic.in,janexpresslive.com,janmatexpress.in,kanjirappallynews.com,laxminews24x7.com,muldharpost.com,newj9.com,news21live.in,pahaltoday.com,sanjeevanisamachar.com,sasthabangla.com,thebharatexpress.com,thebiharnews.com,updatenownews.com###media_image-4
 voiceofbihar.in###media_image-41
-nationaltodaylive.com,peptechtime.com###media_image-42
+nationaltodaylive.com###media_image-42
 newshunter.online###media_image-44
 dailysomoyersomikoron.com,dainikkhojkhabar.live,haqeeqattoday.com,himalipatrika.com.np,himwantpradeshnews.com,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
@@ -873,7 +871,7 @@ news4indiatv.com###widget-footer-0
 headline24x7.com###widget-footer-1
 goodmorningnation.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
-atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
+atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,peptechtime.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
 khabarhekhabar.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,hakikatnews.com,mpkhabar.com###widget-sidebar-3
@@ -2416,8 +2414,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
