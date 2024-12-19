@@ -30,11 +30,9 @@
 -bannar.jpg|$domain=kurigramlive.com
 -banner$domain=udayasooriyan.lk
 -Banner.gif$image,domain=sajhatv.com
--Banner.gif|$domain=ottrancheithi.com
 -banner.gif|$domain=teknafnews71.com
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
--Banner.jpg|$domain=ottrancheithi.com
 -banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
 -content-add$domain=ujjwalhimachal.com
 /AD-$domain=ptbnewsbd.com
@@ -2765,7 +2763,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||oporadhsangbad.com/wp-content/uploads/2018/04/1_r7_c1_
 ||orthosongbad.com^*_ad_
 ||osnepal.com/wp-content/uploads/2022/06/2-new-banner-hospitalized-
-||ottrancheithi.com/wp-content/uploads/2022/09/PS1-Naane-Varuven-Side-BG.gif
+||ottrancheithi.com/wp-content/uploads/2024/10/Vettaiyan_Banner_Background.gif
 ||ourislam24.com/wp-content/uploads/2020/06/hasnainnnnnnnnnnnn.gif
 ||ourislam24.com/wp-content/uploads/2020/06/MAHADUL.gif
 ||ourmyliddy.com^*/logo_6.jpg
