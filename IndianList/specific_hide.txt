@@ -316,7 +316,7 @@ roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,cgctnews.com,cityhotnews.com,cricnewz.in,dvgsuddi.com,f21news.com,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
 f21news.com,futurekerala.in,gadhsamvedna.com,mynews36.com,pradhanavartha.in,thepressnepal.com###custom_html-8
-aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,sarhadkasakshi.com,satyaketansamachar.com###custom_html-9
+aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,khabarhikhabar.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com###custom_html-9
 mpenews.com###data_id_1
 pundrokotha.com.bd###descripton div[style*="url"]
 sinhala.asianmirror.lk###desktopad
@@ -2412,8 +2412,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2907,7 +2907,7 @@ news1today.in##.td-fix-index img:only-child
 prajasatta.in##.td-footer-wrapper
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
-bengalwatch.in,dheivegam.com,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,newsinside24.com,positivekhabar.com,sarhadkasakshi.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
+bengalwatch.in,dheivegam.com,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,newsinside24.com,positivekhabar.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
 newsvariant.com,sanatanjan.com##.td-g-rec-id-custom_ad_1
 somoysongbad.com##.td-g-rec-id-sidebar
 newscut.lk##.td-header-header-full
@@ -3172,7 +3172,7 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
-bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
+bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com##.vc_raw_html
 bmnews24.net##.vc_raw_html .td-fix-index > div
 ctgnews.com##.vc_raw_html a[target="_blank"]
 coastal-mirror.com,justkannada.in##.vc_raw_html img
