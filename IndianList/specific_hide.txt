@@ -2252,6 +2252,7 @@ policevarthe.com##.main-bg .carousel
 setopati.com##.main-bigyaapan
 aanmeegam.co.in##.main-box-inside:has(> p ins.adsbygoogle)
 aaryaanews.com,hindsat.in,hkgnews247.com,punjabiakhbaar.ca,tararalo.net##.main-content .stream-item
+entethiruvambady.com##.main-content > .stream-item img
 deshprotikhon.com##.main-content a[target="_blank"] img
 indianewsviral.co.in##.main-footer .widget_text
 deshpriyonews.com,thejoharnews.com##.main-full .elementor-widget-image
@@ -2412,8 +2413,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2835,7 +2836,7 @@ jilanazar.in##.stream-item-above-post-content
 abhitaknewsuk.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
-abhitaknewsuk.in,entethiruvambady.com,jaunpur24.com,khabarhikhabar.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
+abhitaknewsuk.in,jaunpur24.com,khabarhikhabar.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
 magahinews.com##.stream-item-in-post
 bankalive.net,narsingdirbani.com##.stream-item-inline-post
 capitalvoice.in,eastcoastdaily.com,kelanchaltimes.com,livequicknews.in,manasvivani.com,mbkhabar.com,natunbarta.com,nepaltvonline.com,northindiastatesman.com,rajdhanitimescg.in,thetimesofchhattisgarh.com,tismedia.in##.stream-item-mag
