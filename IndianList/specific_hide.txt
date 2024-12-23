@@ -1414,6 +1414,7 @@ gorkhapatraonline.com##.below-samachar-add
 bengallive.in##.benga-raiganj-municipality
 lknews.lk##.besides-slider-right
 paathoknews.com##.better-ads-listitemad
+4pmnewsonline.com##.betteradscontainer
 humsamvet.com##.bg-color-gray-fot
 janpadnewslive.com##.bg-gray:has(> .swiper)
 thamilan.lk##.bg-grey-lighter.w-full
@@ -2366,8 +2367,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2504,7 +2505,6 @@ manamnews.com##.post-entry div[style^="float"]
 sahityarachana.com##.post-footer center
 probashirdiganta.com##.post-header .bg-e2e2e2
 faridabadnews.live##.post-header a[target="_blank"] img
-4pmnewsonline.com##.post-image.entry-content
 sonalibanglanews.com##.post-inner .code-block img
 mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
