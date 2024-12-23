@@ -3519,6 +3519,7 @@ thesabera.com##.zox-post-ad-wrap
 24hindinews.com#?#.gb-container:-abp-properties(min-height)
 satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
+nawadalive.com##HTML13
 tollywood.net##[alt*=" ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
