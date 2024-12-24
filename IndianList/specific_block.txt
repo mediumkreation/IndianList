@@ -62,6 +62,7 @@
 /advertisement/*$domain=cgwebnews.in|indianewscentre.in|keralaexpress.com|keralasabdam.in|khabarmukam.com|nanaonline.in|newsabhiyan.com|newuthayan.com|sportsmail24.com|srijannews.com|swatantraawaz.com|tatkalnews.com|thannambikkai.org|udghoshdaily.com|yugvartanews.com
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=madhyanhadaily.com|nattuvartha.news
+/advertisementimages/*$domain=jagonarsingdi24.com
 /advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|telugutimes.net|thahapati.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
