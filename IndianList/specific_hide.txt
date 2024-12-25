@@ -4403,3 +4403,5 @@ visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
 yugvartanews.com#?#center:-abp-contains(ADVERTISEMENT)
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
+tamilmurasu.com.sg##div[data-testid=advertisement-element]
+tamilmurasu.com.sg##.items-center:-abp-has(> div[data-testid=advertisement-element]:only-of-type)
