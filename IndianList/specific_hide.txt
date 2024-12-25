@@ -1065,7 +1065,7 @@ lightnewsbd.com##.add a[target="_blank"]
 cninews24.com,newsallbangladesh.com##.add figure
 digontonews.com##.add figure img
 channeldurjoy.com##.add figure.size-full
-bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,doiniksabujbiplob.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiraprotidin.net,satkhiratimes24.com,sherpurtoday.com,shubhoprotidin24.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
+bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainikdesherkotha.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiraprotidin.net,satkhiratimes24.com,sherpurtoday.com,shubhoprotidin24.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 bwazarakatha.com##.add img:not(.wp-image-19734)
@@ -1989,7 +1989,7 @@ chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com##.header-ads-wrapper
 pahadkasach.in##.header-advertise
 bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
-ajkerbd24.com##.header-baner
+ajkerbd24.com,doiniksabujbiplob.com##.header-baner
 71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,khabardev.com,mathuranews24.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
@@ -2367,8 +2367,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3832,7 +3832,7 @@ ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
 asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
-deshabhimani.com,gonews24.com##div[class*="-banner"]
+deshabhimani.com,doiniksabujbiplob.com,gonews24.com##div[class*="-banner"]
 setopati.com##div[class*="-bigyaapan-"]
 digitalkhobor.com##div[class*="-codes"]
 gandaknews.com##div[class*="-shortcode-"]
@@ -4223,7 +4223,7 @@ enews71.com##img[alt="Side banner"]
 banglatelegraph.com##img[alt="Skin'O.-ad"]
 eyenewsbd.com##img[alt="ad image"]
 groundzeroenews.co.in,knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
-dailyrangpur.com,dinajpur24.com##img[alt="ad728"]
+dailyrangpur.com,dinajpur24.com,doiniksabujbiplob.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
 dailysokalersomoy.com##img[alt="ads Image"]
