@@ -1746,6 +1746,7 @@ attingalvartha.com##.elementor-section-items-middle ~ section:nth-child(4)
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 bansgaonsandesh.com##.elementor-shortcode .metaslider
 delhiuptodate.com,wayanadlivenews.com##.elementor-shortcode img
+arohitodaynews.com##.elementor-shortcode img[alt]
 krantiprayas.com##.elementor-shortcode:has(> a, [id^="krant"])
 perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
@@ -2367,8 +2368,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3673,7 +3674,6 @@ tamildaily.com##a[href*="tamiltv.com"]
 ourmyliddy.com##a[href*="tel:"]
 eelamalar.com##a[href*="thesakkatru.com"]
 lakshyatak.in,samachardoot.in,wehindustan.com##a[href*="traffictail.com"]
-arohitodaynews.com##a[href*="traffictail.com"] img
 visarnews.com##a[href*="tubetamil.com"]
 visarnews.com##a[href*="tubetamil.fm"]
 sajagindia.com##a[href*="uihmt.com"]
