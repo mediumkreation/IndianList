@@ -2696,7 +2696,7 @@ pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
 sawalnepal.com##.sidebar__ads
-anmolkhabar.com,hetaudatoday.com,lalkhabar.com##.sidebar_top_Ad
+anmolkhabar.com,hetaudatoday.com,lalkhabar.com,nawayug.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
