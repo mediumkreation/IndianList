@@ -1786,6 +1786,7 @@ ebharatnews.in,truelinenews.com##.elementor-widget-slides
 adbudhindia.com,citizenlive.news,dailydhaka24.com,joharlive.com,mujibsenanews.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
+indialivingnews.in##.elementor-widget-upk-camux-slider
 shivshahilive.com##.elementor-widget-video
 varthamanam.com##.elementor-widget-vinazine-ads
 abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
