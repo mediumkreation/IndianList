@@ -2419,8 +2419,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2748,6 +2748,7 @@ fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
 news18.com##.site-ad-container
 gaunsahar.com##.site-adv1
+biharwow.com##.site-content .elementor-sticky--effects > div[data-settings]
 dakshinbharat.com,purvanchalsandesh.com,swatantrabharat.net##.site-content .imagewidget
 purvanchal24.com##.site-content .pbwidget.imagewidget
 indias.news##.site-footer .widget_text
@@ -3966,6 +3967,7 @@ truecopythink.media##div[data-embed-button="embed_advertisement"]
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
 shubhoprotidin24.com,uttrakhandtoday.com##div[data-index]
+biharwow.com##div[data-settings]:has(> .elementor-widget-heading)
 pallibatani.com##div[data-structure="12"]
 deshdoot.com##div[data-test-id="ad"]
 rivira.lk##div[data-type="_mgwidget"]
