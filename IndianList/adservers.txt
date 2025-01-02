@@ -5,6 +5,7 @@
 ||adstudio.cloud^$third-party
 ||adventura.cloud^$domain=stvharyananews.in
 ||aj2031.online^$third-party
+||bracemascara.com^$third-party
 ||budvawshes.ru^
 ||dashboard.adclipse.lk^$third-party
 ||desipearl.com^$third-party,domain=malabarinews.com
