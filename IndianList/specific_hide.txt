@@ -2285,7 +2285,7 @@ cninews24.com##.map
 anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
 firstverdict.com##.masonry-slide-ad1
-ayushindianews.com,tv20news.in##.master-slider
+ayushindianews.com##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
 awajnews.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
@@ -2369,8 +2369,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2419,8 +2419,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3342,7 +3342,7 @@ khabaruttarakhand.com,samacharagency.com##.widget_media_image:not(#media_image-8
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
 aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikkhabarlayehain.com,dunvalleymail.com,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,liveskgnews.com,mitanbhoomi.com,network10tv.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,sankhnaad.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,voiceofuttarakhand.net##.widget_media_video
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
-aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,thekhabrilal.com,up18news.com,usmalayalees.com##.widget_metaslider_widget
+aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,thekhabrilal.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
 rajsamandtimes.com##.widget_news_magazine_adsens
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
