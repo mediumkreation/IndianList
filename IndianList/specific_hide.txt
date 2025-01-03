@@ -1543,7 +1543,7 @@ bharathvaibhav.com,karmalamadhanews24.com,keralaspeaks.news,kottayammedia.com,mu
 buxaruptodate.in##.code-block ~ img
 theexclusivestory.com##.code-block-1
 kannadi.news##.code-block-15 div:nth-child(3)
-malnadtimes.com,newstodayjharkhand.com##.code-block-2
+malnadtimes.com,naugachia.com,newstodayjharkhand.com##.code-block-2
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,malnadtimes.com,thepoliticsagain.com##.code-block-4
 krishakjagat.org,mangalwedhatimes.in##.code-block-5
@@ -2419,8 +2419,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
