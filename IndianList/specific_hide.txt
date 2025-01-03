@@ -886,7 +886,7 @@ kewalsach.com###widget_sp_image-14
 despardesweekly.co.uk,ruhelkhandpost.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
-bihardootnews.com,news30express.com,newsinbihar.com,sansanikhejsamachar.in###wonderpluginslider-container-1
+bihardootnews.com,newsinbihar.com,sansanikhejsamachar.in###wonderpluginslider-container-1
 gautamsandesh.com###wonderpluginslider-container-3
 jinews.co.in###wowslider-container1
 hindustanvision.com###wowslider-container105
@@ -2369,8 +2369,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
