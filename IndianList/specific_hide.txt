@@ -1615,7 +1615,6 @@ ratopati.com##.content-banner--single
 gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
-nepalviews.com##.content-heading video
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
@@ -2590,6 +2589,7 @@ tnilive.com##.righta
 anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
 gossiplankanews.com##.rimage
+nepalviews.com##.roadblock
 pardafas.com##.roadblock__ad a img
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
