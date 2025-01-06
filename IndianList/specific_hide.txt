@@ -20,7 +20,7 @@ balotranewstrack.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###
 balotranewstrack.com,thattungal.com###HTML16
 abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
 obolokon24.com,spyviewnews.in,tamilarul.net###HTML19
-banglarawaj.com,chilahatiweb.com,importmirror.com,kushiyaranews.com,marudharabharti.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
+banglarawaj.com,chilahatiweb.com,editiontoday.in,importmirror.com,kushiyaranews.com,marudharabharti.com,sahibganjnews.com,samjhobharat.com,upayuktha.com###HTML2
 24upnews.com###HTML2 .separator img
 backtobollywood.com,gossiplankanews.com###HTML20
 sebahotnews.org###HTML21
@@ -713,7 +713,6 @@ dailyalokitovor.com,padmatimes24.com###small-news
 todaypostlive.com###smart-head .h-text
 peoplenews.lk###sneeit-advertisement
 garimatvnews.com###sp-ads
-editiontoday.in###sp-adsforbody
 dabangrajdhani.com###sp-right .bannergroup
 agrilife24.com###sp-slider-wrapper
 techtamil.com###sp_widget_post_slider-2
@@ -1391,7 +1390,7 @@ cniasia.news##.banner_right
 desimediapoint.com##.banner_section
 aajkaaditya.in,dainikujagarkhabar.in,hapurhulchul.com##.banner_wrapper
 4tamilmedia.com##.bannerfooter
-am.lk,editiontoday.in,nepalkhabar.com,srilankamirror.com,tcvonline.co.in,webcoachbd.com##.bannergroup
+am.lk,nepalkhabar.com,srilankamirror.com,tcvonline.co.in,webcoachbd.com##.bannergroup
 ekattorlive.com##.banners-125
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
@@ -1517,7 +1516,7 @@ lanka4.com##.card.text-center
 aloavanews24.com,just36news.com,malayalamtodayonline.com,prameyanews7.com,thefollowup.in##.carousel
 news11.live##.carousel.slide
 chhattisgarhaaj.com##.carousel:not(#myCarousel2)
-editiontoday.in,panchayattantra24.com##.carouselbanner
+panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 thesaturdaynews.com##.category_page_right .single_page_bottom_ad
@@ -2812,7 +2811,6 @@ veeravengaikal.com##.sppb-addon-clients
 himachalabhiabhi.com##.sppb-addon-container.main-content
 garimatvnews.com##.sppb-addon-content .custom
 newscreation.in##.sppb-addon:has(.bannergroup)
-editiontoday.in##.sppb-column-addons > div:has(.carouselbanner)
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 cibindianews.com##.square-space
