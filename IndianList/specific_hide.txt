@@ -895,6 +895,7 @@ hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 bbn24news.com,champawatkhabar.com,dainikathah.com,gadhsamvedna.com,newsmalayalionline.com,odiabarta.in,sbharatnews.com###wp-custom-header
 janaaastha.com###wr
+sridungargarhtimes.com###wrapper > img
 kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
 ittefaq.com.bd###wrapper_283
@@ -2106,7 +2107,7 @@ bharathalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
 10tv.in##.image_Ad
 nayaindia.com##.image_head
-khulasaonline.com,sridungargarhtimes.com##.img-ad
+khulasaonline.com##.img-ad
 samacharplus.com##.img-add
 khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
@@ -2373,8 +2374,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2423,8 +2424,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3566,6 +3567,7 @@ divyamarathi.bhaskar.com##[id*="_ad_"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 gtamilnews.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
+sridungargarhtimes.com##[id^="sridu-"]
 thestellarnews.com##[id^="thest-"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
 sunnews24x7.com##a .adv-vload
