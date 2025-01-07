@@ -642,7 +642,7 @@ pratidinakhbar.com###services1 li.last
 nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
-blivenews.com,chandaulisamachar.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
+blivenews.com,chandaulisamachar.com,cricketkhabara.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -2374,8 +2374,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2424,8 +2424,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3998,10 +3998,9 @@ atalsamachar.com##div[id^="AS_O_LHS"] > div:has(a[href*="paid.outbrain.com"])
 chandaulisamachar.com,newspoint24.com##div[id^="AS_O_LHS"] > div:nth-child(-n+10)
 aapkikhabar.com##div[id^="AS_O_LHS"] div:has(> div > span > a[rel*="sponsored"] )
 thehindutimes.in##div[id^="AS_O_LHS_"] > div:has(> div > div > a > p + h3)
-aapninews.in,anugrahavision.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
+aapninews.in,anugrahavision.com,cricketkhabara.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
-cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+8)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(1)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(n+10)
 cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(n+16)
