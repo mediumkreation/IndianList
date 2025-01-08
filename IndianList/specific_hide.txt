@@ -1337,7 +1337,6 @@ tamil.mykhel.com##.article-tag-content:has(> .oiad)
 lokmatnews.in##.articlePage
 moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
-ashmitanews.in##.ashmi-ad
 newsatfirst.com##.aside-add
 kalkionline.com##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
@@ -2425,8 +2424,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4032,6 +4031,7 @@ agnijwala.com##div[id^="agnij-"]
 lokbharat.com##div[id^="ai_widget"]
 amritvarshanews.in##div[id^="amrit-"]
 aryavartposts.com##div[id^="aryav-"]
+ashmitanews.in##div[id^="ashmi-"]
 banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
 tamilcnn.lk##div[id^="banner"]
 bebakuttarakhand.com##div[id^="bebak-"]
