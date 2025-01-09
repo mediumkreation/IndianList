@@ -642,7 +642,7 @@ pratidinakhbar.com###services1 li.last
 nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
-blivenews.com,chandaulisamachar.com,cricketkhabara.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
+blivenews.com,chandaulisamachar.com,cricketkhabara.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,news38times.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -4312,6 +4312,7 @@ naya-alo.com#?#.textwidget:-abp-contains(.adsbygoogle)
 neplays.com#?#.widget--title .h4:-abp-contains(Advertisement)
 news11.live#?#.align_cent:-abp-contains(Advertise)
 news24bite.com#?#figure:-abp-has(> figcaption:-abp-contains(Advertisement))
+news38times.com#?#div[id^="AS_O_LHS_"] > div:has(> div > a >p:-abp-contains(Ad |))
 newsmoments.in#?#div[id^="AS_O_LHS_"] > div:-abp-has(> div > div > a > div > p:-abp-contains(Ad |))
 newstm.in#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |) )
 newstodaynetwork.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h4:-abp-contains(Ad: ))
