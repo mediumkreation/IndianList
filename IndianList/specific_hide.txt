@@ -642,7 +642,7 @@ pratidinakhbar.com###services1 li.last
 nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
 echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wrapper
 aajtak.in###shoppingWidget
-blivenews.com,chandaulisamachar.com,cricketkhabara.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,news38times.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
+aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,devpath.in,doonhorizon.in,fashionnewsera.com,keralavoter.com,news38times.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 insightchhattisgarh.in###sidebar .advertisement
@@ -3130,7 +3130,7 @@ dailyjonomot.com##.top_ads2
 weunetwork.in##.top_ads_2
 shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
-rochakkhabare.com##.top_dd
+aapninews.in,rochakkhabare.com##.top_dd
 ni24news.com##.top_index_block_adnow
 specialcoveragenews.in##.top_level_1
 nrimalayalee.com##.top_most_news_post_ad
@@ -4001,7 +4001,8 @@ atalsamachar.com##div[id^="AS_O_LHS"] > div:has(a[href*="paid.outbrain.com"])
 chandaulisamachar.com,newspoint24.com##div[id^="AS_O_LHS"] > div:nth-child(-n+10)
 aapkikhabar.com##div[id^="AS_O_LHS"] div:has(> div > span > a[rel*="sponsored"] )
 thehindutimes.in##div[id^="AS_O_LHS_"] > div:has(> div > div > a > p + h3)
-aapninews.in,anugrahavision.com,cricketkhabara.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
+anugrahavision.com,cricketkhabara.com,devpath.in,keralaonlinenews.com,keralavoter.com,newshaat.com,samachartoday.co.in,woneminute.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+10)
+aapninews.in##div[id^="AS_O_LHS_"] > div:nth-child(-n+13)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
 odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(1)
