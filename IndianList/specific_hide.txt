@@ -1994,7 +1994,7 @@ manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com##.header-ads-wrapper
 pahadkasach.in##.header-advertise
-bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,loktantrakaagaz.com,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
+bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com,doiniksabujbiplob.com##.header-baner
 71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,deshrojana.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,khabardev.com,mathuranews24.com,medianow.in,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
@@ -2362,7 +2362,7 @@ news18.com##.my-ad-rhs
 abnews24.com,odhikar.news##.myAdBox
 gbnews24.com##.myIFrame
 somoynews.tv##.mySlideBox
-newsroomme.com##.mySlides
+loktantrakaagaz.com,newsroomme.com##.mySlides
 indiainside.org##.mySlides2
 dainikujagarkhabar.in##.mzb-advertisement
 news13.in##.n13_adv
@@ -4286,6 +4286,7 @@ livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div > a > h5:-abp-contai
 livevns.news#?#.colombiaonesuccess div:-abp-has(> div > div a > p:-abp-contains(Ad:))
 lnstarnews.com#?#.elementor-widget-wrap:-abp-has(h2:-abp-contains(Adv.))
 loginkerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h2 + span:-abp-contains(Ad |))
+loktantrakaagaz.com#?#.side:has(> span:-abp-contains(Advertisement))
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
 madhepurakhabar.com#?#.HTML:-abp-has(> .widget-title > .title:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
