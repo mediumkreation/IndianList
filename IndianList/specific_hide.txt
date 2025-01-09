@@ -2424,8 +2424,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3451,6 +3451,7 @@ satyasandhana.in##.wp-image-38968
 satyasandhana.in##.wp-image-38972
 namastepurvanchal.in##.wp-image-404
 bhilaitimes.com##.wp-image-51060
+budaunshikhar.com##.wp-image-62387
 reportsindia.in##.wp-image-62537
 reportsindia.in##.wp-image-62663
 news4himachal.com##.wp-image-643
