@@ -2066,6 +2066,7 @@ chttoday.com##.home-page-top-right-add
 tamilcnn.lk,tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
+amarbarta.com.bd##.homeTop .w-100
 news71online.com,shamolynews24.com##.home_last_ad
 barishalnews24.com,bornamelanews24.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,dainikkishoreganj.com,durnitibarta.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,theeditors.net##.home_page_ad
 bangladesherkhela.com,silkcitynews.com##.home_page_ad img
@@ -2427,8 +2428,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
