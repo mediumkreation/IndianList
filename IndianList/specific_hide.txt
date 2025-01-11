@@ -3522,7 +3522,7 @@ newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
-betulsamachar.com,dailynews24.in,nearnews.in,paharipatrika.in##.wplite-banner-ads
+betulsamachar.com,dailynews24.in,nearnews.in,paharipatrika.in,sbnlive.net##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
 shabdsaransh.com##.ws-block img:only-child
@@ -3831,7 +3831,7 @@ bhaskar.com##div:has(> div[id^="Ad--"])
 vtvgujarati.com##div:has(> div[id^="VTV_"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
 janprahar.com##div:has(> ins)
-ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
+ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,sbnlive.net,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 bholanews.com##div:has(> p>img.wp-image-23118)
 zoombangla.com##div:has(> pubguru)
