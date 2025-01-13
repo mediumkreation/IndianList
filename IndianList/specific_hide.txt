@@ -176,7 +176,7 @@ samrudhaodisha.com###block-126
 khabarcgnews.com,samrudhaodisha.com###block-127
 samrudhaodisha.com###block-128
 samrudhaodisha.com###block-129
-aajkijandhara.com,nwnews24.com###block-13
+aajkanews.in,aajkijandhara.com,nwnews24.com###block-13
 samrudhaodisha.com###block-130
 samrudhaodisha.com###block-131
 samrudhaodisha.com###block-132
@@ -2429,8 +2429,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
