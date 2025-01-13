@@ -1470,7 +1470,7 @@ akhandbharatsamachar.com##.blog-posts marquee ~ :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,ibctamilnadu.com,lankasri.com,manithan.com##.blurb
 jvpnews.com##.blurb img
-ekaainabharat.com,maloutlive.com,sangritimes.com##.bn-content
+ekaainabharat.com,maloutlive.com,mycitydilse.com,sangritimes.com##.bn-content
 highwaychannel.in##.bn-ds-2
 adityabharat.com##.bn-inner
 aajbangla.in,aajkadinnews.com,aankhennews24.com,bhadainimirror.com,bharatlive.co.in,bhavtarini.com,bn24live.in,bundelkhandnews.com,channelindia.news,chennaipatrika.com,dakshinapath.com,dankaram.in,darsilivetv.com,fesn.in,hindikhabarwaala.com,indraprasthasamachar.com,jagrantimesnews.com,lokjannews.com,naradnews.live,raebareliexpress.in,sirajganjexpress.com,threesocieties.com,weeklybangalee.com##.bn-lg
@@ -1598,7 +1598,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,kalamlok.com,kumudam.com,malayalamnewstimes.com,mycitydilse.com,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,kalamlok.com,kumudam.com,malayalamnewstimes.com,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
@@ -2429,8 +2429,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
