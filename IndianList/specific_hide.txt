@@ -217,7 +217,7 @@ natunshokal.com###block-50
 anwesantv.wordpress.com###block-52
 lorai24.com###block-59
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
-areseenews.com,athirvu.in,kundapraa.com,liveindiakhabar.in,newsnagar.in,odishamanthan.com,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
+areseenews.com,athirvu.in,girlsglobe.in,kundapraa.com,liveindiakhabar.in,newsnagar.in,odishamanthan.com,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 thenationtimes.in###block-73
 thenationtimes.in###block-74
 bharatpostlive.com,chamolitimes.com,mulukhmaidan.com,naanmedia.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
@@ -2431,8 +2431,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3215,6 +3215,7 @@ dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
 bhnnews.com##.video-ad
 indianewscentre.in##.video-container
+girlsglobe.in##.video-widget
 thelallantop.com##.videoAdInArticle
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
