@@ -1680,7 +1680,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
 ||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
-||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|rajnagarbarta.com|wowsansar.com
+||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khoborprotidin24.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|rajnagarbarta.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
 ||inayam.com/upload/news/8301239_1642034724-b.jpg
 ||inbcn.in/admin/view/upload/btp.jpg
@@ -3880,6 +3880,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||usharbani.com/wp-content/uploads/2024/05/Krishibid-Group-Real-Estate
 ||usharbani.com/wp-content/uploads/2024/07/GLDL-JULY-20-PERCENT-OFFER-3-300x300.jpg
 ||usharbani.com/wp-content/uploads/2024/07/sea-palace-social-media-post-design
+||utdstc.com^$third-party,domain=khoborprotidin24.com
 ||uttamhindu.com/wp-content/uploads/2024/07/ilovepdf_merged-6_page-0003.jpg
 ||uttamhindu.com/wp-content/uploads/2024/11/ANF-HINDI-CREATIVE.jpeg
 ||uttarakhandmorningpost.com/wp-content/uploads/2021/07/IMG-20210720-WA0033.jpg
