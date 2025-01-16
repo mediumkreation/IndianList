@@ -654,6 +654,7 @@ bhorerkagoj.com###sidebar .textwidget
 mybenipatti.in###sidebar .widget.HTML
 rujalanews.blogspot.com###sidebar .widget.HTML:not(#HTML2)
 coverageindia.com,mybenipatti.in###sidebar .widget.Image
+asalbaat.co.in###sidebar .widget.Image .widget-content
 citynewshindi.com###sidebar .widget.Image:not(#Image8)
 iautoindia.com###sidebar .widget:has(.banner)
 indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
@@ -2385,8 +2386,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -3801,7 +3802,6 @@ deshkikhabar.in#?#span:-abp-contains(Advertisement)
 dhamaka36.com#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
 dhinasari.com#?#.tdm-descr:-abp-contains(Advertisement)
 nepaltara.com##div a[target="_blank"] img
-asalbaat.co.in##div.HTML:has(> .widget-content)
 gossiplankanews.com##div.HTML:has(> div ins.adsbygoogle)
 aajkaaldaily.com##div.col-lg-3:has(> ins.adsbygoogle)
 aajbikel.com##div.colombiaonesuccess div:has(> div > div > a>div > p)
