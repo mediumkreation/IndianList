@@ -2902,7 +2902,7 @@ tarunchhattisgarhkorba.com##.td-a-rec img:not([src*="join"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
 boleindia.in##.td-a-rec img[alt="Google search engine"]
 dhunga.in##.td-a-rec video
-impact24news.com,shadhinalo.com##.td-a-rec-id-content_bottom
+impact24news.com,shadhinalo.com,vishban.com##.td-a-rec-id-content_bottom
 janjankiawaaz.in##.td-a-rec-id-content_bottom .ml-slider:nth-child(n+6)
 dewanganjnews.com,siwanonline.com##.td-a-rec-id-content_inline
 khabarhimachalse.com,thegandhigiri.com##.td-a-rec-id-content_top
