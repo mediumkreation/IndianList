@@ -250,6 +250,7 @@ bbn24news.com###cm-secondary .widget_block
 dandikaanthi.com,khabarindia24x7.com###cm-secondary .widget_custom_html
 rantraibaar.in###cm-secondary .widget_custom_html img:not([src*="BKTC-New-Add.jpg"])
 suddi9.com###colorcontentasash3
+indiakidahad.com###colormag_125x125_advertisement_widget-1
 swarnimbharatnews.com###commentform img
 kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
