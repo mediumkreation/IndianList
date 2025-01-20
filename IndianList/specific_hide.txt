@@ -2438,8 +2438,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2682,7 +2682,7 @@ bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
 thenewsrepair.com##.sidebar .widget.HTML
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
-indiannewsroom.com,mbpratidin.com##.sidebar .widget_block
+indiannewsroom.com,mbpratidin.com,sarthakprayash.com##.sidebar .widget_block
 aajkaaditya.in,bartabangla.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
 aviralsamachar.com,biharnation.in,jokhimnews.com,kadwaghut.com,navamalayali.com,newslive24x7.com,realtimes.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
 newsdesk24.com##.sidebar .widget_media_image:has(> :not(div))
