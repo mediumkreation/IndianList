@@ -2667,7 +2667,6 @@ postpati.com##.side_adv_part
 hongkar.com##.side_bar .py-1 img
 moonamvazhi.com##.side_right li ~ li
 motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.sidea
-newskoseli.com##.sidea .wp-block-image
 kulalaworld.com##.sideadd
 cknewsgroup.ca##.sideadholder
 nayasabera.com##.sidebar .HTML:not(#HTML15):not(#HTML8)
