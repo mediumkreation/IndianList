@@ -2438,8 +2438,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3836,6 +3836,7 @@ raftaar.in##div:has(> [id^="div-ad-"])
 ajkerpatrika.com,lokmat.com##div:has(> [id^="div-gpt-ad-"])
 samayduniya.com##div:has(> a > div > .pd_title)
 haal.fashion##div:has(> div > .dfp-ad-unit)
+maitrinews.com##div:has(> div > div > .bsaProContainerNew)
 atalhind.com##div:has(> div > p >.adsbygoogle)
 momainews.com##div:has(> div > span[name="adchoicehtml"])
 newscreation.in##div:has(> div[class$="-content"] > [class*="banner"])
