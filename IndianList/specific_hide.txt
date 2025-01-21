@@ -2388,8 +2388,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2438,8 +2438,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3783,6 +3783,7 @@ bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
+nayasadak.com##body > .uk-container:has(> a)
 calcuttanews.tv##body > [class$="ads"]
 manvimedia.page##body ~ iframe
 asianbanglanews.com##body ~ iframe[style*="height: 100%"]
@@ -4276,6 +4277,7 @@ newsdesk24.com##img[alt='ad']
 india2daynews.com##img[alt^="Menu"]
 dailypurbodesh.com##img[class^="sb-ads"]
 pnews.co.in##img[id^="Image"]
+nayasadak.com##img[src*="Bigyapan"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
