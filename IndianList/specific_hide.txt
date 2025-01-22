@@ -1828,7 +1828,7 @@ apnashaharnews.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
-duniyasamachar.com##.entry-content a img
+duniyasamachar.com,priyoshomoy.com##.entry-content a img
 sheikhpuranews.com##.entry-content a[target="_blank"] img
 dainikkhabraan.com##.entry-content div[class*="daini-"]
 cgmitan.com##.entry-content div[id^="cgmit-"]
