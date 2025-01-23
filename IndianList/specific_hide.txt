@@ -260,6 +260,7 @@ nepalimato.com###content .news_portal_ads_banner
 globalnews24x7.com,kelanchaltimes.com,pkdnewschannelnoi.com,sabkajammukashmir.com,sabkasandesh.com,upcmnews.com###content .stream-item
 giridihupdates.com,overlook.co.in###content .widget_block
 hindikhabar.com###content .widget_block:not(#block-62)
+rajasthancoverage.com###content .widget_custom_html
 khabarmala.com,nobokontho.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
 panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
