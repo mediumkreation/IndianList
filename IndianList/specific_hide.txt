@@ -705,7 +705,7 @@ kulalworld.com###simpleimage-31
 kulalworld.com###simpleimage-5
 muslimmedia.info###simpleimage-6
 currentkhabar.com###sitebox-ad125-3
-biznessnews.com,prabhavnews.com###skip-ads
+baglungpost.com,biznessnews.com,prabhavnews.com###skip-ads
 capitallivenews.com###skipAdModal
 patrikai.com###slide-holder
 fastnewsindia.co,makkalkural.net###slider
