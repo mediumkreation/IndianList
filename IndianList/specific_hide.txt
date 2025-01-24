@@ -2310,6 +2310,7 @@ kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
 bonikbarta.com##.max-h-full
 amarbarta24.com##.mb-3 .w-100
+cgwebnews.in##.mb-3:has(.carousel)
 ghatail.com##.mb-3:has(> div > ins.adsbygoogle)
 arthadabali.com##.mb-4 .mt-3 img
 mzamin.com##.mb-5.justify-content-center
@@ -2362,6 +2363,7 @@ chattogramersomoy.com##.mom_e3lan-empty
 countryinsidenews.com,everesttimes.net,jokhimnews.com,newsviewspost.com,theevakam.com##.momizat-ads
 bengaluruvartha.in##.ms-parent-id-1
 awaaz24x7.com##.mt-1
+cgwebnews.in##.mt-2 a[target*="_blank"] img
 azhimukham.com,damaulionline.com##.mt-3
 dailyprovatbela.com##.mt-3 .wp-block-image
 sandhannews.com##.mtphr-dnt-widget
@@ -2388,8 +2390,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2438,8 +2440,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2556,7 +2558,6 @@ hulakpatra.com,onlinenews7.com##.proad
 farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
-cgwebnews.in##.pt-4:has(> .carousel)
 neemuchlive.com##.pt_magazine_widget_social marquee
 biswabanglasangbad.com,cinemapressclub.com,nepalpostdaily.com,rajdhanidaily.com##.pum-content
 punjabnewslive.co.in##.punja-widget
