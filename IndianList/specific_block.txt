@@ -33,7 +33,7 @@
 -banner.gif|$domain=teknafnews71.com
 -Banner.jpeg|$domain=telugubullet.com
 -banner.jpg|$domain=ntnews.com
--banner.png|$domain=khabarpurwanchal.com|uniquepratidin.com
+-banner.png|$domain=uniquepratidin.com
 -content-add$domain=ujjwalhimachal.com
 /AD-$domain=ptbnewsbd.com
 /ad.jpg|$domain=bbc24news.com
