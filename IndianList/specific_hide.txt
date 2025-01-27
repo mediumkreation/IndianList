@@ -2441,8 +2441,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -2989,6 +2989,7 @@ uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
 thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
+hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
 abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,samriddhasamaj.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
