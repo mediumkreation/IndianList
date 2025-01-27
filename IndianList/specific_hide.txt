@@ -1880,7 +1880,7 @@ khabar36.com##.fb-dialog
 eisamay.com##.fbnad
 bbc24news.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
-hetaudatoday.com##.feature-bottom-ad
+hetaudatoday.com,tukhabar.com##.feature-bottom-ad
 harithakeralamnews.com##.featured-ad-bg
 shomoynews24.com,shomoynews24.net##.featured-add
 pchelpcenterbd.com##.featured-post-ads
