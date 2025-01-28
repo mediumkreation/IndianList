@@ -2655,6 +2655,7 @@ onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
 ajkerpatrika.com##.shadow-anchorAdShadow
 sunbd24.com##.share-ads
 shobujbangladesh24.com##.shobu-widget
+timesofpradesh.com##.showcase
 shrinaradmedia.com##.shrin-widget
 rastriyakhabar.com##.side-ads-wrapper
 gayanews.in##.side-bar > .widget:nth-child(2)

@@ -63,7 +63,7 @@
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=madhyanhadaily.com|nattuvartha.news
 /advertisementimages/*$domain=jagonarsingdi24.com
-/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|telugutimes.net|thahapati.com
+/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|telugutimes.net|thahapati.com|timesofpradesh.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -3779,14 +3779,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||thuyar.net/wp-content/uploads/2020/10/Front-Page-Ad-
 ||timeskerala.com/wp-content/uploads/2024/11/Times-kerala_970-x90-pix.jpg
 ||timesofnellore.com/wp-content/uploads/2018/09/naturesvalley.jpg
-||timesofpradesh.com/uploads/advertisements/1612107537_BnC-ad-final.gif
-||timesofpradesh.com/uploads/advertisements/1612193698_banner.jpg
-||timesofpradesh.com/uploads/advertisements/1674400632_trishakti-tea-compressed-page-001.jpg
-||timesofpradesh.com/uploads/advertisements/1704983426_om-sahi-pathivara-hospital-1.gif
-||timesofpradesh.com/uploads/advertisements/1706069019_1665504188_namaste%20cement.gif
-||timesofpradesh.com/uploads/advertisements/1708273402_1705929237_1704900139_BNC-Ad-1.gif
-||timesofpradesh.com/uploads/advertisements/1709278145_1673269522_cancer-ad.jpg
-||timesofpradesh.com/uploads/advertisements/1719416253_448912205_994912819088672_8734217711752262715_n.jpg
 ||timetv.news^*/WhatsApp-Image-2024-01-08-at-3.40.03-PM.jpeg
 ||tips4blog.com^*/domain-registration.png
 ||tirangaacindianews.com/upload/flash_images/1628959999739.jpg
