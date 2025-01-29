@@ -1599,6 +1599,7 @@ samadhannews.com,samayapost.com##.cont_break_ads
 malayalamuk.com##.container #sidebar img
 news24delhi.com##.container .container #page-sidebar
 manoramaonline.com##.container .experiencefragment
+praharkhabar.com##.container .py-3
 upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
@@ -2572,7 +2573,6 @@ dailynarayanganjerdak.com##.py-1 > a img
 thelallantop.com##.py-2
 surgujasamay.com##.py-2 .img-fluid
 sunamganjerkhobor.com##.py-3
-praharkhabar.com##.py-3 .w-100
 yesnewsmarathi.com##.quads-location
 satyamlive.com##.quadss-location
 rajnitiprotidin.com##.qvzk
