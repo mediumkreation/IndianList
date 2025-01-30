@@ -1217,6 +1217,7 @@ epaper.lokmat.com##.ads_699
 lightnewsbd.com##.ads_bottom_disp
 hindi.business-standard.com##.ads_box_grid
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
+julmsejung.com##.ads_cot
 telugu.greatandhra.com##.ads_css_title
 padmatimes24.com##.ads_fix
 divyahimachal.com##.adsbx728x90
@@ -2443,8 +2444,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
