@@ -2445,8 +2445,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3166,7 +3166,7 @@ biniyogbarta.com##.topadmid
 fonijkorea.net,nationaldetectivenews.com,ournewsbd.net##.topadrt
 cinema.dinamalar.com##.topadtxt160
 sylheterdak.com.bd##.topadv
-banglavashi.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
+banglavashi.com,dhangadhikhabar.com,kharitatsandesh.com,zeenews.india.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 filmykhabar.com##.topheaderpic
