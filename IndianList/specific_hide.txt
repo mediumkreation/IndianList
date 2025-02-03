@@ -2445,8 +2445,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -4057,6 +4057,7 @@ aapnihathai.com##div[id^="aapni-"]
 abbiharnews.com##div[id^="abbih-"]
 achhikhabar.com##div[id^="achhi-"]
 globalmalayalam.com,swadeshnews.in##div[id^="ad_"]
+thefocusindia.com##div[id^="ads_"]
 sports.dinamalar.com##div[id^="adv"]
 prabhatparvnews.in##div[id^="advDiv"]
 nagariknews.nagariknetwork.com##div[id^="adverts"]
