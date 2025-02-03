@@ -1986,7 +1986,7 @@ bdbarrta24.com##.h_ads
 sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
-haribhoomi.com##.hbm-320-50-ad
+haribhoomi.com##.hbm-300-50-ad
 pakundiapratidin.com##.hd_banner
 alokitobarisal.com,bd24time.com,dainikdesherkotha.com,jamunaprotidin.com,swadeshsangbad.com##.hdr_banner
 dailysports24.com##.head-banner
