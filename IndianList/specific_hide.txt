@@ -352,6 +352,7 @@ rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 jagonews24.com###fscorecard
 dishadaily.com###full_level_1_detail
+merojilla.com###goji-wd-3dads
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 lagatar.in###hadd
@@ -1277,7 +1278,7 @@ dinajpurnews24.com,news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,ekushnews24.com,gandakichhadke.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,ekushnews24.com,gandakichhadke.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,merojilla.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 birgunjsanjal.com,hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,tamilankural.com##.advertisement-area
@@ -2166,7 +2167,7 @@ filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
 hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
-gandakichhadke.com,hotpati.com,jaljalaonline.com,neelkanthafm.com,nepalawaj.com##.inside_ads
+gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com##.inside_ads
 birgunjsanjal.com##.inside_ads img
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
@@ -2447,8 +2448,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
