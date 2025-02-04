@@ -97,7 +97,7 @@ professorsbd.com###addv
 khabor.com###adgshp985719811
 maihugodda.com###adoverlay
 malayalamdaily.in###adrotate-wrapper
-deshprotikhon.com,udayavani.com###ads
+deshprotikhon.com###ads
 vikalptimes.com###ads120_60-widget-2
 ishantimes.com###ads160_600-widget-2
 hastakshep.com###ads300_600-widget-3
@@ -1178,7 +1178,6 @@ bdnewsclub.com,nitharsanam.net##.adflexbox
 newslabz.com##.adfoxly-wrapper
 watchgujarat.com##.adimg
 truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
-udayavani.com##.adliadworld
 uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
 deshabhimani.com##.adone > div
@@ -1337,6 +1336,7 @@ bspabla.com##.amzn_wdgt
 apanderanews.com##.apand-before-content
 samakal.com##.app-news-section-div:has(> .adv)
 fns24.com##.ar_ads
+udayavani.com##.artical-page-mdl-ad
 heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
 viralsach.online##.article-content h4 img
@@ -2398,8 +2398,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2448,8 +2448,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3966,7 +3966,6 @@ sunaulonepal.com##div[class^="ads"]
 campuslive24.com##div[class^="ads_"]
 prameyanews7.com##div[class^="advertisement-"]
 ajabgjab.com##div[class^="ajabg-"]
-udayavani.com##div[class^="amp_Ad"]
 bdtimesnews.com##div[class^="angwp_"]
 patnapost.com##div[class^="aryav-"]
 hindustanvision.com##div[class^="avtg"]
