@@ -2441,8 +2441,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3930,6 +3930,7 @@ makdaiexpress24.com##div[class*="makda-"]
 tamilmurasu.com.sg##div[class*="min-h-"][class*="w-full"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
+aarushikhabar.com##div[class*="post-content"] > div:has(> p[style*="#9e9e9e"])
 aayokhabar.com,angultv.com,arthosuchak.com,azadsipahi.in,ejanakpurtoday.com,ekhonkhobor.com,khabarbit.com,khabarway.com,kodanki.in,lokpukar.com,parichaya.com,rastriyadaily.com,smnewshimachal.in,vatakaravarthakal.in##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
