@@ -1029,12 +1029,11 @@ news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 vikatan.com##.ad-top-bottom-space
 udayavani.com##.ad-white-blk
-eisamay.com,iamgujarat.com##.ad-wrapper-250
-eisamay.com##.ad-wrapper-275
+iamgujarat.com##.ad-wrapper-250
 marathi.abplive.com##.ad-wrapper-leaderboard
-eisamay.com,vijaykarnataka.com##.ad-wrapper-photo
-alorkantho24.news,bengali.timesxp.com,eisamay.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
-eisamay.com,maharashtratimes.com##.ad1_native
+vijaykarnataka.com##.ad-wrapper-photo
+alorkantho24.news,bengali.timesxp.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
+maharashtratimes.com##.ad1_native
 dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 naidunia.com##.ad300_1
@@ -1043,7 +1042,7 @@ eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
 indiatv.in##.ad:has(> div:first-child)
 dailyjagoran.com##.adBgGray
-eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
+iamgujarat.com,maharashtratimes.com,samayam.com##.adCANContainer
 swalenewsbank.com##.adMark
 blastkhabar.com##.adRightSideBar
 odhikar.news##.adSlides
@@ -1319,7 +1318,6 @@ anewsoffice.com,bwoodtadka.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sa
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
-eisamay.com##.align-home-ads
 news11bharat.com##.align_cent
 hulchalnews24.com##.alignnone.size-medium
 pujibazarreport.com##.all_add_div
@@ -1331,7 +1329,6 @@ ibc24.in##.alt-balaji
 kutchkhabar.com##.amazingcarousel-list-container
 bucksvault.in##.amazon-auto-links-widget
 jagonarayanganj24.com##.amws-custom-widget-show-ad
-eisamay.com##.amz-with-ads
 bspabla.com##.amzn_wdgt
 apanderanews.com##.apand-before-content
 samakal.com##.app-news-section-div:has(> .adv)
@@ -1348,7 +1345,7 @@ hellobanswara.com##.article_text-content figure
 newsatfirst.com##.aside-add
 kalkionline.com##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
-eisamay.com,gujarati.economictimes.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
+gujarati.economictimes.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 banglatribune.com##.aunqur img
 loginkerala.com##.author-widget
@@ -1883,7 +1880,6 @@ dakhal.net,kolarnews.net##.fadInleft_ads
 marathi.indiatimes.com##.fakelisting
 bangla.thereport24.com##.farrr
 khabar36.com##.fb-dialog
-eisamay.com##.fbnad
 bbc24news.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
 hetaudatoday.com,tukhabar.com##.feature-bottom-ad
@@ -2101,7 +2097,7 @@ desimartini.com##.horizontal_ad_wrap
 tips4blog.com##.hot_rwc_ads
 malayaleepathram.com.au##.hotwp-box.widget_black_studio_tinymce:has(> div > p > img:only-child)
 malayaleepathram.com.au##.hotwp-box.widget_black_studio_tinymce:has(> div > p > ins)
-eisamay.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
+indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 ibc24.in##.hr_banner
@@ -2339,7 +2335,6 @@ dhakareport24.com##.mid-add
 samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
 pokharaexpress.com##.mid-header .navbar-nav img
-eisamay.com##.midArtContainer
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 cricket97.com##.middle-add
@@ -2398,8 +2393,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2567,6 +2562,7 @@ farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
 neemuchlive.com##.pt_magazine_widget_social marquee
+eisamay.com##.pubLeaderboard
 biswabanglasangbad.com,cinemapressclub.com,nepalpostdaily.com,rajdhanidaily.com##.pum-content
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
@@ -3257,7 +3253,7 @@ etamilnews.com##.w-70
 indiainside.org##.w3-section
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 marathi.indiatimes.com,samayam.com##.wdt-taboola
-eisamay.com,iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
+iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com,naidunia.com##.webAds
 hajurkokhabar.com##.web__banner
 dabangawaj.com,fastindianews.com,shatabdinews.com,tahalaka.in##.well
