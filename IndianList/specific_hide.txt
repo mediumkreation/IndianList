@@ -999,7 +999,6 @@ protichhobi.com##.ad img:not([src*="protichhobi-job.gif"])
 chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,panpadu.com,pratyeknewslive.com##.ad--space
 pratyeknewslive.com##.ad--widget
 chhattisgarhaaj.com##.ad--widget-no
-deshabhimani.com##.ad-03
 khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
@@ -1179,7 +1178,6 @@ watchgujarat.com##.adimg
 truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
 uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
-deshabhimani.com##.adone > div
 roorkeehub.com##.adore-adver
 anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
@@ -1676,7 +1674,6 @@ mzamin.com##.d-sm-none.d-flex
 esidhakura.com##.daraz-ad
 telugusmtv.com##.data-area2 .heading
 rtvonline.com##.dazar-ad
-deshabhimani.com##.db-scnAd2
 khulasanewslive.in##.dce-dynamic-posts-collection
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
@@ -2312,6 +2309,7 @@ awajnews.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
 bonikbarta.com##.max-h-full
+deshabhimani.com##.max-w-full
 amarbarta24.com##.mb-3 .w-100
 cgwebnews.in##.mb-3:has(.carousel)
 ghatail.com##.mb-3:has(> div > ins.adsbygoogle)
@@ -2443,8 +2441,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3883,7 +3881,7 @@ ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
 asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
-deshabhimani.com,doiniksabujbiplob.com,gonews24.com##div[class*="-banner"]
+doiniksabujbiplob.com,gonews24.com##div[class*="-banner"]
 setopati.com##div[class*="-bigyaapan-"]
 digitalkhobor.com##div[class*="-codes"]
 gandaknews.com##div[class*="-shortcode-"]
@@ -4340,6 +4338,7 @@ amritvichar.com##main .htmlwidget
 amritvichar.com##main .imagewidget
 timenewsbd.net##main .py-0 center img
 arthikawaj.com##main [data-adid]
+deshabhimani.com##main div:has(> .h-full > img[alt="ad"])
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
