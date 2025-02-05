@@ -3568,6 +3568,7 @@ jharkhandlatestnews.com##[alt="joy e-bike latehar"]
 gunjankhabar.com##[class$="_ads"]
 yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
+esakal.com##[class*="-ad-slot"]
 raftaar.in##[class*="-add-"]
 tv19online.com##[class*="-banner"]
 vikatan.com##[class*="__ad"]
@@ -3593,6 +3594,7 @@ positiveindia.net.in##[data-adid]:has(> img)
 tamilmurasu.com.sg##[data-testid="advertisement-element"]
 sharechat.com##[href*="whistleloop.com"] img
 divyamarathi.bhaskar.com##[id*="_ad_"]
+esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 gtamilnews.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
