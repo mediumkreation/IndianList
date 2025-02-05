@@ -2651,7 +2651,6 @@ dholamaru.co.in,dokhinercrime.com##.sg-ad
 sangalokhabar.com##.sg-full-width-ads
 raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
-ajkerpatrika.com##.shadow-anchorAdShadow
 sunbd24.com##.share-ads
 shobujbangladesh24.com##.shobu-widget
 timesofpradesh.com##.showcase
@@ -3943,6 +3942,7 @@ manvadhikarabhivyakti.in##div[class*="tdi_140"]
 nayanjagriti.com##div[class*="top_full_width_level_"]:has(> [class^="ad"])
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
+ajkerpatrika.com##div[class*="w-[300px]"]
 usbangla24.news##div[class*="width-ad"]
 gonews24.com##div[class="country-add"]
 livehindustan.com##div[class^="Ads_"]
