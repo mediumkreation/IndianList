@@ -1554,7 +1554,7 @@ kannadi.news##.code-block-15 div:nth-child(3)
 ajkerkrishi.com,malnadtimes.com,naugachia.com,newstodayjharkhand.com##.code-block-2
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,thepoliticsagain.com##.code-block-4
-krishakjagat.org,mangalwedhatimes.in##.code-block-5
+deshdoot.com,krishakjagat.org,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com##.code-block-8
 chanakyanewz.com##.code-block-center
@@ -2442,8 +2442,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
