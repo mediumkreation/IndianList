@@ -2393,8 +2393,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2443,8 +2443,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3841,6 +3841,7 @@ news18.com##div:has(> .myad)
 thevoices.in##div:has(> .nbs-flexisel-container)
 livehindustan.com##div:has(> .taboola)
 99news.co##div:has(> .text-left + [class*="728/90"])
+indotimes.com.au##div:has(> .textwidget)
 livenews24x7.com##div:has(> .w-banner)
 dainikamadershomoy.com##div:has(> .w3-small)
 khabarway.com##div:has(> .widget_media_gallery)
@@ -3852,6 +3853,7 @@ ajkerpatrika.com,lokmat.com##div:has(> [id^="div-gpt-ad-"])
 samayduniya.com##div:has(> a > div > .pd_title)
 haal.fashion##div:has(> div > .dfp-ad-unit)
 maitrinews.com##div:has(> div > div > .bsaProContainerNew)
+indotimes.com.au##div:has(> div > p > ins.adsbygoogle)
 atalhind.com##div:has(> div > p >.adsbygoogle)
 momainews.com##div:has(> div > span[name="adchoicehtml"])
 newscreation.in##div:has(> div[class$="-content"] > [class*="banner"])
