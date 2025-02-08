@@ -2443,8 +2443,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3940,6 +3940,7 @@ sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
 sachikalam.com##div[class*="slide"]:has(> div > .AdvtSample)
 chitrodesh.com##div[class*="stream-item"]
 sabkasandesh.com##div[class*="stream-item-below-post"]
+desimartini.com##div[class*="subscriptionBanner_stickyFooter"]
 mediamalayalam.com##div[class*="td-spot-id-content_"]
 manvadhikarabhivyakti.in##div[class*="tdi_140"]
 nayanjagriti.com##div[class*="top_full_width_level_"]:has(> [class^="ad"])
