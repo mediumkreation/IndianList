@@ -334,6 +334,7 @@ mantavyanews.com###divFLRALeft
 mantavyanews.com###divFLRARight
 deepika.com###divTopNewsHead + .row > .inner_news_head
 ittefaq.com.bd###div_252
+deshrupantor.com###div_683
 teluguwishesh.com###djslider875
 deepika.com###dvPopup
 firsteyenews.co.in###dynamic_sidebar_before
@@ -1944,7 +1945,7 @@ unb.com.bd##.fullwidth-add
 medianp.com##.fullwidth-header-ads-wrapper
 nepalwatch.com##.fullwidth__add
 dcnewsbd.com##.fullwidthbanner-container
-jaijaidinbd.com##.futureads
+deshrupantor.com,jaijaidinbd.com##.futureads
 samugammedia.com##.fw-bold.text-black
 cinesamugam.com##.fw-bold.text-center
 damaulikhabar.com##.g-dyn
