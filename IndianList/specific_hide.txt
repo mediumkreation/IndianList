@@ -2310,7 +2310,7 @@ ideatvnews.com##.marquee-ads
 firstverdict.com##.masonry-slide-ad1
 ayushindianews.com##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
-awajnews.com,veerdharanews.com##.master-slider-parent
+awajnews.com,eveningkerala.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
 bonikbarta.com##.max-h-full
@@ -2397,8 +2397,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 chamaktabharat.com#@#.navbar-ad-section
+24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
@@ -2788,6 +2788,7 @@ prajamantalu.com##.site-header .htmlwidget
 ukhiyanews.com##.site-header ~ .bg
 googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
+eveningkerala.com##.site-heading-sidebar
 saunewsnetwork.com##.site-main .widget_media_image
 panchayattimes.com##.site-wrap .elementor-widget-image
 nepalmamila.com##.siteContent > p a img
@@ -3927,7 +3928,6 @@ sarkarnama.esakal.com##div[class*="customWidgetWrapper"]:not(:has(> div > div > 
 janpadnewslive.com##div[class*="f0f0f0"]
 dhakapost.com##div[class*="h-[250px]"]
 gvoice24.com##div[class*="iklan-"]
-eveningkerala.com##div[class*="infiniteCarousel"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 khabarbit.com##div[class*="jeg_ad"]
 telugu.filmibeat.com##div[class*="kan-ad"]
