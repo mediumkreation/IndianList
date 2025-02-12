@@ -2,7 +2,6 @@
 ||admitad.com^$third-party,domain=hellonepalkorea.com
 ||ads2publish.com^$third-party
 ||adsfry.com^$third-party
-||adstudio.cloud^$third-party
 ||adventura.cloud^$domain=stvharyananews.in
 ||aj2031.online^$third-party
 ||bracemascara.com^$third-party
