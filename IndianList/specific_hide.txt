@@ -1004,7 +1004,7 @@ ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
 amritsandesh.com,awamileaguetimes.com,lokaantar.com##.ad-banner
 bizshala.com##.ad-banner-img
-cs24bd.com,primenewsbd.com##.ad-box
+primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 dainikayodhyatimes.in##.ad-close
 dailykaratoa.com,dainikshiksha.com,ichowk.in,news18.com,saralpatrika.com,uttorbangla.com##.ad-container
