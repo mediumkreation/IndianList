@@ -959,7 +959,6 @@ newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
 dinamalar.com##.MuiBox-root:has(> div > .adunitContainer)
 hindusthansamachar.in##.NewClass iframe
-business-standard.com##.Nws_banner_Hp
 newindia24.in##.PixyPaperad
 tutyonline.net##.R300100
 bharatsamachartv.in##.RightCont iframe
@@ -1007,7 +1006,6 @@ dainikayodhyatimes.in##.ad-close
 dailykaratoa.com,ichowk.in,news18.com,saralpatrika.com,uttorbangla.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 mediaoneonline.com##.ad-gap-sm
-business-standard.com##.ad-height-desktop
 bagmativoice.com##.ad-home
 ekagaj.com,nepalmamila.com,newsroomme.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
@@ -1693,7 +1691,6 @@ dhadingupdate.com##.dhadi-content_2
 dailyfaridgonj.com##.digital-newspaper-advertisement-block
 hamrokhelkud.com##.display
 biniyogbarta.com##.divAdvertisement
-business-standard.com##.div[id^="between_article_content"]
 ukmalayalampathram.com##.div_ad_rgt
 prajavani.net##.dk_only
 thodkyaat.com##.dmp
@@ -2054,7 +2051,6 @@ lokpati.com##.herald-no-sid
 hindnews.live##.herald-txt-module
 lokpati.com##.herald-txt-module img.size-full
 supportmeindia.com##.hero-section
-business-standard.com##.hide-on-mobile
 sirajganjnews24.com##.hidedivcopy
 khabareducation.com##.hm-header-image
 brightpost.in##.hm-header-sidebar
@@ -2510,7 +2506,6 @@ knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 a2znewslive.com##.pm_home_top_sidebar .widget_media_image
-business-standard.com##.podcastads
 jamalpurlive.com##.popbox
 dhadingnews.com,dinamina.lk,industryhit.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
