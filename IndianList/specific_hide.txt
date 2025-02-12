@@ -2043,6 +2043,7 @@ univarta.com##.header_bottom_ad
 bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
 fenirkotha.com,natuncumilla.com##.header_date_sidebar
 lalkhabar.com,murchungatv.com##.header_img
+quicknewsbd.com##.header_section div > img
 banglanewsca.com##.header_top_ad_area_2
 deshrupantor.com##.header_top_ad_code
 fenirkotha.com##.header_top_banner
