@@ -1792,7 +1792,6 @@ indialivingnews.in##.elementor-widget-upk-camux-slider
 shivshahilive.com##.elementor-widget-video
 varthamanam.com##.elementor-widget-vinazine-ads
 aajkijandhara.com##.elementor-widget-wd_image_or_svg
-abbiharnews.com##.elementor-widget-wp-widget-advads_ad_widget
 dinakaran.com##.elementor-widget-wp-widget-custom_html
 channelrb.com##.elementor-widget-wp-widget-master-slider-main-widget
 computerbichitra.com##.elementor-widget-wp-widget-news247_ads_banner_widget
@@ -2441,8 +2440,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
