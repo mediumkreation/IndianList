@@ -1673,7 +1673,6 @@ mzamin.com##.d-sm-none.d-block:not([class^="co"])
 mzamin.com##.d-sm-none.d-flex
 esidhakura.com##.daraz-ad
 telugusmtv.com##.data-area2 .heading
-rtvonline.com##.dazar-ad
 khulasanewslive.in##.dce-dynamic-posts-collection
 ddnews24x7.com##.ddnew-after-content
 bholarbani.com##.default-advertise
@@ -2450,8 +2449,8 @@ sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
 ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
+bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
@@ -3931,6 +3930,7 @@ democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 kannadavani.news##div[class*="cs-banner"]
 sarkarnama.esakal.com##div[class*="customWidgetWrapper"]:not(:has(> div > div > h2))
 janpadnewslive.com##div[class*="f0f0f0"]
+rtvonline.com##div[class*="h-["][class*="w-["]
 dhakapost.com##div[class*="h-[250px]"]
 gvoice24.com##div[class*="iklan-"]
 nrimalayalee.com##div[class*="inner-main-ad"]
@@ -3942,6 +3942,7 @@ kalkionline.com##div[class*="m__ad-"]
 navjivanindia.com##div[class*="m__dfp"]
 deshdoot.com,saamtv.esakal.com,sarkarnama.esakal.com##div[class*="m_ad-slot"]
 makdaiexpress24.com##div[class*="makda-"]
+rtvonline.com##div[class*="min-h-"]
 tamilmurasu.com.sg##div[class*="min-h-"][class*="w-full"]
 nainilive.com##div[class*="naini-"]
 akilanews.com##div[class*="pannel-banner"]
