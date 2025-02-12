@@ -1482,11 +1482,8 @@ perfection-ias-upsc$domain=nextbihar.com
 ||golmalnews.com/wp-content/uploads/2023/05/Polish_20230520_090713759.jpg
 ||golmalnews.com/wp-content/uploads/2024/01/IMG-20240112-WA0021
 ||golmalnews.com/wp-content/uploads/2024/02/IMG-20210622-WA0042
-||golmalnews.com/wp-content/uploads/2024/03/IMG-20240321-WA0235
 ||golmalnews.com/wp-content/uploads/2024/05/IMG-20240523-WA0004
 ||golmalnews.com/wp-content/uploads/2024/06/20240630_140147.gif
-||golmalnews.com/wp-content/uploads/2024/06/IMG-20240321-WA0235
-||golmalnews.com/wp-content/uploads/2024/06/IMG-20240321-WA0235-1024x1024-2.jpg
 ||golmalnews.com/wp-content/uploads/2024/06/Screenshot_20240621_083445_Drive.jpg
 ||golmalnews.com/wp-content/uploads/2024/07/20240715_125029.gif
 ||golmalnews.com/wp-content/uploads/2024/07/IMG-20240716-WA0016.jpg
@@ -1502,6 +1499,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||golmalnews.com/wp-content/uploads/2024/12/AAP-POST-2.jpg
 ||golmalnews.com/wp-content/uploads/2024/12/IMG-20241207-WA0009
 ||golmalnews.com/wp-content/uploads/2024/12/IMG-20241207-WA0009.jpg
+||golmalnews.com^*/IMG-20240321-WA0235
 ||gonokantho.com/ad/
 ||goo.gl^$image,domain=kvartha.com
 ||googlepokhara.com/wp-content/uploads/2020/09/appsfightCOVID_WHO.gif
