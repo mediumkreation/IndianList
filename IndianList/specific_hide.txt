@@ -915,14 +915,13 @@ dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
 hetaudatoday.com,tukhabar.com##.Ad
 natunsomoy.net##.Ad-Section
 mathagal.net##.Ad-box-jana
-jagranjosh.com##.AdCont
 bahumatrik.com##.AdSection
 chennaicitynews.net,kalaipoonga.net##.AdWidget_ImageWidget
 ajkercrimenews.com,indurkanibarta.com##.Add
 ajkerdiganta.com##.Add figure
 deshergarjan.net##.Add img
 newsdustak.com##.Add-Master-Sside1
-jagranjosh.com,sutranews.com##.Ads
+sutranews.com##.Ads
 bahumatrik.com,bvnews24.com,dailyjanakantha.com##.AdvertClass
 dailythanthi.com##.Advt
 punjabiinholland.com,sachikalam.com##.AdvtRight
@@ -930,7 +929,6 @@ sachikalam.com,sehajtimes.com##.AdvtSample
 purbanchal.com##.Al_ads_area
 tutyonline.net##.Amain
 onp24.com##.BannerAdd2
-jagranjosh.com##.BannerAds
 janashaktinews.com##.CMAC_AdChangerWidget
 cvoice24.com,eyenews.news##.DADD
 amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
@@ -960,7 +958,6 @@ nellaionline.net,tutyonline.net##.MR300250
 newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
 dinamalar.com##.MuiBox-root:has(> div > .adunitContainer)
-jagranjosh.com##.NativeAd
 hindusthansamachar.in##.NewClass iframe
 business-standard.com##.Nws_banner_Hp
 newindia24.in##.PixyPaperad
@@ -2399,8 +2396,8 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
-chamaktabharat.com#@#.navbar-ad-section
 24hrnews.in,aavakaaya.in,celluloidonline.com,channeltoday.net,checkpostnews.com,chhattisgarhcrimes.in,cityhotnews.com,dainiktimes.co.in,hindustanrepublic.in,kannurvarthakal.in,khabardinbhar.net,kilinochchinews.com,kotajagran.com,krantiodishanews.com,malayalamtodayonline.com,mediapoint24.com,overlook.co.in,prajawani.in,punjabiakhbar.com,sanskardarshan.in,shabdshodh.com,updatetimes.com##.navbar-ad-section
+chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area-2 ~ div[style]
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
