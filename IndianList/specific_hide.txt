@@ -1494,7 +1494,7 @@ onetamilnews.com##.btmAdHldr
 firstindianews.com##.buget-banner
 cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
-cgjanadesh.com##.bwp_gallery_slideshow
+cgjanadesh.com,jagarantripura.com##.bwp_gallery_slideshow
 dhanamonline.com##.c-ad-container
 vellinakshatram.com##.c-sections__container
 himachalnownews.com##.c_ad
