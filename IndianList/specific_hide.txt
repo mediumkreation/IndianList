@@ -883,6 +883,7 @@ khabarhekhabar.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,hakikatnews.com,mpkhabar.com###widget-sidebar-3
 khabarpradesh.com###widget-sidebar-4
+samakalikamalayalam.com###widget-topads
 gujaratvaibhav.com###widget4
 ekattor.tv###widget_623
 itvbd.com###widget_626
@@ -1326,7 +1327,7 @@ lokmatnews.in##.articlePage
 moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
 newsatfirst.com##.aside-add
-kalkionline.com##.aside-collection-ad-slot
+kalkionline.com,samakalikamalayalam.com##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
 gujarati.economictimes.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
@@ -3234,7 +3235,6 @@ puthithu.com##.widget > .wp-block-image
 emungaru.com##.widget img[src^="data:"]
 labanglatimes.com##.widget-banner
 crimediarybd.com##.widget-body > p img
-samakalikamalayalam.com##.widget-container-130
 kannadaprabha.com##.widget-container-188
 dinamani.com##.widget-container-439 > div:not(#section_content_check_14080)
 dailyinshort.com##.widget-header
