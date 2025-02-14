@@ -116,6 +116,7 @@ spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com,punjabijagran.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
 bonikbarta.com###article-middle2
+lokmatnews.in###articlePageBanner
 up80.online###attachment_10957
 up80.online###attachment_11499
 up80.online###attachment_11653
@@ -567,8 +568,6 @@ chhapratoday.com###pg-22-5
 karmalamadhanews24.com###pg-38-7
 kusenews.com###pgc-7-1-1
 lokmat.com###photoBanner
-lokmatnews.in###photoInlist1
-lokmatnews.in###photoInlist2
 jugantor.com###popAd
 amadershomoy.com###popUp
 samakal.com###popUpModalAd
@@ -1323,7 +1322,6 @@ mbdwebnews.com##.article-content .ml-slider
 viralsach.online##.article-content h4 img
 helloswasthya.com##.article-desktop-ad-container
 tamil.mykhel.com##.article-tag-content:has(> .oiad)
-lokmatnews.in##.articlePage
 moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
 newsatfirst.com##.aside-add
@@ -3817,6 +3815,7 @@ khabarway.com##div:has(> .widget_media_gallery)
 prameya.com##div:has(> [class^="advertisement-"])
 indiatimes.com##div:has(> [data-row-id="recommended-deals-widget"])
 raftaar.in##div:has(> [id^="div-ad-"])
+lokmatnews.in##div:has(> [id^="div-gpt-ad"])
 shortheadlines.com##div:has(> [id^="div-gpt-ad"]:only-child)
 ajkerpatrika.com,lokmat.com##div:has(> [id^="div-gpt-ad-"])
 samayduniya.com##div:has(> a > div > .pd_title)
@@ -4074,6 +4073,7 @@ himachalplus.com,himachalreport.com##div[id^="himac-"]
 himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 vedantbhoomi.com##div[id^="image_"]
+lokmatnews.in##div[id^="inhouse-"]
 lokmat.com##div[id^="inlist"]
 hmtvlive.com,specialcoveragenews.in##div[id^="inside_post_content_ad_"]
 sathyamonline.com##div[id^="inven-"]
