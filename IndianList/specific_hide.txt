@@ -2332,7 +2332,7 @@ prajavani.net##.mob_only
 news13.in##.mobadv-4
 prameyanews7.com##.modal
 capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
-janchhaya.in,nepalmamila.com##.modal-content
+janchhaya.in,nepalmamila.com,thewall.in##.modal-content
 nepalipaisa.com##.modal-dialog
 annapurnapost.com##.modal__img
 theleader.lk##.module-ct .custom
@@ -3081,7 +3081,6 @@ bdsomachar24.com##.themesBazar_widget .wp-block-image
 somoyerkontha.com##.themesBazar_widget > .textwidget
 banglarchithi.com,hakkatha.com##.themesBazar_widget img
 thestellarnews.com##.thest-widget
-thewall.in##.thewall-ad-section
 entevarthakal.com##.third_section_ads
 arthatantra.com##.this_block a img
 sangalokhabar.com##.three-col-ads
@@ -3771,6 +3770,7 @@ bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(A
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
+thewall.in##center > small
 munaadi.com##center:has(> img.w-100)
 nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
@@ -4398,7 +4398,6 @@ chennaitodaynews.com##section[id^="id"]
 seithipunal.com#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 shikshabhartinetwork.com#?#div:-abp-has(> .box_header:-abp-contains(Advertisements))
 punjabikangaroo.com#?##side .widget:-abp-has(> .heading > span:-abp-contains(Advertisement))
-thewall.in##small[style*="font-size: 11px;color: #979797;display: block;text-align: center;"]
 smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
 soochnanews.in#?#h4.td-block-title:-abp-has(> span:-abp-contains(Advertisement))
 manithan.com##span[id] > iframe[id]:only-child
