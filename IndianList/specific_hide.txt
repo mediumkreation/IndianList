@@ -704,7 +704,6 @@ muslimmedia.info###simpleimage-6
 currentkhabar.com###sitebox-ad125-3
 baglungpost.com,biznessnews.com,prabhavnews.com###skip-ads
 capitallivenews.com###skipAdModal
-patrikai.com###slide-holder
 fastnewsindia.co,makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
 kayalconnection.com###slideshow
@@ -2420,7 +2419,6 @@ dnewsnetwork.in##.np-home-bottom-section
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
-patrikai.com##.oad
 newskranti.com##.ob-cards
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 priyo.com##.offer_grid
@@ -3822,7 +3820,7 @@ bhaskar.com##div:has(> div[id^="Ad--"])
 vtvgujarati.com##div:has(> div[id^="VTV_"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
 janprahar.com##div:has(> ins)
-ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,sbnlive.net,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
+ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,sbnlive.net,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 zoombangla.com##div:has(> pubguru)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
