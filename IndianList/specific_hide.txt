@@ -380,9 +380,6 @@ specialcoveragenews.in###header_ad_mobile
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
-lokpati.com###herald-module-1-10
-lokpati.com###herald-module-1-15
-lokpati.com###herald-module-1-19
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com###home-ads
 uttareralo24.com###home_page_ad
@@ -2029,9 +2026,7 @@ telugu.goodreturns.in##.headinglist > div
 tirangaacindianews.com##.headnBx .text-right
 chttoday.com##.height-100
 krushinama.com##.herald-da
-lokpati.com##.herald-no-sid
 hindnews.live##.herald-txt-module
-lokpati.com##.herald-txt-module img.size-full
 supportmeindia.com##.hero-section
 sirajganjnews24.com##.hidedivcopy
 khabareducation.com##.hm-header-image
@@ -3419,11 +3414,8 @@ newsgil.in##.wp-image-15016
 newssunamganj.com##.wp-image-19215
 newssunamganj.com##.wp-image-2083
 nayesubah.com##.wp-image-2104
-lokpati.com##.wp-image-225930
 newssunamganj.com##.wp-image-22995
-lokpati.com##.wp-image-242302
 nationalthoughts.com##.wp-image-245
-lokpati.com##.wp-image-246528
 nationalthoughts.com##.wp-image-251
 nationalthoughts.com##.wp-image-252
 gangnirchokh.com##.wp-image-25993
@@ -3465,7 +3457,6 @@ newssunamganj.com##.wp-image-77
 dailyoporad.com##.wp-image-783
 dnewsnetwork.in##.wp-image-82536
 news4himachal.com##.wp-image-8371
-lokpati.com##.wp-image-84961
 biharnownews.com,kalpa.news,pradeshnews24x7.com##.wp-video
 bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
