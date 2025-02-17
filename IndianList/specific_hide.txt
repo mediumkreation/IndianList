@@ -1989,7 +1989,7 @@ firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
 alochitokantho.com.bd,jamalpurlive.net,wegarhwali.com##.header-promotion
-azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,reporterseye.com,starvrutta.com##.header-right
+azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
 beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
 banglaralobd.com##.header-right-sidebar
 newsway.in##.header-right-widgets
@@ -3112,6 +3112,7 @@ newsagencyindia.com##.topHeaderAd
 banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,indiavoice.com,rninews.co.in##.topRightAdSec
 samakal.com##.topStickyDesktopDiv
+sawalnepal.com##.top__advertisement
 bankbimaarthonity.com,biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
