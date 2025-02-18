@@ -2838,7 +2838,7 @@ jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,jaunpur24.com,khabarhikhabar.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
 magahinews.com##.stream-item-in-post
-bankalive.net,narsingdirbani.com##.stream-item-inline-post
+bankalive.net,narsingdirbani.com,pragativahini.com##.stream-item-inline-post
 chhattisgarhprimetime.com##.stream-item-inline-post:has(> .stream-title)
 bombaysamachar.com,capitalvoice.in,eastcoastdaily.com,kelanchaltimes.com,livequicknews.in,manasvivani.com,mbkhabar.com,natunbarta.com,nepaltvonline.com,northindiastatesman.com,rajdhanitimescg.in,thetimesofchhattisgarh.com,tismedia.in##.stream-item-mag
 bhartianews.com,haqeeqattoday.com,news20live.com,tamilveedhi.com##.stream-item-top
