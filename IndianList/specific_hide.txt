@@ -332,11 +332,9 @@ spyviewnews.in###disqus_recommendations
 bhorerkagoj.com###div-ub-bhorerkagoj
 mantavyanews.com###divFLRALeft
 mantavyanews.com###divFLRARight
-deepika.com###divTopNewsHead + .row > .inner_news_head
 ittefaq.com.bd###div_252
 deshrupantor.com###div_683
 teluguwishesh.com###djslider875
-deepika.com###dvPopup
 firsteyenews.co.in###dynamic_sidebar_before
 hastakshep.com###eaa-12
 elokasha.com,lokprashna.com###eloka-google
@@ -1276,8 +1274,10 @@ divaina.com##.advertisments
 navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
 tulsipurkhabar.com##.advetisement
 onlinedabali.com##.advls
+deepika.com##.advrt-container
 sangbadprotidin.com,shomoynews.net##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
+deepika.com##.advt-contant
 divyahimachal.com##.advt-homepage
 indiaspeaks.news##.advt-widget
 webdunia.com##.advt_336
@@ -2601,6 +2601,7 @@ sarabangla.net##.sb-half-page-ad
 khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
 gramnagarbarta.com##.scrollable-slider
 rajshahinews24.com##.secOne-add
+deepika.com##.second-section-add
 entevarthakal.com##.second_section_right
 newspolar.com##.section .adalyticsblock
 makalukhabar.com,nepalpress.com##.section-ad-space
