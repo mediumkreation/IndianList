@@ -2484,7 +2484,6 @@ bharatiyadigitalnews.in,divaina.lk##.popup
 dailythanthi.com##.popup-ad-content-wrap
 bartakontho.com##.popup-wrpp
 bonikbarta.net##.popupCloseButton
-jaijaidinbd.com##.popup_img
 apnamzn.com##.portlet-journal-content
 thenewsqube.com##.pos
 media24media.com##.post > a img
@@ -3011,7 +3010,6 @@ aashanews.com##.text-10
 aashanews.com##.text-4
 samakal.com##.text-body-ad
 sajhasabal.com##.text-center iframe
-jaijaidinbd.com##.text-center.mt-3
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
