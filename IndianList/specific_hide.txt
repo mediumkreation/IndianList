@@ -2960,6 +2960,7 @@ uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
 thebharatnews.net##.td-ss-main-sidebar > .widget_text
 sajagindia.com##.td-ss-main-sidebar aside
+najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
