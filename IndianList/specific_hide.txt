@@ -2766,7 +2766,6 @@ donnews.com,imandarmedia.com,sancharkendra.com##.skadd
 donnews.com##.skads
 nepalraftar.com##.skip-ads
 news4nation.com##.slide-container
-silkcitynews.com##.slider
 jagratilahar.com##.slider img:not([src*="1595764637"])
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
