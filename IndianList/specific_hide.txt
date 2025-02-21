@@ -707,7 +707,7 @@ kayalconnection.com###slideshow
 pravasi.us###slideshow2
 pravasi.us###slideshow3
 nayaharyana.com###slotbanner
-dailyalokitovor.com,padmatimes24.com###small-news
+dailyalokitovor.com###small-news
 todaypostlive.com###smart-head .h-text
 peoplenews.lk###sneeit-advertisement
 garimatvnews.com###sp-ads
@@ -752,7 +752,7 @@ akashgyanvatika.com,anaicoddai.com,arthparkash.com,ctgcrimenews.com,himalayauk.o
 apnapradesh24x7.com###text-11 iframe
 despardesweekly.co.uk,ekhansangbad.com,firstuttarpradesh.com,jagprerna.com,magurabarta24.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
-bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,padmatimes24.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
+bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,news24x365.com,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
 fatehnagarnews.com,meherpurpratidin.com,swadeshbani.com,udaipurkiran.in###text-16
