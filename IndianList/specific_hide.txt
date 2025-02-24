@@ -1233,6 +1233,7 @@ radionrn.com##.adver-half
 radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
+vasundharadeep.news##.adver-slider
 khabrainabhitak.org##.adver_banner
 ada.lk,ajkerrajshahi.com,manithan.com,shyamalsylhet.net,tamilan24.com##.advert
 ada.lk##.advert-single
@@ -2312,6 +2313,7 @@ pokharaexpress.com##.mid-header .navbar-nav img
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 cricket97.com##.middle-add
+vasundharadeep.news##.middle-header-newsadvert
 dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
@@ -2875,7 +2877,6 @@ nepalsamaya.com##.tc-side-ads
 sachetonbarta.com.bd,todayexpressnews.com##.td-a-rec .td-all-devices
 newstrendz.co.in##.td-a-rec iframe
 abhayindia.com,abhishektimes.in.net,adhuniksamachar.com,annapurnatimes.com,berartimes.com,jaagonews.com,ktvprotidin.com,sangamkhabar.com.np,smnewshimachal.in,thegramtodaydailynews.com,ucchakontha.com,uttarakhandkhabar.in##.td-a-rec img
-vasundharadeep.news##.td-a-rec img:not([src*="Whatsapp-Strip-scaled-"])
 postmanindia.in##.td-a-rec img:not([src*="ad-ddepaper.jpg"])
 tarunchhattisgarhkorba.com##.td-a-rec img:not([src*="join"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
@@ -3339,7 +3340,7 @@ raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 khabaruttarakhand.com,samacharagency.com##.widget_media_image:not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikkhabarlayehain.com,dunvalleymail.com,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,kasturinews.com,liveskgnews.com,mitanbhoomi.com,network10tv.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,sankhnaad.com,sarkarimanthan.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vision4news.com,voiceofuttarakhand.net##.widget_media_video
+aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikkhabarlayehain.com,dunvalleymail.com,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,kasturinews.com,liveskgnews.com,mitanbhoomi.com,network10tv.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,sankhnaad.com,sarkarimanthan.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vasundharadeep.news,vision4news.com,voiceofuttarakhand.net##.widget_media_video
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
 aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,thekhabrilal.com,timesandspace.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
@@ -3571,7 +3572,6 @@ firstlookbihar.in##a.sideAdd
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
 thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
-vasundharadeep.news##a[aria-label="728×90"]
 sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
