@@ -1088,6 +1088,7 @@ evartha.in##.add-row
 dainiktribuneonline.com,netizennepal.com,thebengalitimes.com##.add-sec
 nepalpostdainik.com##.add-sect
 bdsomachar24.com,dinajpur24.com,dristyprotidin.com,malisamajsocial.com,muktirlorai.com,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
+businesshour24.com##.add-section a:not([href*="businesshour24.com"])
 moulvibazar24.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
