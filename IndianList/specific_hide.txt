@@ -2521,6 +2521,7 @@ sanghamam.com##.pr-0
 sabkikhabar.com,samarthsahara.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 paathok.news##.prettyphoto
+deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
 sakalakhabar.com##.primary-sidebar-widget
 samajalive.in##.primary-sidebar-widget:has(div[data-adid])
 cgtazanews.com##.primary-sidebar-widget:not(#better-social-counter-2)
