@@ -2671,7 +2671,6 @@ bekhauphindia.com##.sidebar .widget_text:not(#text-10)
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
-ntinews.com##.sidebar iframe
 tamilvisions.com##.sidebar-ad-banners
 tatokhabar.com##.sidebar-add
 unb.com.bd##.sidebar-adds-widget
@@ -2969,13 +2968,13 @@ najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,newspage13.com##.td_block_image_box
-abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,samriddhasamaj.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,ntinews.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,samriddhasamaj.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 biswabanglasangbad.com##.td_block_single_image:not([data-td-block-uid="tdi_41"])
 chatganrbani.com##.td_block_text_with_title
-dunvalleymail.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
+dunvalleymail.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,ntinews.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
 bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
