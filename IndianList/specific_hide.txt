@@ -576,6 +576,7 @@ pardafas.com###primary .gam-ad-position-wrap
 damaulinews.com###primary .widget_block
 himwantpradeshnews.com###primary .widget_media_image
 bhalukanews.com###primary img[alt="ads"]
+dailynabochatona.com###primary-content .widget_media_image img:not([src*="e-Paper.png"])
 purbashabd24.com###primary-sidebar
 samacharhouse.com###quads-ad17070
 akhandbharatsamachar.com###recent-boxes2
@@ -2741,7 +2742,7 @@ jamunanewsbd.com##.single_page .widget_area
 somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 sangbad-gallery.com##.single_page_bottom_ad
-dailynabochatona.com,dailynarayanganjerdak.com##.single_page_two_advertisement
+dailynarayanganjerdak.com##.single_page_two_advertisement
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
 khabar7clive.com##.single_sidebar:has(> ul > div)
