@@ -1794,6 +1794,7 @@ beforepublish.com,bharatbarta.com,deepamnews.lk,healthbangla.com,rcbrn.com,samba
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
 punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
+aamaadmi.in##.entry-content .stream-item-inline-post
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
 humarabikaner.com##.entry-content > div
@@ -3263,7 +3264,7 @@ newsi.in##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
 tibrakhabar.com##.widget_black-studio-tinymce .aligncenter
 dhadingnews.com##.widget_black_studio_tinymce
-24webnews.com,36garhi.com,a2znewsup.com,aamaadmi.in,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,impactvoice.news,insightonlinenews.in,kathastar.com,keelainews.com,khabareducation.com,mukhyadhara.in,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
+24webnews.com,36garhi.com,a2znewsup.com,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,impactvoice.news,insightonlinenews.in,kathastar.com,keelainews.com,khabareducation.com,mukhyadhara.in,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
 uppunews.com##.widget_block figure
 ashmitanews.in##.widget_block figure.size-large
 dailyfaridpurkantho.com,dinakaran.com##.widget_block img
