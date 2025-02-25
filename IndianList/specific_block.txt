@@ -937,7 +937,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||clmbtech.com^$third-party,domain=samayduniya.com
 ||cloud.swiftstreamhub.com^$domain=dainikup.com|up.news
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
-||cloudinary.com^*/cement-add3.jpg$domain=firstbihar.com
 ||cnewsbangla.com/wp-content/uploads/2019/09/Gloria-arlour.jpg
 ||cnibd.net/wp-content/uploads/2018/12/brb-cables-300x200.jpg
 ||cnibd.net/wp-content/uploads/2019/09/lead-1024x51.png
@@ -1409,7 +1408,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||filmybuzz.com/images/Ecommerce-Website-Design.jpg
 ||filmybuzz.com^*/new-banner
 ||financialviews.in/storage/uploads/admin/ads/
-||firstbihar.com/Media/parcha/
 ||firstlookbihar.in/images/0.jpg
 ||focusharyana.in/wp-content/uploads/2024/07/A4-Mag-Ad-SOI7_page-0001.jpg
 ||foodchannel.com^$third-party,domain=sameera.co.in
