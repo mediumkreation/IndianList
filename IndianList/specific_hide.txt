@@ -1550,6 +1550,7 @@ deshprahari.com##.code-block:not(.code-block-6)
 bangalianaa.com##.code-widget
 notunerkotha.com##.codedokan_widget img
 bankingkhabar.com##.codeneric_uam_link
+firstbihar.com##.col-12 > iframe
 colombotamil.lk,nishpakshjanavlokan.in##.col-bn-ds
 apnapunjabmedia.com##.col-lg-2 > .white-bg
 hajurkokhabar.com##.col-lg-3 .home__news_box
@@ -1989,7 +1990,6 @@ rojanapunjab.com##.header-centerbar-ad
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
 odishabhaskar.com##.header-inner .sidebar-col
-firstbihar.com##.header-middle-area
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
 alochitokantho.com.bd,jamalpurlive.net,wegarhwali.com##.header-promotion
@@ -2443,7 +2443,7 @@ telugu.mykhel.com##.os-ad-c
 himalayapost.com##.otw-sidebar .widget_text
 maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 banglatribune.com##.overayFeaturedImage
-24x7cg.com,kelopravah.news,nawidunia.com##.owl-carousel
+24x7cg.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
@@ -2511,7 +2511,6 @@ ujalahiteshiexpress.com##.post-middle-banner
 chakrikhobor.com##.post-right-side-square-ads-big
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 mysamachar.in##.post-text section
-firstbihar.com##.post-widget-carouselr
 sharebiz.net##.post-wrap.post .sidebar .widget_text
 himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 kalikadainik.com,satkarpost.com##.posts__banner__ads
@@ -3071,7 +3070,6 @@ hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 lokbharat.in##.theiaStickySidebar aside.widget_text
 uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
-firstbihar.com##.theiaStickySidebar iframe
 bdsomachar24.com##.themesBazar_widget .wp-block-image
 somoyerkontha.com##.themesBazar_widget > .textwidget
 banglarchithi.com,hakkatha.com##.themesBazar_widget img
@@ -3726,7 +3724,6 @@ magnificentbihar.com##aside.ai_widget
 khoborersomoy.com##aside.right_content div.single_sidebar:has(> a[target="_blank"])
 chitrodesh.com,navakeralanews.com##aside.sidebar .widget_media_image
 ghaziabadparikrama.com##aside.sidebar-narrow
-firstbihar.com##aside.tb-posts-slide-widget
 cnewsbharat.com##aside.text-center
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bhadas4media.com##aside.widget_block
