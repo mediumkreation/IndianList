@@ -660,7 +660,6 @@ iautoindia.com###sidebar .widget:has(.banner)
 indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
-keepinspiringme.inm###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
 awajnews.com,dbnnews.in,malayalamexpress.in,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
@@ -1785,6 +1784,7 @@ kannurmetroonline.com##.embed-responsive-4by3
 iamgujarat.com##.endarticle div:has(> .ad1)
 kamuktastories.com##.enhanced-text-widget
 divyahimachal.com##.entered.error
+keepinspiringme.in##.entries .code-block
 weeklyhajiganj.com##.entry > p:last-child > img
 dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,sunbd24.com##.entry-ads-top
@@ -3266,7 +3266,7 @@ newsi.in##.widget_beside_slider
 nepalbritain.com##.widget_black-studio-tinymce
 tibrakhabar.com##.widget_black-studio-tinymce .aligncenter
 dhadingnews.com##.widget_black_studio_tinymce
-24webnews.com,36garhi.com,a2znewsup.com,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,impactvoice.news,insightonlinenews.in,kathastar.com,keelainews.com,khabareducation.com,mukhyadhara.in,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
+24webnews.com,36garhi.com,a2znewsup.com,avikaluttarakhand.com,azchavattomonline.com,banglanewsupdate24.com,bharatsarathi.com,dainikchhattisgarhwatch.com,dhakalive24.com,fatafatnews.com,idealindianews.com,impactvoice.news,insightonlinenews.in,kathastar.com,keelainews.com,keepinspiringme.in,khabareducation.com,mukhyadhara.in,nammakudlanews.com,odishatime.com,rashtrasamvad.com,samastipurlive.com,thekeralatimes.com,thetruths.in,udaydarpan.com,upaajtak.com##.widget_block
 uppunews.com##.widget_block figure
 ashmitanews.in##.widget_block figure.size-large
 dailyfaridpurkantho.com,dinakaran.com##.widget_block img
