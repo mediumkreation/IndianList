@@ -3237,6 +3237,7 @@ dailyinshort.com##.widget-header
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
+mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
