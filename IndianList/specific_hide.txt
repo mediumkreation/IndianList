@@ -309,7 +309,7 @@ saakshatv.com###custom_html-26
 ethiri.com,ujiarpurnews.com###custom_html-27
 kathastar.com,khabarhikhabar.com,saakshatv.com###custom_html-28
 saakshatv.com###custom_html-29
-angindianews.com,barisaltoday.com,cglivenews.co.in,crimemukhbir.com,dastaktimes.org,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,khabarexpert.in,khabarstate.com,kushtiabd.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,outlinekhabar.com,samastipurtown.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
+angindianews.com,barisaltoday.com,cglivenews.co.in,crimemukhbir.com,dastaktimes.org,ekushershokal.com,firsttracknews.com,hastakshep.com,jagprerna.com,janadeshnews.in,khabarexpert.in,khabarstate.com,kushtiabd.com,lotpot.com,manamnews.com,marginalised.in,motivatedkannadiga.com,muznews.in,newsharpal.in,outlinekhabar.com,suddikanaja.com,usanewsonline.com,voiceoffreedom.in###custom_html-3
 saakshatv.com###custom_html-30
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
@@ -1520,6 +1520,7 @@ newsuperbharat.com##.click-zoom
 amarsandesh.com##.cm-beside-slider-widget
 dakhinanchal.com,poojanews.com##.cm-content .widget_media_image
 hindimedia.in##.cm-popup-modal
+samastipurtown.com##.cm-post-content img
 oneindia.com##.cmscontent-article1
 drivespark.com,tamil.oneindia.com##.cmscontent-top
 hariyalinepal.com##.cnt_cnt_ads
@@ -4199,7 +4200,7 @@ dailybahadur.com##figure.wp-block-image > img
 247superfast.com,andhravilas.net,beforepublish.com,jagocomilla.com,namastenri.net,smpnews24.com##figure.wp-block-image.size-full
 agraupdate.com,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
 sanvadnews.com##figure.wp-block-table
-buxaruptodate.com,samastipurtown.com##figure.wp-caption
+buxaruptodate.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 indiareportertoday.com##figure[id^="attachment"]
 sankeerthanam.com##footer .widget-area
