@@ -83,6 +83,7 @@ odia-ray.in###Mod182
 odia-ray.in###Mod225
 pnews.co.in###SidebarWidgets-S1
 battirepnews.com###SidebarWidgets-S1 .widget.Image
+dainikroorkee.com###Slider
 malabarflash.com,mewartimes.com,thereport24.com###ad
 headline24x7.com,rkexpose.com###adAboveHeader
 andhrajyothy.com#@##adDiv
@@ -502,9 +503,6 @@ idunammaooru.in###metaslider_10258
 moviemandu.com###metaslider_1316
 dailypunjabnews.com###metaslider_16689
 dailypunjabnews.com###metaslider_21872
-dainikroorkee.com###metaslider_288
-dainikroorkee.com###metaslider_295
-dainikroorkee.com###metaslider_4598
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
@@ -1016,7 +1014,6 @@ marathi.abplive.com##.ad-wrapper-leaderboard
 vijaykarnataka.com##.ad-wrapper-photo
 alorkantho24.news,bengali.timesxp.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 maharashtratimes.com##.ad1_native
-dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 naidunia.com##.ad300_1
 alorkantho24.news##.ad4
@@ -2445,7 +2442,7 @@ telugu.mykhel.com##.os-ad-c
 himalayapost.com##.otw-sidebar .widget_text
 maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 banglatribune.com##.overayFeaturedImage
-24x7cg.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
+24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
