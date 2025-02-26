@@ -2724,8 +2724,7 @@ makdaiexpress24.com##.single-post-content [data-adid]
 ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
 kanvkanv.com##.single-sidebar iframe
-nepalbritain.com,rastriyakhabar.com##.single-wrapper-details-sidebar-ads
-tibrakhabar.com##.single-wrapper-details-sidebar-ads img
+nepalbritain.com,rastriyakhabar.com,tibrakhabar.com##.single-wrapper-details-sidebar-ads
 dristyprotidin.com##.single3-page-add
 avenues.tv,purbelinews.com##.single__bigyapaan
 ctgtimes.com##.single_ads_top
