@@ -1053,7 +1053,7 @@ lightnewsbd.com##.add a[target="_blank"]
 cninews24.com,newsallbangladesh.com##.add figure
 digontonews.com##.add figure img
 channeldurjoy.com##.add figure.size-full
-bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiraprotidin.net,satkhiratimes24.com,sherpurtoday.com,shubhoprotidin24.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
+71sangbad24.com,bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dainikdeshbarta.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,deshprotidin.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,satkhiraprotidin.net,satkhiratimes24.com,sherpurtoday.com,shubhoprotidin24.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 bwazarakatha.com##.add img:not(.wp-image-19734)
@@ -3254,7 +3254,7 @@ e-kantho24.com,gtbnews24.com##.widget_area
 diptonews24.com##.widget_area .attachment-full
 pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
 dainikcampus.com##.widget_area > .textwidget
-dailybahadur.com,dailynotunsongbad.com##.widget_area > img
+71sangbad24.com,dailybahadur.com,dailynotunsongbad.com##.widget_area > img
 banglaralonews.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 barisalcrimetrace.com##.widget_area p>img
