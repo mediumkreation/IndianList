@@ -1594,7 +1594,7 @@ newsworldweb.in##.container.frame
 aponzonepatrika.com##.container1
 sunamganjerkhobor.com##.container_fluid.bgColor2
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
-aarthikplus.com##.content a[target="_blank"] img
+aarthikplus.com,sansarnews.com##.content a[target="_blank"] img
 barendraexpress.com.bd##.content-ad-block360
 dinamani.com##.content-av
 hetaudatoday.com##.content-banner
