@@ -2209,8 +2209,6 @@ heralokhabar.com##.list_ads
 news18.com##.listview-story li:has(div[data-implementation])
 news18.com##.listview-story li:has(div[id^="mobileAd"])
 dailyjugantorsangbad.com##.live .embed-responsive
-sylheterchakrirkhabar.com##.live_title
-sylheterchakrirkhabar.com##.live_title + p
 manasmediaonline.com##.livedemo img
 lankanewsweb.net##.lnw-ad
 eenadu.net##.localads
@@ -2708,6 +2706,7 @@ khabaristan.com##.single-box
 dhadingpost.com##.single-content p~figure.wp-block-image
 aayokhabar.com##.single-content ~ p
 channelcox.com##.single-ditails + .add .widget_area
+sylheterchakrirkhabar.com##.single-ditails div[style^="float"] > img
 bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
 odekhabishwo.com,paribahanjagot.com##.single-dtls img
 etvuttarakhand.com##.single-entry > div[style^="float"]
