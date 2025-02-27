@@ -263,7 +263,7 @@ globalnews24x7.com,kelanchaltimes.com,pkdnewschannelnoi.com,sabkajammukashmir.co
 giridihupdates.com,overlook.co.in###content .widget_block
 hindikhabar.com###content .widget_block:not(#block-62)
 rajasthancoverage.com###content .widget_custom_html
-khabarmala.com,nobokontho.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
+nobokontho.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
 panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
 kabirkiawaz.in###content .widget_text:not(#text-8)
@@ -1247,7 +1247,7 @@ margarekha.com##.advertise-border
 nobat.com##.advertise-ifrme
 paryatanbazar.com,shyamalsylhet.net##.advertise-section
 socialvikassamachar.com##.advertise-widget-box
-nepalmamila.com##.advertiseImage
+khabarmala.com,nepalmamila.com##.advertiseImage
 sylhetbarta24.com##.advertise_image
 dinajpurnews24.com,news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
