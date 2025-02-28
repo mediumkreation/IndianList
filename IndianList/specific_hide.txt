@@ -352,7 +352,7 @@ rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 jagonews24.com###fscorecard
 dishadaily.com###full_level_1_detail
-merojilla.com###goji-wd-3dads
+merojilla.com,pokharanews.com###goji-wd-3dads
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 lagatar.in###hadd
@@ -2137,7 +2137,7 @@ filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
 hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
-gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com##.inside_ads
+gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com,pokharanews.com##.inside_ads
 birgunjsanjal.com##.inside_ads img
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
