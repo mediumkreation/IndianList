@@ -4374,7 +4374,7 @@ overlook.co.in##section.widget_block:has(> p > ins)
 bidrohee.com,drukpadam.com,uttarkal.com##section.widget_custom_html
 krantiodishanews.com##section.widget_custom_html:not(#custom_html-2)
 uttrakhandtoday.com##section.widget_custom_html:not(#custom_html-7)
-britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,pradeepamonline.com,prajakiran.com,sankalpakhabar.com,sbharatnews.com,thehillsofmussoorie.com,thethinkmedia.com##section.widget_media_image
+britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,kahalenews.com,kubiyonews.com,lenseyenews.com,mootv.in,newswatch.co.in,pradeepamonline.com,sankalpakhabar.com,sbharatnews.com,thehillsofmussoorie.com,thethinkmedia.com##section.widget_media_image
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 sabkikhabar.net##section.widget_media_image:not(#media_image-2)
 mpbreaking.in##section.widget_media_image:not(#media_image-6)
