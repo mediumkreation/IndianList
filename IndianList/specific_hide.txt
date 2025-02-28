@@ -975,7 +975,7 @@ kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,anmolkhabar.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,sabalpost.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
+akhabarhub.com,anmolkhabar.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
 cialive.in##.ad .carousel
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd##.ad img
@@ -1599,6 +1599,7 @@ barendraexpress.com.bd##.content-ad-block360
 dinamani.com##.content-av
 hetaudatoday.com##.content-banner
 ratopati.com##.content-banner--single
+prasashan.com##.content-banner-single
 damaulinews.com,gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
@@ -2697,6 +2698,7 @@ ambalanews24.com##.sidebarVoteAd
 sawalnepal.com##.sidebar__ads
 anmolkhabar.com,hetaudatoday.com,lalkhabar.com,nawayug.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
+prasashan.com##.sidebarad-content
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
@@ -4193,7 +4195,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 dailysobujbarta.com##figure.vc_figure
 ab71.tv,apnades.in##figure.wp-block-embed
 aajexpress.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net##figure.wp-block-gallery
-aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,prasashan.com,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,darbhangacity.in,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 dailybahadur.com##figure.wp-block-image > img
 247superfast.com,andhravilas.net,beforepublish.com,jagocomilla.com,namastenri.net,smpnews24.com##figure.wp-block-image.size-full
 agraupdate.com,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
