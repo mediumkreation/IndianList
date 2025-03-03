@@ -4267,6 +4267,7 @@ khabreelal.com##img[alt="sonu"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 dailypurbodesh.com##img[class^="sb-ads"]
+kalpa.news##img[data-lazy-src*="-advt-" i]
 pnews.co.in##img[id^="Image"]
 nayasadak.com##img[src*="Bigyapan"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
