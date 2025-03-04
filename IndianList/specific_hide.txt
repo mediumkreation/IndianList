@@ -2843,6 +2843,7 @@ abhitaknewsuk.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com,magahinews.com##.stream-item-below-post
 magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,jaunpur24.com,khabarhikhabar.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
+dailybihar.in##.stream-item-below-post-content img
 magahinews.com##.stream-item-in-post
 bankalive.net,narsingdirbani.com,pragativahini.com##.stream-item-inline-post
 chhattisgarhprimetime.com##.stream-item-inline-post:has(> .stream-title)
