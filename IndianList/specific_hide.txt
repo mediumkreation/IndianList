@@ -24,7 +24,7 @@ banglarawaj.com,chilahatiweb.com,editiontoday.in,importmirror.com,kagojlive.blog
 24upnews.com###HTML2 .separator img
 backtobollywood.com,gossiplankanews.com###HTML20
 chahalpahal.in###HTML200
-sebahotnews.org###HTML21
+kurunews.com,sebahotnews.org###HTML21
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
@@ -69,7 +69,7 @@ nepalmother.com###Image39
 gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newmannar.lk,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,newmannar.lk,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
-adminmedia.in,hamaramahanagar.in,kurunews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
+adminmedia.in,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
 nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
@@ -2791,6 +2791,7 @@ abcnews.media,dailydhaka24.com,inews.zoombangla.com,jankipul.com,theriyuma.com##
 nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 groundzeroenews.co.in##.soliloquy-container
+kurunews.com##.sora-ads-full
 kaumudiplus.com##.sp-ad-row
 samudrapari.com##.sp-full-width-ads
 laatsaab.com##.sp_simple_youtube
