@@ -195,7 +195,7 @@ tamizhdb.com,viewpointjharkhand.com###block-19
 bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 sabkasandesh.com###block-20
 ekhabartoday.com,sabsach.in,tamizhdb.com###block-21
-alivenews.co.in,newslab24.in,samvaad365.com###block-22
+alivenews.co.in,newslab24.in###block-22
 antarkatha.com,hnn24x7.com,livepress24.com###block-23
 govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com,whatinindia.com###block-24
 banglarjanapad.com,govindia.in###block-25
@@ -3340,7 +3340,7 @@ uttaravani.com##.widget_media_image:not(#media_image-7)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 samacharagency.com##.widget_media_image:not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,devbhoomimedia.com,doonited.in,dunvalleymail.com,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,kasturinews.com,khabaruttarakhand.com,liveskgnews.com,mitanbhoomi.com,mussoorieaajtak.com,network10tv.com,news127.com,news129.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,sankhnaad.com,sarkarimanthan.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vasundharadeep.news,vision4news.com,voiceofuttarakhand.net##.widget_media_video
+aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,devbhoomimedia.com,doonited.in,dunvalleymail.com,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,kasturinews.com,khabaruttarakhand.com,liveskgnews.com,mitanbhoomi.com,mussoorieaajtak.com,network10tv.com,news127.com,news129.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,samvaad365.com,sankhnaad.com,sarkarimanthan.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vasundharadeep.news,vision4news.com,voiceofuttarakhand.net##.widget_media_video
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
 aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,thekhabrilal.com,timesandspace.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
