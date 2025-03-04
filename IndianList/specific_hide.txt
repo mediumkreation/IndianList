@@ -1442,6 +1442,8 @@ andhrabhoomi.net##.block-block:not(#block-block-13)
 akashgyanvatika.com,dainikbhaskarup.com,indiaprimenews.in,khabarhikhabar.com,navabharat.news,newj9.com,theguptchar.com##.block-custom-content
 f21news.com##.block-custom-content:not(#tie-block_1405)
 sudurpress.com##.block-inline-blockad-block
+londonbdnews24.com##.block-left-banner
+londonbdnews24.com##.block-right-ads1:not(:has(> .block-body > div))
 londonbdnews24.com##.block-right-bottom-ads
 khabrainabhitak.org,panchkulasamachar.com,sportszone24.com##.block-widget
 newsflash71.com##.block__2
