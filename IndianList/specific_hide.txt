@@ -242,7 +242,7 @@ satv.tv###bunyad_ads_widget-9 > .widget-title
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
 al-ihsan.net,thattungal.com###carousel
-chouranews.com,nzpunjabinews.com###carouselExampleControls
+chouranews.com###carouselExampleControls
 cnin.co.in###carouselExampleDark
 emstv.in###ccr-right-section #sidebar-video-post img
 crimejunction.com###center-container .HTML
@@ -4168,7 +4168,6 @@ filmykhabar.com##div[style*="margin: 10px 0px 10px 0px; display: flex; justify-c
 mzamin.com##div[style*="min-height"]
 timesnowmarathi.com##div[style*="min-height: 181px;"]
 thahakhabar.com##div[style="background-color: #fff; padding:0px; margin-right:10px;"]
-nzpunjabinews.com##div[style="font-size: 12px; color: #d0d0d0;"]
 channel24bd.tv##div[style="height: 250px;"]
 womeneye24.com##div[style="height:400px"]
 bbarta24.net##div[style="height:78px; width:100%"]
