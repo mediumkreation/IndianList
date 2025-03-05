@@ -1738,6 +1738,8 @@ barishalcrimenews.com##.elementor-widget-flip-box
 dastakindia.com##.elementor-widget-foxiz-ad-image
 cinemapressclub.com##.elementor-widget-he-advertisement-banner
 khabriyanews.com##.elementor-widget-heading
+jubokantho24.com##.elementor-widget-heading + .elementor-widget-image
+jubokantho24.com##.elementor-widget-heading:has(+ .elementor-widget-image)
 indiansamachar.in,joharlive.com,kannadavahini.com,kasaragodchannel.com,khagracharipratidin.com,motherlandpost.in,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 zoombangla.com##.elementor-widget-html img
