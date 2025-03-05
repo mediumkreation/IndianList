@@ -853,8 +853,6 @@ ghaziabadparikrama.com###video-widget-2
 livesamachar.live###video-widget-3
 ajkerdarpon.com###videoAdd
 news18.com###vigyapan
-malwanews.com###viral_advertisement-11
-malwanews.com###viral_advertisement-7
 kannada.vartamitra.com###vmadspace
 crimesuspence.com###wb_element_instance35
 crimesuspence.com###wb_element_instance48
@@ -898,7 +896,6 @@ kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
 ittefaq.com.bd###wrapper_283
 itvbd.com###wrapper_526
-malwanews.com###youtube_responsive-10
 citynewsexpress.com##.-indx
 dhangadhikhabar.com##.AD_NEWS_CONTENT_INNER_P1
 hetaudatoday.com,tukhabar.com##.Ad
