@@ -18,7 +18,7 @@
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|patheo24.com|suprovatsatkhira.com|teluguwishesh.com
 -add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
 -adds-$domain=ddnews24x7.com
--ads-$domain=aruna.lk|bahrainvartha.com
+-ads-$domain=bahrainvartha.com
 -Ads-$domain=bdtoday24.com|dailyceylon.com|gopalganj.org|meelparvai.net
 -ads-banner-$domain=timeshindi.in
 -ads.jpg|$domain=bigulnews.tv|thebiharnews.com
@@ -373,7 +373,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||arlivenews.com^*/GEETANJALI-HOSPITAL
 ||arthosuchak.com/wp-content/uploads/2025/01/city-bank-new-ac.jpg
 ||arthosuchak.com/wp-content/uploads/2025/02/kutubuddin-ahmed.jpg?x40586
-||aruna.lk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-popup.574af8e5.gif
 ||aryavi.com/images/banner/
 ||asbnewsindia.com/wp-content/uploads/2021/05/Amrish-chaudhary.jpg
 ||asbnewsindia.com/wp-content/uploads/2021/05/payal-maheshwari.jpg
