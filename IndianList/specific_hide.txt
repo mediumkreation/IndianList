@@ -3527,6 +3527,8 @@ satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 nawadalive.com##HTML13
 tollywood.net##[alt*=" ad"]
+aruna.lk##[alt="BD"]
+aruna.lk##[alt="Meldol"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
 jharkhandlatestnews.com##[alt="joy e-bike latehar"]
@@ -4248,7 +4250,6 @@ shariatpurnews24.com##img[alt="-Advertisement-"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
 dcnewsbd.com##img[alt="Advertisement"]
-aruna.lk##img[alt="Arpico"]
 biyanitimes.com##img[alt="Gurukpo plus app"]
 onlinemarg.com##img[alt="Header Ad"]
 ajkersylhet.com##img[alt="Jainta Barta Local Ad"]
