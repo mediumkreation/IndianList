@@ -2745,6 +2745,7 @@ sangbad-gallery.com##.single_page_bottom_ad
 dailynarayanganjerdak.com##.single_page_two_advertisement
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
+jonotatv.com##.single_sidebar:has(> .textwidget:only-child)
 khabar7clive.com##.single_sidebar:has(> ul > div)
 fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
