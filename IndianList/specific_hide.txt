@@ -1769,7 +1769,7 @@ bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
-abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,joharlive.com,mujibsenanews.com##.elementor-widget-smartmag-codes
+abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,joharlive.com,lokshakti.in,mujibsenanews.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 indialivingnews.in##.elementor-widget-upk-camux-slider
