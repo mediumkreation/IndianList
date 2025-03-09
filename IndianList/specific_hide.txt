@@ -2754,6 +2754,7 @@ gaunsahar.com##.site-adv1
 biharwow.com##.site-content .elementor-sticky--effects > div[data-settings]
 dakshinbharat.com,purvanchalsandesh.com,swatantrabharat.net##.site-content .imagewidget
 purvanchal24.com##.site-content .pbwidget.imagewidget
+pulse24news.com##.site-content .wp-block-ultimate-post-image
 indias.news##.site-footer .widget_text
 khabarkunj.com##.site-footer__bottom
 prajamantalu.com##.site-header .htmlwidget
