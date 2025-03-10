@@ -1429,7 +1429,6 @@ farakdhar.com##.bigyapan__news
 biharaaptak.com##.bihar-widget
 bikaner24x7news.com##.bikan-before-content
 pahilopost.com##.biz-ad-block
-wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 keelainews.com##.block-15
 janadhvani.com##.block-29
 jankaritoday.com##.block-60
@@ -3549,6 +3548,7 @@ heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
+wnepal.com##[class*="vigyapan"]
 dailyamardesh.com##[class*="w-[300px]"]
 dailyamardesh.com##[class*="w-[320px]"]
 vtvgujarati.com##[class="hidden xmd:block"]
