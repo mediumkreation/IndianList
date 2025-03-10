@@ -2977,7 +2977,7 @@ udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 biswabanglasangbad.com##.td_block_single_image:not([data-td-block-uid="tdi_41"])
 chatganrbani.com##.td_block_text_with_title
-dunvalleymail.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,ntinews.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
+dunvalleymail.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,ntinews.com,pradeshlive.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
 bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
