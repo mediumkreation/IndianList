@@ -85,7 +85,7 @@ pnews.co.in###SidebarWidgets-S1
 battirepnews.com###SidebarWidgets-S1 .widget.Image
 dainikroorkee.com###Slider
 malabarflash.com,mewartimes.com,thereport24.com###ad
-headline24x7.com,rkexpose.com###adAboveHeader
+beauronews.com,headline24x7.com,rkexpose.com###adAboveHeader
 andhrajyothy.com#@##adDiv
 rkexpose.com###adHeaderBottom
 weeklysonarbangla.net###adOrGretings
