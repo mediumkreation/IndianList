@@ -86,6 +86,7 @@ battirepnews.com###SidebarWidgets-S1 .widget.Image
 dainikroorkee.com###Slider
 malabarflash.com,mewartimes.com,thereport24.com###ad
 beauronews.com,headline24x7.com,rkexpose.com###adAboveHeader
+janchhaya.in###adCarousel2
 andhrajyothy.com#@##adDiv
 rkexpose.com###adHeaderBottom
 weeklysonarbangla.net###adOrGretings
