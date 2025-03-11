@@ -1709,6 +1709,7 @@ lohagaranews24.com,mithilacitynews.in##.e3lan-post
 kalyankesari.com##.e3lan300_600-widget
 uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
+mpcnews.in##.elementor-41 .elementor-widget-text-editor
 aajkijandhara.com##.elementor-col-33 .elementor-section
 nikharanews.in##.elementor-element .size-large
 khulasanewslive.in##.elementor-element-3fb6b77
@@ -1760,7 +1761,7 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 lakfmnews.lk##.elementor-widget-rt-image
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
-ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,newsinbihar.com,onlinebhaskar.com,vijayavani.net##.elementor-widget-shortcode img
+ambalacoverage.com,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,newsinbihar.com,onlinebhaskar.com,vijayavani.net##.elementor-widget-shortcode img
 7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
@@ -1770,6 +1771,7 @@ ebharatnews.in,truelinenews.com##.elementor-widget-slides
 abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,joharlive.com,lokshakti.in,mujibsenanews.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
+mpcnews.in##.elementor-widget-theme-post-content img
 indialivingnews.in##.elementor-widget-upk-camux-slider
 shivshahilive.com##.elementor-widget-video
 varthamanam.com##.elementor-widget-vinazine-ads
