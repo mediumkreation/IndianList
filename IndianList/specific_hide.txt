@@ -2376,6 +2376,7 @@ cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
 nepalijanta.com##.nepalijanta-ad
 hariyalinepal.com##.neptop-ads-place
+mhone.in##.new-banners
 citynewsdhaka.com##.new-international-right
 news18.com,news18marathi.com##.newadd
 europemalayali.co.uk##.news-add
