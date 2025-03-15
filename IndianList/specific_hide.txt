@@ -1524,6 +1524,7 @@ jhunjhununewz.com##.code-block figure:has(> figcaption)
 bharathvaibhav.com,karmalamadhanews24.com,keralaspeaks.news,kottayammedia.com,muthalvannews.com,news-arrow.com,prajasattaknews.com##.code-block img
 buxaruptodate.in##.code-block ~ img
 theexclusivestory.com##.code-block-1
+janajeevala.com##.code-block-12
 kannadi.news##.code-block-15 div:nth-child(3)
 ajkerkrishi.com,malnadtimes.com,naugachia.com,newstodayjharkhand.com##.code-block-2
 kahalenews.com,thebiharnews.com##.code-block-3
