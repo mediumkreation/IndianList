@@ -3739,6 +3739,7 @@ khoborersomoy.com##aside.right_content div.single_sidebar:has(> a[target="_blank
 chitrodesh.com,navakeralanews.com##aside.sidebar .widget_media_image
 ghaziabadparikrama.com##aside.sidebar-narrow
 cnewsbharat.com##aside.text-center
+dgnews.co.in##aside.w-full
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bhadas4media.com##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,kokanmedia.in,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
@@ -3962,7 +3963,6 @@ samacharfirst.com##div[class^="home-adright"]
 indianewsviral.co.in##div[class^="india-content_"]
 hindi.scoopwhoop.com##div[class^="jsx-"]
 kokanmedia.in##div[class^="kokan-"]
-dgnews.co.in##div[class^="max-h-[200px]"]
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
