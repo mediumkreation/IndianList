@@ -2918,7 +2918,6 @@ techvision24.com##.td-fix-index
 egoomedia.com##.td-fix-index > h4
 24ghonta.news,dailydeshkidharti.com##.td-fix-index img
 news1today.in##.td-fix-index img:only-child
-prajasatta.in##.td-footer-wrapper
 ni24news.com##.td-footer-wrapper .widget_media_image
 thebharatnews.net##.td-footer-wrapper aside.widget_text img
 bengalwatch.in,cctvonline.tv,dheivegam.com,enavamaratha.com,epunemetro.com,kanlishnews.com,lokpaksh.com,navdeshtimes.com,news7express.com,newsganga.com,newsinside24.com,positivekhabar.com,telugudesk.net,thelondontimes.uk,ujjwalhimachal.com##.td-g-rec
@@ -4355,6 +4354,7 @@ horizonhind.com##p[class="fontBold"]
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
+prajasatta.in#?#.gb-container:has(> ins.adsbygoogle)
 neemuchlive.com#?##pt-magazine-carousel-news-2:has(> div > .section-title .widget-title:-abp-contains(Advertisement))
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
 rochakkhabare.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
