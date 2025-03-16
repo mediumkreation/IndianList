@@ -2366,6 +2366,7 @@ khabreapki.com##.n2-ss-slider
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
+shatabdinews.com##.navbar + .row
 chamaktabharat.com#@#.navbar-ad-section
 prabhatvaibhav.com##.navbar-area ~ div > a > img
 prabhatvaibhav.com#@#.navbar-area-2 ~ div[style]
