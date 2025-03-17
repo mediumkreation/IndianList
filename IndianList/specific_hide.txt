@@ -2488,7 +2488,7 @@ dhadingnews.com,dinamina.lk,industryhit.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
 bharatiyadigitalnews.in,divaina.lk##.popup
-dailythanthi.com##.popup-ad-content-wrap
+dailythanthi.com,kathir.news##.popup-ad-content-wrap
 bartakontho.com##.popup-wrpp
 bonikbarta.net##.popupCloseButton
 apnamzn.com##.portlet-journal-content
