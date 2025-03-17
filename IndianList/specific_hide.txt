@@ -347,6 +347,7 @@ nayapusta.com###flashnews
 houseplan.lk###flexiselDemo1
 nerpatham.com###floating-sidebar .custom
 shikkharalo24.com###focus_slider
+vbnews24.com###footerRight .widget.Text
 malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
