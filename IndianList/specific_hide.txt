@@ -1392,6 +1392,7 @@ lionexpress.in##.before-banner-ad
 gautamsandesh.com##.beforeheader_728
 belagavisuddi.com##.belag-content
 nwnews24.com##.below-content.widget_text
+p2pnews.co##.below-mid-header
 gorkhapatraonline.com##.below-samachar-add
 bengallive.in##.benga-raiganj-municipality
 lknews.lk##.besides-slider-right
