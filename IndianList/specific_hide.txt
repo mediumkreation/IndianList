@@ -1717,8 +1717,10 @@ nikharanews.in##.elementor-element .size-large
 khulasanewslive.in##.elementor-element-3fb6b77
 namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
+madhepuralivenews.com##.elementor-element-bd8215c
 namastenri.net##.elementor-element-e9b9b10
 maithilbrahminmahasabha.in##.elementor-element-f2e9897
+madhepuralivenews.com##.elementor-element.elementor-element-267fc9ac
 lakhokantho.com##.elementor-heading-title.elementor-size-small
 biharnewsindia.com,himalipatrika.com.np,theeditor24.com##.elementor-image
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
@@ -4321,6 +4323,7 @@ loginkerala.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h2 + span
 loktantrakaagaz.com#?#.side:has(> span:-abp-contains(Advertisement))
 loudspeakeronline.com#?#div.sidebar-widget:-abp-has(> .widget-head > h4:-abp-contains(Advertisement))
 madhepurakhabar.com#?#.HTML:-abp-has(> .widget-title > .title:-abp-contains(Advertisement))
+madhepuralivenews.com#?#div:has(> div > div > .elementor-heading-title:-abp-contains(Advertisement))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 magadhexpress.in#?#.wp-block-group:-abp-has(> div > .wp-block-heading:-abp-contains(Advertisement))
 netrokonajournal.com##main .advertisement img
