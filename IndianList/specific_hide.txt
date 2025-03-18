@@ -2960,6 +2960,7 @@ biswabanglasangbad.com##.td-post-content > p a:not([href*="biswabanglasangbad"])
 ehapurnews.com,newsfastweb.com##.td-post-content figure.wp-block-image
 prabhattimes.com##.td-post-content h3 img.size-medium
 prabhattimes.com##.td-post-content img.size-full
+aapkiummid.com##.td-post-content img.size-medium
 aurbta.com##.td-spot-id-content_bottom
 aurbta.com,mawbima.lk##.td-spot-id-content_top
 amansavera.com,mawbima.lk##.td-spot-id-header
@@ -2992,7 +2993,6 @@ bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
 navdeshtimes.com##.td_separator_solid
 teznews.com##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
-aapkiummid.com##.tdb-block-inner > p img
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
