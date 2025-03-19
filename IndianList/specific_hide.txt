@@ -1060,7 +1060,7 @@ motivatenews.com.np,pokharapatra.com.np,sancharkendra.com##.add-2
 gujaratimidday.com##.add-300x250
 pratibha.eenadu.net##.add-336x280
 talashbangla.com,thenewspost.in##.add-area
-newsatfirst.com##.add-banner
+newsatfirst.com,voiceofnarayanganj24.com##.add-banner
 khobor24ghonta.com##.add-bg-02
 aajkasach.in##.add-block
 musickhabar.com##.add-bottom-margin
@@ -3211,6 +3211,7 @@ dailyajkershomoy.com##.vertical_add
 khoborersomoy.com##.vide_area
 bhnnews.com##.video-ad
 indianewscentre.in##.video-container
+voiceofnarayanganj24.com##.video-gallery-box
 girlsglobe.in##.video-widget
 thelallantop.com##.videoAdInArticle
 a2znewsup.com##.videoaddwraper
