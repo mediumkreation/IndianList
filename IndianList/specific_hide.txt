@@ -1760,6 +1760,7 @@ udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
 muznews.online##.elementor-widget-image-carousel
 hamarahathras.com##.elementor-widget-image-carousel.e-widget-swiper
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
+udupixpress.com##.elementor-widget-image-gallery
 eimuhurte.com##.elementor-widget-jet-listing-grid
 bansalnews.com,ctr24.com,deshersangbad.com,marathwadaneta.com,snpsports24.com##.elementor-widget-jnews_element_ads_elementor
 thurannakathu.com##.elementor-widget-penci-custom-sliders
@@ -2984,7 +2985,6 @@ lokpaksh.com##.td_block_empty_space
 apnahimachalapnishaan.in,dailybanglarrup.com,jnilive.mobi,newspage13.com##.td_block_image_box
 abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,ntinews.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,samriddhasamaj.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
-udupixpress.com##.td_block_single_image.td-no-img-custom-url
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 biswabanglasangbad.com##.td_block_single_image:not([data-td-block-uid="tdi_41"])
 chatganrbani.com##.td_block_text_with_title
