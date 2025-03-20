@@ -2558,6 +2558,7 @@ ekantipur.com##.qfx-banner-section
 satyamlive.com##.quadss-location
 ekantipur.com##.quiz-wrapper
 rajnitiprotidin.com##.qvzk
+purvanchal24.com##.r-emfs .imagewidget
 hetaudakhabar.com,nepalipatra.com,samayasamachar.com,sulsule.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 hetaudakhabar.com##.rd-between-ads
