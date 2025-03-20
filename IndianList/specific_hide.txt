@@ -1811,7 +1811,7 @@ loksaakshya.com##.entry-content > div[style^="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 newskadaba.com,shottoboyan.com##.entry-content > img
 karmalamadhanews24.com##.entry-content > p > img
-apnashaharnews.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar.net##.entry-content > p img
+apnashaharnews.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar.net,shivamoggalive.com##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
@@ -3053,7 +3053,6 @@ gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
-shivamoggalive.com##.theiaPostSlider_slides p>img
 nakkheeran.in##.theiaStickySidebar .block-block-content
 bheldailynews.com##.theiaStickySidebar .e3lan
 marathwadaneta.com##.theiaStickySidebar .elementor-inner-section
@@ -4290,6 +4289,7 @@ newsdesk24.com##img[alt='ad']
 dailypurbodesh.com##img[class^="sb-ads"]
 kalpa.news##img[data-lazy-src*="-advt-" i]
 pnews.co.in##img[id^="Image"]
+shivamoggalive.com##img[src*="-advt-"]
 nayasadak.com##img[src*="Bigyapan"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
