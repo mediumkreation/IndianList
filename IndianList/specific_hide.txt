@@ -1745,6 +1745,7 @@ ts29.in##.elementor-video
 aajkiawaaz.com##.elementor-widget-banner-box
 barishalcrimenews.com##.elementor-widget-flip-box
 dastakindia.com##.elementor-widget-foxiz-ad-image
+navbihartime.com##.elementor-widget-foxiz-list-small-2
 cinemapressclub.com##.elementor-widget-he-advertisement-banner
 khabriyanews.com##.elementor-widget-heading
 jubokantho24.com##.elementor-widget-heading + .elementor-widget-image
