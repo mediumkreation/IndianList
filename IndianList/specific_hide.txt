@@ -84,6 +84,7 @@ odia-ray.in###Mod225
 pnews.co.in###SidebarWidgets-S1
 battirepnews.com###SidebarWidgets-S1 .widget.Image
 dainikroorkee.com###Slider
+yugabdha.com###ac-wrapper
 malabarflash.com,mewartimes.com,thereport24.com###ad
 beauronews.com,headline24x7.com,rkexpose.com###adAboveHeader
 janchhaya.in###adCarousel2
