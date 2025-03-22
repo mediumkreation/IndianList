@@ -4295,6 +4295,7 @@ mirsaraikhobor.com##img[alt="mAD"]
 khabreelal.com##img[alt="sonu"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
+bangladeshglobal.com##img[banner]
 dailypurbodesh.com##img[class^="sb-ads"]
 kalpa.news##img[data-lazy-src*="-advt-" i]
 pnews.co.in##img[id^="Image"]
