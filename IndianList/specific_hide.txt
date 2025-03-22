@@ -3456,6 +3456,8 @@ satyasandhana.in##.wp-image-38968
 satyasandhana.in##.wp-image-38972
 namastepurvanchal.in##.wp-image-404
 bhilaitimes.com##.wp-image-51060
+swarnimtimes.in##.wp-image-60315
+swarnimtimes.in##.wp-image-62334
 budaunshikhar.com##.wp-image-62387
 reportsindia.in##.wp-image-62537
 reportsindia.in##.wp-image-62663
@@ -4429,6 +4431,7 @@ manithan.com##span[id] > iframe[id]:only-child
 backtobollywood.com##span[style="font-size: 8pt; color: #bdbbbb;"]
 swarnimbharatnews.com##span[style^="color: red;"]
 suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
+swarnimtimes.in#?#.entry figure:has(> figcaption:-abp-contains(Advertisement))
 samaynews24.com##table:has(> tbody > tr > td > a[href*="drkeshavjee.com"])
 voiceasian.news##table[height="100"]:has(> tbody > tr[bgcolor])
 khabarhikhabar.com##table[style^="width: 100%; background-color: rgb(255, 238, 0);"]
