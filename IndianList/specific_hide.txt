@@ -809,7 +809,7 @@ bigkhabar.com###text-69
 aajkiawaaz.com,barisaltoday.com,bdtodays.net,brajpatrika.com,cgmitan.com,chakarianews.com,ekhansangbad.com,hastakshep.com,indiawarta.com,jagprerna.com,kalmunainet.com,lenseyenews.com,manikganj24.com,mpbreaking.in,nrsewa.com,scnnewsindia.com,whitemirchi.com,youngorganiser.com###text-7
 hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 bdmetronews24.com###text-71
-dmoitry.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
+dmoitry.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 sharebazarnews.com###text-882
 bograsangbad.com,cgmitan.com,himalayauk.org,himshimlalive.com,jagprerna.com,kuberbhoomi.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
 mpbreaking.in###text-9 iframe
@@ -2661,7 +2661,6 @@ news18.com##.sideMiddle
 news18.com##.sideTop
 postpati.com##.side_adv_part
 hongkar.com##.side_bar .py-1 img
-moonamvazhi.com##.side_right li ~ li
 motivatenews.com.np,pokharapatra.com.np,ratopost.com,sancharkendra.com##.sidea
 kulalaworld.com##.sideadd
 cknewsgroup.ca##.sideadholder
