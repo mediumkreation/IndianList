@@ -1150,7 +1150,6 @@ snn24.com##.addtop_header
 jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 newscircle.in##.addver > ul:only-child
-agrinewsnetwork.in##.ader_ads
 bdnewsclub.com,nitharsanam.net##.adflexbox
 watchgujarat.com##.adimg
 truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
