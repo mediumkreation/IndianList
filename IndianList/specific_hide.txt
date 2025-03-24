@@ -446,9 +446,10 @@ webreporter.co.in###media_gallery-4
 todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 goodmorningindia.net###media_image-1
-bijoynewsbd24.com,dailynewshindi.com,dhakardak-bd.com,fairnepal.com,kalkudahnation.com,lokatantraonline.com,magahinews.com,news21live.in,parbatyachattagram.com,starexpress.news,thehindkeshari.in###media_image-10
+a2znewslive.com,bijoynewsbd24.com,dailynewshindi.com,dhakardak-bd.com,fairnepal.com,kalkudahnation.com,lokatantraonline.com,magahinews.com,news21live.in,parbatyachattagram.com,starexpress.news,thehindkeshari.in###media_image-10
 palampuronline.com###media_image-11
 bbttimes.com,capitalnews.lk,dainikmaharajganj.in,kalkudahnation.com,manzilnews.in,samajeralo.com###media_image-12
+a2znewslive.com###media_image-13
 indianow24.com###media_image-14
 punjabbaani.com,radiobihani.org###media_image-15
 hindvatannews.com###media_image-17
@@ -2494,7 +2495,6 @@ faridpurprotidin.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
-a2znewslive.com##.pm_home_top_sidebar .widget_media_image
 jamalpurlive.com##.popbox
 dhadingnews.com,dinamina.lk,industryhit.com##.popmake-content
 dhangadhikhabar.com##.popover-ad
