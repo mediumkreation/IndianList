@@ -226,7 +226,7 @@ batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,ras
 areseenews.com,athirvu.in,girlsglobe.in,kundapraa.com,liveindiakhabar.in,newsnagar.in,odishamanthan.com,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 thenationtimes.in###block-73
 thenationtimes.in###block-74
-bharatpostlive.com,chamolitimes.com,mulukhmaidan.com,naanmedia.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
+bharatpostlive.com,chamolitimes.com,naanmedia.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
 bombaysamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 neerfit.co.in###block-93
 varthabharati.in###block-block-253--2
@@ -1953,7 +1953,7 @@ bethanchokkhabar.com,nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 dailynews24.in##.gb-container-553faf02
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
-biharivoice.com,malnadtimes.com##.gb-container:has(> ins.adsbygoogle)
+biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 tamil.goodreturns.in##.gd-multi-news ul > div
 24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
