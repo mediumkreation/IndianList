@@ -1323,7 +1323,7 @@ hellobanswara.com##.article_text-content figure
 newsatfirst.com##.aside-add
 kalkionline.com,samakalikamalayalam.com##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
-gujarati.economictimes.com,iamgujarat.com,maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
+gujarati.economictimes.com,iamgujarat.com,maharashtratimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 banglatribune.com##.aunqur img
 loginkerala.com##.author-widget
@@ -3110,7 +3110,7 @@ aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
 telugutimes.net##.top-ads-banner
 manoramaonline.com##.top-advt-block
-samayam.com##.top-atf-wrapper
+marathi.indiatimes.com,samayam.com##.top-atf-wrapper
 sangbadprotidin.com##.top-banner
 jamalpurlive.com##.top-bar
 ekuruvi.com##.top-bar-left-nav
@@ -3236,6 +3236,7 @@ indiainside.org##.w3-section
 sarabangla.net##.w3-tiny
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 iamgujarat.com,marathi.indiatimes.com,samayam.com##.wdt-taboola
+marathi.indiatimes.com##.wdt_advertorial
 iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com,naidunia.com##.webAds
 hajurkokhabar.com##.web__banner
