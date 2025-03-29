@@ -285,7 +285,7 @@ biharpatrika.in###cust_bann
 valampurii.lk###custom-ads-2
 dankaram.in###customImage
 dankaram.in###customVideo
-biharnewslive.com,khagracharipratidin.com###custom_html-1
+khagracharipratidin.com###custom_html-1
 dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 jugerbarta.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
@@ -1431,6 +1431,7 @@ ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
 farakdhar.com##.bigyapan__news
 biharaaptak.com##.bihar-widget
+biharnewslive.com##.biharnlive-adlabel
 bikaner24x7news.com##.bikan-before-content
 pahilopost.com##.biz-ad-block
 keelainews.com##.block-15
