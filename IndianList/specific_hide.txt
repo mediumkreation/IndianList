@@ -1450,6 +1450,7 @@ khabrainabhitak.org,panchkulasamachar.com,sportszone24.com##.block-widget
 newsflash71.com##.block__2
 livekhagaria.in##.blocks-gallery-item
 newswayanad.in##.blockspare-blocks
+magadhexpress.in##.blockspare-cta-wrapper
 akhandbharatsamachar.com##.blog-posts marquee ~ :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
 canadamirror.com,ibctamilnadu.com,lankasri.com,manithan.com##.blurb
