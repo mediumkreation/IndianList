@@ -1544,6 +1544,7 @@ bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com##.code-block-8
 chanakyanewz.com##.code-block-center
 orthosongbad.com##.code-block-center img
+trishulnews.com##.code-block:has(> [data-type="_mgwidget"])
 newsbindass.com##.code-block:not(.code-block-1)
 navarashtra.com##.code-block:not(.code-block-10)
 publictv.in##.code-block:not(.code-block-14)
