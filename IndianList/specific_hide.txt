@@ -1705,6 +1705,7 @@ gramnagarbarta.com##.dtl_section figure.image
 doshdik.com##.duble_advertisement
 a2zsamachar.com##.e-con-full.jedv-enabled--yes
 sivantv.com##.e-con-full:has(> .e-widget-swiper) + .e-con-full
+inbcn.in##.e-con-inner:has(> div > .elementor-widget-image)
 janbolnews.com##.e-con:has(> .e-con-inner > .elementor-widget-heading)
 janbolnews.com##.e-con:has(> .e-con-inner > .elementor-widget-html)
 dailynewshindi.com##.e-widget-swiper
