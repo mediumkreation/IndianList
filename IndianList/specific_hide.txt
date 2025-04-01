@@ -3534,7 +3534,6 @@ betulsamachar.com,bongnews24x7.com,dailynews24.in,nearnews.in,sbnlive.net##.wpli
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
 shabdsaransh.com##.ws-block img:only-child
-sansanilive.com##.ws-block video
 aajkasamay.com##.ws-block-body > a[href=""]
 janghatna.com##.ws-block-body a img:not([src*="dj.JPG"])
 fastindianews.com##.ws_gestures
@@ -3589,6 +3588,7 @@ morbiupdate.com##[id*="cat-a-"]
 gtamilnews.com,tamilscreen.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
 sridungargarhtimes.com##[id^="sridu-"]
+sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thestellarnews.com##[id^="thest-"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
 sunnews24x7.com##a .adv-vload
