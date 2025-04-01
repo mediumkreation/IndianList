@@ -3574,6 +3574,7 @@ beanibazarnews24.com##[class^="add-"]
 sirfsach.in##[class^="adsbox"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com##[class^="sgpb-"]
+mediacops.in##[data-ad-channel]
 attariyaonline.com,setohimalnews.com,telugumuchatlu.com,theutkal.in##[data-adid]
 kositimes.com##[data-adid] > p
 ctgpratidin.com,kositimes.com##[data-adid] img
