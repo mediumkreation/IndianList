@@ -1216,6 +1216,7 @@ sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
 allsharebazarnews.com##.adv-topx
 agniban.com##.adv-video
+sangbadsarabela.com##.advDiv
 marathi.hindustantimes.com##.advInBtweenNewsCard
 marathi.hindustantimes.com##.advMasterSlot
 cityandolan.com,devpath.in,keralaonlinenews.com,livebharatnews.in,ttncinema.com##.advRow-fullW
