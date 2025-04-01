@@ -2066,7 +2066,7 @@ biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
 amarbarta.com.bd##.homeTop .w-100
 news71online.com,shamolynews24.com##.home_last_ad
-barishalnews24.com,bornamelanews24.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,dainikkishoreganj.com,durnitibarta.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,theeditors.net##.home_page_ad
+barishalnews24.com,bornamelanews24.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,dainikkishoreganj.com,durnitibarta.com,gouripurnews.com,itihas24.com,saplatv.com,sheershasangbad.com,somoyersangbad.com,theeditors.net##.home_page_ad
 bangladesherkhela.com,silkcitynews.com##.home_page_ad img
 silkcitynews.com##.home_page_part_one_right.second
 dainikbangla.com.bd,newsbangla24.com##.home_popup
@@ -2759,7 +2759,6 @@ nagarprabha.org##.single_featured_slide
 telugusmtv.com##.single_leftbar.wow > h2
 dailyghagot.com##.single_page .add
 jamunanewsbd.com##.single_page .widget_area
-somoyersangbad.com##.single_page > .widget_area
 songkalpo.net##.single_page_ad
 sangbad-gallery.com##.single_page_bottom_ad
 dailynarayanganjerdak.com##.single_page_two_advertisement
