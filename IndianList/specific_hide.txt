@@ -892,7 +892,6 @@ jinews.co.in###wowslider-container1
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 champawatkhabar.com,dainikathah.com,gadhsamvedna.com,newsmalayalionline.com,odiabarta.in,sbharatnews.com###wp-custom-header
-janaaastha.com###wr
 sridungargarhtimes.com###wrapper > img
 kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
@@ -1419,9 +1418,7 @@ janatapati.com##.bigyaapan
 himalkhabar.com,nayadainiki.com##.bigyaapan-box
 himalkhabar.com##.bigyaapan-item
 baahrakhari.com,dekhapadhi.com##.bigyaapan-section
-janaaastha.com##.bigyapaan
 barnanmedia.com,merofilm.com##.bigyapaan__section
-janaaastha.com##.bigyapaan__section img:not([src*="election_result.jpg"])
 annapurnapost.com,canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 avenues.tv,barnanmedia.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
@@ -2127,7 +2124,6 @@ pchelpcenterbd.com##.indexadsone
 thedailycampus.com##.info_wrapper
 thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
-janaaastha.com##.inline__bigyapaan
 thahakhabar.com##.inline_disp
 mannarkkadlive.com##.inner-add
 deshbandhu.co.in##.inner-add-banner
@@ -3909,6 +3905,7 @@ nabaz-e-punjab.com##div[class*="bdaia-p-"]
 dainikshiksha.com##div[class*="biggapon"]
 kathmandupress.com##div[class*="bigyaapan"]
 aarthiknews.com##div[class*="bigyap"]
+janaaastha.com##div[class*="bigyapaan"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
 banglaxp.com##div[class*="code-block"]
