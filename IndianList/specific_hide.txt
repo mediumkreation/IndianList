@@ -3335,6 +3335,7 @@ uniquesamay.com##.widget_media_image .size-full
 bundelkhandsamachar.com,shramikmantr.com##.widget_media_image figure
 lekhajokhanews.com##.widget_media_image img:not([src*="nocs.png"])
 newszonebd.com##.widget_media_image:has(:is(ins,a[target="_blank"]))
+hollywoodkhabar.com##.widget_media_image:not(#block-23)
 khabarcgnews.com##.widget_media_image:not(#block-245)
 newspagebd.com##.widget_media_image:not(#block-33)
 smartindiadial.com##.widget_media_image:not(#block-6)
@@ -3722,7 +3723,6 @@ haryanaekhabar.com##a[rel*="sponsored"]
 sylheterjanapad.tv##a[target="_blank"] > img
 ajkerarban.com##a[target="_blank"] > img[style="width:100%"]:not([src*="SAVE_20240509_124038.jpg"])
 abitfar.com,bizmandu.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
-hollywoodkhabar.com##a[target="_blank"] img:not([src*="Screenshot_2022-11-22_at_10_43_32_PM.png"])
 bankingkhabar.com##a[target="_blank"] img:not([src*="icons"])
 bharatiyadigitalnews.in##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
