@@ -2772,7 +2772,7 @@ indias.news##.site-footer .widget_text
 khabarkunj.com##.site-footer__bottom
 prajamantalu.com##.site-header .htmlwidget
 ukhiyanews.com##.site-header ~ .bg
-entertainmentkhabar.com,googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com,sangalokhabar.com##.site-header-ads
+entertainmentkhabar.com,googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesi.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 eveningkerala.com##.site-heading-sidebar
 saunewsnetwork.com##.site-main .widget_media_image
@@ -3360,6 +3360,7 @@ aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
 aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,swatantraawam.in,thekhabrilal.com,timesandspace.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
+samabesi.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adsens
 rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 wayanadnewsdaily.com##.widget_nmrh
