@@ -3928,6 +3928,7 @@ makdaiexpress24.com##div[class*="makda-"]
 rtvonline.com##div[class*="min-h-"]
 tamilmurasu.com.sg##div[class*="min-h-"][class*="w-full"]
 nainilive.com##div[class*="naini-"]
+aarthikbazarnews.com##div[class*="no-vigyapan-"]
 akilanews.com##div[class*="pannel-banner"]
 aarushikhabar.com##div[class*="post-content"] > div:has(> p[style*="#9e9e9e"])
 aayokhabar.com,angultv.com,azadsipahi.in,ejanakpurtoday.com,ekhonkhobor.com,khabarbit.com,khabarway.com,kodanki.in,lokpukar.com,mediamangalam.com,parichaya.com,rastriyadaily.com,smnewshimachal.in,vatakaravarthakal.in##div[class*="sgpb-"]
