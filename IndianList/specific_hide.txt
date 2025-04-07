@@ -4370,6 +4370,7 @@ newstodaynetwork.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h4:-
 nobat.com#?#div:-abp-has(> small:-abp-contains(Advertisement))
 odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > h4 > span:-abp-contains(Ad:))
 odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > p:-abp-contains(Ad:))
+patnanow.com##p:has(> ins.adsbygoogle)
 doonited.in##p:has(ins.adsbygoogle)
 horizonhind.com##p[class="fontBold"]
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
