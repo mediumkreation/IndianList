@@ -2772,7 +2772,7 @@ indias.news##.site-footer .widget_text
 khabarkunj.com##.site-footer__bottom
 prajamantalu.com##.site-header .htmlwidget
 ukhiyanews.com##.site-header ~ .bg
-googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com,sangalokhabar.com##.site-header-ads
+entertainmentkhabar.com,googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 eveningkerala.com##.site-heading-sidebar
 saunewsnetwork.com##.site-main .widget_media_image
