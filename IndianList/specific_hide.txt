@@ -972,7 +972,7 @@ kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,anmolkhabar.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,ekagaj.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
+akhabarhub.com,anmolkhabar.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
 cialive.in##.ad .carousel
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd##.ad img
@@ -990,7 +990,7 @@ dainikayodhyatimes.in##.ad-close
 dailykaratoa.com,ichowk.in,news18.com,saralpatrika.com,uttorbangla.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
-ekagaj.com,nepalmamila.com,newsroomme.com##.ad-img
+nepalmamila.com,newsroomme.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
@@ -1358,7 +1358,6 @@ gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
-ekagaj.com##.banner-top
 khabarhub.com##.banner-widget
 bhnnews.com##.banner-wrap img
 banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
@@ -1420,7 +1419,7 @@ himalkhabar.com##.bigyaapan-item
 baahrakhari.com,dekhapadhi.com##.bigyaapan-section
 barnanmedia.com,merofilm.com##.bigyapaan__section
 annapurnapost.com,canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
-avenues.tv,barnanmedia.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
+avenues.tv,barnanmedia.com,ekagaj.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
@@ -3524,7 +3523,6 @@ abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 betulsamachar.com,bongnews24x7.com,dailynews24.in,nearnews.in,sbnlive.net##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
-ekagaj.com##.wrapper-box
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
 janghatna.com##.ws-block-body a img:not([src*="dj.JPG"])
