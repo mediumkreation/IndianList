@@ -3024,8 +3024,6 @@ mekhadooth.com,sindhudurgsamachar.in,techvision24.com##.tdm_block img
 digitalmalayalionline.com,mahaxpress.com,myagdikali.com,ratdinnews.net##.tdm_block_inline_image
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
-aashanews.com##.text-10
-aashanews.com##.text-4
 samakal.com##.text-body-ad
 sajhasabal.com##.text-center iframe
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
@@ -3932,7 +3930,7 @@ nainilive.com##div[class*="naini-"]
 aarthikbazarnews.com##div[class*="no-vigyapan-"]
 akilanews.com##div[class*="pannel-banner"]
 aarushikhabar.com##div[class*="post-content"] > div:has(> p[style*="#9e9e9e"])
-aayokhabar.com,angultv.com,azadsipahi.in,ejanakpurtoday.com,ekhonkhobor.com,khabarbit.com,khabarway.com,kodanki.in,lokpukar.com,mediamangalam.com,parichaya.com,rastriyadaily.com,smnewshimachal.in,vatakaravarthakal.in##div[class*="sgpb-"]
+aashanews.com,aayokhabar.com,angultv.com,azadsipahi.in,ejanakpurtoday.com,ekhonkhobor.com,khabarbit.com,khabarway.com,kodanki.in,lokpukar.com,mediamangalam.com,parichaya.com,rastriyadaily.com,smnewshimachal.in,vatakaravarthakal.in##div[class*="sgpb-"]
 dainikpurbokone.net##div[class*="sgpb-popup"]
 attariyaonline.com##div[class*="sgpb-popup-"]
 amanpath.in##div[class*="sidebar"] aside.widget_text
