@@ -156,6 +156,7 @@ lokmat.com,lokmatnews.in###beforehead
 newscg11.com###below-header
 kusenews.com###belowflash
 kusenews.com###belowmainnews
+bankbimaarthonity.com###bg-for-bba-ad
 abhiyandaily.com###bigyaapan
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
@@ -2454,6 +2455,7 @@ telugu.mykhel.com##.os-ad-c
 himalayapost.com##.otw-sidebar .widget_text
 maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 banglatribune.com##.overayFeaturedImage
+bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
 24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
@@ -2535,7 +2537,6 @@ deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
 sakalakhabar.com##.primary-sidebar-widget
 samajalive.in##.primary-sidebar-widget:has(div[data-adid])
 cgtazanews.com##.primary-sidebar-widget:not(#better-social-counter-2)
-bankbimaarthonity.com##.printOff
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
 balaganjprotidin.com##.prl-panel .widget_text
 livehindustan.com##.prlads
@@ -3126,7 +3127,7 @@ banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,indiavoice.com,rninews.co.in##.topRightAdSec
 samakal.com##.topStickyDesktopDiv
 sawalnepal.com##.top__advertisement
-bankbimaarthonity.com,biniyogbarta.com,doshdik.com,janomot.com##.top_add
+biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
 weunetwork.in##.top_ads_2
