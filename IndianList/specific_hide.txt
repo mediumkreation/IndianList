@@ -3410,7 +3410,7 @@ sansanisurag.com##.wp-block-embed
 24hrnews.in##.wp-block-embed-youtube
 badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
-dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in##.wp-block-image
+banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in##.wp-block-image
 gulfbangla.com##.wp-block-image > figure
 ujyalokhabar.com##.wp-block-image figure
 nainilive.com##.wp-block-image img
