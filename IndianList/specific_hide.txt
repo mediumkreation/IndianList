@@ -2169,6 +2169,7 @@ techzoom.tv##.jeg_main_content .wpb_widgetised_column
 citynewsgiridih.com,snpsports24.com##.jeg_midbar
 tamil2daynews.com##.jeg_midbar .jeg_nav_right
 punjabguardian.com##.jet-listing-grid
+eimuhurte.com##.jet-popup
 filmyfanda.com##.jft_ads
 jharkhand-news.com##.jhark-content
 joginderposwal.com##.jogin-widget
@@ -2418,6 +2419,7 @@ expressindian.co.in##.newshit-header-ads-wrapper
 newskannada.com##.newsk-content
 satyagrahanews.in##.newsmatic-advertisement-block
 bishwanathbd24.com##.newspaper-advertisement
+daktimesnews.com##.newsphere-widget.widget_text:not(#text-5)
 onlinekhabar.com##.nh_widget_wrap
 weeklydesh.co.uk##.nhsgallery
 nepalkhabar.com##.nk-sidebar-ads
@@ -4214,7 +4216,6 @@ sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 bdtimes365.com##div[style^="width:320px; height: 260px!important; float: right;"]
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
-eimuhurte.com#?#.e-con:has(> div > div > div > .elementor-heading-title:-abp-contains(Advertisement))
 encounterindia.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADS))
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 malluchronicle.com##entry-content a[href^="tel"]
