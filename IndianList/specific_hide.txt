@@ -268,6 +268,7 @@ rajasthancoverage.com###content .widget_custom_html
 nobokontho.com,suddikanaja.com,vvnewsvaashvara.in###content .widget_media_image
 panchakoshitimes.com###content .widget_sp_image
 dmoitry.com###content .widget_text
+swadeshbani.com###content .widget_text img
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
 tejpolicetimes.com###content div:has(> a > [alt="- Advertisement -"])
@@ -755,7 +756,7 @@ moonramkonam.com###text-124
 bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,news24x365.com,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
-fatehnagarnews.com,meherpurpratidin.com,swadeshbani.com,udaipurkiran.in###text-16
+fatehnagarnews.com,meherpurpratidin.com,udaipurkiran.in###text-16
 anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,akashgyanvatika.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,meherpurpratidin.com,newsnowbangla.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
