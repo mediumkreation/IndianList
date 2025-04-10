@@ -2899,6 +2899,7 @@ sachetonbarta.com.bd,todayexpressnews.com##.td-a-rec .td-all-devices
 newstrendz.co.in##.td-a-rec iframe
 abhayindia.com,abhishektimes.in.net,adhuniksamachar.com,annapurnatimes.com,berartimes.com,jaagonews.com,ktvprotidin.com,sangamkhabar.com.np,smnewshimachal.in,thegramtodaydailynews.com,ucchakontha.com,uttarakhandkhabar.in##.td-a-rec img
 deshajtimes.com##.td-a-rec img:not([data-lazy-src*="Your-paragraph-text.gif"])
+tazakhabar36garh.com##.td-a-rec img:not([src*="WhatsApp-Image-2024-10-03-at-10.07.44_5b4dd14a.jpg"])
 postmanindia.in##.td-a-rec img:not([src*="ad-ddepaper.jpg"])
 tarunchhattisgarhkorba.com##.td-a-rec img:not([src*="join"])
 theptvnews.com##.td-a-rec img:not([src*="perfect_kejriwal-"])
