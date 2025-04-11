@@ -3256,7 +3256,7 @@ mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-ajeybharat.com,azmlive.in,biharkhabars.com,emungaru.com,importmirror.com,india2daynews.com,khulikhabar.com,maavarahinews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
+ajeybharat.com,azmlive.in,biharkhabars.com,emungaru.com,himachalmedia.co,importmirror.com,india2daynews.com,khulikhabar.com,maavarahinews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
