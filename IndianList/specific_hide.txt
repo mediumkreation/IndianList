@@ -3661,6 +3661,7 @@ nayapage.com##a[href*="gurkhasfinance.com.np"]
 currentgk.in##a[href*="hindugodwallpaper.com"]
 onsnews.com##a[href*="hons.com"]
 newslabz.com##a[href*="href.li"]
+himachalnewsdaily.com##a[href*="iffco.in"]
 banglarkonthosor.com##a[href*="itcornerbd"] img
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
