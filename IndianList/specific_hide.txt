@@ -1550,6 +1550,7 @@ delhibulletin.in##.code-block:not(.code-block-2)
 cinereporters.com,raibaaruttarakhand.com##.code-block:not(.code-block-3)
 magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 deshprahari.com##.code-block:not(.code-block-6)
+navbharatsamay.in##.code-block:not(.code-block-9)
 bangalianaa.com##.code-widget
 notunerkotha.com##.codedokan_widget img
 bankingkhabar.com##.codeneric_uam_link
