@@ -661,7 +661,7 @@ indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,dbnnews.in,malayalamexpress.in,munshigonjerkagoj.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
+awajnews.com,dbnnews.in,malayalamexpress.in,munshigonjerkagoj.com,news24x365.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
@@ -754,7 +754,7 @@ despardesweekly.co.uk,ekhansangbad.com,firstuttarpradesh.com,jagprerna.com,magur
 moonramkonam.com###text-124
 bn.bdcrictime.com,hindustanlivetoday.com,janakhabar.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
-ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,news24x365.com,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
+ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
 fatehnagarnews.com,meherpurpratidin.com,udaipurkiran.in###text-16
 anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,akashgyanvatika.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,meherpurpratidin.com,newsnowbangla.com,sambadsaradin.com###text-18
@@ -3361,7 +3361,7 @@ samacharagency.com##.widget_media_image:not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
 aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,devbhoomiaajtak.com,devbhoomimedia.com,doonited.in,dunvalleymail.com,enews24x7.in,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,jokhimnews.com,kafaltree.com,kasturinews.com,khabaruttarakhand.com,liveskgnews.com,mediasaheb.com,meruraibar.com,mitanbhoomi.com,mussoorieaajtak.com,network10tv.com,news127.com,news129.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajsattapost.com,samvaad365.com,sankhnaad.com,sarkarimanthan.com,satyavoice.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thesingoritimes.com,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vasundharadeep.news,vision4news.com,voiceofuttarakhand.net##.widget_media_video
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
-aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,news24x365.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,swatantraawam.in,thekhabrilal.com,timesandspace.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
+aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,swatantraawam.in,thekhabrilal.com,timesandspace.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
 samabesi.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adsens
