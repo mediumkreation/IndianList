@@ -4251,6 +4251,7 @@ khabor.com##header a[href*="/click-"]
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
 horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
+hpnews.in#?#.block_wrapper:has(> .box_header > h2 > span:-abp-contains(Advertisement))
 kailarionline.com##hr:first-child ~ div
 hrbreakingnews.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > h5:-abp-contains(Ad |))
 infosrilankanews.info##html12
