@@ -2140,6 +2140,7 @@ innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,mahilaswasthya.com,setokhari.com##.insert-ad
 dainikshiksha.com##.inside-ad-container a:not([class*="dainikshiksha-youtube"])
+narmadanchal.com##.inside-article .wp-block-heading
 jhunjhununewz.com##.inside-footer-widgets
 bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,maxwoman.in,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
@@ -3415,6 +3416,7 @@ sansanisurag.com##.wp-block-embed
 24hrnews.in##.wp-block-embed-youtube
 badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
+narmadanchal.com##.wp-block-heading ~ .wp-block-image
 banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in,taza-khabar.com##.wp-block-image
 gulfbangla.com##.wp-block-image > figure
 ujyalokhabar.com##.wp-block-image figure
@@ -4362,6 +4364,7 @@ mirroruttarakhand.com#?#.widget-sidebar:has(> .widget-header > h3:-abp-contains(
 muktirlorai.com#?#.themesBazar_widget:has(> h3:-abp-contains(sonalilife.com))
 munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
+narmadanchal.com#?#.gb-container:has(> .wp-block-image)
 nation9network.com#?#.gb-container:-abp-contains(Advertisement)
 punjabiherald.co.nz##nav + div
 navbharattimes.indiatimes.com#?#.news-card:has(> span > h2 > a>.text_ellipsis:-abp-contains(Adv:))
