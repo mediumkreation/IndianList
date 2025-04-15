@@ -2021,7 +2021,6 @@ banglatribune.com,deshrupantor.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 banglapost.co.uk##.header_adv
-sunbd24.com##.header_area > .container
 natunjug.com##.header_biggapon
 univarta.com##.header_bottom_ad
 bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
