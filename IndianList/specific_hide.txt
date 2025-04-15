@@ -585,6 +585,7 @@ manithan.com###recommendations
 hindustanrepublic.in###responsive_lightbox_image_widget-2
 timestodays.com###rev-slider-widget-2
 berartimes.com###rev_slider_1_1_wrapper
+chitwanpost.com.np###rhinox-popup-carousel
 lokmatnews.in###rhs-middle
 lokmatnews.in###rhs-top
 news18.com###right div:has(> div.nw18-dfp-ad)
