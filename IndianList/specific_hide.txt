@@ -989,7 +989,7 @@ bizshala.com##.ad-banner-img
 primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
 dainikayodhyatimes.in##.ad-close
-dailykaratoa.com,ichowk.in,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com##.ad-container
+argusnews.in,dailykaratoa.com,ichowk.in,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
 nepalmamila.com,newsroomme.com##.ad-img
@@ -2591,7 +2591,6 @@ uttarakhandtemples.in##.right-adpanel-wrapper > div[style*="width:300px; height:
 newsdnntv.com,samaylive.com##.right-banner
 banglanews24.com##.right-container .ads
 kungumam.co.in##.right-inner .right-box
-argusnews.in##.right-section-top-2
 sindhuyouth.in##.right-sidebar .widget_block
 adnlive24.com##.right_adbox iframe
 anmnews.in##.right_banner
@@ -3031,6 +3030,7 @@ headlinestripura.in,tedmnews.com##.technology-section-ads
 samakal.com##.text-body-ad
 sajhasabal.com##.text-center iframe
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
+argusnews.in##.text-center.my-2
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com##.text-html
