@@ -662,7 +662,7 @@ indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
-awajnews.com,dbnnews.in,malayalamexpress.in,munshigonjerkagoj.com,news24x365.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
+awajnews.com,dbnnews.in,malayalamexpress.in,munshigonjerkagoj.com,news24x365.com,pahadsamachar.com,punjabnewslive.co.in,sahmatnews.com,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
