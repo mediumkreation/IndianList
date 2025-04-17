@@ -2532,7 +2532,6 @@ shirurtaluka.com##.post-item-description p img
 ujalahiteshiexpress.com##.post-middle-banner
 chakrikhobor.com##.post-right-side-square-ads-big
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
-mysamachar.in##.post-text section
 sharebiz.net##.post-wrap.post .sidebar .widget_text
 himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 kalikadainik.com,satkarpost.com##.posts__banner__ads
