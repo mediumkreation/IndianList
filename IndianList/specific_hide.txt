@@ -1596,7 +1596,7 @@ cgtop36.com##.container-full .stream-item
 dhakapost.com##.container-section.py-3
 uttamhindu.com,vaaramanjari.lk##.container-single-page .elementor-widget-image
 newsworldweb.in##.container.frame
-shadin-bd.com##.container.mt-3 img
+shadin-bd.com##.container.mt-3
 aponzonepatrika.com##.container1
 sunamganjerkhobor.com##.container_fluid.bgColor2
 bikashnews.com##.containerhome a[target="_blank"] img:only-child
