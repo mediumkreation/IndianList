@@ -873,7 +873,7 @@ news4indiatv.com###widget-footer-0
 headline24x7.com###widget-footer-1
 goodmorningnation.com,indiaexpose.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
-atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,peptechtime.com,rajnewsupdate.com,tv24live.com###widget-sidebar-1
+atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,peptechtime.com,rajnewsupdate.com,sabkikhabar.com,tv24live.com###widget-sidebar-1
 khabarhekhabar.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
 mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 atalstambh.com,hakikatnews.com,mpkhabar.com###widget-sidebar-3
@@ -2540,7 +2540,7 @@ himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 kalikadainik.com,satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
 sanghamam.com##.pr-0
-sabkikhabar.com,samarthsahara.com,varchasvnews.com,viznews.in##.prachar
+samarthsahara.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 paathok.news##.prettyphoto
 deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
