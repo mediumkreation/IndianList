@@ -1119,7 +1119,7 @@ onlinekhabar.com##.add__fullwidth
 snn24.com##.add_after_scroller
 bdsangbadpratidin.com,dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
-allnewsbharat.com,emstv.in##.add_banner
+allnewsbharat.com,emstv.in,khoborersomoy.com##.add_banner
 gtamilnews.com##.add_block_hdefault
 news18.com,news18marathi.com##.add_container
 ridoyachandpur.com##.add_content
