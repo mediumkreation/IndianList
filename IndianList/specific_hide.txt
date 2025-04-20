@@ -1630,7 +1630,6 @@ beanibazarnews24.com##.coronaupperadd
 gonokantho.com##.countdown_wrapper
 pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
-bcsuddi.com##.cs-banner
 keralakaumudi.com##.cs-sec-feat-title
 indiapolkhol.in##.ct-header-text
 shasakprashasak.com##.custom img
@@ -3783,6 +3782,7 @@ hindfresh.com##aside:has(> ins.adsbygoogle)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 nbchindi.com##aside[id^="ai_widget-"]
 bangla.24livenewspaper.com#?#.advertisement:-abp-contains(advertisement)
+bcsuddi.com#?#.e-con[data-settings]:-abp-properties(min-height: 267px)
 betulsamachar.com#?#.gb-container:-abp-contains(Advertisement)
 bharatiyadigitalnews.in#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
 bharatiyadigitalnews.in#?#center:-abp-contains(Advertisement)
