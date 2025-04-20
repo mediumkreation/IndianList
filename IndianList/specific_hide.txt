@@ -356,6 +356,7 @@ malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 jagonews24.com###fscorecard
+pokharaexpress.com###fullScreenAd
 dishadaily.com###full_level_1_detail
 merojilla.com,pokharanews.com###goji-wd-3dads
 telugu.gulte.com###gulte-text-html-widget-2
