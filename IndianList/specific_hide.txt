@@ -4403,6 +4403,7 @@ sabhavarthakal.com#?#.jeg_block_heading:-abp-has(> .jeg_block_title > span:-abp-
 samajkihalchal.com#?#div.sidebar h5:-abp-has(> span:-abp-contains(Ads))
 samarthsahara.com#?#.heading:-abp-has(> span:-abp-contains(Advt))
 samayduniya.com#?#div:-abp-has(> a span:-abp-contains(Ad |))
+sandhyadesh.com#?#.section-title:-abp-has(> h4:-abp-contains(Advertisement))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 satyasandhana.in#?#div:has(> div > div > p:-abp-contains(Advertisement))
 satyavoice.com#?#div[id^="AS_O_"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
