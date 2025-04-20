@@ -387,6 +387,7 @@ newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com###home-ads
+kalerkotha.com###home-online-poll
 uttareralo24.com###home_page_ad
 apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,radiobihani.org###homeads
 malayaleepathram.com.au###hotwp-header-banner
@@ -1257,7 +1258,7 @@ dinajpurnews24.com,news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,dokadamganvkior.com,ekushnews24.com,gandakichhadke.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,kalerkotha.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,merojilla.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,dokadamganvkior.com,ekushnews24.com,gandakichhadke.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,kalantor24.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,merojilla.com,neelkanthafm.com,nepalawaj.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 birgunjsanjal.com,hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,tamilankural.com##.advertisement-area
@@ -3596,6 +3597,7 @@ sridungargarhtimes.com##[id^="sridu-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thestellarnews.com##[id^="thest-"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
+kalerkotha.com##[style*="min-height:"]
 sunnews24x7.com##a .adv-vload
 sylhetprothidin24.com##a > img.img-responsive
 keralaonlinenews.com##a.disabled
@@ -3864,6 +3866,7 @@ andhrajyothy.com##div:has(> div[id*="-ad-"])
 bhaskar.com##div:has(> div[id^="Ad--"])
 vtvgujarati.com##div:has(> div[id^="VTV_"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
+kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
 ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,sbnlive.net,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
@@ -4224,6 +4227,7 @@ currentnews.com.bd##div[style^="font-size:25px;"] > table
 dinvishesh.com##div[style^="height: 350px;"]
 telugu.goodreturns.in##div[style^="height:250px"]
 telugu.boldsky.com##div[style^="min-height:250px;"]
+kalerkotha.com##div[style^="min-width"]:has(img[alt^="ad"])
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 bdtimes365.com##div[style^="width:320px; height: 260px!important; float: right;"]
