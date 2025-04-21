@@ -2307,7 +2307,7 @@ bonikbarta.com##.max-h-full
 deshabhimani.com##.max-w-full
 amarbarta24.com##.mb-3 .w-100
 cgwebnews.in##.mb-3:has(.carousel)
-ghatail.com##.mb-3:has(> div > ins.adsbygoogle)
+ghatail.com,gnewsportal.com##.mb-3:has(> div > ins.adsbygoogle)
 mzamin.com##.mb-5.justify-content-center
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
