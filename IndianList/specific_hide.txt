@@ -2412,7 +2412,7 @@ indiatimes.com,vijaykarnataka.com##.news-card:has(.ad1)
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
-payyolionline.in##.news-text-content p img
+payyolionline.in##.news-text-content > h1 img
 news13uttarakhand.com##.news1-before-content_6
 news13uttarakhand.com##.news1-before-content_9
 bangla24x7.news,realtamilnews.com##.news247_ads_banner_widget
