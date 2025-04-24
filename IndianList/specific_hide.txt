@@ -2023,6 +2023,7 @@ dailyreportbd.com,tamilcinetalk.com##.header-top-right
 unb.com.bd##.header-upper .pull-right
 gangalahar.com##.header-widget
 ausamachar.com##.header-widget-region
+telugu.telugucinema.com##.header-widgets-wrapper
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
 dailysobujbarta.com,ekkhabar.online,htvpunjabi.com,indootimes.com.au,indotimes.com.au,lankasudar.com,nationissue.com,tamilstar.com##.header__banner
