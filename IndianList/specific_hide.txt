@@ -319,9 +319,9 @@ saakshatv.com###custom_html-30
 jaihindustannews.com###custom_html-34
 indiatv360.com###custom_html-36
 saakshatv.com###custom_html-39
-amanyatralive.com,atharvnews.com,hindirush.com,indokalingtimes.com,karmalamadhanews24.com,thehimachal.com,tnnews24.in,uttarakhandhindinews.com###custom_html-4
+amanyatralive.com,atharvnews.com,hindirush.com,indokalingtimes.com,karmalamadhanews24.com,thehimachal.com,uttarakhandhindinews.com###custom_html-4
 jaunpurlivenews.in###custom_html-43
-abtakmedia.com,asrilanka.com,bdcrictime.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,news129.com,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com,theriyuma.com,tnnews24.in,uttranews.com###custom_html-5
+abtakmedia.com,asrilanka.com,bdcrictime.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,news129.com,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com,theriyuma.com,uttranews.com###custom_html-5
 hindi-news-today.com###custom_html-51
 roddure.com###custom_html-53
 roddure.com###custom_html-54
@@ -2339,7 +2339,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
 khushisamay.com##.mkdf-home-sidebar-banner
-24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,kundeshwartimes.com,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,tharexpressnews.com##.ml-slider
+24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,kundeshwartimes.com,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,tharexpressnews.com,tnnews24.in##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 industrialpunch.com##.ml-slider:not(#metaslider-id-53525)
