@@ -91,6 +91,7 @@ janchhaya.in###adCarousel2
 andhrajyothy.com#@##adDiv
 rkexpose.com###adHeaderBottom
 weeklysonarbangla.net###adOrGretings
+tupaki.com###ad_after_header
 anandamela.in###ad_container2
 maxwoman.in###ad_first_middle
 thereport24.com###add-place
@@ -2505,7 +2506,6 @@ jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
-tupaki.com##.piller_main
 faridpurprotidin.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
@@ -4043,6 +4043,7 @@ rivira.lk##div[data-type="_mgwidget"]
 sandhan24.com##div[data-widget_type*="_ads"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
 reportexclusive.com##div[id$="-ad"]
+tupaki.com##div[id$="_ad"]
 news4indiatv.com##div[id*="-ad-"]
 beauronews.com##div[id*="-ad-block-"]
 banglatribune.com##div[id*="BT_Inner_"]
