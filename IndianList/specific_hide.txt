@@ -86,7 +86,7 @@ battirepnews.com###SidebarWidgets-S1 .widget.Image
 dainikroorkee.com###Slider
 yugabdha.com###ac-wrapper
 malabarflash.com,mewartimes.com,thereport24.com###ad
-beauronews.com,headline24x7.com,rkexpose.com###adAboveHeader
+beauronews.com,headline24x7.com,khabaram.com,rkexpose.com###adAboveHeader
 janchhaya.in###adCarousel2
 andhrajyothy.com#@##adDiv
 rkexpose.com###adHeaderBottom
@@ -873,7 +873,7 @@ pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
 news4indiatv.com###widget-footer-0
 headline24x7.com###widget-footer-1
-goodmorningnation.com,indiaexpose.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
+goodmorningnation.com,indiaexpose.com,khabaram.com,khabarbhartiindia.com,medicallife.in,news4indiatv.com,rajnewsupdate.com###widget-sidebar-0
 dnnnews24x7.com###widget-sidebar-0 ~ div:not(#widget-sidebar-14)
 atalstambh.com,bharatvarshnews18.com,goodmorningnation.com,hakikatnews.com,khabarmantri.com,mpkhabar.com,news4indiatv.com,peptechtime.com,rajnewsupdate.com,sabkikhabar.com,tv24live.com###widget-sidebar-1
 khabarhekhabar.com,news4indiatv.com,sameera.co.in###widget-sidebar-2
