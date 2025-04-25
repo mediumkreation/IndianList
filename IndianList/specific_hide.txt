@@ -14,7 +14,7 @@ jaldhakanews.com###HTML101
 99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
 dailyhealthletters.com,india2daynews.com,liveaaryaavart.com,mathagal.net###HTML12
 jaldhakanews.com###HTML123
-thattungal.com###HTML13
+nawadalive.com,thattungal.com###HTML13
 india2daynews.com###HTML14
 balotranewstrack.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
 balotranewstrack.com,thattungal.com###HTML16
@@ -3553,7 +3553,6 @@ probashibangla.tv##.zja
 24hindinews.com#?#.gb-container:-abp-properties(min-height)
 satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
-nawadalive.com##HTML13
 tollywood.net##[alt*=" ad"]
 aruna.lk##[alt="BD"]
 aruna.lk##[alt="Meldol"]
