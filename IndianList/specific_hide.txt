@@ -1463,7 +1463,7 @@ canadamirror.com,ibctamilnadu.com,lankasri.com,manithan.com##.blurb
 jvpnews.com##.blurb img
 ekaainabharat.com,maloutlive.com,mycitydilse.com,sangritimes.com##.bn-content
 highwaychannel.in##.bn-ds-2
-aajbangla.in,aajkadinnews.com,aankhennews24.com,bharatlive.co.in,bhavtarini.com,bn24live.in,channelindia.news,chennaipatrika.com,dakshinapath.com,dankaram.in,darsilivetv.com,fesn.in,hindikhabarwaala.com,indraprasthasamachar.com,jagrantimesnews.com,lokjannews.com,naradnews.live,raebareliexpress.in,sirajganjexpress.com,theindiaplus.com,threesocieties.com,weeklybangalee.com##.bn-lg
+aajbangla.in,aajkadinnews.com,aankhennews24.com,bharatlive.co.in,bhavtarini.com,bn24live.in,channelindia.news,chennaipatrika.com,dankaram.in,darsilivetv.com,fesn.in,hindikhabarwaala.com,indraprasthasamachar.com,jagrantimesnews.com,lokjannews.com,naradnews.live,raebareliexpress.in,sirajganjexpress.com,theindiaplus.com,threesocieties.com,weeklybangalee.com##.bn-lg
 aajbangla.in,aajkadinnews.com,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,champarantoday.in,chennaipatrika.com,darsilivetv.com,deshpatra.com,fesn.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,highwaychannel.in,hindikhabarwaala.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,indraprasthasamachar.com,jagrantimesnews.com,janajeevala.com,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,naradnews.live,nbc24.in,newsexpress24.com,p24news.com,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sansaninews.com,sirajganjexpress.com,starsamachar.com,theindiaplus.com,threesocieties.com,todaynewshindi.in,vartanews.com,weeklybangalee.com,zndm.news##.bn-lg-sidebar
 aankhennews24.com##.bn-md
 nishpakshjanavlokan.in##.bn-sidebar-content
@@ -2645,6 +2645,7 @@ makalukhabar.com,nepalpress.com##.section-ad-space
 ntvbd.com##.section-content .pt-20
 twnewsbd.com##.section-content p img
 thinkwithniche.in##.section-ten-wrap
+dakshinapath.com##.section-title.mb-3
 newsaroma.com##.section-wrapper .stream-item
 newstrack.com##.section_before_trneding
 mymensinghpratidin.com##.section_lead #myCarousel
@@ -2718,7 +2719,6 @@ sanjevani.com##.sidebar-right > .widget_text > h5
 scgnews.in##.sidebar-right iframe
 nigranee.com##.sidebar-right.card4
 aajbangla.in##.sidebar-widget
-dakshinapath.com##.sidebar-widget .widget-body > p > img
 ksdlivenews.com##.sidebar-widget .widget_media_image
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 channelindia.news##.sidebar-widget:has(.widget-body > p > img)
@@ -3957,6 +3957,7 @@ attariyaonline.com##div[class*="sgpb-popup-"]
 amanpath.in##div[class*="sidebar"] aside.widget_text
 sitamarhilive.in##div[class*="sitamarhi-livecontent_"]
 sachikalam.com##div[class*="slide"]:has(> div > .AdvtSample)
+dakshinapath.com##div[class*="slide-container"]
 chitrodesh.com##div[class*="stream-item"]
 sabkasandesh.com##div[class*="stream-item-below-post"]
 desimartini.com##div[class*="subscriptionBanner_stickyFooter"]
