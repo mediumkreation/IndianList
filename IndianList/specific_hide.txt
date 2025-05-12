@@ -1504,6 +1504,7 @@ dhanamonline.com##.c-ad-container
 vellinakshatram.com##.c-sections__container
 himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
+prothomalo.com##.card-image-wrapper + div
 lanka4.com##.card.text-center
 aloavanews24.com,just36news.com,malayalamtodayonline.com,prameyanews7.com,thefollowup.in##.carousel
 news11.live##.carousel.slide
