@@ -1960,7 +1960,7 @@ bethanchokkhabar.com,nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 dailynews24.in##.gb-container-553faf02
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
-asr24.news,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
+asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 tamil.goodreturns.in##.gd-multi-news ul > div
 24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
@@ -3067,7 +3067,6 @@ gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 nakkheeran.in##.theiaStickySidebar .block-block-content
-bheldailynews.com##.theiaStickySidebar .e3lan
 marathwadaneta.com##.theiaStickySidebar .elementor-inner-section
 snpsports24.com##.theiaStickySidebar .elementor-widget-image
 dinamina.lk##.theiaStickySidebar .elementor-widget-image img:not([src*="admit.jpg"])
@@ -3078,7 +3077,7 @@ bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,n
 kasaragod.com##.theiaStickySidebar .text-html-box
 banglanewslive.co.in##.theiaStickySidebar .widget.HTML:not(#HTML7)
 hindustandailynews.com,jansaamna.com,jiwanjotsavera.com,purvanchalnews.com##.theiaStickySidebar .widget_block
-bharatnews18.in,bheldailynews.com,bograsangbad.com,mithilacitynews.in,navsatta.com,parvatanchal.com,samaynewslive.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
+bharatnews18.in,bograsangbad.com,mithilacitynews.in,navsatta.com,parvatanchal.com,samaynewslive.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 aajexpress.com,acpnews24.com,aryasamay.com,awazlive.com,awaznews24x7.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,garhninad.com,hamarahimachal.com,hindustanopinion.com,jharkhandnews.live,kakkajee.com,khaskhabar24.com,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,news20live.com,news85.in,newsnasha.com,newsroom9.com,parvatjan.com,rajarhatbd.com,rajdhanitimescg.in,rudrakshnews.com,sabkajammukashmir.com,sitakundtimes.com,sunmision.tv,thejoharnews.com,tosnews.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
 khabar36.com##.theiaStickySidebar .widget_media_image:not(#block-2):not(#media_image-17)
