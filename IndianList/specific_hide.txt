@@ -2008,7 +2008,7 @@ cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 rojanapunjab.com##.header-centerbar-ad
 purvanchalpost.com##.header-image-wrap
-budaunamarprabhat.com,sunaminewstv.com##.header-inner #sidebar
+budaunamarprabhat.com##.header-inner #sidebar
 odishabhaskar.com##.header-inner .sidebar-col
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
