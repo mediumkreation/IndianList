@@ -57,7 +57,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hamaramahanagar.in,jalorenews.com,jaunpurlive.com,kalviseithi.net,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sandwanews.com,shivpurisamachaar.com,shortnews.lk,siyanenews.com,spyviewnews.in,thattungal.com###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hamaramahanagar.in,jalorenews.com,jaunpurlive.com,kalviseithi.net,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,sandwanews.com,shortnews.lk,siyanenews.com,spyviewnews.in,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -576,6 +576,7 @@ samakal.com###popUpModalAd
 hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
+shivpurisamachaar.com###post-placeholder
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
 emalayalee.com###pravas-channel
 pardafas.com###primary .gam-ad-position-wrap
