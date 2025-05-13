@@ -2555,6 +2555,7 @@ pchelpcenterbd.com##.pragads
 paathok.news##.prettyphoto
 deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
 sakalakhabar.com##.primary-sidebar-widget
+makdaiexpress24.com##.primary-sidebar-widget:has(div[data-adid] > img)
 samajalive.in##.primary-sidebar-widget:has(div[data-adid])
 cgtazanews.com##.primary-sidebar-widget:not(#better-social-counter-2)
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
@@ -2756,7 +2757,6 @@ ktmdainik.com##.single-post aside.widget_media_image
 hamrodes.com##.single-post figure.wp-block-image
 nepalmamila.com,satyadeepsandesh.com##.single-post-advertisement
 haryananewsonline.com##.single-post-content > p img:only-child
-makdaiexpress24.com##.single-post-content [data-adid]
 ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
 nepalbritain.com,rastriyakhabar.com,tibrakhabar.com##.single-wrapper-details-sidebar-ads
