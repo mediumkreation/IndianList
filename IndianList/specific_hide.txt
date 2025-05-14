@@ -4341,7 +4341,7 @@ hindustannewsexpress.com##img[src*="c-force/booking/"]
 reportsindia.in##img[src*="gftr"]
 wijeya.lk##img[target]
 kasargodvartha.com##img[title="wellfitindia"]
-indiakhabar.co.in#?#div:-abp-has(> .section-title > h4:-abp-contains(ADVERTISEMENT))
+indiakhabar.co.in#?#.mb-3 .section-title:-abp-has(> h4:-abp-contains(Advertisement))
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiannewsservice.net#?#.sidebar h2:-abp-contains(Advertisement)
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertise))
