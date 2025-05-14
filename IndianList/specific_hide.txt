@@ -1881,6 +1881,7 @@ madhyamam.com##.extra_bottom_sections
 dakhal.net,kolarnews.net##.fadInleft_ads
 marathi.indiatimes.com##.fakelisting
 bangla.thereport24.com##.farrr
+telugu.samayam.com##.fbnad
 bbc24news.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
 hetaudatoday.com,tukhabar.com##.feature-bottom-ad
