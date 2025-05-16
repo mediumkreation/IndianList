@@ -3391,6 +3391,7 @@ khosbasbarta.com##.widget_section .add
 sangalokhabar.com##.widget_sg_advertisement_1
 satlujbiastimes.com##.widget_sisw_widget
 odishanewslens.com##.widget_slider
+karmakshetratv.com##.widget_slideshow
 awaznews24x7.com,biharharpalnews.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 starvrutta.com##.widget_sow-slider
