@@ -754,6 +754,7 @@ citymailnews.com###tdi_126
 himalayandiscover.com###tdi_156
 srujananedu.com###tdi_191
 vavuniyanet.com###tdi_2
+samriddhasamaj.com###tdi_40
 crimemukhabir.com###tdi_57
 anbnews24.com,liveindia.live,munshigonjerkagoj.com,priyobandhu.com,timesoneodia.com###text-1
 amritvarshanews.in,gajabkhabre.com,himachalvarta.com,jagprerna.com,janmanindia.com,joyparajoy.com,medianp.com,moonbreaking.com,newscup.in,tamil.com,theblastkhabar.com###text-10
@@ -3005,7 +3006,7 @@ najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 dailybanglarrup.com,jnilive.mobi,newspage13.com##.td_block_image_box
-abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,ntinews.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,samriddhasamaj.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,ntinews.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 chatganrbani.com##.td_block_text_with_title
@@ -3750,6 +3751,7 @@ janayugomonline.com##a[target="_blank"]:not(.btn) > img
 cinepati.com##a[target="_blank"]:not(a[href*="cinepati"])
 newsajako.com##a[target="_blank"]:only-child img
 humsamvet.com##a[target="_new"]
+samriddhasamaj.com##a[title="Advertisement"]
 srujananedu.com##a[title="Sidebar ad-1"]
 bayanno.com##a[title^="Advert"]
 aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
