@@ -2162,6 +2162,7 @@ filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 teluguglobal.com##.inside-post-ad-before-before
 anmolbharat.in##.inside-right-sidebar
+naitaaqat.in##.inside-right-sidebar .gb-container:has(> ins.adsbygoogle)
 devpath.in##.inside-right-sidebar > .gb-container:not(.sticky-container)
 hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
 gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com,pokharanews.com##.inside_ads
@@ -3545,7 +3546,7 @@ newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
-betulsamachar.com,bongnews24x7.com,dailynews24.in,devpath.in,nearnews.in,sbnlive.net##.wplite-banner-ads
+betulsamachar.com,bongnews24x7.com,dailynews24.in,devpath.in,naitaaqat.in,nearnews.in,sbnlive.net##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
