@@ -3007,7 +3007,7 @@ najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 dailybanglarrup.com,jnilive.mobi,newspage13.com##.td_block_image_box
-abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,ntinews.com,odishanews24.in,ournews24.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+abitfar.com,atulyabharat.in,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,himalayandiscover.com,khabargujarat.com,manaharilive.com,ntinews.com,odishanews24.in,ournews24.com,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,raigarhtopnews.com,skynewspunjab.com,tamilnews.com,tazakhabar.in,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 chatganrbani.com##.td_block_text_with_title
@@ -3633,6 +3633,7 @@ bartabangla.com##a[href*="BandhoB"]
 divaina.lk##a[href*="CrystalSoapLK"]
 battinews.com##a[href*="ad.battinews.com"]
 24ghanta.net##a[href*="adroll.com"]
+pahilosamachar.com##a[href*="advertisement"]
 emalayalee.com##a[href*="advertisements_new"]
 houseplan.lk##a[href*="advertising page"] img
 jivanihindi.com##a[href*="affiliraiser.com"]
