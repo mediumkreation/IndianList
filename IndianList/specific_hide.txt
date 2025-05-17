@@ -3284,6 +3284,7 @@ bantwalnews.com##.widget_adsforwp_ads_widget
 chautarikhabar.com,hamromat.com,pradeshdainik.com##.widget_advertisement-bar
 e-kantho24.com,gtbnews24.com##.widget_area
 diptonews24.com##.widget_area .attachment-full
+dainikparibarton.com##.widget_area .textwidget p img
 pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
 dainikcampus.com##.widget_area > .textwidget
 71sangbad24.com,dailybahadur.com,dailynotunsongbad.com##.widget_area > img
