@@ -2278,7 +2278,7 @@ ezhomelive.com##.main-ads-pikihome
 policevarthe.com##.main-bg .carousel
 setopati.com##.main-bigyaapan
 aanmeegam.co.in##.main-box-inside:has(> p ins.adsbygoogle)
-aaryaanews.com,hkgnews247.com,punjabiakhbaar.ca,tararalo.net##.main-content .stream-item
+aaryaanews.com,hkgnews247.com,newslinkers.com,punjabiakhbaar.ca,tararalo.net##.main-content .stream-item
 entethiruvambady.com##.main-content > .stream-item img
 deshprotikhon.com##.main-content a[target="_blank"] img
 indianewsviral.co.in##.main-footer .widget_text
