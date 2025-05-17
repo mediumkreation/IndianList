@@ -1735,10 +1735,8 @@ mpcnews.in##.elementor-41 .elementor-widget-text-editor
 aajkijandhara.com##.elementor-col-33 .elementor-section
 nikharanews.in##.elementor-element .size-large
 khulasanewslive.in##.elementor-element-3fb6b77
-namastenri.net##.elementor-element-4f2ae98
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 madhepuralivenews.com##.elementor-element-bd8215c
-namastenri.net##.elementor-element-e9b9b10
 maithilbrahminmahasabha.in##.elementor-element-f2e9897
 madhepuralivenews.com##.elementor-element.elementor-element-267fc9ac
 lakhokantho.com##.elementor-heading-title.elementor-size-small
@@ -1774,6 +1772,7 @@ andolana.in,newsdeskkannada.com##.elementor-widget-image .size-large
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
 bhartiyakhabar.in##.elementor-widget-image figure
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
+namastenri.net##.elementor-widget-image img:not([src*="Logo-1.jpg"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
