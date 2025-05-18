@@ -1566,7 +1566,7 @@ bangalianaa.com##.code-widget
 notunerkotha.com##.codedokan_widget img
 bankingkhabar.com##.codeneric_uam_link
 firstbihar.com##.col-12 > iframe
-colombotamil.lk,nishpakshjanavlokan.in##.col-bn-ds
+colombotamil.lk,nishpakshjanavlokan.in,tamilvisions.com##.col-bn-ds
 apnapunjabmedia.com##.col-lg-2 > .white-bg
 hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
@@ -2707,7 +2707,6 @@ bekhauphindia.com##.sidebar .widget_text:not(#text-10)
 yuvabrigade.net##.sidebar > .widget_media_image
 crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
-tamilvisions.com##.sidebar-ad-banners
 tatokhabar.com##.sidebar-add
 unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
