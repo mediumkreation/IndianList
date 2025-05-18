@@ -218,8 +218,7 @@ anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
 bd24views.com,bdcrictime.com,bihardailynews.com,hadapsarexpress.com,hdhrm.com,janadeshexpress.in,newsganj.com,paridarshaka.com,pokharacity.com,sgstvtelugu.com,sikkimtoday.com,thedastak24.com,veekshanam.com###block-4
 creativenewsexpress.com###block-42
-thehindustanvoice.in###block-47
-suprovatsydney.com.au,thehindustanvoice.in###block-48
+suprovatsydney.com.au###block-48
 anokhateer.com,hamarahimachal.com,indianvoice24.com,newsbanglaa.com,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com###block-5
 natunshokal.com###block-50
 anwesantv.wordpress.com,ukpkg.com###block-52
@@ -3301,7 +3300,7 @@ uppunews.com##.widget_block figure
 ashmitanews.in##.widget_block figure.size-large
 dailyfaridpurkantho.com,dinakaran.com##.widget_block img
 news1hindustan.com##.widget_block video
-khabarcgnews.com,timesofswaraj.com##.widget_block:has(> ins.adsbygoogle)
+khabarcgnews.com,thehindustanvoice.in,timesofswaraj.com##.widget_block:has(> ins.adsbygoogle)
 iimtnews.com##.widget_block:has(> p > ins.adsbygoogle)
 newszon.in##.widget_block:not(#block-10)
 agrtanews.com##.widget_block:not(#block-2)
