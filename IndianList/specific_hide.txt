@@ -2016,7 +2016,7 @@ budaunamarprabhat.com##.header-inner #sidebar
 odishabhaskar.com##.header-inner .sidebar-col
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
-abstarnews.com,alochitokantho.com.bd,jamalpurlive.net,wegarhwali.com##.header-promotion
+abstarnews.com,jamalpurlive.net,wegarhwali.com##.header-promotion
 azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
 beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
 banglaralobd.com##.header-right-sidebar
