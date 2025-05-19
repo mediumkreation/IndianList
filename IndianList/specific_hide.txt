@@ -901,7 +901,6 @@ jinews.co.in###wowslider-container1
 hindustanvision.com###wowslider-container105
 hindustanvision.com###wowslider-container113
 champawatkhabar.com,dainikathah.com,gadhsamvedna.com,newsmalayalionline.com,odiabarta.in,sbharatnews.com###wp-custom-header
-sridungargarhtimes.com###wrapper > img
 kathmandutoday.com###wrapper a[target*="blank"] img
 sonatalasangbad.com###wrapper-content .widget_text
 ittefaq.com.bd###wrapper_283
@@ -2112,6 +2111,7 @@ enepalese.com##.ifrmbx
 iftamil.com##.iftam-content
 garhninad.com##.image-ad
 dailythanthi.com##.image-and-caption-wrapper
+sridungargarhtimes.com##.image-group
 bharathalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
 10tv.in##.image_Ad
@@ -3601,7 +3601,6 @@ instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 gtamilnews.com,tamilscreen.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
-sridungargarhtimes.com##[id^="sridu-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thestellarnews.com##[id^="thest-"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
