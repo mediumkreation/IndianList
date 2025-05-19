@@ -229,7 +229,7 @@ thelucknowtribune.com###block-60
 areseenews.com,athirvu.in,girlsglobe.in,kundapraa.com,liveindiakhabar.in,newsnagar.in,odishamanthan.com,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 thenationtimes.in###block-73
 thenationtimes.in###block-74
-bharatpostlive.com,chamolitimes.com,naanmedia.in,palisirohionline.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
+angulonline.com,bharatpostlive.com,chamolitimes.com,naanmedia.in,palisirohionline.in,sathiyam.tv,tamizhakam.com,wayanadnewsdaily.com###block-8
 bombaysamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 neerfit.co.in###block-93
 varthabharati.in###block-block-253--2
@@ -2267,7 +2267,7 @@ haryanakranti.com##.m-200
 chopaltv.com##.m-280
 bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
 71sangbad.com##.m_none > a[target="_blank"]
-irinjalakudalive.com,makkalmurasu.com,sabsach.in,sansanisurag.com,thekeralapost.com,themenews24.com##.mag-adver-part
+angulonline.com,irinjalakudalive.com,makkalmurasu.com,sabsach.in,sansanisurag.com,thekeralapost.com,themenews24.com##.mag-adver-part
 mahasarkar.co.in##.mahas-widget
 odia-ray.in##.main .bannergroup
 telugupost.com##.main .to-be-async-loaded-ad:not(.details_left_level_6)
