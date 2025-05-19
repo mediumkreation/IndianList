@@ -2698,7 +2698,7 @@ thenewsrepair.com##.sidebar .widget.HTML
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 indiannewsroom.com,mbpratidin.com,sarthakprayash.com##.sidebar .widget_block
 aajkaaditya.in,bartabangla.com,muchata.com,mymarathi.net##.sidebar .widget_custom_html
-aviralsamachar.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,kadwaghut.com,khulasach.com,navamalayali.com,newslive24x7.com,opennewsx24.com,realtimes.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
+aviralsamachar.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,kadwaghut.com,khulasach.com,navamalayali.com,opennewsx24.com,realtimes.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
 newsdesk24.com##.sidebar .widget_media_image:has(> :not(div))
 mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
 crimenazarnews.com,ekhonkhobor.com,joddha.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com##.sidebar .widget_text
@@ -2871,7 +2871,7 @@ boguralive.com##.stream-item img
 satkarpost.com##.stream-item img:not([src*="File.gif"])
 pragativahini.com##.stream-item img:not([src*="Imprint-Latest-"])
 keralatimes.com##.stream-item img:not([src*="KARUKAPPILLIL-FOUNDATION_20240914_024439_0000.jpg"])
-edunews.com.bd,glimeindianews.in,mppost.com,newslive24x7.com,sarthakprayash.com##.stream-item-125-widget
+edunews.com.bd,glimeindianews.in,mppost.com,sarthakprayash.com##.stream-item-125-widget
 gnewsindia.com,magahinews.com,nepaltvonline.com##.stream-item-above-header
 ghazipurtoday.com,jaunpur24.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
 jilanazar.in##.stream-item-above-post-content
@@ -3371,7 +3371,7 @@ uttaravani.com##.widget_media_image:not(#media_image-7)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 samacharagency.com##.widget_media_image:not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
-aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,dastavej.in,devbhoomiaajtak.com,devbhoomimedia.com,doonited.in,dunvalleymail.com,enews24x7.in,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,jokhimnews.com,kafaltree.com,kasturinews.com,khabaruttarakhand.com,liveskgnews.com,mediasaheb.com,meruraibar.com,mitanbhoomi.com,mussoorieaajtak.com,network10tv.com,news127.com,news129.com,newsdna.co.in,newsnasha.com,pahadkasach.in,pahadsamachar.com,parvatanchal.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajkajlive.com,rajsattapost.com,rastradhwani.com,samvaad365.com,sankhnaad.com,sarkarimanthan.com,satyavoice.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thesingoritimes.com,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vasundharadeep.news,vicharsuchak.in,vision4news.com,voiceofuttarakhand.net##.widget_media_video
+aajkaaditya.in,abhitaknewsuk.in,actionindialive.com,andhrapatrika.in,awaznews24x7.com,bharatjan.com,chaalchalan.com,chamolitimes.com,dainikjayantnews.com,dainikkhabarlayehain.com,dastavej.in,devbhoomiaajtak.com,devbhoomimedia.com,doonited.in,dunvalleymail.com,enews24x7.in,expressnewslive.tv,gadhsamvedna.com,gangalahar.com,garhninad.com,gauravnews.in,himantar.com,jagouttarakhand.in,janswar.com,jokhimnews.com,kafaltree.com,kasturinews.com,khabaruttarakhand.com,liveskgnews.com,mediasaheb.com,meruraibar.com,mitanbhoomi.com,mussoorieaajtak.com,network10tv.com,news127.com,news129.com,newsdna.co.in,newslive24x7.com,newsnasha.com,pahadkasach.in,pahadsamachar.com,parvatanchal.com,pradeshnews24x7.com,pratidin24x7.in,rainbownews.co.in,rajkajlive.com,rajsattapost.com,rastradhwani.com,samvaad365.com,sankhnaad.com,sarkarimanthan.com,satyavoice.com,saunewsnetwork.com,shaheedokonaman.in,shramikmantr.com,sunehradarpan.com,tajakhabar.in,thesingoritimes.com,thethinkmedia.com,ts29.in,tv20news.in,udaydinmaan.com,uttarakhandraibar.com,vasundharadeep.news,vicharsuchak.in,vision4news.com,voiceofuttarakhand.net##.widget_media_video
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
 aapabhitak.tv,apradhprahari.in,awazrajasthanki.com,bntlive.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indiaedgenews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livestorytime.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,swatantraawam.in,thekhabrilal.com,timesandspace.com,tv20news.in,up18news.com,usmalayalees.com##.widget_metaslider_widget
 news-punjab.com##.widget_mts_widget_adcode
