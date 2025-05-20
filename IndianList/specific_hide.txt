@@ -2667,6 +2667,7 @@ sunbd24.com##.share-ads
 shobujbangladesh24.com##.shobu-widget
 timesofpradesh.com##.showcase
 shrinaradmedia.com##.shrin-widget
+nayabishwo.com##.side-adds
 rastriyakhabar.com##.side-ads-wrapper
 gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
