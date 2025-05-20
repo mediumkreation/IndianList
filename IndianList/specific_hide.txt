@@ -3640,6 +3640,7 @@ muslimmedia.info##a[href*="arabic.iirt.info"]
 eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
 pannagam.com##a[href*="baluasiaadd"]
+chhattisgarhtimes.com##a[href*="bankstore.in"] img
 bartamanbangladesh24.com,tritiyamatra.com##a[href*="bdinfobiz.com/pos-software"]
 chennaivision.com##a[href*="bharatgeneric.com"]
 ajhindidaily.in,dainikayodhyatimes.in##a[href*="biqdiq.com"]
