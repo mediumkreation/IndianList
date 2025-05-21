@@ -3815,6 +3815,7 @@ munaadi.com##center:has(> img.w-100)
 nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
+channelmahalaxmi.com#?#h2.widgettitle:-abp-contains(Advertisment)
 chatonay71news.com#?#.widget_recent_entries:-abp-contains(ads)
 cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h6:-abp-contains(Ad |))
 cityliveindia.com#?#div:-abp-has(> .main-heading:-abp-contains(Advertizement))
