@@ -24,7 +24,7 @@ banglarawaj.com,chilahatiweb.com,editiontoday.in,importmirror.com,kagojlive.blog
 24upnews.com###HTML2 .separator img
 backtobollywood.com,gossiplankanews.com###HTML20
 chahalpahal.in###HTML200
-kurunews.com,sebahotnews.org###HTML21
+kurunews.com,madhurdarpan.com,sebahotnews.org###HTML21
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
@@ -674,6 +674,7 @@ badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com###sidebar .widget_text
 lokhitkipukar.com###sidebar .ws-block-body > a > img
 khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
+madhurdarpan.com###sidebar-container .widget.Image
 veerdharanews.com###sidebar-footer-4
 biharaaptak.com###sidebar-primary .widget_custom_html
 haryananewsonline.com###sidebar-primary-sidebar
@@ -937,6 +938,7 @@ bhadas4media.com##.FooterAdArea .wp-block-image
 starkhabre.com##.FrameAdvt1
 banglanewsca.com##.Front-page-Right-Side-Ad
 kanaighatbarta.com##.HTML .widget-content img
+madhurdarpan.com##.HTML img[alt="Image"]
 khabreaajtaklive.com##.HTML:has(.slideshow-container)
 himachalmedia.co##.HTML:has(> div > ins.adsbygoogle)
 khabreaajtaklive.com##.HTML:has([alt="Image"])
