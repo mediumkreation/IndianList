@@ -3548,6 +3548,7 @@ modernnewsindia.com##.wpwbs_banners
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
 janghatna.com##.ws-block-body a img:not([src*="dj.JPG"])
+gannayaknews.com##.ws-block[id^="th-sb-ad-block"]
 fastindianews.com##.ws_gestures
 bnnbharat.com##.xembgt
 yashbharat.com##.yashb-adlabel
