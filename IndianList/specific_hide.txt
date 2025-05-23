@@ -273,6 +273,7 @@ dmoitry.com###content .widget_text
 swadeshbani.com###content .widget_text img
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
+deshdigital.in###content [data-adid]
 tejpolicetimes.com###content div:has(> a > [alt="- Advertisement -"])
 sathiksamachar.com###content div[data-adid]
 khabaruttarakhandlive.in###content div[id^="khaba-"]
@@ -615,7 +616,6 @@ biharpatrika.in###rma_masala
 aarthiknews.com###roadBlock
 ekantipur.com###roadblock-ad
 farwesttimesdaily.com###roadblockModal
-deshdigital.in###rozu-2
 sanjeevnitoday.com###sanje-slider-30
 pressnote.in###sb-container
 kodanki.in###secondary
@@ -2288,7 +2288,6 @@ odishabhaskar.com##.main-section [data-adid]
 cgnewsonline.com##.main-sidebar .widget_block
 bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
-deshdigital.in##.main-wrap div[class^="rozu"]
 maalaimalar.com##.main-wrapper:not(.news-details-page) div:has(> div > [id^="div-gpt-ad-"])
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 hindustanvision.com##.main_header .ws_images
