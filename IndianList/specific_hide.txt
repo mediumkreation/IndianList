@@ -2567,6 +2567,7 @@ farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
 neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
+asomiyapratidin.in##.publive-dynamic-container
 biswabanglasangbad.com,cinemapressclub.com,dhadingupdate.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com##.pum-content
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
@@ -3900,7 +3901,7 @@ otvkhabar.in##div[class$="-ad"]
 chakrikhobor.com##div[class$="-ads"]
 odishareporter.in##div[class$="0-ad"]
 ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
-asomiyapratidin.in,metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
+metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
 epaper.karavaliale.net##div[class*="-ads-"]
@@ -3911,7 +3912,6 @@ digitalkhobor.com##div[class*="-codes"]
 gandaknews.com##div[class*="-shortcode-"]
 cvoice24.com##div[class*="DContentAdd"]
 news18.com##div[class*="Header_inner_ad"]
-asomiyapratidin.in##div[class*="__adContainer__"]
 globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newsnationtv.com##div[class*="_ads_"]
 newskannada.com##div[class*="_adv_"]
