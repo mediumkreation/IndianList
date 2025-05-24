@@ -2393,6 +2393,7 @@ news13.in##.n13_home_adv5
 hindi.news18.com##.n18thder
 24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,inn24news.in,mahadbd.com,malayalamuk.com,rashtrabodh.com,smarthalchal.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
+nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
