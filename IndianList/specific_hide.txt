@@ -3427,7 +3427,7 @@ himachalreport.com,ikvnews.com,madhyapradeshdarshan.com,namastepurvanchal.in,son
 lotpot.com##.wow
 allnewsbharat.com##.wow.single_sidebar
 uptaazanews.com##.wp-block-code
-sansanisurag.com,twnews.in##.wp-block-embed
+nationalfrontier.in,sansanisurag.com,twnews.in##.wp-block-embed
 24hrnews.in##.wp-block-embed-youtube
 badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
@@ -3533,7 +3533,7 @@ newsboardindia.com##.wpb_singleimage_heading
 todaybhaskar.com##.wpb_text_column
 smartlady.lk##.wpb_text_column.tagdiv-type
 bholanews24.com##.wpb_text_column.wpb_content_element
-alamkikhabar.in,deshbartabd.com##.wpb_video_widget
+alamkikhabar.in,deshbartabd.com,nationalfrontier.in##.wpb_video_widget
 sameekshanews.com,samvadjanhvi.com##.wpb_video_wrapper
 pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 bdcrictime.com,dailybanglarrup.com,vaartavali.com##.wpb_wrapper .vc_raw_html
