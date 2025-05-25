@@ -167,6 +167,7 @@ malayaleepathram.com.au###black-studio-tinymce-67
 dainikjaltedeep.com,londonbdnews24.com,paridarshaka.com,tamizhdb.com,thenewsmirchi.com###block-10
 sirsonews24.com###block-100
 lalluram.com,magahinews.com,paridarshaka.com###block-11
+surgujasamay.com###block-112
 samrudhaodisha.com###block-113
 samrudhaodisha.com###block-114
 samrudhaodisha.com###block-116
@@ -2322,7 +2323,7 @@ farakdhar.com##.mbl-ad-mb
 indianews.in##.mdlad
 mediacover.in##.media-after-content
 vasistatoday.in##.mega-wrap .main-ads-pikihome
-bhilaitimes.com,lalitpurfastnews.com##.metaslider
+bhilaitimes.com,lalitpurfastnews.com,surgujasamay.com##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 wisdomindia.news##.mg-footer-widget-area
 shasansandesh.in##.mg-headwidget .code-block
