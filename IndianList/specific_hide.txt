@@ -411,7 +411,7 @@ sabaikosamachar.com###kp-premodal-1--wrap
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
 dakhalchhattisgarh.com,kottayammedia.com###leader-wrap
-newscity.co.in###leaderboard-content
+asalbaat.co.in,newscity.co.in###leaderboard-content
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 specialcoveragenews.in###left_level_0_before_1
 rewariyasat.com###left_level_1
@@ -661,7 +661,7 @@ laxminews24x7.com###sidebar .e3lan
 navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
 starsamachar.com###sidebar .text-muted
 bhorerkagoj.com###sidebar .textwidget
-mybenipatti.in###sidebar .widget.HTML
+asalbaat.co.in,mybenipatti.in###sidebar .widget.HTML
 rujalanews.blogspot.com###sidebar .widget.HTML:not(#HTML2)
 coverageindia.com,mybenipatti.in###sidebar .widget.Image
 asalbaat.co.in###sidebar .widget.Image .widget-content
