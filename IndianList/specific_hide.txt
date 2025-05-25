@@ -2231,7 +2231,7 @@ rewariyasat.com##.left_level_3_before
 bankura24x7.com,hmtvlive.com,maxwoman.in,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
-deshkiaawaz.in,hindifiber.com##.lhk-ads-container
+deshkiaawaz.in##.lhk-ads-container
 maatram.org##.lightwidget-widget
 damaulionline.com##.list-advertisement
 heralokhabar.com##.list_ads
@@ -4284,6 +4284,7 @@ apnades.in##h2[id*="sponsor"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 ikvnews.com##header + div .elementor-shortcode img
 khabor.com##header a[href*="/click-"]
+hindifiber.com#?#.gb-container:-abp-contains(Advertisement)
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
 horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
