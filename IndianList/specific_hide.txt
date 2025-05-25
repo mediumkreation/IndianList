@@ -15,7 +15,7 @@ jaldhakanews.com###HTML101
 dailyhealthletters.com,india2daynews.com,liveaaryaavart.com,mathagal.net###HTML12
 jaldhakanews.com###HTML123
 nawadalive.com,thattungal.com###HTML13
-india2daynews.com###HTML14
+india2daynews.com,insightchhattisgarh.in###HTML14
 balotranewstrack.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
 balotranewstrack.com,dainikdesherkhobor.com,publicnewshindi.com,thattungal.com###HTML16
 abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
@@ -656,7 +656,6 @@ aajtak.in###shoppingWidget
 aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,doonhorizon.in,fashionnewsera.com,keralavoter.com,news38times.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
-insightchhattisgarh.in###sidebar .advertisement
 laxminews24x7.com###sidebar .e3lan
 navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
 starsamachar.com###sidebar .text-muted
