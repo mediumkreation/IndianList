@@ -2879,7 +2879,7 @@ gnewsindia.com,magahinews.com,nepaltvonline.com##.stream-item-above-header
 ghazipurtoday.com,jaunpur24.com,pnews.co.in,rajdhanitimescg.in##.stream-item-above-post
 jilanazar.in##.stream-item-above-post-content
 abhitaknewsuk.in,postpatrika.com##.stream-item-below-header
-jaunpur24.com,magahinews.com##.stream-item-below-post
+jaunpur24.com,khabriadda.in,magahinews.com##.stream-item-below-post
 entethiruvambady.com,magahinews.com##.stream-item-below-post-comments
 abhitaknewsuk.in,entethiruvambady.com,jaunpur24.com,khabarhikhabar.com,newstruthlive.com,pahar24.com,voiceofmedia.lk##.stream-item-below-post-content
 dailybihar.in##.stream-item-below-post-content img
