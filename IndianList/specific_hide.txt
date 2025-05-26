@@ -3810,6 +3810,7 @@ biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 steelcity.online##body > .container > .row:first-child > div:last-child
 calcuttanews.tv##body > [class$="ads"]
+kasturinews.com##body > a img
 manvimedia.page##body ~ iframe
 asianbanglanews.com##body ~ iframe[style*="height: 100%"]
 bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |))
