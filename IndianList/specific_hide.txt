@@ -2618,7 +2618,6 @@ indianews.in##.right_fotter
 swadeshnews.in##.right_level_1
 hmtvlive.com##.right_level_2
 sylhetview24.net##.right_part div[style^="float:left;"]
-ctgtimes.com##.right_sidebar_ads
 tnilive.com##.righta
 anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
@@ -2764,7 +2763,6 @@ newssanjal.com##.single-sidebar .post-carousel-1
 nepalbritain.com,rastriyakhabar.com,tibrakhabar.com##.single-wrapper-details-sidebar-ads
 dristyprotidin.com##.single3-page-add
 avenues.tv,purbelinews.com##.single__bigyapaan
-ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 cumillasdnews24.com##.single_details .code-block
@@ -3915,7 +3913,7 @@ gandaknews.com##div[class*="-shortcode-"]
 cvoice24.com##div[class*="DContentAdd"]
 news18.com##div[class*="Header_inner_ad"]
 sadaksanchar.com##div[class*="__ads"]
-globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
+ctgtimes.com,globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newsnationtv.com##div[class*="_ads_"]
 newskannada.com##div[class*="_adv_"]
 dhakarkagoj.com##div[class*="_advertisement"]
