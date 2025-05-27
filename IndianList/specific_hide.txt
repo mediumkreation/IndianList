@@ -2445,7 +2445,7 @@ weeklydesh.co.uk##.nhsgallery
 nepalkhabar.com##.nk-sidebar-ads
 newskannada.com##.nktv_adv
 nnews24.com##.nnews-content
-ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,tvannapurna.com,upsamachar.org##.no-bg-box-model
+ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,upsamachar.org##.no-bg-box-model
 kayakairan.com##.no-bod .ad-title + a img
 nepalraftar.com##.no-bod > a
 narayanionline.com,sagarmatha.tv##.no-vigyapan-section
