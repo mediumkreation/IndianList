@@ -3199,6 +3199,7 @@ damstv.com,weunetwork.in##.utf_ad_content_area
 uttarakhandcitynews.com##.uttar-widget
 vatsalyanews.com##.vatsa-middle
 abhibharat.com##.vc_col-sm-3 .bs-shortcode
+canchannels.com##.vc_col-sm-4 .wpb_single_image
 rajasthanichirag.in##.vc_col-sm-8 .mom_custom_text
 newbharatnews.com##.vc_custom_1526888727884
 changetv.press##.vc_custom_1546328500609
