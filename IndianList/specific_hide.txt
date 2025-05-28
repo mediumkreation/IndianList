@@ -1965,6 +1965,7 @@ bethanchokkhabar.com,nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 dailynews24.in##.gb-container-553faf02
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
+topbihar.com##.gb-container:has(> [data-type="_mgwidget"])
 asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 tamil.goodreturns.in##.gd-multi-news ul > div
 24ghonta.news##.ghont-ksrm-bottom
@@ -3545,7 +3546,7 @@ newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
-betulsamachar.com,bongnews24x7.com,dailynews24.in,devpath.in,naitaaqat.in,nearnews.in,newsuniversal.in,sitetelugu.com##.wplite-banner-ads
+betulsamachar.com,bongnews24x7.com,dailynews24.in,devpath.in,naitaaqat.in,nearnews.in,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
@@ -4501,6 +4502,7 @@ theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-conta
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
 todaynewshindi.in#?#.sidebar-widget:-abp-has(h4:-abp-contains(Ads))
+topbihar.com#?#figure[class*="gb-block-image-ad"] + .gb-container:-abp-contains(Advertisement)
 ttncinema.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div p:-abp-contains(AD |) )
 tutyonline.net#?#.sub_new b:-abp-contains(Ads)
 tv20news.in#?#p:-abp-contains(Advertisement)
