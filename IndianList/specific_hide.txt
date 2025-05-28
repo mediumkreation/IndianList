@@ -1992,7 +1992,6 @@ pakundiapratidin.com##.hd_banner
 alokitobarisal.com,bd24time.com,dainikdesherkotha.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
 dailysports24.com##.head-banner
 alivenews.co.in##.head-main-ad
-vgnews.in##.headAdExBlock
 moonamvazhi.com##.headRightAdv
 alokitosonargaon.com##.head_bottom_add
 prativad.com##.header .banner
@@ -4358,7 +4357,7 @@ indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-
 indiannewsservice.net#?#.sidebar h2:-abp-contains(Advertisement)
 indiasamachar24.com#?#.widget:-abp-has(.widget-title > h4:-abp-contains(Advertise))
 indocanadiantimes.com#?#.block-title span:-abp-contains(Sponsored Ads)
-biharnewstv.in,dd24news.in,hindinewslatest.in,lucknownewshindi.in,morning-newspaper.in,newsplus.co.in##ins[data-ad-channel]
+biharnewstv.in,dd24news.in,hindinewslatest.in,lucknownewshindi.in,morning-newspaper.in,newsplus.co.in,vgnews.in##ins[data-ad-channel]
 mzamin.com##ins[id^="infostation-"]
 jalauntimessite.wordpress.com#?#.widget-title:-abp-contains(Advertisment)
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
