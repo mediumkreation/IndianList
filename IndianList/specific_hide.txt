@@ -2793,7 +2793,7 @@ indias.news##.site-footer .widget_text
 khabarkunj.com##.site-footer__bottom
 prajamantalu.com##.site-header .htmlwidget
 ukhiyanews.com##.site-header ~ .bg
-entertainmentkhabar.com,googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesi.com,samabesionline.com,sangalokhabar.com##.site-header-ads
+entertainmentkhabar.com,googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,panchakoshitimes.com,samabesi.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 eveningkerala.com##.site-heading-sidebar
 saunewsnetwork.com##.site-main .widget_media_image
@@ -3428,7 +3428,7 @@ allnewsbharat.com##.wow.single_sidebar
 uptaazanews.com##.wp-block-code
 nationalfrontier.in,rainbownews.co.in,sansanisurag.com,twnews.in##.wp-block-embed
 24hrnews.in##.wp-block-embed-youtube
-badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,sabaikosamachar.com##.wp-block-gallery
+badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,panchakoshitimes.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
 banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in,taza-khabar.com##.wp-block-image
 gulfbangla.com##.wp-block-image > figure
