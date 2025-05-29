@@ -984,7 +984,7 @@ kushtianews24.com##.above-banner
 kapotham.com##.above-sidebar-wrapper
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,anmolkhabar.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
+akhabarhub.com,anmolkhabar.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,tukhabar.com##.ad
 cialive.in##.ad .carousel
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 arthasansar.com,dailysunshine.com.bd##.ad img
@@ -2735,7 +2735,7 @@ pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
 sawalnepal.com##.sidebar__ads
-anmolkhabar.com,hetaudatoday.com,lalkhabar.com,nawayug.com##.sidebar_top_Ad
+anmolkhabar.com,hetaudatoday.com,lalkhabar.com,lokkhabar.com,nawayug.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 prasashan.com##.sidebarad-content
 mznnews.com##.sidebars-area
