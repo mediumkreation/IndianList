@@ -657,7 +657,7 @@ aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,doonhorizon.
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
-navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
+chhatrapatitimes.com,navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
 starsamachar.com###sidebar .text-muted
 bhorerkagoj.com###sidebar .textwidget
 asalbaat.co.in,mybenipatti.in###sidebar .widget.HTML
