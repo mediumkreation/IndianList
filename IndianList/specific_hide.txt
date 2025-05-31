@@ -578,6 +578,7 @@ amadershomoy.com###popUp
 samakal.com###popUpModalAd
 hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
+iimtnews.com###post-37
 jagprerna.com###post-7708
 shivpurisamachaar.com###post-placeholder
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
