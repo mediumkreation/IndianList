@@ -1652,6 +1652,7 @@ teluguwirals.com,vtv24x7.com##.custom-header
 cinemadaddy.com,enavabharat.com,kositimes.com,muktirlorai.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
+jatirkhantha.com.bd##.custom-html-widget img
 torontotamil.com##.custom-html-widget table[border="1"] img
 nationnewshindi.com##.custom-sidebar-video
 7elevennews.com,raajdhaninews.com##.custom-slider
