@@ -661,6 +661,7 @@ laxminews24x7.com###sidebar .e3lan
 chhatrapatitimes.com,navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
 starsamachar.com###sidebar .text-muted
 bhorerkagoj.com###sidebar .textwidget
+saradin.news###sidebar .textwidget img
 asalbaat.co.in,mybenipatti.in###sidebar .widget.HTML
 rujalanews.blogspot.com###sidebar .widget.HTML:not(#HTML2)
 coverageindia.com,mybenipatti.in###sidebar .widget.Image
