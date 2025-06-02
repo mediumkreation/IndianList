@@ -929,7 +929,7 @@ tutyonline.net##.Amain
 onp24.com##.BannerAdd2
 janashaktinews.com##.CMAC_AdChangerWidget
 cvoice24.com,eyenews.news##.DADD
-amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
+aajkalcanada.com,amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd .hidden-xs
 sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
@@ -3063,7 +3063,7 @@ kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 bdcrime24.com##.textwidget > p img
 dainiksylhet.com##.textwidget > p:has(ins.adsbygoogle)
-aashanews.com,khabarpatrikanp.com##.textwidget img
+aajkalcanada.com,aashanews.com,khabarpatrikanp.com##.textwidget img
 banglanews24ny.com##.textwidget img:not([src*="banner-"])
 kirandoot.com##.textwidget p img
 lokhitexpress.com##.textwidget strong img
