@@ -1482,6 +1482,7 @@ topnepalnews.com##.border-bottom.bg-white
 bornamelanews24.com##.bornamelanews24adlabel
 bbcpunjab.com##.bot-ads
 samacharnama.com##.both_AD
+everestmission.com##.bottom-add-place
 samakal.com##.bottomReadMoreCart div[style*="width: 300px !important;height: 250px"]
 samakal.com##.bottomStickyDesktopDiv
 lokjeewan.com##.bottom_ad_slide
