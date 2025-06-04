@@ -245,6 +245,7 @@ bdnewshour24.com###bottom-header-banner
 dailyamadercomilla.com###bottomadothers
 malayalamtodayonline.com###boxes
 simpaninews.com###brx-header .size-large
+probashtime.net###brxe-jugtas
 ajkalerkontho.com###bunyad_ads_widget-3
 satv.tv###bunyad_ads_widget-9 > .widget-title
 amankishaan.news###bxnzmefcd-3
@@ -1492,6 +1493,7 @@ gorkhalikhabar.com##.box_wrap.p-2
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
+probashtime.net##.brx-popup-content a.brxe-image img
 navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
