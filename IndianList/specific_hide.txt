@@ -1781,6 +1781,7 @@ simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"]
 andolana.in,newsdeskkannada.com##.elementor-widget-image .size-large
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
 bhartiyakhabar.in##.elementor-widget-image figure
+jagratbharatnews.in##.elementor-widget-image img
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 namastenri.net##.elementor-widget-image img:not([src*="Logo-1.jpg"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
