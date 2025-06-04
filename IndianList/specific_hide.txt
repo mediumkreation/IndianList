@@ -2477,6 +2477,7 @@ newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.ok-full-widht-adv
 onlinekhabar.com##.okam-ad-position-wrap
 onlinekhabar.com##.okam-each-ad
+multinews24.com##.oke
 ournewsbd.net##.onads
 arthoneeti.com##.one-1
 raebareliexpress.in##.onesignal-customlink-container ~ img
@@ -3531,7 +3532,7 @@ clearnews.live,rajsattanews.com##.wpb_raw_html
 garavigujarat.biz##.wpb_raw_html:has(.adsbymahimeta)
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
-abcb.news,adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,ctgsangbad.com.bd,currentcrime.com,dailygazipuronline.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,doinikbarta.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,jharkhandlatestnews.com,kalakkalcinema.com,krushival.in,madhyapradeshdarshan.com,manchitra24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,newspost.live,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sabrangsamachar.com,sajhaonlinekhabar.com,sambahak.com,smsofup.com,tamilscreen.com,todaynp.com,udaipurnews.in,vidivelli.lk,voiceofpanipat.com##.wpb_single_image
+abcb.news,adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chattogramsangbad.com,ctgsangbad.com.bd,currentcrime.com,dailygazipuronline.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,doinikbarta.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,jharkhandlatestnews.com,kalakkalcinema.com,krushival.in,madhyapradeshdarshan.com,manchitra24.com,multinews24.com,munshiganjnews.com,mysanchar.com,nayapusta.com,newsbreathe.com,newspost.live,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sabrangsamachar.com,sajhaonlinekhabar.com,sambahak.com,smsofup.com,tamilscreen.com,todaynp.com,udaipurnews.in,vidivelli.lk,voiceofpanipat.com##.wpb_single_image
 mpnewscast.com##.wpb_single_image .attachment-full
 mpnewscast.com##.wpb_single_image .wpb_heading
 everestdainik.com##.wpb_single_image figure
