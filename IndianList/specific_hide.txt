@@ -984,6 +984,7 @@ al-ihsan.net##.a_d-banner
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
+natundara.com##.above-footer-widgets-section
 kapotham.com##.above-sidebar-wrapper
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
