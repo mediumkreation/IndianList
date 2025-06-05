@@ -3291,6 +3291,7 @@ dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 jagatprahari.com##.widget_728x90_advertisement
+loknabj.com##.widget_ads_small
 bantwalnews.com##.widget_adsforwp_ads_widget
 chautarikhabar.com,hamromat.com,pradeshdainik.com##.widget_advertisement-bar
 e-kantho24.com,gtbnews24.com##.widget_area
