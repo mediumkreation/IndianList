@@ -943,6 +943,7 @@ bhadas4media.com##.FooterAdArea .wp-block-image
 starkhabre.com##.FrameAdvt1
 banglanewsca.com##.Front-page-Right-Side-Ad
 kanaighatbarta.com##.HTML .widget-content img
+dangkhabar.blogspot.com##.HTML img
 madhurdarpan.com##.HTML img[alt="Image"]
 khabreaajtaklive.com##.HTML:has(.slideshow-container)
 himachalmedia.co##.HTML:has(> div > ins.adsbygoogle)
@@ -4348,6 +4349,7 @@ jagratilahar.com##img[alt*="business ad"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 shariatpurnews24.com##img[alt="-Advertisement-"]
 onlinemarg.com##img[alt="1205X128"]
+dangkhabar.blogspot.com##img[alt="Abroad Study"]
 bhadainimirror.com,newswayanad.in##img[alt="Ad"]
 dcnewsbd.com,dhakanewsexpress.com##img[alt="Advertisement"]
 livenewage.com##img[alt="Alt Image"]
