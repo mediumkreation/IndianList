@@ -1282,6 +1282,7 @@ kalaroanews.com,ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
 chhattisgarh.co,newsmalayalionline.com,rubarunews.com,skyhawktimes.com##.advertisement_above_footer
 jananesan.com##.advertisement_bar
+missiontodaynews.com##.advertisement_big
 thahaonline.com##.advertisement_big img:not([src*="Thaha-tv-ads-"])
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
@@ -1938,6 +1939,7 @@ hajurkokhabar.com##.footer__top__up__image
 borendronews.com##.footer_logo
 theholytimes.com##.footer_top_add
 adhorekhit.com##.footer_top_banner
+missiontodaynews.com##.footer_wrap img
 firstindianews.com##.for-add
 professorsbd.com##.for_add
 anmolkhabar.com##.four-col > a[href=""] img
