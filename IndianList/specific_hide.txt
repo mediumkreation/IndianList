@@ -1282,6 +1282,7 @@ kalaroanews.com,ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
 chhattisgarh.co,newsmalayalionline.com,rubarunews.com,skyhawktimes.com##.advertisement_above_footer
 jananesan.com##.advertisement_bar
+thahaonline.com##.advertisement_big img:not([src*="Thaha-tv-ads-"])
 sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
@@ -2494,6 +2495,7 @@ maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 banglatribune.com##.overayFeaturedImage
 bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
 24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
+thahaonline.com##.p-1.h-100
 newuthayan.com##.p-3.text-center
 divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
@@ -3080,6 +3082,7 @@ dailybahadur.com##.textwidget:has(> p > ins.adsbygoogle)
 ajkerjholok.com##.textwidget:only-child
 thinkwithniche.in##.tg-addbox
 projonmonews24.com##.thads
+thahaonline.com##.thahaonline-inner-ads-short
 gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
