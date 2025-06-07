@@ -1328,6 +1328,7 @@ jagonarayanganj24.com##.amws-custom-widget-show-ad
 bspabla.com##.amzn_wdgt
 apanderanews.com##.apand-before-content
 samakal.com##.app-news-section-div:has(> .adv)
+shikshakmasik.com##.apple2
 fns24.com##.ar_ads
 udayavani.com##.artical-page-mdl-ad
 heronewsonline.com##.article-container
@@ -4041,6 +4042,7 @@ samacharfirst.com##div[class^="home-adright"]
 indianewsviral.co.in##div[class^="india-content"]
 hindi.scoopwhoop.com##div[class^="jsx-"]
 kokanmedia.in##div[class^="kokan-"]
+shikshakmasik.com##div[class^="modal"]
 patnapost.com##div[class^="newsf-"]
 newstrendindia.com##div[class^="newst-"]
 nokhaexpress.com##div[class^="nokha-"]
