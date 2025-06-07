@@ -3238,6 +3238,7 @@ ibclive.in##.vc_sidebar .widget_custom_html
 amaderkhulna.net,netmalayalam.com##.vc_slide
 bhilaitimes.com##.vc_widget_sidebar
 sachetonbarta.com.bd##.vc_widget_sidebar .td-a-rec
+indrenionline.com##.vc_widget_sidebar img
 beautynewsnepal.com##.vce-blank-module:not(#main-box-12)
 bhaktibharat.com##.vdo_ads
 velsmedia.com##.velsm-content
