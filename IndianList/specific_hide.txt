@@ -2189,7 +2189,7 @@ newzfast.com##.intes_fixed + div
 makalukhabar.com##.is-full-widescreen-ad
 samvetshikhar.com##.item-size-right img
 aajtak.in##.itgdAdsPlaceholder
-bartakontho.com##.itpolly_widget > img
+bartakontho.com,deshshamachar.com##.itpolly_widget > img
 alokitoshitalakha.com,nabajug.com##.itpolly_widget img
 dainikjharkhand.com##.ixnf
 jaihindtimes.in##.jaihi-before-content
