@@ -4285,6 +4285,7 @@ risingbd.com##div[style="min-height: 90px;"]
 prabhasakshi.com##div[style="min-height:280px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 patrika.com##div[style]:has(> div[id^="gpt_ads_"])
+dibalok.com##div[style^="float"]:has(  ins.adsbygoogle)
 zoombangla.com##div[style^="float: none"]:not([data-index="3"])
 currentnews.com.bd##div[style^="font-size:25px;"] > table
 dinvishesh.com##div[style^="height: 350px;"]
