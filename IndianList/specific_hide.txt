@@ -3079,6 +3079,7 @@ banglainsider.com##.text-secondary.d-block
 kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 bdcrime24.com##.textwidget > p img
+banglanewsus.com##.textwidget > p img:not([src*="1234IMG-20190527-WA0003.jpg"])
 dainiksylhet.com##.textwidget > p:has(ins.adsbygoogle)
 aajkalcanada.com,aashanews.com,khabarpatrikanp.com##.textwidget img
 banglanews24ny.com##.textwidget img:not([src*="banner-"])
