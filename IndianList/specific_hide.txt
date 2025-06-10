@@ -3426,6 +3426,7 @@ eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 starvrutta.com##.widget_sow-slider
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
+samabesikhabar.com##.widget_sso_advertisement
 ainnews.tv,atulyaloktantranews.com,awazeuttarpradesh.com,deshrupantor.com,fatafatnews.com,gangalahar.com,khulnatimes.com,ottrancheithi.com,shomoynews.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
