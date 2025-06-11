@@ -2148,7 +2148,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-kalikadainik.com,moolbato.com,sadaksanchar.com,satkarpost.com,sawalnepal.com##.in__between_ads
+kalikadainik.com,moolbato.com,ournewscrew.com,sadaksanchar.com,satkarpost.com,sawalnepal.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
@@ -3952,6 +3952,7 @@ gandaknews.com##div[class*="-shortcode-"]
 cvoice24.com##div[class*="DContentAdd"]
 news18.com##div[class*="Header_inner_ad"]
 sadaksanchar.com##div[class*="__ads"]
+ournewscrew.com##div[class*="__ads"]:not([class*="top__header__ads"])
 ctgtimes.com,globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newsnationtv.com##div[class*="_ads_"]
 newskannada.com##div[class*="_adv_"]
