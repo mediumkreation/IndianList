@@ -4488,7 +4488,7 @@ dainiki.com##section img.attachment-full
 jubileepost.in##section ~ .e3lan
 thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
-arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
+arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mayadevionline.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
 abcnepal.tv,chakrapath.com,kendrabindu.com,notebazar.com,onlinetvnepal.com##section.widget figure
 actpronepal.com##section.widget figure img
