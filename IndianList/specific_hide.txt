@@ -1282,7 +1282,7 @@ arthadabali.com##.advertisement-heading
 deshdorshon.com,newsbrahmanbaria.com##.advertisement-section
 kalaroanews.com,ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
-chhattisgarh.co,newsmalayalionline.com,rubarunews.com,skyhawktimes.com##.advertisement_above_footer
+chhattisgarh.co,keralatoday.info,newsmalayalionline.com,rubarunews.com,skyhawktimes.com##.advertisement_above_footer
 jananesan.com##.advertisement_bar
 missiontodaynews.com##.advertisement_big
 thahaonline.com##.advertisement_big img:not([src*="Thaha-tv-ads-"])
