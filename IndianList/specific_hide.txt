@@ -955,6 +955,7 @@ yarldevinews.net##.Image
 mithimedia.in##.Image.widget
 khabarpahad.com##.InArtilce-AdSlot01
 flowersoriginals.com,twentyfournews.com##.InsidePost
+25kalak.com##.JumboAdBottom
 nellaionline.net,tutyonline.net##.MR300250
 newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
@@ -1671,6 +1672,7 @@ nationnewshindi.com##.custom-sidebar-video
 gramajyothi.com##.custom1
 andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
+25kalak.com##.customeadd
 news4nation.com##.custtwo_swiper-container
 thechopal.com##.d-117
 banglamail.news##.d-ad
@@ -1986,6 +1988,7 @@ paharipatrika.in##.gb-container:has(> .gb-headline + video)
 topbihar.com##.gb-container:has(> [data-type="_mgwidget"])
 asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 tamil.goodreturns.in##.gd-multi-news ul > div
+25kalak.com##.ggl-bnr-728
 24ghonta.news##.ghont-ksrm-bottom
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
