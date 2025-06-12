@@ -3435,7 +3435,7 @@ jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
 sirajganjnews24.com##.widget_text code
 thejoharnews.com##.widget_text iframe[title]
-barishaltimes.com,cgmitan.com,dharitri.com,prothomshomoy.com,punjablivenews.in,skyhawktimes.com,swaviman.com##.widget_text img
+barishaltimes.com,bekhaufkhabar.com,cgmitan.com,dharitri.com,prothomshomoy.com,punjablivenews.in,skyhawktimes.com,swaviman.com##.widget_text img
 bartakontho.com##.widget_text img:not([src*="Captureeeebbbb.jpg"])
 anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com##.widget_text.widget_area
@@ -4156,6 +4156,7 @@ ashmitanews.in##div[id^="ashmi-"]
 banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
 tamilcnn.lk##div[id^="banner"]
 bebakuttarakhand.com##div[id^="bebak-"]
+bekhaufkhabar.com##div[id^="bekha-"]
 biswabanglasangbad.com##div[id^="biswa-"]
 khabargali.com##div[id^="block-googleads"]
 brightpost.in##div[id^="brigh-"]
