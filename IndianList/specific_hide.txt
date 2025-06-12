@@ -1037,6 +1037,7 @@ eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
 indiatv.in##.ad:has(> div:first-child)
 dailyjagoran.com##.adBgGray
+hindi.dynamitenews.com##.adBody
 maharashtratimes.com##.adCANContainer
 swalenewsbank.com##.adMark
 blastkhabar.com##.adRightSideBar
