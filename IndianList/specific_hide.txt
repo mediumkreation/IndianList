@@ -88,7 +88,6 @@ yugabdha.com###ac-wrapper
 malabarflash.com,mewartimes.com,thereport24.com###ad
 beauronews.com,headline24x7.com,khabaram.com,rkexpose.com###adAboveHeader
 janchhaya.in###adCarousel2
-andhrajyothy.com#@##adDiv
 rkexpose.com###adHeaderBottom
 weeklysonarbangla.net###adOrGretings
 tupaki.com###ad_after_header
@@ -1046,6 +1045,7 @@ odhikar.news##.adSlides
 aajkaal.in##.ad__full--length
 dhanamonline.com##.ad_before_level_3
 news18.com##.ad_cntainer
+andhrajyothy.com##.ad_image_desk
 bhilwarahalchal.com##.ad_level_1_before_heading
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
@@ -1209,6 +1209,7 @@ hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
 ctgbarta24.com##.ads728x90-thumb
 inextlive.com,prothomalo.com##.adsBox
+andhrajyothy.com##.adsCustom
 aapkiaawaznews.com##.adsImg_section
 epaper.lokmat.com##.ads_699
 lightnewsbd.com##.ads_bottom_disp
@@ -1670,7 +1671,6 @@ torontotamil.com##.custom-html-widget table[border="1"] img
 nationnewshindi.com##.custom-sidebar-video
 7elevennews.com,raajdhaninews.com##.custom-slider
 gramajyothi.com##.custom1
-andhrajyothy.com##.customAds
 indianspiritual.in##.custom_sidebar_ads
 25kalak.com##.customeadd
 news4nation.com##.custtwo_swiper-container
