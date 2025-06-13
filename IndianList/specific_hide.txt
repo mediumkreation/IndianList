@@ -2458,6 +2458,7 @@ i-news24.com##.newsbox_text
 chandpurprobaha.com##.newscard-widget-ad
 newsdiary.live##.newsd-widget
 jharkhandvani.in##.newsever-widget .textwidget
+newshomelive.co.in##.newsh-after-content_5
 expressindian.co.in##.newshit-header-ads-wrapper
 newskannada.com##.newsk-content
 satyagrahanews.in##.newsmatic-advertisement-block
