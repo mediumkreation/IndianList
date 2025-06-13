@@ -1500,6 +1500,7 @@ lokjeewan.com##.bottom_ad_slide
 dailythanthi.com##.bottom_snackbar_common
 yugabdha.com##.box-sec-bg .slider
 gorkhalikhabar.com##.box_wrap.p-2
+watansamachar.com##.boxnewsAD:has(img)
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
@@ -2339,6 +2340,7 @@ deshabhimani.com##.max-w-full
 amarbarta24.com##.mb-3 .w-100
 cgwebnews.in##.mb-3:has(.carousel)
 ghatail.com,gnewsportal.com##.mb-3:has(> div > ins.adsbygoogle)
+watansamachar.com##.mb-5 img
 mzamin.com##.mb-5.justify-content-center
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
@@ -3200,6 +3202,7 @@ dailyindianherald.com##.toped
 filmykhabar.com##.topheaderpic
 sandeshnow.com##.tophightlight_ad
 janwani.in##.toplogobannerRS1 .topcol1
+watansamachar.com##.toplogos
 divyahimachal.com##.topnewsbx > div[style]
 seithy.com##.toppageadsindexheader
 kolhabinews.com##.topside-ad
