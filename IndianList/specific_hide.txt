@@ -3614,6 +3614,7 @@ newsplus21.com##[class$="-ad"]
 gunjankhabar.com,seroferonews.com##[class$="_ads"]
 yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
+prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
 raftaar.in##[class*="-add-"]
 epaper.samyukthakarnataka.com##[class*="-ads-"]
@@ -3654,7 +3655,7 @@ sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thestellarnews.com##[id^="thest-"]
 ejalalabad.com##[style*="height: 800px;"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
-kalerkotha.com##[style*="min-height:"]
+kalerkotha.com,prabhasakshi.com##[style*="min-height:"]
 sunnews24x7.com##a .adv-vload
 sylhetprothidin24.com##a > img.img-responsive
 keralaonlinenews.com##a.disabled
@@ -4297,7 +4298,6 @@ bbarta24.net##div[style="height:78px; width:100%"]
 telugucalendar.org##div[style="margin-top:-10px; text-align:center;"] span
 kannada.oneindia.com##div[style="min-height: 250px;"]
 risingbd.com##div[style="min-height: 90px;"]
-prabhasakshi.com##div[style="min-height:280px;"]
 khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
 patrika.com##div[style]:has(> div[id^="gpt_ads_"])
 dibalok.com##div[style^="float"]:has(  ins.adsbygoogle)
