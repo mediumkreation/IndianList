@@ -4033,6 +4033,7 @@ uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
 ajkerpatrika.com##div[class*="w-[300px]"]
 dinamani.com,kannadaprabha.com##div[class*="widget-m__customWidgetWrapper__"]
+esakal.com##div[class*="widget-m__customWidgetWrapper__"]:has([id^="div-gpt-ad"])
 dhanamonline.com##div[class*="widget-module__customWidgetWrapper__"]
 usbangla24.news##div[class*="width-ad"]
 gonews24.com##div[class="country-add"]
