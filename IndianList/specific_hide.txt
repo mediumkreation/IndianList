@@ -100,7 +100,7 @@ professorsbd.com###addv
 khabor.com###adgshp985719811
 maihugodda.com###adoverlay
 malayalamdaily.in###adrotate-wrapper
-deshprotikhon.com###ads
+deshprotikhon.com,thelallantop.com###ads
 vikalptimes.com###ads120_60-widget-2
 ishantimes.com###ads160_600-widget-2
 hastakshep.com###ads300_600-widget-3
@@ -3266,7 +3266,6 @@ bhnnews.com##.video-ad
 indianewscentre.in##.video-container
 voiceofnarayanganj24.com##.video-gallery-box
 girlsglobe.in##.video-widget
-thelallantop.com##.videoAdInArticle
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
 sadamoga.com##.view-ads-all-blocks
@@ -4291,6 +4290,7 @@ filmykhabar.com##div[style*="margin: 10px 0px 10px 0px; display: flex; justify-c
 mzamin.com##div[style*="min-height"]
 timesnowmarathi.com##div[style*="min-height: 181px;"]
 bholanews.com##div[style*="min-height:"]
+thelallantop.com##div[style*="min-width:300px;min-height:250px;"]
 thahakhabar.com##div[style="background-color: #fff; padding:0px; margin-right:10px;"]
 channel24bd.tv##div[style="height: 250px;"]
 womeneye24.com##div[style="height:400px"]
