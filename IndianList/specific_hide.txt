@@ -2262,6 +2262,7 @@ heralokhabar.com##.list_ads
 news18.com##.listview-story li:has(div[data-implementation])
 news18.com##.listview-story li:has(div[id^="mobileAd"])
 dailyjugantorsangbad.com##.live .embed-responsive
+ganaadhikar.news##.live-tv-section
 manasmediaonline.com##.livedemo img
 lankanewsweb.net##.lnw-ad
 eenadu.net##.localads
@@ -3456,6 +3457,7 @@ mathabhanga.com##.widget_viy
 officialkhabar.com##.widget_widget_banner
 dhadingnews.com##.widget_wysiwyg_widgets_widget
 thirdeyetoday.com##.widget_youtube_responsive
+ganaadhikar.news##.width-ad
 bangladeshsangbadpratidin.com##.width-ad-wrap
 teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
