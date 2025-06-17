@@ -2148,6 +2148,7 @@ khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
 newsbrahmanbaria.com##.img-advertise
 chhattisgarhtimes.com##.img-my-ad
+velkinews.com##.img-responsive.center-block
 aapkikhabar.com##.imgOverlayAd
 pratyeknews.com##.imgad1
 sudarshannews.in##.imggoogel
@@ -3600,6 +3601,7 @@ yashbharat.com##.yashb-content
 truenews.lk##.youtube-responsive-container
 probashibangla.tv##.zja
 24hindinews.com#?#.gb-container:-abp-properties(min-height)
+velkinews.com##:has(> .banner-content)
 satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
