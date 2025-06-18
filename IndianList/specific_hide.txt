@@ -859,7 +859,6 @@ shreemanglamlive.com###ucier-4
 shreemanglamlive.com###ucier-5
 shreemanglamlive.com###ucier-6
 news4live.com###ui-id-2
-10tv.in###unitDivWrapper-0
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
@@ -1660,6 +1659,7 @@ pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 keralakaumudi.com##.cs-sec-feat-title
 indiapolkhol.in##.ct-header-text
+10tv.in##.cust-ads
 shasakprashasak.com##.custom img
 arthasarokar.com##.custom-ad-link
 sylhetview24.news##.custom-ads-row
