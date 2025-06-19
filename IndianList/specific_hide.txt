@@ -3340,6 +3340,7 @@ dailyfaridpurkantho.com,dinakaran.com##.widget_block img
 news1hindustan.com##.widget_block video
 khabarcgnews.com,thehindustanvoice.in,timesofswaraj.com##.widget_block:has(> ins.adsbygoogle)
 iimtnews.com,samajjagran.in##.widget_block:has(> p > ins.adsbygoogle)
+manatelanganaa.in##.widget_block:has(ins.adsbygoogle)
 newszon.in##.widget_block:not(#block-10)
 agrtanews.com##.widget_block:not(#block-2)
 sowork.co.in##.widget_block:not(#block-22)
