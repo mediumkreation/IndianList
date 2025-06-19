@@ -2420,7 +2420,6 @@ dainikujagarkhabar.in,newsplus.lk##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
-hindi.news18.com##.n18thder
 24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,inn24news.in,mahadbd.com,malayalamuk.com,rashtrabodh.com,smarthalchal.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 nagarikpatra.com##.nagar-widget
@@ -3965,6 +3964,7 @@ setopati.com##div[class*="-bigyaapan-"]
 digitalkhobor.com##div[class*="-codes"]
 gandaknews.com##div[class*="-shortcode-"]
 cvoice24.com##div[class*="DContentAdd"]
+hindi.news18.com##div[class*="Had300x250 "]
 news18.com##div[class*="Header_inner_ad"]
 sadaksanchar.com##div[class*="__ads"]
 ournewscrew.com##div[class*="__ads"]:not([class*="top__header__ads"])
