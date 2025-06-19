@@ -612,7 +612,6 @@ mekhrajbairwa.com###right-sidebar-inner
 punjablivenews.in###right-sidebar-inner .widget_media_image
 starbangla.in###right-sidebar-inner .widget_text
 samachardoot.com###right_banner
-teluguglobal.com###right_level_0
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
 jantakiawaz.org,thejasnews.com###right_level_3
@@ -1818,7 +1817,7 @@ bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,truelinenews.com##.elementor-widget-slides
-abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,lokshakti.in,mujibsenanews.com##.elementor-widget-smartmag-codes
+abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,lokshakti.in,mujibsenanews.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 mpcnews.in##.elementor-widget-theme-post-content img
@@ -2187,7 +2186,6 @@ jhunjhununewz.com##.inside-footer-widgets
 bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,maxwoman.in,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
-teluguglobal.com##.inside-post-ad-before-before
 anmolbharat.in##.inside-right-sidebar
 naitaaqat.in,sitetelugu.com##.inside-right-sidebar .gb-container:has(> ins.adsbygoogle)
 devpath.in##.inside-right-sidebar > .gb-container:not(.sticky-container)
@@ -3938,7 +3936,7 @@ vtvgujarati.com##div:has(> div[id^="VTV_"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
-ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,sbnlive.net,telugugateway.com,teluguglobal.com##div:has(> ins.adsbygoogle)
+ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,sbnlive.net,telugugateway.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 zoombangla.com##div:has(> pubguru)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
