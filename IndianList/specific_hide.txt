@@ -2195,6 +2195,7 @@ devpath.in##.inside-right-sidebar > .gb-container:not(.sticky-container)
 hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
 gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com,pokharanews.com##.inside_ads
 birgunjsanjal.com##.inside_ads img
+hamrosandesh.com##.interview ~ a
 newzfast.com##.intes_fixed
 newzfast.com##.intes_fixed + div
 makalukhabar.com##.is-full-widescreen-ad
