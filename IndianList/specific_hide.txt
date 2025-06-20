@@ -3987,7 +3987,7 @@ nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 sarbochcha.com##div[class*="adver"]:not(.logoadver)
 dailyuttorpurbo.com##div[class*="advert"]
 hipamat.com##div[class*="advertise"]
-arthasansar.com,janaboli.com,justnewsbd.com,pokharanews.com,tulsipurkhabar.com##div[class*="advertisement"]
+arthasansar.com,janaboli.com,pokharanews.com,tulsipurkhabar.com##div[class*="advertisement"]
 banglamail.news,prime9news.com##div[class*="banner"]
 nabaz-e-punjab.com##div[class*="bdaia-p-"]
 dainikshiksha.com##div[class*="biggapon"]
@@ -4001,6 +4001,7 @@ democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 kannadavani.news##div[class*="cs-banner"]
 sarkarnama.esakal.com##div[class*="customWidgetWrapper"]:not(:has(> div > div > h2))
 janpadnewslive.com##div[class*="f0f0f0"]
+justnewsbd.com##div[class*="h-["]
 rtvonline.com##div[class*="h-["][class*="w-["]
 dhakapost.com##div[class*="h-[250px]"]
 gvoice24.com##div[class*="iklan-"]
