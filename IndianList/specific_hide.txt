@@ -1755,6 +1755,7 @@ uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
 mpcnews.in##.elementor-41 .elementor-widget-text-editor
 aajkijandhara.com##.elementor-col-33 .elementor-section
+sankathi24.com##.elementor-col-33 .elementor-widget-image
 nikharanews.in##.elementor-element .size-large
 khulasanewslive.in##.elementor-element-3fb6b77
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
