@@ -395,6 +395,7 @@ bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com###home-ads
 kalerkotha.com###home-online-poll
+haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
 apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np,radiobihani.org###homeads
 malayaleepathram.com.au###hotwp-header-banner
@@ -2015,7 +2016,6 @@ bdbarrta24.com##.h_ads
 sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
-haribhoomi.com##.hbm-300-50-ad
 pakundiapratidin.com##.hd_banner
 alokitobarisal.com,bd24time.com,dainikdesherkotha.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
 dailysports24.com##.head-banner
@@ -3627,6 +3627,7 @@ epaper.samyukthakarnataka.com##[class*="-ads-"]
 tv19online.com##[class*="-banner"]
 vikatan.com##[class*="__ad"]
 usharbani.com##[class*="_ads_"]
+haribhoomi.com##[class*="ad_"]
 dailyolamakantho.com##[class*="ads300_"]
 safalkhabar.com##[class*="advertisement"]
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
@@ -3902,7 +3903,7 @@ chautaripostonline.com##div.stream-item-mag:not(.content-only)
 mathuranews24.com##div.text-center:has(> h5 + img)
 vikatan.com##div:has(> .ad)
 timesnowtamil.com##div:has(> .ad-div)
-kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
+haribhoomi.com,kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
 thuglak.com##div:has(> .adv)
 urjanchaltiger.in##div:has(> .afw)
 seemanchallive.com##div:has(> .bdaia-e3-container)
@@ -3939,6 +3940,7 @@ indiatimes.com,vijaykarnataka.com##div:has(> div[data-native-ad])
 andhrajyothy.com##div:has(> div[id*="-ad-"])
 bhaskar.com##div:has(> div[id^="Ad--"])
 vtvgujarati.com##div:has(> div[id^="VTV_"])
+haribhoomi.com##div:has(> div[id^="div-gpt-ad"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
