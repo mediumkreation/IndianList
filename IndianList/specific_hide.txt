@@ -2609,6 +2609,7 @@ neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
 asomiyapratidin.in##.publive-dynamic-container
 biswabanglasangbad.com,cinemapressclub.com,dhadingupdate.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com##.pum-content
+janayugomonline.com##.pum-title
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads
@@ -2756,7 +2757,6 @@ cgsandesh.com##.sidebar-box.bg-aqua
 kalersylhet.com##.sidebar-col-ad-right
 bansgaonsandesh.com##.sidebar-inner
 khabarchalisa.com##.sidebar-inner .widget_custom_html
-janayugomonline.com##.sidebar-inside .widget_custom_html
 todaysheoharnews.com##.sidebar-nav .mb-2 img
 sunamganjerkhobor.com##.sidebar-news.justify-content-center
 despardesweekly.co.uk##.sidebar-right
