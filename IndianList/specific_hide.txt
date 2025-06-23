@@ -3842,6 +3842,7 @@ chitrodesh.com,navakeralanews.com##aside.sidebar .widget_media_image
 ghaziabadparikrama.com##aside.sidebar-narrow
 cnewsbharat.com##aside.text-center
 dgnews.co.in##aside.w-full
+manobkantha.com.bd##aside.widget .py-2
 todaybhaskar.com##aside.widget_black_studio_tinymce
 bhadas4media.com##aside.widget_block
 aligarhmedia.com,coxsbazarshomoy.com,dainikazadi.net,kokanmedia.in,koshikiaas.com,newsboardindia.com,samacharlahrein.com,trendingtelugunews.com##aside.widget_custom_html
