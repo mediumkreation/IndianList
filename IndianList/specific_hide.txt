@@ -3682,6 +3682,7 @@ sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
 hamrobiratnagar.com##a[href*="/ads/"]
+sankathi.com##a[href*="/adv/"] img
 newsajako.com##a[href*="/newspaper-ads/"] img
 somoynews.tv##a[href*="?ref="]
 bartabangla.com##a[href*="BandhoB"]
