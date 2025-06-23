@@ -1756,6 +1756,7 @@ gvtjob.com,ibn24x7news.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_heade
 graminujala.com,ibn24x7news.com,laxminews24x7.com,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 lohagaranews24.com,mithilacitynews.in##.e3lan-post
 kalyankesari.com##.e3lan300_600-widget
+uukmanews.com##.each-side-ads .size-full
 uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
 mpcnews.in##.elementor-41 .elementor-widget-text-editor
