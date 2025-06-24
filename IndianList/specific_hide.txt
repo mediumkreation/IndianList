@@ -544,6 +544,7 @@ a4applenews.com###n2-ss-20
 a4applenews.com###n2-ss-6
 payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
+amaderbarisal.com###nbscontainer
 tamilcnn.lk###newads
 dilersamachar.com###newmodal .modal-dialog
 indianewscentre.in###newsSection img
@@ -938,6 +939,7 @@ sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
 durjoybangla.com##.DAdd3
 bdprojonmo71.com##.DAdvertisement
+amaderbarisal.com##.DAdvt
 womeneye24.com##.DContentAdd
 ajkermymensingh.com,dainikthakurgaon.com,kurigrambarta.com##.DHeaderBanner
 dailyjalalabad.com##.DetailsContent .textwidget
