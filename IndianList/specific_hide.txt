@@ -2534,6 +2534,7 @@ nepalkhabar.com##.paraAd
 lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatanchal.com##.parva-content
 parvatprerna.com##.parva-widget
+brandbharat.com##.pbox
 bordernewsmirror.com##.pbwidget.slideshow
 prabhatvaibhav.com##.pd-top-50 iframe
 clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,indotimes.com.au,lankasudar.com,nationissue.com,newsmalwa.com,pradeshtoday.com,vanninews.lk##.penci-banner-box
@@ -4355,6 +4356,7 @@ sankeerthanam.com##footer .widget-area
 mediapoint24.com,westerntimesnews.in##footer .widget_media_image
 dailyinshort.com##footer > center img
 capitallivenews.com##footer ~ ul.images
+brandbharat.com##gnsu-Iframe
 gossiplanka.com#?#.HTML:-abp-has(.title:-abp-contains(Advertisement))
 tejastoday.com##h2 a[href*="one-medicine-"]
 apnades.in##h2[id*="sponsor"]
