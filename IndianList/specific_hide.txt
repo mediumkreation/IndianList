@@ -4365,6 +4365,7 @@ tejastoday.com##h2 a[href*="one-medicine-"]
 apnades.in##h2[id*="sponsor"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 ikvnews.com##header + div .elementor-shortcode img
+dainiksylhet.com##header .textwidget img
 khabor.com##header a[href*="/click-"]
 hindifiber.com#?#.gb-container:-abp-contains(Advertisement)
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
