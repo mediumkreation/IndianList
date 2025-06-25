@@ -1148,6 +1148,7 @@ fenitribune.com##.add_area > .textwidget
 allnewsbharat.com,emstv.in,khoborersomoy.com##.add_banner
 gtamilnews.com##.add_block_hdefault
 news18.com,news18marathi.com##.add_container
+telugu.news18.com##.add_container-pht
 ridoyachandpur.com##.add_content
 bdnews999.com##.add_img
 europemalayali.co.uk##.add_inner_news
