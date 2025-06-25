@@ -1686,6 +1686,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2inews.in/images/advertisement/
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
+||ibb.co.com/601pJQVN/ads.jpg$domain=gbnews24.com
 ||ibb.co^$domain=nayabharat.live
 ||ibb.co^$third-party,domain=shahzadpursangbad.com
 ||ibn24x7news.com^*/diwali-ad-
