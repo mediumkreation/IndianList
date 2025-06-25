@@ -2880,6 +2880,7 @@ kurunews.com##.sora-ads-full
 kaumudiplus.com##.sp-ad-row
 samudrapari.com##.sp-full-width-ads
 laatsaab.com##.sp_simple_youtube
+ntvbd.com##.space-ad
 alorkantho24.news##.spad
 pavilion.com.bd##.spad-section img
 ekuruvi.com##.span-2 a:only-child
