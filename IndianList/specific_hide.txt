@@ -1240,7 +1240,7 @@ sakshi.com##.adtext
 aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,cg24news.in,hamrakura.com,hindustanvision.com,maharashtratimes.com,samakal.com,udayakala.news,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com##.adv-img
-ratopati.com##.adv-item
+naulonews.com,ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
 allsharebazarnews.com##.adv-topx
