@@ -1461,6 +1461,7 @@ corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
 ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
+gorkhapatraonline.com##.bigyapan-section img:not([alt*="gkp"],[alt*="New-year"])
 farakdhar.com##.bigyapan__news
 biharaaptak.com##.bihar-after-content
 biharaaptak.com##.bihar-widget
