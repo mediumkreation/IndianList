@@ -983,7 +983,6 @@ amarbanglabd.com##._df_custom
 marathi.indiatimes.com##._taboola
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
-abplive.com##.a-ecom-wrap
 gujarattimesusa.com,khabribox.com,londonnepalnews.com##.a-single
 bartabangla.com##.a-widget
 abtakmedia.com,auznews24.com,businesspati.com,currentnewsdainik.com,demokraticfront.com,himachalvarta.com,indianewsviral.co.in,indiansamachar.in,jhansidarshan.com,kannadanewsnow.com,khabarbastar.in,khabarmanch.com,livemagadh.com,lokshakti.in,mahendranagarpost.com,mbmnewsnetwork.com,mujibsenanews.com,newsdeskkannada.com,pahiloclick.com,satv.tv,satyaday.com,tarunbharat.com,thenetizennews.com,theriyuma.com##.a-wrap
@@ -1034,7 +1033,7 @@ news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 vikatan.com##.ad-top-bottom-space
 udayavani.com##.ad-white-blk
-marathi.abplive.com##.ad-wrapper-leaderboard
+abplive.com##.ad-wrapper-leaderboard
 vijaykarnataka.com##.ad-wrapper-photo
 alorkantho24.news,bengali.timesxp.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 maharashtratimes.com##.ad1_native
