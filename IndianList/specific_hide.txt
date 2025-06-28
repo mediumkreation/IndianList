@@ -2615,7 +2615,7 @@ farwesttimesdaily.com##.promo__col
 farwesttimesdaily.com##.promotional__col
 neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
-asomiyapratidin.in,sathyamonline.com##.publive-dynamic-container
+asomiyapratidin.in,kalakaumudi.com,sathyamonline.com##.publive-dynamic-container
 biswabanglasangbad.com,cinemapressclub.com,dhadingupdate.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com##.pum-content
 janayugomonline.com##.pum-title
 punjabnewslive.co.in##.punja-widget
