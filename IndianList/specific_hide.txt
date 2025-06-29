@@ -2088,6 +2088,7 @@ chttoday.com##.height-100
 krushinama.com##.herald-da
 hindnews.live##.herald-txt-module
 supportmeindia.com##.hero-section
+sylheterdak.com.bd##.hidden-xs .textwidget img
 khabareducation.com##.hm-header-image
 brightpost.in##.hm-header-sidebar
 sangbadprotidin.com##.hm-sidebar > div[style]
