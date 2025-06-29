@@ -3672,6 +3672,7 @@ thestellarnews.com##[id^="thest-"]
 ejalalabad.com##[style*="height: 800px;"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
 kalerkotha.com,prabhasakshi.com##[style*="min-height:"]
+bengali.oneindia.com##[style="min-height: 250px;"]
 rtvonline.com##[title="Reachable Ads"]
 sunnews24x7.com##a .adv-vload
 sylhetprothidin24.com##a > img.img-responsive
