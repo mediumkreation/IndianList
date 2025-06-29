@@ -1454,7 +1454,7 @@ himalkhabar.com,nayadainiki.com##.bigyaapan-box
 himalkhabar.com##.bigyaapan-item
 baahrakhari.com,dekhapadhi.com##.bigyaapan-section
 barnanmedia.com,merofilm.com##.bigyapaan__section
-annapurnapost.com,canadanepal.com,eadarsha.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
+annapurnapost.com,canadanepal.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 avenues.tv,barnanmedia.com,ekagaj.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
 janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
 corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
@@ -3312,6 +3312,7 @@ newskoseli.com##.wid-1
 puthithu.com##.widget > .wp-block-image
 emungaru.com##.widget img[src^="data:"]
 labanglatimes.com##.widget-banner
+eadarsha.com##.widget-below_header
 crimediarybd.com##.widget-body > p img
 chandankesari.com,dailyinshort.com##.widget-header
 kusenews.com##.widget-header > img
