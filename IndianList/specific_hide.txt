@@ -1233,6 +1233,7 @@ nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
 shamolbangla24.com##.adsp
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
+hindutamil.in##.adsplacement
 amarsandesh.com##.adss_banner
 saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
