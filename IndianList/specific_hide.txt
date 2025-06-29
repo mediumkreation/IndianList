@@ -2901,7 +2901,7 @@ tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 cibindianews.com##.square-space
 sangbad-gallery.com##.square_advertisement
-evartha.in##.square_in img
+evartha.in##.square_in
 dhakatoday.com##.squareadd img
 keralanewshunt.com##.st-banner
 mysurumithra.com##.starofmysore
