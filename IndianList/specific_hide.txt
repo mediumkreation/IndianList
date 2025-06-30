@@ -3343,6 +3343,7 @@ dainikparibarton.com##.widget_area .textwidget p img
 pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
 dainikcampus.com##.widget_area > .textwidget
 71sangbad24.com,dailybahadur.com,dailynotunsongbad.com##.widget_area > img
+bdsaradin24.com##.widget_area figure img
 banglaralonews.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
 barisalcrimetrace.com##.widget_area p>img
