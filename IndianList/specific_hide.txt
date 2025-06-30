@@ -2454,6 +2454,7 @@ hariyalinepal.com##.neptop-ads-place
 mhone.in##.new-banners
 citynewsdhaka.com##.new-international-right
 news18.com,news18marathi.com##.newadd
+banglapostbd.com##.news-ad-container
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 maharashtratimes.com##.news-advertorial
@@ -4198,7 +4199,7 @@ amritvarshanews.in##div[id^="amrit-"]
 antarkatha.com##div[id^="antar-"]
 aryavartposts.com##div[id^="aryav-"]
 ashmitanews.in##div[id^="ashmi-"]
-banglalive.com,banglapostbd.com,banglarjanarob.com##div[id^="bangl-"]
+banglalive.com,banglarjanarob.com##div[id^="bangl-"]
 tamilcnn.lk##div[id^="banner"]
 bebakuttarakhand.com##div[id^="bebak-"]
 bekhaufkhabar.com##div[id^="bekha-"]
