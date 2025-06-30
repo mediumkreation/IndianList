@@ -3651,6 +3651,7 @@ indiatimes.com,vijaykarnataka.com##[class*="taboola"]
 wnepal.com##[class*="vigyapan"]
 dailyamardesh.com##[class*="w-[300px]"]
 dailyamardesh.com##[class*="w-[320px]"]
+sathyadeepam.org##[class*="widget-m__customWidgetWrapper__"]
 vtvgujarati.com##[class="hidden xmd:block"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
@@ -3939,6 +3940,7 @@ indotimes.com.au##div:has(> .textwidget)
 livenews24x7.com##div:has(> .w-banner)
 dainikamadershomoy.com##div:has(> .w3-small)
 khabarway.com##div:has(> .widget_media_gallery)
+sathyadeepam.org##div:has(> [class*="ad-slot-"])
 prameya.com##div:has(> [class^="advertisement-"])
 indiatimes.com##div:has(> [data-row-id="recommended-deals-widget"])
 raftaar.in##div:has(> [id^="div-ad-"])
@@ -3979,7 +3981,7 @@ otvkhabar.in##div[class$="-ad"]
 chakrikhobor.com##div[class$="-ads"]
 odishareporter.in##div[class$="0-ad"]
 ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
-metrovaartha.com,sathyadeepam.org##div[class*=" ad-slot-"]
+metrovaartha.com##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 dishadaily.com##div[class*="-ad-"]
 epaper.karavaliale.net##div[class*="-ads-"]
