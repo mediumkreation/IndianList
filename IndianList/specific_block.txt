@@ -852,6 +852,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||cdn.koshixpress.com/wp-content/uploads/2021/01/IMG-20210103-WA0061
 ||cdn.onesignal.com^$domain=dainikup.com
 ||cdn.sarakhonbd.com/contents/cache/images/336x0x0/uploads/media/2020/10/19/cc2f1b9621982345517f1782971662fd-5f8d790a8fa28.png
+||cdn.sharebazarnews.com/ads/
 ||cdnews24.com/wp-content/uploads/2020/02/top-news-adindex-2.jpg
 ||centralindia.news/wp-content/uploads/2023/12/Duragaurd-
 ||centralvoice.in/uploads/images/2023/04/image_750x_643e67cd81995.jpg
@@ -3359,8 +3360,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||sharebarta24.com/wp-content/uploads/2024/01/NRB-Bank-
 ||sharebarta24.com/wp-content/uploads/2024/06/Techno-Drugs-Ltd.gif
 ||sharebarta24.com^*/ads2.gif
-||sharebazarnews.com/company-archive/wp-content/uploads/2020/09/LBS-Sticker-_970-x-150-px_2-4-Sep.jpg
-||sharebazarnews.com/wp-content/uploads/2020/09/Energypac_sharebazar_770x75.gif
 ||sharebiz.net/wp-content/uploads/2024/11/CBBL-ad.jpg
 ||sharetimes24.com/wp-content/uploads/2020/10/dominagead.gif
 ||sharetimes24.com/wp-content/uploads/2020/10/nn.jpg
