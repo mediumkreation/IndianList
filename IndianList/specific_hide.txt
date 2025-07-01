@@ -2194,7 +2194,7 @@ innews16.com##.innew-before-content
 innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,mahilaswasthya.com,setokhari.com##.insert-ad
-dainikshiksha.com##.inside-ad-container a:not([class*="dainikshiksha-youtube"])
+dainikshiksha.com##.inside-ad-container
 jhunjhununewz.com##.inside-footer-widgets
 bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,dhanamonline.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,maxwoman.in,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
