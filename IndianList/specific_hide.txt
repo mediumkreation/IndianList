@@ -1690,6 +1690,7 @@ thinakkural.lk##.d-lg-block
 bangla.bdnews24.com##.d-lg-block iframe
 dainikpurvoday.com##.d-lg-inline-flex
 chandpursangbad.com##.d-print-none
+ekusheysangbad.com##.d-print-none img
 dailyinqilab.com##.d-sm-block.my-3
 mzamin.com##.d-sm-flex
 mzamin.com##.d-sm-none.d-block:not([class^="co"])
@@ -1708,8 +1709,7 @@ bikashnews.com##.desktop_main_news_banner
 nayabishwo.com##.detail-ad-holder
 khabardabali.com##.detail-right-ad img:not([src*="unicode_converter.jpg"])
 halokhabar.com##.details-ad
-ekusheysangbad.com##.details-big-banner
-citynewsdhaka.com,ekusheysangbad.com##.details-page-side-banner
+citynewsdhaka.com##.details-page-side-banner
 citynewsdhaka.com##.details-page-side-banner-2
 sunamganjerkhobor.com##.details-sidebar .mb-3
 natunsylhet24.com##.details-sidebar > .row.justify-content-center
@@ -2038,7 +2038,7 @@ manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
 bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
-71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,dailysuraj.com,ekuruvi.com,ekusheysangbad.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,kanvkanv.com,khabardev.com,mathuranews24.com,medianow.in,newsfry.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
+71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,dailysuraj.com,ekuruvi.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,kanvkanv.com,khabardev.com,mathuranews24.com,medianow.in,newsfry.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 rojanapunjab.com##.header-centerbar-ad
@@ -3176,7 +3176,6 @@ ekuruvi.com##.top-bar-left-nav
 malayaleevision.com##.top-d
 nobat.com##.top-hda
 samvetshikhar.com##.top-head-hori-adv
-ekusheysangbad.com##.top-header
 musickhabar.com##.top-header .add-bottom-margin
 navtejtv.com##.top-header iframe
 hamrokhelkud.com##.top-income-source-wrapper
@@ -3635,6 +3634,7 @@ esakal.com##[class*="-ad-slot"]
 raftaar.in##[class*="-add-"]
 epaper.samyukthakarnataka.com##[class*="-ads-"]
 tv19online.com##[class*="-banner"]
+ekusheysangbad.com##[class*="-banner"]:not(.culture-banner-1)
 vikatan.com##[class*="__ad"]
 usharbani.com##[class*="_ads_"]
 haribhoomi.com##[class*="ad_"]
