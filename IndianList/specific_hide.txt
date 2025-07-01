@@ -1509,6 +1509,7 @@ lokjeewan.com##.bottom_ad_slide
 dailythanthi.com##.bottom_snackbar_common
 yugabdha.com##.box-sec-bg .slider
 gorkhalikhabar.com##.box_wrap.p-2
+nlb.lk##.boxes .hsp1
 watansamachar.com##.boxnewsAD:has(img)
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
@@ -2097,6 +2098,7 @@ thevirallines.net##.hmBlock2ColRSec3
 setoshikhar.com##.hmxbiekzq
 hnexpress.co.in##.hnexp-adlabel
 madhyamam.com##.hocal-ad-block
+nlb.lk##.hom.swiper-container
 chattogramnews.com##.home .elementor-widget-image
 humarabikaner.com##.home .site-wrap > div:not(.elementor)
 bangla-news24.com##.home-e3lan
