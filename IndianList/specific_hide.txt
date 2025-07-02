@@ -2867,6 +2867,7 @@ sadeaalaradio.co.nz##.slides
 purvanchal24.com##.slideshow
 popatlal.in,pslvtv.com##.slideshow-container
 pslvtv.com##.slideshow-container ~ div .dot
+sanmarg.in##.slideshow2
 gorkhalikhabar.com##.sm-main-adv-box
 rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
