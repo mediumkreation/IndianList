@@ -1351,7 +1351,7 @@ moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
 asianetnews.com##.articleright div:has(> [id^="div-gpt-ad-"])
 newsatfirst.com##.aside-add
-dinamani.com,kalkionline.com,kannadaprabha.com,samakalikamalayalam.com##.aside-collection-ad-slot
+dinamani.com,kalkionline.com,kannadaprabha.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
 gujarati.economictimes.com,iamgujarat.com,maharashtratimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
@@ -2867,6 +2867,7 @@ sadeaalaradio.co.nz##.slides
 purvanchal24.com##.slideshow
 popatlal.in,pslvtv.com##.slideshow-container
 pslvtv.com##.slideshow-container ~ div .dot
+sanmarg.in##.slideshow2
 gorkhalikhabar.com##.sm-main-adv-box
 rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
