@@ -1771,7 +1771,7 @@ madhepuralivenews.com##.elementor-element.elementor-element-267fc9ac
 lakhokantho.com##.elementor-heading-title.elementor-size-small
 biharnewsindia.com,himalipatrika.com.np,theeditor24.com##.elementor-image
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
-delhicrimepress.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
+delhicrimepress.com,etamilnews.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
 namastenri.net##.elementor-location-single .size-large
 news24bd.net##.elementor-popup-modal
 attingalvartha.com##.elementor-section-items-middle ~ section:nth-child(4)
@@ -3295,8 +3295,6 @@ karmalamadhanews24.com,tnilive.com##.vmagazine_lite_medium_ad
 janatatimes.com,namasteholland.com,vaarte.com,varthatrivandrum.com##.vmagazine_medium_ad
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
-etamilnews.com##.w-60
-etamilnews.com##.w-70
 emalayalee.com##.w-full.my-2.group
 indiainside.org##.w3-section
 sarabangla.net##.w3-tiny
