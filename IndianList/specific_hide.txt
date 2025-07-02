@@ -3871,6 +3871,7 @@ hindfresh.com##aside:has(> ins.adsbygoogle)
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 nbchindi.com##aside[id^="ai_widget-"]
 bangla.24livenewspaper.com#?#.advertisement:-abp-contains(advertisement)
+bangla.newsnextbd.com#?#.custom-container > .row > div:-abp-contains(ADvaterices)
 bcsuddi.com#?#.e-con[data-settings]:-abp-properties(min-height: 267px)
 betulsamachar.com#?#.gb-container:-abp-contains(Advertisement)
 bharatiyadigitalnews.in#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
