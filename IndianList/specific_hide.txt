@@ -2158,6 +2158,7 @@ newsbrahmanbaria.com##.img-advertise
 chhattisgarhtimes.com##.img-my-ad
 velkinews.com##.img-responsive.center-block
 aapkikhabar.com##.imgOverlayAd
+natunsomoy.net##.img_ad
 pratyeknews.com##.imgad1
 sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
