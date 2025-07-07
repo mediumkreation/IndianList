@@ -1460,6 +1460,7 @@ ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
 gorkhapatraonline.com##.bigyapan-section img:not([alt*="gkp"],[alt*="New-year"])
 farakdhar.com##.bigyapan__news
+farakdhar.com##.bigyapan__wrapper
 biharaaptak.com##.bihar-after-content
 biharaaptak.com##.bihar-widget
 biharnewslive.com##.biharnlive-adlabel
@@ -2354,7 +2355,6 @@ watansamachar.com##.mb-5 img
 mzamin.com##.mb-5.justify-content-center
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
-farakdhar.com##.mbl-ad-mb
 indianews.in##.mdlad
 mediacover.in##.media-after-content
 vasistatoday.in##.mega-wrap .main-ads-pikihome
