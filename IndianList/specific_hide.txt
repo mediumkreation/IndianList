@@ -4154,6 +4154,7 @@ thereport24.com##div[id*="_300x250"]
 utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
 saharasamachar.com##div[id*="_O_"] div:has(> div > div > a> p + h3 )
 uttarakhandpost.com##div[id*="_O_LHS_"] > div:nth-child(-n+10)
+bhaskarhindi.com##div[id*="_ad_"]
 indonepalnews.in##div[id*="indon-"]
 odiascraps.info##div[id="showAS_O_BEL_0"]
 newspoint24.com##div[id^="AS_O_"] > div:has(> div > div > span[name="adchoicehtml"])
