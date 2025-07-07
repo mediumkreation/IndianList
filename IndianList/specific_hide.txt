@@ -2952,6 +2952,7 @@ anmolkhabar.com,chhaharinetwork.com,swornimkhabar.com##.subhakamana-ad
 suddidina.com##.suddi-after-content_13
 suddidina.com##.suddi-content_10
 bharatdarshannews.com,janpadnewslive.com##.swiper
+ramailo6.com##.swiper:not(.bswiper)
 notebook.today##.t-out-span
 adhunikdaur.com##.tab_265top_left
 news18.com##.taboola_setting
