@@ -1056,7 +1056,6 @@ outlookhindi.com##.ad_unit_728x90
 corporatenepal.com,merofilm.com##.adalytics_ad
 ekagaj.com,farakdhar.com,purbelinews.com,ukeraa.com##.adalyticsblock
 barnanmedia.com##.adalyticsblock img:not([src*="newbarnan_"])
-prabhatvaibhav.com##.adbar-area--
 dainikvishwamitra.com##.adbnr
 anandabazar.com,banglaxp.com,beanibazarnews24.com,bhartiyabasti.com,lohagaranews24.com,radiokanchan.com.np,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
@@ -2534,7 +2533,6 @@ parvatanchal.com##.parva-content
 parvatprerna.com##.parva-widget
 brandbharat.com##.pbox
 bordernewsmirror.com##.pbwidget.slideshow
-prabhatvaibhav.com##.pd-top-50 iframe
 clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,indotimes.com.au,lankasudar.com,nationissue.com,newsmalwa.com,pradeshtoday.com,vanninews.lk##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
 janmanindia.com##.penci-content-main .wpb_content_element
@@ -4520,6 +4518,7 @@ horizonhind.com##p[class="fontBold"]
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
+prabhatvaibhav.com#?#.sidebar-block-wrapper:has(.education-head:-abp-contains(Advertisement))
 prajasatta.in#?#.gb-container:has(> ins.adsbygoogle)
 neemuchlive.com#?##pt-magazine-carousel-news-2:has(> div > .section-title .widget-title:-abp-contains(Advertisement))
 rajdhanidaily.com#?#.elementor-widget-wrap p:-abp-contains(Ads)
