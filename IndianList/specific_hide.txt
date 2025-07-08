@@ -2556,7 +2556,7 @@ knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
 jamalpurlive.com##.popbox
-dhadingnews.com,dinamina.lk,industryhit.com##.popmake-content
+dhadingnews.com,dinamina.lk##.popmake-content
 dhangadhikhabar.com##.popover-ad
 ranchiexpress.com##.popular-section.pt-50
 bharatiyadigitalnews.in,divaina.lk##.popup
