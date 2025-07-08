@@ -362,7 +362,6 @@ dishadaily.com###full_level_1_detail
 merojilla.com,pokharanews.com###goji-wd-3dads
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
-lagatar.in###hadd
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
 delhinews24.com,indiareportertoday.com,indiavisionmedia.com,kalingajyoti.com,nyayabatilive.com,sakalakhabar.com,thesakala.in###header #sidebar
@@ -2772,6 +2771,7 @@ mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 channelindia.news##.sidebar-widget:has(.widget-body > p > img)
 crimediarybd.com##.sidebar-widget:has(> .widget-body > p:only-child )
 pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
+lagatar.in##.sidebar-wrap img.d-block
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
 sawalnepal.com##.sidebar__ads
@@ -4243,7 +4243,6 @@ kasturinews.com##div[id^="kastu-"]
 khabarbihar.in,khabarmuluk.com,khabarpahad.com,khabarsameeksha.com##div[id^="khaba-"]
 khabardose.com##div[id^="khaba-"] img:not([src*="Join-WhatsApp-Group"])
 koyilandydiary.com##div[id^="koyil-"]
-lagatar.in##div[id^="lagat-"]
 lalluram.com##div[id^="lalluram"]
 liveindianews18.in##div[id^="livei-"]
 livetrends.news##div[id^="livet-"]
