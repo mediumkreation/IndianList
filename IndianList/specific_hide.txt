@@ -2317,7 +2317,6 @@ deshprotikhon.com##.main-content a[target="_blank"] img
 deshpriyonews.com,thejoharnews.com##.main-full .elementor-widget-image
 subhechhanews.com##.main-headera .advertise
 tamilnews.cc##.main-menu ~ .container div:has(> a > img[src*="/uploads/ads/"])
-odishabhaskar.com##.main-section [data-adid]
 cgnewsonline.com##.main-sidebar .widget_block
 bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
@@ -3469,6 +3468,7 @@ sandeshnow.com##.widget_text:not(#text-6)
 akashjatra.com##.widget_tibwky
 mathabhanga.com##.widget_viy
 officialkhabar.com##.widget_widget_banner
+odishabhaskar.com##.widget_wujyim
 dhadingnews.com##.widget_wysiwyg_widgets_widget
 thirdeyetoday.com##.widget_youtube_responsive
 ganaadhikar.news##.width-ad
