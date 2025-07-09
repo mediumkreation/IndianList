@@ -4373,6 +4373,7 @@ dailyinshort.com##footer > center img
 capitallivenews.com##footer ~ ul.images
 brandbharat.com##gnsu-Iframe
 gossiplanka.com#?#.HTML:-abp-has(.title:-abp-contains(Advertisement))
+gujaratdarpan.com#?#h6:-abp-contains(Paid Advertisement)
 tejastoday.com##h2 a[href*="one-medicine-"]
 apnades.in##h2[id*="sponsor"]
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
