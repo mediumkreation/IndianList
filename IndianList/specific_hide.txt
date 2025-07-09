@@ -1623,7 +1623,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,bundelkhandnews.com,darbhangacity.in,kalamlok.com,kumudam.com,malayalamnewstimes.com,news21.lk,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,bundelkhandnews.com,cpnews24.com,darbhangacity.in,kalamlok.com,kumudam.com,malayalamnewstimes.com,news21.lk,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
