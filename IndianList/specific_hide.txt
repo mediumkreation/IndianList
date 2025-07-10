@@ -395,7 +395,7 @@ apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatp
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-acpnews24.com,amarvaani.com,garjachhattisgarhnews.com,rghnews.com###imageModal
+acpnews24.com,amarvaani.com,garjachhattisgarhnews.com,newshunter.online,rghnews.com###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -3408,7 +3408,7 @@ smartindiadial.com##.widget_media_image:not(#block-6)
 nuwakotexpress.com##.widget_media_image:not(#block-9)
 madhyantar.com##.widget_media_image:not(#media_image-125)
 pplnews.in##.widget_media_image:not(#media_image-13)
-isns.co.in,newshunter.online##.widget_media_image:not(#media_image-16)
+isns.co.in##.widget_media_image:not(#media_image-16)
 punjabiakhbaar.ca,ravivardelhi.com,sabkikhabar.net##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 kmassnews.com##.widget_media_image:not(#media_image-2):not(#media_image-6)
