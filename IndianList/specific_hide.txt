@@ -1924,7 +1924,7 @@ tamil.filmibeat.com##.filmi-kan-ad
 tamil.filmibeat.com##.filmi-kan-header-ad-wrapper
 tamil.filmibeat.com##.filmi-kan-latest
 newsfirst.lk##.fixed-banner
-nepaljapan.com##.fixedbar
+ctgpratidin.com,nepaljapan.com##.fixedbar
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
