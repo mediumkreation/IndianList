@@ -1088,7 +1088,7 @@ vishvasnews.com##.add-box
 aajtak.in##.add-center-div
 anandalok.in##.add-gap
 dailygazipuronline.com##.add-high
-ekhansangbad.com,gnewsbd24.com,sambadsaradin.com##.add-image
+bd24time.com,ekhansangbad.com,gnewsbd24.com,sambadsaradin.com##.add-image
 dainikagnipath.com,sajhadabali.com##.add-img
 dainiknarsingdi.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com##.add-imgae
 colorsnewslive.com,hindi.nyoooz.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com,womenscorner.com.bd##.add-inner
@@ -2017,7 +2017,7 @@ sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
 pakundiapratidin.com##.hd_banner
-alokitobarisal.com,bd24time.com,dainikdesherkotha.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
+alokitobarisal.com,dainikdesherkotha.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
 dailysports24.com##.head-banner
 alivenews.co.in##.head-main-ad
 moonamvazhi.com##.headRightAdv
