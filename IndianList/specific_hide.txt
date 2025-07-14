@@ -4004,6 +4004,7 @@ bartamanpatrika.com##div[class*="adSlot"]
 padmatimes24.com##div[class*="ad_"]
 probashirdiganta.com##div[class*="adbox"]
 asianetnews.com##div[class*="adbox"]:has(> [id^="div-gpt-ad-"])
+dainiknotunkhobor.com##div[class*="add"]
 ejalalabad.com##div[class*="ads"]
 livebharatnews.in,realitynews.in##div[class*="ads-height-"]
 aajkaaldaily.com,mohanonda24.com##div[class*="ads_"]
