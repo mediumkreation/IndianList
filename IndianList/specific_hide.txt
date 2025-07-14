@@ -3077,6 +3077,7 @@ deshprahari.com##.tdi_348
 citymailnews.com##.tdi_53_rand_style
 khaboronline.com##.tdi_62
 jk24x7news.tv##.tdi_66
+ctgnews.com##.tdi_78
 deshajtimes.com##.tdi_79
 deshajtimes.com##.tdi_81
 samayviews.com##.tdi_86
@@ -3260,7 +3261,6 @@ lekhnathkhabar.com##.vc_grid-container-wrapper .wpb_content_element
 ayushindianews.com##.vc_images_carousel
 bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
 bmnews24.net##.vc_raw_html .td-fix-index > div
-ctgnews.com##.vc_raw_html a[target="_blank"]
 coastal-mirror.com,justkannada.in##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 sharpbharat.com##.vc_raw_html:not(.tdi_87)
