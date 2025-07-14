@@ -395,7 +395,7 @@ apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatp
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-acpnews24.com,amarvaani.com,bplnews24.in,garjachhattisgarhnews.com,newshunter.online,rghnews.com,samaydarshan.in,shreenews.in###imageModal
+acpnews24.com,amarvaani.com,bplnews24.in,garjachhattisgarhnews.com,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -625,7 +625,7 @@ prajasattaknews.com###secondary .ai-sticky-widget
 yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
 boltahimachal.com###secondary .widget:has(ins.adsbygoogle)
-breakingodisha.com,brightpost.in,dainikchintak.com,haikaravali.com,janmat.co.in,jharkhandupdates.com,kelopravah.news,konnivartha.com,thenewswave.com###secondary .widget_block
+breakingodisha.com,brightpost.in,dainikchintak.com,haikaravali.com,janmat.co.in,jharkhandupdates.com,kelopravah.news,konnivartha.com,rashtrabodh.com,thenewswave.com###secondary .widget_block
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,janakeeyam.in,khabaribn7.com,up18news.com###secondary .widget_custom_html
@@ -2425,7 +2425,7 @@ dainikujagarkhabar.in,newsplus.lk##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
-24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,inn24news.in,mahadbd.com,malayalamuk.com,rashtrabodh.com,smarthalchal.com,thehdnews.in##.n2-section-smartslider
+24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,inn24news.in,mahadbd.com,malayalamuk.com,smarthalchal.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
