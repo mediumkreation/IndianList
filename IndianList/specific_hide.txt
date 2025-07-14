@@ -1608,7 +1608,7 @@ surmanews24.com##.col-sm-4 .hidden-xs
 uttarakhandpost.com##.colombiaRequestSend
 aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
 khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,globalbharatnews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
@@ -1998,6 +1998,7 @@ asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.
 tamil.goodreturns.in##.gd-multi-news ul > div
 25kalak.com##.ggl-bnr-728
 24ghonta.news##.ghont-ksrm-bottom
+globalbharatnews.com##.globa-widget
 news18.com##.global-storylist li[style^="height"]
 odishafast.co##.gmx-image
 ourbiratnagar.net##.gofollow
