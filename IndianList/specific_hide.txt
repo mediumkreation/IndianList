@@ -1385,7 +1385,7 @@ aapkaparyas.in,bangladeshglobal.com,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,janotarbani.com,newsportals.in,onstimes.com,pahareralo.com,tatviknews.com##.banner-img
 lekaalionline.com##.banner-news-section
 globalaawaj.com##.banner-promo
-24x7breakingpoint.com,aanthaireporter.com,ambikapurcity.com,boundaryline.in,cobranews24.com,filmaniaentertainment.com,focusnews.co.in,frontline24.com,globalhimachaltimes.com,himalini.com,indonepalnews.in,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,newspagebd.com,newsstudio18.com,newswayanad.in,pabilnews.com,primepunjab.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkidastak.com,shaktialmora.com,shreenews.in,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
+24x7breakingpoint.com,aanthaireporter.com,ambikapurcity.com,boundaryline.in,cobranews24.com,filmaniaentertainment.com,focusnews.co.in,frontline24.com,globalhimachaltimes.com,himalini.com,indonepalnews.in,jalandharbreeze.com,janashaktinews.com,jogiexpress.com,kannurvarthakal.com,khaskhabar24.com,khulasamedia.com,koyilandydiary.com,liveindiakhabar.in,livekhabar.com,lokalok.in,newsstudio18.com,newswayanad.in,pabilnews.com,primepunjab.com,pularvu.com,rashtratimes.com,real4news.com,saakshatv.com,sachkidastak.com,shaktialmora.com,shreenews.in,smartindiadial.com,sorejomin.com,thefactshala.in,thepressnepal.com,timesofnellore.com,todaynewshunt.com,tv24live.com,upantaodisha.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 nepalipatro.com.np##.banner-slider
@@ -3405,7 +3405,6 @@ newszonebd.com##.widget_media_image:has(:is(ins,a[target="_blank"]))
 hollywoodkhabar.com##.widget_media_image:not(#block-23)
 khabarcgnews.com##.widget_media_image:not(#block-245)
 samajjagran.in##.widget_media_image:not(#block-31)
-newspagebd.com##.widget_media_image:not(#block-33)
 smartindiadial.com##.widget_media_image:not(#block-6)
 nuwakotexpress.com##.widget_media_image:not(#block-9)
 madhyantar.com##.widget_media_image:not(#media_image-125)
