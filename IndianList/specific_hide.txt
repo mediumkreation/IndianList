@@ -4150,6 +4150,8 @@ tupaki.com##div[id$="_ad"]
 news4indiatv.com##div[id*="-ad-"]
 beauronews.com##div[id*="-ad-block-"]
 banglatribune.com##div[id*="BT_Inner_"]
+odiagossip.com##div[id*="HP_O_LHS_3"]
+odiagossip.com##div[id*="HP_O_LHS_4"]
 thereport24.com##div[id*="_300x250"]
 utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
 saharasamachar.com##div[id*="_O_"] div:has(> div > div > a> p + h3 )
@@ -4167,8 +4169,6 @@ anugrahavision.com,cricketkhabara.com,keralaonlinenews.com,keralavoter.com,newsh
 aapninews.in##div[id^="AS_O_LHS_"] > div:nth-child(-n+13)
 samayduniya.com##div[id^="AS_O_LHS_"] > div:nth-child(-n+2)
 livevns.news##div[id^="AS_O_LHS_"] > div:nth-child(-n+6)
-odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(1)
-odiagossip.com##div[id^="AS_O_LHS_"] > div:nth-child(n+10)
 cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(n+16)
 anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 keralavoter.com##div[id^="AS_O_LHS_"] > div:nth-child(n+21)
