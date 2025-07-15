@@ -3746,6 +3746,7 @@ times-bd24.com##a[href*="facebook.com/Future-Company-"]
 hindlives.com##a[href*="fkrt.it"]
 prothom-elo.com##a[href*="getorgift"]
 currentgk.in##a[href*="gkprashnuttar.com"]
+tbn24.com##a[href*="goandgift.com"]
 tamilarul.net##a[href*="goo.gl/"] > img
 visarnews.com##a[href*="goo.gl/18LXwT"]
 nayapage.com##a[href*="gurkhasfinance.com.np"]
