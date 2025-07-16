@@ -1757,6 +1757,7 @@ kalyankesari.com##.e3lan300_600-widget
 uukmanews.com##.each-side-ads .size-full
 uukmanews.com##.each-side-ads > a
 hmtvlive.com##.ed-first
+jaijaikal.com##.elementor-12 .elementor-widget-image
 mpcnews.in##.elementor-41 .elementor-widget-text-editor
 aajkijandhara.com##.elementor-col-33 .elementor-section
 sankathi24.com##.elementor-col-33 .elementor-widget-image
