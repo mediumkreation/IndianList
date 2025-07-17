@@ -395,7 +395,7 @@ apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatp
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-acpnews24.com,amarvaani.com,apanderanews.com,bplnews24.in,dainikchintak.com,garjachhattisgarhnews.com,k24news.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in###imageModal
+acpnews24.com,amarvaani.com,apanderanews.com,bplnews24.in,dainikchintak.com,dakhalchhattisgarh.com,garjachhattisgarhnews.com,k24news.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -409,7 +409,7 @@ emungaru.com###kode-iklan-bawah
 sabaikosamachar.com###kp-premodal-1--wrap
 kalpa.news###layerslider_1
 biharpatrika.in###lcs_ad
-dakhalchhattisgarh.com,kottayammedia.com###leader-wrap
+kottayammedia.com###leader-wrap
 asalbaat.co.in,newscity.co.in###leaderboard-content
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 specialcoveragenews.in###left_level_0_before_1
@@ -979,7 +979,7 @@ weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 gujarattimesusa.com,khabribox.com,londonnepalnews.com##.a-single
 bartabangla.com##.a-widget
-abtakmedia.com,auznews24.com,businesspati.com,currentnewsdainik.com,demokraticfront.com,himachalvarta.com,indianewsviral.co.in,indiansamachar.in,jhansidarshan.com,kannadanewsnow.com,khabarbastar.in,khabarmanch.com,livemagadh.com,lokshakti.in,mahendranagarpost.com,mbmnewsnetwork.com,mujibsenanews.com,newsdeskkannada.com,pahiloclick.com,satyaday.com,tarunbharat.com,thenetizennews.com,theriyuma.com##.a-wrap
+abtakmedia.com,auznews24.com,businesspati.com,currentnewsdainik.com,dakhalchhattisgarh.com,demokraticfront.com,himachalvarta.com,indianewsviral.co.in,indiansamachar.in,jhansidarshan.com,kannadanewsnow.com,khabarbastar.in,khabarmanch.com,livemagadh.com,lokshakti.in,mahendranagarpost.com,mbmnewsnetwork.com,mujibsenanews.com,newsdeskkannada.com,pahiloclick.com,satyaday.com,tarunbharat.com,thenetizennews.com,theriyuma.com##.a-wrap
 jhapaonline.com##.a-wrap img
 al-ihsan.net##.a_d-banner
 gyanipandit.com##.aalb-product-carousel-unit
