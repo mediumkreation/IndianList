@@ -395,7 +395,7 @@ apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatp
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-acpnews24.com,amarvaani.com,apanderanews.com,bplnews24.in,dainikchintak.com,dakhalchhattisgarh.com,garjachhattisgarhnews.com,groundzeroenews.co.in,hindustanopinion.com,k24news.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in,vedantsamachar.in###imageModal
+acpnews24.com,amarvaani.com,apanderanews.com,bplnews24.in,cityhotnews.com,dainikchintak.com,dakhalchhattisgarh.com,garjachhattisgarhnews.com,groundzeroenews.co.in,hindustanopinion.com,k24news.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in,vedantsamachar.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -3383,7 +3383,7 @@ giraya.lk,nationalwartanews.com##.widget_custom_html:not(#custom_html-7)
 livekhagaria.in##.widget_custom_html:not(#custom_html-87)
 jaldimoney.com##.widget_custom_html:not(#custom_html-9)
 tv20news.in##.widget_dhnvx
-cityhotnews.com,vskbihar.com##.widget_digital_newspaper_banner_ads_widget
+vskbihar.com##.widget_digital_newspaper_banner_ads_widget
 newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
