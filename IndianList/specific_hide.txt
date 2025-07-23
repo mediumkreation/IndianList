@@ -91,6 +91,7 @@ beauronews.com,headline24x7.com,khabaram.com,rkexpose.com###adAboveHeader
 janchhaya.in###adCarousel2
 rkexpose.com###adHeaderBottom
 weeklysonarbangla.net###adOrGretings
+khabaram.com###adRightBeside
 tupaki.com###ad_after_header
 anandamela.in###ad_container2
 maxwoman.in###ad_first_middle
@@ -1944,7 +1945,7 @@ nijamtoday.com##.foogallery_widget
 kathmandutoday.com##.foot_ad
 firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
-rkexpose.com##.footer-adv
+khabaram.com,rkexpose.com##.footer-adv
 samrudhaodisha.com##.footer-column-1 section:not(#block-95)
 goodmorningindia.net##.footer-right-widget
 srimanexpress.digital##.footer-widget .textwidget img
@@ -2050,7 +2051,7 @@ jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
 abstarnews.com,jamalpurlive.net,wegarhwali.com##.header-promotion
 azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,lalsobuzerkotha.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
-beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
+beauronews.com,headline24x7.com,khabaram.com,khabarduniya.com##.header-right-adv
 banglaralobd.com##.header-right-sidebar
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
@@ -4148,7 +4149,7 @@ sandhan24.com##div[data-widget_type*="_ads"]
 telugu.boldsky.com,telugu.drivespark.com,telugu.filmibeat.com,telugu.goodreturns.in,telugu.mykhel.com##div[data-zoneid]
 reportexclusive.com##div[id$="-ad"]
 tupaki.com##div[id$="_ad"]
-news4indiatv.com##div[id*="-ad-"]
+khabaram.com,news4indiatv.com##div[id*="-ad-"]
 beauronews.com##div[id*="-ad-block-"]
 banglatribune.com##div[id*="BT_Inner_"]
 odiagossip.com##div[id*="HP_O_LHS_3"]
