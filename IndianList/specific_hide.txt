@@ -229,7 +229,6 @@ anwesantv.wordpress.com,ukpkg.com###block-52
 news.onabil.net###block-58
 lorai24.com###block-59
 batukamma.com,kokanmedia.in,newsnagar.in,paridarshaka.com,paryavaranpost.com,rashtranayaknews.com,vindhya24news.com,viralfactsindia.com###block-6
-thelucknowtribune.com###block-60
 samajjagran.in###block-62
 cinemapettai.com###block-65
 areseenews.com,athirvu.in,girlsglobe.in,kundapraa.com,liveindiakhabar.in,newsnagar.in,odishamanthan.com,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
@@ -3367,6 +3366,7 @@ channeltoday.net,koyilandydiary.com##.widget_block:not(#block-3)
 indiajaankari.in##.widget_block:not(#block-30)
 samacharplusjhbr.com##.widget_block:not(#block-4,#block-1)
 cityhalchal.com##.widget_block:not(#block-43)
+thelucknowtribune.com##.widget_block:not(#block-59)
 topchand.com##.widget_block:not(#block-9)
 sylnewsbd.com##.widget_box img
 liveindiakhabar.in##.widget_carousel_slider
