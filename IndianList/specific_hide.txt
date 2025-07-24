@@ -4216,6 +4216,7 @@ champawatkhabar.com##div[id^="champ-"]
 channelionline.com##div[id^="chann-"] img:not([src*="Google-News-Icon-Channel-i-1.jpg"])
 chhattisgarhprimetime.com##div[id^="chhat-"]
 shikshajagatkiawaz.in##div[id^="cycler"]
+dainikbharat24.com##div[id^="daini-"]
 damrua.com##div[id^="damru-"]
 dailyjanakantha.com##div[id^="div-gpt-ad-"]
 doabatimes.com##div[id^="doaba-"]
