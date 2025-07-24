@@ -2435,7 +2435,7 @@ naidunia.com##.naiWeb
 nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
 shatabdinews.com##.navbar + .row
-chamaktabharat.com#@#.navbar-ad-section
+chamaktabharat.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 nayabikalpa.com##.naya-bikalpa-advertisement
@@ -3498,7 +3498,7 @@ pragatitimes.com##.wp-block-image:has(> .wp-image-318)
 pragatitimes.com##.wp-block-image:has(> .wp-image-417)
 hnexpress.co.in##.wp-block-jetpack-slideshow
 theinternalnews.co##.wp-block-jetpack-tiled-gallery
-newshimachal24.com,pplnews.in##.wp-custom-header
+chamaktabharat.com,newshimachal24.com,pplnews.in##.wp-custom-header
 udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
