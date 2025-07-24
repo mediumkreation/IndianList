@@ -39,7 +39,7 @@ tamilarul.net###HTML40
 tamilarul.net###HTML42
 nallezhuth.com###HTML44
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,eelanesan.com,hellodharnews.com,malabarflash.com,media24media.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
-gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
+ezhomelive.com,gossip99.com,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
 chapainawabganjnews.com,hellodharnews.com,liveaaryaavart.com,livebihar24news.com,vyganews.com###HTML7
 dailyhealthletters.com,gramsamachar.com,india2daynews.com,jaldhakanews.com,khantinews.blogspot.com,newssapata.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
@@ -1911,6 +1911,7 @@ dakhal.net,kolarnews.net##.fadInleft_ads
 marathi.indiatimes.com##.fakelisting
 bangla.thereport24.com##.farrr
 telugu.samayam.com##.fbnad
+ezhomelive.com##.feat-widget-wrap
 bbc24news.com,chtmedia24.com##.featad
 hetaudatoday.com##.feature-ad
 hetaudatoday.com,tukhabar.com##.feature-bottom-ad
@@ -2310,7 +2311,6 @@ odia-ray.in##.main .bannergroup
 telugupost.com##.main .to-be-async-loaded-ad:not(.details_left_level_6)
 chhattisgarhaaj.com##.main--sidebar .widget:has(> div.ad--widget-no)
 newsfirst.lk##.main-ad-half
-ezhomelive.com##.main-ads-pikihome
 policevarthe.com##.main-bg .carousel
 setopati.com##.main-bigyaapan
 aanmeegam.co.in##.main-box-inside:has(> p ins.adsbygoogle)
