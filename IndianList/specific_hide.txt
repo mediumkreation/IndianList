@@ -3837,6 +3837,7 @@ aapkikhabar.com#?#[id^="custom"]:-abp-has(> a:-abp-contains(Government Ad))
 aapkikhabar.com#?#div[id^="AS_O_"] div:-abp-has(> div > div > a> div h5:-abp-contains(Ad |) )
 abcnews.media#?#.widget_custom_html:-abp-has(> div > div > h3:-abp-contains(Advertisement))
 dainikjharkhand.com,jaunpur24.com,pressmirchi.com##adnblock
+ajkermathbaria.com#?#div:has(> p:-abp-contains(Advertisement))
 ammanealing.org#?#.wpb_wrapper:-abp-has(> div > .sc_item_title:-abp-contains(Advertisement))
 angulonline.com#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Sponsored))
 newsnib.in##app-squaread
