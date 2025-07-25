@@ -395,7 +395,7 @@ apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatp
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-abhitak.in,acpnews24.com,amarvaani.com,apanderanews.com,bplnews24.in,cityhotnews.com,dainikchintak.com,dakhalchhattisgarh.com,garjachhattisgarhnews.com,groundzeroenews.co.in,hindustanopinion.com,k24news.in,mpbreaking.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in,thehindkeshari.in,vedantsamachar.in###imageModal
+abhitak.in,acpnews24.com,amarvaani.com,apanderanews.com,babuaa.com,bplnews24.in,cityhotnews.com,dainikchintak.com,dakhalchhattisgarh.com,garjachhattisgarhnews.com,groundzeroenews.co.in,hindustanopinion.com,k24news.in,mpbreaking.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in,thehindkeshari.in,vedantsamachar.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -1328,7 +1328,6 @@ hulchalnews24.com##.alignnone.size-medium
 pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
 bangalorewaves.com##.almanacheader
-babuaa.com##.aloks
 aagolavartha.com,themangaloremirror.in##.alp-advert
 ibc24.in##.alt-balaji
 kutchkhabar.com##.amazingcarousel-list-container
