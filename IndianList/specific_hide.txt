@@ -1835,6 +1835,7 @@ dinakaran.com##.elementor-widget-wp-widget-custom_html
 channelrb.com##.elementor-widget-wp-widget-master-slider-main-widget
 computerbichitra.com##.elementor-widget-wp-widget-news247_ads_banner_widget
 simanapari.com##.elementor[data-elementor-type="wp-page"] .elementor-widget-image
+jonaki.tv##.embed-responsive
 kannurmetroonline.com##.embed-responsive-4by3
 iamgujarat.com##.endarticle div:has(> .ad1)
 kamuktastories.com##.enhanced-text-widget
