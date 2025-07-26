@@ -696,6 +696,7 @@ samjhobharat.com###sidebar-right-1 .widget.Image
 tamillens.com###sidebar-schedule-slider
 haryananewsonline.com###sidebar-secondary-sidebar
 citypostlive.com###sidebar-secondary-sidebar > .widget
+yarldevinews.net###sidebar-wrapper .widget.HTML
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
 upayuktha.com###sidebar-wrapper .widget.Image
