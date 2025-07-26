@@ -1817,7 +1817,7 @@ unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
-banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,newsinbihar.com,onlinebhaskar.com,vijayavani.net##.elementor-widget-shortcode img
+banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,vijayavani.net##.elementor-widget-shortcode img
 7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
@@ -3483,7 +3483,7 @@ teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
 khabarhikhabar.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com##.wonderpluginslider
-himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,sonprabhat.live##.wonderpluginslider-container
+himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,sonprabhat.live##.wonderpluginslider-container
 lotpot.com##.wow
 allnewsbharat.com##.wow.single_sidebar
 uptaazanews.com##.wp-block-code
