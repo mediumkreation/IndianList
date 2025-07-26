@@ -2204,8 +2204,6 @@ hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
 gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com,pokharanews.com##.inside_ads
 birgunjsanjal.com##.inside_ads img
 hamrosandesh.com##.interview ~ a
-newzfast.com##.intes_fixed
-newzfast.com##.intes_fixed + div
 makalukhabar.com##.is-full-widescreen-ad
 samvetshikhar.com##.item-size-right img
 aajtak.in##.itgdAdsPlaceholder
@@ -4181,9 +4179,9 @@ cricketkhabara.com##div[id^="AS_O_LHS_"] > div:nth-child(n+16)
 anugrahavision.com,keralaonlinenews.com##div[id^="AS_O_LHS_"] > div:nth-child(n+20)
 keralavoter.com##div[id^="AS_O_LHS_"] > div:nth-child(n+21)
 atalnews24.com,newsremind.com##div[id^="AS_O_LHS_1"]
-rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+10)
+newzfast.com,rewanewsmedia.com##div[id^="AS_O_LHS_1"] > div:nth-child(-n+10)
 rajasthankhabre.com,realitynews.in##div[id^="AS_O_LHS_1"] > div:nth-child(-n+5)
-newzfast.com,toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
+toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(2n+1)
 toptamilnews.com##div[id^="AS_O_LHS_1"] > div:nth-child(n+16)
 bhadainimirror.com##div[id^="AS_O_LHS_1"] > div:nth-child(n+4):nth-child(-n+13)
 newstodaynetwork.com##div[id^="AS_O_RHS"] > div:has(> div > div > div > p)
