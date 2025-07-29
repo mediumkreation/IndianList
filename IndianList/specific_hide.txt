@@ -978,7 +978,7 @@ amarbanglabd.com##._df_custom
 marathi.indiatimes.com##._taboola
 weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
-gujarattimesusa.com,khabribox.com,londonnepalnews.com##.a-single
+gujarattimesusa.com,khabribox.com,londonnepalnews.com,narmadanchal.com##.a-single
 bartabangla.com##.a-widget
 abtakmedia.com,auznews24.com,businesspati.com,currentnewsdainik.com,dakhalchhattisgarh.com,demokraticfront.com,himachalvarta.com,indianewsviral.co.in,indiansamachar.in,jhansidarshan.com,kannadanewsnow.com,khabarbastar.in,khabarmanch.com,livemagadh.com,lokshakti.in,mahendranagarpost.com,mbmnewsnetwork.com,mujibsenanews.com,newsdeskkannada.com,pahiloclick.com,satyaday.com,tarunbharat.com,thenetizennews.com,theriyuma.com##.a-wrap
 jhapaonline.com##.a-wrap img
@@ -1998,6 +1998,7 @@ nepalviews.com##.gam-each-nvad
 dailynews24.in##.gb-container-553faf02
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
 topbihar.com##.gb-container:has(> [data-type="_mgwidget"])
+narmadanchal.com##.gb-container:has(> figure.size-full)
 asr24.news##.gb-container:has(> img[src*="1000272722"])
 asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 tamil.goodreturns.in##.gd-multi-news ul > div
@@ -3608,7 +3609,7 @@ newshindustan.in##.wpb_wrapper.wpb_text_column
 karnaliheadlines.com##.wpb_wrapper:has(> .td_block_big_grid_3)
 abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
-betulsamachar.com,bongnews24x7.com,dailynews24.in,devpath.in,naitaaqat.in,nearnews.in,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
+betulsamachar.com,bongnews24x7.com,dailynews24.in,devpath.in,naitaaqat.in,narmadanchal.com,nearnews.in,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
@@ -4385,6 +4386,8 @@ gossiplanka.com#?#.HTML:-abp-has(.title:-abp-contains(Advertisement))
 gujaratdarpan.com#?#h6:-abp-contains(Paid Advertisement)
 tejastoday.com##h2 a[href*="one-medicine-"]
 apnades.in##h2[id*="sponsor"]
+narmadanchal.com##h5.wp-block-heading
+narmadanchal.com##h5.wp-block-heading + .wp-block-spacer
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 dainiksylhet.com##header .textwidget img
 khabor.com##header a[href*="/click-"]
