@@ -3298,6 +3298,7 @@ janatatimes.com,namasteholland.com,vaarte.com,varthatrivandrum.com##.vmagazine_m
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
 emalayalee.com##.w-full.my-2.group
+cgkhabar.com##.w-full:has(> ins.adsbygoogle)
 indiainside.org##.w3-section
 sarabangla.net##.w3-tiny
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
