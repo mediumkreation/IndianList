@@ -1824,7 +1824,7 @@ krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
-ebharatnews.in,truelinenews.com##.elementor-widget-slides
+ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
 abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,lokshakti.in,mujibsenanews.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
