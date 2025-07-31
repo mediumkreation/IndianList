@@ -2600,6 +2600,7 @@ pchelpcenterbd.com##.pragads
 paathok.news##.prettyphoto
 deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
 sakalakhabar.com##.primary-sidebar-widget
+sakshamuttarakhand.com##.primary-sidebar-widget.w-nt
 onnews24.com##.primary-sidebar-widget:has(> .no-bg-box-model)
 makdaiexpress24.com##.primary-sidebar-widget:has(div[data-adid] > img)
 samajalive.in##.primary-sidebar-widget:has(div[data-adid])
