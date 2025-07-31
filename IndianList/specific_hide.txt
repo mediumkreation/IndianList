@@ -760,7 +760,6 @@ citymailnews.com###tdi_126
 himalayandiscover.com###tdi_156
 srujananedu.com###tdi_191
 vavuniyanet.com###tdi_2
-samriddhasamaj.com###tdi_40
 crimemukhabir.com###tdi_57
 anbnews24.com,liveindia.live,munshigonjerkagoj.com,timesoneodia.com###text-1
 amritvarshanews.in,gajabkhabre.com,himachalvarta.com,jagprerna.com,janmanindia.com,joyparajoy.com,medianp.com,moonbreaking.com,newscup.in,tamil.com,theblastkhabar.com###text-10
@@ -3837,7 +3836,6 @@ janayugomonline.com##a[target="_blank"]:not(.btn) > img
 cinepati.com##a[target="_blank"]:not(a[href*="cinepati"])
 newsajako.com##a[target="_blank"]:only-child img
 humsamvet.com##a[target="_new"]
-samriddhasamaj.com##a[title="Advertisement"]
 srujananedu.com##a[title="Sidebar ad-1"]
 bayanno.com##a[title^="Advert"]
 aadarshhimachal.com#?#.wpb_wrapper:-abp-has(> h5:-abp-contains(Ads))
@@ -4289,6 +4287,7 @@ lokmat.com##div[id^="rhs-"]
 sachawaz.com##div[id^="sacha-"]
 sachkitop.com##div[id^="sachk-"]
 samacharsach.com,samacharuk.com##div[id^="samac-"]
+samriddhasamaj.com##div[id^="samri-"]
 sanjeevnitoday.com##div[id^="sanje-"] img
 sarthaksamay.com##div[id^="sarth-"]
 satyagrahnews.in##div[id^="satya-"]
