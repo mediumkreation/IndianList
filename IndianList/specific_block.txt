@@ -992,6 +992,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||clmbtech.com^$third-party,domain=samayduniya.com
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
 ||cnewsbangla.com/wp-content/uploads/2019/09/Gloria-arlour.jpg
+||cnewslive.com/add/
 ||cnibd.net/wp-content/uploads/2018/12/brb-cables-300x200.jpg
 ||cnibd.net/wp-content/uploads/2019/09/lead-1024x51.png
 ||cnibd.net/wp-content/uploads/2019/09/right-4.png
