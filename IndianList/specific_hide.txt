@@ -4416,7 +4416,7 @@ khabarbhatapara.in##iframe[src*="google.com/presentation/"]
 hulchalpunjab.com##iframe[src*="igoogleportal.com"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 dbcnews.tv##iframe[style*="height: 90px"]
-deshsanchar.com##img.alignnone.size-full
+deshsanchar.com,golmalnews.com##img.alignnone.size-full
 onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
