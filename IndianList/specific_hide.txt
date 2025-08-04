@@ -1854,7 +1854,7 @@ uksuddi.in##.entry-content .bsac
 beforepublish.com,bharatbarta.com,deepamnews.lk,healthbangla.com,rcbrn.com,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
-punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
+bebakmanch.com,punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 aamaadmi.in##.entry-content .stream-item-inline-post
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
@@ -2746,7 +2746,7 @@ thenewsrepair.com##.sidebar .widget.HTML
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 indiannewsroom.com,mbpratidin.com,sarthakprayash.com##.sidebar .widget_block
 aajkaaditya.in,abhitak.in,bartabangla.com,hindsat.in,muchata.com,mymarathi.net##.sidebar .widget_custom_html
-aviralsamachar.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,kadwaghut.com,khulasach.com,navamalayali.com,opennewsx24.com,realtimes.in,seemasandesh.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
+aviralsamachar.com,bebakmanch.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,kadwaghut.com,khulasach.com,navamalayali.com,opennewsx24.com,realtimes.in,seemasandesh.in,shaktinews.in,suryarekha.com##.sidebar .widget_media_image
 newsdesk24.com##.sidebar .widget_media_image:has(> :not(div))
 mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
 crimenazarnews.com,ekhonkhobor.com,joddha.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com##.sidebar .widget_text
