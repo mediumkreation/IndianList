@@ -1827,7 +1827,7 @@ bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
-abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,lokshakti.in,mujibsenanews.com,teluguglobal.com##.elementor-widget-smartmag-codes
+abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,lokshakti.in,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 mpcnews.in##.elementor-widget-theme-post-content img
@@ -4304,6 +4304,7 @@ sitamarhilive.in##div[id^="sitam-"]
 kairalinewsonline.com##div[id^="slideshow"]
 sonprabhat.live##div[id^="sonpr-"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
+swadeshtoday.com##div[id^="swade-"]
 filmibeat.com##div[id^="taboola-"]
 tazakhabar36garh.com##div[id^="tazak-"]
 satyaexpress.com##div[id^="th-sb-ad-block-"]
