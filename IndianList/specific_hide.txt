@@ -1630,7 +1630,7 @@ upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,bundelkhandnews.com,cpnews24.com,darbhangacity.in,kalamlok.com,kumudam.com,malayalamnewstimes.com,news21.lk,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,bundelkhandnews.com,cpnews24.com,dainikcharghat.com,darbhangacity.in,kalamlok.com,kumudam.com,malayalamnewstimes.com,news21.lk,pradeshajjtak.com,rni.news,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
@@ -3333,7 +3333,6 @@ dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
 fourteenkerala.com##.widget.text-html
-dainikcharghat.com##.widget.widget_block:not(#block-4):not(#block-95)
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 jagatprahari.com##.widget_728x90_advertisement
