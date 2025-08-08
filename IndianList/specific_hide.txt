@@ -391,7 +391,7 @@ livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
-bhopalsamachar.com###home-ads
+bhopalsamachar.com,uttarakhandhindinews.in###home-ads
 alokitokhobor.com,kalerkotha.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
