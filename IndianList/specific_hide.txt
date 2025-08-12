@@ -265,7 +265,6 @@ bangalorewaves.com###classlistmain
 dandikaanthi.com,khabarindia24x7.com###cm-secondary .widget_custom_html
 suddi9.com###colorcontentasash3
 indiakidahad.com###colormag_125x125_advertisement_widget-1
-swarnimbharatnews.com###commentform img
 kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
@@ -3241,6 +3240,7 @@ damstv.com##.tr-ad
 onlinekhabar.com##.tribox-add
 mhone.in##.two-ads
 newsglobalbd.com,polkholonline.com,vorerava24.com##.twp-ad
+swarnimbharatnews.com##.twp-ad-image-section
 mukhyadhara.in,ukpkg.com##.twp-ad-section
 unmadmagazine.com##.twp-adv-header
 mukhyadhara.in,ukpkg.com##.twp-home-widget-section
@@ -4607,7 +4607,6 @@ smtv24x7.com#?#.single_post_content:-abp-has(> h2 > span > a:-abp-contains(ADS))
 soochnanews.in#?#h4.td-block-title:-abp-has(> span:-abp-contains(Advertisement))
 manithan.com##span[id] > iframe[id]:only-child
 backtobollywood.com##span[style="font-size: 8pt; color: #bdbbbb;"]
-swarnimbharatnews.com##span[style^="color: red;"]
 suprovatsydney.com.au#?#.box_header:-abp-contains(Advertising)
 swarnimtimes.in#?#.entry figure:has(> figcaption:-abp-contains(Advertisement))
 samaynews24.com##table:has(> tbody > tr > td > a[href*="drkeshavjee.com"])
