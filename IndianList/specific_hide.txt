@@ -748,7 +748,6 @@ devbhumijknews.in,ssnewsindia.com,vvanews.in###stream-item-widget-3
 nalandareporter.com,theguptchar.com###stream-item-widget-4
 bestnow.in,hnn24x7.com###stream-item-widget-5
 solantoday.com###sub-footer .widget_media_image
-alaikal.com###supermag_ad-12
 punnalaikkadduvan.com###supermag_ad-3
 dainiksylhet.com,sylheterdak.com.bd,sylhetview24.net###sv_gad_left
 swarajnewstoday.com###sync3
@@ -2045,7 +2044,7 @@ tamilsaga.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
-bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
+alaikal.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com##.header-baner
 71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,dailysuraj.com,ekuruvi.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,kanvkanv.com,khabardev.com,mathuranews24.com,medianow.in,newsfry.com,odishatime.com,onlinespardha.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
