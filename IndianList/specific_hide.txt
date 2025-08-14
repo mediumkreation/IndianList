@@ -2957,6 +2957,7 @@ ramailo6.com##.swiper:not(.bswiper)
 notebook.today##.t-out-span
 adhunikdaur.com##.tab_265top_left
 news18.com##.taboola_setting
+jagran.com##.taboolaads
 xxx-indian-porn.com##.tac
 kamdhenupost.com##.tagdiv-type .td-fix-index img
 tamilmint.com,tamiltradepost.com##.tamil-widget
