@@ -175,7 +175,7 @@ khabarwithcover.com,samrudhaodisha.com###block-114
 samrudhaodisha.com###block-116
 samrudhaodisha.com###block-117
 samrudhaodisha.com###block-119
-asomkhobor.com,paryavaranpost.com,sathiyam.tv###block-12
+asomkhobor.com,paryavaranpost.com###block-12
 samrudhaodisha.com###block-120
 samrudhaodisha.com###block-121
 samrudhaodisha.com###block-122
@@ -237,7 +237,7 @@ ajdapunjab.com###block-69
 areseenews.com,athirvu.in,girlsglobe.in,kundapraa.com,liveindiakhabar.in,newsnagar.in,odishamanthan.com,paryavaranpost.com,samacharfirst.com,satyagrahanews.in###block-7
 thenationtimes.in###block-73
 thenationtimes.in###block-74
-angulonline.com,bharatpostlive.com,chamolitimes.com,naanmedia.in,palisirohionline.in,sathiyam.tv,wayanadnewsdaily.com###block-8
+angulonline.com,bharatpostlive.com,chamolitimes.com,naanmedia.in,palisirohionline.in,wayanadnewsdaily.com###block-8
 bombaysamachar.com,samacharbharti.in,tv36hindustan.com,wayanadnewsdaily.com###block-9
 neerfit.co.in###block-93
 varthabharati.in###block-block-253--2
@@ -3266,7 +3266,7 @@ netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 lekhnathkhabar.com##.vc_grid-container-wrapper .wpb_content_element
 ayushindianews.com##.vc_images_carousel
-bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
+bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,sathiyam.tv,slogannews.com,tatkalsamachar.com,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
 bmnews24.net##.vc_raw_html .td-fix-index > div
 coastal-mirror.com,justkannada.in##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
