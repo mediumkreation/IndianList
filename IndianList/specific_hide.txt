@@ -3171,6 +3171,7 @@ krishideepam.in##.tm-adv-header
 hamdardmediagroup.com,janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
 kasargodvartha.com,keralaonlinenews.com##.top-ad-d
+bengali.indianexpress.com##.top-ad-height .tbl-feed-card:has(.trc-content-sponsored)
 bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
 thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
