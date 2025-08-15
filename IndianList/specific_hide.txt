@@ -2588,7 +2588,6 @@ shirurtaluka.com##.post-item-description p img
 ujalahiteshiexpress.com##.post-middle-banner
 chakrikhobor.com##.post-right-side-square-ads-big
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
-sharebiz.net##.post-wrap.post .sidebar .widget_text
 himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 kalikadainik.com,satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
@@ -3149,6 +3148,7 @@ kelanchaltimes.com,navshaktinews.com##.theiaStickySidebar .widget_metaslider_wid
 ghazipurkhabar.co.in##.theiaStickySidebar .widget_smartslider3
 biratnews24live.com,indootimes.com.au,jilanazar.in,minnambalam.com,thejoharnews.com,tirthchetna.com##.theiaStickySidebar .widget_text
 gnewsindia.com##.theiaStickySidebar .widget_text:not(#text-22)
+sharebiz.net##.theiaStickySidebar .widget_text:not(#text-8)
 bangladeshsangbadpratidin.com##.theiaStickySidebar .wp-block-image
 khabrainabhitak.org##.theiaStickySidebar .wpb_content_element
 samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
