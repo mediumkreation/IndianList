@@ -4452,6 +4452,7 @@ ajkerograbani.com##img[alt="advertisement"]
 gramajyothi.com##img[alt="banner"]
 barishaltimes.com##img[alt="custom sidebar ads"]
 yazhnews.com##img[alt="header ads"]
+binodonsarabela.com##img[alt="hera"]
 mirsaraikhobor.com##img[alt="mAD"]
 khabreelal.com##img[alt="sonu"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
