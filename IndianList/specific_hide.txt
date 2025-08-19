@@ -1267,7 +1267,6 @@ janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
 dailysports24.com##.advertaisement
 bihardailynews.com,dailysylheterdinkal.com,redtimes.com.bd##.advertise
-dailyajkerbarta.com##.advertise a
 drukpadam.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 margarekha.com##.advertise-border
 nobat.com##.advertise-ifrme
@@ -2553,7 +2552,7 @@ jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
-faridpurprotidin.com##.pitwAdvWrap
+dailyajkerbarta.com,faridpurprotidin.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
