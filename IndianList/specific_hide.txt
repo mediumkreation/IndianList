@@ -2897,6 +2897,7 @@ garimatvnews.com##.sppb-addon-content .custom
 newscreation.in##.sppb-addon:has(.bannergroup)
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
+yugantarpravah.com##.square-ad-box
 cibindianews.com##.square-space
 sangbad-gallery.com##.square_advertisement
 evartha.in##.square_in
