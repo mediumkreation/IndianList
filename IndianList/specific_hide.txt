@@ -1910,7 +1910,7 @@ khabarexpert.in##.ewic-slider
 womeneye24.com##.exclusiveSec + .row
 enlightnews.com##.extra_ad
 madhyamam.com##.extra_bottom_sections
-uptak.in##.eyeo
+crimetak.in,uptak.in##.eyeo
 dakhal.net,kolarnews.net##.fadInleft_ads
 marathi.indiatimes.com##.fakelisting
 bangla.thereport24.com##.farrr
