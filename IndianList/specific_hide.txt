@@ -246,7 +246,6 @@ varthabharati.in###block-block-338
 thinaboomi.com###block-block-81
 prajajyothinews.com###block-pj-advt1
 subasetha.lk###block-views-ads-display-inner-block
-nakkheeran.in###block-views-block-detail-page-ads-block-2
 bdnewshour24.com###bottom-header-banner
 dailyamadercomilla.com###bottomadothers
 malayalamtodayonline.com###boxes
@@ -2036,7 +2035,6 @@ bdcrimenews.com##.header .pull-right
 kairalynews.com##.header .slide_img
 legendnews.in##.header--ad
 bangladesherkhabor.net##.header-ad-section
-nakkheeran.in##.header-ad-section-desk
 tamilsaga.com##.header-add
 bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
@@ -2401,6 +2399,7 @@ mymarathi.net##.mom_contet_e3lanat
 uthayannews.ca##.mom_custom_text
 chattogramersomoy.com##.mom_e3lan-empty
 countryinsidenews.com,crimenazarnews.com,everesttimes.net,jokhimnews.com,newsviewspost.com,theevakam.com##.momizat-ads
+nakkheeran.in##.mr-ad
 bengaluruvartha.in##.ms-parent-id-1
 awaaz24x7.com,banglakatha.com.au##.mt-1
 rtvonline.com##.mt-10 small
@@ -2431,7 +2430,6 @@ news13.in##.n13_home_adv5
 khabreapki.com##.n2-ss-slider
 nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
-nakkheeran.in##.nak-adv-cen:not(#block-views-block-global-news-home-page-block-3)
 naturalnews.co.in##.natur-content
 shatabdinews.com##.navbar + .row
 chamaktabharat.com##.navbar-ad-section
@@ -2611,6 +2609,7 @@ farwesttimesdaily.com##.promotional__col
 neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
 asomiyapratidin.in,kalakaumudi.com,sathyamonline.com##.publive-dynamic-container
+nakkheeran.in##.publive-slot-span
 biswabanglasangbad.com,cinemapressclub.com,dhadingupdate.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com,thinakaran.lk##.pum-content
 janayugomonline.com##.pum-title
 punjabnewslive.co.in##.punja-widget
@@ -2638,7 +2637,7 @@ khagracharipratidin.com##.relative:has(img[src*="/ads/"])
 filmibeat.com##.removeStyleAd
 amarujala.com##.remove_ad_class
 anytechtune.com##.reseller-add
-malayalam.indianexpress.com##.responsive-ad-css
+malayalam.indianexpress.com,nakkheeran.in##.responsive-ad-css
 rastriyadaily.com##.rg-advertisement-long-horizontal
 rastriyadaily.com##.rg-side-adv
 inkhabar.com##.rgtSideAdert_main
@@ -2910,6 +2909,7 @@ hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com##.sticky-sidebar .widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
 andhrajyothy.com,channel24bd.tv##.stickyAds
+nakkheeran.in##.sticky_add
 madhyamam.com##.story-ad1
 gambhirmudda.com##.story-detail-mid-add
 chandaulisamachar.com##.story-wrapper a.disabled
@@ -3126,7 +3126,6 @@ gujjujankari.in##.the_content > div[class^="gujju-content"]
 gujaratinurasodu.in##.the_content div[class^="gujar-content_"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
-nakkheeran.in##.theiaStickySidebar .block-block-content
 marathwadaneta.com##.theiaStickySidebar .elementor-inner-section
 snpsports24.com##.theiaStickySidebar .elementor-widget-image
 dinamina.lk##.theiaStickySidebar .elementor-widget-image img:not([src*="admit.jpg"])
@@ -3906,7 +3905,6 @@ jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
 munaadi.com##center:has(> img.w-100)
-nakkheeran.in##center[class*="addsCenter"]
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
 channelmahalaxmi.com#?#h2.widgettitle:-abp-contains(Advertisment)
