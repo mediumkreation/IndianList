@@ -581,6 +581,7 @@ samakal.com###popUpModalAd
 deshprotidin.com###popup
 hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
+cinema.dinamalar.com###positionExample
 iimtnews.com###post-37
 jagprerna.com###post-7708
 tamizhakam.com###post-footer-ads
@@ -3219,7 +3220,6 @@ mediavision.news##.topaddsctn
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com##.topadmid
 fonijkorea.net,nationaldetectivenews.com,ournewsbd.net##.topadrt
-cinema.dinamalar.com##.topadtxt160
 banglavashi.com,dhangadhikhabar.com,kharitatsandesh.com,zeenews.india.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
@@ -4140,6 +4140,7 @@ samakal.com##div[class^="textBodyAd"]
 thejoharnews.com##div[class^="thejo-"]
 biratkhabar.com##div[class^="top-sidebar-adv"]
 eurobanglanews24.com##div[class^="topad"]
+cinema.dinamalar.com##div[class^="topadtxt"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
 ahinsaexpress.in,akashjatra.com,alokitochatkhil.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dainikpotrika.com,dhenkanalupdate.com,dumanikhabar.in,ganthan.com,gtvnews.net,hamaratoday.com,journalistcafe.com,kilinochchinet.com,konarklive.com,koshalnews.in,lastnews24.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,odishasambad.in,onlinemalayali.in,paharbarta.com,parichaya.com,pbknews.com,pehchanfaridabad.in,peoplespresstrust.com,sabkuchgyan.com,safalnews.com,samajalive.in,suddimane.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 ablivenews.com##div[data-adid] > img
