@@ -962,6 +962,7 @@ newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
 dinamalar.com##.MuiBox-root:has(> div > .adunitContainer)
 hindusthansamachar.in##.NewClass iframe
+keraleeyammasika.com##.NewRow img
 newindia24.in##.PixyPaperad
 tutyonline.net##.R300100
 bharatsamachartv.in##.RightCont iframe
@@ -3779,7 +3780,6 @@ dailykaratoa.com##a[href*="karatoacourierservice.com"]
 kvartha.com##a[href*="kasargodvartha.com"]
 malayalees.ch##a[href*="kidoovacations.com"]
 techalonews.com##a[href*="kitchenworldbd.com"]
-keraleeyammasika.com##a[href*="ksfe.com"]
 bhalukanews.com##a[href*="mastercafebd"]
 news4himalayans.com##a[href*="narendramodi.in"]
 thebharatlive.com##a[href*="newtraffictail.com"]
