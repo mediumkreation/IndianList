@@ -1934,6 +1934,7 @@ sudurpress.com##.field--name-field-ad-image
 tamil.filmibeat.com##.filmi-header-ad
 newsfirst.lk##.fixed-banner
 ctgpratidin.com,nepaljapan.com##.fixedbar
+avaninews.com##.fl-ad
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
