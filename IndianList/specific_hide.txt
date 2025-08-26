@@ -166,7 +166,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 malayaleepathram.com.au###black-studio-tinymce-41
 malayaleepathram.com.au###black-studio-tinymce-67
-dainikjaltedeep.com,londonbdnews24.com,paridarshaka.com,tamizhdb.com,thenewsmirchi.com###block-10
+dainikjaltedeep.com,londonbdnews24.com,paridarshaka.com,roddure.com,tamizhdb.com,thenewsmirchi.com###block-10
 sirsonews24.com###block-100
 lalluram.com,magahinews.com,paridarshaka.com###block-11
 surgujasamay.com###block-112
@@ -326,7 +326,6 @@ amanyatralive.com,atharvnews.com,hindirush.com,indokalingtimes.com,karmalamadhan
 jaunpurlivenews.in###custom_html-43
 abtakmedia.com,asrilanka.com,bdcrictime.com,businesspati.com,devbhumijknews.in,digantabani.com,dvgsuddi.com,jagprerna.com,khabarexpert.in,khelarpata.com,ktmdainik.com,muznews.net,news129.com,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com,thehimachal.com,theriyuma.com,uttranews.com###custom_html-5
 hindi-news-today.com###custom_html-51
-roddure.com###custom_html-53
 roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,cgctnews.com,cricnewz.in,dvgsuddi.com,f21news.com,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com,thehindkeshari.in###custom_html-7
