@@ -2785,6 +2785,7 @@ himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 prasashan.com##.sidebarad-content
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
+slogannews.com##.simple-ad
 himalayonlinemedia.com##.simple-image
 khabaristan.com##.single-728
 probashbarta.com##.single-add
@@ -3269,7 +3270,7 @@ netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 lekhnathkhabar.com##.vc_grid-container-wrapper .wpb_content_element
 ayushindianews.com##.vc_images_carousel
-bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,sathiyam.tv,slogannews.com,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
+bangladeshmail.news,dailyceylon.lk,dainikjaltedeep.com,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,sathiyam.tv,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
 bmnews24.net##.vc_raw_html .td-fix-index > div
 coastal-mirror.com,justkannada.in##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
