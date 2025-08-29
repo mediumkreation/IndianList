@@ -1938,6 +1938,7 @@ daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
 arohitodaynews.com,badaunexpress.com##.flexslider
 sahilonline.net##.flexslider-eid
+mediavision.news##.floating-ad-inner
 donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
