@@ -123,27 +123,6 @@ inextlive.com,punjabijagran.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
 bonikbarta.com###article-middle2
 lokmatnews.in###articlePageBanner
-up80.online###attachment_10957
-up80.online###attachment_11499
-up80.online###attachment_11653
-up80.online###attachment_12010
-up80.online###attachment_12428
-up80.online###attachment_12691
-up80.online###attachment_12880
-up80.online###attachment_12945
-up80.online###attachment_13381
-up80.online###attachment_13529
-up80.online###attachment_13539
-up80.online###attachment_13549
-up80.online###attachment_13929
-up80.online###attachment_14460
-up80.online###attachment_15074
-up80.online###attachment_15085
-up80.online###attachment_15191
-up80.online###attachment_16388
-up80.online###attachment_16691
-up80.online###attachment_17141
-up80.online###attachment_17329
 biharnation.in###attachment_28282
 kahalenews.com###attachment_43256
 kahalenews.com###attachment_44092
