@@ -614,6 +614,7 @@ yugabdha.com###secondary .box-sec-bg
 beanibazarnews24.com###secondary .side-widget:first-child
 boltahimachal.com###secondary .widget:has(ins.adsbygoogle)
 breakingodisha.com,brightpost.in,dainikchintak.com,haikaravali.com,janmat.co.in,jharkhandupdates.com,kelopravah.news,konnivartha.com,rashtrabodh.com,thenewswave.com###secondary .widget_block
+sandhyakarmabhoomi.com###secondary .widget_block:not(#block-100,#block-57)
 newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,apanderanews.com,janakeeyam.in,khabaribn7.com,up18news.com###secondary .widget_custom_html
