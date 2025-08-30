@@ -1514,6 +1514,7 @@ himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 prothomalo.com##.card-image-wrapper + div
 lanka4.com##.card.text-center
+newsbunch.in##.card:has(> .card-body > img[alt*="Ad"])
 aloavanews24.com,just36news.com,malayalamtodayonline.com,prameyanews7.com,thefollowup.in##.carousel
 news11.live##.carousel.slide
 chhattisgarhaaj.com##.carousel:not(#myCarousel2)
@@ -2462,6 +2463,7 @@ onlinekhabar.com##.nh_widget_wrap
 weeklydesh.co.uk##.nhsgallery
 nepalkhabar.com##.nk-sidebar-ads
 newskannada.com##.nktv_adv
+newsbunch.in##.nm-ads-section
 nnews24.com##.nnews-content
 ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,upsamachar.org##.no-bg-box-model
 kayakairan.com##.no-bod .ad-title + a img
