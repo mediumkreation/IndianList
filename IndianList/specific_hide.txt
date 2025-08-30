@@ -2046,6 +2046,7 @@ dailyreportbd.com,tamilcinetalk.com##.header-top-right
 unb.com.bd##.header-upper .pull-right
 gangalahar.com##.header-widget
 ausamachar.com##.header-widget-region
+aranaadsamachar.in##.header-widget-wrapper
 telugu.telugucinema.com##.header-widgets-wrapper
 dailykesari.com##.headerHt
 talashbangla.com##.header__add
