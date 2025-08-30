@@ -3375,6 +3375,7 @@ jaldimoney.com##.widget_custom_html:not(#custom_html-9)
 tv20news.in##.widget_dhnvx
 vskbihar.com##.widget_digital_newspaper_banner_ads_widget
 newslamp.in##.widget_dtuy
+nationexpress.live##.widget_enhy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
 azchavattomonline.com##.widget_et_ads
