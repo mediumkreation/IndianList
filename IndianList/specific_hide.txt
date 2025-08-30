@@ -3378,6 +3378,7 @@ newslamp.in##.widget_dtuy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
 azchavattomonline.com##.widget_et_ads
+makdaiexpress24.com##.widget_ewic_sc_widget
 indiareportertoday.com##.widget_fcko:not(#fcko-25)
 filmnews24x7.com##.widget_fgwt
 avadhkiaawaz.com##.widget_gallery_img_widget
