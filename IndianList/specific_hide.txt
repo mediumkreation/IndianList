@@ -1493,6 +1493,7 @@ watansamachar.com##.boxnewsAD:has(img)
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
+aarushikhabar.com##.brx-popup
 probashtime.net##.brx-popup-content a.brxe-image img
 navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
