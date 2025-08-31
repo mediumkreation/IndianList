@@ -1573,6 +1573,7 @@ magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 banglaexpress.in,deshprahari.com##.code-block:not(.code-block-6)
 navbharatsamay.in##.code-block:not(.code-block-9)
 bangalianaa.com##.code-widget
+dainiknotunkhobor.com##.codedokan_widget > figure img
 thepadma24.com##.codedokan_widget figure img
 notunerkotha.com##.codedokan_widget img
 bankingkhabar.com##.codeneric_uam_link
