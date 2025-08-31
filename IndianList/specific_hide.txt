@@ -1378,7 +1378,7 @@ bhnnews.com##.banner-wrap img
 banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 raftaarindianews.com##.bannerListWidget
-satkarpost.com,sawalnepal.com##.banner__ads
+bethanchokkhabar.com,satkarpost.com,sawalnepal.com##.banner__ads
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
 nationalpowernews.com##.banner_ads
@@ -1978,7 +1978,7 @@ dainikdeshersathe.com##.gallery_section
 dcnepal.com,khullamanch.com,makalukhabar.com##.gam-ad-position-wrap
 emailkhabar.com,khullamanch.com,nawalpurtimes.com##.gam-each-ad
 nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
-bethanchokkhabar.com,nepalpress.com##.gam-each-npad
+nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 dailynews24.in##.gb-container-553faf02
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
@@ -2152,7 +2152,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-kalikadainik.com,moolbato.com,ournewscrew.com,sadaksanchar.com,satkarpost.com,sawalnepal.com##.in__between_ads
+bethanchokkhabar.com,kalikadainik.com,moolbato.com,ournewscrew.com,sadaksanchar.com,satkarpost.com,sawalnepal.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
