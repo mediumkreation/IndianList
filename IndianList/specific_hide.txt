@@ -236,7 +236,6 @@ ajkalerkontho.com###bunyad_ads_widget-3
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
 al-ihsan.net,thattungal.com###carousel
-chouranews.com###carouselExampleControls
 cnin.co.in###carouselExampleDark
 emstv.in###ccr-right-section #sidebar-video-post img
 crimejunction.com###center-container .HTML
@@ -2422,7 +2421,7 @@ chamaktabharat.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 nayabikalpa.com##.naya-bikalpa-advertisement
-amraikhabor.com,chouranews.com##.ne-banner-layout1
+amraikhabor.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
 nepalijanta.com##.nepalijanta-ad
@@ -2669,7 +2668,7 @@ mangalorean.com##.sam-pro-ad
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
 sarabangla.net##.sb-half-page-ad
-khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
+chouranews.com,khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
 gramnagarbarta.com##.scrollable-slider
 rajshahinews24.com##.secOne-add
 deepika.com##.second-section-add
@@ -3320,6 +3319,7 @@ fourteenkerala.com##.widget.text-html
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 jagatprahari.com##.widget_728x90_advertisement
+chouranews.com##.widget_a2a_follow_widget
 loknabj.com##.widget_ads_small
 bantwalnews.com##.widget_adsforwp_ads_widget
 chautarikhabar.com,hamromat.com,pradeshdainik.com##.widget_advertisement-bar
