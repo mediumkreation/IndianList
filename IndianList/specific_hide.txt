@@ -1033,7 +1033,7 @@ andhrajyothy.com##.ad_image_desk
 bhilwarahalchal.com##.ad_level_1_before_heading
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
-dailyprovatbela.com##.ad_section
+banglanewsus.com,dailyprovatbela.com##.ad_section
 infoway24.com##.ad_section_1
 enlightnews.com##.ad_squar
 bdtimesnews.com##.ad_text_box
@@ -1593,6 +1593,7 @@ dailynayadiganta.com##.col-md-4 .row.center-block
 dailynayadiganta.com##.col-md-4 .row.margin-bottom-30
 channeldurjoy.com##.col-md-6 .add
 paschimnepal.com##.col-md-6 > img.size-full
+banglanewsus.com##.col-sm-12.mt-3 > .textwidget
 surmanews24.com##.col-sm-4 .hidden-xs
 uttarakhandpost.com##.colombiaRequestSend
 aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
