@@ -1071,7 +1071,7 @@ aajkasach.in##.add-block
 musickhabar.com##.add-bottom-margin
 vishvasnews.com##.add-box
 aajtak.in##.add-center-div
-tatkalsamachar.com##.add-container
+tatkalsamachar.com,teluguone.com##.add-container
 anandalok.in##.add-gap
 dailygazipuronline.com##.add-high
 bd24time.com,ekhansangbad.com,gnewsbd24.com,sambadsaradin.com##.add-image
