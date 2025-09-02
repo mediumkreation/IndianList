@@ -1016,7 +1016,6 @@ vijaykarnataka.com##.ad-wrapper-photo
 alorkantho24.news,bengali.timesxp.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 maharashtratimes.com##.ad1_native
 alorkantho24.news##.ad3
-naidunia.com##.ad300_1
 alorkantho24.news##.ad4
 eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
@@ -1603,6 +1602,7 @@ khabreelal.com##.colombiaonesuccess iframe
 3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
+naidunia.com##.common-ads
 bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 nepalstatus.com##.comon-ads
 manoramanews.com##.comp-ad
@@ -4088,7 +4088,6 @@ usbangla24.news##div[class*="width-ad"]
 gonews24.com##div[class="country-add"]
 livehindustan.com##div[class^="Ads_"]
 aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,punjabipost.ca,tatkalnews.com##div[class^="AdvtSample"]
-naidunia.com##div[class^="Cube_"]
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
