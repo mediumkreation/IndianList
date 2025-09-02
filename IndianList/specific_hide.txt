@@ -1149,7 +1149,6 @@ gourbarta24.com##.adds-sm
 ashakakiran.com,dhorpatannews.com,eparinews.com,gandakitimes.com,gokarneshworonline.com,pathivaradaily.com,sajhadabali.com,swadeshnepal.com##.adds_menu
 newsbhandar.com##.adds_menu img
 gandakitimes.com##.adds_taja img
-ntnews.com##.addsn
 ballialive.in##.addtoany_content + div:has(iframe)
 avikaluttarakhand.com##.addtoany_content_bottom ~ div img
 snn24.com##.addtop_header
@@ -1383,7 +1382,7 @@ raftaarindianews.com##.bannerListWidget
 bethanchokkhabar.com,satkarpost.com,sawalnepal.com##.banner__ads
 khanjahanali24.com##.banner_add_class_main
 khanjahanali24.com##.banner_add_class_right
-nationalpowernews.com##.banner_ads
+nationalpowernews.com,ntnews.com##.banner_ads
 cniasia.news##.banner_right
 desimediapoint.com##.banner_section
 aajkaaditya.in,dainikujagarkhabar.in,hapurhulchul.com##.banner_wrapper
@@ -3738,7 +3737,6 @@ canchannels.com##a[href*="chungathjewellery.com"] img
 tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
 dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,samacharnama.com##a[href*="click.htm?"][target="_blank"]
-ntnews.com##a[href*="countryoven.com"]
 primetvindia.com##a[href*="cucet.cuchd.in"]
 agaminews.com,ambalanews24.com##a[href*="daraz.com.bd"]
 deshdorpon.com##a[href*="daraz.com.bd/sepnil/"]
@@ -4043,6 +4041,7 @@ democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 kannadavani.news##div[class*="cs-banner"]
 sarkarnama.esakal.com##div[class*="customWidgetWrapper"]:not(:has(> div > div > h2))
 janpadnewslive.com##div[class*="f0f0f0"]
+ntnews.com##div[class*="gutter"]
 justnewsbd.com##div[class*="h-["]
 rtvonline.com##div[class*="h-["][class*="w-["]
 dhakapost.com##div[class*="h-[250px]"]
