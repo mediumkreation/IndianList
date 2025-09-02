@@ -966,6 +966,7 @@ abtakmedia.com,auznews24.com,businesspati.com,currentnewsdainik.com,dakhalchhatt
 jhapaonline.com##.a-wrap img
 tv36hindustan.com##.a-wrap:has(> ins.adsbygoogle)
 al-ihsan.net##.a_d-banner
+aajkaal.in##.aajkaalBook
 gyanipandit.com##.aalb-product-carousel-unit
 aapnojodhpur.com##.aapno-widget
 kushtianews24.com##.above-banner
@@ -1026,7 +1027,6 @@ maharashtratimes.com##.adCANContainer
 swalenewsbank.com##.adMark
 blastkhabar.com##.adRightSideBar
 odhikar.news##.adSlides
-aajkaal.in##.ad__full--length
 dhanamonline.com##.ad_before_level_3
 news18.com##.ad_cntainer
 andhrajyothy.com##.ad_image_desk
@@ -3156,6 +3156,7 @@ namasteandhra.com##.three_ads
 ourislam24.net##.ti-ads
 netmalayalam.com##.tigDiv
 khabarhub.com##.title-top section
+aajkaal.in##.title__div-sm:has(+ .aajkaalBook)
 pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 hamdardmediagroup.com,janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
@@ -3658,6 +3659,7 @@ dailyamardesh.com##[class*="w-[320px]"]
 sathyadeepam.org##[class*="widget-m__customWidgetWrapper__"]
 vtvgujarati.com##[class="hidden xmd:block"]
 pratidhvani.com##[class^="ad-service"]
+aajkaal.in##[class^="ad__"]
 beanibazarnews24.com##[class^="add-"]
 sirfsach.in##[class^="adsbox"]
 samayahub.com##[class^="charity"]
