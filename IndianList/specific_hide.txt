@@ -3490,6 +3490,7 @@ nationalfrontier.in,rainbownews.co.in,sansanisurag.com,twnews.in##.wp-block-embe
 24hrnews.in##.wp-block-embed-youtube
 badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,panchakoshitimes.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
+justmuz.com##.wp-block-group:has(> p.has-text-align-center:first-child)
 banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in,taza-khabar.com##.wp-block-image
 gulfbangla.com##.wp-block-image > figure
 ujyalokhabar.com##.wp-block-image figure
