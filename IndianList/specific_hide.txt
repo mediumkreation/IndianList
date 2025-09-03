@@ -3179,6 +3179,7 @@ hamrokhelkud.com##.top-income-source-wrapper
 lionexpress.in##.top-left-add
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
+telugutimes.net##.top-news-bar
 googlepokhara.com##.top-news-sidebar-ads
 radiokanchan.com.np##.top-right-ads
 shatabdinews.com##.topAdv
@@ -3200,7 +3201,7 @@ specialcoveragenews.in##.top_level_1
 nrimalayalee.com##.top_most_news_post_ad
 abnews24.com,alokitobangladesh.com##.top_new_add
 bojrokontho.com,gujarattimesusa.com,nepaljapansamaj.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
-kulalaworld.com,kulalworld.com##.topadd
+kulalaworld.com,kulalworld.com,telugutimes.net##.topadd
 rosemalayalam.com##.topaddno
 mediavision.news##.topaddsctn
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
