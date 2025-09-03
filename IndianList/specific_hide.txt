@@ -3571,6 +3571,7 @@ anweshanam.com,arthosuchak.com,atharvnews.com,budaunamarprabhat.com,indootimes.c
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 aadarshhimachal.com,delhicrimepressnews.com,parichaya.com##.wpb_content_element img
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
+panchjanya.com##.wpb_content_element video
 kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 canchannels.com##.wpb_gallery_slides
