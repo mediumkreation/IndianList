@@ -47,6 +47,7 @@
 /ads.jpg|$domain=natunsomoy.net
 /Ads/*$domain=bd-journal.com
 /ads/*$domain=bdrtnn.net|dainikdristipat.com|dharitri.com|jugantor.com
+/Ads/*$domain=dailykesari.com
 /adss/*$domain=tharunaya.us
 /Adv/*$domain=dakhal.net
 /Adv1^$domain=cnin.co.in
@@ -91,7 +92,6 @@
 ?add.gif|$domain=narayanionline.com
 ?final*.gif|$domain=narayanionline.com
 @@-advertisement.$domain=newswaves.org
-@@/content/ads/*$domain=dailykesari.com
 @@favicon.ico|
 @@||abnews24bd.com/ad/1723863238.jpg
 @@||anweshanam.com/static/ad/commons/js/3445/colombia_v11.js
