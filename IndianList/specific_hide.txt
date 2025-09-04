@@ -137,6 +137,7 @@ nalandalive.com###bdaia-widget-html-5
 lokmat.com,lokmatnews.in###beforehead
 jalorenews.com###bellow-header-widget
 newscg11.com###below-header
+andhrajyothy.com###belowArticleBodyAdsDiv
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 bankbimaarthonity.com###bg-for-bba-ad
@@ -1028,7 +1029,6 @@ blastkhabar.com##.adRightSideBar
 odhikar.news##.adSlides
 dhanamonline.com##.ad_before_level_3
 news18.com##.ad_cntainer
-andhrajyothy.com##.ad_image_desk
 bhilwarahalchal.com##.ad_level_1_before_heading
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
