@@ -1377,6 +1377,7 @@ khabarhub.com##.banner-widget
 bhnnews.com##.banner-wrap img
 banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
+manoramaonline.com##.bannerImage
 raftaarindianews.com##.bannerListWidget
 bethanchokkhabar.com,satkarpost.com,sawalnepal.com##.banner__ads
 khanjahanali24.com##.banner_add_class_main
