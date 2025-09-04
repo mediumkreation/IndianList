@@ -2485,6 +2485,7 @@ newskranti.com##.ob-cards
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 priyo.com##.offer_grid
 oneindia.com,tamil.filmibeat.com##.oi-adblock
+oneindia.com##.oi-sponsored-by-wrap
 tamil.mykhel.com,tamil.oneindia.com##.oiad
 newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.ok-full-widht-adv
@@ -3678,6 +3679,7 @@ divyamarathi.bhaskar.com##[id*="_ad_"]
 esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
+oneindia.com##[id^="are-slot"]
 gtamilnews.com,tamilscreen.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
