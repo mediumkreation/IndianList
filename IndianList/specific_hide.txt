@@ -2309,7 +2309,7 @@ cgnewsonline.com##.main-sidebar .widget_block
 bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 maalaimalar.com##.main-wrapper:not(.news-details-page) div:has(> div > [id^="div-gpt-ad-"])
-malayalam.news18.com##.mainAds_contnr
+malayalam.news18.com,news18marathi.com##.mainAds_contnr
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 hindustanvision.com##.main_header .ws_images
 fastnewsbd.com##.mainadvert
@@ -2356,7 +2356,7 @@ dhakareport24.com##.mid-add
 samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
 pokharaexpress.com##.mid-header .navbar-nav img
-malayalam.news18.com##.mid-taboola
+malayalam.news18.com,news18marathi.com##.mid-taboola
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 cricket97.com##.middle-add
