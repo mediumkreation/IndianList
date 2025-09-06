@@ -1013,7 +1013,7 @@ news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 vikatan.com##.ad-top-bottom-space
 abplive.com##.ad-wrapper-leaderboard
-vijaykarnataka.com##.ad-wrapper-photo
+navbharattimes.indiatimes.com,vijaykarnataka.com##.ad-wrapper-photo
 alorkantho24.news,bengali.timesxp.com,enlightnews.com,gujarati.economictimes.com,indiatimes.com,maharashtratimes.com,saaravita.lk,uttaranews24.com##.ad1
 maharashtratimes.com##.ad1_native
 alorkantho24.news##.ad3
@@ -1281,7 +1281,7 @@ bdipo.com##.advertisements
 newsplus24x7.com##.advertising
 aapkikhabar.com,anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,publicnewstv.in,upuklive.com,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
-iamgujarat.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
+iamgujarat.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
 tulsipurkhabar.com##.advetisement
 onlinedabali.com##.advls
 deepika.com##.advrt-container
@@ -1335,7 +1335,7 @@ newsatfirst.com##.aside-add
 dinamani.com,kalkionline.com,kannadaprabha.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
 awaazbd.us,deshabhimani.com##.aspect-square
-gujarati.economictimes.com,iamgujarat.com,maharashtratimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
+gujarati.economictimes.com,iamgujarat.com,maharashtratimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 banglatribune.com##.aunqur img
 loginkerala.com##.author-widget
@@ -2436,7 +2436,6 @@ banglapostbd.com##.news-ad-container
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 maharashtratimes.com##.news-advertorial
-navbharattimes.indiatimes.com##.news-card.eoa-deals
 indiatimes.com,vijaykarnataka.com##.news-card:has(.ad1)
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
@@ -3167,7 +3166,7 @@ aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
 telugutimes.net##.top-ads-banner
 manoramaonline.com##.top-advt-block
-marathi.indiatimes.com,samayam.com##.top-atf-wrapper
+marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com##.top-atf-wrapper
 rajtimes24.com,sangbadprotidin.com##.top-banner
 jamalpurlive.com##.top-bar
 ekuruvi.com##.top-bar-left-nav
