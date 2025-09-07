@@ -935,6 +935,7 @@ khabreaajtaklive.com##.HTML:has([alt="Image"])
 preyopathok.com##.Hero-ads
 preyopathok.com##.Hero-ads-banner
 thinkwithniche.in##.Home-seo-add-sidebar-bigborder
+asianetnews.com##.HometopAd
 yarldevinews.net##.Image
 mithimedia.in##.Image.widget
 khabarpahad.com##.InArtilce-AdSlot01
@@ -2372,6 +2373,7 @@ industrialpunch.com##.ml-slider:not(#metaslider-id-53525)
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
+asianetnews.com##.mobiletopad
 prameyanews7.com##.modal
 capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 nepalipatra.com,onlinerapti.com##.modal-body
