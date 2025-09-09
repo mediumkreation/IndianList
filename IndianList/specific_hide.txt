@@ -136,7 +136,7 @@ nalandalive.com###bdaia-widget-html-4
 nalandalive.com###bdaia-widget-html-5
 lokmat.com,lokmatnews.in###beforehead
 jalorenews.com###bellow-header-widget
-newscg11.com###below-header
+eveningkerala.com,newscg11.com###below-header
 andhrajyothy.com###belowArticleBodyAdsDiv
 kusenews.com###belowflash
 kusenews.com###belowmainnews
@@ -2825,7 +2825,6 @@ prajamantalu.com##.site-header .htmlwidget
 ukhiyanews.com##.site-header ~ .bg
 entertainmentkhabar.com,googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,panchakoshitimes.com,samabesi.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
-eveningkerala.com##.site-heading-sidebar
 saunewsnetwork.com##.site-main .widget_media_image
 panchayattimes.com##.site-wrap .elementor-widget-image
 nepalmamila.com##.siteContent > p a img
