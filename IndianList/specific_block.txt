@@ -63,7 +63,7 @@
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=lokpati.com|madhyanhadaily.com|nattuvartha.news|techvoice24.com
 /advertisementimages/*$domain=jagonarsingdi24.com
-/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|sangbadsarabela.com|telugutimes.net|thahapati.com|timesofpradesh.com
+/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|newsfirst.lk|sangbadsarabela.com|telugutimes.net|thahapati.com|timesofpradesh.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
