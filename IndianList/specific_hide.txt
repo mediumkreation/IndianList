@@ -365,6 +365,7 @@ keralaviews.com###header-widgets
 lokmat.com,lokmatnews.in###headerBanner
 tamil.goodreturns.in###headerBannerPromo
 specialcoveragenews.in###header_ad_mobile
+uttarbangasambad.com###header_custom_ad
 livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
