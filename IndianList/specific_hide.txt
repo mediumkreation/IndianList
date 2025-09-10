@@ -2499,6 +2499,7 @@ telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
 himalayapost.com##.otw-sidebar .widget_text
 maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
+hindi.news18.com##.outsreamAd
 banglatribune.com##.overayFeaturedImage
 bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
 24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
