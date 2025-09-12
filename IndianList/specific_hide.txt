@@ -70,7 +70,7 @@ nepalmother.com###Image39
 battimedia.lk,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newmannar.lk,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,newmannar.lk,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
-adminmedia.in,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
+adminmedia.in,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,saghatanews.com,singhamnewstv.in,thattungal.com###Image7
 nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
 chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
@@ -134,6 +134,7 @@ cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
 nalandalive.com###bdaia-widget-html-5
+saghatanews.com###before-ad
 lokmat.com,lokmatnews.in###beforehead
 jalorenews.com###bellow-header-widget
 eveningkerala.com,newscg11.com###below-header
