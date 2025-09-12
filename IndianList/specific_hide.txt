@@ -256,7 +256,6 @@ hindikhabar.com###content .widget_block:not(#block-62)
 rajasthancoverage.com###content .widget_custom_html
 nobokontho.com,suddikanaja.com###content .widget_media_image
 panchakoshitimes.com###content .widget_sp_image
-dmoitry.com###content .widget_text
 swadeshbani.com###content .widget_text img
 kabirkiawaz.in###content .widget_text:not(#text-8)
 legalvoice24.com###content > .widget_text
@@ -812,7 +811,7 @@ aajkiawaaz.com,barisaltoday.com,bdtodays.net,brajpatrika.com,cgmitan.com,chakari
 hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 bdmetronews24.com###text-71
 mbmnewsnetwork.com###text-74
-dainikchintak.com,dmoitry.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
+dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 bograsangbad.com,cgmitan.com,himalayauk.org,himshimlalive.com,jagprerna.com,kuberbhoomi.com,meherpurpratidin.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
 bharatsamachartv.in###text-html-widget-14
 akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
@@ -1538,7 +1537,7 @@ chetaktimes.com##.cheta-before-content
 tamilmithran.com##.cine_ad
 citynewsrajasthan.com##.cityn-adlabel
 newsuperbharat.com##.click-zoom
-24jetnews.com##.cm-125x125-advertisement-widget
+24jetnews.com,dmoitry.com##.cm-125x125-advertisement-widget
 amarsandesh.com##.cm-beside-slider-widget
 dakhinanchal.com,poojanews.com##.cm-content .widget_media_image
 thirdeyetoday.com##.cm-entry-summary > h2 > img
@@ -3457,7 +3456,7 @@ jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
 sirajganjnews24.com##.widget_text code
 thejoharnews.com##.widget_text iframe[title]
-barishaltimes.com,bekhaufkhabar.com,cgmitan.com,dharitri.com,prothomshomoy.com,punjablivenews.in,skyhawktimes.com,swaviman.com##.widget_text img
+barishaltimes.com,bekhaufkhabar.com,cgmitan.com,dharitri.com,dmoitry.com,prothomshomoy.com,punjablivenews.in,skyhawktimes.com,swaviman.com##.widget_text img
 bartakontho.com##.widget_text img:not([src*="Captureeeebbbb.jpg"])
 anubhaviaankhennews.com##.widget_text p
 ctgdailynews24.com##.widget_text.widget_area
