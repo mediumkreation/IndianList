@@ -3001,7 +3001,7 @@ yespunjab.com##.td-is-sticky .td-a-rec img
 digitalmalayali.com##.td-is-sticky .tdm_block
 tejastoday.com##.td-main-content .tdb-block-inner
 tejastoday.com##.td-main-content h3 img
-aviratvaatchal.com,bdsangbadmela.com,biswabanglanews.com,ccnnews24.in,mahaxpress.com,watnopaarpunjabinews.com##.td-main-content-wrap .td-a-rec
+aviratvaatchal.com,bdsangbadmela.com,ccnnews24.in,mahaxpress.com,watnopaarpunjabinews.com##.td-main-content-wrap .td-a-rec
 dainikchattogram.net##.td-main-content-wrap .td-a-rec img
 citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 manvadhikarabhivyakti.com##.td-main-content-wrap .td-a-rec:has(> div > div > h4.block-title)
@@ -3075,7 +3075,6 @@ ctgnews.com##.tdi_78
 deshajtimes.com##.tdi_79
 deshajtimes.com##.tdi_81
 samayviews.com##.tdi_86
-biswabanglanews.com##.tdm-popup-modal-wrap
 annapurnatimes.com##.tdm_block
 mekhadooth.com,sindhudurgsamachar.in,techvision24.com##.tdm_block img
 71newstoday.com##.tdm_block.tdm-content-horiz-left
@@ -3500,6 +3499,7 @@ pragatitimes.com##.wp-block-image:has(> .wp-image-318)
 pragatitimes.com##.wp-block-image:has(> .wp-image-417)
 hnexpress.co.in##.wp-block-jetpack-slideshow
 theinternalnews.co##.wp-block-jetpack-tiled-gallery
+biswabanglanews.com##.wp-block-ultimate-post-image
 chamaktabharat.com,pplnews.in##.wp-custom-header
 udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
