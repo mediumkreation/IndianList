@@ -1497,6 +1497,7 @@ keralafinance.com##.brdbt.stock
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
 aarushikhabar.com##.brx-popup
 probashtime.net##.brx-popup-content a.brxe-image img
+simpaninews.com##.brxe-section.brx-animated
 navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
