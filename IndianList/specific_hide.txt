@@ -1253,7 +1253,7 @@ nobat.com##.advertise-ifrme
 paryatanbazar.com,shyamalsylhet.net##.advertise-section
 socialvikassamachar.com##.advertise-widget-box
 farakkon.com##.advertise-widgets
-khabarmala.com,nepalmamila.com##.advertiseImage
+nepalmamila.com##.advertiseImage
 udayavani.com##.advertise_container
 sylhetbarta24.com##.advertise_image
 dinajpurnews24.com,news71.tv##.advertise_part
