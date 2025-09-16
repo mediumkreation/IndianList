@@ -437,7 +437,7 @@ todaybiharnews1.wordpress.com###media_gallery-41
 todaybiharnews1.wordpress.com###media_gallery-43
 goodmorningindia.net###media_image-1
 a2znewslive.com,bijoynewsbd24.com,dailynewshindi.com,dhakardak-bd.com,fairnepal.com,kalkudahnation.com,lokatantraonline.com,magahinews.com,news21live.in,parbatyachattagram.com,starexpress.news,thehindkeshari.in###media_image-10
-palampuronline.com###media_image-11
+banijjoprotidin.com,palampuronline.com###media_image-11
 bbttimes.com,capitalnews.lk,dainikmaharajganj.in,kalkudahnation.com,manzilnews.in,samajeralo.com###media_image-12
 a2znewslive.com###media_image-13
 indianow24.com###media_image-14
@@ -455,7 +455,7 @@ ggsnews24.com,pabnabarta24.com,tahalka24x7.com,voiceofbihar.in###media_image-26
 cgimpact.org,dhamakachhattisi.in,ggsnews24.com,madhyabhoomikeboal.com###media_image-27
 ggsnews24.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-amritvarshanews.in,ayushindianews.com,cgbreaking.in,dainikkhojkhabar.live,darpansamachar.com,dharuvu.com,fbdnews.com,fenirzamin.com,globalsylhet.com,hadapsarexpress.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sankeerthanam.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
+amritvarshanews.in,ayushindianews.com,banijjoprotidin.com,cgbreaking.in,dainikkhojkhabar.live,darpansamachar.com,dharuvu.com,fbdnews.com,fenirzamin.com,globalsylhet.com,hadapsarexpress.com,hindiduniyaa.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,khabardinbhar.net,khabromehamarashahar.com,knewsgujarati.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,opensearch.co.in,pahar24.com,pradeshdainik.com,sandhannews.com,sankeerthanam.com,sasthabangla.com,sudarshankhabar.com,thebharatexpress.com,theblastkhabar.com,updatenownews.com###media_image-3
 cg24x7.news,cgnews24x7.wordpress.com,satkarpost.com,starbanglanews.net,ujjwalpradesh.com###media_image-31
 starbanglanews.net,ujjwalpradesh.com###media_image-32
 voiceofbihar.in###media_image-36
@@ -3957,6 +3957,7 @@ lokmatnews.in##div:has(> [id^="div-gpt-ad"])
 shortheadlines.com##div:has(> [id^="div-gpt-ad"]:only-child)
 ajkerpatrika.com,lokmat.com##div:has(> [id^="div-gpt-ad-"])
 samayduniya.com##div:has(> a > div > .pd_title)
+banijjoprotidin.com##div:has(> a >img.size-full)
 haal.fashion##div:has(> div > .dfp-ad-unit)
 deshabhimani.com##div:has(> div > div > .adsbygoogle)
 maitrinews.com##div:has(> div > div > .bsaProContainerNew)
