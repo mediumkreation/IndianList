@@ -3964,6 +3964,7 @@ indotimes.com.au##div:has(> div > p > ins.adsbygoogle)
 atalhind.com##div:has(> div > p >.adsbygoogle)
 momainews.com##div:has(> div > span[name="adchoicehtml"])
 newscreation.in##div:has(> div[class$="-content"] > [class*="banner"])
+eisamay.com##div:has(> div[class*="widget-m__"]):not([class^="text-story"])
 indiatimes.com,vijaykarnataka.com##div:has(> div[data-native-ad])
 andhrajyothy.com##div:has(> div[id*="-ad-"])
 bhaskar.com##div:has(> div[id^="Ad--"])
@@ -4227,6 +4228,7 @@ chhattisgarhprimetime.com##div[id^="chhat-"]
 shikshajagatkiawaz.in##div[id^="cycler"]
 dainikbharat24.com##div[id^="daini-"]
 damrua.com##div[id^="damru-"]
+eisamay.com##div[id^="div-gpt-ad"] + div[style^="width:300px; height:250px;"]
 dailyjanakantha.com##div[id^="div-gpt-ad-"]
 doabatimes.com##div[id^="doaba-"]
 dolphintimes.in##div[id^="dolph-"]
