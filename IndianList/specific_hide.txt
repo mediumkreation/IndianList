@@ -2455,6 +2455,7 @@ jharkhandvani.in##.newsever-widget .textwidget
 newshomelive.co.in##.newsh-after-content_5
 expressindian.co.in##.newshit-header-ads-wrapper
 newskannada.com##.newsk-content
+alertstarnews.com##.newsletter
 satyagrahanews.in##.newsmatic-advertisement-block
 bishwanathbd24.com##.newspaper-advertisement
 daktimesnews.com##.newsphere-widget.widget_text:not(#text-5)
