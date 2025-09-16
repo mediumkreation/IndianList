@@ -1495,8 +1495,7 @@ watansamachar.com##.boxnewsAD:has(img)
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
-aarushikhabar.com##.brx-popup
-probashtime.net##.brx-popup-content a.brxe-image img
+aarushikhabar.com,probashtime.net##.brx-popup
 simpaninews.com##.brxe-section.brx-animated
 navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
@@ -3688,6 +3687,7 @@ gnttv.com,ibctamil.com##[tbl-feed-card]:has(.trc-content-sponsored)
 rtvonline.com##[title="Reachable Ads"]
 sunnews24x7.com##a .adv-vload
 sylhetprothidin24.com##a > img.img-responsive
+probashtime.net##a.brxe-image
 keralaonlinenews.com##a.disabled
 newstodaynetwork.com##a.disabled img
 adiyakkamangalam.com##a.external
