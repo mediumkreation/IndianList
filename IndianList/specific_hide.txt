@@ -3160,6 +3160,7 @@ dishadaily.com##.to-be-async-loaded-ad#after_related_post
 kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bengali.indianexpress.com##.top-ad-height .tbl-feed-card:has(.trc-content-sponsored)
 bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
+kolomerkotha.com##.top-add-img
 thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
@@ -4447,7 +4448,8 @@ trttamilolli.com##img[alt="SAT"]
 enews71.com##img[alt="Side banner"]
 eyenewsbd.com##img[alt="ad image"]
 knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
-dailyrangpur.com,dinajpur24.com,nobojagorontv.com##img[alt="ad728"]
+kolomerkotha.com##img[alt="ad300"]
+dailyrangpur.com,dinajpur24.com,kolomerkotha.com,nobojagorontv.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
 e24bollywood.com##img[alt="add image"]
 dailysokalersomoy.com##img[alt="ads Image"]
