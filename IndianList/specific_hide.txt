@@ -4119,6 +4119,7 @@ anytechtune.com##div[class^="contentadd-"]
 deshajtimes.com##div[class^="desha-"]
 telugu.oneindia.com##div[class^="discounts-"]
 rajyasameeksha.com##div[class^="display-area"]
+bongnews24x7.com##div[class^="gb-element"]:has(> ins.adsbygoogle)
 kungumam.co.in##div[class^="google-"]
 gramintimes.com##div[class^="grami-"]
 samacharfirst.com##div[class^="home-adright"]
