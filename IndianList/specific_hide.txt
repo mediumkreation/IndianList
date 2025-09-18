@@ -374,7 +374,7 @@ bhopalsamachar.com,uttarakhandhindinews.in###home-ads
 alokitokhobor.com,kalerkotha.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
-apkhabar.com,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np,radiobihani.org###homeads
+apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np,radiobihani.org###homeads
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
@@ -1652,6 +1652,7 @@ pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 keralakaumudi.com##.cs-sec-feat-title
 indiapolkhol.in##.ct-header-text
+fonijkorea.net##.ctUp-ads
 10tv.in##.cust-ads
 shasakprashasak.com##.custom img
 arthasarokar.com##.custom-ad-link
