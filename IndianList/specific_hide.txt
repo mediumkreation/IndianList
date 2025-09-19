@@ -2068,6 +2068,7 @@ univarta.com##.header_bottom_ad
 bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
 fenirkotha.com,natuncumilla.com##.header_date_sidebar
 lalkhabar.com,murchungatv.com##.header_img
+nepalparikrama.com##.header_img_banner
 quicknewsbd.com##.header_section div > img
 banglanewsca.com##.header_top_ad_area_2
 deshrupantor.com##.header_top_ad_code
@@ -3195,6 +3196,7 @@ dailyjonomot.com##.top_ads2
 weunetwork.in##.top_ads_2
 shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
+nepalparikrama.com##.top_banner
 aapninews.in,rochakkhabare.com##.top_dd
 ni24news.com##.top_index_block_adnow
 specialcoveragenews.in##.top_level_1
