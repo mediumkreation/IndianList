@@ -3084,6 +3084,7 @@ trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 aashanews.com##.text-4
 samakal.com##.text-body-ad
+news71online.com##.text-center .size-full
 sajhasabal.com##.text-center iframe
 alokitokhobor.com##.text-center.mt-3 img:not([src*="epapar.jpg"])
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
