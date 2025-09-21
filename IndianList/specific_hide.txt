@@ -1436,7 +1436,7 @@ baahrakhari.com,dekhapadhi.com##.bigyaapan-section
 barnanmedia.com,merofilm.com##.bigyapaan__section
 annapurnapost.com,canadanepal.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 avenues.tv,barnanmedia.com,ekagaj.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
-janatapati.com,janatasamachar.com,khelpati.com##.bigyapan-box
+janatapati.com,janatasamachar.com##.bigyapan-box
 corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
 ratokalam.com##.bigyapan-margin-btm
@@ -4004,6 +4004,7 @@ odishareporter.in##div[class$="0-ad"]
 ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
 metrovaartha.com##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
+khelpati.com##div[class*=" h-[20px]"]:has(> a)
 dishadaily.com##div[class*="-ad-"]
 epaper.karavaliale.net,epaper.punyanagari.in##div[class*="-ads-"]
 epaper.kannadajanantaranga.in##div[class*="-ads-container"]
@@ -4436,6 +4437,7 @@ deshsanchar.com,golmalnews.com##img.alignnone.size-full
 onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
+khelpati.com##img[alt$=" Ad"]
 jagratilahar.com##img[alt*=" Ad Image"]
 pksnews24.com##img[alt*=" Ad-"]
 bebakshakti.com##img[alt*="AD "i]
