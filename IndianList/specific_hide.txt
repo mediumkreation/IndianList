@@ -943,6 +943,7 @@ nellaionline.net,tutyonline.net##.MR300250
 newsdustak.com##.Matter-Bottom-Add
 newsdustak.com##.Matter-Top-Add
 dinamalar.com##.MuiBox-root:has(> div > .adunitContainer)
+hindusthansamachar.in##.NewClass .slides
 hindusthansamachar.in##.NewClass iframe
 keraleeyammasika.com##.NewRow img
 tutyonline.net##.R300100
