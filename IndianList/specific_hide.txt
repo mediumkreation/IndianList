@@ -4011,6 +4011,7 @@ gandaknews.com##div[class*="-shortcode-"]
 cvoice24.com##div[class*="DContentAdd"]
 hindi.news18.com##div[class*="Had300x250 "]
 news18.com##div[class*="Header_inner_ad"]
+ittefaq.com.bd##div[class*="Ittefaq_" i]
 sadaksanchar.com##div[class*="__ads"]
 ournewscrew.com##div[class*="__ads"]:not([class*="top__header__ads"])
 ctgtimes.com,globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
