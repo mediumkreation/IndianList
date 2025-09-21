@@ -4417,6 +4417,7 @@ boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 dainiksylhet.com##header .textwidget img
 khabor.com##header a[href*="/click-"]
 hindifiber.com#?#.gb-container:-abp-contains(Advertisement)
+hindulive.com#?#div:has(> .gb-text:-abp-contains(Advertisement))
 horizonhind.com#?#div > h2:-abp-contains(Google Ads)
 horizonhind.com#?#strong:-abp-contains(ABS Hospital)
 horizonhind.com#?#strong:-abp-contains(Vijay Bakery)
