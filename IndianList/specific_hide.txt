@@ -801,16 +801,17 @@ oneindia24live.com###text-55
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,brajpatrika.com,clearnews.live,dailypunjabtimes.com,hbharat.com,jagprerna.com,janadhikarmedia.com,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,news129.com,nnews24.com,shreekanchanpath.com,siwanbazar.com###text-6
+avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdlawnews24.com,bdtodays.net,brajpatrika.com,clearnews.live,dailypunjabtimes.com,hbharat.com,jagprerna.com,janadhikarmedia.com,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,news129.com,nnews24.com,shreekanchanpath.com,siwanbazar.com,sylhetnewsbd.com###text-6
 punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 chandpurtimes.com###text-67
 bigkhabar.com###text-69
 aajkiawaaz.com,barisaltoday.com,bdtodays.net,brajpatrika.com,cgmitan.com,chakarianews.com,ekhansangbad.com,hastakshep.com,indiawarta.com,jagprerna.com,jhanjhattimes.com,kalmunainet.com,lenseyenews.com,manikganj24.com,nrsewa.com,scnnewsindia.com,whitemirchi.com,youngorganiser.com###text-7
+sylhetnewsbd.com###text-7 .size-full
 hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 bdmetronews24.com###text-71
 mbmnewsnetwork.com###text-74
-dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
+dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,sylhetnewsbd.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 bograsangbad.com,cgmitan.com,himalayauk.org,himshimlalive.com,jagprerna.com,kuberbhoomi.com,meherpurpratidin.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
 bharatsamachartv.in###text-html-widget-14
 akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
@@ -1191,6 +1192,7 @@ londonnepalnews.com##.ads-style1
 punalurnews.com##.ads-widget-sec
 ndtv.in##.ads-wrp
 dailyolamakantho.com,tbcgzb.in,welcomeindianews.com##.ads160_600-widget
+sylhetnewsbd.com##.ads300_100-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
 ctgbarta24.com##.ads728x90-thumb
@@ -1963,6 +1965,7 @@ bidurkhabar.com,samadhannews.com##.full-bann
 safalkhabar.com##.full-banner
 nepalsamaya.com,prabhabonline.com##.full-bigyaapan
 baahrakhari.com,capitalnepal.com,khelpati.com,nepallive.com##.full-bigyapan
+sylhetnewsbd.com##.full-site > .container .widget_media_image
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
 anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,nawayug.com,sajhakuranews.com##.full_ad_section
