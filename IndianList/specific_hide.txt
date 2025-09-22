@@ -948,6 +948,7 @@ hindusthansamachar.in##.NewClass .slides
 hindusthansamachar.in##.NewClass iframe
 keraleeyammasika.com##.NewRow img
 tutyonline.net##.R300100
+enews71.com##.ReactModalPortal
 bharatsamachartv.in##.RightCont iframe
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
@@ -3294,6 +3295,7 @@ karmalamadhanews24.com,tnilive.com##.vmagazine_lite_medium_ad
 janatatimes.com,namasteholland.com,vaarte.com,varthatrivandrum.com##.vmagazine_medium_ad
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
+enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
 indiainside.org##.w3-section
@@ -4444,6 +4446,7 @@ bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
 khelpati.com##img[alt$=" Ad"]
 jagratilahar.com##img[alt*=" Ad Image"]
 pksnews24.com##img[alt*=" Ad-"]
+enews71.com##img[alt*="/ads/"]
 bebakshakti.com##img[alt*="AD "i]
 kayakairan.com##img[alt*="Chitwan"]
 jagratilahar.com##img[alt*="banner"]
@@ -4462,7 +4465,6 @@ onlinemarg.com##img[alt="Header Ad"]
 ajkersylhet.com##img[alt="Jainta Barta Local Ad"]
 talashbangla.com##img[alt="Page Add"]
 trttamilolli.com##img[alt="SAT"]
-enews71.com##img[alt="Side banner"]
 eyenewsbd.com##img[alt="ad image"]
 knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
 kolomerkotha.com##img[alt="ad300"]
