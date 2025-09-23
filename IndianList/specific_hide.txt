@@ -3288,6 +3288,7 @@ bhnnews.com##.video-ad
 indianewscentre.in##.video-container
 voiceofnarayanganj24.com##.video-gallery-box
 girlsglobe.in##.video-widget
+awaaz24x7.com##.video-wrap-three
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
 sadamoga.com##.view-ads-all-blocks
