@@ -954,7 +954,7 @@ enews71.com##.ReactModalPortal
 bharatsamachartv.in##.RightCont iframe
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
-mahamtb.com##.Special-Embed-Code-2
+mahamtb.com,tarunbharat.net##.Special-Embed-Code-2
 kamadenu.hindutamil.in##.Stickyads
 livehindustan.com##.StoryPage_tabooWrp__NKSGA
 news18.com,news18marathi.com##.TABOOLA
@@ -1473,6 +1473,7 @@ newswayanad.in##.blockspare-blocks
 magadhexpress.in##.blockspare-cta-wrapper
 akhandbharatsamachar.com##.blog-posts marquee ~ :not(div)
 dailynewsj.online##.blog-sidebar .widget_custom_html
+tarunbharat.net##.blueimp-gallery
 canadamirror.com,ibctamilnadu.com,lankasri.com,manithan.com##.blurb
 jvpnews.com##.blurb img
 ekaainabharat.com,maloutlive.com,mycitydilse.com,sangritimes.com##.bn-content
