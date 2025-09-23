@@ -1006,7 +1006,6 @@ edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 nayapage.com##.ad-on-middle-content
-dinajpurtv.com##.ad-part
 ap7am.com##.ad-pvt
 khabardabali.com##.ad-row-container
 nepalsandesh.com##.ad-sec
@@ -4053,6 +4052,7 @@ hipamat.com##div[class*="advertise"]
 newsphalasia.com##div[class*="advertise_space"]
 arthasansar.com,janaboli.com,pokharanews.com,tulsipurkhabar.com##div[class*="advertisement"]
 banglamail.news,prime9news.com##div[class*="banner"]
+dinajpurtv.com##div[class*="banner-"]
 nabaz-e-punjab.com##div[class*="bdaia-p-"]
 dainikshiksha.com##div[class*="biggapon"]
 kathmandupress.com##div[class*="bigyaapan"]
