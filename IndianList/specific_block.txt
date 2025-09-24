@@ -25,7 +25,6 @@
 -ADV-$domain=brtnepal.com
 -adv.png$domain=todayexpressnews.com
 -advert.jpg|$domain=samakalam.com
--ADVT.jpg|$domain=attingalvartha.com
 -bannar.jpg|$domain=kurigramlive.com
 -banner$domain=udayasooriyan.lk
 -Banner.gif$image,domain=sajhatv.com
