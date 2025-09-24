@@ -120,7 +120,7 @@ newsnib.in###advertisement
 elettilonline.com###after-ad
 alakhharyana.com,lokpatrika.in###ai_widget-2
 spnewsworld.com###amazonautolinks_widgetbyid-2
-inextlive.com,punjabijagran.com###aniview
+inextlive.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
 bonikbarta.com###article-middle2
 lokmatnews.in###articlePageBanner
@@ -1218,6 +1218,7 @@ shamolbangla24.com##.adsp
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
 hindutamil.in##.adsplacement
 amarsandesh.com##.adss_banner
+punjabijagran.com##.adssbottom
 saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
 sakshi.com##.adtext
