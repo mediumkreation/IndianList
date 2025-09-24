@@ -481,7 +481,7 @@ bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakar
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,hindustanheadlines.in,khabardinbhar.net,lokatantraonline.com,odishalink.com,starexpress.news,tamilnewsstar.com,thehindkeshari.in,vatankiawaz.in,visfotnews.com###media_image-9
-khabaribn7.com,smj24.com###media_video-1
+smj24.com###media_video-1
 derbykhabar.com###media_video-16
 derbykhabar.com,newzstudio.com###media_video-17
 derbykhabar.com###media_video-18
@@ -2303,7 +2303,7 @@ bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
 71sangbad.com##.m_none > a[target="_blank"]
 newsplus21.com##.maan-breadcrumbs
 newsplus21.com##.maan-mid-bar
-angulonline.com,irinjalakudalive.com,makkalmurasu.com,sabsach.in,sansanisurag.com,thekeralapost.com,themenews24.com##.mag-adver-part
+angulonline.com,irinjalakudalive.com,khabaribn7.com,makkalmurasu.com,sabsach.in,sansanisurag.com,thekeralapost.com,themenews24.com##.mag-adver-part
 mahasarkar.co.in##.mahas-widget
 odia-ray.in##.main .bannergroup
 telugupost.com##.main .to-be-async-loaded-ad:not(.details_left_level_6)
