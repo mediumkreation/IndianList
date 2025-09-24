@@ -3045,7 +3045,7 @@ bhaiyajinews.com##.td-ss-main-sidebar .td-a-rec
 kannadanet.com##.td-ss-main-sidebar .td_block_image_box
 boltauttarakhand.com,news27.org,torrongonews.com,vartavani.com##.td-ss-main-sidebar .widget_block
 hugujarati.in,khabarbhatapara.in,newsofmithila.in,odiapua.com,sarthaksamay.com,shadhinalo.com,trendingnewsindia.in,ucchakontha.com##.td-ss-main-sidebar .widget_custom_html
-akkbd.com,brajeshkibaat.com,dainikbharatbhaskar.com,ptcnews.tv,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
+akkbd.com,brajeshkibaat.com,dainikbharatbhaskar.com,sylhetvoice.com##.td-ss-main-sidebar .widget_media_image
 uttarakhandnews24.com##.td-ss-main-sidebar .widget_media_video
 saamana.com,tamilyugam.in##.td-ss-main-sidebar .widget_text
 thebharatnews.net##.td-ss-main-sidebar > .widget_text
@@ -3621,7 +3621,6 @@ bdcrictime.com,dailybanglarrup.com,vaartavali.com##.wpb_wrapper .vc_raw_html
 awazlive.com##.wpb_wrapper .wpb_single_image
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 dailypurbodesh.com##.wpb_wrapper > p:has(> ins.adsbygoogle)
-ptcnews.tv##.wpb_wrapper aside.widget_media_image
 newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 karnaliheadlines.com##.wpb_wrapper:has(> .td_block_big_grid_3)
