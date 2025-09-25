@@ -343,7 +343,7 @@ gtamilnews.com###fsb_image
 jagonews24.com###fscorecard
 pokharaexpress.com###fullScreenAd
 dishadaily.com###full_level_1_detail
-merojilla.com,pokharanews.com###goji-wd-3dads
+merojilla.com###goji-wd-3dads
 telugu.gulte.com###gulte-text-html-widget-2
 24hrnews.in###h-ajfashion
 puttalamonline.com###head-imgput
@@ -1822,6 +1822,7 @@ krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
+pokharanews.com##.elementor-widget-sidebar img
 ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
 abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,lokshakti.in,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
@@ -2200,7 +2201,7 @@ janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 anmolbharat.in##.inside-right-sidebar
 naitaaqat.in,sitetelugu.com##.inside-right-sidebar .gb-container:has(> ins.adsbygoogle)
 hilllive.in##.inside-right-sidebar > .gb-container:nth-child(2)
-gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com,pokharanews.com##.inside_ads
+gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,nepalawaj.com##.inside_ads
 birgunjsanjal.com##.inside_ads img
 hamrosandesh.com##.interview ~ a
 makalukhabar.com##.is-full-widescreen-ad
@@ -4053,7 +4054,7 @@ sarbochcha.com##div[class*="adver"]:not(.logoadver)
 dailyuttorpurbo.com##div[class*="advert"]
 hipamat.com##div[class*="advertise"]
 newsphalasia.com##div[class*="advertise_space"]
-arthasansar.com,janaboli.com,pokharanews.com,tulsipurkhabar.com##div[class*="advertisement"]
+arthasansar.com,janaboli.com,tulsipurkhabar.com##div[class*="advertisement"]
 banglamail.news,prime9news.com##div[class*="banner"]
 dinajpurtv.com##div[class*="banner-"]
 nabaz-e-punjab.com##div[class*="bdaia-p-"]
