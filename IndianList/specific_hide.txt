@@ -2639,7 +2639,7 @@ khagracharipratidin.com##.relative:has(img[src*="/ads/"])
 filmibeat.com##.removeStyleAd
 amarujala.com##.remove_ad_class
 anytechtune.com##.reseller-add
-malayalam.indianexpress.com,nakkheeran.in##.responsive-ad-css
+malayalam.indianexpress.com,nakkheeran.in,newsfirstlive.com##.responsive-ad-css
 rastriyadaily.com##.rg-advertisement-long-horizontal
 rastriyadaily.com##.rg-side-adv
 inkhabar.com##.rgtSideAdert_main
