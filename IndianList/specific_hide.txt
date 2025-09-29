@@ -4530,6 +4530,7 @@ jansandeshonline.com#?#div[id^="AS_P_LHS_"] > div:-abp-has(> div > div > a>div >
 janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
 jujhartimes.in#?#.p-3 > h4:-abp-contains(Ads)
 k9media.live#?#[id^="AS_O_"] div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
+kanvkanv.com#?#.sidebar-block-wrapper:has(a:-abp-contains(Advertisement))
 khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 khabardev.com#?#.list-category-posts-half:-abp-has(> .widget-title:-abp-contains(AD))
 khabarhikhabar.com#?#div:-abp-has(> div[style*="absolute;"]:-abp-contains(Advertisement Box))
