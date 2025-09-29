@@ -992,7 +992,7 @@ chhattisgarhaaj.com##.ad--widget-no
 khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-amritsandesh.com,awamileaguetimes.com,lokaantar.com##.ad-banner
+amritsandesh.com,awamileaguetimes.com,lokaantar.com,prameya.com##.ad-banner
 bizshala.com,mttvindia.com,prameyanews7.com##.ad-banner-img
 primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
@@ -1185,7 +1185,7 @@ thewall.in##.ads-modal-container
 purbakantho.com##.ads-part727829
 tamilmirror.lk##.ads-rig
 ekattorbanglanews.com##.ads-rightside
-agnijwala.com,prameya.com##.ads-sec
+agnijwala.com##.ads-sec
 news18.com##.ads-slider
 loksattanews.co.in##.ads-slider-widget
 hindi.cricketnmore.com##.ads-space
@@ -1498,6 +1498,7 @@ nlb.lk##.boxes .hsp1
 watansamachar.com##.boxnewsAD:has(img)
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
+prameya.com##.breadcrumb-sidebar-card:has(> .carousel)
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
 aarushikhabar.com,probashtime.net##.brx-popup
 simpaninews.com##.brxe-section.brx-animated
@@ -3974,7 +3975,6 @@ livenews24x7.com##div:has(> .w-banner)
 dainikamadershomoy.com##div:has(> .w3-small)
 khabarway.com##div:has(> .widget_media_gallery)
 sathyadeepam.org##div:has(> [class*="ad-slot-"])
-prameya.com##div:has(> [class^="advertisement-"])
 rtvonline.com##div:has(> [data-ad-unit-path])
 hitwicket.lk##div:has(> [data-adid])
 indiatimes.com##div:has(> [data-row-id="recommended-deals-widget"])
