@@ -3305,6 +3305,7 @@ karmalamadhanews24.com,tnilive.com##.vmagazine_lite_medium_ad
 janatatimes.com,namasteholland.com,vaarte.com,varthatrivandrum.com##.vmagazine_medium_ad
 vishwavani.news##.vv_advst
 newsagencyindia.com##.w-100
+satyahindi.com##.w-full.bg-\[\#E3E3E3\]
 enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
