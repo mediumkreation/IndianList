@@ -2436,6 +2436,7 @@ naidunia.com##.naiWeb
 naturalnews.co.in##.natur-content
 shatabdinews.com##.navbar + .row
 chamaktabharat.com##.navbar-ad-section
+mannarkkadlive.com##.navbar-right
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 nayabikalpa.com##.naya-bikalpa-advertisement
