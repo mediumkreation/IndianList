@@ -1496,6 +1496,7 @@ yugabdha.com##.box-sec-bg .slider
 gorkhalikhabar.com##.box_wrap.p-2
 nlb.lk##.boxes .hsp1
 watansamachar.com##.boxnewsAD:has(img)
+irinjalakudalive.com##.boxzilla
 mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 prameya.com##.breadcrumb-sidebar-card:has(> .carousel)
@@ -3829,7 +3830,7 @@ kalvikural.com##a[href*="successacademy.org.in"] img
 tnstudy.in##a[href*="surabooks.com"]
 eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
-ourmyliddy.com##a[href*="tel:"]
+irinjalakudalive.com,ourmyliddy.com##a[href*="tel:"]
 eelamalar.com##a[href*="thesakkatru.com"]
 lakshyatak.in,samachardoot.in,wehindustan.com##a[href*="traffictail.com"]
 manobkhabor.com##a[href*="trustsoftbd.com"] img
