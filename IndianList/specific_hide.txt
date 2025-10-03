@@ -2177,7 +2177,6 @@ amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
 amadershomoy.com##.index_ads_two
 pchelpcenterbd.com##.indexadsone
-thedailycampus.com##.info_wrapper
 thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
 thahakhabar.com##.inline_disp
@@ -4380,6 +4379,7 @@ alokitokhobor.com,mzamin.com##div[style*="min-height"]
 timesnowmarathi.com##div[style*="min-height: 181px;"]
 bholanews.com##div[style*="min-height:"]
 thelallantop.com##div[style*="min-width:300px;min-height:250px;"]
+thedailycampus.com##div[style*="width: 300px; height: 250px;"]
 amader-protidin.com##div[style*="width: auto; height:"]
 thahakhabar.com##div[style="background-color: #fff; padding:0px; margin-right:10px;"]
 channel24bd.tv##div[style="height: 250px;"]
