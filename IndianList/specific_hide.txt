@@ -3735,6 +3735,7 @@ sankathi.com##a[href*="/adv/"] img
 newsajako.com##a[href*="/newspaper-ads/"] img
 somoynews.tv##a[href*="?ref="]
 bartabangla.com##a[href*="BandhoB"]
+page3news.in##a[href*="Banner indipandance day- "]
 divaina.lk##a[href*="CrystalSoapLK"]
 battinews.com##a[href*="ad.battinews.com"]
 24ghanta.net##a[href*="adroll.com"]
