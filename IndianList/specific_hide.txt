@@ -1825,7 +1825,7 @@ news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 pokharanews.com##.elementor-widget-sidebar img
 ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
-abcnews.media,adbudhindia.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,kundapraa.com,lokshakti.in,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
+abcnews.media,adbudhindia.com,bebakpost.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,kundapraa.com,lokshakti.in,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 mpcnews.in##.elementor-widget-theme-post-content img
