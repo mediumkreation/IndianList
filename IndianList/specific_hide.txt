@@ -2455,6 +2455,7 @@ maharashtratimes.com##.news-advertorial
 indiatimes.com,vijaykarnataka.com##.news-card:has(.ad1)
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
+hotnewsindia.com##.news-description p > img[height="4101"]
 gorkhapatraonline.com##.news-inline-add
 payyolionline.in##.news-text-content > h1 img
 news13uttarakhand.com##.news1-before-content_6
