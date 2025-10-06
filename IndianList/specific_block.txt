@@ -67,7 +67,7 @@
 /advisment/*$domain=kopotakkhonews24.com
 /advrtseimg/*$domain=msprotidin.com
 /advs/*$domain=streetbuzz.co.in
-/advt/*$domain=himdarshan.com|khaskhabar.com
+/advt/*$domain=himdarshan.com|khaskhabar.com|opennewser.com
 /advts/*$domain=kayalpatnam.com
 /Banner-$domain=indias18.com
 /banner-$domain=navakal.in
