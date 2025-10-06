@@ -2061,6 +2061,7 @@ beauronews.com,headline24x7.com,khabaram.com,khabarduniya.com##.header-right-adv
 banglaralobd.com##.header-right-sidebar
 newsway.in##.header-right-widgets
 newssanjal.com##.header-second-adv
+agrasor.com##.header-section .right-container
 awaaz24x7.com##.header-top .align-items-end
 nepalbritain.com##.header-top-details-right
 dailyreportbd.com,tamilcinetalk.com##.header-top-right
