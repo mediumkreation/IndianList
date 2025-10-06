@@ -2522,7 +2522,7 @@ maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 hindi.news18.com##.outsreamAd
 banglatribune.com##.overayFeaturedImage
 bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
-24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news,nawidunia.com##.owl-carousel
+24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news##.owl-carousel
 thahaonline.com##.p-1.h-100
 bankbimaarthonity.com##.p-1:has(> a[target="_blank"])
 newuthayan.com##.p-3.text-center
