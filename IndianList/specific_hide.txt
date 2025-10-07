@@ -1383,7 +1383,7 @@ nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
 khabarhub.com##.banner-widget
 bhnnews.com##.banner-wrap img
-banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com##.banner2
+banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,rangpur24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 manoramaonline.com##.bannerImage
 raftaarindianews.com##.bannerListWidget
@@ -1584,6 +1584,7 @@ magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 banglaexpress.in,deshprahari.com##.code-block:not(.code-block-6)
 navbharatsamay.in##.code-block:not(.code-block-9)
 bangalianaa.com##.code-widget
+rangpur24.com##.codedokan_widget
 dainiknotunkhobor.com##.codedokan_widget > figure img
 thepadma24.com##.codedokan_widget figure img
 notunerkotha.com##.codedokan_widget img
