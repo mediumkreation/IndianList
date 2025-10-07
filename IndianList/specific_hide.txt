@@ -2117,7 +2117,7 @@ muhurtham.com##.home-small-ad
 amarbarta.com.bd##.homeTop .w-100
 news71online.com,shamolynews24.com##.home_last_ad
 bhilwarahalchal.com##.home_level_3_after
-barishalnews24.com,bdsylhetnews.net,bornamelanews24.com,cbkhabor.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,dainikkishoreganj.com,durnitibarta.com,gouripurnews.com,itihas24.com,saplatv.com,shadin-bd.com,shamolbangla24.com,sheershasangbad.com,somoyersangbad.com,theeditors.net,thenewse.com##.home_page_ad
+barishalnews24.com,bdsylhetnews.net,bornamelanews24.com,cbkhabor.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,durnitibarta.com,gouripurnews.com,itihas24.com,saplatv.com,shadin-bd.com,shamolbangla24.com,sheershasangbad.com,somoyersangbad.com,theeditors.net,thenewse.com##.home_page_ad
 bangladesherkhela.com,silkcitynews.com##.home_page_ad img
 dainikbangla.com.bd,newsbangla24.com##.home_popup
 tv5news.in##.home_right_1_1
@@ -2561,7 +2561,7 @@ jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
-dailyajkerbarta.com,deshtime.com,faridpurprotidin.com,priyochandpur.com##.pitwAdvWrap
+dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,priyochandpur.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 hamdardtv.com##.plyr
