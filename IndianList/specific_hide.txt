@@ -2227,6 +2227,7 @@ tamil2daynews.com##.jeg_midbar .jeg_nav_right
 punjabguardian.com##.jet-listing-grid
 filmyfanda.com##.jft_ads
 jharkhand-news.com##.jhark-content
+bansalnews.com##.jnews-ad-below-header
 joginderposwal.com##.jogin-widget
 jonopodsangbad.com##.jonop-content
 seedhasawal.in##.jquery-modal
