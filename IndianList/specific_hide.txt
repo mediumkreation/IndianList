@@ -1342,7 +1342,7 @@ asianetnews.com##.articleright div:has(> [id^="div-gpt-ad-"])
 newsatfirst.com##.aside-add
 dinamani.com,kalkionline.com,kannadaprabha.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
 bijoybanglabd.com##.asn-bk-txt
-awaazbd.us,deshabhimani.com##.aspect-square
+awaazbd.net,awaazbd.us,deshabhimani.com##.aspect-square
 gujarati.economictimes.com,iamgujarat.com,maharashtratimes.com,samayam.com,vijaykarnataka.com##.atf-wrapper
 timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 banglatribune.com##.aunqur img
