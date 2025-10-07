@@ -311,7 +311,7 @@ hindi-news-today.com###custom_html-51
 roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,cgctnews.com,cricnewz.in,dvgsuddi.com,f21news.com,highwaychannel.in,isns.co.in,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in###custom_html-6
 barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com,thehindkeshari.in###custom_html-7
-f21news.com,futurekerala.in,gadhsamvedna.com,jaianndata.com,mynews36.com,pradhanavartha.in,thepressnepal.com###custom_html-8
+f21news.com,futurekerala.in,gadhsamvedna.com,jaianndata.com,mynews36.com,navabharat.news,pradhanavartha.in,thepressnepal.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com###custom_html-9
 mpenews.com###data_id_1
 pundrokotha.com.bd###descripton div[style*="url"]
@@ -379,7 +379,7 @@ apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhab
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-abhitak.in,acpnews24.com,amarvaani.com,apanderanews.com,babuaa.com,bharatnewsservice.com,bplnews24.in,cgbreaking.in,cgfrontline.com,cgujala.in,cityhotnews.com,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,jhuthasach.com,joharcg.com,just36news.com,k24news.in,khulasapost.in,media24news.in,mpbreaking.in,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in,tajakhabar.in,thehindkeshari.in,tv36hindustan.com,vedantsamachar.in###imageModal
+abhitak.in,acpnews24.com,amarvaani.com,apanderanews.com,babuaa.com,bharatnewsservice.com,bplnews24.in,cgbreaking.in,cgfrontline.com,cgujala.in,cityhotnews.com,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,jhuthasach.com,joharcg.com,just36news.com,k24news.in,khulasapost.in,media24news.in,mpbreaking.in,navabharat.news,newshunter.online,rashtrabodh.com,rghnews.com,samaydarshan.in,shreenews.in,tajakhabar.in,thehindkeshari.in,tv36hindustan.com,vedantsamachar.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -1461,7 +1461,7 @@ jankaritoday.com##.block-60
 jankaritoday.com##.block-74
 jankaritoday.com##.block-85
 andhrabhoomi.net##.block-block:not(#block-block-13)
-akashgyanvatika.com,akkinikkunchu.com,bengallive.in,dailyprobaha.com.bd,dainikbhaskarup.com,indiaprimenews.in,navabharat.news,newj9.com,theguptchar.com##.block-custom-content
+akashgyanvatika.com,akkinikkunchu.com,bengallive.in,dailyprobaha.com.bd,dainikbhaskarup.com,indiaprimenews.in,newj9.com,theguptchar.com##.block-custom-content
 f21news.com##.block-custom-content:not(#tie-block_1405)
 sudurpress.com##.block-inline-blockad-block
 londonbdnews24.com##.block-left-banner
@@ -3438,7 +3438,6 @@ pplnews.in##.widget_media_image:not(#media_image-13)
 punjabiakhbaar.ca,ravivardelhi.com,sabkikhabar.net##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 kmassnews.com##.widget_media_image:not(#media_image-2):not(#media_image-6)
-navabharat.news##.widget_media_image:not(#media_image-20)
 divyalive.com##.widget_media_image:not(#media_image-28):not(#media_image-49)
 pathivaranews.com##.widget_media_image:not(#media_image-29)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
