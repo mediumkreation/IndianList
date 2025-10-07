@@ -1884,7 +1884,6 @@ newswatch.co.in##.entry-content img:only-child
 theruralpress.in##.entry-content img[class=" lazyloaded"]
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 thepoliticsagain.com##.entry-content p > img
-khabrilalnews.co.in##.entry-content p:has(+ .addtoany_content) img
 muzaffarpurnow.in##.entry-content p>img
 hellobikaner.in##.entry-content-wrap div[id^="hello-"]
 morbinews.in##.entry-content.single-post-content > img
