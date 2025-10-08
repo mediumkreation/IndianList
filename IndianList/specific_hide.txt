@@ -288,7 +288,7 @@ goindianews.com###custom_html-14
 bhaskarenews.com,crimekhabar.live,jonopotro.com,tejalgyannews.com###custom_html-15
 khabarfatafat.in,trendynewsnetwork.com###custom_html-16
 dnspnews.in###custom_html-169
-muznews.online,prompttimes.com,samvadnews.com,vidarbha24news.com###custom_html-17
+muznews.online,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,tejalgyannews.com,ujiarpurnews.com###custom_html-19
 amritvarshanews.in,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,comillait.com,crimekhabar.live,crimeuttarakhand.in,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janamanas.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,minoritiesnews.com,muthalvannews.com,navyugsandesh.com,newschutney.com,oktelugu.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,saurashtratimes.in,sbdnews24.com,tamilvoicenews.com,todayindia.com,uttarakhandkesari.in,vedsansar.com,webakhbar.in###custom_html-2
@@ -475,6 +475,7 @@ madhyabhoomikeboal.com###media_image-56
 bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,haqeeqattoday.com,katghara.in,muldharpost.com,odishalink.com,prajawani.in,sasthabangla.com,scotnepal.com,shabddoot.com,starexpress.news,theblastkhabar.com,trendnew.in###media_image-6
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
+prompttimes.com###media_image-65
 bhanjyangnews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,manvadhikartimes.com,odishakhabara.in,parbatyachattagram.com,prajawani.in,starexpress.news,swatantradastak.com,visfotnews.com###media_image-7
 madhyabhoomikeboal.com###media_image-72
 wishavwarta.in###media_image-75
