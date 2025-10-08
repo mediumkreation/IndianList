@@ -2601,7 +2601,7 @@ kalikadainik.com,satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
 sanghamam.com##.pr-0
 prabhatmantra.com##.prabh-before-content
-samarthsahara.com,varchasvnews.com,viznews.in##.prachar
+mponlinenews.com,samarthsahara.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
 paathok.news##.prettyphoto
 deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
