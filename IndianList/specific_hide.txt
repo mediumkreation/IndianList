@@ -2176,7 +2176,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-bethanchokkhabar.com,kalikadainik.com,moolbato.com,ournewscrew.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
+bethanchokkhabar.com,kalikadainik.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
