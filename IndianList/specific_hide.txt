@@ -1269,7 +1269,7 @@ dinajpurnews24.com,news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,bagmatikhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,dokadamganvkior.com,ekushnews24.com,farakkon.com,gandakichhadke.com,gbnews24.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,laligurash.com,merojilla.com,neelkanthafm.com,nepalawaj.com,newanews.com,news71online.com,newspolar.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bagmatikhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bdlive24.com,chandpur-kantho.com,dailyinqilab.com,dainikdeshseba.com,dokadamganvkior.com,ekushnews24.com,farakkon.com,gandakichhadke.com,gbnews24.com,globalnewsbd24.com,gorkhalikhabar.com,jagaranpost.com,jaljalaonline.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,laligurash.com,merojilla.com,neelkanthafm.com,nepalawaj.com,newanews.com,news71online.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 birgunjsanjal.com,hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,tamilankural.com##.advertisement-area
@@ -1644,7 +1644,7 @@ aarthikplus.com,sansarnews.com##.content a[target="_blank"] img
 barendraexpress.com.bd##.content-ad-block360
 hetaudatoday.com##.content-banner
 ratopati.com##.content-banner--single
-prasashan.com##.content-banner-single
+newspolar.com,prasashan.com##.content-banner-single
 damaulinews.com,gorkhalikhabar.com##.content-box-ad
 chapaibarta24.com##.content-box-ads
 thebdreport24.com##.content-details .code-block
@@ -2701,7 +2701,6 @@ gramnagarbarta.com##.scrollable-slider
 rajshahinews24.com##.secOne-add
 deepika.com##.second-section-add
 entevarthakal.com##.second_section_right
-newspolar.com##.section .adalyticsblock
 makalukhabar.com,nepalpress.com##.section-ad-space
 ntvbd.com##.section-content .pt-20
 twnewsbd.com##.section-content p img
