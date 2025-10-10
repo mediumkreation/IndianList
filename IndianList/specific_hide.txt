@@ -313,6 +313,7 @@ hindi-news-today.com###custom_html-51
 roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,cgctnews.com,cricnewz.in,dvgsuddi.com,f21news.com,highwaychannel.in,isns.co.in,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in###custom_html-6
 adityabharat.com,barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com,thehindkeshari.in###custom_html-7
+janpatranews.com###custom_html-74
 f21news.com,futurekerala.in,gadhsamvedna.com,jaianndata.com,mynews36.com,navabharat.news,pradhanavartha.in,thepressnepal.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com###custom_html-9
 mpenews.com###data_id_1
