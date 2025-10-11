@@ -382,7 +382,7 @@ apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhab
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-abhitak.in,acpnews24.com,adityabharat.com,amarvaani.com,apanderanews.com,babuaa.com,bharatnewsservice.com,bplnews24.in,cg24news.in,cgbreaking.in,cgfrontline.com,cgujala.in,cityhotnews.com,dainandini.in,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,janmantra.com,jhuthasach.com,joharcg.com,just36news.com,k24news.in,kakkajee.com,khabritaau.com,khulasapost.in,media24news.in,mediapassion.co.in,mpbreaking.in,nationissue.com,navabharat.news,newshunter.online,newspage13.com,rashtrabodh.com,rghnews.com,sabsach.in,samaydarshan.in,shreenews.in,tajakhabar.in,thehindkeshari.in,tv36hindustan.com,vedantsamachar.in###imageModal
+abhitak.in,acpnews24.com,adityabharat.com,amarvaani.com,apanderanews.com,babuaa.com,bharatnewsservice.com,bplnews24.in,cg24news.in,cgbreaking.in,cgfrontline.com,cgujala.in,cityhotnews.com,dainandini.in,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,janmantra.com,jhuthasach.com,joharcg.com,just36news.com,k24news.in,kakkajee.com,khabar36.com,khabritaau.com,khulasapost.in,media24news.in,mediapassion.co.in,mpbreaking.in,nationissue.com,navabharat.news,newshunter.online,newspage13.com,rashtrabodh.com,rghnews.com,sabsach.in,samaydarshan.in,shreenews.in,tajakhabar.in,thehindkeshari.in,tv36hindustan.com,vedantsamachar.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -3477,7 +3477,7 @@ starvrutta.com##.widget_sow-slider
 ausnepalnews.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
 samabesikhabar.com##.widget_sso_advertisement
-ainnews.tv,atulyaloktantranews.com,awazeuttarpradesh.com,deshrupantor.com,fatafatnews.com,gangalahar.com,khulnatimes.com,ottrancheithi.com,samaydarshan.in,shomoynews.com,theevakam.com##.widget_text
+ainnews.tv,atulyaloktantranews.com,awazeuttarpradesh.com,deshrupantor.com,fatafatnews.com,gangalahar.com,khabar36.com,khulnatimes.com,ottrancheithi.com,samaydarshan.in,shomoynews.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
 himalayapost.com##.widget_text a[target="_new"] img
