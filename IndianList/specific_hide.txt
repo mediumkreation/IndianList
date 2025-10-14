@@ -2008,6 +2008,7 @@ topbihar.com##.gb-container:has(> [data-type="_mgwidget"])
 narmadanchal.com##.gb-container:has(> figure.size-full)
 asr24.news##.gb-container:has(> img[src*="1000272722"])
 asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
+chetnanews.in##.gb-element-2b23332b
 tamil.goodreturns.in##.gd-multi-news ul > div
 25kalak.com##.ggl-bnr-728
 24ghonta.news##.ghont-ksrm-bottom
