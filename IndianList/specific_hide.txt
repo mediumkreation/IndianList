@@ -3748,6 +3748,7 @@ battinews.com##a[href*="ad.battinews.com"]
 pahilosamachar.com##a[href*="advertisement"]
 emalayalee.com##a[href*="advertisements_new"]
 houseplan.lk##a[href*="advertising page"] img
+thecolomboexpress.com##a[href*="advocata.org"]
 jivanihindi.com##a[href*="affiliraiser.com"]
 apnepal.com##a[href*="alljobvacancies.com"]
 canchannels.com##a[href*="amrutveni.com"] img
