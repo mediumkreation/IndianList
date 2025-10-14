@@ -2547,6 +2547,7 @@ lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatanchal.com##.parva-content
 parvatprerna.com##.parva-widget
 brandbharat.com##.pbox
+samridhjharkhand.com##.pbwidget .imagewidget
 bordernewsmirror.com##.pbwidget.slideshow
 clearnews.live,dainikmas.com,deepamnews.lk,hindlives.com,indotimes.com.au,lankasudar.com,newsmalwa.com,pradeshtoday.com,vanninews.lk##.penci-banner-box
 indootimes.com.au##.penci-banner-box:not(#penci-banner_box--86294)
