@@ -2907,7 +2907,7 @@ preyopathok.com##.sports_section .muktomot_section
 veeravengaikal.com##.sppb-addon-clients
 himachalabhiabhi.com##.sppb-addon-container.main-content
 garimatvnews.com##.sppb-addon-content .custom
-newscreation.in##.sppb-addon:has(.bannergroup)
+newscreation.in##.sppb-addon-raw-html
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 yugantarpravah.com##.square-ad-box
