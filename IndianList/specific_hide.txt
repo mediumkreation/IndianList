@@ -999,6 +999,7 @@ khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
 amritsandesh.com,awamileaguetimes.com,lokaantar.com,prameya.com##.ad-banner
+yugvartanews.com##.ad-banner img
 bizshala.com,mttvindia.com,prameyanews7.com##.ad-banner-img
 primenewsbd.com##.ad-box
 punjabkesari.com##.ad-box-300
@@ -2863,6 +2864,7 @@ donnews.com,imandarmedia.com,sancharkendra.com##.skada
 donnews.com,imandarmedia.com,sancharkendra.com##.skadd
 donnews.com##.skads
 nepalraftar.com##.skip-ads
+yugvartanews.com##.slide
 news4nation.com##.slide-container
 groundzeroenews.co.in##.slider
 jagratilahar.com##.slider img:not([src*="1595764637"])
