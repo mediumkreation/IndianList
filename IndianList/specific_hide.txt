@@ -346,6 +346,7 @@ malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com###fsb_image
 jagonews24.com###fscorecard
+khabreelal.com###full-screen-ad-popup
 pokharaexpress.com###fullScreenAd
 dishadaily.com###full_level_1_detail
 merojilla.com###goji-wd-3dads
@@ -1613,9 +1614,8 @@ paschimnepal.com##.col-md-6 > img.size-full
 banglanewsus.com##.col-sm-12.mt-3 > .textwidget
 surmanews24.com##.col-sm-4 .hidden-xs
 uttarakhandpost.com##.colombiaRequestSend
-aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,khabreelal.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
-khabreelal.com##.colombiaonesuccess iframe
-3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,kathir.news,khabreelal.com,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,chopaltv.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
+3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,kathir.news,lifestylenama.in,manoranjannama.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 naidunia.com##.common-ads
@@ -4379,7 +4379,6 @@ visiontimes.news##div[id^="vision-"]
 vknews.in##div[id^="vknews"]
 navayuganews.com##div[id^="vuqly-"]
 webreporter.co.in##div[id^="webre-"]
-khabreelal.com##div[name="ArticleShow-Organic-LHS-1"] div:has(> div > div > span + a)
 pundrokotha.com.bd##div[pid^="10"]
 youth18.com##div[role*="CUSTOM"]
 news18.com##div[style*="300px"][style*="background"]
@@ -4512,7 +4511,6 @@ barishaltimes.com##img[alt="custom sidebar ads"]
 yazhnews.com##img[alt="header ads"]
 binodonsarabela.com##img[alt="hera"]
 mirsaraikhobor.com##img[alt="mAD"]
-khabreelal.com##img[alt="sonu"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
 bangladeshglobal.com##img[banner]
