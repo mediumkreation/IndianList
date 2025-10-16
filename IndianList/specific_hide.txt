@@ -1861,7 +1861,7 @@ uksuddi.in##.entry-content .bsac
 beforepublish.com,bharatbarta.com,deepamnews.lk,healthbangla.com,rcbrn.com,sambadsaradin.com##.entry-content .code-block
 ujiarpurnews.com##.entry-content .code-block img
 chhattisgarhcrimes.in##.entry-content .g-single
-bebakmanch.com,punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
+24expressnews.in,bebakmanch.com,punjabbaani.com,uttarbangergramunnayan.com##.entry-content .stream-item
 aamaadmi.in##.entry-content .stream-item-inline-post
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
