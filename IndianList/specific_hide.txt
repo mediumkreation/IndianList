@@ -1576,7 +1576,7 @@ kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,newsvibe.in,thepoliticsagain.com##.code-block-4
 deshdoot.com,krishakjagat.org,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
-jjpnews.com##.code-block-8
+jjpnews.com,vijayapatha.in##.code-block-8
 chanakyanewz.com##.code-block-center
 orthosongbad.com##.code-block-center img
 trishulnews.com##.code-block:has(> [data-type="_mgwidget"])
@@ -1676,7 +1676,7 @@ sylhetview24.news##.custom-ads-row
 news4nation.com##.custom-carousel
 khonjkhobor.in##.custom-group-ads
 bhartiyanews24x7.net,teluguwirals.com,vtv24x7.com##.custom-header
-cinemadaddy.com,enavabharat.com,kositimes.com,muktirlorai.com,seradesh.com,sundarbontimes.com,vijayapatha.in##.custom-html-widget
+cinemadaddy.com,enavabharat.com,kositimes.com,muktirlorai.com,seradesh.com,sundarbontimes.com##.custom-html-widget
 thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
 jatirkhantha.com.bd##.custom-html-widget img
