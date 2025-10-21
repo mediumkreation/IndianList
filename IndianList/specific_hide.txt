@@ -120,6 +120,7 @@ glimeindianews.in###advads_ad_widget-2
 newsnib.in###advertisement
 elettilonline.com###after-ad
 alakhharyana.com,lokpatrika.in###ai_widget-2
+nationnewshindi.com###ai_widget-5
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
