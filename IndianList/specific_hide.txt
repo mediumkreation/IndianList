@@ -3048,7 +3048,6 @@ hamdardtv.com##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 vavuniyanet.com##.td-post-content > div[style^="clear"]
 ehapurnews.com,newsfastweb.com##.td-post-content figure.wp-block-image
-prabhattimes.com##.td-post-content h3 img.size-medium
 prabhattimes.com##.td-post-content img.size-full
 aapkiummid.com##.td-post-content img.size-medium
 aurbta.com##.td-spot-id-content_bottom
