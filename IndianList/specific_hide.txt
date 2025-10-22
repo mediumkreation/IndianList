@@ -3663,8 +3663,6 @@ satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
 publicnext.com##[alt="Advertisement"]
-aruna.lk##[alt="BD"]
-aruna.lk##[alt="Meldol"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
 newsplus21.com##[class$="-ad"]
