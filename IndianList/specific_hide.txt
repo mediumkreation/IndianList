@@ -654,7 +654,7 @@ echitwanpost.com,onlinemajdoor.com,vakeesam.com###sgpb-popup-dialog-main-div-wra
 aajtak.in###shoppingWidget
 aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,doonhorizon.in,fashionnewsera.com,keralavoter.com,news38times.com,newshaat.com,newspoint24.com,odiagossip.com,thechopal.com,toptamilnews.com###showAS_O_BEL_0
 5dariyanews.com###side-banner-ads
-arthikawaj.com,kapilvastupost.com,newsindialive.in,yazhnews.com###sidebar
+arthikawaj.com,kapilvastupost.com,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
 chhatrapatitimes.com,navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
 starsamachar.com###sidebar .text-muted
@@ -2585,6 +2585,7 @@ apnamzn.com##.portlet-journal-content
 thenewsqube.com##.pos
 media24media.com##.post > a img
 faridabadlatestnews##.post center > a[target="_blank"]
+newsindialive.in##.post-block-wrapper.mb-50
 nayasabera.com##.post-body .tr-caption-container
 beanibazarnews24.com##.post-content .sidebar-content
 jaunpurlive.com##.post-content .tr-caption-container
