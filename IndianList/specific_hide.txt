@@ -3687,6 +3687,7 @@ heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
 tajavarthalu.in##[class*="sgpb-"]
+kirandoot.com##[class*="sidebar"] aside.widget_text
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
 wnepal.com##[class*="vigyapan"]
 dailyamardesh.com##[class*="w-[300px]"]
