@@ -1686,7 +1686,7 @@ gtamilnews.com##.custom-html-widget iframe
 jatirkhantha.com.bd##.custom-html-widget img
 torontotamil.com##.custom-html-widget table[border="1"] img
 nationnewshindi.com##.custom-sidebar-video
-7elevennews.com,raajdhaninews.com##.custom-slider
+7elevennews.com##.custom-slider
 gramajyothi.com##.custom1
 indianspiritual.in##.custom_sidebar_ads
 25kalak.com##.customeadd
@@ -3784,6 +3784,7 @@ primetvindia.com##a[href*="cucet.cuchd.in"]
 agaminews.com,ambalanews24.com##a[href*="daraz.com.bd"]
 deshdorpon.com##a[href*="daraz.com.bd/sepnil/"]
 loksangbad.com##a[href*="deshihost.com"]
+raajdhaninews.com##a[href*="digitalgriot.com"]
 agaminews.com##a[href*="drneem.com"]
 eelamalar.com##a[href*="eelamhomeland.com"]
 eelamalar.com##a[href*="eelamview.com"]
