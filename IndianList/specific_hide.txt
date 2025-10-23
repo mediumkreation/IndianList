@@ -3526,7 +3526,7 @@ nationalfrontier.in,rainbownews.co.in,sansanisurag.com,twnews.in##.wp-block-embe
 badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,panchakoshitimes.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
 justmuz.com##.wp-block-group:has(> p.has-text-align-center:first-child)
-banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in,taza-khabar.com##.wp-block-image
+arlivenews.com,banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in,taza-khabar.com##.wp-block-image
 gulfbangla.com##.wp-block-image > figure
 shekhawatilive.com,ujyalokhabar.com##.wp-block-image figure
 socialsamvad.com##.wp-block-image figure img
@@ -3617,7 +3617,7 @@ kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 canchannels.com##.wpb_gallery_slides
 cgbasket.in,mpnewscast.com,yesnewsmarathi.com##.wpb_images_carousel
-ctgsangbad24.com,ekkhabar.online,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
+arlivenews.com,ctgsangbad24.com,ekkhabar.online,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
 clearnews.live,rajsattanews.com##.wpb_raw_html
