@@ -1406,6 +1406,7 @@ desimediapoint.com##.banner_section
 aajkaaditya.in,dainikujagarkhabar.in,hapurhulchul.com##.banner_wrapper
 4tamilmedia.com##.bannerfooter
 am.lk,nepalkhabar.com,srilankamirror.com,tcvonline.co.in,webcoachbd.com##.bannergroup
+tamil.thesubeditor.com##.banners
 ekattorlive.com##.banners-125
 valvainews.org##.bannertopimg
 valvainews.org##.bannertopimg2
@@ -1552,6 +1553,7 @@ chetaktimes.com##.cheta-before-content
 tamilmithran.com##.cine_ad
 citynewsrajasthan.com##.cityn-adlabel
 newsuperbharat.com##.click-zoom
+tamil.thesubeditor.com##.cls
 24jetnews.com,dmoitry.com##.cm-125x125-advertisement-widget
 amarsandesh.com##.cm-beside-slider-widget
 dakhinanchal.com,poojanews.com##.cm-content .widget_media_image
@@ -2487,6 +2489,7 @@ expressindian.co.in##.newshit-header-ads-wrapper
 newskannada.com##.newsk-content
 alertstarnews.com##.newsletter
 satyagrahanews.in##.newsmatic-advertisement-block
+tamil.thesubeditor.com##.newspage-ad-top
 bishwanathbd24.com##.newspaper-advertisement
 daktimesnews.com##.newsphere-widget.widget_text:not(#text-5)
 newsstump.com##.newss-adlabel
