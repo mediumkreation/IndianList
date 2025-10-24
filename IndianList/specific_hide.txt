@@ -1948,6 +1948,7 @@ arohitodaynews.com,badaunexpress.com##.flexslider
 sahilonline.net##.flexslider-eid
 mediavision.news##.floating-ad-inner
 donetbd.com##.floating_ad_single
+thirdeyenewslive.com##.flowplayer
 lanka4.com##.fluid-news
 telegramnews24.com##.fluid-width-video-wrapper
 uthayamnews.com##.fn-block .size-large:not(.wp-image-64792)
@@ -1973,7 +1974,6 @@ missiontodaynews.com##.footer_wrap img
 firstindianews.com##.for-add
 professorsbd.com##.for_add
 anmolkhabar.com##.four-col > a[href=""] img
-thirdeyenewslive.com##.freedomplayer
 banglanewsca.com##.front-page-ad
 news18.com##.ftrad
 nepalpati.com##.full-ad-img
