@@ -3327,6 +3327,7 @@ satyahindi.com##.w-full.bg-\[\#E3E3E3\]
 enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
+amritvichar.com##.w-kban
 indiainside.org##.w3-section
 sarabangla.net##.w3-tiny
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
@@ -4577,7 +4578,6 @@ madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 magadhexpress.in#?#.wp-block-group:-abp-has(> div > .wp-block-heading:-abp-contains(Advertisement))
 netrokonajournal.com##main .advertisement img
 amritvichar.com##main .htmlwidget
-amritvichar.com##main .imagewidget
 timenewsbd.net##main .py-0 center img
 arthikawaj.com##main [data-adid]
 deshabhimani.com##main div:has(> .h-full > img[alt="ad"])
