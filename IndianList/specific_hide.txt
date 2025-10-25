@@ -1789,7 +1789,7 @@ news24bd.net##.elementor-popup-modal
 attingalvartha.com##.elementor-section-items-middle ~ section:nth-child(4)
 janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 bansgaonsandesh.com##.elementor-shortcode .metaslider
-delhiuptodate.com,wayanadlivenews.com##.elementor-shortcode img
+delhiuptodate.com,hasdeotimes.com,wayanadlivenews.com##.elementor-shortcode img
 arohitodaynews.com##.elementor-shortcode img[alt]
 krantiprayas.com##.elementor-shortcode:has(> a, [id^="krant"])
 perfecttamil.com##.elementor-size-small
