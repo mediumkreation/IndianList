@@ -4476,6 +4476,7 @@ hrbreakingnews.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > div > 
 infosrilankanews.info##html12
 infosrilankanews.info##html2
 ibmnews24.com#?#p:-abp-contains(Advertisement)
+hindustannewsexpress.com##iframe[id^="ContentPlaceHolder1_url"]
 hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
@@ -4537,7 +4538,7 @@ lalsobujerkontho.com##img[src*="Modhomoti-"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
 voiceasian.news##img[src*="ad_files"]
-hindustannewsexpress.com##img[src*="c-force/booking/"]
+hindustannewsexpress.com##img[src*="booking/"]
 reportsindia.in##img[src*="gftr"]
 newsphalasia.com##img[style*="width:100%;height:200px"]
 wijeya.lk##img[target]
