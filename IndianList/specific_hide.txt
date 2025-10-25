@@ -793,8 +793,8 @@ hindustanheadlines.in,torontotamil.com###text-34
 himalini.com,kalersylhet.com,satyamlive.com###text-35
 anaicoddai.com,satyamlive.com,trttamilolli.com###text-36
 anaicoddai.com,satyamlive.com###text-37
-anaicoddai.com,janvadtimes.com,kalersylhet.com###text-38
-himalini.com,satyamlive.com###text-39
+anaicoddai.com,divyalive.com,janvadtimes.com,kalersylhet.com###text-38
+divyalive.com,himalini.com,satyamlive.com###text-39
 ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,budaunamarprabhat.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,devbhoomisamvad.in,ekhabar.in,ghazipurkhabar.co.in,indianewsviral.co.in,indoremirror.in,jagonatore24.com,jagprerna.com,kannadigaworld.com,karaihinducanada.com,moviemandu.com,newswatch.co.in,peoplenews.lk,prothomsurjadoy.com,punjabbaani.com,sabjanta.info,shreekanchanpath.com,siddhamaruthuvam.in,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
 navsancharsamachar.com###text-4 marquee
 himalini.com###text-40
@@ -2540,7 +2540,6 @@ bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
 thahaonline.com##.p-1.h-100
 bankbimaarthonity.com##.p-1:has(> a[target="_blank"])
 newuthayan.com##.p-3.text-center
-divyalive.com##.page-content-single div[style*="clear:both;float:left;"]
 cinemavalai.com##.page.hentry
 i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
