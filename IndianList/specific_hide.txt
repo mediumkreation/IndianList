@@ -2111,7 +2111,6 @@ sylheterdak.com.bd##.hidden-xs .textwidget img
 khabareducation.com##.hm-header-image
 brightpost.in##.hm-header-sidebar
 sangbadprotidin.com##.hm-sidebar > div[style]
-thevirallines.net##.hmBlock2ColRSec3
 setoshikhar.com##.hmxbiekzq
 hnexpress.co.in##.hnexp-adlabel
 madhyamam.com##.hocal-ad-block
@@ -3975,6 +3974,7 @@ neplays.com##div.ptop--30:has(> .ad--space)
 onstimes.com##div.row:has(> .col-md12 > .margin-top > img.attachment-full)
 chautaripostonline.com##div.stream-item-mag:not(.content-only)
 mathuranews24.com##div.text-center:has(> h5 + img)
+thevirallines.net##div.w-full > a[target="_blank"]
 vikatan.com##div:has(> .ad)
 timesnowtamil.com##div:has(> .ad-div)
 bharatbarta.com##div:has(> .ads-wrp_txt)
