@@ -670,6 +670,7 @@ iautoindia.com###sidebar .widget:has(.banner)
 indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
+steelcity.online###sidebar .widget_block
 satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
 awajnews.com,dbnnews.in,munshigonjerkagoj.com,news24x365.com,pahadsamachar.com,punjabnewslive.co.in,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
@@ -2030,6 +2031,7 @@ onlinepatrakar.com##.googleAdBlock
 timenews.co.in##.google_ads_section
 sakshi.com##.google_ads_wrap
 faridabadnews.live##.googlepublisherads
+steelcity.online##.gov-ad-wrapper
 grandnews.in##.grand-after-content_2
 kayalpatnam.com##.greytext
 lifeglint.com##.gsc-image
@@ -2246,6 +2248,7 @@ deshrupantor.com##.jw_article_body div[style="text-align:center"] div[style*="wi
 kageshworikhabar.com##.kages-widget
 kasturinews.com##.kastu-widget
 prabartan.com##.kc_single_image
+steelcity.online##.kc_text_block
 karobardaily.com##.kd-ad-horizontal
 kannadadunia.com##.kd_adv1
 filmcityworld.com##.kenm
@@ -3936,7 +3939,6 @@ bharatiyadigitalnews.in#?#center:-abp-contains(Advertisement)
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
 biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-abp-contains(Advertisement))
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
-steelcity.online##body > .container > .row:first-child > div:last-child
 calcuttanews.tv##body > [class$="ads"]
 kasturinews.com##body > a img
 manvimedia.page##body ~ iframe
@@ -4370,6 +4372,7 @@ shrinaradmedia.com##div[id^="shrin-"]
 sitamarhilive.in##div[id^="sitam-"]
 kairalinewsonline.com##div[id^="slideshow"]
 sonprabhat.live##div[id^="sonpr-"]
+steelcity.online##div[id^="steel-"]
 suddione.com##div[id^="suddi-"]:not(.suddi-before-content_3)
 swadeshtoday.com##div[id^="swade-"]
 filmibeat.com##div[id^="taboola-"]
