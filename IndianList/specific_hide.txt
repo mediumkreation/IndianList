@@ -1879,7 +1879,7 @@ karmalamadhanews24.com##.entry-content > p > img
 azranews.in##.entry-content > p > img:not([src*="/azra"])
 apnashaharnews.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar.net,shivamoggalive.com##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
-chandpurreport.com,moonamvazhi.com##.entry-content > p>img
+chandpurreport.com,hamarahathras.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
 duniyasamachar.com,priyoshomoy.com##.entry-content a img
 sheikhpuranews.com##.entry-content a[target="_blank"] img
