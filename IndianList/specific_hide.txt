@@ -3445,6 +3445,7 @@ uniquesamay.com##.widget_media_image .size-full
 nishnama.com##.widget_media_image figure.size-full
 lekhajokhanews.com##.widget_media_image img:not([src*="nocs.png"])
 newszonebd.com##.widget_media_image:has(:is(ins,a[target="_blank"]))
+yugadhar.com##.widget_media_image:not(#block-14)
 hollywoodkhabar.com##.widget_media_image:not(#block-23)
 khabarcgnews.com##.widget_media_image:not(#block-245)
 samajjagran.in##.widget_media_image:not(#block-31)
