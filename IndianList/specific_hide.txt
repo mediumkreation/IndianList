@@ -1876,6 +1876,7 @@ humarabikaner.com##.entry-content > div
 dastavej.in,kaptaan.co.in,todaypati.com##.entry-content > div[style*="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
+azranews.in##.entry-content > p > img:not([src*="/azra"])
 apnashaharnews.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar.net,shivamoggalive.com##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,moonamvazhi.com##.entry-content > p>img
@@ -3319,7 +3320,6 @@ a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
 sadamoga.com##.view-ads-all-blocks
 khaptadonline.com##.view-ads-view
-azranews.in##.vjs-ad-playing
 gondwanaexpress.com##.vl-site-content .widget_custom_html
 payyanursouhrudavedi.com##.vmag_pro_medium_ad
 muznews.net##.vmagazine-lite-medium-rectangle-ad
