@@ -1205,7 +1205,7 @@ hindi.cricketnmore.com##.ads-space
 londonnepalnews.com##.ads-style1
 punalurnews.com##.ads-widget-sec
 ndtv.in##.ads-wrp
-dailyolamakantho.com,tbcgzb.in,welcomeindianews.com##.ads160_600-widget
+tbcgzb.in,welcomeindianews.com##.ads160_600-widget
 sylhetnewsbd.com##.ads300_100-widget
 hindi.newsroompost.com##.ads300x250
 seithy.com##.ads400pxinner
@@ -3692,7 +3692,6 @@ morbiupdate.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
 haribhoomi.com##[class*="ad_"]
 golkhabar.com##[class*="add-"]
-dailyolamakantho.com##[class*="ads300_"]
 safalkhabar.com##[class*="advertisement"]
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
