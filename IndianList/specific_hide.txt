@@ -3945,7 +3945,6 @@ kasturinews.com##body > a img
 manvimedia.page##body ~ iframe
 asianbanglanews.com##body ~ iframe[style*="height: 100%"]
 bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |))
-chhattisgarhaaj.com##ccccc
 jamuna.tv##center > a[target="_blank"]
 neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
