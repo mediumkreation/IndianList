@@ -3620,7 +3620,7 @@ bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
 anweshanam.com,arthosuchak.com,atharvnews.com,indootimes.com.au,nayanepalnews.com,shramjeevijournalist.com,therisingcampus.com,thesadaknama.com,vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
-delhicrimepressnews.com,parichaya.com##.wpb_content_element img
+aadarshhimachal.com,delhicrimepressnews.com,parichaya.com##.wpb_content_element img
 manikganj24.com##.wpb_content_element p[style*="SolaimanLipi"]
 panchjanya.com##.wpb_content_element video
 kalingajyoti.com##.wpb_content_element.vc_align_center
