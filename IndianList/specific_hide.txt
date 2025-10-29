@@ -150,7 +150,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 malayaleepathram.com.au###black-studio-tinymce-41
 malayaleepathram.com.au###black-studio-tinymce-67
-londonbdnews24.com,paridarshaka.com,roddure.com,tamizhdb.com###block-10
+londonbdnews24.com,paridarshaka.com,roddure.com###block-10
 sirsonews24.com###block-100
 lalluram.com,magahinews.com,paridarshaka.com###block-11
 surgujasamay.com###block-112
@@ -185,18 +185,18 @@ khabarok.com,meddlingmedia.com,mediyaan.com,sajhamanch.com,satyamevtv.com,smarti
 akkbd.com,ojasvitimes.in,p2pnews.co,telugumalli.com###block-17
 jogiexpress.com###block-176
 24hrnews.in###block-178
-tamizhdb.com,viewpointjharkhand.com###block-19
+viewpointjharkhand.com###block-19
 bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 nishnama.com,sabkasandesh.com###block-20
-ekhabartoday.com,nishnama.com,tamizhdb.com###block-21
+ekhabartoday.com,nishnama.com###block-21
 alivenews.co.in,newslab24.in###block-22
 emandirates.com,hnn24x7.com,livepress24.com,nishnama.com###block-23
-govindia.in,hnn24x7.com,newslab24.in,tamizhdb.com,whatinindia.com###block-24
+govindia.in,hnn24x7.com,newslab24.in,whatinindia.com###block-24
 banglarjanapad.com,govindia.in,newslab24.in###block-25
 govindia.in,organizeindia.in,uppunews.com###block-26
 knlslive.com,samvaad365.com###block-27
 wealthfreedomideas.com###block-28
-bundelkhandsamachar.com,checkpostnews.com,dharmwani.com,khabarmantra.in,khabarok.com,lokswar.in,mobilenews24.com,news1hindustan.com,newsnukkad.com,newswayanad.in,ram-krishna.com.np,sanatanjan.com,tamizhdb.com###block-3
+bundelkhandsamachar.com,checkpostnews.com,dharmwani.com,khabarmantra.in,khabarok.com,lokswar.in,mobilenews24.com,news1hindustan.com,newsnukkad.com,newswayanad.in,ram-krishna.com.np,sanatanjan.com###block-3
 wealthfreedomideas.com###block-30
 aisakya.in###block-31
 aisakya.in,samvaad365.com###block-32
@@ -1582,7 +1582,7 @@ kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,newsvibe.in,thepoliticsagain.com##.code-block-4
 deshdoot.com,krishakjagat.org,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
-jjpnews.com,vijayapatha.in##.code-block-8
+jjpnews.com,tamizhdb.com,vijayapatha.in##.code-block-8
 chanakyanewz.com##.code-block-center
 orthosongbad.com##.code-block-center img
 trishulnews.com##.code-block:has(> [data-type="_mgwidget"])
