@@ -1961,6 +1961,7 @@ usanewsonline.com##.fn-widget_media_image
 mymensinghpratidin.com##.font_widget_two
 nijamtoday.com##.foogallery_widget
 kathmandutoday.com##.foot_ad
+nearnews.in##.footer-ad-box
 firstlookbihar.in,wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 khabaram.com,rkexpose.com##.footer-adv
@@ -3659,7 +3660,7 @@ newshindustan.in##.wpb_wrapper.wpb_text_column
 karnaliheadlines.com##.wpb_wrapper:has(> .td_block_big_grid_3)
 abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
-betulsamachar.com,bongnews24x7.com,dailynews24.in,khabardevbhoomi.com,naitaaqat.in,narmadanchal.com,nearnews.in,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
+betulsamachar.com,bongnews24x7.com,dailynews24.in,khabardevbhoomi.com,naitaaqat.in,narmadanchal.com,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
