@@ -1621,7 +1621,7 @@ banglanewsus.com##.col-sm-12.mt-3 > .textwidget
 surmanews24.com##.col-sm-4 .hidden-xs
 uttarakhandpost.com##.colombiaRequestSend
 aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
-3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,humarabikaner.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 naidunia.com##.common-ads
@@ -1871,7 +1871,6 @@ chhattisgarhcrimes.in##.entry-content .g-single
 aamaadmi.in##.entry-content .stream-item-inline-post
 ghaziabad365.com##.entry-content .wp-block-image
 thirdeyetoday.com##.entry-content > :not(figure) img
-humarabikaner.com##.entry-content > div
 dastavej.in,kaptaan.co.in,todaypati.com##.entry-content > div[style*="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
@@ -2120,7 +2119,6 @@ janshakti.co.in##.hocal-ad
 madhyamam.com##.hocal-ad-block
 nlb.lk##.hom.swiper-container
 chattogramnews.com##.home .elementor-widget-image
-humarabikaner.com##.home .site-wrap > div:not(.elementor)
 bangla-news24.com##.home-e3lan
 cibindianews.com##.home-lead-block
 tamiltradepost.com##.home-mid-banner
