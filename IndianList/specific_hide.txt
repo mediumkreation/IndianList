@@ -429,7 +429,6 @@ lankadawasa.com###main-content + aside > .widget_media_image
 ibn24x7news.com,theexclusivestory.com###main-content .e3lan
 skknews.in###main-content .et_pb_gallery_image
 skknews.in###main-content .et_pb_image
-newcinemaexpress.com###main-head .right
 punalurnews.blogspot.com###main-top
 mbd24.com###main_ad1
 abnews24.com###main_content .d-sm-block
