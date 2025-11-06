@@ -1186,7 +1186,7 @@ newscircle.in##.ads-2018
 natunsylhet24.com##.ads-bar
 bangladesherkhabor.net##.ads-center-mt
 dhakapost.com,thenepaltoday.com##.ads-container
-bengali.indianexpress.com,newsnationtv.com##.ads-div-style
+bengali.indianexpress.com##.ads-div-style
 kasargodvartha.com##.ads-height-130
 rewanewsmedia.com##.ads-height-350
 madhyakesari.com##.ads-iframe
@@ -1342,6 +1342,7 @@ heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
 viralsach.online##.article-content h4 img
 helloswasthya.com##.article-desktop-ad-container
+newsnationtv.com##.article-page-ads
 tamil.mykhel.com##.article-tag-content:has(> .oiad)
 moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
