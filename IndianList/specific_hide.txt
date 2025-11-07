@@ -2926,6 +2926,7 @@ mysurumithra.com##.starofmysore
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
 lastnewsbd.com##.sticky > div:nth-child(2)
+calcuttatelevisionnetwork.in##.sticky-md-top img
 hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com##.sticky-sidebar .widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
