@@ -1535,6 +1535,7 @@ prothomalo.com##.card-image-wrapper + div
 lanka4.com##.card.text-center
 newsbunch.in##.card:has(> .card-body > img[alt*="Ad"])
 aloavanews24.com,headlinenews.lk,just36news.com,malayalamtodayonline.com,prameyanews7.com,thefollowup.in##.carousel
+thefollowup.in##.carousel-item1
 news11.live##.carousel.slide
 panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
