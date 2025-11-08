@@ -2425,6 +2425,7 @@ cgwebnews.in##.mt-2 a[target*="_blank"] img
 onlinepatrika.com##.mt-2 img
 azhimukham.com,damaulionline.com##.mt-3
 dailyprovatbela.com##.mt-3 .wp-block-image
+npbnews.com##.mt-3 img.w-100
 sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
