@@ -1816,6 +1816,7 @@ namastenri.net##.elementor-widget-image img:not([src*="Logo-1.jpg"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
+computerbichitra.com##.elementor-widget-image-box
 muznews.online##.elementor-widget-image-carousel
 hamarahathras.com##.elementor-widget-image-carousel.e-widget-swiper
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
