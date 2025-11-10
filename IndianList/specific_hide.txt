@@ -361,7 +361,7 @@ dankaram.in,hindustan1st.com###header .right
 odishamirror.com###header .sidebar
 focusbd24.com###header .sidebar-col
 khabarhouse.com###header .widget_block
-cinemasthi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-aside
+cinemasthi.com,dailybanglabhumi.com,prothomshomoy.com,punjabinational.ca,solantoday.com###header-aside
 nationaltodaylive.com###header-banner
 latestlaws.com###header-banner .text-right
 kamanakhabar.com###header-right
