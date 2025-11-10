@@ -387,7 +387,7 @@ apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhab
 malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
-aajkadinnews.com,abhitak.in,acpnews24.com,adityabharat.com,amarvaani.com,apanderanews.com,apnapradesh24x7.com,babuaa.com,bbn24news.com,bharatnewsservice.com,bplnews24.in,cg24news.in,cgbreaking.in,cgfrontline.com,cgujala.in,cgwall.com,chhattisgarhaaj.com,cityhotnews.com,cnin.co.in,dainandini.in,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,janmantra.com,jhuthasach.com,jogiexpress.com,joharcg.com,just36news.com,k24news.in,kakkajee.com,khabar36.com,khabritaau.com,khulasapost.in,media24news.in,mediapassion.co.in,mediasaheb.com,mpbreaking.in,nationissue.com,navabharat.news,navpradesh.com,nayabharat.live,newshunter.online,newspage13.com,rashtrabodh.com,rghnews.com,sabsach.in,samaydarshan.in,sbharatnews.com,shreenews.in,sunokhabar.com,tajakhabar.in,tarunchhattisgarhkorba.com,thehindkeshari.in,thethinkmedia.com,tv36hindustan.com,vedantsamachar.in###imageModal
+aajkadinnews.com,abhitak.in,acpnews24.com,adityabharat.com,amarvaani.com,apanderanews.com,apnapradesh24x7.com,babuaa.com,bbn24news.com,bharatnewsservice.com,bplnews24.in,cg24news.in,cgbreaking.in,cgfrontline.com,cgujala.in,cgwall.com,chhattisgarhaaj.com,cityhotnews.com,cnin.co.in,dainandini.in,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,janmantra.com,jhuthasach.com,jogiexpress.com,joharcg.com,just36news.com,k24news.in,kakkajee.com,khabar36.com,khabritaau.com,khulasapost.in,media24news.in,mediapassion.co.in,mediasaheb.com,mpbreaking.in,nationissue.com,navabharat.news,navpradesh.com,nayabharat.live,newshunter.online,newspage13.com,panchayattantra24.com,rashtrabodh.com,rghnews.com,sabsach.in,samaydarshan.in,sbharatnews.com,shreenews.in,sunokhabar.com,tajakhabar.in,tarunchhattisgarhkorba.com,thehindkeshari.in,thethinkmedia.com,tv36hindustan.com,vedantsamachar.in###imageModal
 chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
@@ -793,7 +793,7 @@ anaicoddai.com,satyamlive.com,trttamilolli.com###text-36
 anaicoddai.com,satyamlive.com###text-37
 anaicoddai.com,divyalive.com,janvadtimes.com,kalersylhet.com###text-38
 divyalive.com,himalini.com,satyamlive.com###text-39
-ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,budaunamarprabhat.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,devbhoomisamvad.in,ekhabar.in,ghazipurkhabar.co.in,indianewsviral.co.in,indoremirror.in,jagonatore24.com,jagprerna.com,kannadigaworld.com,karaihinducanada.com,moviemandu.com,newswatch.co.in,peoplenews.lk,prothomsurjadoy.com,punjabbaani.com,sabjanta.info,shreekanchanpath.com,siddhamaruthuvam.in,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
+ajithfans.com,aryandigitalseva.com,avikaluttarakhand.com,budaunamarprabhat.com,cnewsbangla.com,dailybhorerkolam.com,dailypunjabtimes.com,devbhoomisamvad.in,ekhabar.in,ghazipurkhabar.co.in,indianewsviral.co.in,indoremirror.in,jagonatore24.com,jagprerna.com,kannadigaworld.com,karaihinducanada.com,moviemandu.com,newswatch.co.in,panchayattantra24.com,peoplenews.lk,prothomsurjadoy.com,punjabbaani.com,sabjanta.info,shreekanchanpath.com,siddhamaruthuvam.in,swadeshbani.com,thakurprasad.com,thepunjabi.com###text-4
 navsancharsamachar.com###text-4 marquee
 himalini.com###text-40
 trttamilolli.com###text-42
@@ -1535,7 +1535,6 @@ newsbunch.in##.card:has(> .card-body > img[alt*="Ad"])
 aloavanews24.com,headlinenews.lk,just36news.com,malayalamtodayonline.com,prameyanews7.com,thefollowup.in##.carousel
 thefollowup.in##.carousel-item1
 news11.live##.carousel.slide
-panchayattantra24.com##.carouselbanner
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 thesaturdaynews.com##.category_page_right .single_page_bottom_ad
