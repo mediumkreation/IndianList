@@ -3040,7 +3040,6 @@ manvadhikarabhivyakti.com##.td-main-content-wrap .td-a-rec:has(> div > div > h4.
 janatarsylhet24.com,matopath.com,teraisandesh.com##.td-main-content-wrap .td_block_single_image
 digitalmalayalionline.com##.td-main-content-wrap .td_spot_img_all
 akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
-dailysharebazar.com##.td-main-content-wrap .tdm_block_inline_image
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
 teknafnews.com##.td-main-content-wrap .vc_raw_html
 newsfireonline.com##.td-main-content-wrap .widget_text
@@ -3078,7 +3077,7 @@ abitfar.com,akkbd.com,atulyabharat.in,biswabanglasangbad.com,chennaicitynews.net
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 chatganrbani.com##.td_block_text_with_title
-dunvalleymail.com,hilllive.in,himalayandiscover.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,newsfact.in,ntinews.com,parvatjan.com,postmanindia.in,pradeshlive.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
+dailysharebazar.com,dunvalleymail.com,hilllive.in,himalayandiscover.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,newsfact.in,ntinews.com,parvatjan.com,postmanindia.in,pradeshlive.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 todaybihar.com##.td_mod_wrap
 bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
