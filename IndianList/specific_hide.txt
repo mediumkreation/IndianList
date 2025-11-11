@@ -254,6 +254,7 @@ kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
+a4applenews.com###content .n2-section-smartslider
 nepalimato.com###content .news_portal_ads_banner
 globalnews24x7.com,kelanchaltimes.com,pkdnewschannelnoi.com,sabkajammukashmir.com,sabkasandesh.com###content .stream-item
 giridihupdates.com,overlook.co.in###content .widget_block
@@ -528,8 +529,6 @@ kathmandupati.com,maagulf.com###myModal
 anumodankhabar.com###myModal .wp-block-image
 ada.lk,lankadeepa.lk###myModal1
 dailynayadiganta.com###myVideo
-a4applenews.com###n2-ss-20
-a4applenews.com###n2-ss-6
 payyolionline.in###national-news-section .promobox-wrapper
 thecritic.in###navbar .image
 amaderbarisal.com###nbscontainer
@@ -3482,7 +3481,7 @@ sangalokhabar.com##.widget_sg_advertisement_1
 satlujbiastimes.com##.widget_sisw_widget
 odishanewslens.com##.widget_slider
 karmakshetratv.com##.widget_slideshow
-awaznews24x7.com,biharharpalnews.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
+a4applenews.com,awaznews24x7.com,biharharpalnews.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 starvrutta.com##.widget_sow-slider
 ausnepalnews.com##.widget_sp_image
