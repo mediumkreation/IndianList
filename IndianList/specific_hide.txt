@@ -29,7 +29,7 @@ gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
 36kaakda.in,battinews.com,cnblive.com,editiontoday.in,gossip99.com,insightchhattisgarh.in,kanaighatnews.com,kushiyaranews.com,punalurnews.com,thattungal.com,ukliveuttrakhand.com###HTML3
-gramsamachar.com,jaldhakanews.com,vbnews24.com###HTML30
+gramsamachar.com,jaldhakanews.com###HTML30
 himachalmedia.co###HTML31
 himachalmedia.co###HTML32
 99samacharexpress.in,yerahajawab.in###HTML33
@@ -344,7 +344,6 @@ nayapusta.com###flashnews
 houseplan.lk###flexiselDemo1
 nerpatham.com###floating-sidebar .custom
 shikkharalo24.com###focus_slider
-vbnews24.com###footerRight .widget.Text
 malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com,vtv24x7.com###fsb_image
@@ -1034,6 +1033,7 @@ alorkantho24.news##.ad4
 eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
 indiatv.in##.ad:has(> div:first-child)
+vbnews24.com##.adB
 dailyjagoran.com##.adBgGray
 hindi.dynamitenews.com##.adBody
 maharashtratimes.com##.adCANContainer
