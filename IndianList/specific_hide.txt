@@ -188,7 +188,7 @@ jogiexpress.com###block-176
 viewpointjharkhand.com###block-19
 bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 nishnama.com,sabkasandesh.com###block-20
-ekhabartoday.com,nishnama.com###block-21
+nishnama.com###block-21
 alivenews.co.in,newslab24.in###block-22
 emandirates.com,hnn24x7.com,livepress24.com,nishnama.com###block-23
 govindia.in,hnn24x7.com,newslab24.in,whatinindia.com###block-24
@@ -629,7 +629,7 @@ newsnetworkindia.com###secondary .widget_block:not(#block-17)
 tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,apanderanews.com,janakeeyam.in,khabaribn7.com,up18news.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
-aajkakanpur.com,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,ekhabartoday.com,emediatoday.com,fourthpost.com,gangalahar.com,ghaziabad365.com,ideaciti.com,jogiexpress.com,k24news.in,mediapassion.co.in,network10tv.com,newsbindass.com,nichod.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,sangshadgallery24.com,saunewsnetwork.com,thekhabri.in,thelokniti.com,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,emediatoday.com,fourthpost.com,gangalahar.com,ghaziabad365.com,ideaciti.com,jogiexpress.com,k24news.in,mediapassion.co.in,network10tv.com,newsbindass.com,nichod.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,sangshadgallery24.com,saunewsnetwork.com,thekhabri.in,thelokniti.com,vishwanews24.com###secondary .widget_media_image
 navpradesh.com###secondary .widget_media_image:not(#block-64)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
@@ -1354,7 +1354,6 @@ timesnowhindi.com,timesnowmarathi.com##.atfAdContainer
 banglatribune.com##.aunqur img
 loginkerala.com##.author-widget
 ourbiratnagar.net##.av_block
-ekhabartoday.com##.av_pop_modals_3
 kabirkiawaz.in##.av_slied
 digitalkhabar.com##.avenews-widget-image
 newshubinsight.in##.avt_masterslider_el
@@ -1602,6 +1601,7 @@ swatantrachetnanews.com##.col-lg-1 img
 apnapunjabmedia.com##.col-lg-2 > .white-bg
 hajurkokhabar.com##.col-lg-3 .home__news_box
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
+ekhabartoday.com##.col-md-12 .colombiaadcode
 ajkerjholok.com##.col-md-12 .textwidget
 channelrb.com##.col-md-3 .master-slider
 banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
@@ -1616,7 +1616,7 @@ banglanewsus.com##.col-sm-12.mt-3 > .textwidget
 surmanews24.com##.col-sm-4 .hidden-xs
 uttarakhandpost.com##.colombiaRequestSend
 aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
-3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,haryanakranti.com,humarabikaner.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,ekhabartoday.com,haryanakranti.com,humarabikaner.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 naidunia.com##.common-ads
