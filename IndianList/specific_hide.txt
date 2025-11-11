@@ -2009,8 +2009,7 @@ dailynews24.in##.gb-container-553faf02
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
 topbihar.com##.gb-container:has(> [data-type="_mgwidget"])
 narmadanchal.com##.gb-container:has(> figure.size-full)
-asr24.news##.gb-container:has(> img[src*="1000272722"])
-asr24.news,bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
+bheldailynews.com,biharivoice.com,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 chetnanews.in##.gb-element-2b23332b
 tamil.goodreturns.in##.gd-multi-news ul > div
 25kalak.com,morbiupdate.com##.ggl-bnr-728
@@ -3535,7 +3534,7 @@ pragatitimes.com##.wp-block-image:has(> .wp-image-318)
 pragatitimes.com##.wp-block-image:has(> .wp-image-417)
 hnexpress.co.in##.wp-block-jetpack-slideshow
 theinternalnews.co##.wp-block-jetpack-tiled-gallery
-biswabanglanews.com##.wp-block-ultimate-post-image
+asr24.news,biswabanglanews.com##.wp-block-ultimate-post-image
 chamaktabharat.com,pplnews.in##.wp-custom-header
 udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
@@ -4439,7 +4438,7 @@ ab71.tv,apnades.in##figure.wp-block-embed
 aajexpress.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net##figure.wp-block-gallery
 aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,eaibanglai.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,palisirohionline.in,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 betulmedia.com,dailybahadur.com##figure.wp-block-image > img
-asr24.news,himachalsamay.com##figure.wp-block-image img
+himachalsamay.com##figure.wp-block-image img
 247superfast.com,andhravilas.net,beforepublish.com,jagocomilla.com,namastenri.net,smpnews24.com##figure.wp-block-image.size-full
 agraupdate.com,dailyganomukti.com,nepalsandesh.com,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
 sanvadnews.com##figure.wp-block-table
