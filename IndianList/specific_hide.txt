@@ -2110,7 +2110,7 @@ brightpost.in##.hm-header-sidebar
 sangbadprotidin.com##.hm-sidebar > div[style]
 setoshikhar.com##.hmxbiekzq
 hnexpress.co.in##.hnexp-adlabel
-janshakti.co.in##.hocal-ad
+janshakti.co.in,npg.news##.hocal-ad
 madhyamam.com##.hocal-ad-block
 nlb.lk##.hom.swiper-container
 chattogramnews.com##.home .elementor-widget-image
@@ -2269,7 +2269,6 @@ chattolarkhabor.com##.leadone img
 thebengalitimes.com##.lefr-box
 lanka4.com##.left .aside-wrapper
 kalakaumudi.com##.left_banner
-npg.news##.left_level_1
 bhilwarahalchal.com,madhyamam.com,nativenews.in##.left_level_2
 jantaserishta.com,newstrack.com##.left_level_3
 rewariyasat.com##.left_level_3_before
