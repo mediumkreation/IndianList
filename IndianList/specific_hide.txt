@@ -2930,6 +2930,7 @@ calcuttatelevisionnetwork.in##.sticky-md-top img
 hindinews24daily.com##.sticky-sidebar .widget_custom_html
 bsnknews.com##.sticky-sidebar .widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
+prajasatta.in##.sticky-sidebar-widgets
 andhrajyothy.com,channel24bd.tv##.stickyAds
 nakkheeran.in##.sticky_add
 madhyamam.com##.story-ad1
