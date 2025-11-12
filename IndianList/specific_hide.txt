@@ -4440,6 +4440,7 @@ indiaaajkal.in##figure .vc_single_image-img
 thepublictoday.com##figure .widget-image-caption
 lalmonibarta.com##figure > iframe
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
+khabreelal.com##figure.mt-6:has(> [style^="border"])
 dailysobujbarta.com##figure.vc_figure
 ab71.tv,apnades.in##figure.wp-block-embed
 aajexpress.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net##figure.wp-block-gallery
