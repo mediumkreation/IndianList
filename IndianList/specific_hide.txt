@@ -126,7 +126,11 @@ inextlive.com###aniview
 timesnowhindi.com###app > section > div:first-child:not([class])
 bonikbarta.com###article-middle2
 lokmatnews.in###articlePageBanner
+kannadavani.news###attachment_25628
 biharnation.in###attachment_28282
+kannadavani.news###attachment_29154
+kannadavani.news###attachment_29175
+kannadavani.news###attachment_29181
 kahalenews.com###attachment_43256
 kahalenews.com###attachment_44092
 massnews.online###author-bio-widget-1
