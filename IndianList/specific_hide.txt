@@ -1716,7 +1716,7 @@ bikashnews.com##.desktop_main_news_banner
 nayabishwo.com##.detail-ad-holder
 khabardabali.com##.detail-right-ad img:not([src*="unicode_converter.jpg"])
 halokhabar.com##.details-ad
-citynewsdhaka.com##.details-page-side-banner
+citynewsdhaka.com,shikkhasongbad.com##.details-page-side-banner
 citynewsdhaka.com##.details-page-side-banner-2
 sunamganjerkhobor.com##.details-sidebar .mb-3
 natunsylhet24.com##.details-sidebar > .row.justify-content-center
@@ -3357,6 +3357,7 @@ worsonlinenews.com##.widget.Image:not(#Image4)
 fourteenkerala.com##.widget.text-html
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
+shikkhasongbad.com##.widgetR .widget_area
 jagatprahari.com##.widget_728x90_advertisement
 chouranews.com##.widget_a2a_follow_widget
 loknabj.com##.widget_ads_small
