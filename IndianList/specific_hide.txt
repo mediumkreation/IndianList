@@ -385,7 +385,7 @@ newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com,uttarakhandhindinews.in###home-ads
-alokitokhobor.com,kalerkotha.com###home-online-poll
+kalerkotha.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
@@ -2044,7 +2044,7 @@ sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
 haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
 pakundiapratidin.com##.hd_banner
-alokitobarisal.com,aloron71.com,dainikdesherkotha.com,daynikekusherbani.com,durnityreport24.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
+alokitobarisal.com,alokitokhobor.com,aloron71.com,dainikdesherkotha.com,daynikekusherbani.com,durnityreport24.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
 dailysports24.com##.head-banner
 alivenews.co.in##.head-main-ad
 moonamvazhi.com##.headRightAdv
@@ -3122,7 +3122,6 @@ aashanews.com##.text-4
 samakal.com##.text-body-ad
 news71online.com##.text-center .size-full
 sajhasabal.com##.text-center iframe
-alokitokhobor.com##.text-center.mt-3 img:not([src*="epapar.jpg"])
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
 argusnews.in##.text-center.my-2
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
@@ -4405,7 +4404,7 @@ filmykhabar.com##div[style*="margin-top: 16px; height: 80px;"]
 filmykhabar.com##div[style*="margin-top: 6px; height: 145px; "]
 sangbadpratidin.in##div[style*="margin-top:50px; margin-bottom:90px;"]
 filmykhabar.com##div[style*="margin: 10px 0px 10px 0px; display: flex; justify-content: center;"]
-alokitokhobor.com,mzamin.com##div[style*="min-height"]
+mzamin.com##div[style*="min-height"]
 timesnowmarathi.com##div[style*="min-height: 181px;"]
 bholanews.com##div[style*="min-height:"]
 thelallantop.com##div[style*="min-width:300px;min-height:250px;"]
