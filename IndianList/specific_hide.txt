@@ -2674,6 +2674,7 @@ pakwangali.in##.right-add
 dailysabuj.com##.right-add-container
 uttarakhandtemples.in##.right-adpanel-wrapper > div[style*="width:300px; height:250px;"]
 newsdnntv.com,samaylive.com##.right-banner
+rashtriyakhabartv.com##.right-big-ad
 banglanews24.com##.right-container .ads
 kungumam.co.in##.right-inner .right-box
 sindhuyouth.in##.right-sidebar .widget_block
