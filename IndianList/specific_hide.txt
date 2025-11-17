@@ -152,8 +152,6 @@ bankbimaarthonity.com###bg-for-bba-ad
 abhiyandaily.com###bigyaapan
 citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
-malayaleepathram.com.au###black-studio-tinymce-41
-malayaleepathram.com.au###black-studio-tinymce-67
 londonbdnews24.com,paridarshaka.com,roddure.com###block-10
 sirsonews24.com###block-100
 lalluram.com,magahinews.com,paridarshaka.com###block-11
@@ -389,7 +387,6 @@ kalerkotha.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
-malayaleepathram.com.au###hotwp-header-banner
 dainikvatibangla.com###id
 barciknews.com###id-widget-advertisements-4
 aajkadinnews.com,abhitak.in,acpnews24.com,adityabharat.com,amarvaani.com,apanderanews.com,apnapradesh24x7.com,babuaa.com,bbn24news.com,bharatnewsservice.com,bplnews24.in,cg24news.in,cgbreaking.in,cgfrontline.com,cgujala.in,cgwall.com,chhattisgarhaaj.com,cityhotnews.com,cnin.co.in,dainandini.in,dainikchintak.com,dainikhindmitra.com,dakhalchhattisgarh.com,dakshinapath.com,editiontoday.in,fourthpost.com,garjachhattisgarhnews.com,groundzeroenews.co.in,highwaychannel.in,hindsat.in,hindustanopinion.com,isns.co.in,jaianndata.com,janmantra.com,jhuthasach.com,jogiexpress.com,joharcg.com,just36news.com,k24news.in,kakkajee.com,khabar36.com,khabritaau.com,khulasapost.in,media24news.in,mediapassion.co.in,mediasaheb.com,mpbreaking.in,nationissue.com,navabharat.news,navpradesh.com,nayabharat.live,newshunter.online,newspage13.com,panchayattantra24.com,rashtrabodh.com,rghnews.com,sabsach.in,samaydarshan.in,sbharatnews.com,shreenews.in,sunokhabar.com,tajakhabar.in,tarunchhattisgarhkorba.com,theguptchar.com,thehindkeshari.in,thethinkmedia.com,tv36hindustan.com,vedantsamachar.in###imageModal
@@ -2148,8 +2145,6 @@ doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
 desimartini.com##.horizontal_ad_wrap
 tips4blog.com##.hot_rwc_ads
-malayaleepathram.com.au##.hotwp-box.widget_black_studio_tinymce:has(> div > p > img:only-child)
-malayaleepathram.com.au##.hotwp-box.widget_black_studio_tinymce:has(> div > p > ins)
 ghamasan.com##.hp-ad-con
 iamgujarat.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 knrchannel.com##.hr_ad_block
@@ -2198,6 +2193,7 @@ pchelpcenterbd.com##.indexadsone
 thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
 thahakhabar.com##.inline_disp
+malayaleepathram.com.au##.inner-ad-block
 mannarkkadlive.com##.inner-add
 deshbandhu.co.in##.inner-add-banner
 chatonay71news.com##.inner-ads
