@@ -830,7 +830,7 @@ akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
 bdtoday24.com###text-html-widget-25
 abhitaknewsuk.in,mpcgexpress.com###text-html-widget-3
 bdtoday24.com###text-html-widget-35
-pnn24.in###text-html-widget-4
+kadwaghut.com,pnn24.in###text-html-widget-4
 bdtoday24.com###text-html-widget-41
 sehattimes.com###text-html-widget-7
 europemalayali.co.uk###thumbs
@@ -2768,7 +2768,7 @@ thenewsrepair.com##.sidebar .widget.HTML
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
 indiannewsroom.com,mbpratidin.com,sarthakprayash.com##.sidebar .widget_block
 aajkaaditya.in,abhitak.in,bartabangla.com,hindsat.in,muchata.com,mymarathi.net##.sidebar .widget_custom_html
-aviralsamachar.com,bebakmanch.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,kadwaghut.com,khulasach.com,navamalayali.com,nawaiduggar.com,opennewsx24.com,realtimes.in,seemasandesh.in,shaktinews.in,suryarekha.com,thekhabrilal.com##.sidebar .widget_media_image
+aviralsamachar.com,bebakmanch.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,khulasach.com,navamalayali.com,nawaiduggar.com,opennewsx24.com,realtimes.in,seemasandesh.in,shaktinews.in,suryarekha.com,thekhabrilal.com##.sidebar .widget_media_image
 newsdesk24.com##.sidebar .widget_media_image:has(> :not(div))
 mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
 crimenazarnews.com,ekhonkhobor.com,joddha.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com##.sidebar .widget_text
