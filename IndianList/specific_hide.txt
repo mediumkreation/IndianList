@@ -1767,6 +1767,7 @@ chandpurtimes.com,lohagaranews24.com,mithilacitynews.in##.e3lan-post
 kalyankesari.com##.e3lan300_600-widget
 uukmanews.com##.each-side-ads .size-full
 uukmanews.com##.each-side-ads > a
+prothomsokal24.com##.eclipsewh-ad-content
 hmtvlive.com##.ed-first
 jaijaikal.com##.elementor-12 .elementor-widget-image
 mpcnews.in##.elementor-41 .elementor-widget-text-editor
@@ -3347,6 +3348,7 @@ emungaru.com##.widget img[src^="data:"]
 labanglatimes.com##.widget-banner
 eadarsha.com##.widget-below_header
 crimediarybd.com##.widget-body > p img
+prothomsokal24.com##.widget-content > img
 chandankesari.com,dailyinshort.com##.widget-header
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
