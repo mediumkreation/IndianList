@@ -3050,6 +3050,7 @@ egoomedia.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
 garavigujarat.biz##.td-main-sidebar .widget_text
 vadakaravoice.com##.td-main-sidebar aside
+mirzapurnews.com##.td-modal-image img
 rastriyakhabars.com##.td-modal-image img.size-full
 vtvvitla.com##.td-no-img-custom-url
 saamana.com##.td-post-content .code-block
@@ -3091,7 +3092,7 @@ realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 jnilive.mobi##.tdb_single_content a.td-modal-image
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
-chatganrbani.com,mirzapurnews.com##.tdb_single_content img
+chatganrbani.com##.tdb_single_content img
 politicsnews24.com##.tdc-row-content-vert-center
 guruvayooronline.com##.tdi_107.td_block_slide
 nishpakshdastak.com##.tdi_110
