@@ -3516,7 +3516,7 @@ akashjatra.com##.widget_tibwky
 mathabhanga.com##.widget_viy
 officialkhabar.com##.widget_widget_banner
 odishabhaskar.com##.widget_wujyim
-dhadingnews.com##.widget_wysiwyg_widgets_widget
+dhadingnews.com,dnewsnepal.com##.widget_wysiwyg_widgets_widget
 thirdeyetoday.com##.widget_youtube_responsive
 ganaadhikar.news##.width-ad
 bangladeshsangbadpratidin.com##.width-ad-wrap
