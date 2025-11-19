@@ -1616,6 +1616,7 @@ channeldurjoy.com##.col-md-6 .add
 paschimnepal.com##.col-md-6 > img.size-full
 banglanewsus.com##.col-sm-12.mt-3 > .textwidget
 surmanews24.com##.col-sm-4 .hidden-xs
+jagratilahar.com##.col-xs-12 .whatsapp > img
 uttarakhandpost.com##.colombiaRequestSend
 aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
 3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,ekhabartoday.com,haryanakranti.com,humarabikaner.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
@@ -4494,13 +4495,11 @@ onstimes.com##img.attachment-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
 khelpati.com##img[alt$=" Ad"]
-jagratilahar.com##img[alt*=" Ad Image"]
 pksnews24.com##img[alt*=" Ad-"]
 enews71.com##img[alt*="/ads/"]
 bebakshakti.com##img[alt*="AD "i]
 kayakairan.com##img[alt*="Chitwan"]
 jagratilahar.com##img[alt*="banner"]
-jagratilahar.com##img[alt*="business ad"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 shariatpurnews24.com##img[alt="-Advertisement-"]
 onlinemarg.com##img[alt="1205X128"]
