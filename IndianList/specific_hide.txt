@@ -3296,7 +3296,7 @@ policemukhbir.com##.vc_figure .vc_box_border_blue
 lekhnathkhabar.com##.vc_grid-container-wrapper .wpb_content_element
 ayushindianews.com##.vc_images_carousel
 bangladeshmail.news,dailyceylon.lk,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,sathiyam.tv,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
-coastal-mirror.com,justkannada.in##.vc_raw_html img
+coastal-mirror.com,encounterindia.in,justkannada.in##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 sharpbharat.com##.vc_raw_html:not(.tdi_87)
 sankalpsavera.com##.vc_row.vc_row-has-fill
