@@ -2808,6 +2808,7 @@ prasashan.com##.sidebarad-content
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 slogannews.com##.simple-ad
+bmnews24.net##.simple-ad img:not([src*="service_banner.jpg"])
 himalayonlinemedia.com##.simple-image
 khabaristan.com##.single-728
 probashbarta.com##.single-add
@@ -3022,7 +3023,7 @@ dainikbharatbhaskar.com,dainikdawa.com#@#.td-ad-tp
 loksansar.in,pathramonline.com##.td-adspot-title + a
 odisha.live##.td-all-devices
 nayabangla.com,southlive.in##.td-banner-bg
-bmnews24.net,dotooknews.com,irinjalakuda.com,ucchakontha.com##.td-banner-wrap-full
+dotooknews.com,irinjalakuda.com,ucchakontha.com##.td-banner-wrap-full
 teraisandesh.com##.td-cpt-post:has(> div > div > div > [title="Advertisement"i])
 egoomedia.com##.td-fix-index > h4
 24ghonta.news,dailydeshkidharti.com##.td-fix-index img
@@ -3294,7 +3295,6 @@ policemukhbir.com##.vc_figure .vc_box_border_blue
 lekhnathkhabar.com##.vc_grid-container-wrapper .wpb_content_element
 ayushindianews.com##.vc_images_carousel
 bangladeshmail.news,dailyceylon.lk,malayalimanasu.com,manvadhikarabhivyakti.com,ournews24.com,politicsnews24.com,sarhadkasakshi.com,sathiyam.tv,thedeoriatimes.in,torrongonews.com,yarldeepam.com##.vc_raw_html
-bmnews24.net##.vc_raw_html .td-fix-index > div
 coastal-mirror.com,justkannada.in##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 sharpbharat.com##.vc_raw_html:not(.tdi_87)
