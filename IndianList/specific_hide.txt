@@ -554,6 +554,7 @@ saaravita.lk###openModal1
 patnalive.co.in###oppopo
 agnijwala.com,crickethimalaya.com###ouibounce-modal
 ratantimes.com###owl-demo1
+samachardoot.com###page .elementor-shortcode > a img
 muzaffarpurwow.com###panel-134-5-1-0
 janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
@@ -606,7 +607,6 @@ kalaroanews.com###right-sidebar .widget_text img:not([src*="/Apps-"])
 mekhrajbairwa.com###right-sidebar-inner
 punjablivenews.in###right-sidebar-inner .widget_media_image
 starbangla.in###right-sidebar-inner .widget_text
-samachardoot.com###right_banner
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
 jantakiawaz.org,thejasnews.com###right_level_3
