@@ -1685,6 +1685,7 @@ thakurgaon24newspaper.com##.custom-html-widget > img
 gtamilnews.com##.custom-html-widget iframe
 jatirkhantha.com.bd##.custom-html-widget img
 torontotamil.com##.custom-html-widget table[border="1"] img
+deshclick.com##.custom-shortcode-row
 nationnewshindi.com##.custom-sidebar-video
 7elevennews.com##.custom-slider
 gramajyothi.com##.custom1
