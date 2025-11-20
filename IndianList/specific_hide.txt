@@ -700,7 +700,6 @@ techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
 upayuktha.com###sidebar-wrapper .widget.Image
 abtaknews.com,desikhabar.in,digontonewsbd.com,indiasnews24.com,pradeepamonline.com###sidebar1
-nknewsindia.com###sidebar2
 dailypunorutthan.com,daynightnewsbd.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 himaliawaj.com,jkcnews.com###simple-image-popup
 kulalaworld.com###simpleimage-13
@@ -1281,7 +1280,7 @@ azhimukham.com##.advertisement-cntnt
 sharebazarnews.com##.advertisement-column
 capitallivenews.com##.advertisement-fullwith
 arthadabali.com##.advertisement-heading
-khabarhikhabar.com##.advertisement-marquee-container
+khabarhikhabar.com,nknewsindia.com##.advertisement-marquee-container
 deshdorshon.com,newsbrahmanbaria.com##.advertisement-section
 kalaroanews.com,ournewsbd.net##.advertisement-single-float
 najiknews.com##.advertisement-wrap
