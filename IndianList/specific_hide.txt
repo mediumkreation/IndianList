@@ -3061,6 +3061,7 @@ saamana.com##.td-post-content .code-block
 hamdardtv.com##.td-post-content .td-a-rec
 a2znews24.in##.td-post-content .td-a-rec > figure img:not([src*="whatapp"])
 vavuniyanet.com##.td-post-content > div[style^="clear"]
+banglanewslive.co.in##.td-post-content div[id^="bangl-"]
 ehapurnews.com,newsfastweb.com##.td-post-content figure.wp-block-image
 prabhattimes.com##.td-post-content img.size-full
 aapkiummid.com##.td-post-content img.size-medium
@@ -3160,7 +3161,6 @@ khabrainabhitak.org##.theiaStickySidebar .ml-slider
 bebakmanch.com##.theiaStickySidebar .owl-carousel
 bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com,urjanchaltiger.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
-banglanewslive.co.in##.theiaStickySidebar .widget.HTML:not(#HTML7)
 hindustandailynews.com,jansaamna.com,jiwanjotsavera.com,purvanchalnews.com##.theiaStickySidebar .widget_block
 bharatnews18.in,bograsangbad.com,expertmedianews.com,mithilacitynews.in,navsatta.com,nayabharat.live,parvatanchal.com,samaynewslive.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
@@ -3714,6 +3714,7 @@ aajkaal.in##[class^="ad__"]
 beanibazarnews24.com##[class^="add-"]
 lightnewsbd.com##[class^="ads_"]
 sirfsach.in##[class^="adsbox"]
+banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
@@ -3947,6 +3948,7 @@ biharnation.in#?#.primary-sidebar-widget:-abp-has(> .section-heading > .h-text:-
 blivenews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 calcuttanews.tv##body > [class$="ads"]
 kasturinews.com##body > a img
+banglanewslive.co.in##body > div[style*="linear-gradient"]
 manvimedia.page##body ~ iframe
 asianbanglanews.com##body ~ iframe[style*="height: 100%"]
 bulandsoch.com#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |))
