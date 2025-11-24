@@ -854,7 +854,6 @@ tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
 uptak.in###v-uptak-in-0
-weunetwork.in###v-weunetwork-in-0
 primestv.in###vda-4
 marunadanmalayalee.com###vdo_ai_div-0
 ghaziabadparikrama.com###video-widget-2
@@ -892,7 +891,7 @@ kewalsach.com###widget_sp_image-14
 despardesweekly.co.uk,ruhelkhandpost.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
 despardesweekly.co.uk###widget_sp_image-7
-bihardootnews.com,newsinbihar.com,sansanikhejsamachar.in###wonderpluginslider-container-1
+bihardootnews.com,newsinbihar.com,sansanikhejsamachar.in,weunetwork.in###wonderpluginslider-container-1
 gautamsandesh.com###wonderpluginslider-container-3
 jinews.co.in###wowslider-container1
 hindustanvision.com###wowslider-container105
@@ -2704,7 +2703,6 @@ hindi.mykhel.com,tamil.mykhel.com##.rt-top-ad
 shomoynews24.com,shomoynews24.net##.sa-ad
 prernanews.com##.sadv
 promisenews24.com##.safe_life:has(> .textwidget)
-weunetwork.in##.sale-ads
 mangalorean.com##.sam-pro-ad
 sangbadchorcha.com##.sangb-after-content
 theindianstate.in##.sb-banner
@@ -3229,7 +3227,6 @@ sawalnepal.com##.top__advertisement
 biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
-weunetwork.in##.top_ads_2
 shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
 nepalparikrama.com##.top_banner
@@ -3282,7 +3279,7 @@ doonited.in##.unav_banner
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
 khabarchalisa.com##.uris-slider-post-title
-damstv.com,weunetwork.in##.utf_ad_content_area
+damstv.com##.utf_ad_content_area
 uttarakhandcitynews.com##.uttar-widget
 vatsalyanews.com##.vatsa-middle
 abhibharat.com##.vc_col-sm-3 .bs-shortcode
