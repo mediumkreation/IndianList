@@ -698,6 +698,7 @@ yarldevinews.net###sidebar-wrapper .widget.HTML
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
 upayuktha.com###sidebar-wrapper .widget.Image
+bharatprawah.com###sidebar-wrapper .widget.Image:not(#Image4)
 abtaknews.com,desikhabar.in,digontonewsbd.com,indiasnews24.com,pradeepamonline.com###sidebar1
 dailypunorutthan.com,daynightnewsbd.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 himaliawaj.com,jkcnews.com###simple-image-popup
@@ -1620,7 +1621,6 @@ aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,cric
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
 naidunia.com##.common-ads
-bharatprawah.com##.common-widget .Image:not(#Image1):not(#Image3)
 nepalstatus.com##.comon-ads
 manoramanews.com##.comp-ad
 bidurkhabar.com,samadhannews.com,samayapost.com##.cont_break_ads
