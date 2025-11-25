@@ -1290,7 +1290,7 @@ sangbadmail24.com##.advertisement_left_column
 sangbadmail24.com##.advertisement_right_column
 bdipo.com##.advertisements
 newsplus24x7.com##.advertising
-aapkikhabar.com,anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,publicnewstv.in,upuklive.com,uttarakhandpost.com##.advertismentRow
+aapkikhabar.com,anugrahavision.com,bulandsoch.com,cricketkhabara.com,keralavoter.com,newstm.in,publicnewstv.in,uttarakhandpost.com##.advertismentRow
 divaina.com##.advertisments
 iamgujarat.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
 tulsipurkhabar.com##.advetisement
@@ -4589,7 +4589,6 @@ amritvichar.com##main .htmlwidget
 timenewsbd.net##main .py-0 center img
 arthikawaj.com##main [data-adid]
 deshabhimani.com##main div:has(> .h-full > img[alt="ad"])
-upuklive.com##main div:has(> ins.adsbygoogle)
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
@@ -4710,8 +4709,7 @@ tv20news.in#?#p:-abp-contains(Advertisement)
 twentyfournews.com#?#div:-abp-has(> span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
 unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
-upuklive.com#?#.colombiaonesuccess > div:-abp-has(> div > div > a span:-abp-contains(Ad |))
-upuklive.com#?#main div:-abp-contains(Advertisement)
+upuklive.com#?#.gb-container:-abp-contains(Advertisement)
 uthayannews.ca#?#.widget_text:-abp-has(.widget-title > span:-abp-contains(Advertising))
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(div-gpt-ad > div > div > a> div *:-abp-contains(Ad:) )
