@@ -634,7 +634,7 @@ navpradesh.com###secondary .widget_media_image:not(#block-64)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
 apnades.in,jogiexpress.com###secondary .widget_media_video
-24city.news,aapkakhabri.co.in,bangla52news.com,livebavaal.com,phaddalo.com,ptbnews.in,seithisolai.com,vatankiawaz.in###secondary .widget_text
+24city.news,aapkakhabri.co.in,bangla52news.com,kabirkiawaz.com,livebavaal.com,phaddalo.com,ptbnews.in,seithisolai.com,vatankiawaz.in###secondary .widget_text
 keralaviews.com###secondary .widget_text img
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
