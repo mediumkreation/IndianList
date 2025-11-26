@@ -1552,6 +1552,7 @@ tamil.thesubeditor.com##.cls
 24jetnews.com,dmoitry.com##.cm-125x125-advertisement-widget
 amarsandesh.com##.cm-beside-slider-widget
 dakhinanchal.com,poojanews.com##.cm-content .widget_media_image
+thelucknowtribune.com##.cm-entry-summary > div img
 thirdeyetoday.com##.cm-entry-summary > h2 > img
 thirdeyetoday.com##.cm-entry-summary > h3 > img
 thirdeyetoday.com##.cm-entry-summary > p img
