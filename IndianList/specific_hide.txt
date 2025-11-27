@@ -2799,7 +2799,7 @@ pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
 lagatar.in##.sidebar-wrap img.d-block
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
-sawalnepal.com##.sidebar__ads
+sawalnepal.com,todaykhoj.com##.sidebar__ads
 onlinerapti.com##.sidebar_block
 anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,lokkhabar.com,nawayug.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
