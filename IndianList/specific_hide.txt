@@ -2370,6 +2370,7 @@ filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
 indianews.in##.mdlad
 mediacover.in##.media-after-content
+kknlive.com##.media_image-2
 vasistatoday.in##.mega-wrap .main-ads-pikihome
 bhilaitimes.com,lalitpurfastnews.com,surgujasamay.com##.metaslider
 punjabvarta.com##.metaslider:not(#metaslider-id-1999)
