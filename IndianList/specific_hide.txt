@@ -4087,7 +4087,7 @@ padmatimes24.com##div[class*="ad_"]
 probashirdiganta.com##div[class*="adbox"]
 asianetnews.com##div[class*="adbox"]:has(> [id^="div-gpt-ad-"])
 dainiknotunkhobor.com##div[class*="add"]
-ejalalabad.com##div[class*="ads"]
+ejalalabad.com,kaleralo.com##div[class*="ads"]
 livebharatnews.in,realitynews.in##div[class*="ads-height-"]
 aajkaaldaily.com,mohanonda24.com##div[class*="ads_"]
 barendraexpress.com.bd,dailyshomosamayik.com##div[class*="ads__"]
