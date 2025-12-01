@@ -39,7 +39,7 @@
 /ADD.gif|$domain=paryabekhyak.com
 /add.jpg|$domain=gourbarta24.com|muznews.online|sheershakhobor.com
 /add/*$domain=avadhtimes.com
-/add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylhettoday24.news|sylhetview24.net|thereport24.com|u71news.com
+/add/*$image,domain=ajkalnewyork.com|amreliexpress.com|habiganj-samachar.com|poriborton.com|sharenews24.com|sylhettoday24.news|sylhetview24.net|u71news.com
 /AddImages/*$domain=thurannakathu.com
 /Ads-$domain=dailyceylon.com
 /ads-$domain=gmnewsbd.com|prothom-feni.com
@@ -62,7 +62,7 @@
 /Advertisement/*$domain=lifetv24.com|sharebusiness24.com
 /advertisement/*$domain=lokpati.com|madhyanhadaily.com|nattuvartha.news|techvoice24.com
 /advertisementimages/*$domain=jagonarsingdi24.com
-/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|newsfirst.lk|sangbadsarabela.com|telugutimes.net|thahapati.com|timesofpradesh.com
+/advertisements/*$domain=banglakatha.com.au|dailydhakareport.com|infokhabar.com|janachasotimes.com|kashilive.com|keralaonlive.com|lalmonibarta.com|nepalipatra.com|nepalkhabar.com|newsfirst.lk|sangbadsarabela.com|telugutimes.net|thahapati.com|thereport24.com|timesofpradesh.com
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
@@ -72,7 +72,7 @@
 /advts/*$domain=kayalpatnam.com
 /Banner-$domain=indias18.com
 /banner-$domain=navakal.in
-/banner/*$domain=arthparkash.com|binodonsarabela.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com|thereport24.com
+/banner/*$domain=arthparkash.com|binodonsarabela.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /bigyaapan/*$domain=baahrakhari.com|capitaldainik.com|godawarinews.com|kailalikhabar.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|nepalsamaya.com|newsgriha.com|ninglashainionline.com|setopati.com|sidhakhabar.com|surakshyanews.com|swasthyakhabar.com
 /bigyaapan^$domain=kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com

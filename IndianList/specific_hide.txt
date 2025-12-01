@@ -85,7 +85,7 @@ odia-ray.in###Mod225
 battirepnews.com###SidebarWidgets-S1 .widget.Image
 dainikroorkee.com###Slider
 yugabdha.com###ac-wrapper
-malabarflash.com,mewartimes.com,thereport24.com###ad
+malabarflash.com,mewartimes.com###ad
 beauronews.com,headline24x7.com,rkexpose.com###adAboveHeader
 janchhaya.in###adCarousel1_1
 janchhaya.in###adCarousel2
@@ -95,7 +95,6 @@ tupaki.com###ad_after_header
 anandamela.in###ad_container2
 maxwoman.in###ad_first_middle
 tistanews24.com###adbreakingnews
-thereport24.com###add-place
 deshbandhu.co.in###addImage
 editorjee.com###addheaderbanner
 professorsbd.com###addv
@@ -2159,7 +2158,6 @@ mekhrajbairwa.com##.hustle-layout
 siyasatdarpan.com##.hustle-popup
 blackoutnews.in##.hustle-ui
 mediabharti.net##.icici
-thereport24.com##.idlc
 jansatta.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
 sylheterchakrirkhabar.com,ujyaaloonline.com##.iframe-container
@@ -3202,7 +3200,6 @@ kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bengali.indianexpress.com##.top-ad-height .tbl-feed-card:has(.trc-content-sponsored)
 bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
 kolomerkotha.com##.top-add-img
-thereport24.com##.top-add-left4
 aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
 telugutimes.net##.top-ads-banner
@@ -4235,7 +4232,6 @@ beauronews.com##div[id*="-ad-block-"]
 banglatribune.com##div[id*="BT_Inner_"]
 odiagossip.com##div[id*="HP_O_LHS_3"]
 odiagossip.com##div[id*="HP_O_LHS_4"]
-thereport24.com##div[id*="_300x250"]
 utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
 saharasamachar.com##div[id*="_O_"] div:has(> div > div > a> p + h3 )
 uttarakhandpost.com##div[id*="_O_LHS_"] > div:nth-child(-n+10)
