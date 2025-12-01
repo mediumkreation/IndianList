@@ -1304,7 +1304,7 @@ deepika.com##.advt-contant
 divyahimachal.com##.advt-homepage
 indiaspeaks.news##.advt-widget
 webdunia.com##.advt_336
-dainiknepal.com,dainiknepal.com.np,samayapost.com##.advt_bx
+dainiknepal.com.np,samayapost.com##.advt_bx
 babushahi.in##.advt_left
 samayapost.com##.advt_r
 dainiktribuneonline.com,dinakaran.com,punjabitribuneonline.com##.advt_text
@@ -4649,7 +4649,7 @@ thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mayadevionline.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 suryakhabar.com##section.widget > figure
-abcnepal.tv,chakrapath.com,kendrabindu.com,notebazar.com,onlinetvnepal.com##section.widget figure
+abcnepal.tv,chakrapath.com,dainiknepal.com,kendrabindu.com,notebazar.com,onlinetvnepal.com##section.widget figure
 actpronepal.com##section.widget figure img
 clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,lumbinisanchar.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,thecinematimes.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
