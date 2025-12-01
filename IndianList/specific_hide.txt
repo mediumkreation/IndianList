@@ -1229,6 +1229,7 @@ saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
 sakshi.com##.adtext
 aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,hamrakura.com,hindustanvision.com,janapati.net,maharashtratimes.com,samakal.com,udayakala.news,weeklynepal.com##.adv
+etharasambhala.com##.adv-area
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com##.adv-img
 naulonews.com,ratopati.com##.adv-item
@@ -2577,7 +2578,7 @@ mithlahindinews.com,vasistatoday.in##.piki-ads-res
 bdnews999.com,dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,priyochandpur.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
-hamdardtv.com##.plyr
+etharasambhala.com,hamdardtv.com##.plyr
 jamalpurlive.com##.popbox
 dhadingnews.com,dinamina.lk##.popmake-content
 dhangadhikhabar.com##.popover-ad
