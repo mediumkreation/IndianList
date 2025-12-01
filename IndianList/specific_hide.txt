@@ -394,6 +394,7 @@ chhapratoday.com###image_gallery_36934
 chhapratoday.com###image_gallery_37522
 chhapratoday.com###image_gallery_37524
 indiadhuandhar.in###india-slider-227
+pratahkal.com###inside_post_content_ad_1
 tamilcinemaz.com###itro_opaco
 filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
 karainagar.com###ivrss_holder1
@@ -4275,6 +4276,7 @@ abbiharnews.com##div[id^="abbih-"]
 achhikhabar.com##div[id^="achhi-"]
 golkhabar.com##div[id^="ad"]
 globalmalayalam.com,swadeshnews.in##div[id^="ad_"]
+pratahkal.com##div[id^="ad_space_"]
 thefocusindia.com##div[id^="ads_"]
 sports.dinamalar.com##div[id^="adv"]
 prabhatparvnews.in##div[id^="advDiv"]
