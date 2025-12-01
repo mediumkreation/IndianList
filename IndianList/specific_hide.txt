@@ -656,6 +656,7 @@ aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,doonhorizon.
 arthikawaj.com,kapilvastupost.com,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
 chhatrapatitimes.com,navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
+farkindia.in###sidebar .text-html-box
 starsamachar.com###sidebar .text-muted
 bhorerkagoj.com###sidebar .textwidget
 saradin.news###sidebar .textwidget img
@@ -3454,7 +3455,7 @@ smartindiadial.com##.widget_media_image:not(#block-6)
 nuwakotexpress.com##.widget_media_image:not(#block-9)
 madhyantar.com##.widget_media_image:not(#media_image-125)
 pplnews.in##.widget_media_image:not(#media_image-13)
-punjabiakhbaar.ca,ravivardelhi.com,sabkikhabar.net##.widget_media_image:not(#media_image-2)
+farkindia.in,punjabiakhbaar.ca,ravivardelhi.com,sabkikhabar.net##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 kmassnews.com##.widget_media_image:not(#media_image-2):not(#media_image-6)
 divyalive.com##.widget_media_image:not(#media_image-28):not(#media_image-49)
