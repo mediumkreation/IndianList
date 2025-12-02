@@ -612,7 +612,7 @@ bankura24x7.com###right_level_2
 jantakiawaz.org,thejasnews.com###right_level_3
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
-aarthiknews.com###roadBlock
+aarthiknews.com,techpana.com###roadBlock
 ekantipur.com###roadblock-ad
 farwesttimesdaily.com###roadblockModal
 aajkijandhara.com###samvad-popupModal
@@ -2477,6 +2477,7 @@ payyolionline.in##.news-text-content > h1 img
 news13uttarakhand.com##.news1-before-content_6
 news13uttarakhand.com##.news1-before-content_9
 bangla24x7.news,realtamilnews.com##.news247_ads_banner_widget
+techpana.com##.newsTech-ads
 morbiupdate.com##.news_ad_hide_category
 chapaibarta24.com##.news_content .code-block
 dhakarkagoj.com,sangbad-gallery.com##.news_left_part_ad
