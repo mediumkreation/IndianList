@@ -1014,7 +1014,6 @@ edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 nayapage.com##.ad-on-middle-content
-ap7am.com##.ad-pvt
 khabardabali.com##.ad-row-container
 nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
@@ -2640,7 +2639,6 @@ cinemapressclub.com,dhadingupdate.com,industryhit.com,kanakaionline.com,nepalpos
 janayugomonline.com##.pum-title
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
-ap7am.com##.pvt-ads
 indiatimes.com##.pwa-deals
 news18.com##.pwa_add
 shariatpurnews24.com##.py-1 .w_lead
@@ -3701,6 +3699,7 @@ mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
+ap7am.com##[class*="pr-"]
 tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
