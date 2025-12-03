@@ -2636,8 +2636,7 @@ neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
 asomiyapratidin.in,kalakaumudi.com,sathyamonline.com##.publive-dynamic-container
 nakkheeran.in##.publive-slot-span
-cinemapressclub.com,dhadingupdate.com,industryhit.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
-janayugomonline.com##.pum-title
+cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
 punjabnewslive.co.in##.punja-widget
 purvanchalpost.com##.purva-widget
 indiatimes.com##.pwa-deals
