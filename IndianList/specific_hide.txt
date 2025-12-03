@@ -1079,6 +1079,7 @@ pratibha.eenadu.net##.add-336x280
 talashbangla.com,thenewspost.in##.add-area
 newsatfirst.com,voiceofnarayanganj24.com##.add-banner
 khobor24ghonta.com##.add-bg-02
+telugutimes.net##.add-blk-sec
 aajkasach.in##.add-block
 musickhabar.com##.add-bottom-margin
 vishvasnews.com##.add-box
@@ -2511,6 +2512,7 @@ ajkercrimetimes.com##.notice_single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
 abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
+telugutimes.net##.nri-news-rht-image
 hariyalinepal.com##.nt_ads_space img
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -3202,7 +3204,6 @@ bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
 kolomerkotha.com##.top-add-img
 aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
-telugutimes.net##.top-ads-banner
 manoramaonline.com##.top-advt-block
 marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com##.top-atf-wrapper
 dainiksaveratimes.com,khaskhabar.com,rajtimes24.com,sangbadprotidin.com##.top-banner
@@ -3217,7 +3218,6 @@ hamrokhelkud.com##.top-income-source-wrapper
 lionexpress.in##.top-left-add
 muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
-telugutimes.net##.top-news-bar
 radiokanchan.com.np##.top-right-ads
 shatabdinews.com##.topAdv
 crimenewsnepal.com##.topAdvertisementWrapper
@@ -3239,7 +3239,7 @@ livevns.news##.top_madd
 nrimalayalee.com##.top_most_news_post_ad
 abnews24.com,alokitobangladesh.com##.top_new_add
 bojrokontho.com,gujarattimesusa.com,nepaljapansamaj.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
-kulalaworld.com,kulalworld.com,telugutimes.net##.topadd
+kulalaworld.com,kulalworld.com##.topadd
 rosemalayalam.com##.topaddno
 mediavision.news##.topaddsctn
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
@@ -3686,7 +3686,7 @@ yoyocial.news##[class*="  ad-"]
 vikatan.com##[class*="-ad-"]
 prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
-raftaar.in##[class*="-add-"]
+raftaar.in,telugutimes.net##[class*="-add-"]
 epaper.samyukthakarnataka.com,shekhawatilive.com##[class*="-ads-"]
 tv19online.com##[class*="-banner"]
 ekusheysangbad.com##[class*="-banner"]:not(.culture-banner-1)
