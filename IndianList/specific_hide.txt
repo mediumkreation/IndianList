@@ -569,7 +569,6 @@ kusenews.com###pgc-7-1-1
 lokmat.com###photoBanner
 jugantor.com###popAd
 amadershomoy.com###popUp
-samakal.com###popUpModalAd
 deshprotidin.com###popup
 socialsamvad.com###popup-overlay
 hindustanvision.com###popup_box
@@ -784,7 +783,6 @@ kalaroanews.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
 abhibharat.com,agranews.com,aryandigitalseva.com,budaunamarprabhat.com,cnewsbangla.com,currentkhabar.com,dailybangladeshbani.com,dailymomenshahi.com,devbhoomisamvad.in,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,patnanow.com,punjabbaani.com,punjabvarta.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
-achhikhabar.com,himalini.com,live18h.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,ukhiyanews.com###text-32
 satyamlive.com,ukhiyanews.com###text-33
@@ -823,6 +821,7 @@ bdmetronews24.com###text-71
 mbmnewsnetwork.com###text-74
 dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,sylhetnewsbd.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 bograsangbad.com,himalayauk.org,himshimlalive.com,jagprerna.com,kholabazar24.com,kuberbhoomi.com,meherpurpratidin.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
+achhikhabar.com,himalini.com,live18h.com###text-`30`
 bharatsamachartv.in###text-html-widget-14
 akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
 bdtoday24.com###text-html-widget-25
@@ -931,6 +930,7 @@ amaderbarisal.com##.DAdvt
 womeneye24.com##.DContentAdd
 deshprotidin.com##.DHeaderAdd
 ajkermymensingh.com,dainikthakurgaon.com,kurigrambarta.com##.DHeaderBanner
+samakal.com##.DRightSideAdd
 dailyjalalabad.com##.DetailsContent .textwidget
 starkhabre.com##.FrameAdvt1
 banglanewsca.com##.Front-page-Right-Side-Ad
@@ -1227,7 +1227,7 @@ punjabijagran.com##.adssbottom
 saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
 sakshi.com##.adtext
-aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,hamrakura.com,hindustanvision.com,janapati.net,maharashtratimes.com,samakal.com,udayakala.news,vydyaloka.in,weeklynepal.com##.adv
+aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,hamrakura.com,hindustanvision.com,janapati.net,maharashtratimes.com,udayakala.news,vydyaloka.in,weeklynepal.com##.adv
 etharasambhala.com##.adv-area
 gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com##.adv-img
@@ -1333,7 +1333,6 @@ kutchkhabar.com##.amazingcarousel-list-container
 bucksvault.in##.amazon-auto-links-widget
 jagonarayanganj24.com##.amws-custom-widget-show-ad
 bspabla.com##.amzn_wdgt
-samakal.com##.app-news-section-div:has(> .adv)
 shikshakmasik.com##.apple2
 fns24.com##.ar_ads
 heronewsonline.com##.article-container
@@ -1498,8 +1497,6 @@ bornamelanews24.com##.bornamelanews24adlabel
 bbcpunjab.com##.bot-ads
 samacharnama.com##.both_AD
 everestmission.com##.bottom-add-place
-samakal.com##.bottomReadMoreCart div[style*="width: 300px !important;height: 250px"]
-samakal.com##.bottomStickyDesktopDiv
 lokjeewan.com##.bottom_ad_slide
 punjabipost.ca##.bottom_advt
 dailythanthi.com##.bottom_snackbar_common
@@ -3122,7 +3119,6 @@ nalamidam.net##.tdm_block_inline_image_simplified
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 aashanews.com##.text-4
-samakal.com##.text-body-ad
 news71online.com##.text-center .size-full
 sajhasabal.com##.text-center iframe
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
@@ -3222,7 +3218,6 @@ crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
 banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,indiavoice.com,rninews.co.in##.topRightAdSec
-samakal.com##.topStickyDesktopDiv
 ournewscrew.com,sawalnepal.com##.top__advertisement
 biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
@@ -4202,7 +4197,6 @@ samacharvaarta.com##div[class^="sgpb"]
 azadsipahi.com,cglivenews.co.in,entertainmentkhabar.com,gnebangla.in,khabarpurwanchal.com,mysanchar.com,pcbtoday.in,state7online.com,surabhisaloni.co.in##div[class^="sgpb-"]
 sherpurtimes.com##div[class^="sherp-"]
 shreekanchanpath.com##div[class^="shree-"]
-samakal.com##div[class^="textBodyAd"]
 thejoharnews.com##div[class^="thejo-"]
 biratkhabar.com##div[class^="top-sidebar-adv"]
 eurobanglanews24.com##div[class^="topad"]
