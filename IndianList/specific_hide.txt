@@ -453,8 +453,8 @@ punjabbaani.com###media_image-15
 kushinagarlive.com###media_image-16
 hindvatannews.com###media_image-17
 webreporter.co.in###media_image-18
-webreporter.co.in###media_image-19
-abpbharat.com,amaderbikrampur.com,balliatimes.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,punjablivekhabarnama.com,sajagpahad.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,sherpurnews24.net,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews.com,upnewz.in###media_image-2
+webreporter.co.in###media_image-19ukhiyanews.com
+abpbharat.com,amaderbikrampur.com,balliatimes.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,laxminews24x7.com,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,punjablivekhabarnama.com,sajagpahad.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,sherpurnews24.net,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews,upnewz.in###media_image-2
 prompttimes.com###media_image-20
 dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 cgnews24x7.wordpress.com###media_image-23
@@ -788,7 +788,7 @@ achhikhabar.com,himalini.com,live18h.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,ukhiyanews.com###text-32
 satyamlive.com,ukhiyanews.com###text-33
-hindustanheadlines.in,torontotamil.com###text-34
+hindustanheadlines.in,torontotamil.com,ukhiyanews.com###text-34
 himalini.com,kalersylhet.com,satyamlive.com###text-35
 anaicoddai.com,satyamlive.com,trttamilolli.com###text-36
 anaicoddai.com,satyamlive.com###text-37
