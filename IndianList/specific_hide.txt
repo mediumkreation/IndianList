@@ -2430,6 +2430,7 @@ dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 aamsanchar.com,sajhamanch.com##.my-2
 kanakaionline.com##.my-2 img
+jaijaidinbd.com##.my-3 > a img:not([src*="google-news.png"])
 corporatenews.com.bd##.my-3 img
 amarbarta24.com##.my-3 img.w-100
 mzamin.com##.my-5.justify-content-center
