@@ -1136,7 +1136,7 @@ fenitribune.com##.add_area > .textwidget
 allnewsbharat.com,emstv.in,khoborersomoy.com##.add_banner
 gtamilnews.com##.add_block_hdefault
 news18.com,news18marathi.com##.add_container
-malayalam.news18.com,telugu.news18.com##.add_container-pht
+malayalam.news18.com,news18marathi.com,telugu.news18.com##.add_container-pht
 ridoyachandpur.com##.add_content
 europemalayali.co.uk##.add_inner_news
 bslnews24.com##.add_pad_bot_single
@@ -1308,6 +1308,7 @@ babushahi.in##.advt_left
 samayapost.com##.advt_r
 dainiktribuneonline.com,dinakaran.com,punjabitribuneonline.com##.advt_text
 newsplus24x7.com##.advtertise
+news18marathi.com##.adwpr
 citykhabre.com##.adwrp
 trustnews24.com##.af-middle-header .content_block
 aryavi.com##.affiliate-card.text-center
