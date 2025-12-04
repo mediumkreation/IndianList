@@ -22,7 +22,6 @@
 -ads-banner-$domain=timeshindi.in
 -ads.jpg|$domain=bigulnews.tv|thebiharnews.com
 -ads.png|$domain=ctgsun.com
--ADV-$domain=brtnepal.com
 -adv.png$domain=todayexpressnews.com
 -advert.jpg|$domain=samakalam.com
 -bannar.jpg|$domain=kurigramlive.com
@@ -815,6 +814,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||brightpost.in^*_Drive
 ||britbangla24.com/wp-content/uploads/2019/09/BANGLACARPETS-1-288x165.jpg
 ||britbangla24.com/wp-content/uploads/2020/07/western_union.jpg
+||brtnepal-com.sobizcloud.com^*-ADV-
 ||brtnepal.com/wp-content/uploads/2021/07/makalu-travels-new-web-banner_blue1.jpg
 ||brtnepal.com/wp-content/uploads/2023/12/Ongoing-logo-advnew.jpg
 ||bslnews24.com/wp-content/uploads/2019/09/IT.jpg
