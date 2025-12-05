@@ -2829,6 +2829,7 @@ newssanjal.com##.single-sidebar .post-carousel-1
 nepalbritain.com,rastriyakhabar.com,tibrakhabar.com##.single-wrapper-details-sidebar-ads
 dristyprotidin.com##.single3-page-add
 avenues.tv,purbelinews.com##.single__bigyapaan
+nepalkhabar.com##.single__boxAd-float
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 cumillasdnews24.com##.single_details .code-block
