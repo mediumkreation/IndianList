@@ -15,7 +15,7 @@
 -add-$image,domain=chauthiduniya.com|dainikazadi.net|samarneetinews.com
 -add.gif|$domain=amarsylhet24.com|chandpurreport.com|somoysongbad.com|wenepali.com
 -add.jpg|$domain=bangladeshkantha.com|bishwanathbd24.com|eaajkaal.in|matrubhasa.com|patheo24.com|suprovatsatkhira.com|teluguwishesh.com
--add.png|$domain=kalaroanews.com|osnepal.com|sangbadsarabela.com
+-add.png|$domain=kalaroanews.com|sangbadsarabela.com
 -adds-$domain=ddnews24x7.com
 -ads-$domain=bahrainvartha.com
 -Ads-$domain=bdtoday24.com|dailyceylon.com|gopalganj.org|meelparvai.net
@@ -73,7 +73,7 @@
 /banner-$domain=navakal.in
 /banner/*$domain=arthparkash.com|binodonsarabela.com|firlive.com|jogsanjogtimes.com|kanvkanv.com|keralafinance.com|khabor.com|laksam.com|nbs24.org|tamil.com
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
-/bigyaapan/*$domain=baahrakhari.com|capitaldainik.com|godawarinews.com|kailalikhabar.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|nepalsamaya.com|newsgriha.com|ninglashainionline.com|setopati.com|sidhakhabar.com|surakshyanews.com|swasthyakhabar.com
+/bigyaapan/*$domain=baahrakhari.com|capitaldainik.com|godawarinews.com|kailalikhabar.com|lumbinitimes.com|nayadainiki.com|nepalipublic.com|nepalsamaya.com|newsgriha.com|ninglashainionline.com|osnepal.com|setopati.com|sidhakhabar.com|surakshyanews.com|swasthyakhabar.com
 /bigyaapan^$domain=kalikanews.com|khulaasa.com|nepalitwa.com|nepallive.com|shilapatra.com
 /bigyapan/*$domain=himalkhabar.com|merolagani.com
 /blocks/block_$domain=aajtakmedia.net|aankhennews24.com|bhavtarini.com|cg24news.in|deshpatra.com|firstbharat.in|firstrajasthan.com|gexpressnews.com|hindustankhabar.com|islamonweb.net|newsexpress24.com|pickthekhoj.in|polkholindia.com|postcardbd.com|purvikranti.com|sansaninews.com|vartanews.com
@@ -2825,7 +2825,6 @@ perfection-ias-upsc$domain=nextbihar.com
 ||oporadhsangbad.com/wp-content/uploads/2018/04/1_r7_c1_
 ||orthosongbad.com/wp-content/uploads/2025/09/ad-2.webp
 ||orthosongbad.com^*_ad_
-||osnepal.com/wp-content/uploads/2022/06/2-new-banner-hospitalized-
 ||ottrancheithi.com/wp-content/uploads/2024/10/Vettaiyan_Banner_Background.gif
 ||ourislam24.com/public/adds/FHB-INTERNATIONAL.gif
 ||ourmyliddy.com^*/logo_6.jpg
