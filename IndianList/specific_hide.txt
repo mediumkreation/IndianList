@@ -489,7 +489,7 @@ wishavwarta.in###media_image-75
 bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,khaptadmalikanews.com,prajawani.in,rashtranayaknews.com,sasthabangla.com,theblastkhabar.com,visfotnews.com,voiceofsatkhira.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
-dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,hindustanheadlines.in,khabardinbhar.net,lokatantraonline.com,odishalink.com,tamilnewsstar.com,vatankiawaz.in,visfotnews.com###media_image-9
+dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,hindustanheadlines.in,khabardinbhar.net,lokatantraonline.com,odishalink.com,vatankiawaz.in,visfotnews.com###media_image-9
 smj24.com###media_video-1
 derbykhabar.com###media_video-16
 derbykhabar.com,newzstudio.com###media_video-17
@@ -653,7 +653,7 @@ aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,doonhorizon.
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
-chhatrapatitimes.com,navyugsandesh.com,tamilnewsstar.com###sidebar .text-html
+chhatrapatitimes.com,navyugsandesh.com###sidebar .text-html
 farkindia.in###sidebar .text-html-box
 starsamachar.com###sidebar .text-muted
 bhorerkagoj.com###sidebar .textwidget
@@ -668,7 +668,7 @@ indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 steelcity.online###sidebar .widget_block
-satyasamachar.in,tamilnewsstar.com###sidebar .widget_custom_html
+satyasamachar.in###sidebar .widget_custom_html
 awajnews.com,dbnnews.in,munshigonjerkagoj.com,news24x365.com,pahadsamachar.com,punjabnewslive.co.in,srimanexpress.digital###sidebar .widget_media_image
 digitalnewslive.com###sidebar .widget_metaslider_widget
 badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,news24x365.com###sidebar .widget_text
@@ -780,7 +780,7 @@ chakarianews.com###text-26
 tnilive.com###text-27
 kalaroanews.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
-abhibharat.com,agranews.com,aryandigitalseva.com,budaunamarprabhat.com,cnewsbangla.com,currentkhabar.com,dailybangladeshbani.com,dailymomenshahi.com,devbhoomisamvad.in,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,patnanow.com,punjabbaani.com,punjabvarta.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
+abhibharat.com,agranews.com,aryandigitalseva.com,budaunamarprabhat.com,cnewsbangla.com,currentkhabar.com,dailybangladeshbani.com,dailymomenshahi.com,devbhoomisamvad.in,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,patnanow.com,punjabbaani.com,punjabvarta.com,tamilnewsstar.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
 allaiyoor.com,himalini.com,kalaroanews.com,ukhiyanews.com###text-32
