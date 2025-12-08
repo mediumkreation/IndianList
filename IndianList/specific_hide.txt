@@ -1085,7 +1085,7 @@ aajtak.in##.add-center-div
 tatkalsamachar.com,teluguone.com##.add-container
 anandalok.in##.add-gap
 dailygazipuronline.com##.add-high
-bd24time.com,ekhansangbad.com,fulbariapratidin.com,gnewsbd24.com,mkantho.com,sambadsaradin.com##.add-image
+bd24time.com,ekhansangbad.com,fulbariapratidin.com,mkantho.com,sambadsaradin.com##.add-image
 dainikagnipath.com,sajhadabali.com##.add-img
 dainiknarsingdi.com,diptonews24.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com##.add-imgae
 colorsnewslive.com,hindi.nyoooz.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com,womenscorner.com.bd##.add-inner
@@ -2571,7 +2571,7 @@ jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
-bdnews999.com,dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,priyochandpur.com##.pitwAdvWrap
+bdnews999.com,dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,gnewsbd24.com,priyochandpur.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 etharasambhala.com,hamdardtv.com##.plyr
