@@ -3549,7 +3549,9 @@ bebakuttarakhand.com##.wp-image-12972
 onakanthirkantho.com##.wp-image-133
 bonggonews.com##.wp-image-13566
 jpworldnews.com##.wp-image-1366
+battinaatham.net##.wp-image-147332
 newsgil.in##.wp-image-15016
+battinaatham.net##.wp-image-159109
 koshiexpressnews.com##.wp-image-18319
 panchkulasamachar.com##.wp-image-18547
 newssunamganj.com##.wp-image-19215
@@ -4538,7 +4540,9 @@ dailypurbodesh.com##img[class^="sb-ads"]
 kalpa.news##img[data-lazy-src*="-advt-" i]
 hotnewsindia.com##img[height="5667"]
 bhadainimirror.com##img[id^="imgPlug_"]
+battinaatham.net##img[src*="-Ad" i]
 shivamoggalive.com##img[src*="-advt-"]
+battinaatham.net##img[src*="Advert" i]
 nayasadak.com##img[src*="Bigyapan"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
