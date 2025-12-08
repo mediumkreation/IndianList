@@ -3748,7 +3748,6 @@ biharnews7.com##a.post-middle-banner
 firstlookbihar.in##a.sideAdd
 biharnews7.com##a.sidebar-banner
 irinjalakuda.com##a.td_spot_img_all
-thaiveedu.com##a.vc_single_image-wrapper:not([href*="thaiveedu.com"])
 sagartvnews.com##a[class^="myadsply"]
 bangladeshonline24.com##a[href*=".ac.bd"]
 mymensinghpratidin.com##a[href*="/ad-2/"]
