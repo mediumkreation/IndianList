@@ -1572,7 +1572,7 @@ kannadi.news##.code-block-15 div:nth-child(3)
 ajkerkrishi.com,malnadtimes.com,naugachia.com,newstodayjharkhand.com##.code-block-2
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,newsvibe.in,thepoliticsagain.com##.code-block-4
-deshdoot.com,krishakjagat.org,mangalwedhatimes.in##.code-block-5
+deshdoot.com,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com,tamizhdb.com,vijayapatha.in##.code-block-8
 chanakyanewz.com##.code-block-center
@@ -1588,7 +1588,7 @@ delhibulletin.in##.code-block:not(.code-block-2)
 cinereporters.com,raibaaruttarakhand.com##.code-block:not(.code-block-3)
 magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 banglaexpress.in,deshprahari.com##.code-block:not(.code-block-6)
-navbharatsamay.in##.code-block:not(.code-block-9)
+krishakjagat.org,navbharatsamay.in##.code-block:not(.code-block-9)
 bangalianaa.com##.code-widget
 rangpur24.com##.codedokan_widget
 dainiknotunkhobor.com##.codedokan_widget > figure img
