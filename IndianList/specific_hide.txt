@@ -2005,7 +2005,7 @@ trttamilolli.com##.galboxcontainer
 bangladesherkhabor.net##.gallery
 pardaphash.com##.gallery-ads
 dainikdeshersathe.com##.gallery_section
-dcnepal.com,khullamanch.com,makalukhabar.com##.gam-ad-position-wrap
+dcnepal.com,karobardaily.com,khullamanch.com,makalukhabar.com##.gam-ad-position-wrap
 emailkhabar.com,khullamanch.com,nawalpurtimes.com##.gam-each-ad
 nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 nepalpress.com##.gam-each-npad
@@ -2245,7 +2245,6 @@ kageshworikhabar.com##.kages-widget
 kasturinews.com##.kastu-widget
 prabartan.com##.kc_single_image
 steelcity.online##.kc_text_block
-karobardaily.com##.kd-ad-horizontal
 kannadadunia.com##.kd_adv1
 filmcityworld.com##.kenm
 khabhar24live.co.in##.khaba-single-blog-manual
@@ -4663,7 +4662,6 @@ abcnepal.tv,chakrapath.com,dainiknepal.com,kendrabindu.com,notebazar.com,onlinet
 actpronepal.com##section.widget figure img
 clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,lumbinisanchar.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,thecinematimes.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
-karobardaily.com##section.widget img:not(.wp-image-53237)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 newspolar.com##section.widget img:not(.wp-image-85386):not(.wp-image-87331)
 everesttimesnews.com,kathmandupati.com,lokpath.com##section.widget img:only-child
