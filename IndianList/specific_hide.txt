@@ -2335,7 +2335,7 @@ bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-si
 kundapraa.com##.main-sidebar .widget_media_image:not(#block-3)
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 maalaimalar.com##.main-wrapper:not(.news-details-page) div:has(> div > [id^="div-gpt-ad-"])
-malayalam.news18.com,news18marathi.com,telugu.news18.com##.mainAds_contnr
+malayalam.news18.com,news18marathi.com,punjab.news18.com,telugu.news18.com##.mainAds_contnr
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 hindustanvision.com##.main_header .ws_images
 fastnewsbd.com##.mainadvert
