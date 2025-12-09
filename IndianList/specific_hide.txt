@@ -3736,6 +3736,7 @@ gtamilnews.com,tamilscreen.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thestellarnews.com##[id^="thest-"]
+tamil.samayam.com##[id^="trc_wrapper"]:has(div .link-adc)
 ejalalabad.com##[style*="height: 800px;"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
 kalerkotha.com,prabhasakshi.com##[style*="min-height:"]
