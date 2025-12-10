@@ -2633,6 +2633,7 @@ viswamvoice.com##.psv_ad_content
 neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
 asomiyapratidin.in,kalakaumudi.com,sathyamonline.com##.publive-dynamic-container
+odishareporter.in##.publive-dynamic-container:has(> div[id^="div-gpt-ad-"])
 nakkheeran.in##.publive-slot-span
 cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
 punjabnewslive.co.in##.punja-widget
@@ -4054,7 +4055,6 @@ punjabiherald.co.nz##div[aria-label^="HSB-"]
 punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
 punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
 chakrikhobor.com,samayahub.com##div[class$="-ads"]
-odishareporter.in##div[class$="0-ad"]
 ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
 metrovaartha.com##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
