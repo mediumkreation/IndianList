@@ -1218,6 +1218,7 @@ kamadenu.in##.adsbox
 himachalnownews.com##.adsen
 aajbangla.in##.adsense-inject
 nepalesediaspora.com##.adsgo
+dainiki.com##.adsimage
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
 shamolbangla24.com##.adsp
