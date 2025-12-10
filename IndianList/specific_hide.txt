@@ -2207,7 +2207,7 @@ innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,mahilaswasthya.com,setokhari.com##.insert-ad
 dainikshiksha.com##.inside-ad-container
-bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,maxmaharashtra.com,maxwoman.in,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
+bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 anmolbharat.in##.inside-right-sidebar
@@ -3194,6 +3194,7 @@ pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
 hamdardmediagroup.com,janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
+manatelangana.news##.to-be-async-loaded-ad:has(p[style^="text-align:center"])
 kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bengali.indianexpress.com##.top-ad-height .tbl-feed-card:has(.trc-content-sponsored)
 bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
