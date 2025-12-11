@@ -2633,6 +2633,7 @@ neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
 asomiyapratidin.in,kalakaumudi.com,sathyamonline.com##.publive-dynamic-container
 odishareporter.in##.publive-dynamic-container:has(> div[id^="div-gpt-ad-"])
+sambad.in##.publive-dynamic-container:has(div[id^="div-gpt-ad"])
 nakkheeran.in##.publive-slot-span
 cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,rajdhanidaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
 punjabnewslive.co.in##.punja-widget
@@ -3478,7 +3479,6 @@ rajsamandtimes.com##.widget_news_magazine_adv:not(#news_magazine_adv-6)
 wayanadnewsdaily.com##.widget_nmrh
 arya-tv.com##.widget_origin_animated-image
 diyopost.com##.widget_palika_advertisement
-sambad.in##.widget_pkgrdlaobc
 arthosuchak.com##.widget_rftjwq
 freelancerstory.com##.widget_right .textwidget
 khosbasbarta.com##.widget_section .add
