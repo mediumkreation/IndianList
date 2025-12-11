@@ -1671,7 +1671,6 @@ indiapolkhol.in##.ct-header-text
 fonijkorea.net##.ctUp-ads
 10tv.in##.cust-ads
 shasakprashasak.com##.custom img
-arthasarokar.com##.custom-ad-link
 sylhetview24.news##.custom-ads-row
 news4nation.com##.custom-carousel
 khonjkhobor.in##.custom-group-ads
@@ -1905,7 +1904,6 @@ amravatimandal.com,epaper.poknapham.in,janamadhyama.news##.epaper-edition-ads-co
 cgfrontline.com##.epcl-banner
 grandnews.in##.epcl-row
 bankingsansar.com##.esn-ainfo-widget
-arthasarokar.com##.esn_twin_ad_widget
 azchavattomonline.com##.et_pb_ads_0
 himalayapost.com##.et_pb_image
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
@@ -2731,6 +2729,7 @@ raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
 dailysylhet.com##.shRightPanelAdCt
 dailyamardesh.com##.shadow-anchorAdShadow
+arthasarokar.com##.shadow-around-md:has(> a[target="_blank"])
 sunbd24.com##.share-ads
 shobujbangladesh24.com##.shobu-widget
 timesofpradesh.com##.showcase
