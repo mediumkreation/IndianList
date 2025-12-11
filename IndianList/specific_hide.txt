@@ -988,7 +988,7 @@ kapotham.com##.above-sidebar-wrapper
 agrasor.com##.abv-container
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,anmolkhabar.com,banglatelegraph.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokaantar.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thewall.in,tukhabar.com##.ad
+akhabarhub.com,anmolkhabar.com,banglatelegraph.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thewall.in,tukhabar.com##.ad
 cialive.in##.ad .carousel
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 sorejominbarta.com##.ad iframe
@@ -999,7 +999,7 @@ chhattisgarhaaj.com##.ad--widget-no
 khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-amritsandesh.com,awamileaguetimes.com,lokaantar.com,prameya.com##.ad-banner
+amritsandesh.com,awamileaguetimes.com,prameya.com##.ad-banner
 yugvartanews.com##.ad-banner img
 bizshala.com,mttvindia.com,prameyanews7.com##.ad-banner-img
 primenewsbd.com##.ad-box
@@ -1538,7 +1538,6 @@ rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-
 doshdik.com##.category_ad_space
 thesaturdaynews.com##.category_page_right .single_page_bottom_ad
 unfoldbangla.com##.category_side
-lokaantar.com##.center-aligned-ad
 chaipanchayat.com##.chaip-after-content_4
 chamaktaaina.com##.chama-before-content
 chamaktaaina.com##.chama-widget
@@ -2550,7 +2549,6 @@ tamil.oneindia.com##.paidPromo
 keralaspeaks.news##.para-3
 corporatenepal.com,nepalbahas.com,purbelinews.com##.para-3-ad
 nepalkhabar.com##.paraAd
-lokaantar.com##.paraAd img:not([src*="viber_image_"])
 parvatanchal.com##.parva-content
 parvatprerna.com##.parva-widget
 brandbharat.com##.pbox
@@ -4054,7 +4052,9 @@ punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
 punjabiherald.co.nz##div[aria-label^="HSB-"]
 punjabiherald.co.nz##div[aria-label^="Love-Punjab-"]
 punjabiherald.co.nz##div[aria-label^="Mandy-Gur"]
+lokaantar.com##div[class$="-ad"]
 chakrikhobor.com,samayahub.com##div[class$="-ads"]
+lokaantar.com##div[class$="_ad"]
 ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
 metrovaartha.com##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
