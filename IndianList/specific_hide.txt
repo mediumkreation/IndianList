@@ -4520,7 +4520,6 @@ dangkhabar.blogspot.com##img[alt="Abroad Study"]
 bhadainimirror.com##img[alt="Ad"]
 dcnewsbd.com,dhakanewsexpress.com##img[alt="Advertisement"]
 livenewage.com##img[alt="Alt Image"]
-bizpati.com##img[alt="Banner Ad"]
 kayakairan.com##img[alt="DR Cycle"]
 biyanitimes.com##img[alt="Gurukpo plus app"]
 onlinemarg.com##img[alt="Header Ad"]
@@ -4661,7 +4660,7 @@ jubileepost.in##section ~ .e3lan
 thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mayadevionline.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
-suryakhabar.com##section.widget > figure
+bizpati.com,suryakhabar.com##section.widget > figure
 abcnepal.tv,chakrapath.com,dainiknepal.com,kendrabindu.com,notebazar.com,onlinetvnepal.com##section.widget figure
 actpronepal.com##section.widget figure img
 clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,lumbinisanchar.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,thecinematimes.com,yohokhabar.com##section.widget img
