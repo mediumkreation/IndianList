@@ -1001,7 +1001,7 @@ ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
 amritsandesh.com,awamileaguetimes.com,prameya.com##.ad-banner
 yugvartanews.com##.ad-banner img
-bizshala.com,mttvindia.com,prameyanews7.com##.ad-banner-img
+bizshala.com,mttvindia.com##.ad-banner-img
 primenewsbd.com##.ad-box
 dainikayodhyatimes.in##.ad-close
 argusnews.in,dailykaratoa.com,ichowk.in,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
@@ -1531,7 +1531,7 @@ canvasmagazine.com.bd##.canvas-slider
 prothomalo.com##.card-image-wrapper + div
 lanka4.com##.card.text-center
 newsbunch.in##.card:has(> .card-body > img[alt*="Ad"])
-aloavanews24.com,headlinenews.lk,just36news.com,malayalamtodayonline.com,prameyanews7.com,thefollowup.in##.carousel
+aloavanews24.com,headlinenews.lk,just36news.com,malayalamtodayonline.com,thefollowup.in##.carousel
 thefollowup.in##.carousel-item1
 news11.live##.carousel.slide
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
@@ -2397,7 +2397,6 @@ industrialpunch.com##.ml-slider:not(#metaslider-id-53525)
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
-prameyanews7.com##.modal
 capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 nepalipatra.com,onlinerapti.com,postpati.com##.modal-body
 dailysokalersomoy.com,janchhaya.in,nepalmamila.com,thewall.in##.modal-content
@@ -4059,7 +4058,7 @@ metrovaartha.com##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
 khelpati.com##div[class*=" h-[20px]"]:has(> a)
 janpadmirror.com##div[class*="#f5f5f5"]
-dishadaily.com##div[class*="-ad-"]
+dishadaily.com,prameyanews7.com##div[class*="-ad-"]
 epaper.karavaliale.net,epaper.punyanagari.in##div[class*="-ads-"]
 epaper.kannadajanantaranga.in##div[class*="-ads-container"]
 patrika.com##div[class*="-ads_"]
@@ -4167,6 +4166,7 @@ aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,tatkalnews.com##div
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
+prameyanews7.com##div[class^="ad-"]
 eenadu.net##div[class^="ad-block"]
 dailyalokitovor.com,sangbadpratidin.in##div[class^="ad_"]
 britishpathram.com##div[class^="ad_mid"]
@@ -4177,7 +4177,6 @@ bn.bd24report.com,rajshahinews24.com##div[class^="add-section"]
 dailyjonomot.com,theholytimes.com##div[class^="add_"]
 sunaulonepal.com##div[class^="ads"]
 campuslive24.com,punjabipost.ca##div[class^="ads_"]
-prameyanews7.com##div[class^="advertisement-"]
 ajabgjab.com##div[class^="ajabg-"]
 bdtimesnews.com##div[class^="angwp_"]
 patnapost.com##div[class^="aryav-"]
