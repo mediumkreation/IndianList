@@ -4113,6 +4113,7 @@ banglaxp.com##div[class*="code-block"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 kannadavani.news##div[class*="cs-banner"]
 sarkarnama.esakal.com##div[class*="customWidgetWrapper"]:not(:has(> div > div > h2))
+nayapatrikadaily.com##div[class*="details-adv"]
 janpadnewslive.com##div[class*="f0f0f0"]
 ntnews.com##div[class*="gutter"]
 justnewsbd.com##div[class*="h-["]
