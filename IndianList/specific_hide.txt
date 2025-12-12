@@ -1102,7 +1102,6 @@ evartha.in,garshomonline.com##.add-row
 dainiktribuneonline.com,netizennepal.com,thebengalitimes.com##.add-sec
 nepalpostdainik.com##.add-sect
 bdsomachar24.com,dinajpur24.com,dristyprotidin.com,malisamajsocial.com,muktirlorai.com,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
-businesshour24.com##.add-section a:not([href*="businesshour24.com"])
 moulvibazar24.com,newsdnntv.com##.add-section img
 nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
@@ -1390,7 +1389,7 @@ nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
 khabarhub.com##.banner-widget
 bhnnews.com##.banner-wrap img
-banglarchithi.com,bdsomachar24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,rangpur24.com,somoyerkontha.com##.banner2
+banglarchithi.com,bdsomachar24.com,businesshour24.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,rangpur24.com,somoyerkontha.com##.banner2
 dhaka18.com##.banner21
 manoramaonline.com##.bannerImage
 raftaarindianews.com##.bannerListWidget
