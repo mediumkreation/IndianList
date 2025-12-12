@@ -152,7 +152,7 @@ citymirrors.in###bk_sidebar_3
 bigkhabar.com###bk_sidebar_8
 londonbdnews24.com,paridarshaka.com,roddure.com###block-10
 sirsonews24.com###block-100
-lalluram.com,magahinews.com,paridarshaka.com###block-11
+lalluram.com,magahinews.com,news127.com,paridarshaka.com###block-11
 surgujasamay.com###block-112
 samrudhaodisha.com###block-113
 khabarwithcover.com,samrudhaodisha.com###block-114
@@ -3658,7 +3658,7 @@ newsncr.in,prakharpurvanchal.com##.wpb_wrapper.td_block_single_image
 newshindustan.in##.wpb_wrapper.wpb_text_column
 karnaliheadlines.com##.wpb_wrapper:has(> .td_block_big_grid_3)
 abtnews.in,boolokam.com##.wpcnt
-dainik4media.com,news127.com,thesurgicalnews.in##.wpcp-carousel-wrapper
+dainik4media.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 betulsamachar.com,bongnews24x7.com,dailynews24.in,khabardevbhoomi.com,naitaaqat.in,narmadanchal.com,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 shabdsaransh.com##.ws-block img:only-child
