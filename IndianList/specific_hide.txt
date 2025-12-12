@@ -2813,6 +2813,7 @@ news71online.com##.single-block .col-sm-12 img
 khabaristan.com##.single-box
 dhadingpost.com##.single-content p~figure.wp-block-image
 aayokhabar.com##.single-content ~ p
+moulvibazar24.com##.single-details > img
 channelcox.com##.single-ditails + .add .widget_area
 sylheterchakrirkhabar.com##.single-ditails div[style^="float"] > img
 bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
