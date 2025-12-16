@@ -3718,6 +3718,7 @@ aajkaal.in##[class^="ad__"]
 beanibazarnews24.com##[class^="add-"]
 lightnewsbd.com##[class^="ads_"]
 sirfsach.in##[class^="adsbox"]
+myagdikali.com##[class^="gb-element-"]:has(+ .dynamic-entry-content)
 banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com##[class^="sgpb-"]
