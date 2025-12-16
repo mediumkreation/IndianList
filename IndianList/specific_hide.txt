@@ -121,7 +121,6 @@ alakhharyana.com,lokpatrika.in###ai_widget-2
 nationnewshindi.com###ai_widget-5
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com###aniview
-timesnowhindi.com###app > section > div:first-child:not([class])
 bonikbarta.com###article-middle2
 lokmatnews.in###articlePageBanner
 kannadavani.news###attachment_25628
@@ -515,7 +514,6 @@ abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,omexpress.in###met
 digitalnewslive.com,januday.com,mahekasansar.com,thekhabri.in###metaslider_widget-3
 mahekasansar.com,tarunchhattisgarhkor.comba###metaslider_widget-4
 digitalnewslive.com###metaslider_widget-5
-timesnowhindi.com###mgIDReadMore div[style*="min-height"]
 kathir.news###mid_level_3_after
 maxwoman.in###middle_level_1
 filmistreet.com###modalBody
@@ -920,6 +918,7 @@ dailythanthi.com##.Advt
 punjabiinholland.com,sachikalam.com##.AdvtRight
 tutyonline.net##.Amain
 onp24.com##.BannerAdd2
+timesnowhindi.com##.BottomAd
 janashaktinews.com##.CMAC_AdChangerWidget
 cvoice24.com,eyenews.news##.DADD
 aajkalcanada.com,amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,deshprotidin.com,newsbangladesh.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
@@ -942,6 +941,7 @@ madhurdarpan.com##.HTML img[alt="Image"]
 khabreaajtaklive.com##.HTML:has(.slideshow-container)
 himachalmedia.co##.HTML:has(> div > ins.adsbygoogle)
 khabreaajtaklive.com##.HTML:has([alt="Image"])
+timesnowhindi.com##.Headerad
 preyopathok.com##.Hero-ads
 preyopathok.com##.Hero-ads-banner
 thinkwithniche.in##.Home-seo-add-sidebar-bigborder
@@ -958,7 +958,9 @@ hindusthansamachar.in##.NewClass .slides
 hindusthansamachar.in##.NewClass iframe
 keraleeyammasika.com##.NewRow img
 tutyonline.net##.R300100
+timesnowhindi.com##.RHSlastad
 enews71.com##.ReactModalPortal
+timesnowhindi.com##.Rhsad
 bharatsamachartv.in##.RightCont iframe
 banglanewsca.com##.Single-Post-Left-Side-Ad
 banglanewsca.com##.Single-Post-Right-Sidebar-Ad
