@@ -1841,6 +1841,7 @@ asiantimes.in,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,n
 khabardarinews.com##.elementor-widget-shortcode img:not([src*="Beige-Modern-Elegant-Personal-LinkedIn-Banner.jpg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
+ablivenews.com##.elementor-widget-shortcode.elementor-sticky
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
@@ -4222,7 +4223,6 @@ eurobanglanews24.com##div[class^="topad"]
 cinema.dinamalar.com##div[class^="topadtxt"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
 ahinsaexpress.in,akashjatra.com,alokitochatkhil.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,dumanikhabar.in,ganthan.com,gtvnews.net,hamaratoday.com,journalistcafe.com,kilinochchinet.com,konarklive.com,koshalnews.in,lastnews24.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,odishasambad.in,onlinemalayali.in,paharbarta.com,parichaya.com,pbknews.com,pehchanfaridabad.in,peoplespresstrust.com,sabkuchgyan.com,safalnews.com,samajalive.in,suddimane.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
-ablivenews.com##div[data-adid] > img
 arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
 himaliawaj.com,odishakhabar.in,ontimenews.in,sahityapost.com,tv20news.in##div[data-adid] img
 alokitoctg.com##div[data-adid] img:not([alt*="e-Paper"])
