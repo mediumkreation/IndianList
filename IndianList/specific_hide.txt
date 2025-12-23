@@ -2983,6 +2983,7 @@ anmolkhabar.com,chhaharinetwork.com,swornimkhabar.com##.subhakamana-ad
 suddidina.com##.suddi-after-content_13
 suddidina.com##.suddi-content_10
 bharatdarshannews.com,janpadnewslive.com##.swiper
+news13.in##.swiper-container:has(.swiper_advs)
 janpadmirror.com##.swiper:has(img[src*="ads"])
 ramailo6.com##.swiper:not(.bswiper)
 notebook.today##.t-out-span
