@@ -4049,7 +4049,7 @@ mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
 janpadmirror.com##div:has(> hr.custome-br + h2)
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
-ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,livemagadh.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,sbnlive.net,telugugateway.com##div:has(> ins.adsbygoogle)
+ajkalerkhobor.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,livemagadh.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,prime9news.com,sbnlive.net,telugugateway.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
@@ -4110,7 +4110,7 @@ dailyuttorpurbo.com##div[class*="advert"]
 hipamat.com##div[class*="advertise"]
 newsphalasia.com##div[class*="advertise_space"]
 arthasansar.com,janaboli.com,tulsipurkhabar.com##div[class*="advertisement"]
-banglamail.news,prime9news.com##div[class*="banner"]
+banglamail.news##div[class*="banner"]
 dinajpurtv.com##div[class*="banner-"]
 nabaz-e-punjab.com##div[class*="bdaia-p-"]
 dainikshiksha.com##div[class*="biggapon"]
