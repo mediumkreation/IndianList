@@ -109,7 +109,7 @@ hastakshep.com###ads300_600-widget-3
 seithy.com###ads400px
 press4news.live###adsBanner
 thesootr.com###ads_
-nethgossip.lk,nethnews.lk###ads_hide
+nethgossip.lk###ads_hide
 yuvnews.com###ads_slider
 dainiksandhyaprakash.com###adsense-468
 mujibnagarkhabor.com###adsentop
@@ -1010,7 +1010,7 @@ yugvartanews.com##.ad-banner img
 bizshala.com,mttvindia.com##.ad-banner-img
 primenewsbd.com##.ad-box
 dainikayodhyatimes.in##.ad-close
-argusnews.in,dailykaratoa.com,ichowk.in,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
+argusnews.in,dailykaratoa.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
 avadhtimes.com##.ad-image1
