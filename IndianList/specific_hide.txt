@@ -4255,7 +4255,6 @@ utkalpratidin.com##div[id*="_O_"] div:has(> div > div > a> div h3 + p )
 saharasamachar.com##div[id*="_O_"] div:has(> div > div > a> p + h3 )
 uttarakhandpost.com##div[id*="_O_LHS_"] > div:nth-child(-n+10)
 bhaskarhindi.com##div[id*="_ad_"]
-emungaru.com##div[id*="iklan-atas"]
 indonepalnews.in##div[id*="indon-"]
 odiascraps.info##div[id="showAS_O_BEL_0"]
 newspoint24.com##div[id^="AS_O_"] > div:has(> div > div > span[name="adchoicehtml"])
@@ -4526,6 +4525,7 @@ vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 shariatpurnews24.com##img[alt="-Advertisement-"]
 onlinemarg.com##img[alt="1205X128"]
 dangkhabar.blogspot.com##img[alt="Abroad Study"]
+emungaru.com##img[alt="Ad Banner"]
 bhadainimirror.com##img[alt="Ad"]
 dcnewsbd.com,dhakanewsexpress.com##img[alt="Advertisement"]
 livenewage.com##img[alt="Alt Image"]
