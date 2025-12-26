@@ -2365,6 +2365,7 @@ ghatail.com,gnewsportal.com##.mb-3:has(> div > ins.adsbygoogle)
 tahkikatnews.in##.mb-3:has(img[alt$=" Ad"])
 watansamachar.com##.mb-5 img
 mzamin.com##.mb-5.justify-content-center
+mpbreakingnews.in##.mb-6.mt-4
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
 kalakkalcinema.com##.mct
