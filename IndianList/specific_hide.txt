@@ -3098,6 +3098,7 @@ bdsomoy24.com##.td_mod_wrap.td-fix-index > a img
 navdeshtimes.com##.td_separator_solid
 teznews.com##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
+jnilive.mobi##.tdb-block-inner .g-1
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 jnilive.mobi##.tdb_single_content a.td-modal-image
