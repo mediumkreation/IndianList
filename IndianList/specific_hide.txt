@@ -1734,7 +1734,6 @@ hamrokhelkud.com##.display
 biniyogbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
 prajavani.net##.dk_only
-thodkyaat.com##.dmp
 ajakoartha.com##.dn-container
 newspr.live##.dns-caption-below
 gulfmalayaly.com##.do-space
@@ -4199,7 +4198,7 @@ anytechtune.com##div[class^="contentadd-"]
 deshajtimes.com##div[class^="desha-"]
 telugu.oneindia.com##div[class^="discounts-"]
 rajyasameeksha.com##div[class^="display-area"]
-bongnews24x7.com##div[class^="gb-element"]:has(> ins.adsbygoogle)
+bongnews24x7.com,thodkyaat.com##div[class^="gb-element"]:has(> ins.adsbygoogle)
 kungumam.co.in##div[class^="google-"]
 gramintimes.com##div[class^="grami-"]
 samacharfirst.com##div[class^="home-adright"]
