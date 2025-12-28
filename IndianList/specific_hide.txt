@@ -1793,6 +1793,7 @@ janakikhabar.com,thenewskhazana.com##.elementor-shortcode
 bansgaonsandesh.com##.elementor-shortcode .metaslider
 delhiuptodate.com,hasdeotimes.com,wayanadlivenews.com##.elementor-shortcode img
 arohitodaynews.com##.elementor-shortcode img[alt]
+realbulletin.in##.elementor-shortcode:has(> a)
 krantiprayas.com##.elementor-shortcode:has(> a, [id^="krant"])
 perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
@@ -3530,7 +3531,7 @@ teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
 thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com,pnews.co.in##.wonderpluginslider
-asiantimes.in,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,sonprabhat.live##.wonderpluginslider-container
+asiantimes.in,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in,sonprabhat.live##.wonderpluginslider-container
 lotpot.com##.wow
 allnewsbharat.com##.wow.single_sidebar
 deshshamachar.com##.wp-ad-box
