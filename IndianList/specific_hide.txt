@@ -1899,7 +1899,6 @@ dainiknayak.com,himwantpradeshnews.com,kakakhabarilaal.com,newsportals.in,odisha
 today24.in##.entry-content img.alignleft
 today24.in##.entry-content img.alignright
 newswatch.co.in##.entry-content img:only-child
-theruralpress.in##.entry-content img[class=" lazyloaded"]
 kundapraa.com##.entry-content p > a > img:not([src*="whatsapp-group.jpg"])
 thepoliticsagain.com##.entry-content p > img
 muzaffarpurnow.in##.entry-content p>img
@@ -4474,7 +4473,7 @@ khabreelal.com##figure.mt-6:has(> [style^="border"])
 dailysobujbarta.com##figure.vc_figure
 ab71.tv,apnades.in##figure.wp-block-embed
 aajexpress.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net##figure.wp-block-gallery
-aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,deshkiaawaz.in,eaibanglai.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,palisirohionline.in,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,deshkiaawaz.in,eaibanglai.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,palisirohionline.in,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,theruralpress.in,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 betulmedia.com,dailybahadur.com##figure.wp-block-image > img
 himachalsamay.com##figure.wp-block-image img
 247superfast.com,andhravilas.net,beforepublish.com,jagocomilla.com,namastenri.net,smpnews24.com##figure.wp-block-image.size-full
@@ -4492,6 +4491,7 @@ gossiplanka.com#?#.HTML:-abp-has(.title:-abp-contains(Advertisement))
 gujaratdarpan.com#?#h6:-abp-contains(Paid Advertisement)
 tejastoday.com##h2 a[href*="one-medicine-"]
 apnades.in##h2[id*="sponsor"]
+theruralpress.in##h4[id^="h-ro-no-"]
 narmadanchal.com##h5.wp-block-heading
 narmadanchal.com##h5.wp-block-heading + .wp-block-spacer
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
