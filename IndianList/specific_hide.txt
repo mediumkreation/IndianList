@@ -321,8 +321,6 @@ hindi-news-today.com###custom_html-51
 roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,bntlive.com,cgctnews.com,cricnewz.in,dvgsuddi.com,f21news.com,highwaychannel.in,isns.co.in,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in###custom_html-6
 adityabharat.com,barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com,thehindkeshari.in###custom_html-7
-janpatranews.com###custom_html-74
-janpatranews.com###custom_html-76
 f21news.com,futurekerala.in,gadhsamvedna.com,jaianndata.com,mynews36.com,navabharat.news,pradhanavartha.in,thepressnepal.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com###custom_html-9
 mpenews.com###data_id_1
@@ -423,7 +421,7 @@ cellitnews.com###logoright
 chandpurreport.com###main .code-block
 jansangathan.com###main .container
 dailynewsreport.in###main .entered:not([src*="WhatsApp-Join-Link.jpg"])
-newsuperbharat.com###main .widget_custom_html
+janpatranews.com,newsuperbharat.com###main .widget_custom_html
 chhapratoday.com,songbadpratidin.com###main .widget_media_image
 newsxindia.com###main .widget_sow-image
 naturalnews.co.in###main aside.widget_media_image
@@ -1833,8 +1831,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
