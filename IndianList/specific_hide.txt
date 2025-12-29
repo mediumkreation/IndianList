@@ -1222,7 +1222,6 @@ julmsejung.com##.ads_cot
 telugu.greatandhra.com##.ads_css_title
 padmatimes24.com##.ads_fix
 kamadenu.in##.adsbox
-himachalnownews.com##.adsen
 aajbangla.in##.adsense-inject
 nepalesediaspora.com##.adsgo
 dainiki.com##.adsimage
@@ -1533,7 +1532,6 @@ cgjanadesh.com,kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
 cgjanadesh.com,jagarantripura.com##.bwp_gallery_slideshow
 vellinakshatram.com##.c-sections__container
-himachalnownews.com##.c_ad
 canvasmagazine.com.bd##.canvas-slider
 prothomalo.com##.card-image-wrapper + div
 lanka4.com##.card.text-center
@@ -1835,8 +1833,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -1910,6 +1908,7 @@ morbinews.in##.entry-content.single-post-content > img
 chhapratoday.com##.entry-the-content .code-block
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
+himachalnownews.com##.ep-ads
 amravatimandal.com,epaper.poknapham.in,janamadhyama.news##.epaper-edition-ads-container-right-pannel
 cgfrontline.com##.epcl-banner
 grandnews.in##.epcl-row
