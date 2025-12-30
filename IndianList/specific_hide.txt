@@ -1832,8 +1832,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2401,6 +2401,7 @@ khushisamay.com##.mkdf-home-sidebar-banner
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 industrialpunch.com##.ml-slider:not(#metaslider-id-53525)
+chandaulisamachar.com##.mobSizeImg
 unishkuri.in##.mob_ad_cntr iframe
 prajavani.net##.mob_only
 news13.in##.mobadv-4
