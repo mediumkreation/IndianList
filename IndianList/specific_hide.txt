@@ -377,7 +377,6 @@ lokmat.com,lokmatnews.in###headerBanner
 tamil.goodreturns.in###headerBannerPromo
 specialcoveragenews.in###header_ad_mobile
 uttarbangasambad.com###header_custom_ad
-livekeralanews.com###headermain .sp7
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
@@ -4498,6 +4497,7 @@ narmadanchal.com##h5.wp-block-heading + .wp-block-spacer
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
 dainiksylhet.com##header .textwidget img
 khabor.com##header a[href*="/click-"]
+livekeralanews.com##header[id^="comp-"]
 hindifiber.com#?#.gb-container:-abp-contains(Advertisement)
 hindulive.com#?#div:has(> .gb-text:-abp-contains(Advertisement))
 horizonhind.com#?#div:has(> h2:-abp-contains(Advertising))
