@@ -1833,8 +1833,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2598,6 +2598,7 @@ nayasabera.com##.post-body .tr-caption-container
 beanibazarnews24.com##.post-content .sidebar-content
 jaunpurlive.com##.post-content .tr-caption-container
 newsdeskkannada.com##.post-content > img
+pushpanjalitoday.com##.post-content div[style^="float"]
 pnn24.in##.post-content ~ :not(div)
 khasokhas.com##.post-entry .code-block
 manamnews.com##.post-entry div[style^="float"]
@@ -2773,6 +2774,7 @@ aajkaaditya.in,abhitak.in,bartabangla.com,hindsat.in,muchata.com,mymarathi.net##
 aviralsamachar.com,bebakmanch.com,biharnation.in,bundelkhandsamachar.com,jagatvichar.com,jokhimnews.com,khulasach.com,navamalayali.com,nawaiduggar.com,opennewsx24.com,realtimes.in,seemasandesh.in,shaktinews.in,suryarekha.com,thekhabrilal.com##.sidebar .widget_media_image
 newsdesk24.com##.sidebar .widget_media_image:has(> :not(div))
 mna.com.bd##.sidebar .widget_media_image:not(#media_image-5)
+pushpanjalitoday.com##.sidebar .widget_media_image:not(#media_image-9)
 crimenazarnews.com,ekhonkhobor.com,joddha.com,jokhimnews.com,khabarvani.com,nammudekodakara.com,risalaonline.com##.sidebar .widget_text
 vakeesam.com##.sidebar .widget_text:not(#custom_html-2)
 bekhauphindia.com##.sidebar .widget_text:not(#text-10)
