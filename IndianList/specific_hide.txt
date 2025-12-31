@@ -181,7 +181,7 @@ samrudhaodisha.com###block-137
 asomkhobor.com,ghaziabad365.com,sachetonbarta.com.bd,vision2020news.com###block-14
 cinemapressclub.com###block-15
 khabarok.com,meddlingmedia.com,mediyaan.com,sajhamanch.com,satyamevtv.com,smartindiadial.com,telugumalli.com###block-16
-akkbd.com,ojasvitimes.in,p2pnews.co,telugumalli.com###block-17
+akkbd.com,ojasvitimes.in,telugumalli.com###block-17
 jogiexpress.com###block-176
 24hrnews.in###block-178
 viewpointjharkhand.com###block-19
@@ -189,7 +189,7 @@ bolpanipat.com,ekhabar.in,hadapsarexpress.com,hamdardtv.com,hellomaharashtra.in,
 nishnama.com,sabkasandesh.com###block-20
 nishnama.com###block-21
 alivenews.co.in,newslab24.in###block-22
-emandirates.com,hnn24x7.com,livepress24.com,nishnama.com###block-23
+emandirates.com,hnn24x7.com,livepress24.com,nishnama.com,p2pnews.co###block-23
 govindia.in,hindisprout.com,hnn24x7.com,newslab24.in,whatinindia.com###block-24
 banglarjanapad.com,govindia.in,newslab24.in###block-25
 govindia.in,organizeindia.in,uppunews.com###block-26
@@ -1833,8 +1833,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
