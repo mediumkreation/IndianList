@@ -8,7 +8,7 @@ arerajdarshan.com###FullWidthWidget-Top
 atalsamachar.com###HP_O_LHS_7 > div:nth-child(-n+10)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 odiascraps.info###HP_O_LHS_7 > div:nth-child(-n+5)
-actionnews.in,adrasaka.com,apnahimachalapnishaan.in,balotranewstrack.com,ceylonmuslim.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,newssapata.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
+actionnews.in,adrasaka.com,apnahimachalapnishaan.in,balotranewstrack.com,ceylonmuslim.com,gossiplankanews.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,newssapata.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
 bhopalsamachar.com,cnblive.com,ekumaon.com,ezhomelive.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
 99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in###HTML11
@@ -842,7 +842,6 @@ samayindia24.com###tie-slider-widget-5
 bareillylive.com###tie-slider-widget-9
 bangladeshglobal.com###top div:has(> .flex-c-c)
 thenrinews.com###top-slider2
-gossiplankanews.com###top1
 thejasnews.com###top_full_width_level_15
 janprahar.com###top_level_3
 filmchilive.com###top_level_full_1
@@ -1834,8 +1833,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2693,7 +2692,6 @@ tnilive.com##.righta
 anandabazar.com##.rightadbox
 janwani.in##.rightbarhds
 aadabhyderabad.in##.rightside_ads_area
-gossiplankanews.com##.rimage
 nepalviews.com##.roadblock
 pardafas.com##.roadblock__ad a img
 ns7.tv##.roadblockpopup
