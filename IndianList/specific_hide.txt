@@ -4072,6 +4072,7 @@ unitednripost.com##div[class*=" ads_"]
 khelpati.com##div[class*=" h-[20px]"]:has(> a)
 janpadmirror.com##div[class*="#f5f5f5"]
 dishadaily.com,prameyanews7.com##div[class*="-ad-"]
+hindutamil.in##div[class*="-ad-slot"]
 epaper.karavaliale.net,epaper.punyanagari.in##div[class*="-ads-"]
 epaper.kannadajanantaranga.in##div[class*="-ads-container"]
 patrika.com##div[class*="-ads_"]
