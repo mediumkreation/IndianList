@@ -1451,12 +1451,12 @@ mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
 himalkhabar.com,nayadainiki.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
-baahrakhari.com,dekhapadhi.com##.bigyaapan-section
+baahrakhari.com,dekhapadhi.com,thahakhabar.com##.bigyaapan-section
 barnanmedia.com,merofilm.com##.bigyapaan__section
 annapurnapost.com,canadanepal.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 avenues.tv,barnanmedia.com,ekagaj.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
 janatapati.com,janatasamachar.com##.bigyapan-box
-corporatenepal.com,thahakhabar.com##.bigyapan-gif-gallery
+corporatenepal.com##.bigyapan-gif-gallery
 bizmandu.com##.bigyapan-inside-content
 ratokalam.com##.bigyapan-margin-btm
 loktantrapost.com##.bigyapan-section
@@ -1832,8 +1832,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2193,7 +2193,6 @@ amadershomoy.com##.index_ads_two
 pchelpcenterbd.com##.indexadsone
 thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
-thahakhabar.com##.inline_disp
 malayaleepathram.com.au##.inner-ad-block
 mannarkkadlive.com##.inner-add
 deshbandhu.co.in##.inner-add-banner
@@ -4437,7 +4436,6 @@ bholanews.com##div[style*="min-height:"]
 thelallantop.com##div[style*="min-width:300px;min-height:250px;"]
 thedailycampus.com##div[style*="width: 300px; height: 250px;"]
 amader-protidin.com##div[style*="width: auto; height:"]
-thahakhabar.com##div[style="background-color: #fff; padding:0px; margin-right:10px;"]
 channel24bd.tv##div[style="height: 250px;"]
 womeneye24.com##div[style="height:400px"]
 bbarta24.net##div[style="height:78px; width:100%"]
