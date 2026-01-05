@@ -1833,8 +1833,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2909,7 +2909,7 @@ nittaa.com##.smashwords-widget
 banglalive.com##.sny-ads-panel
 kurunews.com##.sora-ads-full
 kaumudiplus.com##.sp-ad-row
-samudrapari.com##.sp-full-width-ads
+samudra-pari.com,samudrapari.com##.sp-full-width-ads
 laatsaab.com##.sp_simple_youtube
 flowersoriginals.com,ntvbd.com##.space-ad
 alorkantho24.news##.spad
