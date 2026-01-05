@@ -1833,8 +1833,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -1849,6 +1849,7 @@ ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
 abcnews.media,adbudhindia.com,atalhind.com,bebakpost.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,kundapraa.com,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
+pardasansar.com##.elementor-widget-text-editor img
 mpcnews.in##.elementor-widget-theme-post-content img
 indialivingnews.in##.elementor-widget-upk-camux-slider
 hindivivek.org,raibaaruttarakhand.com,shivshahilive.com##.elementor-widget-video
@@ -3187,7 +3188,7 @@ surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 lokbharat.in##.theiaStickySidebar aside.widget_text
-uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
+pardasansar.com,uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 bdsomachar24.com##.themesBazar_widget .wp-block-image
 somoyerkontha.com##.themesBazar_widget > .textwidget
 banglarchithi.com,hakkatha.com##.themesBazar_widget img
