@@ -1530,9 +1530,9 @@ inbnews24.com##.bsac-container
 everestdainik.com##.bstyle-list ~ .post
 hirunews.lk##.btm-sticky
 firstindianews.com##.buget-banner
-cgjanadesh.com,kaimurlive.com##.bwg_container
+kaimurlive.com##.bwg_container
 despardesweekly.co.uk##.bwp_gallery
-cgjanadesh.com,jagarantripura.com##.bwp_gallery_slideshow
+jagarantripura.com##.bwp_gallery_slideshow
 vellinakshatram.com##.c-sections__container
 canvasmagazine.com.bd##.canvas-slider
 prothomalo.com##.card-image-wrapper + div
@@ -1835,8 +1835,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -3975,6 +3975,7 @@ neemkathananews.in##center > b+img
 yarldevinews.net##center > img[style="margin-top:20px;"]
 munaadi.com##center:has(> img.w-100)
 cg24news.in#?#.sidebar:-abp-has(> h5 > span:-abp-contains(Advertisement))
+cgjanadesh.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 champarantoday.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(Ads))
 channelmahalaxmi.com#?#h2.widgettitle:-abp-contains(Advertisment)
 chatonay71news.com#?#.widget_recent_entries:-abp-contains(ads)
