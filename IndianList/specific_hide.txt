@@ -1581,7 +1581,7 @@ kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,newsvibe.in,thepoliticsagain.com##.code-block-4
 deshdoot.com,mangalwedhatimes.in##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
-jjpnews.com,tamizhdb.com,vijayapatha.in##.code-block-8
+jjpnews.com,tamizhdb.com##.code-block-8
 chanakyanewz.com##.code-block-center
 orthosongbad.com##.code-block-center img
 trishulnews.com##.code-block:has(> [data-type="_mgwidget"])
