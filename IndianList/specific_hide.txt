@@ -1438,6 +1438,7 @@ lknews.lk##.besides-slider-right
 paathoknews.com##.better-ads-listitemad
 4pmnewsonline.com##.betteradscontainer
 humsamvet.com##.bg-color-gray-fot
+ajkerpatrika.com##.bg-gray-50
 janpadnewslive.com##.bg-gray:has(> .swiper)
 thamilan.lk##.bg-grey-lighter.w-full
 keralaonlive.com##.bg-light.py-5
@@ -2739,7 +2740,7 @@ sangalokhabar.com##.sg-full-width-ads
 raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
 dailysylhet.com##.shRightPanelAdCt
-dailyamardesh.com##.shadow-anchorAdShadow
+ajkerpatrika.com,dailyamardesh.com##.shadow-anchorAdShadow
 arthasarokar.com##.shadow-around-md:has(> a[target="_blank"])
 sunbd24.com##.share-ads
 shivamoggalive.com##.shiva-content-8
@@ -3714,7 +3715,6 @@ usharbani.com##[class*="_ads_"]
 haribhoomi.com##[class*="ad_"]
 golkhabar.com##[class*="add-"]
 safalkhabar.com##[class*="advertisement"]
-ajkerpatrika.com##[class*="bg-gray"]:has([id^="gpt-ad-"])
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
@@ -4181,7 +4181,6 @@ newsnationtv.com##div[class*="top-ad"]
 nayanjagriti.com##div[class*="top_full_width_level_"]:has(> [class^="ad"])
 uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
-ajkerpatrika.com##div[class*="w-[300px]"]
 dainikgomantak.esakal.com##div[class*="widget-m__"]
 samakalikamalayalam.com##div[class*="widget-m__"]:has(.advert-box)
 dhanamonline.com,dinamani.com,kalkionline.com,kannadaprabha.com,metrovaartha.com,thecue.in,timeskerala.com##div[class*="widget-m__customWidgetWrapper__"]
