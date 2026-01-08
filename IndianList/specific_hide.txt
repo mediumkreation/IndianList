@@ -1837,8 +1837,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -4087,7 +4087,7 @@ hindutamil.in##div[class*="-ad-slot"]
 epaper.karavaliale.net,epaper.punyanagari.in##div[class*="-ads-"]
 epaper.kannadajanantaranga.in##div[class*="-ads-container"]
 patrika.com##div[class*="-ads_"]
-gonews24.com##div[class*="-banner"]
+gonews24.com,thenewsnarayanganj24.com##div[class*="-banner"]
 matribhumirkhobor.com##div[class*="-banner-"]
 setopati.com##div[class*="-bigyaapan-"]
 digitalkhobor.com##div[class*="-codes"]
