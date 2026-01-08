@@ -1075,7 +1075,7 @@ kolomerbatra.com##.add .widget_area:has(> img)
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 cninews24.com,newsallbangladesh.com,sokalerkhobor24.com##.add figure
 digontonews.com##.add figure img
-71sangbad24.com,bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailyshamolbangla.com,dainikdeshbarta.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,faridpursamachar.com,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,rudrabarta24.net,satkhiraprotidin.net,sherpurtoday.com,shubhoprotidin24.com,silkcitynews.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
+71sangbad24.com,bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailyshamolbangla.com,dainikdeshbarta.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,faridpursamachar.com,firstbdnews.net,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,rudrabarta24.net,satkhiraprotidin.net,sherpurtoday.com,shubhoprotidin24.com,silkcitynews.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
 lightnewsbd.com##.add img.size-full
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
@@ -1837,8 +1837,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
