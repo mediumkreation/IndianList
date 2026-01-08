@@ -4474,6 +4474,7 @@ encounterindia.in#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contai
 entevarthakal.com#?#.fourth_2_inner:-abp-has(> a>div > h1:-abp-contains(advertisement))
 malluchronicle.com##entry-content a[href^="tel"]
 etamilnews.com#?#div:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
+expresskhabar24.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 fashionnewsera.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 indiaaajkal.in##figure .vc_single_image-img
 thepublictoday.com##figure .widget-image-caption
