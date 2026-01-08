@@ -1837,8 +1837,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2079,7 +2079,7 @@ odishabhaskar.com##.header-inner .sidebar-col
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
 abstarnews.com,jaivardhannews.com,jamalpurlive.net,malayalamexpress.in,newsdna.co.in,p2pnews.co,samvaad365.com,wegarhwali.com##.header-promotion
-azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanpress.com,himnewspost.com,lalsobuzerkotha.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
+azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanaaja.com,chitwanpress.com,himnewspost.com,lalsobuzerkotha.com,nainitalsamachar.org,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
 beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
 banglaralobd.com##.header-right-sidebar
 newsway.in##.header-right-widgets
@@ -2511,7 +2511,7 @@ newsbunch.in##.nm-ads-section
 nnews24.com##.nnews-content
 ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,upsamachar.org##.no-bg-box-model
 nepalraftar.com##.no-bod > a
-halkarosamachar.com##.no-bod > a img
+chitwanaaja.com,halkarosamachar.com##.no-bod > a img
 narayanionline.com,sagarmatha.tv##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
