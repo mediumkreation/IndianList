@@ -1839,8 +1839,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -4127,7 +4127,7 @@ aajkaaldaily.com,mohanonda24.com##div[class*="ads_"]
 barendraexpress.com.bd,dailyshomosamayik.com##div[class*="ads__"]
 nagariknews.nagariknetwork.com##div[class*="ads_detail"]
 sarbochcha.com##div[class*="adver"]:not(.logoadver)
-dailyuttorpurbo.com##div[class*="advert"]
+dailyuttorpurbo.com,nepalauto.com##div[class*="advert"]
 hipamat.com##div[class*="advertise"]
 newsphalasia.com##div[class*="advertise_space"]
 arthasansar.com,janaboli.com,tulsipurkhabar.com##div[class*="advertisement"]
