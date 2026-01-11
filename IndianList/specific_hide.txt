@@ -2453,7 +2453,7 @@ dainikujagarkhabar.in,newsplus.lk##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
-24webnews.com,angultv.com,ausamachar.com,bihardainik.com,canadauthayan.ca,mahadbd.com,malayalamuk.com,mptodaynews.com,smarthalchal.com,thehdnews.in##.n2-section-smartslider
+24webnews.com,angultv.com,ausamachar.com,bangabarta.com,bihardainik.com,canadauthayan.ca,mahadbd.com,malayalamuk.com,mptodaynews.com,smarthalchal.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 citymediacg.com##.n2_clear
 nagarikpatra.com##.nagar-widget
@@ -2646,7 +2646,7 @@ asomiyapratidin.in,kalakaumudi.com,sathyamonline.com##.publive-dynamic-container
 odishareporter.in##.publive-dynamic-container:has(> div[id^="div-gpt-ad-"])
 sambad.in##.publive-dynamic-container:has(div[id^="div-gpt-ad"])
 nakkheeran.in##.publive-slot-span
-cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
+bangabarta.com,cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
 punjabnewslive.co.in##.punja-widget
 indiatimes.com##.pwa-deals
 news18.com##.pwa_add
@@ -3063,6 +3063,7 @@ manvadhikarabhivyakti.com##.td-main-content-wrap .td-a-rec:has(> div > div > h4.
 janatarsylhet24.com,matopath.com,teraisandesh.com##.td-main-content-wrap .td_block_single_image
 digitalmalayalionline.com##.td-main-content-wrap .td_spot_img_all
 akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
+bangabarta.com##.td-main-content-wrap .tdm_block_inline_image
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
 teknafnews.com##.td-main-content-wrap .vc_raw_html
 newsfireonline.com##.td-main-content-wrap .widget_text
@@ -3113,6 +3114,7 @@ tahalka24x7.com##.tdb-block-inner img.size-full
 realviewnews.com##.tdb_single_content .tdb-block-inner > h4 + p~:not(div)
 mekhadooth.com##.tdb_single_content .wp-block-image
 jnilive.mobi##.tdb_single_content a.td-modal-image
+bangabarta.com##.tdb_single_content a[href*="amzn.to"]
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
 chatganrbani.com##.tdb_single_content img
 politicsnews24.com##.tdc-row-content-vert-center
