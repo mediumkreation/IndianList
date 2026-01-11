@@ -1837,8 +1837,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2191,7 +2191,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-bethanchokkhabar.com,janasarokar.com,kalikadainik.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
+bethanchokkhabar.com,janasarokar.com,kalikadainik.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
@@ -3243,7 +3243,7 @@ crimenewsnepal.com##.topAdvertisementWrapper
 newsagencyindia.com##.topHeaderAd
 banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,indiavoice.com,rninews.co.in##.topRightAdSec
-ournewscrew.com,sawalnepal.com##.top__advertisement
+ournewscrew.com,pahilokhabar.com,sawalnepal.com##.top__advertisement
 janasarokar.com##.top__header__ads
 biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
@@ -4098,7 +4098,7 @@ cvoice24.com##div[class*="DContentAdd"]
 hindi.news18.com##div[class*="Had300x250 "]
 news18.com##div[class*="Header_inner_ad"]
 ittefaq.com.bd##div[class*="Ittefaq_" i]
-sadaksanchar.com##div[class*="__ads"]
+pahilokhabar.com,sadaksanchar.com##div[class*="__ads"]
 ournewscrew.com##div[class*="__ads"]:not([class*="top__header__ads"])
 ctgtimes.com,globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newsnationtv.com##div[class*="_ads_"]
