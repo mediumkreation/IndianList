@@ -118,6 +118,7 @@ vishvakannada.com###adv
 glimeindianews.in###advads_ad_widget-2
 newsnib.in###advertisement
 elettilonline.com###after-ad
+newscenternepal.com###after-menu-ads
 alakhharyana.com,lokpatrika.in###ai_widget-2
 nationnewshindi.com###ai_widget-5
 spnewsworld.com###amazonautolinks_widgetbyid-2
@@ -1838,8 +1839,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2438,6 +2439,7 @@ npbnews.com##.mt-3 img.w-100
 sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
+newscenternepal.com##.mvp-nav-top-right
 aamsanchar.com,sajhamanch.com##.my-2
 kanakaionline.com##.my-2 img
 corporatenews.com.bd##.my-3 img
