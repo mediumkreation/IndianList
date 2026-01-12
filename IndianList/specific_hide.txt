@@ -3158,6 +3158,7 @@ maloutlive.flykingimmigration.com##.text-html ~ .stream-item-widget
 indianletter.com,livehalchal.com##.text-html-box
 khabardekho.com##.text-html-box figure
 gulte.com##.text-html-box.h250
+pardaphas.com##.text-muted.fs-1-4
 banglainsider.com##.text-secondary.d-block
 kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
