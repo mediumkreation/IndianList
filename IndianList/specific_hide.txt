@@ -3748,7 +3748,7 @@ sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
 attariyaonline.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
-ctgpratidin.com,newsnepalhd.com##[data-adid] img
+ctgpratidin.com,nepaljanakhabar.com,newsnepalhd.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
 tamilmurasu.com.sg##[data-testid="advertisement-element"]
