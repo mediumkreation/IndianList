@@ -1840,8 +1840,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2082,7 +2082,7 @@ odishabhaskar.com##.header-inner .sidebar-col
 jandarshannews.com##.header-nav-main.nav-right
 dinajpur24.com,techvoice24.com##.header-promo
 abstarnews.com,jaivardhannews.com,jamalpurlive.net,malayalamexpress.in,newsdna.co.in,p2pnews.co,samvaad365.com,wegarhwali.com##.header-promotion
-azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanaaja.com,chitwanpress.com,himnewspost.com,lalsobuzerkotha.com,nainitalsamachar.org,nepaldesh.com,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
+azadsandesh.com,bikashnews.com,chattogramersomoy.com,chitwanaaja.com,chitwanpress.com,himnewspost.com,khabarnp.com,lalsobuzerkotha.com,nainitalsamachar.org,nepaldesh.com,nepalsandesh.com,newsviewspost.com,reporterseye.com,sawalnepal.com,starvrutta.com##.header-right
 beauronews.com,headline24x7.com,khabarduniya.com##.header-right-adv
 banglaralobd.com##.header-right-sidebar
 newsway.in##.header-right-widgets
@@ -2194,7 +2194,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-bethanchokkhabar.com,janasarokar.com,kalikadainik.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
+bethanchokkhabar.com,janasarokar.com,kalikadainik.com,khabarnp.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
@@ -2816,7 +2816,7 @@ pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
 lagatar.in##.sidebar-wrap img.d-block
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
-sawalnepal.com,tarunnobd24.com,todaykhoj.com##.sidebar__ads
+khabarnp.com,sawalnepal.com,tarunnobd24.com,todaykhoj.com##.sidebar__ads
 dinakaran.com##.sidebar_adocde
 onlinerapti.com##.sidebar_block
 anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,lokkhabar.com,nawayug.com##.sidebar_top_Ad
