@@ -3355,6 +3355,7 @@ newsagencyindia.com##.w-100
 satyahindi.com##.w-full.bg-\[\#E3E3E3\]
 enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
+nrn.news##.w-full.shadow-sm
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
 amritvichar.com##.w-kban
 indiainside.org##.w3-section
