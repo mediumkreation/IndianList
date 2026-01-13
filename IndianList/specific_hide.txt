@@ -260,6 +260,7 @@ kathir.news###common_top_right_1
 ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 jagranbarta.com###content .elementor-widget-image
+sidhasatyakhabar.com###content .elementor-widget-image .size-full
 humhindustanilive.com###content .master-slider-parent
 a4applenews.com###content .n2-section-smartslider
 nepalimato.com###content .news_portal_ads_banner
