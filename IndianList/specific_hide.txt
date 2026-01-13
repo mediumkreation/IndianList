@@ -2194,7 +2194,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-bethanchokkhabar.com,janasarokar.com,kalikadainik.com,khabarnp.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
+afnainews.com,bethanchokkhabar.com,janasarokar.com,kalikadainik.com,khabarnp.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
@@ -3729,7 +3729,7 @@ heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
 ap7am.com##[class*="pr-"]
-tajavarthalu.in##[class*="sgpb-"]
+afnainews.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
 wnepal.com##[class*="vigyapan"]
@@ -4493,7 +4493,7 @@ devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 khabreelal.com##figure.mt-6:has(> [style^="border"])
 dailysobujbarta.com##figure.vc_figure
 ab71.tv,apnades.in##figure.wp-block-embed
-aajexpress.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net##figure.wp-block-gallery
+aajexpress.com,afnainews.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net##figure.wp-block-gallery
 aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,deshkiaawaz.in,eaibanglai.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,palisirohionline.in,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,theruralpress.in,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 amarnarayanganj.com,betulmedia.com,dailybahadur.com##figure.wp-block-image > img
 himachalsamay.com##figure.wp-block-image img
