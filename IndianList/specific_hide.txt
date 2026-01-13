@@ -3251,7 +3251,7 @@ newsagencyindia.com##.topHeaderAd
 banglatribune.com##.topLeaderBoardAdHome
 hindi.pardaphash.com,indiavoice.com,rninews.co.in##.topRightAdSec
 ournewscrew.com,pahilokhabar.com,sawalnepal.com##.top__advertisement
-janasarokar.com##.top__header__ads
+janasarokar.com,munalnews.com##.top__header__ads
 biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
