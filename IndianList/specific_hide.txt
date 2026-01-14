@@ -3190,6 +3190,7 @@ khabrainabhitak.org,shaktinews.in##.theiaStickySidebar .ml-slider
 bebakmanch.com##.theiaStickySidebar .owl-carousel
 bojrodhoni.com,despunjab.ca,gandakivoice.com,idp24news.com,mahanagarkesari.com,narailsangbad.com,rudrakshnews.com,shirshobindu.com,urjanchaltiger.com##.theiaStickySidebar .stream-item-widget
 kasaragod.com##.theiaStickySidebar .text-html-box
+citynews24.org##.theiaStickySidebar .widget.HTML
 hindustandailynews.com,jansaamna.com,jiwanjotsavera.com,purvanchalnews.com##.theiaStickySidebar .widget_block
 bharatnews18.in,bograsangbad.com,expertmedianews.com,mithilacitynews.in,navsatta.com,nayabharat.live,parvatanchal.com,samaynewslive.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
