@@ -1390,6 +1390,7 @@ alokitomymensingh24.com##.banner-ad-01
 thekeralapost.com##.banner-adver
 bizmandu.com##.banner-bigyapan
 hamrokhelkud.com##.banner-click-action
+rupalibangladesh.com##.banner-container
 musicjoymedia.com##.banner-half
 aapkaparyas.in,bangladeshglobal.com,enewsmp.com##.banner-header
 aagaazfirstnews.com,bholarbani.com,janotarbani.com,newsportals.in,onstimes.com,pahareralo.com,tatviknews.com##.banner-img
@@ -1729,6 +1730,7 @@ nayabishwo.com##.detail-ad-holder
 khabardabali.com##.detail-right-ad img:not([src*="unicode_converter.jpg"])
 halokhabar.com##.details-ad
 citynewsdhaka.com,shikkhasongbad.com##.details-page-side-banner
+rupalibangladesh.com##.details-page-side-banner img
 citynewsdhaka.com##.details-page-side-banner-2
 sunamganjerkhobor.com##.details-sidebar .mb-3
 natunsylhet24.com##.details-sidebar > .row.justify-content-center
@@ -1841,8 +1843,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
