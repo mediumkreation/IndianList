@@ -556,7 +556,7 @@ outlookhindi.com###olh-rhs1
 tamilmirror.lk###openModal0
 saaravita.lk###openModal1
 patnalive.co.in###oppopo
-agnijwala.com,crickethimalaya.com###ouibounce-modal
+agnijwala.com,crickethimalaya.com,janaaawajnews.com###ouibounce-modal
 ratantimes.com###owl-demo1
 samachardoot.com###page .elementor-shortcode > a img
 muzaffarpurwow.com###panel-134-5-1-0
@@ -1412,7 +1412,7 @@ khanjahanali24.com##.banner_add_class_right
 nationalpowernews.com,ntnews.com##.banner_ads
 cniasia.news##.banner_right
 desimediapoint.com##.banner_section
-aajkaaditya.in,dainikujagarkhabar.in,hapurhulchul.com##.banner_wrapper
+aajkaaditya.in,dainikujagarkhabar.in,hapurhulchul.com,janaaawajnews.com##.banner_wrapper
 4tamilmedia.com##.bannerfooter
 am.lk,nepalkhabar.com,srilankamirror.com,tcvonline.co.in,webcoachbd.com##.bannergroup
 tamil.thesubeditor.com##.banners
