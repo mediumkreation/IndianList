@@ -389,6 +389,7 @@
 ||ptcnews-wp.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/DCJ.jpeg
 ||ptcnews-wp.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/Doaba-257x300.jpg
 ||ptcnews-wp.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/Doaba.jpg
+||reachableads-av.s3.ap-southeast-1.amazonaws.com/ssp/channeli.html
 ||s3.amazonaws.com/deranaarunalk/wp-content/uploads/2020/05/15001939/design-2.jpg
 ||satkhiraralo.com/wp-content/uploads/2020/01/de-463x300.png
 ||satkhiraralo.com/wp-content/uploads/2020/01/de-768x498.png
