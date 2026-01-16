@@ -3073,6 +3073,7 @@ citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 manvadhikarabhivyakti.com##.td-main-content-wrap .td-a-rec:has(> div > div > h4.block-title)
 janatarsylhet24.com,matopath.com,teraisandesh.com##.td-main-content-wrap .td_block_single_image
 digitalmalayalionline.com##.td-main-content-wrap .td_spot_img_all
+faridpurpost.com##.td-main-content-wrap .tdm-descr
 akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
 bangabarta.com##.td-main-content-wrap .tdm_block_inline_image
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
