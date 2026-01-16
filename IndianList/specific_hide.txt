@@ -1844,8 +1844,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -3073,6 +3073,7 @@ citinewslive.com##.td-main-content-wrap .td-a-rec-id-custom-spot
 manvadhikarabhivyakti.com##.td-main-content-wrap .td-a-rec:has(> div > div > h4.block-title)
 janatarsylhet24.com,matopath.com,teraisandesh.com##.td-main-content-wrap .td_block_single_image
 digitalmalayalionline.com##.td-main-content-wrap .td_spot_img_all
+faridpurpost.com##.td-main-content-wrap .tdm-descr
 akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
 bangabarta.com##.td-main-content-wrap .tdm_block_inline_image
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
