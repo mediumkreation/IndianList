@@ -3720,6 +3720,8 @@ newsplus21.com##[class$="-ad"]
 ejanakpurtoday.com##[class$="-ads"]
 gunjankhabar.com,seroferonews.com##[class$="_ads"]
 yoyocial.news##[class*="  ad-"]
+dhakamail.com##[class*=" h-[120px]"]
+dhakamail.com##[class*=" h-[250px]"]
 vikatan.com##[class*="-ad-"]
 prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
@@ -4077,6 +4079,7 @@ bhaskar.com##div:has(> div[id^="Ad--"])
 vtvgujarati.com##div:has(> div[id^="VTV_"])
 haribhoomi.com##div:has(> div[id^="div-gpt-ad"])
 mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
+dhakamail.com##div:has(> hr + .text-xs)
 janpadmirror.com##div:has(> hr.custome-br + h2)
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
