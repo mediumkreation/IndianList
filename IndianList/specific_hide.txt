@@ -3534,6 +3534,7 @@ satlujbiastimes.com##.widget_sisw_widget
 odishanewslens.com##.widget_slider
 karmakshetratv.com##.widget_slideshow
 a4applenews.com,awaznews24x7.com,biharharpalnews.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
+janapatrika.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 starvrutta.com##.widget_sow-slider
 ausnepalnews.com##.widget_sp_image
