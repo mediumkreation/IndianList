@@ -1463,7 +1463,7 @@ mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
 himalkhabar.com,nayadainiki.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
-baahrakhari.com,dekhapadhi.com,thahakhabar.com##.bigyaapan-section
+baahrakhari.com,dekhapadhi.com##.bigyaapan-section
 barnanmedia.com,merofilm.com##.bigyapaan__section
 annapurnapost.com,canadanepal.com,everestawaj.com,mardinews.com,nepaldut.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 avenues.tv,barnanmedia.com,ekagaj.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
