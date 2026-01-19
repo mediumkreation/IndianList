@@ -1760,6 +1760,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
 ||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khoborprotidin24.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|rajnagarbarta.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
+||inaruwaonline.com/wp-content/uploads/2025/04/see-82-new.png
 ||inayam.com/upload/news/8301239_1642034724-b.jpg
 ||inayam.net/images/reginos.gif
 ||independentkhabar.com^*/advt
