@@ -1926,7 +1926,7 @@ himachalnownews.com##.ep-ads
 amravatimandal.com,epaper.poknapham.in,janamadhyama.news##.epaper-edition-ads-container-right-pannel
 cgfrontline.com##.epcl-banner
 grandnews.in##.epcl-row
-bankingsansar.com##.esn-ainfo-widget
+bankingsansar.com,casarokar.com##.esn-ainfo-widget
 azchavattomonline.com##.et_pb_ads_0
 himalayapost.com##.et_pb_image
 hpnewsatl.com##.et_pb_image:not(.et_pb_image_0_tb_header)
