@@ -296,6 +296,7 @@ dankaram.in###customImage
 dankaram.in###customVideo
 dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
+atozjnews.com###custom_html-112
 jugerbarta.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 ausamachar.com,bharatnewsservice.com###custom_html-13
 goindianews.com###custom_html-14
