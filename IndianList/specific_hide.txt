@@ -1629,6 +1629,7 @@ paschimnepal.com##.col-md-4 .aligncenter.size-full
 purvanchal24.com##.col-md-4 .pbwidget
 channeldurjoy.com##.col-md-6 .add
 paschimnepal.com##.col-md-6 > img.size-full
+outlookbangla.com##.col-md-8 .add
 banglanewsus.com##.col-sm-12.mt-3 > .textwidget
 surmanews24.com##.col-sm-4 .hidden-xs
 jagratilahar.com##.col-xs-12 .whatsapp > img
@@ -1849,8 +1850,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
