@@ -3749,6 +3749,7 @@ vikatan.com##[class*="__ad"]
 ekhabarnet.com##[class*="__ads"] img
 morbiupdate.com,narayanganjerkhabar.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
+thejbt.com##[class*="adHide"]
 haribhoomi.com##[class*="ad_"]
 golkhabar.com##[class*="add-"]
 safalkhabar.com##[class*="advertisement"]
