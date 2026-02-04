@@ -462,7 +462,7 @@ webreporter.co.in###media_image-18
 webreporter.co.in###media_image-19ukhiyanews.com
 abpbharat.com,amaderbikrampur.com,balliatimes.com,bareillytoday.com,barisaltoday.com,bdmetronews24.com,bhaskarenews.com,chanamurra.com,crimekhabar.live,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,damaulikhabar.com,darpansamachar.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,gujaratinurasodu.in,himalayonlinemedia.com,hindlives.com,karnatakatoday.in,laxminews24x7.com,nadartoday.in,najarianews.in,narailsangbad.com,national18news.com,nationaldunia.com,news19tv.com,newsbrahmanbaria.com,newschutney.com,nikharanews.com,odishanewsservice.com,pathivaraonline.com,punjablivekhabarnama.com,sajagpahad.com,sandhannews.com,sasthabangla.com,sehorenewsdarpan.com,sherpurnews24.net,tamilscreen.com,theachievertimes.com,thebiharnews.com,ukhiyanews,upnewz.in###media_image-2
 prompttimes.com###media_image-20
-dainikmaharajganj.in,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
+dainikmaharajganj.in,danfetv.com,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 cgnews24x7.wordpress.com###media_image-23
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com,tahalka24x7.com###media_image-25
@@ -1851,8 +1851,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -4371,6 +4371,7 @@ chhattisgarhprimetime.com##div[id^="chhat-"]
 shikshajagatkiawaz.in##div[id^="cycler"]
 dainikbharat24.com##div[id^="daini-"]
 damrua.com##div[id^="damru-"]
+danfetv.com##div[id^="danfe-"]
 eisamay.com##div[id^="div-gpt-ad"] + div[style^="width:300px; height:250px;"]
 dailyjanakantha.com##div[id^="div-gpt-ad-"]
 doabatimes.com##div[id^="doaba-"]
