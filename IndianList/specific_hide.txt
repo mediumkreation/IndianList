@@ -1777,7 +1777,7 @@ sivantv.com##.e-con-full:has(> .e-widget-swiper) + .e-con-full
 inbcn.in##.e-con-inner:has(> div > .elementor-widget-image)
 janbolnews.com##.e-con:has(> .e-con-inner > .elementor-widget-heading)
 janbolnews.com##.e-con:has(> .e-con-inner > .elementor-widget-html)
-dailynewshindi.com##.e-widget-swiper
+dailynewshindi.com,thekhabartimes.com##.e-widget-swiper
 bdjournal365.com,belagavisuddi.com,ceylonradio.co.uk,chalonbeelbarta.com,cholomanjobab24.com.bd,dainikaamsabha.com,ghazipurkhabar.co.in,indoasiantimes.com,jagatbhumi.com,jamunanewsbd.com,janjagranmediamanch.com,jansaamna.com,kasaragod.com,nationalwartanews.com,news10india.com,news85.in,newsjungal.com,parbatyachattagram.com,pratidinertottho.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,sehattimes.com,shabddoot.com,shauryatimes.com,sonalichandpurnews.com,thecgnews.com,thelastpagenews.com,tosnews.com,weeklyhajiganj.com##.e3lan
 livekhagaria.in##.e3lan a img
 alayadivembuweb.lk,sabkinajar.com##.e3lan img
@@ -1852,8 +1852,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -1972,7 +1972,7 @@ avaninews.com##.fl-ad
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
-arohitodaynews.com,badaunexpress.com##.flexslider
+arohitodaynews.com,badaunexpress.com,thekhabartimes.com##.flexslider
 sahilonline.net##.flexslider-eid
 mediavision.news##.floating-ad-inner
 donetbd.com##.floating_ad_single
@@ -3797,6 +3797,7 @@ gtamilnews.com,tamilscreen.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
 pokharaviews.com##[id^="pokha-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
+thekhabartimes.com##[id^="thekh-"]
 thestellarnews.com##[id^="thest-"]
 tamil.samayam.com##[id^="trc_wrapper"]:has(div .link-adc)
 ejalalabad.com##[style*="height: 800px;"]
