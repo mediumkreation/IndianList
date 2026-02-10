@@ -2423,7 +2423,7 @@ dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 hamromat.com,pradeshdainik.com##.min-global-adv
 valanchery.in##.mkd-sidebar .widget_text
 khushisamay.com##.mkdf-home-sidebar-banner
-24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,kundeshwartimes.com,newsvartaindia.in,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,starexpress.news,tharexpressnews.com,tnnews24.in,vsrsnews.in##.ml-slider
+24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,jantakkhabar.com,kundeshwartimes.com,newsvartaindia.in,pinakatimes.com,ptbnews.in,punjablivenews.in,rsnewslive.com,smacharaajtak.com,soochnanews.in,starexpress.news,tharexpressnews.com,tnnews24.in,vsrsnews.in##.ml-slider
 blackoutnews.in##.ml-slider img:not([src*="whatsapp-"])
 indialivingnews.in##.ml-slider:not(#metaslider-id-1461)
 industrialpunch.com##.ml-slider:not(#metaslider-id-53525)
