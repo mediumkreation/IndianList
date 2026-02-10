@@ -1007,7 +1007,7 @@ ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 sorejominbarta.com##.ad iframe
 arthasansar.com,dailysunshine.com.bd##.ad img
 protichhobi.com##.ad img:not([src*="protichhobi-job.gif"])
-chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,panpadu.com,pratyeknewslive.com##.ad--space
+chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,panpadu.com,pokharaviews.com,pratyeknewslive.com##.ad--space
 chhattisgarhaaj.com##.ad--widget-no
 khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
@@ -2371,6 +2371,7 @@ fastnewsbd.com##.mainadvert3
 fastnewsbd.com##.mainadvert6
 fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
+pokharaviews.com##.maindadds
 malabarnews.com##.malab-article-top-ads
 malabarinews.com##.malab-content_6
 malabarnews.com##.malab-home-page-sidebar-2
@@ -3793,6 +3794,7 @@ oneindia.com##[id^="are-slot"]
 haribhoomi.com##[id^="inside_post_content_ad_"]
 gtamilnews.com,tamilscreen.com##[id^="itro_"]
 newsuperbharat.com##[id^="newsu-"]
+pokharaviews.com##[id^="pokha-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thestellarnews.com##[id^="thest-"]
 tamil.samayam.com##[id^="trc_wrapper"]:has(div .link-adc)
