@@ -1271,7 +1271,7 @@ radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 vasundharadeep.news##.adver-slider
 khabrainabhitak.org##.adver_banner
-ada.lk,ajkerrajshahi.com,manithan.com,shyamalsylhet.net,tamilan24.com##.advert
+ada.lk,ajkerrajshahi.com,manithan.com,shyamalsylhet.net,tamilan24.com,uskhabaronline.com##.advert
 ada.lk##.advert-single
 inkhabar.com##.advertSection
 dailysports24.com##.advertaisement
@@ -1853,8 +1853,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -4541,6 +4541,7 @@ aajexpress.com,afnainews.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net#
 aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,citypokhara.com,dainikkushtia.net,damaulionline.com,deshkiaawaz.in,eaibanglai.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,madhyabindu.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,palisirohionline.in,ratnagirikhabardar.com,sansanisurag.com,sehattimes.com,theruralpress.in,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 amarnarayanganj.com,betulmedia.com,dailybahadur.com##figure.wp-block-image > img
 himachalsamay.com##figure.wp-block-image img
+uskhabar.com##figure.wp-block-image img:not(.wp-image-16631)
 247superfast.com,andhravilas.net,beforepublish.com,jagocomilla.com,namastenri.net,smpnews24.com##figure.wp-block-image.size-full
 agraupdate.com,dailyganomukti.com,nepalsandesh.com,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
 sanvadnews.com##figure.wp-block-table
