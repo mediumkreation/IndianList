@@ -1021,7 +1021,7 @@ argusnews.in,dailykaratoa.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikap
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
 avadhtimes.com##.ad-image1
-ehimalayatimes.com,nepalmamila.com,newsroomme.com##.ad-img
+ehimalayatimes.com,nepalmamila.com,newsroomme.com,shubhakhabar.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
@@ -1283,7 +1283,7 @@ darbarnews.com##.advertise-sec-header
 paryatanbazar.com,shyamalsylhet.net##.advertise-section
 socialvikassamachar.com##.advertise-widget-box
 farakkon.com##.advertise-widgets
-nepalmamila.com##.advertiseImage
+nepalmamila.com,shubhakhabar.com##.advertiseImage
 udayavani.com##.advertise_container
 sylhetbarta24.com##.advertise_image
 dinajpurnews24.com,news71.tv##.advertise_part
@@ -2196,6 +2196,7 @@ dailythanthi.com##.image-and-caption-wrapper
 sridungargarhtimes.com##.image-group
 bharathalchal.com##.image-post-slider
 nayabishwo.com##.image.attachment-full
+shubhakhabar.com##.imageAdsHolder
 10tv.in##.image_Ad
 khulasaonline.com##.img-ad
 samacharplus.com##.img-add
@@ -2866,7 +2867,7 @@ beanibazarnews24.com##.single-news-widget > img.size-full
 probashbarta.com,sylhetprothidin24.com##.single-page-add2
 bn.bd24report.com,muktirlorai.com,notunerkotha.com##.single-page2-topAdd
 hamrodes.com##.single-post figure.wp-block-image
-nepalmamila.com,satyadeepsandesh.com##.single-post-advertisement
+nepalmamila.com,satyadeepsandesh.com,shubhakhabar.com##.single-post-advertisement
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
