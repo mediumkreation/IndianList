@@ -1650,6 +1650,7 @@ manoramaonline.com##.container .experiencefragment
 praharkhabar.com##.container .py-3
 upbhoktajanghosh.com##.container > .features-today-box:only-child
 aapkaparyas.in##.container > .flex-c-c
+koshiparionline.com##.container > img
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
 aajtakmedia.net,asiansomoy.com,bundelkhandnews.com,champarantoday.in,cpnews24.com,dainikcharghat.com,darbhangacity.in,kalamlok.com,kumudam.com,news21.lk,newsmalayali.com,pradeshajjtak.com,rni.news,rohtakmedia.com,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
@@ -3781,7 +3782,7 @@ sirfsach.in##[class^="adsbox"]
 myagdikali.com##[class^="gb-element-"]:has(+ .dynamic-entry-content)
 banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
-hamromat.com##[class^="sgpb-"]
+hamromat.com,koshiparionline.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
 attariyaonline.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
 ctgpratidin.com,nepaljanakhabar.com,newsnepalhd.com##[data-adid] img
@@ -4149,7 +4150,7 @@ ournewscrew.com##div[class*="__ads"]:not([class*="top__header__ads"])
 ctgtimes.com,globalnewsbd24.com,hamrodes.com,sarkariniyog.com,udaipurnews.in##div[class*="_ads"]
 newsnationtv.com##div[class*="_ads_"]
 newskannada.com##div[class*="_adv_"]
-dhakarkagoj.com##div[class*="_advertisement"]
+dhakarkagoj.com,koshiparionline.com##div[class*="_advertisement"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 saamtv.esakal.com##div[class*="_customWidgetWrapper_"]:has(  div[id*="_leaderboard_"] > script)
 hindutamil.in##div[class*="_customWidgetWrapper_"]:has(.leaderboard-ad)
