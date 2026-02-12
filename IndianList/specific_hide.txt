@@ -1853,8 +1853,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -3097,6 +3097,7 @@ bangabarta.com##.td-main-content-wrap .tdm_block_inline_image
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
 teknafnews.com##.td-main-content-wrap .vc_raw_html
 newsfireonline.com##.td-main-content-wrap .widget_text
+bajjikavani.com##.td-main-content-wrap [title^="Advertis"]
 egoomedia.com##.td-main-sidebar .widget_custom_html
 newslabz.com##.td-main-sidebar .widget_media_image
 garavigujarat.biz##.td-main-sidebar .widget_text
@@ -3128,7 +3129,7 @@ najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 dailybanglarrup.com,jnilive.mobi##.td_block_image_box
-abitfar.com,akkbd.com,atulyabharat.in,biswabanglasangbad.com,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,dhakanews24.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,ejalakam.com,himalayandiscover.com,hindusthanpost.com,khabargujarat.com,manaharilive.com,newindia24.in,ntinews.com,odishanews24.in,ournews24.com,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,rautahattimes.com,tamilnews.com,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+abitfar.com,akkbd.com,atulyabharat.in,bajjikavani.com,biswabanglasangbad.com,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,dhakanews24.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,ejalakam.com,himalayandiscover.com,hindusthanpost.com,khabargujarat.com,manaharilive.com,newindia24.in,ntinews.com,odishanews24.in,ournews24.com,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,rautahattimes.com,tamilnews.com,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 chatganrbani.com##.td_block_text_with_title
