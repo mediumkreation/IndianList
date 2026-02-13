@@ -1577,7 +1577,7 @@ thelucknowtribune.com##.cm-entry-summary > div img
 thirdeyetoday.com##.cm-entry-summary > h2 > img
 thirdeyetoday.com##.cm-entry-summary > h3 > img
 thirdeyetoday.com##.cm-entry-summary > p img
-hindimedia.in##.cm-popup-modal
+arthoniter30dinbd.com,hindimedia.in##.cm-popup-modal
 samastipurtown.com##.cm-post-content img
 awazrajasthanki.com##.cm-post-widget-section.widget_media_image
 oneindia.com##.cmscontent-article1
@@ -3070,6 +3070,7 @@ dainikbharatbhaskar.com,dainikdawa.com#@#.td-ad-p
 dainikbharatbhaskar.com,dainikdawa.com#@#.td-ad-tp
 loksansar.in,pathramonline.com##.td-adspot-title + a
 odisha.live##.td-all-devices
+arthoniter30dinbd.com##.td-all-devices > a img
 nayabangla.com,southlive.in##.td-banner-bg
 dotooknews.com,irinjalakuda.com,ucchakontha.com##.td-banner-wrap-full
 teraisandesh.com##.td-cpt-post:has(> div > div > div > [title="Advertisement"i])
