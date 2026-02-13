@@ -9,9 +9,9 @@ atalsamachar.com###HP_O_LHS_7 > div:nth-child(-n+10)
 samayduniya.com###HP_O_LHS_7 > div:nth-child(-n+2)
 odiascraps.info###HP_O_LHS_7 > div:nth-child(-n+5)
 actionnews.in,adrasaka.com,apnahimachalapnishaan.in,balotranewstrack.com,ceylonmuslim.com,gossiplankanews.com,hamaramahanagar.in,kanaighatnews.com,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,localmarathi.in,marudharabharti.com,newssapata.com,rajsamachar.com,sahibganjnews.com,tapnewsindia.com,topbharat.in,unmaikal.com###HTML1
-bhopalsamachar.com,cnblive.com,ekumaon.com,ezhomelive.com,jaldhakanews.com,media24media.com,sahityarachana.com###HTML10
+bhopalsamachar.com,cnblive.com,ekumaon.com,ezhomelive.com,jaldhakanews.com,maipokharinews.com,media24media.com,sahityarachana.com###HTML10
 jaldhakanews.com###HTML101
-99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,npnews.co.in###HTML11
+99samacharexpress.in,bhopalsamachar.com,dailyhealthletters.com,ekusheymedia.com,gossip99.com,khantinews.blogspot.com,liveaaryaavart.com,maipokharinews.com,newscity.co.in,npnews.co.in###HTML11
 dailyhealthletters.com,india2daynews.com,liveaaryaavart.com,mathagal.net###HTML12
 jaldhakanews.com###HTML123
 nawadalive.com,thattungal.com###HTML13
@@ -3418,7 +3418,7 @@ mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-ajeybharat.com,azmlive.in,biharkhabars.com,emungaru.com,himachalmedia.co,importmirror.com,india2daynews.com,khulikhabar.com,maavarahinews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
+ajeybharat.com,azmlive.in,biharkhabars.com,emungaru.com,himachalmedia.co,importmirror.com,india2daynews.com,khulikhabar.com,maavarahinews.com,maipokharinews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
