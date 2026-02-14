@@ -721,6 +721,7 @@ breakingnews.com.bd###single_news_page_right_add
 currentkhabar.com###sitebox-ad125-3
 baglungpost.com,biznessnews.com,prabhavnews.com###skip-ads
 capitallivenews.com###skipAdModal
+thuloparda.com###skippable-image-container
 fastnewsindia.co,makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
 kayalconnection.com,nerkazhcha.com###slideshow
