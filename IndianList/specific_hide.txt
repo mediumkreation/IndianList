@@ -1856,8 +1856,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -2401,6 +2401,7 @@ mzamin.com##.mb-5.justify-content-center
 mpbreakingnews.in##.mb-6.mt-4
 filmistreet.com##.mb-hidden img.center
 divyamarathi.bhaskar.com##.mb_ads_title
+eenadu.net##.mcads
 kalakkalcinema.com##.mct
 indianews.in##.mdlad
 mediacover.in##.media-after-content
@@ -4256,7 +4257,7 @@ aggarjanpatrika.com,himalayanupdate.com,hindiexpressnews.com,tatkalnews.com##div
 dailyjanakantha.com##div[class^="DAdd3"]
 news18.com##div[class^="HomeMobile_mobile_add"]
 a2zsamachar.com##div[class^="a2zsa-content"]
-prameyanews7.com##div[class^="ad-"]
+eenadu.net,prameyanews7.com##div[class^="ad-"]
 eenadu.net##div[class^="ad-block"]
 dailyalokitovor.com,sangbadpratidin.in##div[class^="ad_"]
 britishpathram.com##div[class^="ad_mid"]
