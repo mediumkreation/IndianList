@@ -1293,7 +1293,7 @@ dinajpurnews24.com,news71.tv##.advertise_part
 bdcrimenews.com,jamalpurlive.com##.advertise_space1
 jamalpurlive.com##.advertise_space2
 ajkerreport.com##.advertise_to
-apkhabar.com,bagmatikhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bartomankhobor.com,bdlive24.com,chandpur-kantho.com,corporatekhabar.com,dailyinqilab.com,dainikdeshseba.com,dokadamganvkior.com,ekushnews24.com,farakkon.com,gandakichhadke.com,gbnews24.com,globalnewsbd24.com,gorkhalikhabar.com,greatkhabar.com,jagaranpost.com,jaljalaonline.com,khabarcenter.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,laligurash.com,meroauto.com,merojilla.com,nayalook.com,neelkanthafm.com,nepalawaj.com,newanews.com,news71online.com,onabil.net,onlinemajdoor.com,ournewsbd.net,prabhatpheri.com.np,samaynews24.com,setokhabar.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
+apkhabar.com,bagmatikhabar.com,bangladeshtoday.net,banglapost.co.uk,banglarkotha24.com,bartomankhobor.com,bdlive24.com,chandpur-kantho.com,corporatekhabar.com,dailyinqilab.com,dainikdeshseba.com,dokadamganvkior.com,ekushnews24.com,farakkon.com,gandakichhadke.com,gbnews24.com,globalnewsbd24.com,gorkhalikhabar.com,greatkhabar.com,jagaranpost.com,jaljalaonline.com,khabarcenter.com,khabarpurwanchal.com,khaptadmalikanews.com,lakshmipur24.com,laligurash.com,meroauto.com,merojilla.com,nayalook.com,neelkanthafm.com,nepalawaj.com,newanews.com,news71online.com,onabil.net,onlinemajdoor.com,ournewsbd.net,paschimeli.com,prabhatpheri.com.np,samaynews24.com,setokhabar.com,shamolynews24.com,shikshapratidin.com,subhayug.com,tharunaya.com,thebdreport24.com,timesofmalwa.in,ujyaalonetwork.com##.advertisement
 birgunjsanjal.com,hotpati.com,kanchanjanghaonline.com##.advertisement img
 kalaroanews.com##.advertisement img:not([src*="Abu-Nasor-sir"])
 aanthaireporter.in,tamilankural.com##.advertisement-area
@@ -2496,6 +2496,7 @@ nayabikalpa.com##.naya-bikalpa-advertisement
 amraikhabor.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
+paschimeli.com##.nepali_theme_post_between_ads
 nepalijanta.com##.nepalijanta-ad
 hariyalinepal.com##.neptop-ads-place
 mhone.in##.new-banners
