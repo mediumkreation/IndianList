@@ -1370,6 +1370,7 @@ hellobanswara.com##.article_text-content figure
 asianetnews.com##.articleright div:has(> [id^="div-gpt-ad-"])
 newsatfirst.com##.aside-add
 dinamani.com,kalkionline.com,kannadaprabha.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
+nepalrastriyadainik.com##.aside-trending
 bijoybanglabd.com##.asn-bk-txt
 awaazbd.net,awaazbd.us,deshabhimani.com##.aspect-square
 kasaragodchannel.com##.ast-below-header
@@ -2047,6 +2048,7 @@ narmadanchal.com##.gb-container:has(> figure.size-full)
 bheldailynews.com,biharivoice.com,devpath.in,malnadtimes.com,mulukhmaidan.com##.gb-container:has(> ins.adsbygoogle)
 chetnanews.in##.gb-element-2b23332b
 tamil.goodreturns.in##.gd-multi-news ul > div
+nepalrastriyadainik.com##.generic-ad
 25kalak.com,morbiupdate.com##.ggl-bnr-728
 24ghonta.news##.ghont-ksrm-bottom
 globalbharatnews.com##.globa-widget
