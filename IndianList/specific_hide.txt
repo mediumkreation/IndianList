@@ -2388,6 +2388,7 @@ cninews24.com##.map
 anandabazar.com##.marketingbnnerbox
 ideatvnews.com##.marquee-ads
 puneetsandesh.com##.marquee-container
+rmgtimes.com##.marquee-container img
 firstverdict.com##.masonry-slide-ad1
 ayushindianews.com##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
