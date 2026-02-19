@@ -2057,7 +2057,7 @@ news18.com##.global-storylist li[style^="height"]
 chopaltv.com##.gmr-banner-insidecontent
 odishafast.co##.gmx-image
 samayahub.com##.go__ji_wrapper
-ourbiratnagar.net##.gofollow
+iconkhabar.com,ourbiratnagar.net##.gofollow
 gorkhapatrika.com##.goji-advertisement
 natunsomoy.net##.google-ads-banner
 onlinepatrakar.com##.googleAdBlock
