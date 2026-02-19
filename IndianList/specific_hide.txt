@@ -1857,8 +1857,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -1960,7 +1960,7 @@ marathi.indiatimes.com##.fakelisting
 bangla.thereport24.com##.farrr
 telugu.samayam.com##.fbnad
 ezhomelive.com##.feat-widget-wrap
-bbc24news.com,chtmedia24.com##.featad
+bbc24news.com,chtmedia24.com,swnews24.com##.featad
 hetaudatoday.com##.feature-ad
 hetaudatoday.com,tukhabar.com##.feature-bottom-ad
 harithakeralamnews.com##.featured-ad-bg
@@ -2341,6 +2341,7 @@ nayabishwo.com##.long-add
 hamrokhabar.com##.long__ads
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
+swnews24.com##.longad
 newsdoor.net##.lrads
 lankasri.com##.lsb-blurb-sections
 haryanakranti.com##.m-116
@@ -3305,7 +3306,7 @@ specialcoveragenews.in##.top_level_1
 livevns.news##.top_madd
 nrimalayalee.com##.top_most_news_post_ad
 abnews24.com,alokitobangladesh.com##.top_new_add
-bojrokontho.com,gujarattimesusa.com,nepaljapansamaj.com,shabdonews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
+bojrokontho.com,gujarattimesusa.com,nepaljapansamaj.com,shabdonews24.com,swnews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com,kulalworld.com##.topadd
 rosemalayalam.com##.topaddno
 mediavision.news##.topaddsctn
