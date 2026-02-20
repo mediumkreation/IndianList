@@ -1472,7 +1472,7 @@ bangla71news.com,banglarjamin24.com,crimeexpressbd.com,satkhiraprotidin.net,sobk
 capitallivenews.com##.bignews_slider
 mediapunjab.com##.bigposter
 janatapati.com##.bigyaapan
-himalkhabar.com,nayadainiki.com##.bigyaapan-box
+dalitonline.com,himalkhabar.com,nayadainiki.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
 baahrakhari.com,dekhapadhi.com##.bigyaapan-section
 barnanmedia.com,merofilm.com##.bigyapaan__section
@@ -1690,6 +1690,7 @@ dthreeonline.com##.content-middle-ads
 cs24bd.com##.content-sidebar-ad
 tcp24.news##.content_section .to-be-async-loaded-ad
 bhilwarasamwad.com##.content_top:first-child .latest_slider
+dalitonline.com##.contentarea-adv
 thefollowup.in##.contents > p img
 beanibazarnews24.com##.coronaupperadd
 gonokantho.com##.countdown_wrapper
@@ -3788,7 +3789,7 @@ usharbani.com##[class*="_ads_"]
 thejbt.com##[class*="adHide"]
 haribhoomi.com##[class*="ad_"]
 golkhabar.com##[class*="add-"]
-anticorruptionpost.com##[class*="ads"]
+anticorruptionpost.com,dalitonline.com##[class*="ads"]
 safalkhabar.com##[class*="advertisement"]
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
