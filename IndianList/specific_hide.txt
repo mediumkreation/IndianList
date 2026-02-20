@@ -1004,6 +1004,7 @@ ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
 akhabarhub.com,anmolkhabar.com,banglatelegraph.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com##.ad
 cialive.in##.ad .carousel
+arthasansar.com##.ad > div
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 sorejominbarta.com##.ad iframe
 arthasansar.com,dailysunshine.com.bd##.ad img
@@ -2522,6 +2523,7 @@ news13uttarakhand.com##.news1-before-content_6
 news13uttarakhand.com##.news1-before-content_9
 bangla24x7.news,realtamilnews.com##.news247_ads_banner_widget
 techpana.com##.newsTech-ads
+arthasansar.com##.news__inside--ad
 morbiupdate.com##.news_ad_hide_category
 chapaibarta24.com##.news_content .code-block
 dhakarkagoj.com,sangbad-gallery.com##.news_left_part_ad
@@ -3743,6 +3745,7 @@ abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,thesurgicalnews.in##.wpcp-carousel-wrapper
 betulsamachar.com,bongnews24x7.com,dailynews24.in,khabardevbhoomi.com,naitaaqat.in,narmadanchal.com,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
+arthasansar.com##.wrapper.text-center img
 shabdsaransh.com##.ws-block img:only-child
 aajkasamay.com##.ws-block-body > a[href=""]
 janghatna.com##.ws-block-body a img:not([src*="dj.JPG"])
