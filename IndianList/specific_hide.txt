@@ -2549,7 +2549,7 @@ newsbunch.in##.nm-ads-section
 nnews24.com##.nnews-content
 ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,upsamachar.org##.no-bg-box-model
 nepalraftar.com##.no-bod > a
-chitwanaaja.com,halkarosamachar.com##.no-bod > a img
+chitwanaaja.com,halkarosamachar.com,kantipathonline.com##.no-bod > a img
 narayanionline.com,sagarmatha.tv##.no-vigyapan-section
 sagarmatha.tv##.no-vigyapan-sidebar-section
 narayanionline.com##.no-vigyapan-single
