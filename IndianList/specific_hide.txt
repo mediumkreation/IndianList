@@ -1091,6 +1091,7 @@ songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
 bwazarakatha.com##.add img:not(.wp-image-19734)
 dailydishari.com##.add img:not([src*="Dainik-Dishari-"])
 kopotakkhotimes.com##.add p img
+yuwasandesh.com##.add--a
 motivatenews.com.np,pokharapatra.com.np,sancharkendra.com##.add-2
 gujaratimidday.com##.add-300x250
 pratibha.eenadu.net##.add-336x280
