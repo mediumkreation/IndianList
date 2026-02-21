@@ -1861,8 +1861,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -3575,7 +3575,7 @@ eratokhabar.com##.widget_sow-image:not(#sow-image-27)
 starvrutta.com##.widget_sow-slider
 ausnepalnews.com,samajkoawaj.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
-samabesikhabar.com##.widget_sso_advertisement
+onlinearthik.com,samabesikhabar.com##.widget_sso_advertisement
 ainnews.tv,atulyaloktantranews.com,awazeuttarpradesh.com,deshrupantor.com,fatafatnews.com,gangalahar.com,khabar36.com,khulnatimes.com,ottrancheithi.com,samaydarshan.in,shomoynews.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
