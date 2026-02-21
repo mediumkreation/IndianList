@@ -2222,7 +2222,7 @@ sudarshannews.in##.imggoogel
 sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
-abpcrimenews.com,afnainews.com,bethanchokkhabar.com,ekhabarnet.com,janasarokar.com,kalikadainik.com,khabarnp.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,sagarmathakhabar.com,samayahub.com,satkarpost.com,sawalnepal.com##.in__between_ads
+abpcrimenews.com,afnainews.com,bethanchokkhabar.com,ekhabarnet.com,janasarokar.com,kalikadainik.com,khabarnp.com,moolbato.com,nagarikaawaj.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,sagarmathakhabar.com,samayahub.com,satkarpost.com,sawalnepal.com,vanipress.com##.in__between_ads
 lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
@@ -3784,7 +3784,7 @@ epaper.samyukthakarnataka.com,epaperdainikaikya.com,kpepaper.asianetnews.com,she
 tv19online.com##[class*="-banner"]
 ekusheysangbad.com##[class*="-banner"]:not(.culture-banner-1)
 vikatan.com##[class*="__ad"]
-nagarikpana.com,publicsandesh.com,sagarmathakhabar.com##[class*="__ads"]
+nagarikpana.com,publicsandesh.com,sagarmathakhabar.com,vanipress.com##[class*="__ads"]
 ekhabarnet.com##[class*="__ads"] img
 morbiupdate.com,narayanganjerkhabar.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
