@@ -1861,8 +1861,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -4777,7 +4777,7 @@ ainakhabar.com,amsanchar.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikon
 bizpati.com,suryakhabar.com,thuloparda.com##section.widget > figure
 abcnepal.tv,chakrapath.com,dainiknepal.com,kendrabindu.com,notebazar.com,onlinetvnepal.com##section.widget figure
 actpronepal.com##section.widget figure img
-clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,lumbinisanchar.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,thecinematimes.com,yohokhabar.com##section.widget img
+clickmandu.com,hamroeconomy.com,healthaawaj.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,lumbinisanchar.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,thecinematimes.com,yobela.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 newspolar.com##section.widget img:not(.wp-image-85386):not(.wp-image-87331)
