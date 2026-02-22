@@ -2450,7 +2450,7 @@ prajavani.net##.mob_only
 news13.in##.mobadv-4
 capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
 nepalipatra.com,onlinerapti.com,postpati.com##.modal-body
-dailysokalersomoy.com,janchhaya.in,nepalmamila.com,thewall.in##.modal-content
+dailysokalersomoy.com,janchhaya.in,nepalmamila.com,parichitkhabar.com,thewall.in##.modal-content
 nepalipaisa.com##.modal-dialog
 annapurnapost.com##.modal__img
 theleader.lk##.module-ct .custom
