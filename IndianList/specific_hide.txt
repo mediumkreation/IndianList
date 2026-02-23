@@ -1290,6 +1290,7 @@ paryatanbazar.com,shyamalsylhet.net##.advertise-section
 socialvikassamachar.com##.advertise-widget-box
 farakkon.com##.advertise-widgets
 nepalmamila.com,shubhakhabar.com##.advertiseImage
+yanglenews.com##.advertise_area
 udayavani.com##.advertise_container
 sylhetbarta24.com##.advertise_image
 dinajpurnews24.com,news71.tv##.advertise_part
@@ -3361,6 +3362,7 @@ marathi.abplive.com##.uk-sidebar._hsidebar
 abplive.com##.uk-text-meta
 doonited.in##.unav_banner
 rsnewslive.com##.unite-gallery
+yanglenews.com##.update_sm_thumb
 valaitamil.com##.upper_links
 khabarchalisa.com##.uris-slider-post-title
 damstv.com##.utf_ad_content_area
