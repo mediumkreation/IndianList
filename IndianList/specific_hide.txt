@@ -1812,6 +1812,7 @@ madhepuralivenews.com##.elementor-element.elementor-element-267fc9ac
 lakhokantho.com##.elementor-heading-title.elementor-size-small
 biharnewsindia.com,himalipatrika.com.np,theeditor24.com##.elementor-image
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
+youthsofbirgunj.com##.elementor-image-box-wrapper
 delhicrimepress.com,etamilnews.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
 rajdhanidaily.com##.elementor-image:has(.no-lightbox)
 namastenri.net##.elementor-location-single .size-large
@@ -1849,6 +1850,7 @@ pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 namastenri.net##.elementor-widget-image img:not([src*="Logo-1.jpg"])
 benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
+youthsofbirgunj.com##.elementor-widget-image img:not([src*="logo.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
 gourbangla.com##.elementor-widget-image img:not([src*="play-store.png"])
 computerbichitra.com##.elementor-widget-image-box
@@ -4622,6 +4624,7 @@ dbcnews.tv##iframe[style*="height: 90px"]
 tejpolicetimes.com##iframe[title="Advertorial"]
 deshsanchar.com,golmalnews.com##img.alignnone.size-full
 onstimes.com##img.attachment-full
+youthsofbirgunj.com##img.attachment-penci-full-thumb
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
 khelpati.com##img[alt$=" Ad"]
