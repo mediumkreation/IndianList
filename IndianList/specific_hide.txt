@@ -792,7 +792,7 @@ chakarianews.com###text-26
 tnilive.com###text-27
 kalaroanews.com###text-28
 anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
-abhibharat.com,agranews.com,aryandigitalseva.com,ayna24.com,budaunamarprabhat.com,cnewsbangla.com,currentkhabar.com,dailybangladeshbani.com,dailymomenshahi.com,devbhoomisamvad.in,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,onnnepal.com,patnanow.com,punjabbaani.com,punjabvarta.com,tamilnewsstar.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
+abhibharat.com,agranews.com,aryandigitalseva.com,ayna24.com,budaunamarprabhat.com,centurytimes.com.np,cnewsbangla.com,currentkhabar.com,dailybangladeshbani.com,dailymomenshahi.com,devbhoomisamvad.in,digitalhoga.com,jagprerna.com,khabarbit.com,kyakhayal.com,minoritiesnews.com,moviemandu.com,newstodayjharkhand.com,odishanews365.com,onnnepal.com,patnanow.com,punjabbaani.com,punjabvarta.com,tamilnewsstar.com,tennews.in,theneeweb.net,tnilive.com,vorerava24.com###text-3
 kanodnews.com###text-3 p~p
 achhikhabar.com,himalini.com###text-30
 e-jaffna.com,fastlivenews.com,fatehnagarnews.com,himalini.com,satyamlive.com,ukhiyanews.com###text-31
@@ -1866,8 +1866,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -3517,7 +3517,7 @@ newslamp.in##.widget_dtuy
 nationexpress.live##.widget_enhy
 insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
 sodhpatra.com##.widget_esn_ad:not(#esn_ad-3)
-azchavattomonline.com##.widget_et_ads
+azchavattomonline.com,centurytimes.com.np##.widget_et_ads
 makdaiexpress24.com##.widget_ewic_sc_widget
 indiareportertoday.com##.widget_fcko:not(#fcko-25)
 filmnews24x7.com##.widget_fgwt
