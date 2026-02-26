@@ -3815,6 +3815,7 @@ mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
+prabhatkhabar.com##[class*="min-h-[125px]"]
 ap7am.com##[class*="pr-"]
 afnainews.com,citypokhara.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
@@ -4159,7 +4160,7 @@ andhrajyothy.com##div:has(> div[id*="-ad-"])
 bhaskar.com##div:has(> div[id^="Ad--"])
 vtvgujarati.com##div:has(> div[id^="VTV_"])
 haribhoomi.com##div:has(> div[id^="div-gpt-ad"])
-mumbaitak.in,prabhatkhabar.com##div:has(> div[id^="div-gpt-ad-"])
+mumbaitak.in##div:has(> div[id^="div-gpt-ad-"])
 dhakamail.com##div:has(> hr + .text-xs)
 janpadmirror.com##div:has(> hr.custome-br + h2)
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
@@ -4251,6 +4252,7 @@ timeskerala.com##div[class*="header-m__widget__"]
 gujaratimidday.com##div[class*="horiozontal-add"]
 gvoice24.com##div[class*="iklan-"]
 nrimalayalee.com##div[class*="inner-main-ad"]
+prabhatkhabar.com##div[class*="items-center"]:has(> div[id^="div-gpt-ad-"])
 khabarbit.com##div[class*="jeg_ad"]
 telugu.filmibeat.com##div[class*="kan-ad"]
 jhabuanews.in##div[class*="kitsune-advert"]
