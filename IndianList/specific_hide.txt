@@ -1284,6 +1284,7 @@ ada.lk##.advert-single
 inkhabar.com##.advertSection
 dailysports24.com##.advertaisement
 bihardailynews.com,dailysylheterdinkal.com,kanchulikhabar.com,redtimes.com.bd##.advertise
+ekattorerkotha.com##.advertise img:not([src*="92.jpg"])
 drukpadam.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 asalshasan.com,gurukulkhabar.com,margarekha.com,namastekarnali.com,shilalekha.com,swasthyapage.com##.advertise-border
 nobat.com##.advertise-ifrme
