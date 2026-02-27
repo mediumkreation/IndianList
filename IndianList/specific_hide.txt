@@ -1460,6 +1460,7 @@ gorkhapatraonline.com##.below-samachar-add
 lknews.lk##.besides-slider-right
 paathoknews.com##.better-ads-listitemad
 4pmnewsonline.com##.betteradscontainer
+mathrubhumi.com##.bg-adBackground
 humsamvet.com##.bg-color-gray-fot
 ajkerpatrika.com##.bg-gray-50
 janpadnewslive.com##.bg-gray:has(> .swiper)
