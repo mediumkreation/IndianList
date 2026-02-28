@@ -3295,7 +3295,7 @@ kolomerkotha.com##.top-add-img
 aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
 manoramaonline.com##.top-advt-block
-marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com##.top-atf-wrapper
+maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com##.top-atf-wrapper
 dainiksaveratimes.com,khaskhabar.com,rajtimes24.com,sangbadprotidin.com##.top-banner
 jamalpurlive.com##.top-bar
 ekuruvi.com##.top-bar-left-nav
@@ -3428,7 +3428,7 @@ amritvichar.com##.w-kban
 indiainside.org##.w3-section
 sarabangla.net##.w3-tiny
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
-iamgujarat.com,marathi.indiatimes.com,samayam.com##.wdt-taboola
+iamgujarat.com,maharashtratimes.com,marathi.indiatimes.com,samayam.com##.wdt-taboola
 marathi.indiatimes.com##.wdt_advertorial
 iamgujarat.com,maharashtratimes.com,samayam.com##.wdt_amz
 jagran.com,naidunia.com##.webAds
