@@ -4640,6 +4640,7 @@ khabarbhatapara.in##iframe[src*="google.com/presentation/"]
 hulchalpunjab.com##iframe[src*="igoogleportal.com"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 dbcnews.tv##iframe[style*="height: 90px"]
+priyoshomoy.com##iframe[title*="vitiligo"]
 tejpolicetimes.com##iframe[title="Advertorial"]
 deshsanchar.com,golmalnews.com##img.alignnone.size-full
 onstimes.com##img.attachment-full

@@ -1762,7 +1762,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||ibb.co^$third-party,domain=shahzadpursangbad.com
 ||ibn24x7news.com^*/diwali-ad-
 ||ibnsinahealthcare.com/wp-content/uploads/2022/09/ibn-sina-diabeties.jpg
-||ibnsinahealthcare.com^$third-party,domain=chandpurreport.com
+||ibnsinahealthcare.com^$third-party,domain=chandpurreport.com|priyoshomoy.com
 ||icetoday.net^*/aura-add-
 ||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
 ||iconkhabar.com/wp-content/uploads/2025/03/484112748_1363216154915729_2752076263958937875_n.jpg
@@ -3186,6 +3186,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||prixacdn.net/media/Digimedical_to_Farakdhar_1.gif
 ||prixacdn.net/media/Mikes.gif
 ||priyochandpur.net/wp-content/uploads/2025/11/esht.jpg
+||priyoshomoy.com/wp-content/uploads/2020/05/sainus-tumour-ad.jpg
 ||priyoshomoy.com^$third-party,domain=chandpurreport.com
 ||probash-mela.com/wp-content/uploads/2018/06/Sol1000p.jpg
 ||probash-mela.com^*/Advt
