@@ -814,7 +814,7 @@ careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 achhikhabar.com,pradeshonlinekhabar.com###text-48
 achhikhabar.com###text-49
-atharvnews.com,biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,mpcgtoday.com,najarianews.in,navpravah.com,navsancharsamachar.com,news85.in,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,theprobashi.com,tnilive.com###text-5
+atharvnews.com,biharpatrika.in,chandankesari.com,communitynews24.com,jagprerna.com,mpcgtoday.com,najarianews.in,navpravah.com,navsancharsamachar.com,news85.in,newsmediatoday.net,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,theprobashi.com,tnilive.com###text-5
 achhikhabar.com,recentnepal.com###text-50
 lekhaporabd.net###text-51
 anaicoddai.com,bmdb.co,oneindia24live.com,recentnepal.com###text-52
@@ -1871,8 +1871,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
@@ -4827,6 +4827,7 @@ agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 hmtvlive.com##section[class*="-ad-"]
 hmtvlive.com##section[class*="ad_after_"]
 newsplus21.com##section[class*="ades"]
+newsmediatoday.net##section[class*="image"]:not(#media_image-2,#media_image-16,#media_image-7)
 shyamalsylhet.com##section[class^="advertise"]
 jubokantho24.com##section[data-id="147a440"]
 muznews.online##section[data-id="9a0f91e"]
