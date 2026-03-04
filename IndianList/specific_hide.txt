@@ -1073,6 +1073,7 @@ outlookhindi.com##.ad_unit_728x90
 corporatenepal.com,merofilm.com##.adalytics_ad
 ekagaj.com,farakdhar.com,mynewsnepal.com,purbelinews.com,ukeraa.com##.adalyticsblock
 barnanmedia.com##.adalyticsblock img:not([src*="newbarnan_"])
+kositimes.com##.adblock
 dainikvishwamitra.com##.adbnr
 anandabazar.com,banglaxp.com,beanibazarnews24.com,bhartiyabasti.com,lohagaranews24.com,radiokanchan.com.np,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,pharmabangla.com,rajnitiprotidin.com##.adcontainer
