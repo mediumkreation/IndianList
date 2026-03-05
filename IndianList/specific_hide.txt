@@ -39,7 +39,7 @@ tamilarul.net###HTML40
 tamilarul.net###HTML42
 nallezhuth.com###HTML44
 36kaakda.in,99samacharexpress.in,abtakapakesath.com,battinews.com,chapainawabganjnews.com,chilahatiweb.com,eelanesan.com,hellodharnews.com,malabarflash.com,media24media.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
-ezhomelive.com,gossip99.com,mathagal.net,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
+ezhomelive.com,gossip99.com,kd24news.in,mathagal.net,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
 chapainawabganjnews.com,hellodharnews.com,liveaaryaavart.com,livebihar24news.com,vyganews.com###HTML7
 dailyhealthletters.com,gramsamachar.com,india2daynews.com,jaldhakanews.com,khantinews.blogspot.com,newssapata.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com###HTML8
 balotranewstrack.com###HTML860
@@ -58,7 +58,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hamaramahanagar.in,jalorenews.com,jaunpurlive.com,kalviseithi.net,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,naininews.com,poonththalir.blogspot.com,rajsamachar.com,sandwanews.com,shortnews.lk,siyanenews.com,spyviewnews.in,thattungal.com###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hamaramahanagar.in,jalorenews.com,jaunpurlive.com,kalviseithi.net,kd24news.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,naininews.com,poonththalir.blogspot.com,rajsamachar.com,sandwanews.com,shortnews.lk,siyanenews.com,spyviewnews.in,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -1871,8 +1871,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
