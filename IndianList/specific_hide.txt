@@ -2138,6 +2138,7 @@ banglatribune.com,deshrupantor.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 banglapost.co.uk##.header_adv
+dishadaily.com##.header_banner
 natunjug.com##.header_biggapon
 univarta.com##.header_bottom_ad
 bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
@@ -3326,6 +3327,7 @@ samacharplus.com##.top_advertize
 nepalparikrama.com##.top_banner
 aapninews.in,rochakkhabare.com##.top_dd
 ni24news.com##.top_index_block_adnow
+dishadaily.com##.top_left_2
 specialcoveragenews.in##.top_level_1
 livevns.news##.top_madd
 nrimalayalee.com##.top_most_news_post_ad
