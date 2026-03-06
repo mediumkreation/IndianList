@@ -1526,6 +1526,7 @@ aajbangla.in,aajkadinnews.com,aankhennews24.com,bharatlive.co.in,bhavtarini.com,
 aajbangla.in,aajkadinnews.com,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,chennaipatrika.com,darsilivetv.com,deshpatra.com,fesn.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindikhabarwaala.com,hindustan1st.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,indraprasthasamachar.com,jagrantimesnews.com,janajeevala.com,khulasapost.in,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,naradnews.live,nbc24.in,newsexpress24.com,p24news.com,peoplessamachar.in,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sansaninews.com,sirajganjexpress.com,starsamachar.com,theindiaplus.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 aankhennews24.com##.bn-md
 nishpakshjanavlokan.in##.bn-sidebar-content
+banglanews24.com##.body-top-ad-area-desktop
 silkcitynews.com##.body1
 britishpathram.com##.body2_ad
 newsflash71.com##.book_ads
@@ -1871,8 +1872,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
