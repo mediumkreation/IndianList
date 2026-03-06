@@ -927,6 +927,9 @@ perfection-ias-upsc$domain=nextbihar.com
 ||chandpur-kantho.com/templates/web-v1/images/homio.gif
 ||chandpur-kantho.com/templates/web-v1/images/imazin.gif
 ||chandpur-kantho.com/templates/web-v1/images/jibondip.gif
+||chandpurkantha24.com/templates/web-v1/images/homio.gif
+||chandpurkantha24.com/templates/web-v1/images/imazin.gif
+||chandpurkantha24.com/templates/web-v1/images/jibondip.gif
 ||chandpurnews.com^*/cyberworldit_
 ||chandpurreport.com/wp-content/uploads/2024/03/rokte-ronjito-1024x758.jpg$domain=priyoshomoy.com
 ||chandpurreport.com^*/-add-
