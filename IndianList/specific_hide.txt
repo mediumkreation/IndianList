@@ -1923,7 +1923,7 @@ dastavej.in,kaptaan.co.in,todaypati.com##.entry-content > div[style*="float"]
 abbiharnews.com,justmuz.com##.entry-content > figure.wp-block-image
 karmalamadhanews24.com##.entry-content > p > img
 azranews.in##.entry-content > p > img:not([src*="/azra"])
-apnashaharnews.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar.net,saunewsnetwork.com,shivamoggalive.com##.entry-content > p img
+apnashaharnews.com,awazeshahpur.com,emaatimes.com,jeewanaadhar.com,keralabreaking.com,sabkikhabar.net,saunewsnetwork.com,shivamoggalive.com##.entry-content > p img
 newswings.online##.entry-content > p img:only-child
 chandpurreport.com,hamarahathras.com,moonamvazhi.com##.entry-content > p>img
 news24bd.tv##.entry-content [data-position]
