@@ -1052,6 +1052,7 @@ alorkantho24.news##.ad4
 eenadu.net##.ad728-top
 fmhindi.com##.ad728_cont_mid
 indiatv.in##.ad:has(> div:first-child)
+citynewshaldwani.com##.ad:not([src*="ShahDJ.jpeg"])
 vbnews24.com##.adB
 dailyjagoran.com##.adBgGray
 hindi.dynamitenews.com##.adBody
