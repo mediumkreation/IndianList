@@ -1468,6 +1468,7 @@ paathoknews.com##.better-ads-listitemad
 mathrubhumi.com##.bg-adBackground
 humsamvet.com##.bg-color-gray-fot
 ajkerpatrika.com##.bg-gray-50
+dailyamardesh.com##.bg-gray-50[class*=" w-[160px]"]
 janpadnewslive.com##.bg-gray:has(> .swiper)
 thamilan.lk##.bg-grey-lighter.w-full
 deepika.com##.bg-light
@@ -3233,6 +3234,7 @@ khabardekho.com##.text-html-box figure
 gulte.com##.text-html-box.h250
 pardaphas.com##.text-muted.fs-1-4
 banglainsider.com##.text-secondary.d-block
+dailyamardesh.com##.text-sm.mb-2
 kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 swapnilbangladesh.com##.textwidget > img
