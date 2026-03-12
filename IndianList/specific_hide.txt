@@ -1006,7 +1006,7 @@ kapotham.com##.above-sidebar-wrapper
 agrasor.com##.abv-container
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,anmolkhabar.com,banglatelegraph.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,deepika.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com##.ad
+akhabarhub.com,anmolkhabar.com,banglatelegraph.com,bengali.news18.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,deepika.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com##.ad
 cialive.in##.ad .carousel
 arthasansar.com##.ad > div
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
@@ -2395,7 +2395,7 @@ bastarkiaawaz.com,colombotoday.com,khabarbastar.in,newsdeskkannada.com##.main-si
 kundapraa.com##.main-sidebar .widget_media_image:not(#block-3)
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 maalaimalar.com##.main-wrapper:not(.news-details-page) div:has(> div > [id^="div-gpt-ad-"])
-kannada.news18.com,malayalam.news18.com,news18marathi.com,punjab.news18.com,telugu.news18.com##.mainAds_contnr
+bengali.news18.com,kannada.news18.com,malayalam.news18.com,news18marathi.com,punjab.news18.com,telugu.news18.com##.mainAds_contnr
 republicbharat.com##.mainContent .my-4[class*="min-h-"]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
 hindustanvision.com##.main_header .ws_images
@@ -2451,7 +2451,7 @@ dhakareport24.com##.mid-add
 samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
 pokharaexpress.com##.mid-header .navbar-nav img
-kannada.news18.com,malayalam.news18.com,news18marathi.com,punjab.news18.com,telugu.news18.com##.mid-taboola
+bengali.news18.com,kannada.news18.com,malayalam.news18.com,news18marathi.com,punjab.news18.com,telugu.news18.com##.mid-taboola
 tips4blog.com##.mid_rwc_ads
 nepalesediaspora.com##.midads
 cricket97.com##.middle-add
@@ -3073,6 +3073,7 @@ janpadmirror.com##.swiper:has(img[src*="ads"])
 ramailo6.com##.swiper:not(.bswiper)
 notebook.today##.t-out-span
 adhunikdaur.com##.tab_265top_left
+bengali.news18.com##.tabbox.big
 news18.com##.taboola_setting
 jagran.com##.taboolaads
 xxx-indian-porn.com##.tac
