@@ -4796,6 +4796,7 @@ odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > h4 > span:
 odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > p:-abp-contains(Ad:))
 patnanow.com##p:has(> ins.adsbygoogle)
 doonited.in##p:has(ins.adsbygoogle)
+gyankidukan.com##p[style="font-size:10px"]
 pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
