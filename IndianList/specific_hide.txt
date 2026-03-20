@@ -729,6 +729,7 @@ capitallivenews.com###skipAdModal
 thuloparda.com###skippable-image-container
 fastnewsindia.co,makkalkural.net###slider
 krishnanews.com###slider-pro-3-31077
+mukhbir.in###slider-widget
 kayalconnection.com,nerkazhcha.com###slideshow
 pravasi.us###slideshow2
 pravasi.us###slideshow3
