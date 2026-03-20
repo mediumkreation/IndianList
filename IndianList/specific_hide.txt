@@ -1872,7 +1872,7 @@ youthsofbirgunj.com##.elementor-widget-image img:not([src*="logo.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
 gourbangla.com##.elementor-widget-image img:not([src*="play-store.png"])
 computerbichitra.com##.elementor-widget-image-box
-muznews.online,samvad24.com##.elementor-widget-image-carousel
+muznews.online,samvad24.com,themukhbir.com##.elementor-widget-image-carousel
 hamarahathras.com##.elementor-widget-image-carousel.e-widget-swiper
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 udupixpress.com##.elementor-widget-image-gallery
@@ -1882,11 +1882,11 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
-asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,vijayavani.net##.elementor-widget-shortcode img
+asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
 7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 khabardarinews.com##.elementor-widget-shortcode img:not([src*="Beige-Modern-Elegant-Personal-LinkedIn-Banner.jpg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
