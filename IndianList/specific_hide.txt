@@ -3188,7 +3188,7 @@ dailybanglarrup.com,jnilive.mobi##.td_block_image_box
 abitfar.com,akkbd.com,atulyabharat.in,bajjikavani.com,biswabanglasangbad.com,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,dhakanews24.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,ejalakam.com,himalayandiscover.com,hindusthanpost.com,khabargujarat.com,manaharilive.com,newindia24.in,ntinews.com,odishanews24.in,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,rautahattimes.com,tamilnews.com,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
-chatganrbani.com##.td_block_text_with_title
+beingpahadi.com,chatganrbani.com##.td_block_text_with_title
 dailysharebazar.com,dunvalleymail.com,hilllive.in,himalayandiscover.com,hindustanaaj.com,lankanewsweb.net,mahanaad.com,newsfact.in,ntinews.com,parvatjan.com,postmanindia.in,pradeshlive.com,tazakhabar.in,uttaranchaltoday.com##.td_block_video_embed
 irinjalakuda.com##.td_block_video_playlist
 eveningtimescg.com##.td_block_wrap .td-fix-index
