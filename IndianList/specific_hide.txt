@@ -1884,8 +1884,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2644,6 +2644,7 @@ dailysatkhira.com,globaltamilnews.net,meherpurnews.com,updatesatkhira.com##.penc
 kasaragodchannel.com,motherlandpost.in##.penci-html-ads
 vorerbangladesh.com##.penci-html-ads img
 ekkhabar.online##.penci-infeed_ad
+bhaskarnewsagency.com##.penci-promo-item
 navsatta.com##.penci-sidebar-right
 hindlives.com,tamilstar.com##.penci-text-block
 hamarichoupal.com##.penci_nav_right .penci-html-ads
@@ -3295,6 +3296,7 @@ hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
 sarvodaytimes.in##.theiaStickySidebar > aside > .widget_media_image
 lokbharat.in##.theiaStickySidebar aside.widget_text
 pardasansar.com,uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
+bhaskarnewsagency.com##.theiaStickySidebar:has(> [class*="_image"])
 bdsomachar24.com##.themesBazar_widget .wp-block-image
 somoyerkontha.com##.themesBazar_widget > .textwidget
 banglarchithi.com,hakkatha.com,ournews24.com##.themesBazar_widget img
@@ -3394,6 +3396,7 @@ globenepal.com##.uk-container section.widget
 kantipath.com##.uk-section-xsmall img
 marathi.abplive.com##.uk-sidebar._hsidebar
 abplive.com##.uk-text-meta
+bhaskarnewsagency.com##.ult-video
 doonited.in##.unav_banner
 rsnewslive.com##.unite-gallery
 yanglenews.com##.update_sm_thumb
@@ -3751,7 +3754,7 @@ dailyoporad.com##.wp-image-783
 dnewsnetwork.in##.wp-image-82536
 news4himachal.com##.wp-image-8371
 biharnownews.com,indiawarta.com,kalpa.news,pradeshnews24x7.com##.wp-video
-alochitobangladesh.com.bd##.wp-video-shortcode
+alochitobangladesh.com.bd,bhaskarnewsagency.com##.wp-video-shortcode
 bangladeshmail.news##.wp-widget-group__inner-blocks
 newsdainik.com##.wpb-image-popup
 anweshanam.com,arthosuchak.com,atharvnews.com,indootimes.com.au,nayanepalnews.com,shramjeevijournalist.com,therisingcampus.com,thesadaknama.com,vidarbhaapla.com##.wpb_content_element
@@ -3767,6 +3770,7 @@ arlivenews.com,ctgsangbad24.com,ekkhabar.online,nayabangla.com,poribortonersopot
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
 clearnews.live,rajsattanews.com##.wpb_raw_html
+bhaskarnewsagency.com##.wpb_raw_html img
 garavigujarat.biz##.wpb_raw_html:has(.adsbymahimeta)
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
