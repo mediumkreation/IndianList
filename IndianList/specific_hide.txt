@@ -1450,7 +1450,7 @@ valvainews.org##.bannertopimg2
 awaazindiatv.com##.barta-ad
 bastarkiaawaz.com##.basta-first
 ekhon24.com##.bay-ad
-dakhalchhattisgarh.com,khabarbharat36.com,newscrime24.com,odiabarta.in##.bc_random_banner
+dakhalchhattisgarh.com,himachaldastak.com,khabarbharat36.com,newscrime24.com,odiabarta.in##.bc_random_banner
 muktijoddharkantho.com##.bd-sidebar .widget_text
 garjachhattisgarhnews.com##.bdaia-box7
 punjabbaani.com##.bdaia-e3-container
@@ -1883,8 +1883,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
