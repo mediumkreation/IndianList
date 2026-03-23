@@ -3186,7 +3186,7 @@ thebharatnews.net##.td-ss-main-sidebar > .widget_text
 najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
-dailybanglarrup.com,jnilive.mobi##.td_block_image_box
+dailybanglarrup.com,jnilive.mobi,newsxpresslive.com##.td_block_image_box
 abitfar.com,akkbd.com,atulyabharat.in,bajjikavani.com,biswabanglasangbad.com,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,dhakanews24.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,ejalakam.com,himalayandiscover.com,hindusthanpost.com,khabargujarat.com,manaharilive.com,newindia24.in,ntinews.com,odishanews24.in,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,rautahattimes.com,tamilnews.com,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
@@ -3226,6 +3226,7 @@ samayviews.com##.tdi_86
 annapurnatimes.com##.tdm_block
 mekhadooth.com,sindhudurgsamachar.in,techvision24.com##.tdm_block img
 71newstoday.com##.tdm_block.tdm-content-horiz-left
+newsxpresslive.com##.tdm_block_image_info_box
 dhakanews24.com,digitalmalayalionline.com,mahaxpress.com,ratdinnews.net,suprobhat.com##.tdm_block_inline_image
 theprintlines.com##.tdm_block_inline_image img
 nalamidam.net##.tdm_block_inline_image_simplified
