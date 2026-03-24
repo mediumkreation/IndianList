@@ -1850,6 +1850,7 @@ perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
 ts29.in##.elementor-video
 aajkiawaaz.com##.elementor-widget-banner-box
+dailynewsindia.in##.elementor-widget-bopea-section-ads-img
 barishalcrimenews.com##.elementor-widget-flip-box
 dastakindia.com##.elementor-widget-foxiz-ad-image
 sidelook.in##.elementor-widget-foxiz-banner
@@ -3478,6 +3479,7 @@ crimediarybd.com##.widget-body > p img
 prothomsokal24.com##.widget-content > img
 chandankesari.com,dailyinshort.com##.widget-header
 kusenews.com##.widget-header > img
+dailynewsindia.in##.widget-image-caption
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 e24bollywood.com##.widget-sidebar img
 mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
