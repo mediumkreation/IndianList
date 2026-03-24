@@ -3004,7 +3004,7 @@ kurunews.com##.sora-ads-full
 kaumudiplus.com##.sp-ad-row
 samudra-pari.com,samudrapari.com##.sp-full-width-ads
 laatsaab.com##.sp_simple_youtube
-flowersoriginals.com,ntvbd.com##.space-ad
+flowersoriginals.com,ntvbd.com,twentyfournews.com##.space-ad
 alorkantho24.news##.spad
 pavilion.com.bd##.spad-section img
 ekuruvi.com##.span-2 a:only-child
