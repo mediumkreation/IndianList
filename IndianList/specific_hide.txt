@@ -1718,6 +1718,7 @@ shoutmehindi.com##.coupon_dealtop
 keralakaumudi.com##.cs-sec-feat-title
 indiapolkhol.in##.ct-header-text
 fonijkorea.net##.ctUp-ads
+chhapratoday.com##.ctads-ad-wrap
 10tv.in##.cust-ads
 shasakprashasak.com##.custom img
 sylhetview24.news##.custom-ads-row
@@ -1874,7 +1875,7 @@ youthsofbirgunj.com##.elementor-widget-image img:not([src*="logo.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
 gourbangla.com##.elementor-widget-image img:not([src*="play-store.png"])
 computerbichitra.com##.elementor-widget-image-box
-muznews.online,samvad24.com,themukhbir.com##.elementor-widget-image-carousel
+chhapratoday.com,muznews.online,samvad24.com,themukhbir.com##.elementor-widget-image-carousel
 hamarahathras.com##.elementor-widget-image-carousel.e-widget-swiper
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 udupixpress.com##.elementor-widget-image-gallery
