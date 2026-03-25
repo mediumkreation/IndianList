@@ -2806,6 +2806,7 @@ newsbihani.com##.sd-bar
 rajshahinews24.com##.secOne-add
 deepika.com##.second-section-add
 entevarthakal.com##.second_section_right
+uk1news.com##.secondary-sidebar .widget_media_image
 krishipatrika.com##.section figure.wp-block-image
 makalukhabar.com,nepalpress.com##.section-ad-space
 ntvbd.com##.section-content .pt-20
