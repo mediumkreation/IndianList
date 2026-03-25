@@ -854,7 +854,7 @@ europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
 damaulikhabar.com###tie-block_2253
 actionindialive.com###tie-block_303
-dailybihar.in,jaybharatnews.com,samaynewslive.com###tie-block_576
+dailybihar.in,dainiklokdarpan.com,jaybharatnews.com,samaynewslive.com###tie-block_576
 edunews.com.bd###tie-block_855
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
@@ -3657,7 +3657,7 @@ ganaadhikar.news##.width-ad
 bangladeshsangbadpratidin.com##.width-ad-wrap
 teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
-thenewswall.in##.wonderplugincarousel-container
+dainiklokdarpan.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com,pnews.co.in##.wonderpluginslider
 asiantimes.in,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in,sonprabhat.live##.wonderpluginslider-container
 lotpot.com##.wow
