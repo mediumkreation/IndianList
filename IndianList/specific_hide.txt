@@ -1908,7 +1908,7 @@ goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 pardasansar.com##.elementor-widget-text-editor img
 mpcnews.in##.elementor-widget-theme-post-content img
 indialivingnews.in##.elementor-widget-upk-camux-slider
-hindivivek.org,raibaaruttarakhand.com,shivshahilive.com##.elementor-widget-video
+hindivivek.org,raibaaruttarakhand.com,shivshahilive.com,uttarakhandsamachar.com##.elementor-widget-video
 varthamanam.com##.elementor-widget-vinazine-ads
 aajkijandhara.com##.elementor-widget-wd_image_or_svg
 aajkijandhara.com##.elementor-widget-wd_text_block
