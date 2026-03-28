@@ -1622,7 +1622,7 @@ kannadi.news##.code-block-15 div:nth-child(3)
 ajkerkrishi.com,deshdoot.com,malnadtimes.com,naugachia.com,newstodayjharkhand.com##.code-block-2
 kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,newsvibe.in,thepoliticsagain.com##.code-block-4
-deshdoot.com,mangalwedhatimes.in##.code-block-5
+deshdoot.com,mangalwedhatimes.in,swadeshbangla24.com##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
 jjpnews.com,tamizhdb.com##.code-block-8
 chanakyanewz.com##.code-block-center
@@ -2663,7 +2663,7 @@ jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
-bdnews999.com,dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,gnewsbd24.com,priyochandpur.com##.pitwAdvWrap
+bdnews999.com,dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,gnewsbd24.com,priyochandpur.com,swadeshbangla24.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 etharasambhala.com,hamdardtv.com##.plyr
