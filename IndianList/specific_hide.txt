@@ -304,7 +304,7 @@ dankaram.in###customVideo
 dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 atozjnews.com###custom_html-112
-jugerbarta.online,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
+jugerbarta.online,newsplusmail.com,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
 ausamachar.com,bharatnewsservice.com###custom_html-13
 goindianews.com###custom_html-14
 bhaskarenews.com,crimekhabar.live,jonopotro.com,tejalgyannews.com###custom_html-15
@@ -1890,8 +1890,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3589,6 +3589,7 @@ smartindiadial.com##.widget_media_image:not(#block-6)
 nuwakotexpress.com##.widget_media_image:not(#block-9)
 madhyantar.com##.widget_media_image:not(#media_image-125)
 pplnews.in##.widget_media_image:not(#media_image-13)
+newsplusmail.com##.widget_media_image:not(#media_image-16)
 chandpurdarpan.com,farkindia.in,punjabiakhbaar.ca,ravivardelhi.com,sabkikhabar.net##.widget_media_image:not(#media_image-2)
 graminujala.com##.widget_media_image:not(#media_image-2):not(#media_image-4)
 kmassnews.com##.widget_media_image:not(#media_image-2):not(#media_image-6)
