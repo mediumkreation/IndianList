@@ -3098,6 +3098,7 @@ bengali.news18.com##.tabbox.big
 news18.com##.taboola_setting
 jagran.com##.taboolaads
 xxx-indian-porn.com##.tac
+janaadesh.com.np##.tadd
 kamdhenupost.com##.tagdiv-type .td-fix-index img
 tamilmint.com,tamiltradepost.com##.tamil-widget
 ap7am.com##.tb-dt
