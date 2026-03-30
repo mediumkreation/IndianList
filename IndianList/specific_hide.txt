@@ -3257,6 +3257,7 @@ gulte.com##.text-html-box.h250
 pardaphas.com##.text-muted.fs-1-4
 banglainsider.com##.text-secondary.d-block
 dailyamardesh.com##.text-sm.mb-2
+manoramaonline.com##.text_linkad_wrapper
 kairalynews.com##.text_post_section + .row img
 seradesh.com##.textwidget
 swapnilbangladesh.com##.textwidget > img
