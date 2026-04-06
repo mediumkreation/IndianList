@@ -1297,7 +1297,7 @@ ada.lk,ajkerrajshahi.com,manithan.com,shyamalsylhet.net,tamilan24.com,uskhabaron
 ada.lk##.advert-single
 inkhabar.com##.advertSection
 dailysports24.com##.advertaisement
-bihardailynews.com,dailysylheterdinkal.com,kanchulikhabar.com,redtimes.com.bd##.advertise
+bihardailynews.com,dailysylheterdinkal.com,everesttimes.net,kanchulikhabar.com,redtimes.com.bd##.advertise
 ekattorerkotha.com##.advertise img:not([src*="92.jpg"])
 drukpadam.com,newsbrahmanbaria.com,pressbangla24.com##.advertise-area
 asalshasan.com,gurukulkhabar.com,margarekha.com,namastekarnali.com,shilalekha.com,swasthyapage.com##.advertise-border
@@ -1833,6 +1833,7 @@ khulasanewslive.in##.elementor-element-3fb6b77
 maithilbrahminmahasabha.in##.elementor-element-8c6f9c2
 khabartak.in##.elementor-element-ae6f5d4
 madhepuralivenews.com##.elementor-element-bd8215c
+everesttimes.net##.elementor-element-e5251d8
 maithilbrahminmahasabha.in##.elementor-element-f2e9897
 madhepuralivenews.com##.elementor-element.elementor-element-267fc9ac
 lakhokantho.com##.elementor-heading-title.elementor-size-small
