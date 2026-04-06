@@ -1124,7 +1124,7 @@ nepalgatha.com##.add-full
 anandalok.in##.add-gap
 dailygazipuronline.com##.add-high
 bd24time.com,ekhansangbad.com,fulbariapratidin.com,mkantho.com,sambadsaradin.com##.add-image
-dainikagnipath.com,odishajanmorcha.com,sajhadabali.com##.add-img
+dainikagnipath.com,iamkhabrilal.com,odishajanmorcha.com,sajhadabali.com##.add-img
 dainiknarsingdi.com,diptonews24.com,economicbd.com,savarsangbad.com,sharebarta.com,sharebarta.net,sharesangbad.com##.add-imgae
 colorsnewslive.com,dailykesari.com,hindi.nyoooz.com,jogajog24.com,khabar247.com,lokwani.tv,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com,womenscorner.com.bd##.add-inner
 dinajpur24.com,vachakam.com##.add-item
@@ -1259,6 +1259,7 @@ nepalesediaspora.com##.adsgo
 dainiki.com##.adsimage
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
+iamkhabrilal.com##.adsimgs
 shamolbangla24.com##.adsp
 dhadingupdate.com,onlinetajakhabar.com##.adspace img
 amarsandesh.com##.adss_banner
