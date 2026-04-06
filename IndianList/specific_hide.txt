@@ -3917,6 +3917,7 @@ kasaragodchannel.com##[id^="kasar-"]
 newsuperbharat.com##[id^="newsu-"]
 pokharaviews.com##[id^="pokha-"]
 shankhnaad.live##[id^="shank-"]
+sudurkhabar.com##[id^="sudur-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thekhabartimes.com##[id^="thekh-"]
 thestellarnews.com##[id^="thest-"]
