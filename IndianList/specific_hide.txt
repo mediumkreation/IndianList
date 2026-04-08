@@ -627,7 +627,6 @@ jantakiawaz.org,thejasnews.com###right_level_3
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
 aarthiknews.com,techpana.com###roadBlock
-ekantipur.com###roadblock-ad
 farwesttimesdaily.com###roadblockModal
 aajkijandhara.com###samvad-popupModal
 sanjeevnitoday.com###sanje-slider-30
@@ -1893,8 +1892,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2149,6 +2148,7 @@ agrasor.com##.header-section .right-container
 awaaz24x7.com##.header-top .align-items-end
 nepalbritain.com##.header-top-details-right
 dailyreportbd.com,tamilcinetalk.com##.header-top-right
+ekantipur.com##.header-top-spo
 unb.com.bd##.header-upper .pull-right
 gangalahar.com##.header-widget
 ausamachar.com##.header-widget-region
@@ -2744,9 +2744,7 @@ surgujasamay.com##.py-2 .img-fluid
 sunamganjerkhobor.com##.py-3
 sharebazarnews.com##.py-4 .text-lg
 samacharhouse.com##.py-5
-ekantipur.com##.qfx-banner-section
 satyamlive.com##.quadss-location
-ekantipur.com##.quiz-wrapper
 rajnitiprotidin.com##.qvzk
 purvanchal24.com##.r-emfs .imagewidget
 aarthikdainik.com,hetaudakhabar.com,nepalipatra.com,samayasamachar.com,sulsule.com##.rd-ads
@@ -3020,6 +3018,7 @@ chattogramerpatrika.com##.spbs-width-ad
 dnewsnetwork.in##.spcp-sidebar
 lastnewsbd.com##.splide.sidebarSlider:not(#splide17)
 kaumudiplus.com##.spnsrd-ad
+ekantipur.com##.spo-section
 abasangthandp.com##.sponsers
 shankhnaad.in,swarajnewstoday.com##.sponsored
 preyopathok.com##.sports_section .muktomot_section
