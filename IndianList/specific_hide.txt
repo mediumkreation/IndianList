@@ -3868,6 +3868,7 @@ golkhabar.com,news1bharat.com##[class*="add-"]
 anticorruptionpost.com,dalitonline.com##[class*="ads"]
 safalkhabar.com##[class*="advertisement"]
 newstak.in##[class*="bg-gray"].text-center
+sidhakura.com##[class*="bigyaapan"]
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
