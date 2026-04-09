@@ -1683,7 +1683,7 @@ aapkaparyas.in##.container > .flex-c-c
 koshiparionline.com##.container > img
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,asiansomoy.com,bundelkhandnews.com,champarantoday.in,cpnews24.com,dainikcharghat.com,darbhangacity.in,kalamlok.com,kumudam.com,news21.lk,newsmalayali.com,pradeshajjtak.com,rni.news,rohtakmedia.com,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,anandimail.in,asiansomoy.com,bundelkhandnews.com,champarantoday.in,cpnews24.com,dainikcharghat.com,darbhangacity.in,kalamlok.com,kumudam.com,news21.lk,newsmalayali.com,pradeshajjtak.com,rni.news,rohtakmedia.com,suragbureau.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
