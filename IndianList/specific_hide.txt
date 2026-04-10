@@ -1894,8 +1894,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2534,6 +2534,7 @@ news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
 24webnews.com,angultv.com,ausamachar.com,bangabarta.com,bihardainik.com,canadauthayan.ca,mahadbd.com,malayalamuk.com,mptodaynews.com,smarthalchal.com,swarajyasanvad.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
+e24bollywood.com##.n24_ads_div_title
 citymediacg.com##.n2_clear
 nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
@@ -3492,7 +3493,6 @@ chandankesari.com,dailyinshort.com##.widget-header
 kusenews.com##.widget-header > img
 dailynewsindia.in##.widget-image-caption
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
-e24bollywood.com##.widget-sidebar img
 mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
@@ -4742,7 +4742,6 @@ knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
 kolomerkotha.com##img[alt="ad300"]
 dailyrangpur.com,dinajpur24.com,durantabarta.com,kolomerkotha.com,nobojagorontv.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
-e24bollywood.com##img[alt="add image"]
 buxaruptodate.com##img[alt="ads buxar"]
 aapkiummid.com,agriview24.com,manobkantha.com.bd##img[alt="ads"]
 sabastaentertainment.com,spicenewsbd.com##img[alt="advertise"]
