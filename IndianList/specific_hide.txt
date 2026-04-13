@@ -2531,7 +2531,7 @@ gbnews24.com##.myIFrame
 somoynews.tv##.mySlideBox
 loktantrakaagaz.com,newsroomme.com##.mySlides
 indiainside.org##.mySlides2
-dainikujagarkhabar.in,newsplus.lk##.mzb-advertisement
+dainikujagarkhabar.in,newsplus.lk,thekhabardaily.com##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
 news13.in##.n13_home_adv5
