@@ -1027,7 +1027,7 @@ chhattisgarhaaj.com##.ad--widget-no
 khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-amritsandesh.com,awamileaguetimes.com,prameya.com,sahakariakhabar.com##.ad-banner
+amritsandesh.com,awamileaguetimes.com,prameya.com,rangpur.news,sahakariakhabar.com##.ad-banner
 yugvartanews.com##.ad-banner img
 bizshala.com,mttvindia.com##.ad-banner-img
 kannurnewsonline.in##.ad-bar-section
@@ -3870,7 +3870,7 @@ thejbt.com##[class*="adHide"]
 haribhoomi.com##[class*="ad_"]
 golkhabar.com,news1bharat.com##[class*="add-"]
 anticorruptionpost.com,dalitonline.com##[class*="ads"]
-safalkhabar.com##[class*="advertisement"]
+rangpur.news,safalkhabar.com##[class*="advertisement"]
 newstak.in##[class*="bg-gray"].text-center
 sidhakura.com##[class*="bigyaapan"]
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
