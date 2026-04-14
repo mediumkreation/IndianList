@@ -139,6 +139,7 @@ massnews.online###author-bio-widget-1
 dhaka18.com###awaken_video_widget-4
 dailypunorutthan.com###backgroundad
 hindinetnews.in,ilamai.com,sitakundabarta.com,upayuktha.com###banner
+dakshinapath.com###bannerAdCarouselContainer
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
 nalandalive.com###bdaia-widget-html-4
