@@ -2967,7 +2967,7 @@ fenchuganjnews.com##.singlepage-section .col-md-8 .add img
 kopotakkhotimes.com##.singlepage-section .widget_area
 news18.com##.site-ad-container
 gaunsahar.com##.site-adv1
-news1today.in,saharasamay.in##.site-advertisement
+jagatprahari.com,news1today.in,saharasamay.in##.site-advertisement
 biharwow.com##.site-content .elementor-sticky--effects > div[data-settings]
 dakshinbharat.com,purvanchalsandesh.com,swatantrabharat.net##.site-content .imagewidget
 purvanchal24.com##.site-content .pbwidget.imagewidget
@@ -3511,7 +3511,6 @@ fourteenkerala.com##.widget.text-html
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 shikkhasongbad.com##.widgetR .widget_area
-jagatprahari.com##.widget_728x90_advertisement
 chouranews.com##.widget_a2a_follow_widget
 loknabj.com##.widget_ads_small
 bantwalnews.com##.widget_adsforwp_ads_widget
