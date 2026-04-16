@@ -1503,6 +1503,7 @@ janatapati.com##.bigyaapan
 dalitonline.com,himalkhabar.com,nayadainiki.com##.bigyaapan-box
 baahrakhari.com,himalkhabar.com##.bigyaapan-item
 baahrakhari.com,dekhapadhi.com,news24nepal.com##.bigyaapan-section
+nepaltoday.com.np##.bigyapaan
 barnanmedia.com,merofilm.com##.bigyapaan__section
 annapurnapost.com,canadanepal.com,everestawaj.com,mardinews.com,nepaldut.com,sabdapati.com,safalawaj.com,safalkhabar.com,setoparewa.com##.bigyapan
 avenues.tv,barnanmedia.com,ekagaj.com,merofilm.com,mynewsnepal.com##.bigyapan-banner
@@ -3846,6 +3847,7 @@ tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 rangpur24.com##[alt="ad300"]
 rangpur24.com##[alt="ad600"]
 kashishnews.com##[alt="add image"]
+nepaltoday.com.np##[alt="add"]
 nepaltimes.net##[alt="body Ad"]
 newsplus21.com##[class$="-ad"]
 ejanakpurtoday.com##[class$="-ads"]
