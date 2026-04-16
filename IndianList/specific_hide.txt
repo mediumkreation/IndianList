@@ -1899,8 +1899,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2138,7 +2138,7 @@ bnewskolhapur.com##.header-add-place
 manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
 alaikal.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
-ajkerbd24.com##.header-baner
+ajkerbd24.com,dainikvatibangla.com##.header-baner
 71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,dailysuraj.com,ekuruvi.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,kanvkanv.com,khabardev.com,mathuranews24.com,medianow.in,newsfry.com,odishatime.com,onlinespardha.com,punjabinfoline.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
@@ -3875,6 +3875,7 @@ haribhoomi.com##[class*="ad_"]
 golkhabar.com,news1bharat.com##[class*="add-"]
 anticorruptionpost.com,dalitonline.com##[class*="ads"]
 rangpur.news,safalkhabar.com##[class*="advertisement"]
+dainikvatibangla.com##[class*="banner"]
 newstak.in##[class*="bg-gray"].text-center
 sidhakura.com##[class*="bigyaapan"]
 mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
@@ -4749,7 +4750,7 @@ trttamilolli.com##img[alt="SAT"]
 eyenewsbd.com##img[alt="ad image"]
 knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
 kolomerkotha.com##img[alt="ad300"]
-dailyrangpur.com,dinajpur24.com,durantabarta.com,kolomerkotha.com,nobojagorontv.com##img[alt="ad728"]
+dailyrangpur.com,dainikvatibangla.com,dinajpur24.com,durantabarta.com,kolomerkotha.com,nobojagorontv.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
 buxaruptodate.com##img[alt="ads buxar"]
 aapkiummid.com,agriview24.com,manobkantha.com.bd##img[alt="ads"]
