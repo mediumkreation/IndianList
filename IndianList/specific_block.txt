@@ -1076,6 +1076,9 @@ perfection-ias-upsc$domain=nextbihar.com
 ||clic2news.com/wp-content/uploads/2021/06/951.jpg
 ||clmbtech.com^$third-party,domain=samayduniya.com
 ||cloudfront.net^*/xuv300mob$image,domain=chauthiduniya.com
+||cms.thewire.in/static-assets/2-2.svg$image
+||cms.thewire.in/static-assets/3-2.svg$image
+||cms.thewire.in/static-assets/4-2.svg$image
 ||cnewsbangla.com/wp-content/uploads/2019/09/Gloria-arlour.jpg
 ||cnewslive.com/add/
 ||cnibd.net/wp-content/uploads/2018/12/brb-cables-300x200.jpg
