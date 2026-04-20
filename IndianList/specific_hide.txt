@@ -2085,6 +2085,7 @@ nepalwatch.com##.gam-each-caad:not(#gam-ad-13):not(#gam-ad-15)
 nepalpress.com##.gam-each-npad
 nepalviews.com##.gam-each-nvad
 dailynews24.in##.gb-container-553faf02
+theonlinepost.in##.gb-container-882ac1f9
 paharipatrika.in##.gb-container:has(> .gb-headline + video)
 topbihar.com##.gb-container:has(> [data-type="_mgwidget"])
 narmadanchal.com##.gb-container:has(> figure.size-full)
@@ -3823,7 +3824,7 @@ newshindustan.in##.wpb_wrapper.wpb_text_column
 karnaliheadlines.com##.wpb_wrapper:has(> .td_block_big_grid_3)
 abtnews.in,boolokam.com##.wpcnt
 dainik4media.com,thesurgicalnews.in##.wpcp-carousel-wrapper
-betulsamachar.com,bongnews24x7.com,dailynews24.in,khabardevbhoomi.com,naitaaqat.in,narmadanchal.com,newsuniversal.in,sitetelugu.com,topbihar.com##.wplite-banner-ads
+betulsamachar.com,bongnews24x7.com,dailynews24.in,khabardevbhoomi.com,naitaaqat.in,narmadanchal.com,newsuniversal.in,sitetelugu.com,theonlinepost.in,topbihar.com##.wplite-banner-ads
 modernnewsindia.com##.wpwbs_banners
 punjabistoryline.com##.wrapadd-300x250
 arthasansar.com##.wrapper.text-center img
@@ -4936,6 +4937,7 @@ theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contai
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div a p:-abp-contains(Ad:))
 theheadline24.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt.))
 thenewswords.in#?#:-abp-has(> h4:-abp-contains(Advertise))
+theonlinepost.in#?#.inside-right-sidebar > .gb-container:-abp-contains(Advertisement)
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad:) )
 thesigmanews.com#?#div.wrapper-sticky div:-abp-has(> div.section-heading > span:-abp-contains(Advertisement))
