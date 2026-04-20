@@ -3676,7 +3676,7 @@ teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
 dainiklokdarpan.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com,pnews.co.in##.wonderpluginslider
-asiantimes.in,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in,sonprabhat.live##.wonderpluginslider-container
+asiantimes.in,chhattisgarhvaibhav.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in,sonprabhat.live##.wonderpluginslider-container
 lotpot.com##.wow
 allnewsbharat.com##.wow.single_sidebar
 deshshamachar.com##.wp-ad-box
@@ -3920,6 +3920,7 @@ esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 oneindia.com##[id^="are-slot"]
+chhattisgarhvaibhav.com##[id^="chhat-"]
 currentnewsdainik.com##[id^="curre-"]
 channel24bd.tv##[id^="dynamic-ad"]
 haldwanisamachar.com##[id^="haldw-"]
