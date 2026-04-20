@@ -3888,7 +3888,7 @@ prabhatkhabar.com##[class*="min-h-[125px]"]
 ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
-afnainews.com,citypokhara.com,tajavarthalu.in##[class*="sgpb-"]
+afnainews.com,citypokhara.com,ebikalpadainik.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
 muldhar.com##[class*="twp-ad"]
@@ -3908,7 +3908,7 @@ banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com,koshiparionline.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
-attariyaonline.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
+attariyaonline.com,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
 ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
