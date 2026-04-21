@@ -17,7 +17,7 @@ jaldhakanews.com###HTML123
 nawadalive.com,thattungal.com###HTML13
 bhopalsamachar.com,india2daynews.com,insightchhattisgarh.in,livenewsexpress.in###HTML14
 balotranewstrack.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
-balotranewstrack.com,bhopalsamachar.com,dainikdesherkhobor.com,publicnewshindi.com,rajsamachar.com,thattungal.com###HTML16
+balotranewstrack.com,bhopalsamachar.com,dainikdesherkhobor.com,jansanvaadnews.in,publicnewshindi.com,rajsamachar.com,thattungal.com###HTML16
 abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
 obolokon24.com,openmalayalam.com,spyviewnews.in,tamilarul.net###HTML19
 banglarawaj.com,chilahatiweb.com,importmirror.com,kagojlive.blogspot.com,kushiyaranews.com,marudharabharti.com,publicnewshindi.com,sahibganjnews.com,samjhobharat.com,tistanews24.com,upayuktha.com,vidhikawaj.com###HTML2
@@ -1900,8 +1900,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3507,7 +3507,7 @@ mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
 bhilwarasamachar.in##.widget-slider-inner
 thedailybarta.com##.widget-wrapper.overflow-hidden
 neemkathananews.in##.widget.HTML:not(#HTML5)
-ajeybharat.com,azmlive.in,biharkhabars.com,emungaru.com,himachalmedia.co,importmirror.com,india2daynews.com,khulikhabar.com,maavarahinews.com,maipokharinews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
+ajeybharat.com,azmlive.in,biharkhabars.com,emungaru.com,himachalmedia.co,importmirror.com,india2daynews.com,jansanvaadnews.in,khulikhabar.com,maavarahinews.com,maipokharinews.com,newswitness.in,sanskarnews.page,satyawani.com##.widget.Image
 dokadamganvkior.com,sahibganjnews.com##.widget.Image:not(#Image1)
 vbnews24.com##.widget.Image:not(#Image150)
 worsonlinenews.com##.widget.Image:not(#Image4)
