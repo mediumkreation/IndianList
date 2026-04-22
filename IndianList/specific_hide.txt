@@ -216,7 +216,7 @@ thebharatheadlines.com###block-36
 dnspnews.in###block-37
 anwesantv.wordpress.com###block-38
 meerutdarpan.com###block-39
-bd24views.com,bdcrictime.com,bihardailynews.com,hadapsarexpress.com,hdhrm.com,janadeshexpress.in,newsganj.com,paridarshaka.com,pokharacity.com,sansanisurag.com,sgstvtelugu.com,sikkimtoday.com,thedastak24.com,veekshanam.com###block-4
+bd24views.com,bdcrictime.com,bhorvaibhav.com,bihardailynews.com,hadapsarexpress.com,hdhrm.com,janadeshexpress.in,newsganj.com,paridarshaka.com,pokharacity.com,sansanisurag.com,sgstvtelugu.com,sikkimtoday.com,thedastak24.com,veekshanam.com###block-4
 nepalchurch.com###block-4 > div[align]
 creativenewsexpress.com###block-42
 shubhapallaba.in###block-43
@@ -317,7 +317,7 @@ muznews.online,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,tejalgyannews.com,ujiarpurnews.com###custom_html-19
 amritvarshanews.in,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,comillait.com,crimekhabar.live,crimeuttarakhand.in,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janamanas.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,mediasaheb.com,minoritiesnews.com,muthalvannews.com,navyugsandesh.com,newschutney.com,oktelugu.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,saurashtratimes.in,sbdnews24.com,tamilvoicenews.com,todayindia.com,vedsansar.com,webakhbar.in###custom_html-2
-ujiarpurnews.com###custom_html-20
+bhorvaibhav.com,ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 dainikbhaskarup.com###custom_html-24
@@ -1901,8 +1901,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
