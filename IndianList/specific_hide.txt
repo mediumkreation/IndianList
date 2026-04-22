@@ -1216,7 +1216,7 @@ truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
 uttaranchaldarpan.in##.adloc-is-banner
 thedailycampus.com##.admanager_home
 roorkeehub.com,samacharagency.com##.adore-adver
-dadailypunjabnews.com,jantantraa.com##.adore-adver-part
+dadailypunjabnews.com,jantantraa.com,pingara.com##.adore-adver-part
 anandabazar.com##.adouterbox
 alivenews.co.in,suddikanaja.com##.adredux
 aayokhabar.com,akhabardainik.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,biznessnews.com,businesspati.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dabalikhabar.com,dailylokaloy.com,dailymatobad.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,dtvbangla.com,emalayalee.com,expresspana.com,gandakilive.com,globaltvbd.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,kollywoodkhabar.com,kushtiatime24.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,lumbinipatrika.com,mayurpati.com,mediadabali.com,megakhabar.com,missionlumbini.com,motivatenews.com,nagariknews.nagariknetwork.com,nagarikonline.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalinetwork.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,ntvtelugu.com,onlinedainik.com,onlinepatrika.com,palikanews.com,paristamil.com,pariwartankhabar.com,peoplessamachar.in,pipalonline.com,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,surmanews.com,tamilan24.com,topnews24x7.com,tvaritkhabren.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
@@ -3929,6 +3929,7 @@ haribhoomi.com##[id^="inside_post_content_ad_"]
 gtamilnews.com,tamilscreen.com##[id^="itro_"]
 kasaragodchannel.com##[id^="kasar-"]
 khabarbhojpuri.com##[id^="kbbchbh-"]
+pingara.com##[id^="national_news_advertisement_posts_widget"]
 newsuperbharat.com##[id^="newsu-"]
 pokharaviews.com##[id^="pokha-"]
 prabhatvarta.in##[id^="prabh-"]
@@ -4857,7 +4858,6 @@ patnanow.com##p:has(> ins.adsbygoogle)
 doonited.in##p:has(ins.adsbygoogle)
 gyankidukan.com##p[style="font-size:10px"]
 avnews.in##p[style="text-align: center;"]
-pingara.com#?#.block-title-4:-abp-has(> h4 > span:-abp-contains(Advertisements))
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 pocketkhabar.com#?#.gb-container:-abp-properties(min-height)
