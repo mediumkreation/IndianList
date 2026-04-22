@@ -1639,7 +1639,6 @@ marketingnewstadaka.com##.code-block-label
 trishulnews.com##.code-block:has(> [data-type="_mgwidget"])
 emandirates.com##.code-block:has(ins.adsbygoogle)
 newsbindass.com##.code-block:not(.code-block-1)
-navarashtra.com##.code-block:not(.code-block-10)
 publictv.in##.code-block:not(.code-block-14)
 kannadi.news##.code-block:not(.code-block-15)
 kannadasiri.in##.code-block:not(.code-block-15,.code-block-14)
@@ -3873,6 +3872,7 @@ nagarikpana.com,publicsandesh.com,sagarmathakhabar.com,vanipress.com,yuwadaily.c
 ekhabarnet.com##[class*="__ads"] img
 morbiupdate.com,narayanganjerkhabar.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
+navarashtra.com##[class*="ad-banner-acs"]
 thejbt.com##[class*="adHide"]
 haribhoomi.com##[class*="ad_"]
 golkhabar.com,news1bharat.com##[class*="add-"]
