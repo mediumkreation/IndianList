@@ -1181,6 +1181,7 @@ gtamilnews.com##.add_block_hdefault
 news18.com,news18marathi.com##.add_container
 malayalam.news18.com,news18marathi.com,odia.news18.com,telugu.news18.com##.add_container-pht
 ridoyachandpur.com##.add_content
+banglakhabarpratidin.com##.add_img
 europemalayali.co.uk##.add_inner_news
 bslnews24.com##.add_pad_bot_single
 bslnews24.com##.add_pad_bottom
@@ -3025,7 +3026,7 @@ flowersoriginals.com,ntvbd.com,twentyfournews.com##.space-ad
 alorkantho24.news##.spad
 pavilion.com.bd##.spad-section img
 ekuruvi.com##.span-2 a:only-child
-chattogramerpatrika.com##.spbs-width-ad
+banglakhabarpratidin.com,chattogramerpatrika.com##.spbs-width-ad
 dnewsnetwork.in##.spcp-sidebar
 lastnewsbd.com##.splide.sidebarSlider:not(#splide17)
 kaumudiplus.com##.spnsrd-ad
@@ -4392,7 +4393,7 @@ dailyalokitovor.com,sangbadpratidin.in##div[class^="ad_"]
 britishpathram.com##div[class^="ad_mid"]
 azhimukham.com##div[class^="adcntnr"]
 khabarodisha.com##div[class^="add-"]
-sananda.in##div[class^="add-right"]
+sananda.in##div[class^="add-right"]sangbadpratidin.in
 bn.bd24report.com,rajshahinews24.com##div[class^="add-section"]
 dailyjonomot.com,theholytimes.com##div[class^="add_"]
 sunaulonepal.com##div[class^="ads"]
