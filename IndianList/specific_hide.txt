@@ -1370,7 +1370,6 @@ pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
 malabarnews.com##.alertAdd
 shadin-bd.com##.align-items-center[style*="height: 250px"]
-news11bharat.com##.align_cent
 hulchalnews24.com##.alignnone.size-medium
 pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
@@ -1900,8 +1899,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2169,6 +2168,7 @@ banglatribune.com,deshrupantor.com,lakshmipur24.com##.header_ad_block
 seithy.com##.header_adbar
 updatenews360.com##.header_ads_slide
 banglapost.co.uk##.header_adv
+news11bharat.com##.header_advt_img_div
 dishadaily.com##.header_banner
 natunjug.com##.header_biggapon
 univarta.com##.header_bottom_ad
