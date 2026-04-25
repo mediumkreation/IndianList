@@ -1630,6 +1630,7 @@ kahalenews.com,thebiharnews.com##.code-block-3
 biratnews24live.com,ideaciti.com,newsvibe.in,thepoliticsagain.com##.code-block-4
 deshdoot.com,mangalwedhatimes.in,swadeshbangla24.com##.code-block-5
 bihartoday.net,lankasudar.com,thebiharnews.com##.code-block-6
+upabtak.com##.code-block-7
 jjpnews.com,tamizhdb.com##.code-block-8
 chanakyanewz.com##.code-block-center
 orthosongbad.com##.code-block-center img
@@ -1899,8 +1900,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
