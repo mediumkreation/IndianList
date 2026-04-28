@@ -490,7 +490,7 @@ loksaakshya.com,voiceofbihar.in###media_image-41
 nationaltodaylive.com###media_image-42
 loksaakshya.com###media_image-43
 voiceofdarbhanga.com###media_image-47
-dailysomoyersomikoron.com,dainikkhojkhabar.live,haqeeqattoday.com,himalipatrika.com.np,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mediahousepress.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com###media_image-5
+dailysomoyersomikoron.com,dainikkhojkhabar.live,haqeeqattoday.com,himalipatrika.com.np,indianvoice24.com,janshaktikranti.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newzzar.com,odishatime.com,ritambangla.com,sandhannews.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 madhyabhoomikeboal.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
@@ -3620,6 +3620,7 @@ dainiklumbini.com,khabarwala.news##.widget_media_image:not(#media_image-5)
 uttarakhandfirst.com##.widget_media_image:not(#media_image-5):not(#media_image-3)
 raigarhtopnews.com##.widget_media_image:not(#media_image-53)
 uttaravani.com##.widget_media_image:not(#media_image-7)
+mediahousepress.com##.widget_media_image:not(#media_image-7):not(#media_image-6)
 yugjagran.com##.widget_media_image:not(#media_image-7):not(#media_image-8)
 himwantpradeshnews.com,samacharagency.com,ujjawalprabhat.com##.widget_media_image:not(#media_image-8)
 channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
