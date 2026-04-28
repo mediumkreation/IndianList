@@ -3268,7 +3268,7 @@ aayomail.com##.text-center:has(> a >img[src*="/ads/"])
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
 alertnews24.com,bbn24news.com##.text-html
 maloutlive.flykingimmigration.com##.text-html ~ .stream-item-widget
-indianletter.com,livehalchal.com##.text-html-box
+indianletter.com,jubileepost.in,livehalchal.com##.text-html-box
 khabardekho.com##.text-html-box figure
 gulte.com##.text-html-box.h250
 pardaphas.com##.text-muted.fs-1-4
@@ -4887,7 +4887,6 @@ satyavoice.com#?#div[id^="AS_O_"] > div:-abp-has(> div > a>div > h5:-abp-contain
 scgnews.in#?#.widget-header:has(> h4:-abp-contains(Advertise))
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
-jubileepost.in##section ~ .e3lan
 thefollowup.in##section.bg-light
 tamiltradepost.com##section.slider-sec
 ainakhabar.com,amsanchar.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mayadevionline.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
