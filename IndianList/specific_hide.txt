@@ -1516,7 +1516,6 @@ farakdhar.com##.bigyapan__wrapper
 biharaaptak.com##.bihar-after-content
 biharaaptak.com##.bihar-widget
 biharnewslive.com##.biharnlive-adlabel
-bikaner24x7news.com##.bikan-before-content
 pahilopost.com##.biz-ad-block
 blastkhabar.com##.bk-header-ad
 keelainews.com##.block-15
@@ -1900,8 +1899,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3927,6 +3926,7 @@ esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 oneindia.com##[id^="are-slot"]
+bikaner24x7news.com##[id^="bikan-"]
 chhattisgarhvaibhav.com##[id^="chhat-"]
 currentnewsdainik.com##[id^="curre-"]
 channel24bd.tv##[id^="dynamic-ad"]
