@@ -1899,8 +1899,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3445,7 +3445,6 @@ coastal-mirror.com,encounterindia.in,justkannada.in##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 sharpbharat.com##.vc_raw_html:not(.tdi_87)
 sankalpsavera.com##.vc_row.vc_row-has-fill
-khaboriya24.com##.vc_row:has(> .vc_column > .wpb_wrapper > .td-a-rec:only-child)
 ibclive.in##.vc_sidebar .widget_custom_html
 amaderkhulna.net,netmalayalam.com##.vc_slide
 bhilaitimes.com##.vc_widget_sidebar
@@ -4816,6 +4815,7 @@ kanvkanv.com#?#.sidebar-block-wrapper:has(a:-abp-contains(Advertisement))
 khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 khabardev.com#?#.list-category-posts-half:-abp-has(> .widget-title:-abp-contains(AD))
 khabarhikhabar.com#?#div:-abp-has(> div[style*="absolute;"]:-abp-contains(Advertisement Box))
+khaboriya24.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 kirandoot.com#?#.sidebar-widget:-abp-has(> div > h4:-abp-contains(adv))
 tamil.goodreturns.in##li:has(> div[id^="taboola-mid"])
 telugu.news18.com##li[style]:has(> div > .myad)
