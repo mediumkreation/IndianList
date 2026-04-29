@@ -877,7 +877,6 @@ news4live.com###ui-id-2
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
 grehlakshmi.com###v-grehlakshmi-0
-uptak.in###v-uptak-in-0
 primestv.in###vda-4
 marunadanmalayalee.com###vdo_ai_div-0
 ghaziabadparikrama.com###video-widget-2
@@ -1998,7 +1997,7 @@ khabarexpert.in##.ewic-slider
 womeneye24.com##.exclusiveSec + .row
 enlightnews.com##.extra_ad
 madhyamam.com##.extra_bottom_sections
-crimetak.in,uptak.in##.eyeo
+crimetak.in##.eyeo
 bangladesherpatro.com##.eyzwnqv-type-custom_code
 dakhal.net,kolarnews.net##.fadInleft_ads
 marathi.indiatimes.com##.fakelisting
@@ -3263,6 +3262,7 @@ headlinestripura.in,tedmnews.com##.technology-section-ads
 aashanews.com##.text-4
 news71online.com##.text-center .size-full
 sajhasabal.com##.text-center iframe
+uptak.in##.text-center.bg-gray-100
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
 argusnews.in##.text-center.my-2
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
