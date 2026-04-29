@@ -3804,7 +3804,7 @@ bhaskarnewsagency.com##.wpb_raw_html img
 garavigujarat.biz##.wpb_raw_html:has(.adsbymahimeta)
 timestodays.com##.wpb_revslider_element
 aadarshhimachal.com##.wpb_row.vc_inner
-abcb.news,adhorekhit.com,alamkikhabar.in,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chatgarsangbad.net,chattogramsangbad.com,ctgsangbad.com.bd,currentcrime.com,dailygazipuronline.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,doinikbarta.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,jharkhandlatestnews.com,kalakkalcinema.com,krushival.in,madhyapradeshdarshan.com,manchitra24.com,meherpurnews.com,multinews24.com,munshiganjnews.com,nayapusta.com,newsbreathe.com,newsmantra.in,newspost.live,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sabrangsamachar.com,sajhaonlinekhabar.com,sambahak.com,smsofup.com,tamilscreen.com,todaynp.com,udaipurnews.in,uthayannews.ca,vidivelli.lk,voiceofpanipat.com,wishavwarta.in##.wpb_single_image
+abcb.news,adhorekhit.com,alamkikhabar.in,amadersundarban24.com,bd24views.com,bdnews.live,bdsomoyernews.com,bnanews24.com,chatgarsangbad.net,chattogramsangbad.com,ctgsangbad.com.bd,currentcrime.com,dailygazipuronline.com,dailysatkhira.com,dainikazadi.net,deshbartabd.com,doinikbarta.com,epatrakar.com,farmsandfarmer24.com,filmnews24x7.com,gtamilnews.com,hind24news.com,htvpunjabi.com,jharkhandlatestnews.com,kalakkalcinema.com,krushival.in,madhyapradeshdarshan.com,manchitra24.com,meherpurnews.com,multinews24.com,munshiganjnews.com,nayapusta.com,newsbreathe.com,newsmantra.in,newspost.live,paathoknews.com,politalks.news,propunjabtv.com,pujibazarexpress.com,sabrangsamachar.com,sajhaonlinekhabar.com,sambahak.com,smsofup.com,tamilscreen.com,todaynp.com,udaipurnews.in,uthayannews.ca,vidivelli.lk,voiceofpanipat.com,wishavwarta.in##.wpb_single_image
 mpnewscast.com##.wpb_single_image .attachment-full
 mpnewscast.com##.wpb_single_image .wpb_heading
 everestdainik.com,kuksamachar.co.nz##.wpb_single_image figure
@@ -3914,7 +3914,7 @@ banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com,koshiparionline.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
-attariyaonline.com,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
+amadersundarban24.com,attariyaonline.com,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
 ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
