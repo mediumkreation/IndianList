@@ -1846,7 +1846,7 @@ lakhokantho.com##.elementor-heading-title.elementor-size-small
 biharnewsindia.com,himalipatrika.com.np,theeditor24.com##.elementor-image
 tatviknews.com##.elementor-image img:not([src*="Tatviknews-white"])
 youthsofbirgunj.com##.elementor-image-box-wrapper
-delhicrimepress.com,etamilnews.com,ksdlivenews.com,tarunbharat.com##.elementor-image-carousel-wrapper
+delhicrimepress.com,etamilnews.com,ksdlivenews.com,shivshahilive.com,tarunbharat.com##.elementor-image-carousel-wrapper
 rajdhanidaily.com##.elementor-image:has(.no-lightbox)
 namastenri.net##.elementor-location-single .size-large
 news24bd.net##.elementor-popup-modal
@@ -1900,8 +1900,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3940,6 +3940,7 @@ newsuperbharat.com##[id^="newsu-"]
 pokharaviews.com##[id^="pokha-"]
 prabhatvarta.in##[id^="prabh-"]
 shankhnaad.live##[id^="shank-"]
+shivshahilive.com##[id^="shivs-"]
 sudurkhabar.com##[id^="sudur-"]
 sansanilive.com##[id^="th-sb-ad-block-"]:not(#th-sb-ad-block-1-8252)
 thekhabartimes.com##[id^="thekh-"]
@@ -4784,8 +4785,6 @@ battinaatham.net##img[src*="-Ad" i]
 battinaatham.net##img[src*="Advert" i]
 nayasadak.com##img[src*="Bigyapan"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
-shivshahilive.com##img[src*="WhatsApp-Image-2021-08-16-at-3.07.30-PM"]
-shivshahilive.com##img[src*="WhatsApp-Image-2021-08-19-at-2.46.04-PM"]
 voiceasian.news##img[src*="ad_files"]
 hindustannewsexpress.com##img[src*="booking/"]
 reportsindia.in##img[src*="gftr"]
