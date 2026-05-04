@@ -2062,7 +2062,7 @@ rastriyakhabar.com##.full-ads-wrapper
 bidurkhabar.com,samadhannews.com##.full-bann
 safalkhabar.com##.full-banner
 nepalsamaya.com,prabhabonline.com##.full-bigyaapan
-baahrakhari.com,capitalnepal.com,khelpati.com,nepallive.com##.full-bigyapan
+baahrakhari.com,capitalnepal.com,nepallive.com##.full-bigyapan
 sylhetnewsbd.com##.full-site > .container .widget_media_image
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
@@ -3269,6 +3269,7 @@ crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
 argusnews.in##.text-center.my-2
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
+khelpati.com##.text-gray-400
 alertnews24.com,bbn24news.com##.text-html
 maloutlive.flykingimmigration.com##.text-html ~ .stream-item-widget
 indianletter.com,jubileepost.in,livehalchal.com##.text-html-box
@@ -4280,7 +4281,6 @@ lokaantar.com##div[class$="_ad"]
 ejanakpurtoday.com,indianexpress.com##div[class$="_ads"]
 metrovaartha.com##div[class*=" ad-slot-"]
 unitednripost.com##div[class*=" ads_"]
-khelpati.com##div[class*=" h-[20px]"]:has(> a)
 janpadmirror.com##div[class*="#f5f5f5"]
 dishadaily.com,prameyanews7.com##div[class*="-ad-"]
 hindutamil.in##div[class*="-ad-slot"]
