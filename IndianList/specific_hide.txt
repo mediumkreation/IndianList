@@ -1903,8 +1903,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -4856,6 +4856,7 @@ news11.live#?#.align_cent:-abp-contains(Advertise)
 news24bite.com#?#figure:-abp-has(> figcaption:-abp-contains(Advertisement))
 news38times.com#?#div[id^="AS_O_LHS_"] > div:has(> div > a >p:-abp-contains(Ad |))
 newsmoments.in#?#div[id^="AS_O_LHS_"] > div:-abp-has(> div > div > a > div > p:-abp-contains(Ad |))
+newsprabah.com#?#div:has(> p:-abp-contains(ADVERTISEMENT))
 newstm.in#?#div[id^="AS_O_"] div:-abp-has(> div > a> div h5:-abp-contains(Ad |) )
 newstodaynetwork.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > div > a > h4:-abp-contains(Ad: ))
 newsuniversal.in#?#.inside-right-sidebar > div > .gb-container:-abp-contains(Advertisement)
