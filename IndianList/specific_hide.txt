@@ -3912,7 +3912,7 @@ aajkaal.in##[class^="ad__"]
 beanibazarnews24.com##[class^="add-"]
 lightnewsbd.com##[class^="ads_"]
 sirfsach.in##[class^="adsbox"]
-myagdikali.com##[class^="gb-element-"]:has(+ .dynamic-entry-content)
+myagdikali.com,pothunalam.com##[class^="gb-element-"]:has(+ .dynamic-entry-content)
 banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com,koshiparionline.com##[class^="sgpb-"]
@@ -4870,6 +4870,7 @@ avnews.in##p[style="text-align: center;"]
 pksnews24.com#?#div.primary-sidebar-widget:-abp-has(> div > span:-abp-contains(Advertisement))
 pksnews24.com#?#div[data-adid]:-abp-has(> p:-abp-contains(Advertisement))
 pocketkhabar.com#?#.gb-container:-abp-properties(min-height)
+pothunalam.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 prabhatvaibhav.com#?#.sidebar-block-wrapper:has(.education-head:-abp-contains(Advertisement))
 prajasatta.in#?#.gb-container:has(> ins.adsbygoogle)
 primeheadline.com#?#.gb-container:-abp-properties(min-height)
