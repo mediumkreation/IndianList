@@ -1410,7 +1410,7 @@ newshubinsight.in##.avt_masterslider_el
 kabirkiawaz.in##.avv_custom
 ittefaq.com.bd##.aw320
 dnewsnetwork.in##.awac img.image
-dhankutakhabar.com,digitalkhabar.com##.awac-wrapper
+digitalkhabar.com##.awac-wrapper
 newstaglive.com##.axil-banner
 newstaglive.com##.axile-ads-wrapper
 news14india.com,sudurpashimkhabar.com##.ays-pb-modals
@@ -3929,6 +3929,7 @@ esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 oneindia.com##[id^="are-slot"]
+dhankutakhabar.com##[id^="banner_"]
 bikaner24x7news.com##[id^="bikan-"]
 chhattisgarhvaibhav.com##[id^="chhat-"]
 currentnewsdainik.com##[id^="curre-"]
