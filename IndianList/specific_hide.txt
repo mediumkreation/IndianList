@@ -1813,6 +1813,7 @@ jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
 aeiodisha.com##.dt_navbar-banner-item
 nepal1khabar.com##.dt_navbar-right img
 gramnagarbarta.com##.dtl_section figure.image
+dailytamilnadu.com##.dtn-skyscraper
 doshdik.com##.duble_advertisement
 a2zsamachar.com##.e-con-full.jedv-enabled--yes
 sivantv.com##.e-con-full:has(> .e-widget-swiper) + .e-con-full
@@ -3864,7 +3865,7 @@ yoyocial.news##[class*="  ad-"]
 thedailybijoynews.com##[class*=" bn-"]
 dhakamail.com##[class*=" h-[120px]"]
 dhakamail.com##[class*=" h-[250px]"]
-vikatan.com##[class*="-ad-"]
+dailytamilnadu.com,vikatan.com##[class*="-ad-"]
 prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
 ournews24.com##[class*="-add"]
