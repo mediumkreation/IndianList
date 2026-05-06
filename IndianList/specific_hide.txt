@@ -412,6 +412,7 @@ indiadhuandhar.in###india-slider-227
 pratahkal.com###inside_post_content_ad_1
 tamilcinemaz.com###itro_opaco
 filmnews24x7.com,kollywoodvoice.com,moviewingz.com,tamilcinemaz.com###itro_popup
+thedailycampus.com###iubat_sticky_ad_wrapper
 karainagar.com###ivrss_holder1
 fastnewsindia.co###jssor_1
 globenepal.com###khb-button-ades
@@ -566,7 +567,6 @@ taftishofcrime.com###newsphere_posts_slider-7
 amethilive.com###newsx_heading-7
 aarthikbazarnews.com###no-premodal-wrap
 ghaziabad365.com###npkit-recent-posts-5
-thedailycampus.com###nsu_sticky_ad_wrapper
 onlinekhabar.com###ok18-roadblock-wrap
 outlookhindi.com###olh-rhs1
 tamilmirror.lk###openModal0
@@ -1215,7 +1215,6 @@ bdnewsclub.com,nitharsanam.net##.adflexbox
 watchgujarat.com##.adimg
 truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
 uttaranchaldarpan.in##.adloc-is-banner
-thedailycampus.com##.admanager_home
 roorkeehub.com,samacharagency.com##.adore-adver
 dadailypunjabnews.com,jantantraa.com,pingara.com##.adore-adver-part
 anandabazar.com##.adouterbox
