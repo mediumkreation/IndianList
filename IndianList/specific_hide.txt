@@ -4192,6 +4192,7 @@ helloswasthya.com##css-17600um
 dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 dainikhawk.com#?#[class*="bg-gray"]:has(> p:-abp-contains(Advertisement))
 dainikhindmitra.com#?#.widget_text:has(strong:-abp-contains(Advt.))
+dainikstatesmannews.com#?#p:-abp-contains(Advertisement)
 dakshinapath.com#?#.sidebar-widget:-abp-has(> .widget-head > .title:-abp-contains(ADV))
 damrua.com#?#.elementor-widget-button:has(.elementor-button-text:-abp-contains(Advertisements))
 deshkikhabar.in#?#span:-abp-contains(Advertisement)
