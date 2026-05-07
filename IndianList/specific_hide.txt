@@ -2106,6 +2106,7 @@ odishafast.co##.gmx-image
 samayahub.com##.go__ji_wrapper
 iconkhabar.com,ourbiratnagar.net##.gofollow
 gorkhapatrika.com##.goji-advertisement
+kharitatsandesh.com##.google-add
 natunsomoy.net##.google-ads-banner
 onlinepatrakar.com##.googleAdBlock
 timenews.co.in##.google_ads_section
@@ -3396,7 +3397,7 @@ mediavision.news##.topaddsctn
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com##.topadmid
 fonijkorea.net,nationaldetectivenews.com,ournewsbd.net##.topadrt
-banglavashi.com,dhangadhikhabar.com,kharitatsandesh.com,zeenews.india.com##.topbanner
+banglavashi.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 sandeshnow.com##.tophightlight_ad
