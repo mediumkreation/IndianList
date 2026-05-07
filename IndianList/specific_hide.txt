@@ -2986,7 +2986,7 @@ ukhiyanews.com##.site-header ~ .bg
 entertainmentkhabar.com,inaruwaonline.com,janatakoaawaj.com,nagarikbahas.com,panchakoshitimes.com,samabesi.com,samabesionline.com,sangalokhabar.com##.site-header-ads
 cibindianews.com,sanjevani.com##.site-header-banner
 themadheshnews.com##.site-header-section-right .size-full
-panchayattimes.com##.site-wrap .elementor-widget-image
+panchayattimes.com,primetvindia.com##.site-wrap .elementor-widget-image
 nepalmamila.com##.siteContent > p a img
 rajshahinews24.com##.siteber-add
 dainiknarsingdi.com,savarsangbad.com##.siteber-add-section
@@ -4014,7 +4014,6 @@ canchannels.com##a[href*="chungathjewellery.com"] img
 tamildaily.com##a[href*="cinefield.com"]
 janmadhyam.com##a[href*="click-add/"]
 dailyharyananews.com,kathir.news,manoranjannama.com,newsmoments.in,samacharnama.com##a[href*="click.htm?"][target="_blank"]
-primetvindia.com##a[href*="cucet.cuchd.in"]
 agaminews.com,ambalanews24.com##a[href*="daraz.com.bd"]
 deshdorpon.com##a[href*="daraz.com.bd/sepnil/"]
 loksangbad.com##a[href*="deshihost.com"]
