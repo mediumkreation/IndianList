@@ -398,7 +398,7 @@ newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com,uttarakhandhindinews.in###home-ads
-dailyusharbani.com,kalerkotha.com,rangpur24.com###home-online-poll
+dailyusharbani.com,kalerkotha.com,rangpur24.com,sokalershironam.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
@@ -2526,7 +2526,7 @@ cgwebnews.in##.mt-2 a[target*="_blank"] img
 onlinepatrika.com##.mt-2 img
 azhimukham.com,damaulionline.com##.mt-3
 dailyprovatbela.com##.mt-3 .wp-block-image
-dailyusharbani.com##.mt-3 > img
+dailyusharbani.com,sokalershironam.com##.mt-3 > img
 npbnews.com##.mt-3 img.w-100
 yugantarkhabar.com##.mt15 > a img
 sandhannews.com##.mtphr-dnt-widget
