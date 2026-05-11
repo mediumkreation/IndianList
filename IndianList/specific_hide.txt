@@ -1892,7 +1892,6 @@ benkiyabale.com##.elementor-widget-image img:not([src*="bbtv-logo"])
 newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 youthsofbirgunj.com##.elementor-widget-image img:not([src*="logo.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
-gourbangla.com##.elementor-widget-image img:not([src*="play-store.png"])
 computerbichitra.com##.elementor-widget-image-box
 chhapratoday.com,muznews.online,samvad24.com,themukhbir.com##.elementor-widget-image-carousel
 hamarahathras.com##.elementor-widget-image-carousel.e-widget-swiper
@@ -4755,6 +4754,7 @@ shariatpurnews24.com##img[alt="-Advertisement-"]
 onlinemarg.com##img[alt="1205X128"]
 dangkhabar.blogspot.com##img[alt="Abroad Study"]
 emungaru.com##img[alt="Ad Banner"]
+gourbangla.com##img[alt="Ad Space"]
 bhadainimirror.com,newswayanad.in##img[alt="Ad"]
 dcnewsbd.com,dhakanewsexpress.com##img[alt="Advertisement"]
 livenewage.com##img[alt="Alt Image"]
