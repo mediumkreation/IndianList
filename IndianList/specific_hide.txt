@@ -1904,8 +1904,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3692,7 +3692,7 @@ deshshamachar.com##.wp-ad-box
 uptaazanews.com##.wp-block-code
 nationalfrontier.in,rainbownews.co.in,sansanisurag.com,twnews.in##.wp-block-embed
 24hrnews.in##.wp-block-embed-youtube
-badimalikakhabar.com,chatgarsangbad.net,lalitpurkhabar.com,newzzdeskkannada.com,panchakoshitimes.com,sabaikosamachar.com##.wp-block-gallery
+badimalikakhabar.com,chatgarsangbad.net,goakhabar.com,lalitpurkhabar.com,newzzdeskkannada.com,panchakoshitimes.com,sabaikosamachar.com##.wp-block-gallery
 ghaziabad365.com,royalnews13.in##.wp-block-group
 justmuz.com##.wp-block-group:has(> p.has-text-align-center:first-child)
 arlivenews.com,banglanewsdunia.com,dainikdishari.com,dthreeonline.com,ekushejournal.com,epaperindia.in,lokhitexpress.com,ramailochha.com,royalnews13.in,samastipurtoday.in,taza-khabar.com##.wp-block-image
