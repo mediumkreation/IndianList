@@ -1095,7 +1095,7 @@ kositimes.com##.adblock
 dainikvishwamitra.com##.adbnr
 anandabazar.com,banglaxp.com,beanibazarnews24.com,bhartiyabasti.com,lohagaranews24.com,radiokanchan.com.np,thebharatnews.net##.adbox
 arthikawaj.com,pchelplinebd.com,pharmabangla.com,rajnitiprotidin.com##.adcontainer
-ajkercrimenews.com,ajkerdarpon.com,ajkernarsingdi.com,ajkertanore.com,alokitobarisal.com,alokitocoxsbazar.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,bdfinancialnews24.com,bdlawnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,chatgaiyakhobor.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainikeidin.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikshokalerchattogram.com,dainikvatibangla.com,diptonews24.com,doctortv.net,doiniksabujbiplob.com,eibela.net,engrsvoice.com,gorkhapatraonline.com,gsnnews24.com,gtbnews24.com,hamroeconomy.com,haoranchalerkotha.com,healthpati.com,healthtvonline.com,highspeednepal.com,himalayannews.com,inhnews.in,jagodesh24.com,jamunanewsbd.com,janamsakshi.org,jatioarthonitee.com,kathmandupati.com,khabarpunja.com,khoborbari24.com,khoborpatrabd.com,lalsobujerkontho.com,meghnapost.com,nagoriknewsbd.com,narsingdipratidin.com,natunbazar24.com,natunshokal.com,news18.com,news4nation.com,newsatfirst.com,newsdnntv.com,nktelevision.com,npkhabar24.com,odekhabishwo.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pokharaexpress.com,pollysangbad.com,positivenewsbd.com,prabhatkiran.net,priyobanglanews24.com,rangpursangbad.com,rangpursangbad.net,rbcnewsbd.com,sarakkhonnews.com,satkhiraprobaho.net,satkhiratoday.com,savarsangbad.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,shodeshbidesh.com,somoyerkantha.com,somoyersangbad.com,somoyexpress.news,starbanglatv.net,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,technologykhabar.com,teknafnews24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com,voiceworld24.com##.add
+ajkercrimenews.com,ajkerdarpon.com,ajkernarsingdi.com,ajkertanore.com,alokitobarisal.com,alokitocoxsbazar.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,bdfinancialnews24.com,bdlawnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,chatgaiyakhobor.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainikeidin.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikshokalerchattogram.com,dainikvatibangla.com,diptonews24.com,doctortv.net,doiniksabujbiplob.com,eibela.net,engrsvoice.com,gorkhapatraonline.com,gsnnews24.com,gtbnews24.com,hamroeconomy.com,haoranchalerkotha.com,healthpati.com,healthtvonline.com,highspeednepal.com,himalayannews.com,inhnews.in,jagodesh24.com,jamunanewsbd.com,janamsakshi.org,jatioarthonitee.com,kathmandupati.com,khabarpunja.com,khoborbari24.com,khoborpatrabd.com,lalsobujerkontho.com,meghnapost.com,nagoriknewsbd.com,narsingdipratidin.com,natunbazar24.com,natunshokal.com,news18.com,news4nation.com,newsatfirst.com,newsdnntv.com,nktelevision.com,npkhabar24.com,odekhabishwo.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pokharaexpress.com,pollysangbad.com,positivenewsbd.com,prabhatkiran.net,priyobanglanews24.com,rangpursangbad.com,rangpursangbad.net,rbcnewsbd.com,sarakkhonnews.com,satkhiraprobaho.net,satkhiratoday.com,savarsangbad.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,shodeshbidesh.com,somoyerkantha.com,somoyexpress.news,starbanglatv.net,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,technologykhabar.com,teknafnews24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com,voiceworld24.com##.add
 talash24.com##.add .textwidget
 vinnabarta.com##.add .textwidget p:has(> ins.adsbygoogle)
 bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
@@ -1144,7 +1144,7 @@ u71news.com##.add-right
 evartha.in,garshomonline.com##.add-row
 dainiktribuneonline.com,netizennepal.com,thebengalitimes.com##.add-sec
 nepalpostdainik.com##.add-sect
-bdsomachar24.com,chandraganjprotidin.com,dinajpur24.com,dristyprotidin.com,malayalam.indiatoday.in,malisamajsocial.com,probashbarta.com,thebengalitimes.com,virakesari.lk##.add-section
+bdsomachar24.com,chandraganjprotidin.com,dinajpur24.com,dristyprotidin.com,malayalam.indiatoday.in,malisamajsocial.com,probashbarta.com,somoyersangbad.com,thebengalitimes.com,virakesari.lk##.add-section
 moulvibazar24.com,newsdnntv.com##.add-section img
 shahoshikantho.com##.add-section img:not([src*="hotline-1024x160.jpg"])
 nandighoshatv.com##.add-section-home.right
@@ -1441,7 +1441,7 @@ nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
 khabarhub.com##.banner-widget
 bhnnews.com##.banner-wrap img
-banglarchithi.com,bdsomachar24.com,businesshour24.com,dakshinermashal.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,rangpur24.com,somoyerkontha.com##.banner2
+banglarchithi.com,bdsomachar24.com,businesshour24.com,dakshinermashal.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,rangpur24.com,somoyerkontha.com,somoyersangbad.com##.banner2
 dhaka18.com##.banner21
 manoramaonline.com##.bannerImage
 raftaarindianews.com##.bannerListWidget
@@ -2219,7 +2219,7 @@ muhurtham.com##.home-small-ad
 amarbarta.com.bd##.homeTop .w-100
 news71online.com,shamolynews24.com##.home_last_ad
 bhilwarahalchal.com##.home_level_3_after
-barishalnews24.com,bdsylhetnews.net,bornamelanews24.com,cbkhabor.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,durnitibarta.com,gouripurnews.com,itihas24.com,poribortonkantho.com,saplatv.com,shadin-bd.com,shamolbangla24.com,sheershasangbad.com,somoyersangbad.com,theeditors.net,thenewse.com,tnewsbd.net##.home_page_ad
+barishalnews24.com,bdsylhetnews.net,bornamelanews24.com,cbkhabor.com,chandpur24.net,coxsbazaralo.com,crimenewstv24.com,durnitibarta.com,gouripurnews.com,itihas24.com,poribortonkantho.com,saplatv.com,shadin-bd.com,shamolbangla24.com,sheershasangbad.com,theeditors.net,thenewse.com,tnewsbd.net##.home_page_ad
 bangladesherkhela.com,silkcitynews.com##.home_page_ad img
 dainikbangla.com.bd,newsbangla24.com##.home_popup
 tv5news.in##.home_right_1_1
@@ -2944,7 +2944,7 @@ odekhabishwo.com,paribahanjagot.com##.single-dtls img
 etvuttarakhand.com##.single-entry > div[style^="float"]
 thenewswords.com##.single-image .carousel
 beanibazarnews24.com##.single-news-widget > img.size-full
-probashbarta.com,sylhetprothidin24.com##.single-page-add2
+probashbarta.com,somoyersangbad.com,sylhetprothidin24.com##.single-page-add2
 bn.bd24report.com,notunerkotha.com##.single-page2-topAdd
 hamrodes.com##.single-post figure.wp-block-image
 epratibimba.com,nepalmamila.com,satyadeepsandesh.com,shubhakhabar.com##.single-post-advertisement
