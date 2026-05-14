@@ -4087,6 +4087,7 @@ tnstudy.in##a[href*="surabooks.com"]
 eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
 irinjalakudalive.com,ourmyliddy.com##a[href*="tel:"]
+dailydeshbarta.com##a[href*="themeforest.net"] img
 eelamalar.com##a[href*="thesakkatru.com"]
 lakshyatak.in,samachardoot.in,wehindustan.com##a[href*="traffictail.com"]
 samachardoot.com##a[href*="traffictail.com"] img
