@@ -790,7 +790,7 @@ akashgyanvatika.com,anaicoddai.com,arthparkash.com,ctgcrimenews.com,himalayauk.o
 despardesweekly.co.uk,ekhansangbad.com,firstuttarpradesh.com,jagprerna.com,magurabarta24.com,thenewhind.com,voiceofnationnews.com###text-12
 moonramkonam.com###text-124
 bn.bdcrictime.com,hindustanlivetoday.com,raftaarindianews.com,sankalpsavera.com,swisspungudutivu.com,tamil.com,udaipurnews.in,udayindiahindi.in,ukhiyanews.com,voiceofshatabdi.com,vyavasthadarpan.com###text-13
-anaicoddai.com,bdcrictime.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
+anaicoddai.com,bdcrictime.com,bhadas4journalist.com,chandpurprobaha.com,dailypunjabtimes.com,fenionline.net,livekhagaria.in,porospor.com,sambadsaradin.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
 ctgcrimenews.com,dailypunjabtimes.com,despardesweekly.co.uk,kalaroanews.com,sambadsaradin.com,trttamilolli.com,updatetimes.com###text-15
 fatehnagarnews.com,rghnews.com,skytipsbd.com,udaipurkiran.in###text-16
 anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
@@ -849,7 +849,7 @@ hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 bdmetronews24.com###text-71
 mbmnewsnetwork.com###text-74
 dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,sylhetnewsbd.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
-bograsangbad.com,himalayauk.org,himshimlalive.com,jagprerna.com,kholabazar24.com,kuberbhoomi.com,meherpurpratidin.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
+bhadas4journalist.com,bograsangbad.com,himalayauk.org,himshimlalive.com,jagprerna.com,kholabazar24.com,kuberbhoomi.com,meherpurpratidin.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com,voiceofnationnews.com###text-9
 bharatsamachartv.in###text-html-widget-14
 akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
 bdtoday24.com###text-html-widget-25
@@ -1903,8 +1903,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
