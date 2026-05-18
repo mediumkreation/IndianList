@@ -1863,6 +1863,7 @@ realbulletin.in##.elementor-shortcode:has(> a)
 krantiprayas.com##.elementor-shortcode:has(> a, [id^="krant"])
 perfecttamil.com##.elementor-size-small
 khabriyanews.com##.elementor-spacer
+zeebharatnews.com##.elementor-sticky .elementor-widget-shortcode img
 ts29.in##.elementor-video
 aajkiawaaz.com##.elementor-widget-banner-box
 dailynewsindia.in##.elementor-widget-bopea-section-ads-img
