@@ -720,7 +720,7 @@ citypostlive.com###sidebar-secondary-sidebar > .widget
 yarldevinews.net###sidebar-wrapper .widget.HTML
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
-upayuktha.com###sidebar-wrapper .widget.Image
+bbttimes.in,upayuktha.com###sidebar-wrapper .widget.Image
 bharatprawah.com###sidebar-wrapper .widget.Image:not(#Image4)
 abtaknews.com,desikhabar.in,digontonewsbd.com,indiasnews24.com,pradeepamonline.com###sidebar1
 dailypunorutthan.com,daynightnewsbd.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
