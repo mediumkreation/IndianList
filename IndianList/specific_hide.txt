@@ -199,7 +199,7 @@ bolpanipat.com,ekhabar.in,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kul
 nishnama.com,sabkasandesh.com###block-20
 nishnama.com###block-21
 alivenews.co.in,newslab24.in###block-22
-emandirates.com,hnn24x7.com,livepress24.com,nishnama.com,p2pnews.co###block-23
+buzznox.com,emandirates.com,hnn24x7.com,livepress24.com,nishnama.com,p2pnews.co###block-23
 govindia.in,hindisprout.com,hnn24x7.com,newslab24.in,vedantsamachar.in,whatinindia.com###block-24
 banglarjanapad.com,govindia.in,newslab24.in###block-25
 govindia.in,organizeindia.in,uppunews.com###block-26
@@ -829,7 +829,7 @@ careerintelligencebd.com###text-45
 careerintelligencebd.com###text-47
 achhikhabar.com,pradeshonlinekhabar.com###text-48
 achhikhabar.com###text-49
-atharvnews.com,biharpatrika.in,chandankesari.com,communitynews24.com,indiakestar.com,jagprerna.com,mpcgtoday.com,najarianews.in,navpravah.com,navsancharsamachar.com,news85.in,newsmediatoday.net,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,theprobashi.com,tnilive.com###text-5
+atharvnews.com,biharpatrika.in,buzznox.com,chandankesari.com,communitynews24.com,indiakestar.com,jagprerna.com,mpcgtoday.com,najarianews.in,navpravah.com,navsancharsamachar.com,news85.in,newsmediatoday.net,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,theprobashi.com,tnilive.com###text-5
 achhikhabar.com,recentnepal.com###text-50
 lekhaporabd.net###text-51
 anaicoddai.com,bmdb.co,oneindia24live.com,recentnepal.com###text-52
