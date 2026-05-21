@@ -96,7 +96,6 @@ tupaki.com###ad_after_header
 anandamela.in###ad_container2
 maxwoman.in###ad_first_middle
 tistanews24.com###adbreakingnews
-deshbandhu.co.in###addImage
 editorjee.com###addheaderbanner
 professorsbd.com###addv
 khabor.com###adgshp985719811
@@ -2287,7 +2286,6 @@ thedailycampus.com##.infostation
 jogindernagar.com##.inimistacad-home
 malayaleepathram.com.au##.inner-ad-block
 mannarkkadlive.com##.inner-add
-deshbandhu.co.in##.inner-add-banner
 chatonay71news.com##.inner-ads
 birgunjsanjal.com,setokhabar.com##.inner-featured-image
 insurancekhabar.com##.inner-news-ads
@@ -2512,6 +2510,7 @@ nepalipatra.com,onlinerapti.com,postpati.com##.modal-body
 dailysokalersomoy.com,janchhaya.in,nepalmamila.com,parichitkhabar.com,thewall.in##.modal-content
 nepalipaisa.com##.modal-dialog
 annapurnapost.com##.modal__img
+deshbandhu.co.in##.modal_wrapper_frame
 theleader.lk##.module-ct .custom
 mohagani.com##.mohag-widget
 everesttimes.net,pclive7.com,uthayannews.ca##.mom-e3lanat
