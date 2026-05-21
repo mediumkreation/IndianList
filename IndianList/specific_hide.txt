@@ -4037,6 +4037,7 @@ eelamalar.com##a[href*="eelavarkural.blogspot.com"]
 eelamalar.com##a[href*="eelaveechu.net"]
 eelamalar.com##a[href*="eelavenkai.blogspot.com"]
 barisalpress.com##a[href*="enjoy.net.bd"] img
+ptcnews.tv##a[href*="esasafe.com"]
 jugantor.com##a[href*="eximbankbd.com"]:only-child
 tamilarul.net##a[href*="facebook.com"] > img
 times-bd24.com##a[href*="facebook.com/Future-Company-"]
