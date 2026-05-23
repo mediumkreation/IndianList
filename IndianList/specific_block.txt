@@ -33,6 +33,7 @@
 -content-add$domain=ujjwalhimachal.com
 /AD-$domain=ptbnewsbd.com
 /ad.jpg|$domain=bbc24news.com
+/ad/*$domain=bongodorshon.com
 /ADD-$domain=bslnews24.com|tejastoday.com
 /add-$domain=navakal.in|solantoday.com|somoynewsbd.com
 /ADD.gif|$domain=paryabekhyak.com
