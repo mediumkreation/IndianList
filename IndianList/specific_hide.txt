@@ -2124,6 +2124,7 @@ janpadnewslive.com##.h-full img
 khabarindia.in##.h-text > img
 bdbarrta24.com##.h_ads
 sunbd24.com##.h_ads a:not([href*="sunbd24.com"])
+nagpurtehelka.com##.haldiram
 haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
 pakundiapratidin.com##.hd_banner
