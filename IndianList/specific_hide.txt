@@ -1441,7 +1441,7 @@ nepalipatro.com.np##.banner-slider
 inhnews.in##.banner-slider-2
 khabarhub.com##.banner-widget
 bhnnews.com##.banner-wrap img
-banglarchithi.com,bdsomachar24.com,businesshour24.com,dakshinermashal.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,rangpur24.com,somoyerkontha.com,somoyersangbad.com##.banner2
+banglarchithi.com,bdsomachar24.com,businesshour24.com,dakshinermashal.com,dristyprotidin.com,jonotaradalot.com,moulvibazar24.com,somoyerkontha.com,somoyersangbad.com##.banner2
 dhaka18.com##.banner21
 manoramaonline.com##.bannerImage
 raftaarindianews.com##.bannerListWidget
@@ -1651,7 +1651,6 @@ magahinews.com,mediamangalam.com##.code-block:not(.code-block-4)
 banglaexpress.in,deshprahari.com##.code-block:not(.code-block-6)
 krishakjagat.org,navbharatsamay.in##.code-block:not(.code-block-9)
 bangalianaa.com##.code-widget
-rangpur24.com##.codedokan_widget
 dainiknotunkhobor.com##.codedokan_widget > figure img
 thepadma24.com##.codedokan_widget figure img
 newsjatiyobangladesh.com,notunerkotha.com##.codedokan_widget img
@@ -1905,8 +1904,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2531,7 +2530,7 @@ cgwebnews.in##.mt-2 a[target*="_blank"] img
 onlinepatrika.com##.mt-2 img
 azhimukham.com,damaulionline.com##.mt-3
 dailyprovatbela.com##.mt-3 .wp-block-image
-dailyusharbani.com,sokalershironam.com##.mt-3 > img
+dailyusharbani.com,rangpur24.com,sokalershironam.com##.mt-3 > img
 npbnews.com##.mt-3 img.w-100
 yugantarkhabar.com##.mt15 > a img
 sandhannews.com##.mtphr-dnt-widget
@@ -3865,8 +3864,6 @@ agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
 madhyom.com,publicnext.com##[alt="Advertisement"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
-rangpur24.com##[alt="ad300"]
-rangpur24.com##[alt="ad600"]
 kashishnews.com##[alt="add image"]
 nepaltoday.com.np##[alt="add"]
 nepaltimes.net##[alt="body Ad"]
