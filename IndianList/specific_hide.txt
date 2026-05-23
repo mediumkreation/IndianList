@@ -1909,7 +1909,7 @@ damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.
 kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
-asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
+asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
 7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 khabardarinews.com##.elementor-widget-shortcode img:not([src*="Beige-Modern-Elegant-Personal-LinkedIn-Banner.jpg"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
