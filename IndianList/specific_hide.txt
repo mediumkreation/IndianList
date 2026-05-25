@@ -3011,6 +3011,7 @@ news4nation.com##.slide-container
 groundzeroenews.co.in##.slider
 jagratilahar.com##.slider img:not([src*="1595764637"])
 cgkhabar24.com##.slider-area
+chinimandi.com##.slider-contain2
 bundelkhandvoice.com,crimekhabar.live,dhenkanalupdate.com,frontline24.com,gnewsindia.com,khabarchalisa.com,pradeshkhabar.in,republicbharatnews24.com,tnnews24.in##.slider-pro
 avnpost.com##.slider-section
 houseplan.lk,samajkihalchal.com##.slider2
