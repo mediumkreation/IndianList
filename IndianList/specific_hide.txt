@@ -4967,6 +4967,7 @@ thedesiawaaz.com#?#div:-abp-has(> div > div > a>div > div > p:-abp-contains(Ad |
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 theexpose.in#?#.colombiaonesuccess > div:-abp-has(> div > div a p:-abp-contains(Ad:))
 theheadline24.com#?#div:-abp-has(> .heading > span:-abp-contains(Advt.))
+thekhabrilal.co.in#?#div[class^="gb-element"]:-abp-properties(min-height)
 thenewswords.in#?#:-abp-has(> h4:-abp-contains(Advertise))
 theonlinepost.in#?#.inside-right-sidebar > .gb-container:-abp-contains(Advertisement)
 theonlinepost.in#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
