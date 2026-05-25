@@ -58,7 +58,7 @@ madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Im
 madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,jalorenews.com,jaunpurlive.com,kalviseithi.net,kd24news.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,naininews.com,poonththalir.blogspot.com,rajsamachar.com,shortnews.lk,siyanenews.com,spyviewnews.in,thattungal.com###Image2
+36kaakda.in,battinews.com,chetaktimes.com,dailyhealthletters.com,gandhawarta.com,gzpnews.com,hadapsarexpress.com,hamaramahanagar.in,jalorenews.com,jaunpurlive.com,kalviseithi.net,kd24news.in,liveaaryaavart.com,madhepuratimes.com,malabarflash.com,poonththalir.blogspot.com,rajsamachar.com,shortnews.lk,siyanenews.com,spyviewnews.in,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
@@ -1905,8 +1905,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -4282,7 +4282,7 @@ dhakamail.com##div:has(> hr + .text-xs)
 janpadmirror.com##div:has(> hr.custome-br + h2)
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
-ajkalerkhobor.com,bansalnews.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,livemagadh.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,natunsylhet24.com,nayanjagriti.com,patrikai.com,prime9news.com,sbnlive.net,telugugateway.com,urjanchaltiger.in##div:has(> ins.adsbygoogle)
+ajkalerkhobor.com,bansalnews.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,livemagadh.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,naininews.com,natunsylhet24.com,nayanjagriti.com,patrikai.com,prime9news.com,sbnlive.net,telugugateway.com,urjanchaltiger.in##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
