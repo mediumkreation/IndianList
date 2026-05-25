@@ -1905,8 +1905,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2478,6 +2478,7 @@ punjabvarta.com##.metaslider:not(#metaslider-id-1999)
 wisdomindia.news##.mg-footer-widget-area
 shasansandesh.in##.mg-headwidget .code-block
 todayindia.com##.mg-nav-widget-area .pull-right
+uttarakhandlivenews.com##.mg-nav-widget-area-back
 kannada.vartamitra.com##.mh-header-2
 marathisrushti.com,rojdin.in##.mh-header-widget-2
 janjoshnews.in##.mh-sidebar .widget_media_image
@@ -2729,6 +2730,7 @@ chakrikhobor.com##.post-right-side-square-ads-big
 hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 ankapatra.com##.post_cont-ads
+uttarakhandlivenews.com##.poster
 hamrokantipur.com,kalikadainik.com,satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
 sanghamam.com##.pr-0
