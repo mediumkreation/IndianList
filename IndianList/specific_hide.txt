@@ -1079,7 +1079,7 @@ blastkhabar.com##.adRightSideBar
 odhikar.news##.adSlides
 lokaantar.com##.ad__section
 news18.com##.ad_cntainer
-bhilwarahalchal.com##.ad_level_1_before_heading
+bhilwarahalchal.com,npg.news##.ad_level_1_before_heading
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 banglanewsus.com,dailyprovatbela.com,newskarobar.com##.ad_section
@@ -1474,6 +1474,7 @@ nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
 seemanchallive.com##.bdaia-widget:not(#bdaia-widget-e3-4)
 bdsomoy24.com##.bdsom-content
 lionexpress.in##.before-banner-ad
+npg.news##.before_story_ad
 gautamsandesh.com##.beforeheader_728
 belagavisuddi.com##.belag-content
 nwnews24.com##.below-content.widget_text
@@ -3932,6 +3933,7 @@ amadersundarban24.com,attariyaonline.com,ebikalpadainik.com,setohimalnews.com,te
 ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
+npg.news##[data-category="banner_ad"]
 tamilmurasu.com.sg##[data-testid="advertisement-element"]
 sharechat.com##[href*="whistleloop.com"] img
 kannurnewsonline.in##[id$="-ad"]
@@ -4256,7 +4258,7 @@ zeenews.india.com##div:has(> [id*="-ad-"])
 raftaar.in##div:has(> [id^="div-ad-"])
 lokmatnews.in##div:has(> [id^="div-gpt-ad"])
 shortheadlines.com##div:has(> [id^="div-gpt-ad"]:only-child)
-lokmat.com##div:has(> [id^="div-gpt-ad-"])
+lokmat.com,npg.news##div:has(> [id^="div-gpt-ad-"])
 spokesmanhindi.com##div:has(> [style="color:gray; text-align:center;"] ~ ins.adsbygoogle)
 samayduniya.com##div:has(> a > div > .pd_title)
 banijjoprotidin.com##div:has(> a >img.size-full)
