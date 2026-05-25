@@ -3943,6 +3943,7 @@ instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 oneindia.com##[id^="are-slot"]
 dhankutakhabar.com##[id^="banner_"]
+barabankiexpress.in##[id^="barab-"]
 bikaner24x7news.com##[id^="bikan-"]
 chhattisgarhvaibhav.com##[id^="chhat-"]
 currentnewsdainik.com##[id^="curre-"]
