@@ -1370,6 +1370,7 @@ aaryaanews.com,news4csc.com##.ai-sticky-widget
 anewsoffice.com,bwoodtadka.com,merazul.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
+dailysonardesh.com##.alR-top-ad
 malabarnews.com##.alertAdd
 shadin-bd.com##.align-items-center[style*="height: 250px"]
 hulchalnews24.com##.alignnone.size-medium
