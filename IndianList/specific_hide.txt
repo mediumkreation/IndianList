@@ -104,6 +104,7 @@ maihugodda.com###adoverlay
 tistanews24.com###adpost
 malayalamdaily.in###adrotate-wrapper
 deshprotikhon.com,kanikakhabar.com,thelallantop.com###ads
+padmatimes24.com###ads-wigt-content
 newsonebd.com###ads01
 vikalptimes.com###ads120_60-widget-2
 ishantimes.com###ads160_600-widget-2
@@ -799,7 +800,7 @@ anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshe
 abhibharat.com,anaicoddai.com,attachowk.com,bihar.express,binodonnews24.com,bojrodhoni.com,ccnnews24.in,cgtazanews.com,cinemasthi.com,cinesnacks.net,communitynews24.com,crimenewsbd24.com,currentkhabar.com,currentnewz.in,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,inayam.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,jansamparklife.in,joyparajoy.com,karmalamadhanews24.com,komashisha.com,lokhitexpress.com,maharashtradesha.com,mediahousepress.com,moviemandu.com,moviewingz.com,news39.net,parichowk.com,parvasinewspaper.com,peoplenews.lk,postpatrika.com,ptcnetwork.ca,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,starexpress.news,thesandeshwahak.com,todayexpressnews.com,udaipurkiran.in,udaipurnewschannel.in,udayindiahindi.in,vedantsamachar.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
-anytechtune.com,fastlivenews.com,roopcare.com###text-21
+anytechtune.com,fastlivenews.com,padmatimes24.com,roopcare.com###text-21
 dainiksatkhira.com###text-22
 akashgyanvatika.com,patheo24.com,tnilive.com###text-23
 coxsbazarnews.com###text-230
