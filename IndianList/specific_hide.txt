@@ -398,7 +398,7 @@ newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 bhopalsamachar.com,uttarakhandhindinews.in###home-ads
-dailyusharbani.com,kalerkotha.com,rangpur24.com,sokalershironam.com###home-online-poll
+bijoyeralo.com,dailyusharbani.com,kalerkotha.com,rangpur24.com,sokalershironam.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
@@ -1907,8 +1907,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -4820,7 +4820,8 @@ hindustannewsexpress.com##img[src*="booking/"]
 reportsindia.in##img[src*="gftr"]
 newsphalasia.com##img[style*="width:100%;height:200px"]
 wijeya.lk##img[target]
-sokalershironam.com##img[title="ad728"]
+bijoyeralo.com##img[title="ad600"]
+bijoyeralo.com,sokalershironam.com##img[title="ad728"]
 kasargodvartha.com##img[title="wellfitindia"]
 indiakhabar.co.in#?#.mb-3 .section-title:-abp-has(> h4:-abp-contains(Advertisement))
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
