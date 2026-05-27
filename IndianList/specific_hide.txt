@@ -2554,6 +2554,7 @@ gbnews24.com##.myIFrame
 somoynews.tv##.mySlideBox
 loktantrakaagaz.com,newsroomme.com##.mySlides
 indiainside.org##.mySlides2
+dailyamardin.com##.myad
 dainikujagarkhabar.in,newsplus.lk,thekhabardaily.com##.mzb-advertisement
 news13.in##.n13_adv
 news13.in##.n13_home_adv4
@@ -2978,7 +2979,7 @@ jamunanewsbd.com##.single_page .widget_area
 songkalpo.net##.single_page_ad
 sangbad-gallery.com##.single_page_bottom_ad
 firstlookbihar.in##.single_page_content .carousel
-dailynarayanganjerdak.com##.single_page_two_advertisement
+dailyamardin.com,dailynarayanganjerdak.com##.single_page_two_advertisement
 upkikhabar.com##.single_post_content a[href*="?tag=bitspi-21"]
 firstlookbihar.in##.single_sidebar .spost_nav
 jonotatv.com##.single_sidebar:has(> .textwidget:only-child)
@@ -3506,6 +3507,7 @@ cgkhabar.com##.w-full:has(> ins.adsbygoogle)
 amritvichar.com##.w-kban
 indiainside.org##.w3-section
 sarabangla.net##.w3-tiny
+dailyamardin.com##.w_lead
 rajpathmathura.com,thaiveedu.com##.wds_slider_cont
 iamgujarat.com,maharashtratimes.com,marathi.indiatimes.com,samayam.com##.wdt-taboola
 marathi.indiatimes.com##.wdt_advertorial
