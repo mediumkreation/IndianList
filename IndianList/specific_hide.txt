@@ -1396,7 +1396,7 @@ moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
 asianetnews.com##.articleright div:has(> [id^="div-gpt-ad-"])
 newsatfirst.com##.aside-add
-dinamani.com,kalkionline.com,kannadaprabha.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
+dinamani.com,kalkionline.com,kannadaprabha.com,maalaimalar.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
 nepalrastriyadainik.com##.aside-trending
 bijoybanglabd.com##.asn-bk-txt
 awaazbd.net,awaazbd.us,deshabhimani.com##.aspect-square
@@ -1907,8 +1907,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2304,7 +2304,7 @@ innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,mahilaswasthya.com,setokhari.com##.insert-ad
 amaderbarta.net,dainikshiksha.com##.inside-ad-container
-bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,maalaimalar.com,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,mediaoneonline.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
+bankura24x7.com,bhilwarahalchal.com,dailythanthi.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,mediaoneonline.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 anmolbharat.in##.inside-right-sidebar
@@ -2652,7 +2652,6 @@ apnapunjabmedia.com##.order-3 .mt-4
 telugu.mykhel.com##.os-ad
 telugu.mykhel.com##.os-ad-c
 himalayapost.com##.otw-sidebar .widget_text
-maalaimalar.com##.outer-container .to-be-async-loaded-ad:not(#home_right_2)
 hindi.news18.com##.outsreamAd
 banglatribune.com##.overayFeaturedImage
 bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
@@ -3924,7 +3923,7 @@ muldhar.com##[class*="twp-ad"]
 drutakhabar.com,wnepal.com##[class*="vigyapan"]
 dailyamardesh.com##[class*="w-[300px]"]
 dailyamardesh.com##[class*="w-[320px]"]
-sathyadeepam.org##[class*="widget-m__customWidgetWrapper__"]
+maalaimalar.com,sathyadeepam.org##[class*="widget-m__customWidgetWrapper__"]
 agrowon.esakal.com##[class*="widget-m__customWidgetWrapper__"][style*="250px"]
 vtvgujarati.com##[class="hidden xmd:block"]
 pratidhvani.com##[class^="ad-service"]
