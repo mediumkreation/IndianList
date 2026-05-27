@@ -15,7 +15,7 @@ jaldhakanews.com###HTML101
 dailyhealthletters.com,india2daynews.com,liveaaryaavart.com,mathagal.net###HTML12
 jaldhakanews.com###HTML123
 nawadalive.com,thattungal.com###HTML13
-bhopalsamachar.com,india2daynews.com,insightchhattisgarh.in,livenewsexpress.in###HTML14
+bhopalsamachar.com,india2daynews.com,livenewsexpress.in###HTML14
 balotranewstrack.com,dailyhealthletters.com,taazakhoj.com,tahkikatsamachar.in###HTML15
 balotranewstrack.com,bhopalsamachar.com,dainikdesherkhobor.com,edition.nnb.com.bd,jansanvaadnews.in,publicnewshindi.com,rajsamachar.com,thattungal.com###HTML16
 abtakapakesath.com,rashtrasamarpan.com,thattungal.com###HTML18
@@ -28,7 +28,7 @@ kurunews.com,madhurdarpan.com,sebahotnews.org###HTML21
 gidhaur.com###HTML24
 importmirror.com###HTML27
 gramsamachar.com###HTML29
-36kaakda.in,battinews.com,cnblive.com,gossip99.com,insightchhattisgarh.in,kanaighatnews.com,kushiyaranews.com,punalurnews.com,thattungal.com,ukliveuttrakhand.com###HTML3
+36kaakda.in,battinews.com,cnblive.com,gossip99.com,kanaighatnews.com,kushiyaranews.com,punalurnews.com,thattungal.com,ukliveuttrakhand.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
 himachalmedia.co###HTML31
 himachalmedia.co###HTML32
@@ -758,7 +758,7 @@ himachalabhiabhi.com###sppb-addon-1492748325089
 globenepal.com###square-close .front
 munaadi.com###st-1 ~ video
 saamtv.esakal.com###st_hp_leaderboard_1
-sanskardarshan.in###sticky-wrapper
+insightchhattisgarh.in,sanskardarshan.in###sticky-wrapper
 chandpurprobaha.com###sticky-wrapper .widget_media_image
 dailypunorutthan.com###stickyadd
 buxaruptodate.com###stream-item-widget-1
