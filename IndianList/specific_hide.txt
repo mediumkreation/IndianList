@@ -2315,7 +2315,7 @@ birgunjsanjal.com##.inside_ads img
 hamrosandesh.com##.interview ~ a
 makalukhabar.com##.is-full-widescreen-ad
 samvetshikhar.com##.item-size-right img
-aajtak.in##.itgdAdsPlaceholder
+aajtak.in,news1bharat.com##.itgdAdsPlaceholder
 bartakontho.com,deshshamachar.com##.itpolly_widget > img
 alokitoshitalakha.com,dailyamarbhumi.com,nabajug.com##.itpolly_widget img
 fulbariapratidin.com##.itpolly_widget img:not([src*="White-Gold-Elegant-Best-Employee-"])
