@@ -1575,7 +1575,7 @@ mathrubhumi.com##.branding_logo
 keralafinance.com##.brdbt.stock
 prameya.com##.breadcrumb-sidebar-card:has(> .carousel)
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
-aarushikhabar.com,probashtime.net##.brx-popup
+aarushikhabar.com,probashtime.net,simpaninews.com##.brx-popup
 simpaninews.com##.brxe-section.brx-animated
 navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
@@ -1907,8 +1907,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
