@@ -948,7 +948,7 @@ tutyonline.net##.Amain
 onp24.com##.BannerAdd2
 timesnowhindi.com##.BottomAd
 cvoice24.com,eyenews.news##.DADD
-aajkalcanada.com,amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,deshprotidin.com,newsbangladesh.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
+aajkalcanada.com,amaderprotidin.com,banglanews24ny.com,channel24bd.tv,channel786.com,dailyjalalabad.com,dainiksylhet.com,deshprotidin.com,newsbangladesh.com,purbodeek.com,purbodeek.net,surmanews24.com,sylhetexpress.net,weeklydesh.co.uk##.DAdd
 sylheterdak.com.bd##.DAdd .hidden-xs
 sylheterdak.com.bd##.DAdd img
 aloavanews24.com##.DAdd2
@@ -1907,8 +1907,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
