@@ -1027,7 +1027,7 @@ cialive.in##.ad .carousel
 arthasansar.com##.ad > div
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
 sorejominbarta.com##.ad iframe
-arthasansar.com,dailysunshine.com.bd##.ad img
+arthasansar.com,dailysunshine.com.bd,nepalnews.com##.ad img
 protichhobi.com##.ad img:not([src*="protichhobi-job.gif"])
 chhattisgarhaaj.com,khabaraaptak.net,legendnews.in,panpadu.com,pokharaviews.com,pratyeknewslive.com##.ad--space
 chhattisgarhaaj.com##.ad--widget-no
