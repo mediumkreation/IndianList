@@ -1908,8 +1908,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3887,7 +3887,7 @@ dhakamail.com##[class*=" h-[250px]"]
 dailytamilnadu.com,vikatan.com##[class*="-ad-"]
 prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
-dailymanobadhikercrimenews.com,dainikmathrevomirkantho.com##[class*="-ad-wrap"]
+alorkhabor.com,dailymanobadhikercrimenews.com,dainikmathrevomirkantho.com##[class*="-ad-wrap"]
 ournews24.com##[class*="-add"]
 raftaar.in,telugutimes.net##[class*="-add-"]
 abpcrimenews.com##[class*="-ads"]
@@ -4026,6 +4026,7 @@ eelamalar.com##a[href*="aruchuna.com"]
 hindilok.com##a[href*="astrosage.com"]
 pannagam.com##a[href*="baluasiaadd"]
 bartamanbangladesh24.com,tritiyamatra.com##a[href*="bdinfobiz.com/pos-software"]
+alorkhabor.com##a[href*="bdithost.com"]
 chennaivision.com##a[href*="bharatgeneric.com"]
 ajhindidaily.in,dainikayodhyatimes.in##a[href*="biqdiq.com"]
 gkprashnuttar.com##a[href*="bit.ly"]
