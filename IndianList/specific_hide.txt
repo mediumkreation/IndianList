@@ -1889,6 +1889,8 @@ aafnokura.com,deskokhabar.com,humhindustaniusa.com,khabrimedia.com,thinakaran.lk
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 andolana.in,anugrahavision.com,deshmadhesh.com,newsdeskkannada.com##.elementor-widget-image .size-large
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
+dailybanglarchokh.com##.elementor-widget-image > a img:not([src*="banglarchokhLogo.png"])
+dailybanglarchokh.com##.elementor-widget-image > img:not([src*="banglarchokhLogo.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
 jagratbharatnews.in##.elementor-widget-image img
 sonalibangla.com##.elementor-widget-image img:not([src*="300-x-100-px-e1722257913795.png"])
