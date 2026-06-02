@@ -1910,8 +1910,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3944,7 +3944,7 @@ banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com,koshiparionline.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
-amadersundarban24.com,attariyaonline.com,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
+amadersundarban24.com,attariyaonline.com,citizenvoice.in,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
 ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com,setoshikhar.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
