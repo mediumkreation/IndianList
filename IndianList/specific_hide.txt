@@ -1659,7 +1659,6 @@ dainiknotunkhobor.com##.codedokan_widget > figure img
 thepadma24.com##.codedokan_widget figure img
 newsjatiyobangladesh.com,notunerkotha.com##.codedokan_widget img
 bankingkhabar.com##.codeneric_uam_link
-firstbihar.com##.col-12 > iframe
 colombotamil.lk,mithilalive24.com,nishpakshjanavlokan.in,tamilvisions.com##.col-bn-ds
 swatantrachetnanews.com##.col-lg-1 img
 apnapunjabmedia.com##.col-lg-2 > .white-bg
@@ -1911,8 +1910,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2320,6 +2319,7 @@ birgunjsanjal.com##.inside_ads img
 hamrosandesh.com##.interview ~ a
 makalukhabar.com##.is-full-widescreen-ad
 samvetshikhar.com##.item-size-right img
+firstbihar.com##.items-center:has(> [id^="div-gpt"])
 aajtak.in,news1bharat.com##.itgdAdsPlaceholder
 bartakontho.com,deshshamachar.com##.itpolly_widget > img
 alokitoshitalakha.com,dailyamarbhumi.com,nabajug.com##.itpolly_widget img
@@ -2660,7 +2660,7 @@ himalayapost.com##.otw-sidebar .widget_text
 hindi.news18.com##.outsreamAd
 banglatribune.com##.overayFeaturedImage
 bankbimaarthonity.com##.overflow-hidden a[target="_blank"] > img
-24x7cg.com,dainikroorkee.com,firstbihar.com,kelopravah.news##.owl-carousel
+24x7cg.com,dainikroorkee.com,kelopravah.news##.owl-carousel
 thahaonline.com##.p-1.h-100
 bankbimaarthonity.com##.p-1:has(> a[target="_blank"])
 newuthayan.com##.p-3.text-center
