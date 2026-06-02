@@ -2787,6 +2787,7 @@ jhilko.com##.rd-ads img:not(.wp-image-2735)
 hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
 hindusta24x7.com##.rd-widget-ads
+banglanewsus.com##.related_content_dio
 khagracharipratidin.com##.relative:has(img[src*="/ads/"])
 filmibeat.com##.removeStyleAd
 amarujala.com##.remove_ad_class
