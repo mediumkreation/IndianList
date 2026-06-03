@@ -1910,8 +1910,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2701,7 +2701,7 @@ jamunanewsbd.com##.photo-gellary iframe
 zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
-bdnews999.com,dailyajkerbarta.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,gnewsbd24.com,kaleralo.com,priyochandpur.com,swadeshbangla24.com##.pitwAdvWrap
+bdnews999.com,dailyajkerbarta.com,dailylalsabujerdesh.com,dainikkishoreganj.com,deshtime.com,faridpurprotidin.com,gnewsbd24.com,kaleralo.com,priyochandpur.com,swadeshbangla24.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
 prajavani.net##.pj-ad-card
 etharasambhala.com,hamdardtv.com##.plyr
