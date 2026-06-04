@@ -1252,6 +1252,7 @@ inextlive.com,prothomalo.com##.adsBox
 andhrajyothy.com##.adsCustom
 aapkiaawaznews.com##.adsImg_section
 epaper.lokmat.com##.ads_699
+shomoynews.net##.ads__square
 hindi.business-standard.com##.ads_box_grid
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
 julmsejung.com##.ads_cot
@@ -1347,7 +1348,7 @@ iamgujarat.com,samayam.com,vijaykarnataka.com##.advertorialwrapper
 tulsipurkhabar.com##.advetisement
 onlinedabali.com##.advls
 deepika.com##.advrt-container
-sangbadprotidin.com,shomoynews.net##.advrts
+sangbadprotidin.com##.advrts
 news19tv.com,parthokko.com.bd##.advt-col
 deepika.com##.advt-contant
 divyahimachal.com##.advt-homepage
@@ -1909,8 +1910,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3398,7 +3399,6 @@ janasarokar.com,munalnews.com##.top__header__ads
 biniyogbarta.com,doshdik.com,janomot.com##.top_add
 upkikhabar.com##.top_addarea
 dailyjonomot.com##.top_ads2
-shomoynews.net##.top_ads_home
 samacharplus.com##.top_advertize
 nepalparikrama.com##.top_banner
 aapninews.in,rochakkhabare.com##.top_dd
