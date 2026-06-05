@@ -2415,6 +2415,7 @@ lankasri.com##.lsb-blurb-sections
 haryanakranti.com##.m-116
 haryanakranti.com##.m-200
 bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
+minnal24.com##.m24-ad-slot
 71sangbad.com##.m_none > a[target="_blank"]
 newsplus21.com##.maan-breadcrumbs
 newsplus21.com##.maan-mid-bar
@@ -2624,7 +2625,7 @@ nepalkhabar.com##.nk-sidebar-ads
 newskannada.com##.nktv_adv
 newsbunch.in##.nm-ads-section
 nnews24.com##.nnews-content
-ganaadhikar.com,jhabualive.com,live7tv.com,minnal24.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,upsamachar.org##.no-bg-box-model
+ganaadhikar.com,jhabualive.com,live7tv.com,newsnerve.in,newstodaycg.com,sakalakhabar.com,sakshamuttarakhand.com,spreaditnews.com,sudurawaj.com,sudurpashimkhabar.com,upsamachar.org##.no-bg-box-model
 nepalraftar.com##.no-bod > a
 bishwadarpan.com,chitwanaaja.com,halkarosamachar.com,kantipathonline.com##.no-bod > a img
 narayanionline.com,sagarmatha.tv##.no-vigyapan-section
