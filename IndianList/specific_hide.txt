@@ -1909,8 +1909,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -4733,7 +4733,7 @@ uskhabar.com##figure.wp-block-image img:not(.wp-image-16631)
 agraupdate.com,dailyganomukti.com,nepalsandesh.com,paharipatrika.in,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
 sanvadnews.com##figure.wp-block-table
 paharipatrika.in##figure.wp-block-video
-buxaruptodate.com##figure.wp-caption
+buxarkhabar.com,buxaruptodate.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 indiareportertoday.com##figure[id^="attachment"]
 sankeerthanam.com##footer .widget-area
