@@ -1022,7 +1022,7 @@ kapotham.com##.above-sidebar-wrapper
 agrasor.com##.abv-container
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,anmolkhabar.com,banglatelegraph.com,bengali.news18.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,darpannews.net,deepika.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com,uniquesamay.com##.ad
+akhabarhub.com,amarujala.com,anmolkhabar.com,banglatelegraph.com,bengali.news18.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,darpannews.net,deepika.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com,uniquesamay.com##.ad
 cialive.in##.ad .carousel
 arthasansar.com##.ad > div
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
