@@ -1910,7 +1910,7 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
@@ -2781,7 +2781,7 @@ thelallantop.com##.py-2
 surgujasamay.com##.py-2 .img-fluid
 sunamganjerkhobor.com##.py-3
 sharebazarnews.com##.py-4 .text-lg
-samacharhouse.com##.py-5
+kannada.newskarnataka.com,samacharhouse.com##.py-5
 satyamlive.com##.quadss-location
 rajnitiprotidin.com##.qvzk
 purvanchal24.com##.r-emfs .imagewidget
