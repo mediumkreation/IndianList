@@ -651,6 +651,7 @@ tikheemirchi.com###secondary .widget_block:not(#block-9)
 4pillar.news,apanderanews.com,editiontoday.in,hamarchhattisgarh.in,janakeeyam.in,khabaribn7.com,up18news.com###secondary .widget_custom_html
 khabriyanews.com###secondary .widget_custom_html:not(#custom_html-14):not(#custom_html-15)
 aajkakanpur.com,aapkanews.com,agnichakr.in,aryavartposts.com,banglasanglap.co.uk,biharikhabar.in,emediatoday.com,fourthpost.com,gangalahar.com,ghaziabad365.com,ideaciti.com,interviewnepal.com,jogiexpress.com,k24news.in,mediapassion.co.in,network10tv.com,newsbindass.com,nichod.com,pabnabarta24.com,patnapost.com,polkholonline.com,pradeshnews24x7.com,ptbnews.in,sangshadgallery24.com,thecitinews.com,thekhabri.in,thelokniti.com,thepowernews.com,vishwanews24.com###secondary .widget_media_image
+janataanews.com###secondary .widget_media_image:not(#block-12)
 navpradesh.com###secondary .widget_media_image:not(#block-64)
 dailyshapoth.com###secondary .widget_media_image:not(#media_image-17)
 shreenews.in###secondary .widget_media_image:not(#media_image-30)
@@ -1909,8 +1910,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,kannada.newskarnataka.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
