@@ -749,6 +749,7 @@ dailyalokitovor.com###small-news
 todaypostlive.com###smart-head .h-text
 peoplenews.lk###sneeit-advertisement
 garimatvnews.com###sp-ads
+newstube.lk###sp-main-body .mod-custom
 dabangrajdhani.com###sp-right .bannergroup
 agrilife24.com###sp-slider-wrapper
 techtamil.com###sp_widget_post_slider-2
@@ -3067,7 +3068,6 @@ veeravengaikal.com##.sppb-addon-clients
 himachalabhiabhi.com##.sppb-addon-container.main-content
 garimatvnews.com##.sppb-addon-content .custom
 newscreation.in##.sppb-addon-raw-html
-newstube.lk##.sppb-addon-single-image
 tandavnews.com##.spu-bg
 tandavnews.com##.spu-box
 yugantarpravah.com##.square-ad-box
