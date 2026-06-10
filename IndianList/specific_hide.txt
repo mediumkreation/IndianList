@@ -1052,7 +1052,6 @@ amarujala.com##.ad-mb-app
 pravasi.com##.ad-on-header
 nayapage.com##.ad-on-middle-content
 khabardabali.com##.ad-row-container
-nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
 bangladesherkhabor.net##.ad-sm
@@ -2205,6 +2204,7 @@ chttoday.com##.height-100
 krushinama.com##.herald-da
 hindnews.live,krishionline.com##.herald-txt-module
 supportmeindia.com##.hero-section
+nepalsandesh.com##.hero-sidebar
 sylheterdak.com.bd##.hidden-xs .textwidget img
 hillsmirror.com##.hills-widget
 news1bharat.com##.hm-badikhbre-slide
@@ -4732,7 +4732,7 @@ amarnarayanganj.com,betulmedia.com,dailybahadur.com##figure.wp-block-image > img
 himachalsamay.com##figure.wp-block-image img
 uskhabar.com##figure.wp-block-image img:not(.wp-image-16631)
 247superfast.com,andhravilas.net,beforepublish.com,dailybijoyeralo.com,jagocomilla.com,namastenri.net,smpnews24.com##figure.wp-block-image.size-full
-agraupdate.com,dailyganomukti.com,nepalsandesh.com,paharipatrika.in,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
+agraupdate.com,dailyganomukti.com,paharipatrika.in,reportersnepal.com,teknaf71.com,vtvvitla.com##figure.wp-block-image.size-large
 sanvadnews.com##figure.wp-block-table
 paharipatrika.in##figure.wp-block-video
 buxarkhabar.com,buxaruptodate.com##figure.wp-caption
