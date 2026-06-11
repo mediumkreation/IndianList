@@ -1909,8 +1909,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -4479,6 +4479,7 @@ thejoharnews.com##div[class^="thejo-"]
 biratkhabar.com##div[class^="top-sidebar-adv"]
 eurobanglanews24.com##div[class^="topad"]
 cinema.dinamalar.com##div[class^="topadtxt"]
+capitalnepal.com##div[class|="bigyaapan"]
 manobkantha.com.bd##div[data-ad-slot] ~ hr
 ahinsaexpress.in,akashjatra.com,alokitochatkhil.com,ananda-alo.com,bdsangbad24.com,biharnation.in,biharnewslive.com,cgtazanews.com,chavakkadonline.com,citypostlive.com,cumillarpaper.com,dainikjagrotochattogram.com,dhenkanalupdate.com,dumanikhabar.in,ganthan.com,gtvnews.net,hamaratoday.com,journalistcafe.com,kilinochchinet.com,konarklive.com,koshalnews.in,lastnews24.com,malayalamdaily.in,morbinews.in,nationexpress.live,nayapusta.com,odishanews365.com,odishasambad.in,onlinemalayali.in,paharbarta.com,parichaya.com,pbknews.com,pehchanfaridabad.in,peoplespresstrust.com,sabkuchgyan.com,safalnews.com,samajalive.in,suddimane.com,sudurkhabar.com,tandavnews.com,thesigmanews.com,upnn.in##div[data-adid]
 arthosuchak.com##div[data-adid] a:not([href*="arthosuchak.com"]) img
