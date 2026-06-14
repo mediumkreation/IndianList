@@ -150,7 +150,7 @@ lokmat.com,lokmatnews.in###beforehead
 jalorenews.com###bellow-header-widget
 eveningkerala.com,newscg11.com###below-header
 andhrajyothy.com###belowArticleBodyAdsDiv
-kannada.drivespark.com###belowContent
+kannada.drivespark.com,tamil.filmibeat.com###belowContent
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 dailymanam.com###bestcare-fullscreen-popup
@@ -1910,8 +1910,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3494,7 +3494,7 @@ voiceofnarayanganj24.com##.video-gallery-box
 girlsglobe.in##.video-widget
 awaaz24x7.com##.video-wrap-three
 zeenews.india.com##.videoCube:has(> a[target="_blank"])
-kannada.drivespark.com##.videoStyleAd
+kannada.drivespark.com,tamil.filmibeat.com##.videoStyleAd
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
 sadamoga.com##.view-ads-all-blocks
