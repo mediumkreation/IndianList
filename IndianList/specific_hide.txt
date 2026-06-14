@@ -139,7 +139,7 @@ massnews.online###author-bio-widget-1
 purvanchaltimes.in###author-bio-widget-9
 dhaka18.com###awaken_video_widget-4
 dailypunorutthan.com###backgroundad
-hindinetnews.in,ilamai.com,sitakundabarta.com,upayuktha.com###banner
+hindinetnews.in,ilamai.com,sitakundabarta.com###banner
 dakshinapath.com###bannerAdCarouselContainer
 cinesnacks.net###banner_header_728
 bangalorewaves.com###bannerclassfd
@@ -699,6 +699,7 @@ lokhitkipukar.com###sidebar .ws-block-body > a > img
 khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
 madhurdarpan.com###sidebar-container .widget.Image
+upayuktha.com###sidebar-container .widget.Image:not(#Image100)
 veerdharanews.com###sidebar-footer-4
 biharaaptak.com###sidebar-primary .widget_custom_html
 haryananewsonline.com###sidebar-primary-sidebar
@@ -719,7 +720,7 @@ citypostlive.com###sidebar-secondary-sidebar > .widget
 yarldevinews.net###sidebar-wrapper .widget.HTML
 techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
-bbttimes.in,upayuktha.com###sidebar-wrapper .widget.Image
+bbttimes.in###sidebar-wrapper .widget.Image
 bharatprawah.com###sidebar-wrapper .widget.Image:not(#Image4)
 abtaknews.com,desikhabar.in,digontonewsbd.com,indiasnews24.com,pradeepamonline.com###sidebar1
 dailypunorutthan.com,daynightnewsbd.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
@@ -3928,6 +3929,7 @@ britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
 afnainews.com,citypokhara.com,ebikalpadainik.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
+upayuktha.com##[class*="slider-"]
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
 muldhar.com##[class*="twp-ad"]
 drutakhabar.com,wnepal.com##[class*="vigyapan"]
