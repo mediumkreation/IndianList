@@ -150,7 +150,7 @@ lokmat.com,lokmatnews.in###beforehead
 jalorenews.com###bellow-header-widget
 eveningkerala.com,newscg11.com###below-header
 andhrajyothy.com###belowArticleBodyAdsDiv
-kannada.drivespark.com,tamil.filmibeat.com###belowContent
+kannada.drivespark.com,tamil.boldsky.com,tamil.filmibeat.com###belowContent
 kusenews.com###belowflash
 kusenews.com###belowmainnews
 dailymanam.com###bestcare-fullscreen-popup
@@ -3494,7 +3494,7 @@ voiceofnarayanganj24.com##.video-gallery-box
 girlsglobe.in##.video-widget
 awaaz24x7.com##.video-wrap-three
 zeenews.india.com##.videoCube:has(> a[target="_blank"])
-kannada.drivespark.com,tamil.filmibeat.com##.videoStyleAd
+kannada.drivespark.com,tamil.boldsky.com,tamil.filmibeat.com##.videoStyleAd
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
 sadamoga.com##.view-ads-all-blocks
