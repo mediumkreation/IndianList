@@ -4387,6 +4387,7 @@ janaaastha.com##div[class*="bigyapaan"]
 abhiyandaily.com,bikashnews.com,ictsamachar.com##div[class*="bigyapan"]
 bikanerhulchul.com##div[class*="bikan"]
 livetimes.tv##div[class*="bnner"]
+dainikprabhat.com##div[class*="border"]:has(ins.adsbygoogle)
 banglaxp.com##div[class*="code-block"]
 democratictvnews.com##div[class*="colombia"]:not(#LP_O_LHS_1)
 kannadavani.news##div[class*="cs-banner"]
