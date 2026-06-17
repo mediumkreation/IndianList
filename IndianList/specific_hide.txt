@@ -4264,6 +4264,7 @@ mathuranews24.com##div.text-center:has(> h5 + img)
 thevirallines.net##div.w-full > a[target="_blank"]
 vikatan.com##div:has(> .ad)
 citynewsrajshahi.com##div:has(> .ad-block)
+samprotikee.com##div:has(> .ad-container)
 timesnowtamil.com##div:has(> .ad-div)
 bharatbarta.com##div:has(> .ads-wrp_txt)
 dainikhawk.com,haribhoomi.com,kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
