@@ -1227,7 +1227,7 @@ uttaranchaldarpan.in##.adloc-is-banner
 roorkeehub.com,samacharagency.com##.adore-adver
 dadailypunjabnews.com,jantantraa.com,pingara.com##.adore-adver-part
 alivenews.co.in,suddikanaja.com##.adredux
-aayokhabar.com,akhabardainik.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,bhilwarasamachar.in,biznessnews.com,businesspati.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dabalikhabar.com,dailylokaloy.com,dailymatobad.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,dtvbangla.com,emalayalee.com,expresspana.com,gandakilive.com,gandakipost.com,gandakitimes.com,globaltvbd.com,gokarneshworonline.com,gournadi24.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,kollywoodkhabar.com,kushtiatime24.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,lumbinipatrika.com,mayurpati.com,mediadabali.com,megakhabar.com,missionlumbini.com,motivatenews.com,nagariknews.nagariknetwork.com,nagarikonline.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalinetwork.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,ntvtelugu.com,onlinedainik.com,onlinepatrika.com,palikanews.com,paristamil.com,pariwartankhabar.com,peoplessamachar.in,pipalonline.com,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,surmanews.com,tamilan24.com,topnews24x7.com,tvaritkhabren.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
+aayokhabar.com,akhabardainik.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,bhilwarasamachar.in,biznessnews.com,businesspati.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dabalikhabar.com,dailylokaloy.com,dailymatobad.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,dtvbangla.com,emalayalee.com,expresspana.com,gandakilive.com,gandakipost.com,gandakitimes.com,globaltvbd.com,gokarneshworonline.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,kollywoodkhabar.com,kushtiatime24.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,lumbinipatrika.com,mayurpati.com,mediadabali.com,megakhabar.com,missionlumbini.com,motivatenews.com,nagariknews.nagariknetwork.com,nagarikonline.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalinetwork.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,ntvtelugu.com,onlinedainik.com,onlinepatrika.com,palikanews.com,paristamil.com,pariwartankhabar.com,peoplessamachar.in,pipalonline.com,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,surmanews.com,tamilan24.com,topnews24x7.com,tvaritkhabren.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 nepalmanch.com##.ads img:not(.wp-image-72119)
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
@@ -2889,7 +2889,6 @@ gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
 janasarokar.com##.side-bar-ads
 ekuruvi.com##.side-bar-big-ads
-gournadi24.com##.side-indent .wgs-ads:first-child
 newsheight.com##.side-widget.newsh-widget
 allnewsbharat.com##.sideAdd
 gramnagarbarta.com##.sideAds_bg
@@ -3521,6 +3520,7 @@ newsagencyindia.com##.w-100
 satyahindi.com##.w-full.bg-\[\#E3E3E3\]
 enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
+gournadi24.com##.w-full.object-contain
 dainikhawk.com##.w-full.px-2
 nrn.news##.w-full.shadow-sm
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
@@ -3948,6 +3948,7 @@ afnainews.com,citypokhara.com,ebikalpadainik.com,sudurkhabar.com,tajavarthalu.in
 kirandoot.com##[class*="sidebar"] aside.widget_text
 upayuktha.com##[class*="slider-"]
 indiatimes.com,vijaykarnataka.com##[class*="taboola"]
+gournadi24.com##[class*="text-[10px]"]
 muldhar.com##[class*="twp-ad"]
 drutakhabar.com,wnepal.com##[class*="vigyapan"]
 dailyamardesh.com##[class*="w-[300px]"]
