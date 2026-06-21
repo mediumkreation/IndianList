@@ -868,7 +868,7 @@ europemalayali.co.uk###thumbs
 janatarnews24.com###tie-block_1354
 damaulikhabar.com###tie-block_2253
 actionindialive.com###tie-block_303
-dailybihar.in,dainiklokdarpan.com,jaybharatnews.com,samaynewslive.com###tie-block_576
+dailybihar.in,dainiklokdarpan.com,jaybharatnews.com###tie-block_576
 edunews.com.bd###tie-block_855
 bareillylive.com###tie-slider-widget-2
 samayindia24.com###tie-slider-widget-5
@@ -2601,6 +2601,7 @@ mhone.in##.new-banners
 citynewsdhaka.com##.new-international-right
 news18.com,news18marathi.com##.newadd
 banglapostbd.com##.news-ad-container
+samaynewslive.com##.news-ad-video
 europemalayali.co.uk##.news-add
 sudinamonline.com##.news-addheight
 maharashtratimes.com##.news-advertorial
@@ -3347,7 +3348,7 @@ kasaragod.com##.theiaStickySidebar .text-html-box
 citynews24.org,hadapsarexpress.com##.theiaStickySidebar .widget.HTML
 livenewsexpress.in##.theiaStickySidebar .widget.Image
 hindustandailynews.com,jansaamna.com,jiwanjotsavera.com,purvanchalnews.com##.theiaStickySidebar .widget_block
-barishalpostnews.com,bharatnews18.in,bograsangbad.com,expertmedianews.com,mithilacitynews.in,navsatta.com,nayabharat.live,pahiloprahar.com,parvatanchal.com,samaynewslive.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
+barishalpostnews.com,bharatnews18.in,bograsangbad.com,expertmedianews.com,mithilacitynews.in,navsatta.com,nayabharat.live,pahiloprahar.com,parvatanchal.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 aajexpress.com,acpnews24.com,aryasamay.com,awazlive.com,awaznews24x7.com,barishalpostnews.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,garhninad.com,hamarahimachal.com,hindustanopinion.com,jantakiaawaznews.com,jharkhandnews.live,khabrimedia.com,khaskhabar24.com,malwanews.com,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,news85.in,newsmithila.com,newsnasha.com,newsroom9.com,parvatjan.com,rajarhatbd.com,rudrakshnews.com,sabkajammukashmir.com,sitakundtimes.com,sunmision.tv,thejoharnews.com,theloktantra.com,tosnews.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
 khabar36.com##.theiaStickySidebar .widget_media_image:not(#block-2):not(#media_image-17)
@@ -3719,7 +3720,7 @@ thirdeyetoday.com##.widget_youtube_responsive
 ganaadhikar.news##.width-ad
 bangladeshsangbadpratidin.com##.width-ad-wrap
 teluguwishesh.com##.wishesh-add
-dailybihar.in,jaybharatnews.com,samaynewslive.com##.wonderplugincarousel
+dailybihar.in,jaybharatnews.com##.wonderplugincarousel
 dainiklokdarpan.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com,pnews.co.in##.wonderpluginslider
 asiantimes.in,chhattisgarhvaibhav.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in##.wonderpluginslider-container
