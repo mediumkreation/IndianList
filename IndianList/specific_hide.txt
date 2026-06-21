@@ -1917,8 +1917,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3897,6 +3897,7 @@ ramroonline.com##[alt="RG Creations - Vertical Ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
 nepaltoday.com.np##[alt="add"]
+agamirsomoy.com##[alt="advertisement"]
 nepaltimes.net##[alt="body Ad"]
 newsplus21.com##[class$="-ad"]
 ejanakpurtoday.com##[class$="-ads"]
@@ -3904,8 +3905,9 @@ gunjankhabar.com,seroferonews.com##[class$="_ads"]
 yoyocial.news##[class*="  ad-"]
 thedailybijoynews.com##[class*=" bn-"]
 dhakamail.com##[class*=" h-[120px]"]
-dhakamail.com##[class*=" h-[250px]"]
+agamirsomoy.com,dhakamail.com##[class*=" h-[250px]"]
 anmnews.in##[class*=" h-[350px]"]
+agamirsomoy.com##[class*=" h-[90px]"]
 dailytamilnadu.com,vikatan.com##[class*="-ad-"]
 prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
