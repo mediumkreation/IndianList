@@ -1045,7 +1045,7 @@ bizshala.com,mttvindia.com##.ad-banner-img
 kannurnewsonline.in##.ad-bar-section
 primenewsbd.com##.ad-box
 dainikayodhyatimes.in##.ad-close
-argusnews.in,chatganrbani.com,dailykaratoa.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
+argusnews.in,chatganrbani.com,dailykaratoa.com,dinamani.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
 avadhtimes.com##.ad-image1
@@ -1406,7 +1406,7 @@ moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
 asianetnews.com##.articleright div:has(> [id^="div-gpt-ad-"])
 newsatfirst.com##.aside-add
-dinamani.com,kalkionline.com,kannadaprabha.com,maalaimalar.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
+kalkionline.com,kannadaprabha.com,maalaimalar.com,samakalikamalayalam.com,sanmarg.in##.aside-collection-ad-slot
 nepalrastriyadainik.com##.aside-trending
 bijoybanglabd.com##.asn-bk-txt
 awaazbd.net,awaazbd.us,deshabhimani.com##.aspect-square
@@ -1917,8 +1917,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2520,6 +2520,7 @@ nagpurtoday.in##.middle-contbox
 onetamilnews.com,vasundharadeep.news##.middle-header-newsadvert
 dailysharebazarprotidin.com##.middle-primary .news_portal_ads_banner
 hamromat.com,pradeshdainik.com##.min-global-adv
+dinamani.com##.min-h-\[90px\]
 valanchery.in##.mkd-sidebar .widget_text
 khushisamay.com##.mkdf-home-sidebar-banner
 24expressnews.in,aajkaaditya.in,abtakkhabar.com,bigtvnews.com,buxarkhabar.com,cibindianews.com,giridihupdates.com,hapurhulchul.com,hindsagarplk.com,janmatexpress.in,jantakkhabar.com,kundeshwartimes.com,newsvartaindia.in,pinakatimes.com,prabhatvarta.in,ptbnews.in,punjablivenews.in,rashtriyajansamvad.com,rsnewslive.com,smacharaajtak.com,soochnanews.in,starexpress.news,tharexpressnews.com,tnnews24.in,vsrsnews.in##.ml-slider
@@ -4261,6 +4262,7 @@ aajkaaldaily.com##div.col-lg-3:has(> ins.adsbygoogle)
 aajbikel.com##div.colombiaonesuccess div:has(> div > div > a>div > p)
 aajbikel.com##div.colombiaonesuccess div:has(> div > div > a>h2 + h4)
 newsdainik.com##div.g
+dinamani.com##div.justify-center:has(> .bg-gray-100)
 khaskhabar.com##div.mrgR5[style*="height:250px;"]
 kannada.news18.com##div.newstrendvideo-box > ul > li:nth-child(7)
 neplays.com##div.ptop--30:has(> .ad--space)
@@ -4448,7 +4450,7 @@ uttarakhandmorningpost.com##div[class*="uttar-"]
 khabarprawaha.com,sabaikosamachar.com##div[class*="vigyapan"]
 dainikgomantak.esakal.com##div[class*="widget-m__"]
 samakalikamalayalam.com##div[class*="widget-m__"]:has(.advert-box)
-dhanamonline.com,dinamani.com,kalkionline.com,kannadaprabha.com,metrovaartha.com,thecue.in,timeskerala.com##div[class*="widget-m__customWidgetWrapper__"]
+dhanamonline.com,kalkionline.com,kannadaprabha.com,metrovaartha.com,thecue.in,timeskerala.com##div[class*="widget-m__customWidgetWrapper__"]
 esakal.com##div[class*="widget-m__customWidgetWrapper__"]:has([id^="div-gpt-ad"])
 usbangla24.news##div[class*="width-ad"]
 gonews24.com##div[class="country-add"]
