@@ -4861,6 +4861,7 @@ wijeya.lk##img[target]
 bijoyeralo.com##img[title="ad600"]
 bijoyeralo.com,sokalershironam.com##img[title="ad728"]
 kasargodvartha.com##img[title="wellfitindia"]
+thesubeditor.com##img[title^="chinna"]
 indiakhabar.co.in#?#.mb-3 .section-title:-abp-has(> h4:-abp-contains(Advertisement))
 indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 indiannewsservice.net#?#.sidebar h2:-abp-contains(Advertisement)
