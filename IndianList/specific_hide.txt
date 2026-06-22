@@ -399,7 +399,7 @@ bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 pressnote.in###heroVideo
 bhopalsamachar.com,uttarakhandhindinews.in###home-ads
-bijoyeralo.com,dailyusharbani.com,kalerkotha.com,rangpur24.com,sokalershironam.com###home-online-poll
+bijoyeralo.com,dailyusharbani.com,kalerkotha.com,kalerpost.com,rangpur24.com,sokalershironam.com###home-online-poll
 haribhoomi.com###home_full_width
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
@@ -4841,6 +4841,7 @@ binodonsarabela.com##img[alt="hera"]
 mirsaraikhobor.com##img[alt="mAD"]
 kuppilan.net##img[alt="weblogs"]:not([src*="coronavirus_up"])
 newsdesk24.com##img[alt='ad']
+kalerpost.com##img[alt^="ad"]
 bangladeshglobal.com##img[banner]
 sylnewsbd.com##img[class*="wp-image"]
 dailypurbodesh.com##img[class^="sb-ads"]
