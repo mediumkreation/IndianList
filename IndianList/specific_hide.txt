@@ -1918,8 +1918,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -2478,7 +2478,6 @@ awajnews.com,eveningkerala.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
 bonikbarta.com##.max-h-full
-deshabhimani.com##.max-w-full
 fenitribune.com##.mb-3
 amarbarta24.com##.mb-3 .w-100
 cgwebnews.in##.mb-3:has(.carousel)
@@ -4827,7 +4826,7 @@ ajkersylhet.com##img[alt="Jainta Barta Local Ad"]
 talashbangla.com##img[alt="Page Add"]
 trttamilolli.com##img[alt="SAT"]
 eyenewsbd.com##img[alt="ad image"]
-knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
+deshabhimani.com,knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
 kolomerkotha.com##img[alt="ad300"]
 dailyrangpur.com,dainikvatibangla.com,dinajpur24.com,durantabarta.com,kolomerkotha.com,nobojagorontv.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
@@ -4905,7 +4904,6 @@ netrokonajournal.com##main .advertisement img
 amritvichar.com##main .htmlwidget
 timenewsbd.net##main .py-0 center img
 arthikawaj.com##main [data-adid]
-deshabhimani.com##main div:has(> .h-full > img[alt="ad"])
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
