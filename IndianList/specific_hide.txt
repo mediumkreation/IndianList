@@ -2479,6 +2479,7 @@ awajnews.com,eveningkerala.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
 bonikbarta.com##.max-h-full
+gsnewsbd.com##.max-w-full iframe
 fenitribune.com##.mb-3
 amarbarta24.com##.mb-3 .w-100
 cgwebnews.in##.mb-3:has(.carousel)
@@ -3938,6 +3939,7 @@ mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
+gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
 telugunow.com##[class*="nv-ad nv-ad"]
