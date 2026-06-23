@@ -738,6 +738,7 @@ kulalworld.com###simpleimage-31
 kulalworld.com###simpleimage-5
 muslimmedia.info###simpleimage-6
 breakingnews.com.bd###single_news_page_right_add
+rupalibangladesh.com###siteblock
 currentkhabar.com###sitebox-ad125-3
 baglungpost.com,biznessnews.com,prabhavnews.com###skip-ads
 capitallivenews.com###skipAdModal
@@ -1792,8 +1793,7 @@ bikashnews.com##.desktop_main_news_banner
 nayabishwo.com##.detail-ad-holder
 khabardabali.com##.detail-right-ad img:not([src*="unicode_converter.jpg"])
 halokhabar.com##.details-ad
-citynewsdhaka.com,shikkhasongbad.com##.details-page-side-banner
-rupalibangladesh.com##.details-page-side-banner img
+citynewsdhaka.com,rupalibangladesh.com,shikkhasongbad.com##.details-page-side-banner
 citynewsdhaka.com##.details-page-side-banner-2
 sunamganjerkhobor.com##.details-sidebar .mb-3
 natunsylhet24.com##.details-sidebar > .row.justify-content-center
@@ -1845,6 +1845,7 @@ uukmanews.com##.each-side-ads .size-full
 uukmanews.com##.each-side-ads > a
 prothomsokal24.com##.eclipsewh-ad-content
 hmtvlive.com##.ed-first
+rupalibangladesh.com##.eid-magazine-2026
 jaijaikal.com##.elementor-12 .elementor-widget-image
 mpcnews.in##.elementor-41 .elementor-widget-text-editor
 anugrahavision.com##.elementor-background-slideshow__slide
@@ -1917,8 +1918,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3987,6 +3988,7 @@ esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 oneindia.com##[id^="are-slot"]
+rupalibangladesh.com##[id^="banner-slider-"]
 dhankutakhabar.com##[id^="banner_"]
 barabankiexpress.in##[id^="barab-"]
 bikaner24x7news.com##[id^="bikan-"]
