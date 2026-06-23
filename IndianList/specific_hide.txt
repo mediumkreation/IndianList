@@ -1013,7 +1013,7 @@ weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 gujarattimesusa.com,khabribox.com,londonnepalnews.com,narmadanchal.com##.a-single
 bartabangla.com##.a-widget
-abtakmedia.com,auznews24.com,bijapurfirst.com,businesspati.com,currentnewsdainik.com,dakhalchhattisgarh.com,demokraticfront.com,deshpriyonews.com,himachalvarta.com,indianewsviral.co.in,indiansamachar.in,jhansidarshan.com,kannadanewsnow.com,khabarbastar.in,khabarmanch.com,lokshakti.in,mahendranagarpost.com,mbmnewsnetwork.com,mujibsenanews.com,newsdeskkannada.com,pahiloclick.com,satyaday.com,tarunbharat.com,thenetizennews.com,theriyuma.com##.a-wrap
+abtakmedia.com,auznews24.com,bijapurfirst.com,businesspati.com,currentnewsdainik.com,dakhalchhattisgarh.com,demokraticfront.com,deshpriyonews.com,erupse.com,himachalvarta.com,indianewsviral.co.in,indiansamachar.in,jhansidarshan.com,kannadanewsnow.com,khabarbastar.in,khabarmanch.com,lokshakti.in,mahendranagarpost.com,mbmnewsnetwork.com,mujibsenanews.com,newsdeskkannada.com,pahiloclick.com,satyaday.com,tarunbharat.com,thenetizennews.com,theriyuma.com##.a-wrap
 jhapaonline.com##.a-wrap img
 tv36hindustan.com##.a-wrap:has(> ins.adsbygoogle)
 al-ihsan.net##.a_d-banner
@@ -2855,6 +2855,7 @@ theindianstate.in##.sb-banner
 sarabangla.net##.sb-half-page-ad
 chouranews.com,khabarchalisa.com,naanmedia.in,sinewstoday.com,vijayapatha.in##.sb-widget-ad
 sbharatnews.com##.sbhar-before-content_7
+erupse.com##.sbm-banner-group
 gramnagarbarta.com##.scrollable-slider
 newsbihani.com##.sd-bar
 rajshahinews24.com##.secOne-add
