@@ -3940,6 +3940,7 @@ mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
+chakrikhobor.com##[class*="govt-post-ads"]
 gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
