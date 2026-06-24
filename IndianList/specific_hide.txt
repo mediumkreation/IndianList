@@ -1562,6 +1562,7 @@ aajbangla.in,aajkadinnews.com,aankhennews24.com,aksnewsline.com,bharatlive.co.in
 aajbangla.in,aajkadinnews.com,aankhennews24.com,bharatvarshnews24.in,bhavtarini.com,chennaipatrika.com,dankaram.in,darsilivetv.com,deshpatra.com,fesn.in,firstbharat.in,firstrajasthan.com,gexpressnews.com,hindikhabarwaala.com,hindustan1st.com,hindustankhabar.com,hindustansamay.com,hindustanvarta.com,indraprasthasamachar.com,jagrantimesnews.com,janajeevala.com,khulasapost.in,livenewsxpress.com,lokjannews.com,loudspeakeronline.com,metrocitysamachar.com,naradnews.live,nbc24.in,newsexpress24.com,p24news.com,peoplessamachar.in,pickthekhoj.in,polkholindia.com,poorvanchalmedia.com,purvikranti.com,raebareliexpress.in,rajasthanpost.in,sansaninews.com,sirajganjexpress.com,starsamachar.com,thebharatnewsnetwork.in,theindiaplus.com,threesocieties.com,todaynewshindi.in,vartanews.com,zndm.news##.bn-lg-sidebar
 aankhennews24.com##.bn-md
 nishpakshjanavlokan.in##.bn-sidebar-content
+news21.lk##.bn-wrapper-premium
 kalerkantho.com##.body-top-ad
 banglanews24.com##.body-top-ad-area-desktop
 silkcitynews.com##.body1
@@ -1703,7 +1704,7 @@ aapkaparyas.in##.container > .flex-c-c
 koshiparionline.com##.container > img
 bikashnews.com,udupitimes.com##.container a[target="_blank"] img
 hamrosandesh.com##.container-ad
-aajtakmedia.net,anandimail.in,asiansomoy.com,bundelkhandnews.com,champarantoday.in,cpnews24.com,dainikcharghat.com,darbhangacity.in,digibanglatech.news,kalamlok.com,kumudam.com,news21.lk,newsmalayali.com,pradeshajjtak.com,rni.news,rohtakmedia.com,suragbureau.com,thetehelkakhabar.com,udaybulletin.com,youngvarta.com##.container-bn
+aajtakmedia.net,anandimail.in,asiansomoy.com,bundelkhandnews.com,champarantoday.in,cpnews24.com,dainikcharghat.com,darbhangacity.in,digibanglatech.news,kalamlok.com,kumudam.com,newsmalayali.com,pradeshajjtak.com,rni.news,rohtakmedia.com,suragbureau.com,thetehelkakhabar.com,udaybulletin.com,youngvarta.com##.container-bn
 mhone.in##.container-bn:not(.mb-5)
 dailythanthi.com##.container-body > div:not(#topHead) .to-be-async-loaded-ad
 newsnow24.com##.container-fluid a[target="_blank"] img
