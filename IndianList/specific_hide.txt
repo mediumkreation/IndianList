@@ -1046,7 +1046,7 @@ bizshala.com,mttvindia.com##.ad-banner-img
 kannurnewsonline.in##.ad-bar-section
 primenewsbd.com##.ad-box
 dainikayodhyatimes.in##.ad-close
-argusnews.in,chatganrbani.com,dailykaratoa.com,dinamani.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
+chatganrbani.com,dailykaratoa.com,dinamani.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
 avadhtimes.com##.ad-image1
@@ -1788,7 +1788,6 @@ bholarbani.com##.default-advertise
 jansatta.com##.desk-ad-bg-container
 banijjoprotidin.com##.desk.bn-head
 poriborton.com##.desktop-ad-nilsagor
-argusnews.in##.desktop-square-ad
 bikashnews.com##.desktop_main_news_banner
 nayabishwo.com##.detail-ad-holder
 khabardabali.com##.detail-right-ad img:not([src*="unicode_converter.jpg"])
@@ -3309,7 +3308,6 @@ news71online.com##.text-center .size-full
 sajhasabal.com##.text-center iframe
 uptak.in##.text-center.bg-gray-100
 crimetak.in,mumbaitak.in,uptak.in##.text-center.my-1
-argusnews.in##.text-center.my-2
 jagobangla.com##.text-center.title1_6
 aayomail.com##.text-center:has(> a >img[src*="/ads/"])
 timestamilnews.com##.text-description ~ div[style*="height: 360px;"]
@@ -3529,6 +3527,7 @@ emalayalee.com##.w-full.my-2.group
 gournadi24.com##.w-full.object-contain
 dainikhawk.com##.w-full.px-2
 nrn.news##.w-full.shadow-sm
+argusnews.in##.w-full:has(> .items-center > .uppercase.font-bold)
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
 amritvichar.com##.w-kban
 indiainside.org##.w3-section
@@ -3949,6 +3948,7 @@ chakrikhobor.com##[class*="govt-post-ads"]
 gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
+argusnews.in##[class*="min-h-[306px]"]
 telugunow.com##[class*="nv-ad nv-ad"]
 ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
