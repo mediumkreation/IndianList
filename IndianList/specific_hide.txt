@@ -1918,8 +1918,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3837,6 +3837,7 @@ newssunamganj.com##.wp-image-77
 dailyoporad.com##.wp-image-783
 dnewsnetwork.in##.wp-image-82536
 news4himachal.com##.wp-image-8371
+inaruwaonline.com##.wp-image-96537
 biharnownews.com,indiawarta.com,kalpa.news,pradeshnews24x7.com##.wp-video
 alochitobangladesh.com.bd,bhaskarnewsagency.com##.wp-video-shortcode
 bangladeshmail.news##.wp-widget-group__inner-blocks
