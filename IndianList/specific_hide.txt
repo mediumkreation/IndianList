@@ -336,7 +336,7 @@ abtakmedia.com,asrilanka.com,bdcrictime.com,businesspati.com,digantabani.com,dvg
 hindi-news-today.com###custom_html-51
 roddure.com###custom_html-54
 bareillytoday.com,bidhannagartimes.com,bnanews24.com,bntlive.com,cgctnews.com,cricnewz.in,dvgsuddi.com,f21news.com,highwaychannel.in,isns.co.in,khabrilal18.com,khelarpata.com,maithilmanch.in,newschutney.com,newsnetworks.co.in,sanskardarshan.in###custom_html-6
-adityabharat.com,barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com,thehindkeshari.in###custom_html-7
+adityabharat.com,barisaltoday.com,bdcrictime.com,bnanews24.com,desherpotrika.com,emediacreative.in,firsttracknews.com,khelarpata.com,lokvarta.net,lokwarta.net,newsnetworks.co.in,newstodayinhindi.com,onlinenepal.com###custom_html-7
 f21news.com,futurekerala.in,gadhsamvedna.com,jaianndata.com,mynews36.com,navabharat.news,pradhanavartha.in,thenews4views.com,thepressnepal.com###custom_html-8
 aajtak24live.in,bharatnewslive24.in,f21news.com,filmaniaentertainment.com,ggsnews24.com,jantaconnect.com,mrreporter.in,samachardarshan24.com,satyaketansamachar.com###custom_html-9
 mpenews.com###data_id_1
@@ -1917,8 +1917,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3352,7 +3352,7 @@ kasaragod.com##.theiaStickySidebar .text-html-box
 citynews24.org,hadapsarexpress.com##.theiaStickySidebar .widget.HTML
 livenewsexpress.in##.theiaStickySidebar .widget.Image
 hindustandailynews.com,jansaamna.com,jiwanjotsavera.com,purvanchalnews.com##.theiaStickySidebar .widget_block
-barishalpostnews.com,bharatnews18.in,bograsangbad.com,expertmedianews.com,mithilacitynews.in,navsatta.com,nayabharat.live,pahiloprahar.com,parvatanchal.com,sustothaki.com,thehawabaaz.com,vikalptimes.com##.theiaStickySidebar .widget_custom_html
+barishalpostnews.com,bharatnews18.in,bograsangbad.com,expertmedianews.com,mithilacitynews.in,navsatta.com,nayabharat.live,pahiloprahar.com,parvatanchal.com,sustothaki.com,thehawabaaz.com,thehindkeshari.in,vikalptimes.com##.theiaStickySidebar .widget_custom_html
 karnatakavoice.com##.theiaStickySidebar .widget_custom_html:not(#custom_html-4)
 aajexpress.com,acpnews24.com,aryasamay.com,awazlive.com,awaznews24x7.com,barishalpostnews.com,bastabbadi.com,bojrodhoni.com,cgtop36.com,garhninad.com,hamarahimachal.com,hindustanopinion.com,jantakiaawaznews.com,jharkhandnews.live,khabrimedia.com,khaskhabar24.com,malwanews.com,meherpurnews.com,mitanbhoomi.com,nandighoshatv.com,news85.in,newsmithila.com,newsnasha.com,newsroom9.com,parvatjan.com,rajarhatbd.com,rudrakshnews.com,sabkajammukashmir.com,sitakundtimes.com,sunmision.tv,thejoharnews.com,theloktantra.com,tosnews.com,vismayamadyama.com,vorerava24.com##.theiaStickySidebar .widget_media_image
 khabar36.com##.theiaStickySidebar .widget_media_image:not(#block-2):not(#media_image-17)
