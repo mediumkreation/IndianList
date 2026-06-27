@@ -295,7 +295,6 @@ khabaruttarakhandlive.in###content div[id^="khaba-"]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com,dainikkirankamal.com###content section.widget_media_image
 odiannews.com###content section.widget_text
-giridihupdates.com###content section.widget_text[id^="text-1"]
 dailykaratoa.com###content-p > .row
 m7news.tv###content1-5 .lead > div:nth-child(n+2) img
 sylhetview24.net###content_add
@@ -1281,7 +1280,7 @@ saharanpurweb.in##.adssection
 4malayalees.com##.adsvnment
 kisantak.in,sakshi.com##.adtext
 aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,hamrakura.com,hindustanvision.com,janapati.net,maharashtratimes.com,udayakala.news,vydyaloka.in,weeklynepal.com##.adv
-etharasambhala.com##.adv-area
+etharasambhala.com,giridihupdates.com##.adv-area
 baghpailanews.com,gorkhalikhabar.com##.adv-box-wrap
 jagonews24.com##.adv-img
 naulonews.com,ratopati.com##.adv-item
