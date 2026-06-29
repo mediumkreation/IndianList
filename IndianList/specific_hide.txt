@@ -1056,6 +1056,7 @@ amarujala.com##.ad-mb-app
 7indian.com##.ad-middle
 pravasi.com##.ad-on-header
 nayapage.com##.ad-on-middle-content
+mechikhabar.com##.ad-right-side-bar
 khabardabali.com##.ad-row-container
 esidhakura.com##.ad-sec img
 alarmindia.in##.ad-slide
