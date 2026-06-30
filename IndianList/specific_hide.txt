@@ -3958,6 +3958,7 @@ gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
 argusnews.in##[class*="min-h-[306px]"]
+eyeofnepal.com##[class*="no-vigyapan-"]
 telugunow.com##[class*="nv-ad nv-ad"]
 ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
