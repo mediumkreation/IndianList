@@ -1920,8 +1920,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3264,7 +3264,7 @@ najarbandi.in##.td-stretch-content
 hetaudaonline.com.np##.td-stretch-content .td_block_single_image
 lokpaksh.com##.td_block_empty_space
 dailybanglarrup.com,jnilive.mobi,newsxpresslive.com##.td_block_image_box
-abitfar.com,akkbd.com,atulyabharat.in,bajjikavani.com,biswabanglasangbad.com,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,dhakanews24.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,ejalakam.com,himalayandiscover.com,hindusthanpost.com,kalaipoonga.net,khabargujarat.com,manaharilive.com,newindia24.in,ntinews.com,odishanews24.in,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,rautahattimes.com,tamilnews.com,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
+abitfar.com,akkbd.com,atulyabharat.in,bajjikavani.com,biswabanglasangbad.com,chennaicitynews.net,dailysomoyersomikoron.com,deshrojana.com,dhakanews24.com,digitalbharatnews.in,digitalmalayali.com,digitalmalayalionline.com,ejalakam.com,faridpurpost.com,himalayandiscover.com,hindusthanpost.com,kalaipoonga.net,khabargujarat.com,manaharilive.com,newindia24.in,ntinews.com,odishanews24.in,pahilosamachar.com,postmanindia.in,prabhattimes.com,pradeshsanchar.com,pratidindaily.com,rautahattimes.com,tamilnews.com,techvision24.com,teknafnews.com,thebharatnews.net,theexclusivestory.com,thekarmanews.com,torrongonews.com,unanews.in##.td_block_single_image
 vtvvitla.com##.td_block_single_image > span
 nepalpostdaily.com##.td_block_single_image:not(.tdi_27)
 beingpahadi.com,chatganrbani.com##.td_block_text_with_title
