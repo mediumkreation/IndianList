@@ -2223,6 +2223,7 @@ hindnews.live,krishionline.com##.herald-txt-module
 supportmeindia.com##.hero-section
 nepalsandesh.com##.hero-sidebar
 sylheterdak.com.bd##.hidden-xs .textwidget img
+dailyourbangladesh.com##.hidden:has(> a[target="_blank"])
 hillsmirror.com##.hills-widget
 news1bharat.com##.hm-badikhbre-slide
 khabareducation.com##.hm-header-image
