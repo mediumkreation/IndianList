@@ -1920,8 +1920,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -3736,7 +3736,7 @@ teluguwishesh.com##.wishesh-add
 dailybihar.in,jaybharatnews.com##.wonderplugincarousel
 dainiklokdarpan.com,thenewswall.in##.wonderplugincarousel-container
 delhiuptodate.com,fbdnews.com,nationalcapitaltimes.com,pnews.co.in##.wonderpluginslider
-asiantimes.in,chhattisgarhvaibhav.com,himachalreport.com,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in##.wonderpluginslider-container
+asiantimes.in,chhattisgarhvaibhav.com,himachalreport.com,khabarantar.in,madhyapradeshdarshan.com,namastepurvanchal.in,news9india.in,realbulletin.in##.wonderpluginslider-container
 lotpot.com##.wow
 allnewsbharat.com##.wow.single_sidebar
 deshshamachar.com##.wp-ad-box
@@ -4013,6 +4013,7 @@ gtamilnews.com,tamilscreen.com##[id^="itro_"]
 janaaawajnews.com##[id^="janaa-"]
 kasaragodchannel.com##[id^="kasar-"]
 khabarbhojpuri.com##[id^="kbbchbh-"]
+khabarantar.in##[id^="khaba-"]
 pingara.com##[id^="national_news_advertisement_posts_widget"]
 newskharikhari.com##[id^="newsk-"]
 newsuperbharat.com##[id^="newsu-"]
