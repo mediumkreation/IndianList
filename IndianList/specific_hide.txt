@@ -1920,8 +1920,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,vijayavani.net##.elementor-widget-shortcode img
@@ -4906,6 +4906,7 @@ k9media.live#?#[id^="AS_O_"] div:-abp-has(> div > a>div > h5:-abp-contains(Ad |)
 kanvkanv.com#?#.sidebar-block-wrapper:has(a:-abp-contains(Advertisement))
 khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 khabardev.com#?#.list-category-posts-half:-abp-has(> .widget-title:-abp-contains(AD))
+khabarhartaraf.in#?#div[class^="gb-element"]:-abp-properties(min-height)
 khabarhikhabar.com#?#div:-abp-has(> div[style*="absolute;"]:-abp-contains(Advertisement Box))
 khabarkaasar.in#?#.gb-container:-abp-properties(min-height)
 khaboriya24.com#?#div[class^="gb-element"]:-abp-properties(min-height)
