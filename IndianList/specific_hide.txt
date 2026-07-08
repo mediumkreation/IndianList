@@ -4541,6 +4541,7 @@ voice4bihar.com##div[data-adid]:not([data-adid="99627"])
 veerdharanews.com##div[data-adid]:not([data-type="custom_code"])
 cdnews24.com##div[data-adid][data-type="image"]
 ajkerbazzar.com##div[data-amads-id]
+mahanewsonline.com##div[data-breakout]:has(iframe)
 truecopythink.media##div[data-embed-button="embed_advertisement"]
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 barisalpress.com##div[data-href*="enjoynetwork.bd"]
@@ -4931,6 +4932,7 @@ magadhexpress.in#?#.wp-block-group:-abp-has(> div > .wp-block-heading:-abp-conta
 netrokonajournal.com##main .advertisement img
 amritvichar.com##main .htmlwidget
 timenewsbd.net##main .py-0 center img
+mahanewsonline.com##main .wixui-image
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
