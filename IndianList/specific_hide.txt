@@ -2340,6 +2340,7 @@ makalukhabar.com##.is-full-widescreen-ad
 samvetshikhar.com##.item-size-right img
 firstbihar.com##.items-center:has(> [id^="div-gpt"])
 aajtak.in,news1bharat.com##.itgdAdsPlaceholder
+digitalbagerhat.com##.itpolly_widget
 bartakontho.com,deshshamachar.com##.itpolly_widget > img
 alokitoshitalakha.com,dailyamarbhumi.com,nabajug.com##.itpolly_widget img
 fulbariapratidin.com##.itpolly_widget img:not([src*="White-Gold-Elegant-Best-Employee-"])
