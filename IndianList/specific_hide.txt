@@ -2421,6 +2421,7 @@ dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
 gramerkagoj.com##.logo_banner
 mahamtb.com##.logo_image_container a[target="_blank"]
+hindusthansamachar.in##.logo_image_container img:not([src*="logo2.png"])
 hipamat.com##.logobanner
 weeklydesh.co.uk##.logoright
 aayokhabar.com##.long-ad
