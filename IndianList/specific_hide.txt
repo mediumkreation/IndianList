@@ -2420,6 +2420,7 @@ purvanchalsurya.com##.logo.float-right
 dhunkhabar.com##.logo__ads
 farwesttimesdaily.com##.logo__right
 gramerkagoj.com##.logo_banner
+gournadi24.com##.logo_image_container
 mahamtb.com##.logo_image_container a[target="_blank"]
 hindusthansamachar.in##.logo_image_container img:not([src*="logo2.png"])
 hipamat.com##.logobanner
@@ -4838,6 +4839,7 @@ onstimes.com##img.attachment-full
 youthsofbirgunj.com##img.attachment-penci-full-thumb
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
+gournadi24.com##img.w-full.h-auto
 khelpati.com##img[alt$=" Ad"]
 pksnews24.com##img[alt*=" Ad-"]
 enews71.com##img[alt*="/ads/"]
