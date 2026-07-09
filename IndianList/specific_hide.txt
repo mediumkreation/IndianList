@@ -3587,6 +3587,7 @@ dainikcampus.com##.widget_area > .textwidget
 bdsaradin24.com##.widget_area figure img
 banglaralonews.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
+khoborbarisal.com##.widget_area:has(  .wp-caption)
 dailydishari.com##.widget_area:not(.widget_text)
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 newsi.in##.widget_beside_slider
@@ -4888,6 +4889,7 @@ lalsobujerkontho.com##img[src*="Modhomoti-"]
 voiceasian.news##img[src*="ad_files"]
 hindustannewsexpress.com##img[src*="booking/"]
 reportsindia.in##img[src*="gftr"]
+khoborbarisal.com##img[src*="placeholder.com"]
 newsphalasia.com##img[style*="width:100%;height:200px"]
 wijeya.lk##img[target]
 bijoyeralo.com##img[title="ad600"]
