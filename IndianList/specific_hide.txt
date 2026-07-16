@@ -3953,6 +3953,7 @@ aagyakhabar.com,emadheshtoday.com,nagarikpana.com,publicsandesh.com,sagarmathakh
 ekhabarnet.com##[class*="__ads"] img
 morbiupdate.com,narayanganjerkhabar.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
+navbharatlive.com##[class*="ad-banner-"]
 navarashtra.com##[class*="ad-banner-acs"]
 thejbt.com##[class*="adHide"]
 bhilwarahalchal.com##[class*="ad_element_before_level_"]
