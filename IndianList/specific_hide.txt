@@ -631,6 +631,7 @@ kalaroanews.com###right-sidebar .widget_text img:not([src*="/Apps-"])
 mekhrajbairwa.com###right-sidebar-inner
 punjablivenews.in###right-sidebar-inner .widget_media_image
 starbangla.in###right-sidebar-inner .widget_text
+imandar.com.np###right_eads
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
 jantakiawaz.org,thejasnews.com###right_level_3
