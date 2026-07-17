@@ -578,7 +578,6 @@ agnijwala.com,crickethimalaya.com,janaaawajnews.com,paschimnepal.com###ouibounce
 ratantimes.com###owl-demo1
 samachardoot.com###page .elementor-shortcode > a img
 muzaffarpurwow.com###panel-134-5-1-0
-janasanchar.com###panel-31350-5-1-1
 muznews.net###panel-38-0-1-1
 karmalamadhanews24.com###panel-38-2-1-1
 india.com,tfipost.in###parentDiv0
@@ -1228,7 +1227,7 @@ uttaranchaldarpan.in##.adloc-is-banner
 roorkeehub.com,samacharagency.com##.adore-adver
 dadailypunjabnews.com,jantantraa.com,pingara.com##.adore-adver-part
 alivenews.co.in,suddikanaja.com##.adredux
-aayokhabar.com,akhabardainik.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,bhilwarasamachar.in,biznessnews.com,businesspati.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dabalikhabar.com,dailylokaloy.com,dailymatobad.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,dtvbangla.com,emalayalee.com,expresspana.com,gandakilive.com,gandakipost.com,gandakitimes.com,globaltvbd.com,gokarneshworonline.com,hamrokoshiawaz.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,kollywoodkhabar.com,kushtiatime24.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,lumbinipatrika.com,mayurpati.com,mediadabali.com,megakhabar.com,missionlumbini.com,motivatenews.com,nagariknews.nagariknetwork.com,nagarikonline.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalinetwork.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,ntvtelugu.com,onlinedainik.com,onlinepatrika.com,palikanews.com,paristamil.com,pariwartankhabar.com,peoplessamachar.in,pipalonline.com,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,surmanews.com,tamilan24.com,topnews24x7.com,tvaritkhabren.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
+aayokhabar.com,akhabardainik.com,amaderorthoneeti.com,anusandhan24.com,arthadabali.com,arthadaily.com,arthanepal.com,ashakakiran.com,baglungpost.com,bd-pratidin.com,bdcnews.info,bhilwarasamachar.in,biznessnews.com,businesspati.com,campuslive24.com,chapaibarta24.com,chapainews.com,chhanbin.com,dabalikhabar.com,dailylokaloy.com,dailymatobad.com,dainandini.in,dainikeenews.com,dainiknewsnepal.com,demokhabar.com,desherkhabor24.com,dtvbangla.com,emalayalee.com,expresspana.com,gandakilive.com,gandakipost.com,gandakitimes.com,globaltvbd.com,gokarneshworonline.com,hamrokoshiawaz.com,heralokhabar.com,ibc24.in,ichchhakamananews.com,indrenisamaj.com,inextlive.com,internetkhabar.com,jagran.com,jaljalakhabar.com,janasanchar.com,jnewsbd.news,kalerkantho.com,kaligandakikhabar.com,kamananews.com,kantipurpati.com,khabarcenter.com,kollywoodkhabar.com,kushtiatime24.com,laligurash.com,lekhajokhanews.com,livegandaki.com,livehindustan.com,lumbinipatrika.com,mayurpati.com,mediadabali.com,megakhabar.com,missionlumbini.com,motivatenews.com,nagariknews.nagariknetwork.com,nagarikonline.com,narayanganjprotidin.com,nayasadak.com,nepalesediaspora.com,nepalface.com,nepalinetwork.com,nepalpana.com,nepalraibar.com,neptvnews.com,newsbihani.com,newsdeskkannada.com,newsflash71.com,ntvtelugu.com,onlinedainik.com,onlinepatrika.com,palikanews.com,paristamil.com,pariwartankhabar.com,peoplessamachar.in,pipalonline.com,punjabijagran.com,punjabstar.com,reportersnepal.com,sajhapost.com,samacharjagat.com,samajikpatra.com,setoghar.com,surmanews.com,tamilan24.com,topnews24x7.com,tvaritkhabren.com,unb.com.bd,vichinthanamweekly.com,webtvkhabar.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 nepalmanch.com##.ads img:not(.wp-image-72119)
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
@@ -1920,8 +1919,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
