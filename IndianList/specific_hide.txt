@@ -1738,7 +1738,7 @@ cs24bd.com##.content-sidebar-ad
 tcp24.news##.content_section .to-be-async-loaded-ad
 hmtvlive.com##.content_section [class*="to-be-async-loaded-ad"]
 bhilwarasamwad.com##.content_top:first-child .latest_slider
-dalitonline.com##.contentarea-adv
+ajakoartha.com,dalitonline.com##.contentarea-adv
 thefollowup.in##.contents > p img
 beanibazarnews24.com##.coronaupperadd
 gonokantho.com##.countdown_wrapper
@@ -1920,8 +1920,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
