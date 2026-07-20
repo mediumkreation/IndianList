@@ -1920,8 +1920,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
@@ -2788,6 +2788,7 @@ cgtazanews.com##.primary-sidebar-widget:not(#better-social-counter-2)
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
 balaganjprotidin.com##.prl-panel .widget_text
 livehindustan.com##.prlads
+nepalesewomen.com##.pro_bigyapan
 hulakpatra.com,kagajpatra.com,onlinenews7.com##.proad
 farwesttimesdaily.com##.promo-detail
 farwesttimesdaily.com##.promo__col
