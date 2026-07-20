@@ -1920,13 +1920,14 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
 7elevennews.com##.elementor-widget-shortcode img:not([src*="1f642.svg"])
 khabardarinews.com##.elementor-widget-shortcode img:not([src*="Beige-Modern-Elegant-Personal-LinkedIn-Banner.jpg"])
+khabarindiatv.in##.elementor-widget-shortcode img:not([src*="Screenshot-2025-11-15-at-1.26.03-PM.png"])
 krantikarisanket.in##.elementor-widget-shortcode img[alt]
 bihardootnews.com##.elementor-widget-shortcode img[src*="WhatsApp"]
 ablivenews.com##.elementor-widget-shortcode.elementor-sticky
