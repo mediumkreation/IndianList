@@ -477,7 +477,7 @@ abpbharat.com,amaderbikrampur.com,balliatimes.com,bareillytoday.com,barisaltoday
 prompttimes.com###media_image-20
 dainikmaharajganj.in,danfetv.com,ggsnews24.com,gnews5.com,kushinagarlive.com###media_image-21
 cgnews24x7.wordpress.com###media_image-23
-chapaidarpon.com,voiceofbihar.in###media_image-24
+voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com,tahalka24x7.com###media_image-25
 ggsnews24.com,pabnabarta24.com,tahalka24x7.com,voiceofbihar.in###media_image-26
 cgimpact.org,dhamakachhattisi.in,ggsnews24.com,madhyabhoomikeboal.com###media_image-27
@@ -1383,6 +1383,7 @@ aaryaanews.com,news4csc.com##.ai-sticky-widget
 anewsoffice.com,bwoodtadka.com,merazul.com,newsnow.co.in,pleaseindia.com,sachkidastak.com,sagevaani.com,tamilnigar.com,webakhbar.in##.ai_widget
 pravasidaily.com##.ai_widget:not(#ai_widget-3)
 ajabgjab.com##.ajabg-widget
+chapaidarpon.com##.al2-right-ad
 dailysonardesh.com##.alR-top-ad
 malabarnews.com##.alertAdd
 shadin-bd.com##.align-items-center[style*="height: 250px"]
@@ -1920,8 +1921,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
