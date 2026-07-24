@@ -1046,7 +1046,7 @@ bizshala.com,mttvindia.com##.ad-banner-img
 kannurnewsonline.in##.ad-bar-section
 primenewsbd.com##.ad-box
 dainikayodhyatimes.in##.ad-close
-chatganrbani.com,dailykaratoa.com,dinamani.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
+chatganrbani.com,dailykaratoa.com,dinamani.com,hulchalnews24.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
 avadhtimes.com##.ad-image1
@@ -1386,7 +1386,6 @@ chapaidarpon.com##.al2-right-ad
 dailysonardesh.com##.alR-top-ad
 malabarnews.com##.alertAdd
 shadin-bd.com##.align-items-center[style*="height: 250px"]
-hulchalnews24.com##.alignnone.size-medium
 pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
 bangalorewaves.com##.almanacheader
@@ -1920,8 +1919,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
