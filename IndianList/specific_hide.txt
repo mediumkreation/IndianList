@@ -1059,6 +1059,7 @@ nayapage.com##.ad-on-middle-content
 mechikhabar.com##.ad-right-side-bar
 khabardabali.com##.ad-row-container
 esidhakura.com##.ad-sec img
+banglapress24.com##.ad-single-item
 alarmindia.in##.ad-slide
 bangladesherkhabor.net##.ad-sm
 patradoot.net##.ad-spaces
