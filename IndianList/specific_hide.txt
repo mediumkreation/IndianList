@@ -34,6 +34,8 @@ himachalmedia.co###HTML31
 himachalmedia.co###HTML32
 99samacharexpress.in,kurunews.com,yerahajawab.in###HTML33
 gramsamachar.com###HTML34
+haryana-news.in###HTML38
+haryana-news.in###HTML39
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,ekumaon.com,eluvannews.com,kanaighatnews.com,kolhapurlive.in,malwalive.com,media24media.com,nbcbangla.com,tamilarul.net###HTML4
 livenewsexpress.in,tamilarul.net###HTML40
 tamilarul.net###HTML42
@@ -702,7 +704,7 @@ badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,lekhaporabd.net,news24x
 lokhitkipukar.com###sidebar .ws-block-body > a > img
 khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
-madhurdarpan.com###sidebar-container .widget.Image
+haryana-news.in,madhurdarpan.com###sidebar-container .widget.Image
 upayuktha.com###sidebar-container .widget.Image:not(#Image100)
 veerdharanews.com###sidebar-footer-4
 biharaaptak.com###sidebar-primary .widget_custom_html
