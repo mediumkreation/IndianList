@@ -3543,6 +3543,7 @@ newsagencyindia.com##.w-100
 satyahindi.com##.w-full.bg-\[\#E3E3E3\]
 enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
+chetnamanch.com##.w-full.my-4
 gournadi24.com##.w-full.object-contain
 dainikhawk.com##.w-full.px-2
 nrn.news##.w-full.shadow-sm
