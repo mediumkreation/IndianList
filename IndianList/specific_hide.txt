@@ -3930,6 +3930,7 @@ satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
 samvadbharatnews.com##[alt*="Advertise"]
+lionexpress.in##[alt*="Bilonaa Art"]
 madhyom.com,publicnext.com,vorerbangladesh.com##[alt="Advertisement"]
 ramroonline.com##[alt="RG Creations - Vertical Ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
