@@ -635,9 +635,11 @@ mekhrajbairwa.com###right-sidebar-inner
 punjablivenews.in###right-sidebar-inner .widget_media_image
 starbangla.in###right-sidebar-inner .widget_text
 imandar.com.np###right_eads
+newstrack.com###right_level_1
 khojinews.co.in###right_level_1.mtop15
 bankura24x7.com###right_level_2
 jantakiawaz.org,thejasnews.com###right_level_3
+newstrack.com###right_level_6
 wenepali.com###right_siran
 biharpatrika.in###rma_masala
 aarthiknews.com,techpana.com###roadBlock
@@ -1921,8 +1923,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
@@ -2331,7 +2333,7 @@ innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,mahilaswasthya.com,setokhari.com##.insert-ad
 amaderbarta.net,dainikshiksha.com##.inside-ad-container
-bankura24x7.com,bhilwarahalchal.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,mediaoneonline.com,nayanjagriti.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
+bankura24x7.com,bhilwarahalchal.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,mediaoneonline.com,nayanjagriti.com,newstrack.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 anmolbharat.in##.inside-right-sidebar
