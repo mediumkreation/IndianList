@@ -3119,6 +3119,7 @@ mysurumithra.com##.starofmysore
 devbhumijknews.in##.static-after-content
 tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
+citysandesh.com##.stickey-side .no-bod img
 lastnewsbd.com##.sticky > div:nth-child(2)
 himachalabhiabhi.com##.sticky-button
 calcuttatelevisionnetwork.in##.sticky-md-top img
