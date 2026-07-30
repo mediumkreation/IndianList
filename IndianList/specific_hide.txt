@@ -1892,8 +1892,6 @@ garhninad.com,sidelook.in##.elementor-widget-foxiz-banner
 navbihartime.com##.elementor-widget-foxiz-list-small-2
 cinemapressclub.com##.elementor-widget-he-advertisement-banner
 khabriyanews.com##.elementor-widget-heading
-jubokantho24.com##.elementor-widget-heading + .elementor-widget-image
-jubokantho24.com##.elementor-widget-heading:has(+ .elementor-widget-image)
 attingalvartha.com,atvodisha.com,chetanaonline.com,dainiksatkhirabarta.com,deshmadhesh.com,joharlive.com,kannadavahini.com,kasaragodchannel.com,lokshakti.in,mantavyanews.com,mbmnewsnetwork.com,motherlandpost.in,punjabkesari.com,satwadhara.news,thejharokha.com,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
 janaswaram.com##.elementor-widget-html:has(> ins.adsbygoogle)
@@ -1924,8 +1922,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
@@ -1938,7 +1936,7 @@ ablivenews.com##.elementor-widget-shortcode.elementor-sticky
 news24bd.net##.elementor-widget-sidebar
 shreekanchanpath.com##.elementor-widget-sidebar .widget_custom_html
 ebharatnews.in,namastenri.net,truelinenews.com##.elementor-widget-slides
-abcnews.media,adbudhindia.com,atalhind.com,bebakpost.com,bijoybangladesh.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,kathmandukhabar.com,kundapraa.com,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
+abcnews.media,adbudhindia.com,atalhind.com,bebakpost.com,bijoybangladesh.com,citizenlive.news,dailydhaka24.com,edudaily24.com,joharlive.com,jubokantho24.com,kathmandukhabar.com,kundapraa.com,mujibsenanews.com,swadeshtoday.com,teluguglobal.com##.elementor-widget-smartmag-codes
 kannadanewsnow.com,sabhavarthakal.com##.elementor-widget-spacer
 goodmorningindia.net,himalipatrika.com.np##.elementor-widget-text-editor
 pardasansar.com##.elementor-widget-text-editor img
@@ -5052,7 +5050,6 @@ agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 newsplus21.com##section[class*="ades"]
 newsmediatoday.net##section[class*="image"]:not(#media_image-2,#media_image-16,#media_image-7)
 shyamalsylhet.com##section[class^="advertise"]
-jubokantho24.com##section[data-id="147a440"]
 muznews.online##section[data-id="9a0f91e"]
 bihardootnews.com##section[data-id="e3b7c3d"]
 agrilife24.com##section[id$="add-wrapper"]
