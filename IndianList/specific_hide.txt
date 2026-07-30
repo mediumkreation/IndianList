@@ -4019,6 +4019,7 @@ ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
 npg.news##[data-category="banner_ad"]
+anugrahavision.com##[data-settings*="slideshow"]
 tamilmurasu.com.sg##[data-testid="advertisement-element"]
 sharechat.com##[href*="whistleloop.com"] img
 kannurnewsonline.in##[id$="-ad"]
