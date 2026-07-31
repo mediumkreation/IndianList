@@ -3020,7 +3020,7 @@ nagarprabha.org##.single_featured_slide
 telugusmtv.com##.single_leftbar.wow > h2
 dailyghagot.com##.single_page .add
 jamunanewsbd.com##.single_page .widget_area
-songkalpo.net##.single_page_ad
+dnnews24.com,songkalpo.net##.single_page_ad
 sangbad-gallery.com##.single_page_bottom_ad
 firstlookbihar.in##.single_page_content .carousel
 dailyamardin.com,dailynarayanganjerdak.com##.single_page_two_advertisement
