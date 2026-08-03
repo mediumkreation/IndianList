@@ -1741,7 +1741,7 @@ crimenewsbd.net##.content-inner h4
 vatakaravarthakal.in##.content-inner img
 kalpa.news##.content-inner img.size-full
 dthreeonline.com##.content-middle-ads
-cs24bd.com##.content-sidebar-ad
+bdtodays.com,cs24bd.com##.content-sidebar-ad
 tcp24.news##.content_section .to-be-async-loaded-ad
 hmtvlive.com##.content_section [class*="to-be-async-loaded-ad"]
 bhilwarasamwad.com##.content_top:first-child .latest_slider
