@@ -1596,6 +1596,7 @@ prameya.com##.breadcrumb-sidebar-card:has(> .carousel)
 hamararajasthan.com,yuvabharat.news##.breaking-news-area.mt-15
 aarushikhabar.com,probashtime.net,simpaninews.com##.brx-popup
 simpaninews.com##.brxe-section.brx-animated
+sarkarnama.esakal.com##.brz-a
 navayuganews.com##.bs-injection
 patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 cinnepal.com,ctnewsbd.com,kdnewslive.in,kollywoodvoice.com,lightnewsbd.com,outlookbangla.com,prottashitoalo.com##.bsac
