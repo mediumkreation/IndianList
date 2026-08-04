@@ -2345,6 +2345,7 @@ gandakichhadke.com,hotpati.com,jaljalaonline.com,merojilla.com,neelkanthafm.com,
 birgunjsanjal.com##.inside_ads img
 hamrosandesh.com##.interview ~ a
 makalukhabar.com##.is-full-widescreen-ad
+dhakatimes24.com##.istation_wrapper
 samvetshikhar.com##.item-size-right img
 firstbihar.com##.items-center:has(> [id^="div-gpt"])
 lokshahilive.com##.items-right .h-text img
