@@ -5030,6 +5030,7 @@ satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
 satyasandhana.in#?#div:has(> div > div > p:-abp-contains(Advertisement))
 satyavoice.com#?#div[id^="AS_O_"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
 scgnews.in#?#.widget-header:has(> h4:-abp-contains(Advertise))
+seemanchallive.com##section .rounded-2xl.p-2
 khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 thefollowup.in##section.bg-light
