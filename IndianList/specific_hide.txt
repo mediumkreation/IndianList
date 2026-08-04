@@ -3222,7 +3222,7 @@ dainikbharatbhaskar.com,dainikdawa.com#@#.td-ad-p
 dainikbharatbhaskar.com,dainikdawa.com#@#.td-ad-tp
 loksansar.in,pathramonline.com##.td-adspot-title + a
 odisha.live##.td-all-devices
-arthoniter30dinbd.com##.td-all-devices > a img
+arthoniter30dinbd.com,prahaardigital.com##.td-all-devices > a img
 nayabangla.com,southlive.in##.td-banner-bg
 dotooknews.com,irinjalakuda.com,ucchakontha.com##.td-banner-wrap-full
 teraisandesh.com##.td-cpt-post:has(> div > div > div > [title="Advertisement"i])
