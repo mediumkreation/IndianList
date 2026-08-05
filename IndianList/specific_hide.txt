@@ -697,7 +697,6 @@ coverageindia.com,mybenipatti.in,thetodaytimes.in,vidhikawaj.com###sidebar .widg
 asalbaat.co.in###sidebar .widget.Image .widget-content
 citynewshindi.com###sidebar .widget.Image:not(#Image8)
 iautoindia.com###sidebar .widget:has(.banner)
-indiatv18.com###sidebar .widget:not(#widget-sidebar-7)
 rozanakhabarnama.com.au###sidebar .widget:nth-child(2)
 52banglatv.com,balaganjprotidin.com###sidebar .widget_black_studio_tinymce
 steelcity.online###sidebar .widget_block
@@ -920,6 +919,7 @@ mp1news.com###widget-sidebar-2 ~ .widget:not(#widget-sidebar-14)
 bharatvarshnews18.com###widget-sidebar-279
 atalstambh.com,hakikatnews.com,mpkhabar.com###widget-sidebar-3
 khabarpradesh.com###widget-sidebar-4
+indiatv18.com###widget-sidebar-7
 samakalikamalayalam.com###widget-topads
 gujaratvaibhav.com###widget4
 ekattor.tv###widget_623
