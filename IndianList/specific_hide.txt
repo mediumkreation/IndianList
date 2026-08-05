@@ -150,6 +150,7 @@ nalandalive.com###bdaia-widget-html-4
 nalandalive.com###bdaia-widget-html-5
 saghatanews.com###before-ad
 lokmat.com,lokmatnews.in###beforehead
+lokmat.com###beforehead-desktop
 jalorenews.com###bellow-header-widget
 eveningkerala.com,newscg11.com###below-header
 andhrajyothy.com###belowArticleBodyAdsDiv
