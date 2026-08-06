@@ -1410,7 +1410,6 @@ fns24.com##.ar_ads
 heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
 viralsach.online##.article-content h4 img
-helloswasthya.com##.article-desktop-ad-container
 newsnationtv.com##.article-page-ads
 tamil.mykhel.com##.article-tag-content:has(> .oiad)
 moviemax.in##.articleText > center > div
@@ -1755,6 +1754,7 @@ amaderkhobor24.com##.country-add
 shoutmehindi.com##.coupon_dealtop
 creativenewsexpress.com##.creat-content
 keralakaumudi.com##.cs-sec-feat-title
+helloswasthya.com##.css-17600um
 indiapolkhol.in##.ct-header-text
 fonijkorea.net##.ctUp-ads
 chhapratoday.com##.ctads-ad-wrap
@@ -1925,8 +1925,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
@@ -3975,6 +3975,7 @@ aagyakhabar.com,emadheshtoday.com,garimakhabar.com,nagarikpana.com,publicsandesh
 ekhabarnet.com##[class*="__ads"] img
 morbiupdate.com,narayanganjerkhabar.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
+helloswasthya.com##[class*="ad-article-"]
 navbharatlive.com##[class*="ad-banner-"]
 navarashtra.com##[class*="ad-banner-acs"]
 thejbt.com##[class*="adHide"]
@@ -4313,7 +4314,6 @@ cinejosh.com#?#div:has(> b:-abp-contains(Ads))
 cityandolan.com#?#div[data-slot="460008"] div:-abp-has(> div > div > a > div > h6:-abp-contains(Ad |))
 cityliveindia.com#?#div:-abp-has(> .main-heading:-abp-contains(Advertizement))
 countrynewstoday.com#?#.td-block-title > span:-abp-contains(Advertisement)
-helloswasthya.com##css-17600um
 dailyharyananews.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-abp-contains(Ad |))
 dainikhawk.com#?#[class*="bg-gray"]:has(> p:-abp-contains(Advertisement))
 dainikhindmitra.com#?#.widget_text:has(strong:-abp-contains(Advt.))
