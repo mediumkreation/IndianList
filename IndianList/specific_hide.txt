@@ -1925,8 +1925,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
@@ -3171,6 +3171,7 @@ hindmorcha.in##.stream-item-widget:not(#stream-item-widget-4)
 khabriadda.in##.stream-item-widget:not(#stream-item-widget-6)
 jabalpurdarpan.in##.stream-item.content-only
 dainikmaharajganj.in##.stream-item.half-box
+mediapoint24.com##.stream-item:not(#tie-block_2580)
 banglarjanapad.com##.stream-item:not(#tie-block_309)
 youthmukam.com##.su-image-carousel
 nellaionline.net##.sub_new:not(.sss)
@@ -3697,7 +3698,7 @@ pathivaranews.com##.widget_media_image:not(#media_image-29)
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
 divyadarpan.com##.widget_media_image:not(#media_image-38)
 vanakkamlondon.com##.widget_media_image:not(#media_image-38):not(#media_image-39)
-groundzeroenews.co.in##.widget_media_image:not(#media_image-4)
+groundzeroenews.co.in,mediapoint24.com##.widget_media_image:not(#media_image-4)
 crimebarta.com##.widget_media_image:not(#media_image-40)
 dainiklumbini.com,hind24tv.in,khabarwala.news##.widget_media_image:not(#media_image-5)
 uttarakhandfirst.com##.widget_media_image:not(#media_image-5):not(#media_image-3)
@@ -4838,7 +4839,7 @@ buxarkhabar.com,buxaruptodate.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
 indiareportertoday.com##figure[id^="attachment"]
 sankeerthanam.com##footer .widget-area
-mediapoint24.com,westerntimesnews.in##footer .widget_media_image
+westerntimesnews.in##footer .widget_media_image
 dailyinshort.com##footer > center img
 capitallivenews.com##footer ~ ul.images
 brandbharat.com##gnsu-Iframe
