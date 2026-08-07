@@ -4232,7 +4232,7 @@ pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 haryanaekhabar.com##a[rel*="sponsored"]
-rojgarmanch.com,sylheterjanapad.tv##a[target="_blank"] > img
+news4himachal.in,rojgarmanch.com,sylheterjanapad.tv##a[target="_blank"] > img
 ajkerarban.com##a[target="_blank"] > img[style="width:100%"]:not([src*="SAVE_20240509_124038.jpg"])
 abitfar.com,amarbarta.com,bizmandu.com,deshantarnews.com,news71.com,newsnepal.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 bankingkhabar.com##a[target="_blank"] img:not([src*="icons"])
