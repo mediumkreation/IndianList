@@ -1925,8 +1925,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
@@ -4809,6 +4809,7 @@ kalerkotha.com##div[style^="min-width"]:has(img[alt^="ad"])
 sunnews24x7.com##div[style^="padding: 25px 25px 90px 25px;"]
 sylhetview24.news##div[style^="width: 728px; height: 90px;"]
 bdtimes365.com##div[style^="width:320px; height: 260px!important; float: right;"]
+dkkhabar.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 doonhorizon.in#?#.colombiaonesuccess > div:-abp-has(> div > div > a h5:-abp-contains(Ad |))
 dtvbangla.com#?#p:-abp-contains(Advertisement)
 emalayalee.com#?#section:has(> .w-full > div > div > span:-abp-contains(Sponsored))
