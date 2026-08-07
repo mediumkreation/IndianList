@@ -2818,6 +2818,7 @@ shariatpurnews24.com##.py-1 .w_lead
 dailynarayanganjerdak.com##.py-1 > a img
 thelallantop.com##.py-2
 surgujasamay.com##.py-2 .img-fluid
+real4news.in##.py-2 > img
 cityhulchal24x7.in##.py-2 img
 sunamganjerkhobor.com##.py-3
 sharebazarnews.com##.py-4 .text-lg
@@ -4171,6 +4172,7 @@ onsnews.com##a[href*="hons.com"]
 newslabz.com##a[href*="href.li"]
 himachalnewsdaily.com##a[href*="iffco.in"]
 banglarkonthosor.com##a[href*="itcornerbd"] img
+real4news.in##a[href*="itechnosoft.in"] img
 jugantor.com##a[href*="jamunagroup.com.bd"]:only-child
 anandalok.com##a[href*="jeevansathi.com"]
 divaina.lk##a[href*="kandos.lk"]
