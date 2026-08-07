@@ -453,7 +453,7 @@ agrilife24.com###main-body .custom
 lankadawasa.com###main-content + aside > .widget_media_image
 ibn24x7news.com,theexclusivestory.com###main-content .e3lan
 skknews.in###main-content .et_pb_gallery_image
-skknews.in###main-content .et_pb_image
+avadhtimes.com,skknews.in###main-content .et_pb_image
 punalurnews.blogspot.com###main-top
 mbd24.com###main_ad1
 abnews24.com###main_content .d-sm-block
@@ -1056,7 +1056,6 @@ dainikayodhyatimes.in##.ad-close
 chatganrbani.com,dailykaratoa.com,dinamani.com,hulchalnews24.com,ichowk.in,nethnews.lk,news18.com,pangighatidanikapatrika.in,saralpatrika.com,uttorbangla.com,vaartha.com##.ad-container
 cityliveindia.com,samaynews24.com##.ad-div
 bagmativoice.com##.ad-home
-avadhtimes.com##.ad-image1
 ehimalayatimes.com,nepalmamila.com,newsroomme.com,shubhakhabar.com##.ad-img
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
 amarujala.com##.ad-mb-app
