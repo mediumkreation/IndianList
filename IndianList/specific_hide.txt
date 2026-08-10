@@ -315,6 +315,7 @@ dvgsuddi.com,jaunpur24.com,khelarpata.com,thesunrisetoday.com###custom_html-10
 arya-tv.com,bbttimes.com,deshkiaawaz.in,dvgsuddi.com,jharkhandsandesh.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 atozjnews.com###custom_html-112
 jugerbarta.online,newsplusmail.com,thesunrisetoday.com,ujiarpurnews.com###custom_html-12
+nrsewa.com###custom_html-123
 ausamachar.com,bharatnewsservice.com###custom_html-13
 goindianews.com###custom_html-14
 bhaskarenews.com,crimekhabar.live,jonopotro.com,tejalgyannews.com###custom_html-15
@@ -855,12 +856,12 @@ punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 chandpurtimes.com###text-67
 bigkhabar.com###text-69
-aajkiawaaz.com,barisaltoday.com,bdtodays.net,brajpatrika.com,chakarianews.com,ekhansangbad.com,hastakshep.com,indiawarta.com,jagprerna.com,jhanjhattimes.com,kalmunainet.com,kholabazar24.com,lenseyenews.com,manikganj24.com,nrsewa.com,scnnewsindia.com,whitemirchi.com,youngorganiser.com###text-7
+aajkiawaaz.com,barisaltoday.com,bdtodays.net,brajpatrika.com,chakarianews.com,ekhansangbad.com,hastakshep.com,indiawarta.com,jagprerna.com,jhanjhattimes.com,kalmunainet.com,kholabazar24.com,lenseyenews.com,manikganj24.com,scnnewsindia.com,whitemirchi.com,youngorganiser.com###text-7
 sylhetnewsbd.com###text-7 .size-full
 hindustanlivetoday.com,southasia24x7.com###text-7 iframe
 bdmetronews24.com###text-71
 mbmnewsnetwork.com###text-74
-dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,nrsewa.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,sylhetnewsbd.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
+dainikchintak.com,ekhansangbad.com,gazarianews.com,harinayak.in,himshimlalive.com,hindustanlivetoday.com,indianewsviral.co.in,joyparajoy.com,legalvoice24.com,moonamvazhi.com,muslimkural.com,sambadsaradin.com,samriddhinews.in,siwanbazar.com,sylhetnewsbd.com,theblastkhabar.com,voiceofshatabdi.com,vyavasthadarpan.com,westerntimesnews.in###text-8
 bhadas4journalist.com,bograsangbad.com,himalayauk.org,himshimlalive.com,jagprerna.com,kholabazar24.com,kuberbhoomi.com,meherpurpratidin.com,muslimkural.com,porospor.com,sambadsaradin.com,techmahadev.com,vaarte.com###text-9
 bharatsamachartv.in###text-html-widget-14
 akjnews.com,globalnews24x7.com,thesurgicalnews.in###text-html-widget-2
@@ -1925,8 +1926,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,mpcnews.in,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com##.elementor-widget-shortcode img
