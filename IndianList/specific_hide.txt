@@ -203,10 +203,10 @@ roytarsnews.com###block-196
 bolpanipat.com,ekhabar.in,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 nishnama.com,sabkasandesh.com###block-20
 nishnama.com###block-21
-alivenews.co.in,newslab24.in###block-22
+alivenews.co.in###block-22
 buzznox.com,emandirates.com,hnn24x7.com,livepress24.com,nishnama.com,p2pnews.co###block-23
-govindia.in,hindisprout.com,hnn24x7.com,newslab24.in,vedantsamachar.in,whatinindia.com###block-24
-banglarjanapad.com,govindia.in,newslab24.in###block-25
+govindia.in,hindisprout.com,hnn24x7.com,vedantsamachar.in,whatinindia.com###block-24
+banglarjanapad.com,govindia.in###block-25
 govindia.in,organizeindia.in,uppunews.com###block-26
 knlslive.com,samvaad365.com###block-27
 wealthfreedomideas.com###block-28
@@ -227,7 +227,7 @@ nepalchurch.com###block-4 > div[align]
 creativenewsexpress.com###block-42
 shubhapallaba.in###block-43
 suprovatsydney.com.au###block-48
-hamarahimachal.com,indianvoice24.com,news127.com,newsbanglaa.com,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com,weeklyaraihazar.com###block-5
+hamarahimachal.com,indianvoice24.com,news127.com,newsbanglaa.com,newslab24.in,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com,weeklyaraihazar.com###block-5
 doiniksabujbiplob.com,natunshokal.com###block-50
 anwesantv.wordpress.com###block-52
 sunokhabar.com###block-54
