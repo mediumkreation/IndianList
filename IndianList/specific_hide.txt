@@ -1124,7 +1124,7 @@ kolomerbatra.com##.add .widget_area:has(> img)
 ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 cninews24.com,newsallbangladesh.com##.add figure
 digontonews.com##.add figure img
-71sangbad24.com,bandarbanpratidin.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailybanglasangbad.net,dailyshamolbangla.com,dainikdeshbarta.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,faridpursamachar.com,firstbdnews.net,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,rudrabarta24.net,satkhiraprotidin.net,sherpurtoday.com,shubhoprotidin24.com,silkcitynews.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
+71sangbad24.com,bandarbanpratidin.com,bartabangladesh24.com,bdgaibandha.news,bijoykantho.com,bonggonews.com,channelcox.com,chitrarpar.com,crimebd.com,dailyajkersurjodoy.com,dailyapashinkantha.com,dailybanglasangbad.net,dailyshamolbangla.com,dainikdeshbarta.com,dainiksomoyerbangladesh.com,dakhinbongonews25.com,faridpursamachar.com,firstbdnews.net,gabtalisangbad.com,haor24.net,jagannathpur24.com,jagratajanata24.com,kansatnews24.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com,mvoice24.com,newsbijoy.com,newsvob.com,nirjatitonewsbd.com,onnodristy.com,pabnamail24.com,paharechok.com,prbnews24.com,protisomoy.com,quicknewsbd.com,rudrabarta24.net,satkhiraprotidin.net,sherpurtoday.com,shubhoprotidin24.com,silkcitynews.com,unlimitednews24.com,updatebarta24.com,vinnabarta.com##.add img
 barisalsangbad.com,lightnewsbd.com##.add img.size-full
 dailyrajbarikantha.com##.add img:not(.wp-image-1158)
 songbadsarakkhon.com##.add img:not(.wp-image-18706):not(.wp-image-22177)
@@ -3003,6 +3003,7 @@ dhadingpost.com##.single-content p~figure.wp-block-image
 aayokhabar.com##.single-content ~ p
 channelcox.com##.single-ditails + .add .widget_area
 sylheterchakrirkhabar.com##.single-ditails div[style^="float"] > img
+bartabangladesh24.com##.single-ditails img
 somajerchitro.com##.single-dtls > p img
 bholahatchitro.com##.single-dtls a[href*="accbuysell.com"]
 odekhabishwo.com,paribahanjagot.com##.single-dtls img
