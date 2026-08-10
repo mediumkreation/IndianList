@@ -1905,7 +1905,7 @@ thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
 dailybanglarchokh.com##.elementor-widget-image > a img:not([src*="banglarchokhLogo.png"])
 dailybanglarchokh.com##.elementor-widget-image > img:not([src*="banglarchokhLogo.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
-jagratbharatnews.in##.elementor-widget-image img
+jagratbharatnews.in,sinhala.mawratanews.lk##.elementor-widget-image img
 sonalibangla.com##.elementor-widget-image img:not([src*="300-x-100-px-e1722257913795.png"])
 pokharacity.com##.elementor-widget-image img:not([src*="About-pokhara"])
 namastenri.net##.elementor-widget-image img:not([src*="Logo-1.jpg"])
