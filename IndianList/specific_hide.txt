@@ -2875,6 +2875,7 @@ newssanjal.com##.row.mb-30
 timetvusa.com##.rt-post-slider-style1
 hindi.mykhel.com,tamil.mykhel.com##.rt-top-ad
 shomoynews24.com,shomoynews24.net##.sa-ad
+bortomanbangladesh24.com##.sadabody .text-center
 prernanews.com##.sadv
 promisenews24.com##.safe_life:has(> .textwidget)
 mangalorean.com##.sam-pro-ad
