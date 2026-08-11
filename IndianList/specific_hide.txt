@@ -2176,7 +2176,7 @@ manasmediaonline.com##.header-adds
 chirantannews.in,divyalive.com#@#.header-ads
 alaikal.com,bengaluruvartha.in,bharatnewsservice.com,dearfacts.com,doabatimes.com,gujaratmirror.in,jugerbarta.online,malayalamdailynews.com,sunlightnews.in,vismayamadyama.com##.header-ainfo
 ajkerbd24.com,dainikvatibangla.com##.header-baner
-71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,dailysuraj.com,ekuruvi.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,kanvkanv.com,khabardev.com,mathuranews24.com,medianow.in,newsfry.com,odishatime.com,onlinespardha.com,punjabinfoline.com,rashtrasamvad.com##.header-banner
+71bdnews.net,anbnews24.com,biharnews7.com,chandpurreport.com,dailysuraj.com,ekattornews.com,ekuruvi.com,ghatail.com,ishwardinews24.net,jaihindtimes.in,jokhimnews.com,kanvkanv.com,khabardev.com,mathuranews24.com,medianow.in,newsfry.com,odishatime.com,onlinespardha.com,punjabinfoline.com,rashtrasamvad.com##.header-banner
 cgmitan.com,timetvusa.com##.header-before-ad
 corporatenepal.com##.header-bigyapan
 rojanapunjab.com##.header-centerbar-ad
@@ -3614,7 +3614,7 @@ diptonews24.com##.widget_area .attachment-full
 dainikparibarton.com##.widget_area .textwidget p img
 pollysoktybarta.com##.widget_area .wp-block-image img:not(.wp-image-72)
 dainikcampus.com##.widget_area > .textwidget
-71sangbad24.com,dailybahadur.com,dailynotunsongbad.com##.widget_area > img
+71sangbad24.com,dailybahadur.com,dailynotunsongbad.com,ekattornews.com##.widget_area > img
 bdsaradin24.com,ujjibitobd.com##.widget_area figure img
 banglaralonews.com##.widget_area img
 daynikekusherbani.com##.widget_area img:not(.wp-image-1166)
