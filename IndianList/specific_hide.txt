@@ -3954,7 +3954,6 @@ ramroonline.com##[alt="RG Creations - Vertical Ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 kashishnews.com##[alt="add image"]
 nepaltoday.com.np##[alt="add"]
-agamirsomoy.com##[alt="advertisement"]
 nepaltimes.net##[alt="body Ad"]
 southlive.in##[aria-label="Advertisement"]
 newsplus21.com##[class$="-ad"]
@@ -4240,7 +4239,7 @@ telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2
 haryanaekhabar.com##a[rel*="sponsored"]
 news4himachal.in,rojgarmanch.com,sylheterjanapad.tv##a[target="_blank"] > img
 ajkerarban.com##a[target="_blank"] > img[style="width:100%"]:not([src*="SAVE_20240509_124038.jpg"])
-abitfar.com,amarbarta.com,bizmandu.com,deshantarnews.com,news71.com,newsnepal.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
+abitfar.com,agamirsomoy.com,amarbarta.com,bizmandu.com,deshantarnews.com,news71.com,newsnepal.com,notunalo24.com,shubhoprotidin24.com,weeklybangladeshusa.com##a[target="_blank"] img
 bankingkhabar.com##a[target="_blank"] img:not([src*="icons"])
 bharatiyadigitalnews.in##a[target="_blank"] img:only-child
 ichchhakamananews.com##a[target="_blank"] img[alt="images"]
