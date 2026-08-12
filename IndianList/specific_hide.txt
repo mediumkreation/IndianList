@@ -4083,6 +4083,7 @@ tamil.samayam.com##[id^="trc_wrapper"]:has(div .link-adc)
 uttarakhandexpressnews.com##[id^="uttar-"]
 vindhynews.com##[id^="vindh-"]
 crimeexpress.net##[style*=" min-height:"]
+zoombangla.com##[style*="--vionixai-ad-h:250;"]
 ejalalabad.com##[style*="height: 800px;"]
 digitalpati.com##[style*="height:200px;"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
@@ -4827,7 +4828,6 @@ fashionnewsera.com#?#div[id^="AS_O_LHS_1"] > div:-abp-has(> div > div > a>span:-
 indiaaajkal.in##figure .vc_single_image-img
 thepublictoday.com##figure .widget-image-caption
 lalmonibarta.com##figure > iframe
-zoombangla.com##figure > img.entered
 devinenewz.com,newschai.com,thebanglareport.com##figure img.tie-appear
 khabreelal.com##figure.mt-6:has(> [style^="border"])
 dailysobujbarta.com##figure.vc_figure

@@ -172,6 +172,7 @@
 @@||udayanadu.com/images/ads/$domain=udayanadu.com
 @@||udghoshdaily.com/images/advertisement/2023/737943fc784e2ee0d887fd195c843e87.gif
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
+@@||zoombangla.com/wp-content/themes/zoombangla-home-news-3/assets/ads/zoombangla-facebook-follow-300x78.webp
 __add$domain=natuncumilla.com
 _Ad.gif|*$domain=farakdhar.com
 _ad.jpeg|$domain=usamibanglanews.com
@@ -4692,3 +4693,4 @@ perfection-ias-upsc$domain=nextbihar.com
 ||zoftcdn.com^*/citysun.jpg
 ||zoftcdn.com^*/vesta.jpg
 ||zoombangla.com/jamuna/
+||zoombangla.com/wp-content/themes/zoombangla-home-news-3/assets/ads/
