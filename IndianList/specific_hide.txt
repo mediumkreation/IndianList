@@ -2445,7 +2445,7 @@ nayabishwo.com##.long-add
 hamrokhabar.com##.long__ads
 nationalpowernews.com##.long_ads1
 postpati.com##.long_adv
-swnews24.com##.longad
+dailyictnews.com,swnews24.com##.longad
 newsdoor.net##.lrads
 lankasri.com##.lsb-blurb-sections
 haryanakranti.com##.m-116
@@ -3464,7 +3464,7 @@ specialcoveragenews.in##.top_level_1
 livevns.news##.top_madd
 nrimalayalee.com##.top_most_news_post_ad
 abnews24.com,alokitobangladesh.com##.top_new_add
-bojrokontho.com,gujarattimesusa.com,nepaljapansamaj.com,shabdonews24.com,swnews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
+bojrokontho.com,dailyictnews.com,gujarattimesusa.com,nepaljapansamaj.com,shabdonews24.com,swnews24.com,teesarakhamba.com,vijaykarnatakaepaper.com##.topad
 kulalaworld.com,kulalworld.com##.topadd
 rosemalayalam.com##.topaddno
 mediavision.news##.topaddsctn
