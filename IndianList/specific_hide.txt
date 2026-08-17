@@ -2138,6 +2138,7 @@ iconkhabar.com,ourbiratnagar.net##.gofollow
 gorkhapatrika.com##.goji-advertisement
 kharitatsandesh.com##.google-add
 natunsomoy.net##.google-ads-banner
+thegujaratreport.com##.google-auto-placed img
 onlinepatrakar.com##.googleAdBlock
 timenews.co.in##.google_ads_section
 sakshi.com##.google_ads_wrap
