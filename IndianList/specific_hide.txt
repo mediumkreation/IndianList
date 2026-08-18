@@ -1794,6 +1794,7 @@ dailyinqilab.com##.d-sm-block.my-3
 mzamin.com##.d-sm-flex
 mzamin.com##.d-sm-none.d-block:not([class^="co"])
 mzamin.com##.d-sm-none.d-flex
+dailyposttv.in##.daily-news-content-ad
 esidhakura.com##.daraz-ad
 telugusmtv.com##.data-area2 .heading
 khulasanewslive.in##.dce-dynamic-posts-collection
