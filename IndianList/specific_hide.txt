@@ -2661,6 +2661,7 @@ alertstarnews.com##.newsletter
 mpheadline.com,satyagrahanews.in##.newsmatic-advertisement-block
 tamil.thesubeditor.com##.newspage-ad-top
 bishwanathbd24.com##.newspaper-advertisement
+newsindia24x7.in##.newsphere-widget.shortcodes-ultimate
 daktimesnews.com##.newsphere-widget.widget_text:not(#text-5)
 newsstump.com##.newss-adlabel
 onlinekhabar.com##.nh_widget_wrap
