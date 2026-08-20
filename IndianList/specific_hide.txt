@@ -5126,7 +5126,7 @@ tv20news.in#?#p:-abp-contains(Advertisement)
 twentyfournews.com#?#div:-abp-has(> span:-abp-contains(Advertisement))
 aajkasach.in##ul.post h3.widget-title
 unitednewskannada.com#?#.single_sidebar:-abp-has(> h2 > span:-abp-contains(advertisement))
-upuklive.com#?#.gb-container:-abp-contains(Advertisement)
+upuklive.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 uthayannews.ca#?#.widget_text:-abp-has(.widget-title > span:-abp-contains(Advertising))
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(div-gpt-ad > div > div > a> div *:-abp-contains(Ad:) )
