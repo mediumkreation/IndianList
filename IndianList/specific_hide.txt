@@ -199,7 +199,7 @@ jogiexpress.com###block-176
 24hrnews.in###block-178
 keralatimes.com,viewpointjharkhand.com###block-19
 roytarsnews.com###block-196
-bolpanipat.com,ekhabar.in,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
+bolpanipat.com,devbhumijknews.in,ekhabar.in,hamdardtv.com,hellomaharashtra.in,khabriyanews.com,kulalworld.com,shottoboyan.com,shottoboyan24.com,siwanbazar.com,thedastak24.com,uluberiasambad.in###block-2
 nishnama.com,sabkasandesh.com###block-20
 nishnama.com###block-21
 alivenews.co.in###block-22
@@ -1414,6 +1414,7 @@ heronewsonline.com##.article-container
 mbdwebnews.com##.article-content .ml-slider
 viralsach.online##.article-content h4 img
 newsnationtv.com##.article-page-ads
+devbhumijknews.in##.article-sponsored-block
 tamil.mykhel.com##.article-tag-content:has(> .oiad)
 moviemax.in##.articleText > center > div
 hellobanswara.com##.article_text-content figure
@@ -2256,6 +2257,7 @@ deshprotikhon.com##.home-page-ads a:not([href*="deshprotikhon.com"])
 chttoday.com##.home-page-top-right-add
 tamilcnn.lk,tamilcnnlk.com##.home-section-ad
 biniyogbarta.com##.home-sidebar-banner
+devbhumijknews.in##.home-slider-slot
 muhurtham.com##.home-small-ad
 amarbarta.com.bd##.homeTop .w-100
 news71online.com,shamolynews24.com##.home_last_ad
