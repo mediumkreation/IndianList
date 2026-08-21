@@ -3798,6 +3798,7 @@ pragatitimes.com##.wp-block-image:has(> .wp-image-417)
 hnexpress.co.in##.wp-block-jetpack-slideshow
 haryanakiaawaz.in,theinternalnews.co##.wp-block-jetpack-tiled-gallery
 asr24.news,biswabanglanews.com##.wp-block-ultimate-post-image
+liveindia24x7.in##.wp-block-ultimate-post-image img:not([src*="WhatsApp-Image-2026-02-13-at-12.51.52.jpeg"])
 chamaktabharat.com,malayaleepathram.com.au,pplnews.in##.wp-custom-header
 udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
