@@ -209,7 +209,7 @@ banglarjanapad.com,govindia.in###block-25
 govindia.in,organizeindia.in,uppunews.com###block-26
 knlslive.com,samvaad365.com###block-27
 wealthfreedomideas.com###block-28
-checkpostnews.com,dharmwani.com,khabarmantra.in,khabarok.com,lokswar.in,mobilenews24.com,news1hindustan.com,newsnukkad.com,newswayanad.in,northindiastatesman.com,ram-krishna.com.np,sanatanjan.com###block-3
+checkpostnews.com,dharmwani.com,khabarmantra.in,khabarok.com,lokswar.in,mobilenews24.com,news1hindustan.com,newsnukkad.com,newswayanad.in,northindiastatesman.com,ram-krishna.com.np,rongilibarta.com,sanatanjan.com###block-3
 wealthfreedomideas.com###block-30
 aisakya.in,thebharatheadlines.com###block-31
 aisakya.in,samvaad365.com###block-32
@@ -3741,6 +3741,7 @@ karmakshetratv.com##.widget_slideshow
 a4applenews.com,awaznews24x7.com,biharharpalnews.com,mediasaheb.com,newindiatimes.news,sadeaalaradio.co.nz##.widget_smartslider3
 educationpati.com,janapatrika.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
+rongilibarta.com##.widget_sow-image:not(.panel-first-child)
 starvrutta.com##.widget_sow-slider
 ausnepalnews.com,samajkoawaj.com##.widget_sp_image
 dainikazadi.net##.widget_sp_image:not(#widget_sp_image-2)
