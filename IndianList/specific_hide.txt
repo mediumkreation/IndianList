@@ -271,6 +271,7 @@ crimejunction.com###center-container .HTML
 sammanthurai24.com###center-container .widget.HTML
 badikhabar.site###center-container .widget.HTML:not(#HTML19)
 bangalorewaves.com###classlistmain
+uthayam.lk###cm-content figure.wp-block-image
 lakhokantho.com###cm-primary .elementor-widget-image
 suddi9.com###colorcontentasash3
 indiakidahad.com###colormag_125x125_advertisement_widget-1
@@ -391,7 +392,7 @@ nationaltodaylive.com###header-banner
 latestlaws.com###header-banner .text-right
 kamanakhabar.com###header-right
 allwnews.com,heronewsonline.com,indiapolkhol.in,indiawarta.com,jannewslive.com,naturalnews.co.in,newsi.in,paryavaranpost.com,uttarakhanddinmaan.com###header-right-section
-anondobarta.com,brajpatrika.com,cgimpact.org,jamalpurbarta.com,thebharatnama.com,thepunjabwire.com###header-right-sidebar
+anondobarta.com,brajpatrika.com,cgimpact.org,jamalpurbarta.com,thebharatnama.com,thepunjabwire.com,uthayam.lk###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 thedailybarta.com###header-section .my-1
 sankhnaad.com###header-widget
