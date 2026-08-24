@@ -1436,6 +1436,7 @@ digitalkhabar.com##.avenews-widget-image
 newshubinsight.in##.avt_masterslider_el
 kabirkiawaz.in##.avv_custom
 ittefaq.com.bd##.aw320
+keelainews.in##.awac > figure img
 dnewsnetwork.in##.awac img.image
 digitalkhabar.com##.awac-wrapper
 newstaglive.com##.axil-banner
@@ -2204,6 +2205,7 @@ dailyreportbd.com,tamilcinetalk.com##.header-top-right
 ekantipur.com##.header-top-spo
 unb.com.bd##.header-upper .pull-right
 gangalahar.com##.header-widget
+keelainews.in##.header-widget-area
 ausamachar.com##.header-widget-region
 aranaadsamachar.in,dandikaanthi.com##.header-widget-wrapper
 telugu.telugucinema.com##.header-widgets-wrapper
