@@ -254,6 +254,7 @@ thinaboomi.com###block-block-81
 prajajyothinews.com###block-pj-advt1
 subasetha.lk###block-views-ads-display-inner-block
 bongosangbad.com###bottom-ad-popup
+nawayug.com###bottom-ads-pop
 bdnewshour24.com###bottom-header-banner
 dailyamadercomilla.com###bottomadothers
 jaljalaonline.com,malayalamtodayonline.com###boxes
@@ -1039,7 +1040,7 @@ kapotham.com##.above-sidebar-wrapper
 agrasor.com##.abv-container
 ilsheypar.com##.abv-container img
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
-akhabarhub.com,amarujala.com,anmolkhabar.com,banglatelegraph.com,bengali.news18.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,darpannews.net,deepika.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,nawayug.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com,uniquesamay.com##.ad
+akhabarhub.com,amarujala.com,anmolkhabar.com,banglatelegraph.com,bengali.news18.com,bholabani.com,dailysonargaon.com,dainikalorprotidin.com,darpannews.net,deepika.com,hetaudanews.com,hetaudatoday.com,indianews.in,justnewsbd.com,keralasabdam.in,kolhabinews.com,lokkhabar.com,mazzakoonline.com,mediaoneonline.com,mymahanagar.com,newsclickbd.com,onenewsbd.com,prasashan.com,sabalpost.com,sajhakuranews.com,sunamganjerkhobor.com,swalenewsbank.com,thepowernews.com,thewall.in,tukhabar.com,uniquesamay.com##.ad
 cialive.in##.ad .carousel
 arthasansar.com##.ad > div
 ujyaaloonline.com##.ad a:not([href*="ujyaalo"])
@@ -1246,6 +1247,7 @@ nepalmanch.com##.ads img:not(.wp-image-72119)
 nagarikpati.com##.ads img:not([src*="nagarikpati-tv"])
 newscircle.in##.ads-2018
 natunsylhet24.com##.ads-bar
+nawayug.com##.ads-bucket
 bangladesherkhabor.net##.ads-center-mt
 dhakapost.com,nepalihealth.com,thenepaltoday.com##.ads-container
 bengali.indianexpress.com##.ads-div-style
@@ -1932,8 +1934,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2101,7 +2103,7 @@ baahrakhari.com,capitalnepal.com,nepallive.com##.full-bigyapan
 sylhetnewsbd.com##.full-site > .container .widget_media_image
 emountaintv.com##.full-width-bigyapan-wrapper
 biratkhabar.com##.full-with-add
-anmolkhabar.com,bagamatikhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,nawayug.com,sajhakuranews.com##.full_ad_section
+anmolkhabar.com,bagamatikhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,murchungatv.com,sajhakuranews.com##.full_ad_section
 webdunia.com##.full_ads_block
 pchelpcenterbd.com##.fullwidhtads
 unb.com.bd##.fullwidth-add
@@ -2539,7 +2541,6 @@ kannada.vartamitra.com##.mh-header-2
 marathisrushti.com,rojdin.in##.mh-header-widget-2
 janjoshnews.in##.mh-sidebar .widget_media_image
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
-nawayug.com##.mid-ad-heading
 dhakareport24.com##.mid-add
 samvetshikhar.com##.mid-adv-sec-bottom
 ekuruvi.com##.mid-had
@@ -3000,7 +3001,7 @@ ambalanews24.com##.sidebarVoteAd
 kalikadainik.com,khabarnp.com,sawalnepal.com,tarunnobd24.com,todaykhoj.com##.sidebar__ads
 dinakaran.com##.sidebar_adocde
 onlinerapti.com##.sidebar_block
-anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,lokkhabar.com,nawayug.com##.sidebar_top_Ad
+anmolkhabar.com,hetaudatoday.com,kolhabinews.com,lalkhabar.com,lokkhabar.com##.sidebar_top_Ad
 himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 prasashan.com##.sidebarad-content
 mznnews.com##.sidebars-area
