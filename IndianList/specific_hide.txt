@@ -3744,7 +3744,7 @@ khosbasbarta.com##.widget_section .add
 sangalokhabar.com##.widget_sg_advertisement_1
 satlujbiastimes.com##.widget_sisw_widget
 odishanewslens.com##.widget_slider
-karmakshetratv.com##*:has(>.ml-slider)
+karmakshetratv.com##div:has(>.ml-slider)
 karmakshetratv.com##.widget_media_image
 a4applenews.com,awaznews24x7.com,biharharpalnews.com,mediasaheb.com,newindiatimes.news,news24hourstv.com,sadeaalaradio.co.nz##.widget_smartslider3
 educationpati.com,janapatrika.com##.widget_sow-image
