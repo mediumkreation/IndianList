@@ -3803,6 +3803,7 @@ haryanakiaawaz.in,theinternalnews.co##.wp-block-jetpack-tiled-gallery
 asr24.news,biswabanglanews.com##.wp-block-ultimate-post-image
 liveindia24x7.in##.wp-block-ultimate-post-image img:not([src*="WhatsApp-Image-2026-02-13-at-12.51.52.jpeg"])
 chamaktabharat.com,malayaleepathram.com.au,pplnews.in##.wp-custom-header
+newswavejharkhand.com##.wp-image-100826
 udupitimes.com##.wp-image-102704
 newssunamganj.com##.wp-image-10388
 newssunamganj.com##.wp-image-10536
@@ -4088,6 +4089,7 @@ samachardrishti.com##[id^="news9-"]
 newsbritant.in##[id^="newsb-"]
 newskharikhari.com##[id^="newsk-"]
 newsuperbharat.com##[id^="newsu-"]
+newswavejharkhand.com##[id^="newsw-"]
 parikalanews.com##[id^="parik-"]
 pokharaviews.com##[id^="pokha-"]
 prabhatvarta.in##[id^="prabh-"]
