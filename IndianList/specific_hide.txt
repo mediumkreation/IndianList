@@ -3575,7 +3575,6 @@ enews71.com##.w-full.h-\[335px\]
 emalayalee.com##.w-full.my-2.group
 chetnamanch.com##.w-full.my-4
 gournadi24.com##.w-full.object-contain
-dainikhawk.com##.w-full.px-2
 nrn.news##.w-full.shadow-sm
 argusnews.in##.w-full:has(> .items-center > .uppercase.font-bold)
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
@@ -4016,6 +4015,7 @@ heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 cinejosh.com##[class*="googleAd"]
 chakrikhobor.com##[class*="govt-post-ads"]
+dainikhawk.com##[class*="hawk-ad-"]
 gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
