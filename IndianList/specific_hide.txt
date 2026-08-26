@@ -1935,8 +1935,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2996,7 +2996,6 @@ mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 channelindia.news##.sidebar-widget:has(.widget-body > p > img)
 crimediarybd.com##.sidebar-widget:has(> .widget-body > p:only-child )
 pardaphashnews.live##.sidebar-widget:has(> .widget-body > p> img:only-child)
-lagatar.in##.sidebar-wrap img.d-block
 velanai.com##.sidebar.s2 .AdWidget_ImageWidget
 ambalanews24.com##.sidebarVoteAd
 kalikadainik.com,khabarnp.com,sawalnepal.com,tarunnobd24.com,todaykhoj.com##.sidebar__ads
@@ -4059,6 +4058,7 @@ anugrahavision.com##[data-settings*="slideshow"]
 tamilmurasu.com.sg##[data-testid="advertisement-element"]
 sharechat.com##[href*="whistleloop.com"] img
 kannurnewsonline.in##[id$="-ad"]
+lagatar.in##[id*="_ad"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
