@@ -2751,7 +2751,6 @@ dinamina.lk,thinakaran.lk##.penci_topblock
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 chashabad.com##.pfy-ad
 jamunanewsbd.com##.photo-gellary iframe
-zeenews.india.com##.picgaladdcntr
 ceylonmuslim.com,topbharat.in##.piki-ads
 mithlahindinews.com,vasistatoday.in##.piki-ads-res
 khoborbela.com##.pitwAdv
@@ -3484,7 +3483,7 @@ mediavision.news##.topaddsctn
 boishakhinews24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
 biniyogbarta.com##.topadmid
 fonijkorea.net,nationaldetectivenews.com,ournewsbd.net##.topadrt
-banglavashi.com,dhangadhikhabar.com,zeenews.india.com##.topbanner
+banglavashi.com,dhangadhikhabar.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
 sandeshnow.com##.tophightlight_ad
@@ -3560,7 +3559,6 @@ indianewscentre.in##.video-container
 voiceofnarayanganj24.com##.video-gallery-box
 girlsglobe.in##.video-widget
 awaaz24x7.com##.video-wrap-three
-zeenews.india.com##.videoCube:has(> a[target="_blank"])
 kannada.drivespark.com,tamil.boldsky.com,tamil.filmibeat.com##.videoStyleAd
 a2znewsup.com##.videoaddwraper
 gramajyothi.com##.videowrapper.mtop20
@@ -3993,6 +3991,8 @@ ekusheysangbad.com##[class*="-banner"]:not(.culture-banner-1)
 vikatan.com##[class*="__ad"]
 aagyakhabar.com,emadheshtoday.com,garimakhabar.com,nagarikpana.com,publicsandesh.com,sagarmathakhabar.com,vanipress.com,yuwadaily.com##[class*="__ads"]
 ekhabarnet.com##[class*="__ads"] img
+zeenews.india.com##[class*="__ads_box_"]
+zeenews.india.com##[class*="__topBanner"]
 morbiupdate.com,narayanganjerkhabar.com##[class*="_ad_"]
 usharbani.com##[class*="_ads_"]
 helloswasthya.com##[class*="ad-article-"]
@@ -4627,7 +4627,6 @@ reportexclusive.com##div[id$="-ad"]
 tupaki.com##div[id$="_ad"]
 news4indiatv.com##div[id*="-ad-"]
 beauronews.com##div[id*="-ad-block-"]
-zeenews.india.com##div[id*="-mid-homepage"]
 banglatribune.com##div[id*="BT_Inner_"]
 odiagossip.com##div[id*="HP_O_LHS_3"]
 odiagossip.com##div[id*="HP_O_LHS_4"]
