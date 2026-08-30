@@ -2167,7 +2167,6 @@ nagpurtehelka.com##.haldiram
 haldwanilive.com##.haldw-widget
 myfirstshow.com##.hb-img
 haribhoomi.com##.hb-leaderboard-wrapper
-pakundiapratidin.com##.hd_banner
 alokitobarisal.com,alokitokhobor.com,alokitopahar.com,aloron71.com,coxmorning.com,dainikdesherkotha.com,daynikekusherbani.com,durnityreport24.com,jamunaprotidin.com,matrijagattv.com,nazarbd.com,swadeshsangbad.com##.hdr_banner
 dailysports24.com##.head-banner
 alivenews.co.in,ebudhabar.com##.head-main-ad
@@ -4853,7 +4852,7 @@ khabreelal.com##figure.mt-6:has(> [style^="border"])
 dailysobujbarta.com##figure.vc_figure
 ab71.tv,apnades.in,biharikhabar.in,capitalvoice.in##figure.wp-block-embed
 aajexpress.com,afnainews.com,bolanyathali.com,ehapuruday.com,ishwardinews24.net,shomoyerkhabor24.com##figure.wp-block-gallery
-aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,dainikkushtia.net,damaulionline.com,deshkiaawaz.in,eaibanglai.com,ehapurnews.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,kbckhabar.com.au,madhyabindu.com,mulkhabar.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,pakundiapratidin.com,palisirohionline.in,ratnagirikhabardar.com,samvadbharatnews.com,sansanisurag.com,sehattimes.com,suchanachautari.com,theruralpress.in,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
+aksherpati.com,apnashaharnews.com,beforeprint.in,binodonbichitra.com.bd,chandpurtelevision.com,dainikkushtia.net,damaulionline.com,deshkiaawaz.in,eaibanglai.com,ehapurnews.com,hatmakhabar.com,infokhabars.com,janasongjog.com,jonotaradalot.com,jonotatv.com,kalernatunsangbad.com,kbckhabar.com.au,madhyabindu.com,mulkhabar.com,mymensinghpratidin.com,namastepurvanchal.in,news7mannar.lk,newssarakhon.com,newswayanad.in,newswings.online,newzzdeskkannada.com,omexpress.in,palisirohionline.in,ratnagirikhabardar.com,samvadbharatnews.com,sansanisurag.com,sehattimes.com,suchanachautari.com,theruralpress.in,tirhutnow.com,unveilnewser.com,update24.net##figure.wp-block-image
 amarnarayanganj.com,betulmedia.com,dailybahadur.com##figure.wp-block-image > img
 himachalsamay.com##figure.wp-block-image img
 uskhabar.com##figure.wp-block-image img:not(.wp-image-16631)
@@ -4932,7 +4931,7 @@ trttamilolli.com##img[alt="SAT"]
 eyenewsbd.com##img[alt="ad image"]
 deshabhimani.com,knanayaworld.com,newsarchives24.com,ujyaaloonline.com##img[alt="ad"]
 kolomerkotha.com##img[alt="ad300"]
-dailyrangpur.com,dainikvatibangla.com,dinajpur24.com,durantabarta.com,kolomerkotha.com,nobojagorontv.com##img[alt="ad728"]
+dailyrangpur.com,dainikvatibangla.com,dinajpur24.com,durantabarta.com,kolomerkotha.com,nobojagorontv.com,pakundiapratidin.com##img[alt="ad728"]
 buxaruptodate.com##img[alt="add buxar"]
 buxaruptodate.com##img[alt="ads buxar"]
 aapkiummid.com,agriview24.com,manobkantha.com.bd##img[alt="ads"]
