@@ -2623,6 +2623,7 @@ citymediacg.com##.n2_clear
 nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
 naturalnews.co.in##.natur-content
+malayalam.indianexpress.com##.nav_ad_height
 shatabdinews.com##.navbar + .row
 chamaktabharat.com##.navbar-ad-section
 mannarkkadlive.com##.navbar-right
