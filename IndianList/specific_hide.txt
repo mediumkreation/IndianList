@@ -226,7 +226,7 @@ nepalchurch.com###block-4 > div[align]
 creativenewsexpress.com###block-42
 shubhapallaba.in###block-43
 suprovatsydney.com.au###block-48
-hamarahimachal.com,indianvoice24.com,news127.com,newsbanglaa.com,newslab24.in,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com,weeklyaraihazar.com###block-5
+deshpradesh.in,hamarahimachal.com,indianvoice24.com,news127.com,newsbanglaa.com,newslab24.in,newsnukkad.com,priyanews.in,rcn24bd.com,sikkimtoday.com,weeklyaraihazar.com###block-5
 doiniksabujbiplob.com,natunshokal.com###block-50
 anwesantv.wordpress.com###block-52
 sunokhabar.com###block-54
@@ -1936,8 +1936,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
