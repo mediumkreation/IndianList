@@ -444,6 +444,7 @@ swadeshnews.in###level_bottom_full
 u71news.com###logo-right
 livehindustan.com###logoBand-image
 cellitnews.com###logoright
+lalluram.com###lr-sidebar-slider-ad
 chandpurreport.com###main .code-block
 jansangathan.com###main .container
 dailynewsreport.in###main .entered:not([src*="WhatsApp-Join-Link.jpg"])
