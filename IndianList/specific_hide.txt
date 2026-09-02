@@ -327,7 +327,7 @@ muznews.online,samvadnews.com,vidarbha24news.com###custom_html-17
 balliakibat.com,canarabuzz.com###custom_html-18
 antimvikalp.com,bharatnewslive24.in,ggsnews24.com,samachardarshan24.com,tejalgyannews.com,ujiarpurnews.com###custom_html-19
 amritvarshanews.in,bd24views.com,bundelkhandvoice.com,buxaruptodate.com,comillait.com,crimekhabar.live,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hapurhulchul.com,hastakshep.com,hdhrm.com,hindustan18.com,jagrotobangali.com,janamanas.com,janawajnewslive.com,januday.com,khabarexpert.in,kishorgonj.com,kushtiabd.com,live7tv.com,livepress24.com,matribhumisamachar.com,mediasaheb.com,minoritiesnews.com,muthalvannews.com,navyugsandesh.com,newschutney.com,oktelugu.com,punjabbaani.com,rajarhatbd.com,ramprahar.com,revoi.in,samacharmedia.com,satnanews.net,saurashtratimes.in,sbdnews24.com,tamilvoicenews.com,todayindia.com,vedsansar.com,webakhbar.in###custom_html-2
-bhorvaibhav.com,ujiarpurnews.com###custom_html-20
+bhorvaibhav.com,mediahousepress.com,ujiarpurnews.com###custom_html-20
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 newsnukkad.com###custom_html-23
 saakshatv.com###custom_html-26
@@ -814,7 +814,7 @@ fatehnagarnews.com,rghnews.com,skytipsbd.com,udaipurkiran.in###text-16
 anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,akashgyanvatika.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,newsnowbangla.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
-abhibharat.com,anaicoddai.com,attachowk.com,bagerhatinfo.com,bihar.express,binodonnews24.com,bojrodhoni.com,ccnnews24.in,cgtazanews.com,cinemasthi.com,cinesnacks.net,communitynews24.com,crimenewsbd24.com,currentkhabar.com,currentnewz.in,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,inayam.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,jansamparklife.in,joyparajoy.com,karmalamadhanews24.com,komashisha.com,lokhitexpress.com,maharashtradesha.com,mediahousepress.com,moviemandu.com,moviewingz.com,news39.net,parichowk.com,parvasinewspaper.com,peoplenews.lk,postpatrika.com,ptcnetwork.ca,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,starexpress.news,thesandeshwahak.com,todayexpressnews.com,udaipurkiran.in,udaipurnewschannel.in,udayindiahindi.in,vedantsamachar.in,vijaychowk.com,yarlosai.com###text-2
+abhibharat.com,anaicoddai.com,attachowk.com,bagerhatinfo.com,bihar.express,binodonnews24.com,bojrodhoni.com,ccnnews24.in,cgtazanews.com,cinemasthi.com,cinesnacks.net,communitynews24.com,crimenewsbd24.com,currentkhabar.com,currentnewz.in,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,inayam.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,jansamparklife.in,joyparajoy.com,karmalamadhanews24.com,komashisha.com,lokhitexpress.com,maharashtradesha.com,moviemandu.com,moviewingz.com,news39.net,parichowk.com,parvasinewspaper.com,peoplenews.lk,postpatrika.com,ptcnetwork.ca,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,starexpress.news,thesandeshwahak.com,todayexpressnews.com,udaipurkiran.in,udaipurnewschannel.in,udayindiahindi.in,vedantsamachar.in,vijaychowk.com,yarlosai.com###text-2
 newsexpress18.in###text-2 img
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
@@ -1936,8 +1936,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
