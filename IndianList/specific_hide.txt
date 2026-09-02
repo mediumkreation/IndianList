@@ -2975,6 +2975,7 @@ crimenazarnews.com##.sidebar > .widget_metaslider_widget
 tamilspark.com##.sidebar > p
 cnewsvoice.com##.sidebar figure.wp-block-image
 delhilivenews.com##.sidebar-ad-card
+ktgsamacharindia.in##.sidebar-ad-grid
 tatokhabar.com##.sidebar-add
 unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
