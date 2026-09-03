@@ -1847,6 +1847,7 @@ nepal1khabar.com##.dt_navbar-right img
 gramnagarbarta.com##.dtl_section figure.image
 dailytamilnadu.com##.dtn-skyscraper
 doshdik.com##.duble_advertisement
+insurancenewsbd.com##.dummy-ads
 a2zsamachar.com##.e-con-full.jedv-enabled--yes
 sivantv.com##.e-con-full:has(> .e-widget-swiper) + .e-con-full
 inbcn.in##.e-con-inner:has(> div > .elementor-widget-image)
