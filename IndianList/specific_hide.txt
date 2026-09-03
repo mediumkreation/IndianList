@@ -4109,6 +4109,7 @@ thestellarnews.com##[id^="thest-"]
 tamil.samayam.com##[id^="trc_wrapper"]:has(div .link-adc)
 uttarakhandexpressnews.com##[id^="uttar-"]
 vindhynews.com##[id^="vindh-"]
+voiceofindia.net##[id^="voice-"]
 crimeexpress.net##[style*=" min-height:"]
 zoombangla.com##[style*="--vionixai-ad-h:250;"]
 ejalalabad.com##[style*="height: 800px;"]
