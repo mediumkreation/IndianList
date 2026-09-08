@@ -71,7 +71,7 @@ bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionn
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 adminmedia.in,battimedia.lk,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nepalmother.com,newmannar.lk,newsprahari.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
-hamaramahanagar.in,madhepuratimes.com,malabarflash.com,newmannar.lk,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
+hamaramahanagar.in,krantinews.online,madhepuratimes.com,malabarflash.com,newmannar.lk,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 evisionnews.co,gidhaur.com,inahardoi.com,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
 adminmedia.in,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,saghatanews.com,singhamnewstv.in,thattungal.com###Image7
 adminmedia.in,nepalmother.com,thattungal.com###Image8
@@ -1936,8 +1936,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
