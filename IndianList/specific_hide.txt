@@ -5028,6 +5028,7 @@ pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper
 arlivenews.com##marquee img
 meranews.com#?#p:-abp-contains(Advertisement)
 mirroruttarakhand.com#?#.widget-sidebar:has(> .widget-header > h3:-abp-contains(ADVT))
+mpjankrantinews.in#?#div[class^="gb-element"]:-abp-properties(min-height)
 munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 myagdikali.com#?#.site-main > div:-abp-contains(Advertisement)
 namastepurvanchal.in#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Advertisement))
