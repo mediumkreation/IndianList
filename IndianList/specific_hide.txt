@@ -1936,8 +1936,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2621,6 +2621,7 @@ news13.in##.n13_home_adv5
 24webnews.com,angultv.com,ausamachar.com,bangabarta.com,bihardainik.com,canadauthayan.ca,mahadbd.com,malayalamuk.com,mptodaynews.com,smarthalchal.com,swarajyasanvad.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 e24bollywood.com##.n24_ads_div_title
+hindi.news24online.com##.n24_vdo_div_title
 citymediacg.com##.n2_clear
 nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
