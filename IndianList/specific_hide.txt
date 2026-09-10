@@ -2828,7 +2828,7 @@ asomiyapratidin.in,kalakaumudi.com,mayapuri.com,sathyamonline.com##.publive-dyna
 odishareporter.in##.publive-dynamic-container:has(> div[id^="div-gpt-ad-"])
 sambad.in##.publive-dynamic-container:has(div[id^="div-gpt-ad"])
 nakkheeran.in##.publive-slot-span
-bangabarta.com,cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
+bangabarta.com,cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,pratidindaily.com,samajjagran.in,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
 punjabnewslive.co.in##.punja-widget
 indiatimes.com##.pwa-deals
 news18.com##.pwa_add
