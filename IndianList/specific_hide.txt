@@ -2703,7 +2703,7 @@ newskranti.com##.ob-cards
 elugutips.in,hinditips.com,tnilive.com##.obi_random_banners_posts
 priyo.com##.offer_grid
 oneindia.com,tamil.filmibeat.com##.oi-adblock
-marathi.oneindia.com##.oi-onam-spons
+malayalam.oneindia.com,marathi.oneindia.com##.oi-onam-spons
 oneindia.com##.oi-sponsored-by-wrap
 tamil.mykhel.com,tamil.oneindia.com##.oiad
 newsbrahmanbaria.com##.oit-ad-code
