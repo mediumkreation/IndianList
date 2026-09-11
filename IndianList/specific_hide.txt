@@ -3739,6 +3739,7 @@ channel6bd.com##.widget_media_image:not(.media_image-50):not(.media_image-54)
 galaxyinformer.com##.widget_media_video:not(#media_video-4)
 himwantpradeshnews.com##.widget_media_video:not(#media_video-7)
 aapabhitak.tv,apradhprahari.in,bbcindianews24.com,bntlive.com,brajpatrika.com,charchitbihar.com,cityhalchal.com,ghumtidunia.com,globalnews24x7.com,hindsagarplk.com,hkgnews247.com,independentcitizennews.com,indianopinionnews.com,indiasamachar24.com,janmatexpress.in,khabarwala.news,livesamachar.live,livestorytime.com,makdaiexpress24.com,networktimes.in,newsvartaindia.in,odishastatenews.in,pinakatimes.com,rbnewsindiagroup.com,sabkajammukashmir.com,surgujasamay.com,swatantraawam.in,timesandspace.com,tv20news.in,up18news.com,upnewsexpress.com,usmalayalees.com##.widget_metaslider_widget
+kaalpriyanews.com##.widget_metaslider_widget:not(#metaslider_widget-4,#metaslider_widget-5)
 news-punjab.com##.widget_mts_widget_adcode
 samabesi.com##.widget_namo_advertisement
 rajsamandtimes.com##.widget_news_magazine_adsens
