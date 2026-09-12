@@ -1850,6 +1850,7 @@ gramnagarbarta.com##.dtl_section figure.image
 dailytamilnadu.com##.dtn-skyscraper
 doshdik.com##.duble_advertisement
 insurancenewsbd.com##.dummy-ads
+lokshahi.com##.dynamic-container
 a2zsamachar.com##.e-con-full.jedv-enabled--yes
 sivantv.com##.e-con-full:has(> .e-widget-swiper) + .e-con-full
 inbcn.in##.e-con-inner:has(> div > .elementor-widget-image)
@@ -2859,7 +2860,7 @@ khagracharipratidin.com##.relative:has(img[src*="/ads/"])
 filmibeat.com##.removeStyleAd
 amarujala.com##.remove_ad_class
 anytechtune.com##.reseller-add
-malayalam.indianexpress.com,nakkheeran.in,newsfirstlive.com##.responsive-ad-css
+lokshahi.com,malayalam.indianexpress.com,nakkheeran.in,newsfirstlive.com##.responsive-ad-css
 rastriyadaily.com##.rg-advertisement-long-horizontal
 rastriyadaily.com##.rg-side-adv
 inkhabar.com##.rgtSideAdert_main
@@ -4536,7 +4537,7 @@ prabhatkhabar.com##div[class*="items-center"]:has(> div[id^="div-gpt-ad-"])
 khabarbit.com##div[class*="jeg_ad"]
 telugu.filmibeat.com##div[class*="kan-ad"]
 jhabuanews.in##div[class*="kitsune-advert"]
-lokshahi.com,navjivanindia.com##div[class*="m__ad"]
+navjivanindia.com##div[class*="m__ad"]
 kalkionline.com##div[class*="m__ad-"]
 navjivanindia.com##div[class*="m__dfp"]
 deshdoot.com,saamtv.esakal.com,sarkarnama.esakal.com##div[class*="m_ad-slot"]
