@@ -3974,6 +3974,7 @@ velkinews.com##:has(> .banner-content)
 satyamevtv.com##:has(> .metaslider)
 agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
+thehindnews.com##[alt*=" advertisement"]
 samvadbharatnews.com##[alt*="Advertise"]
 lionexpress.in##[alt*="Bilonaa Art"]
 khabarpost.com##[alt="Ads"]
