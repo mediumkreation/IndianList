@@ -1939,8 +1939,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -3434,7 +3434,7 @@ pardasansar.com,uttrakhandtoday.com##.theiaStickySidebar figure.wp-block-image
 bhaskarnewsagency.com##.theiaStickySidebar:has(> [class*="_image"])
 bdsomachar24.com##.themesBazar_widget .wp-block-image
 somoyerkontha.com##.themesBazar_widget > .textwidget
-banglarchithi.com,hakkatha.com,ournews24.com##.themesBazar_widget img
+banglarchithi.com,hakkatha.com,khosbasbarta.com,ournews24.com##.themesBazar_widget img
 thepubliclivenews.in##.thepu-content
 thestellarnews.com##.thest-widget
 entevarthakal.com##.third_section_ads
@@ -3753,7 +3753,6 @@ diyopost.com##.widget_palika_advertisement
 arthosuchak.com##.widget_rftjwq
 freelancerstory.com##.widget_right .textwidget
 coxmorning.com##.widget_sec img
-khosbasbarta.com##.widget_section .add
 sangalokhabar.com##.widget_sg_advertisement_1
 satlujbiastimes.com##.widget_sisw_widget
 odishanewslens.com##.widget_slider
