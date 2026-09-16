@@ -1929,7 +1929,7 @@ newsflash24bd.com##.elementor-widget-image img:not([src*="logo-en.png"])
 youthsofbirgunj.com##.elementor-widget-image img:not([src*="logo.png"])
 udupixpress.com##.elementor-widget-image img:not([src*="new-logo.png"])
 computerbichitra.com##.elementor-widget-image-box
-chhapratoday.com,muznews.online,namastenri.net,samvad24.com,themukhbir.com##.elementor-widget-image-carousel
+chhapratoday.com,muznews.online,namastenri.net,samvad24.com,themukhbir.com,yesnewsmarathi.com##.elementor-widget-image-carousel
 hamarahathras.com##.elementor-widget-image-carousel.e-widget-swiper
 srimanexpress.digital##.elementor-widget-image-carousel:only-child
 udupixpress.com##.elementor-widget-image-gallery
@@ -3920,7 +3920,7 @@ panchjanya.com##.wpb_content_element video
 kalingajyoti.com##.wpb_content_element.vc_align_center
 indiaaajkal.in,newscrime24.com##.wpb_gallery
 canchannels.com##.wpb_gallery_slides
-cgbasket.in,mpnewscast.com,yesnewsmarathi.com##.wpb_images_carousel
+cgbasket.in,mpnewscast.com##.wpb_images_carousel
 arlivenews.com,ctgsangbad24.com,ekkhabar.online,nayabangla.com,poribortonersopoth.com,sangbaddiganta.com,ziotamil.in##.wpb_raw_code
 nayabangla.com##.wpb_raw_code + .td_block_text_with_title
 khobor71.com##.wpb_raw_code img
