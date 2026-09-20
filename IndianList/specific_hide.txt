@@ -1055,7 +1055,7 @@ chhattisgarhaaj.com##.ad--widget-no
 khullamanch.com##.ad-after-breaking
 ajmernama.com##.ad-ajmernama
 jagonatore24.com##.ad-aria
-amritsandesh.com,awamileaguetimes.com,prameya.com,rangpur.news,sahakariakhabar.com##.ad-banner
+amritsandesh.com,awamileaguetimes.com,newspuran.com,prameya.com,rangpur.news,sahakariakhabar.com##.ad-banner
 yugvartanews.com##.ad-banner img
 bizshala.com,mttvindia.com##.ad-banner-img
 dailymatribhumi.com##.ad-banner-item
@@ -2986,6 +2986,7 @@ tamilspark.com##.sidebar > p
 cnewsvoice.com##.sidebar figure.wp-block-image
 delhilivenews.com##.sidebar-ad-card
 ktgsamacharindia.in##.sidebar-ad-grid
+newspuran.com##.sidebar-ad-square
 tatokhabar.com##.sidebar-add
 unb.com.bd##.sidebar-adds-widget
 sunbd24.com##.sidebar-adv
