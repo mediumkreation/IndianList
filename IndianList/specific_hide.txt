@@ -683,6 +683,7 @@ chandpurnews.com,mithapukur24news.com,vtv24x7.com###secondary section.widget_med
 chandreknews.com###secondary section.widget_media_image:not(#media_image-23)
 hindustanrepublic.in###secondary section.widget_text
 doabatimes.com###secondary-right
+24x7breakingpoint.com###secondary.aft-sticky-sidebar
 youthexpress.in###secondaryright .widget_custom_html
 pratidinakhbar.com###services1 li.last
 nepalipaisa.com###sfSideadd .sfModulecontent > div:not(#divLatestNews)
