@@ -67,7 +67,6 @@
 /advertisments/*$domain=parchhayin.com
 /Advertizement/*$domain=biniyougbarta.com|bn.mtnews24.com|gpnnews.com
 /advisment/*$domain=kopotakkhonews24.com
-/advrtseimg/*$domain=msprotidin.com
 /advs/*$domain=streetbuzz.co.in
 /advt/*$domain=himdarshan.com|khaskhabar.com|opennewser.com
 /advts/*$domain=kayalpatnam.com
@@ -2726,6 +2725,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||mpnews360.com/wp-content/uploads/2021/03/22.jpeg
 ||mpnews360.com/wp-content/uploads/2021/11/sch.jpeg
 ||ms.lanka4.com/images/content-image/2026/01/1780911000.jpg
+||msprotidin.com/add/
 ||muglanikhabar.com/uploads/bigyaapan/
 ||muhurtham.com^*/google-smallad.jpg
 ||muhurtham.com^*/sidebar-ad.jpg
