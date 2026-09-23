@@ -2684,7 +2684,7 @@ newsindia24x7.in##.newsphere-widget.shortcodes-ultimate
 daktimesnews.com##.newsphere-widget.widget_text:not(#text-5)
 newsstump.com##.newss-adlabel
 onlinekhabar.com##.nh_widget_wrap
-hulaksanchar.com##.niti-ads
+aadarshasanchar.com,hulaksanchar.com##.niti-ads
 nepalkhabar.com##.nk-sidebar-ads
 newskannada.com##.nktv_adv
 newsbunch.in##.nm-ads-section
