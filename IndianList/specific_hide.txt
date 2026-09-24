@@ -1941,8 +1941,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -3023,6 +3023,7 @@ manithan.com##.siderbar-eds
 slogannews.com##.simple-ad
 bmnews24.net##.simple-ad img:not([src*="service_banner.jpg"])
 himalayonlinemedia.com##.simple-image
+rajbirajdainik.com.np##.simplified-ad-banner
 khabaristan.com##.single-728
 probashbarta.com##.single-add
 news71online.com##.single-block .col-sm-12 img
@@ -5118,7 +5119,6 @@ britishkairali.co.uk,cityhotnews.com,drishtinow.com,janmantra.com,jayhosh.com,ka
 newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
-rajbirajdainik.com.np##section:has(> div > .advimg)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 newsplus21.com##section[class*="ades"]
 newsmediatoday.net##section[class*="image"]:not(#media_image-2,#media_image-16,#media_image-7)
