@@ -4451,7 +4451,7 @@ dhakamail.com##div:has(> hr + .text-xs)
 janpadmirror.com##div:has(> hr.custome-br + h2)
 kalerkotha.com##div:has(> img[data-original-height][data-original-width])
 janprahar.com##div:has(> ins)
-ajkalerkhobor.com,bansalnews.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,livemagadh.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,naininews.com,natunsylhet24.com,nayanjagriti.com,patrikai.com,prime9news.com,sbnlive.net,telugugateway.com,urjanchaltiger.in##div:has(> ins.adsbygoogle)
+ajkalerkhobor.com,bansalnews.com,cinemainbox.com,doonhorizon.in,employment-news.net,jeevanutsahnews.in,khabarwani.com,livemagadh.com,localkhabar.com,marathiworld.com,maxmaharashtra.com,maxwoman.in,naininews.com,natunsylhet24.com,nayanjagriti.com,patrikai.com,prime9news.com,sbnlive.net,telugugateway.com,urjanchaltiger.in,vtvgujarati.com##div:has(> ins.adsbygoogle)
 khulnagazette.com,spnewsbd.com##div:has(> p > ins.adsbygoogle)
 punjabiherald.co.nz##div[aria-label*="-Advt-"]
 punjabiherald.co.nz##div[aria-label*=".gif"]
@@ -5172,6 +5172,7 @@ utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(div-gpt-ad > div > div > a> div 
 varchasvnews.com#?#.heading:-abp-has(> span:-abp-contains(Advt))
 visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
+vtvgujarati.com#?#.pt-2:-abp-contains(ADVERTISEMENT)
 wayanadvision.in#?#.sidebar-widget:-abp-has(> h3:-abp-contains(Ad))
 yugvartanews.com#?#center:-abp-contains(ADVERTISEMENT)
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
