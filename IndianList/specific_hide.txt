@@ -2356,7 +2356,7 @@ innews16.com##.innew-widget
 khabarmukam.com##.insd-advert
 capitalnepal.com,mahilaswasthya.com,setokhari.com##.insert-ad
 amaderbarta.net,dainikshiksha.com##.inside-ad-container
-bankura24x7.com,bhilwarahalchal.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,mediaoneonline.com,nayanjagriti.com,newstrack.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
+bankura24x7.com,bhilwarahalchal.com,hamdardmediagroup.com,janjwar.com,jantakiawaz.org,madhyamam.com,manatelangana.news,maxmaharashtra.com,maxwoman.in,mediaoneonline.com,nayanjagriti.com,newsplus21.com,newstrack.com,npg.news,rewariyasat.com,telugugateway.com,telugupost.com##.inside-post-ad
 filmchilive.com##.inside-post-ad-1
 janjwar.com,specialcoveragenews.in##.inside-post-ad-before
 anmolbharat.in##.inside-right-sidebar
@@ -2426,6 +2426,7 @@ jantaserishta.com,newstrack.com##.left_level_3
 rewariyasat.com##.left_level_3_before
 bankura24x7.com,hmtvlive.com,maxwoman.in,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
+newsplus21.com##.level_9
 deshkiaawaz.in##.lhk-ads-container
 maatram.org##.lightwidget-widget
 damaulionline.com##.list-advertisement
@@ -2470,8 +2471,6 @@ bangladeshglobal.com##.m-t-20:has(> div > div > .m-t-30)
 minnal24.com##.m24-ad-slot
 minnal24.com##.m24-ad-wrap
 71sangbad.com##.m_none > a[target="_blank"]
-newsplus21.com##.maan-breadcrumbs
-newsplus21.com##.maan-mid-bar
 angulonline.com,banglaexpressonline.com,irinjalakudalive.com,khabaribn7.com,makkalmurasu.com,thekeralapost.com,themenews24.com,uttarakhandexpressnews.com##.mag-adver-part
 mahasarkar.co.in##.mahas-widget
 odia-ray.in##.main .bannergroup
@@ -3984,7 +3983,6 @@ kashishnews.com##[alt="add image"]
 nepaltoday.com.np##[alt="add"]
 nepaltimes.net##[alt="body Ad"]
 southlive.in##[aria-label="Advertisement"]
-newsplus21.com##[class$="-ad"]
 ejanakpurtoday.com##[class$="-ads"]
 gunjankhabar.com,seroferonews.com##[class$="_ads"]
 yoyocial.news##[class*="  ad-"]
@@ -5118,7 +5116,6 @@ newsway.in##section.widget_media_image:not(#media_image-13):not(#media_image-6)
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
-newsplus21.com##section[class*="ades"]
 newsmediatoday.net##section[class*="image"]:not(#media_image-2,#media_image-16,#media_image-7)
 shyamalsylhet.com##section[class^="advertise"]
 muznews.online##section[data-id="9a0f91e"]
