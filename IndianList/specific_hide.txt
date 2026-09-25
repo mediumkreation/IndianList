@@ -901,7 +901,6 @@ shreemanglamlive.com###ucier-6
 news4live.com###ui-id-2
 tolivelugu.com###unitDivWrapper-0[style^="height:"]
 enavabharat.com###v-enavabharat-0
-grehlakshmi.com###v-grehlakshmi-0
 primestv.in###vda-4
 marunadanmalayalee.com###vdo_ai_div-0
 ghaziabadparikrama.com###video-widget-2
@@ -2831,7 +2830,7 @@ doodhmati.com##.protech_ads_sidebar
 viswamvoice.com##.psv_ad_content
 neemuchlive.com##.pt_magazine_widget_social marquee
 eisamay.com##.pubLeaderboard
-asomiyapratidin.in,kalakaumudi.com,mayapuri.com,sathyamonline.com##.publive-dynamic-container
+asomiyapratidin.in,grehlakshmi.com,kalakaumudi.com,mayapuri.com,sathyamonline.com##.publive-dynamic-container
 odishareporter.in##.publive-dynamic-container:has(> div[id^="div-gpt-ad-"])
 sambad.in##.publive-dynamic-container:has(div[id^="div-gpt-ad"])
 nakkheeran.in##.publive-slot-span
