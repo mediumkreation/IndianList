@@ -3974,6 +3974,7 @@ agrilife24.com##:not(#sp-component-area) > #sp--wrapper
 tollywood.net##[alt*=" ad"]
 thehindnews.com##[alt*=" advertisement"]
 samvadbharatnews.com##[alt*="Advertise"]
+varta24live.com##[alt*="Advertisement"]
 lionexpress.in##[alt*="Bilonaa Art"]
 khabarpost.com##[alt="Ads"]
 banijyapost.com,cgwebnews.in,madhyom.com,newscircle.in,publicnext.com,unitednewskannada.com,vorerbangladesh.com##[alt="Advertisement"]
