@@ -1940,8 +1940,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2622,7 +2622,6 @@ news13.in##.n13_home_adv5
 24webnews.com,angultv.com,ausamachar.com,bangabarta.com,bihardainik.com,canadauthayan.ca,mahadbd.com,malayalamuk.com,mptodaynews.com,smarthalchal.com,swarajyasanvad.com,thehdnews.in##.n2-section-smartslider
 khabreapki.com##.n2-ss-slider
 e24bollywood.com##.n24_ads_div_title
-hindi.news24online.com##.n24_vdo_div_title
 citymediacg.com##.n2_clear
 nagarikpatra.com##.nagar-widget
 naidunia.com##.naiWeb
@@ -3172,6 +3171,7 @@ ptcnews.tv##.story-ad-slot
 madhyamam.com##.story-ad1
 gambhirmudda.com##.story-detail-mid-add
 chandaulisamachar.com##.story-wrapper a.disabled
+hindi.news24online.com##.storyAds
 malayalam.indiatoday.in##.story__top__ad
 aajtak.in,swarnimbharatnews.com##.stoybday-ad
 dhadingpost.com##.str3
@@ -3564,6 +3564,7 @@ sachetonbarta.com.bd##.vc_widget_sidebar .td-a-rec
 eveningtimescg.com##.vc_widget_sidebar .widget_text
 indrenionline.com##.vc_widget_sidebar img
 beautynewsnepal.com##.vce-blank-module:not(#main-box-12)
+hindi.news24online.com##.vdoBox
 bhaktibharat.com##.vdo_ads
 velsmedia.com##.velsm-content
 dailyajkershomoy.com##.vertical_add
@@ -4013,6 +4014,7 @@ helloswasthya.com##[class*="ad-article-"]
 navarashtra.com##[class*="ad-banner-acs"]
 kalamlok.com##[class*="ad-container"]
 pudhari.news##[class*="ad-slot-"]
+hindi.news24online.com##[class*="adBlock"]
 thejbt.com##[class*="adHide"]
 bhilwarahalchal.com##[class*="ad_element_before_level_"]
 bongosangbad.com##[class*="add"]
@@ -4042,6 +4044,7 @@ telugunow.com##[class*="nv-ad nv-ad"]
 ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
+hindi.news24online.com##[class*="rhsAds"]
 afnainews.com,eadarsha.com,ebikalpadainik.com,hdibharat.com,livemumbaimitra.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 chetanaonline.com##[class*="single-ad-"]
