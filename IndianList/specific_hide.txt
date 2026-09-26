@@ -5062,6 +5062,7 @@ newsuniversal.in#?#.inside-right-sidebar > div > .gb-container:-abp-contains(Adv
 nobat.com#?#div:-abp-has(> small:-abp-contains(Advertisement))
 odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > h4 > span:-abp-contains(Ad:))
 odiascraps.info#?#div[id*="_O_"] > div:-abp-has(> div > div > a>div > p:-abp-contains(Ad:))
+belgaumvarta.com##p > img.size-full
 patnanow.com##p:has(> ins.adsbygoogle)
 doonited.in##p:has(ins.adsbygoogle)
 gyankidukan.com##p[style="font-size:10px"]
