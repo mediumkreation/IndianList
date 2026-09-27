@@ -2816,6 +2816,7 @@ onnews24.com##.primary-sidebar-widget:has(> .no-bg-box-model)
 makdaiexpress24.com##.primary-sidebar-widget:has(div[data-adid] > img)
 samajalive.in##.primary-sidebar-widget:has(div[data-adid])
 cgtazanews.com##.primary-sidebar-widget:not(#better-social-counter-2)
+timenews24bd.com##.primeitworld_ad_wrap
 dailyfenchugonj.com##.prl-grid .widget_black_studio_tinymce
 balaganjprotidin.com##.prl-panel .widget_text
 livehindustan.com##.prlads
