@@ -3455,7 +3455,7 @@ manatelangana.news##.to-be-async-loaded-ad:has(p[style^="text-align:center"])
 samaysandeshnews.in##.top-ad-banner-container
 kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bengali.indianexpress.com##.top-ad-height .tbl-feed-card:has(.trc-content-sponsored)
-bigkhabar.com,cricket97.com,dpcnews24.com##.top-add
+bigkhabar.com,cricket97.com,dpcnews24.com,urjakhabar.com##.top-add
 kolomerkotha.com##.top-add-img
 aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
@@ -4033,6 +4033,7 @@ jwalasandesh.com,madinews.com,mahilaswasthya.com,rangasansar.com##[class*="bigya
 amaderrajshahibd.com##[class*="bnb-ad-"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
+urjakhabar.com##[class*="common-banner-"]
 cinejosh.com##[class*="googleAd"]
 chakrikhobor.com##[class*="govt-post-ads"]
 dainikhawk.com##[class*="hawk-ad-"]
