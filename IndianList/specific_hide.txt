@@ -373,7 +373,6 @@ shikkharalo24.com###focus_slider
 malwalive.com###footer_section_1 img:not(#Image1_img)
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 gtamilnews.com,vtv24x7.com###fsb_image
-jagonews24.com###fscorecard
 khabreelal.com###full-screen-ad-popup
 pokharaexpress.com###fullScreenAd
 dishadaily.com###full_level_1_detail
@@ -1299,7 +1298,6 @@ aadarshasanchar.com,andhrabhoomi.net,bdrtnn.net,hamrakura.com,hindustanvision.co
 nepalauto.com##.adv-after-date
 chetana.live,etharasambhala.com,giridihupdates.com##.adv-area
 baghpailanews.com,gorkhalikhabar.com##.adv-box-wrap
-jagonews24.com##.adv-img
 naulonews.com,ratopati.com##.adv-item
 sunnews24x7.com##.adv-load
 amarsangbad.com##.adv-slot
@@ -4431,7 +4429,7 @@ zeenews.india.com##div:has(> [id*="-ad-"])
 raftaar.in##div:has(> [id^="div-ad-"])
 lokmatnews.in##div:has(> [id^="div-gpt-ad"])
 shortheadlines.com##div:has(> [id^="div-gpt-ad"]:only-child)
-lokmat.com,npg.news##div:has(> [id^="div-gpt-ad-"])
+jagonews24.com,lokmat.com,npg.news##div:has(> [id^="div-gpt-ad-"])
 spokesmanhindi.com##div:has(> [style="color:gray; text-align:center;"] ~ ins.adsbygoogle)
 samayduniya.com##div:has(> a > div > .pd_title)
 banijjoprotidin.com##div:has(> a >img.size-full)
@@ -4831,7 +4829,6 @@ pundrokotha.com.bd##div[pid^="10"]
 youth18.com##div[role*="CUSTOM"]
 news18.com##div[style*="300px"][style*="background"]
 sylhettoday24.news##div[style*="float:left; width:100%; "]
-jagonews24.com##div[style*="height:104px;"]
 malayalivartha.com##div[style*="height:1120px; "]
 maagulf.com##div[style*="height:260px"]
 filmykhabar.com##div[style*="margin-top: 16px; height: 80px;"]
