@@ -748,6 +748,7 @@ kulalworld.com###simpleimage-29
 kulalworld.com###simpleimage-31
 kulalworld.com###simpleimage-5
 muslimmedia.info###simpleimage-6
+bidurkhabar.com###single [target="_blank"] img
 breakingnews.com.bd###single_news_page_right_add
 rupalibangladesh.com###siteblock
 currentkhabar.com###sitebox-ad125-3
@@ -2100,7 +2101,7 @@ news18.com##.ftrad
 nepalpati.com##.full-ad-img
 uukmanews.com##.full-ad-wrp
 rastriyakhabar.com##.full-ads-wrapper
-bidurkhabar.com,samadhannews.com##.full-bann
+samadhannews.com##.full-bann
 safalkhabar.com##.full-banner
 nepalsamaya.com,prabhabonline.com##.full-bigyaapan
 baahrakhari.com,capitalnepal.com,nepallive.com##.full-bigyapan
