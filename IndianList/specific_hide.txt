@@ -1078,6 +1078,7 @@ alarmindia.in##.ad-slide
 aajkaaldaily.com##.ad-slot-reserve
 bangladesherkhabor.net##.ad-sm
 patradoot.net##.ad-spaces
+prajavani.net##.ad-text
 news24bd.tv##.ad-ticker-right
 state7online.com##.ad-title ~ *>img:not([src*="BARON-"])
 vikatan.com##.ad-top-bottom-space
@@ -1826,7 +1827,6 @@ kayakairan.com##.dialog-widget
 dailyfaridgonj.com##.digital-newspaper-advertisement-block
 biniyogbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
-prajavani.net##.dk_only
 ajakoartha.com##.dn-container
 newspr.live##.dns-caption-below
 gulfmalayaly.com##.do-space
@@ -2568,7 +2568,6 @@ jagatvichar.com##.mn-ad
 e24bollywood.com##.mob-ads
 chandaulisamachar.com##.mobSizeImg
 unishkuri.in##.mob_ad_cntr iframe
-prajavani.net##.mob_only
 news13.in##.mobadv-4
 bdsangbadpratidin.com##.mobile-ad-fifteen-widget
 capitallivenews.com,farwesttimesdaily.com,kathmandupati.com##.modal-backdrop
@@ -2763,7 +2762,6 @@ mithlahindinews.com,vasistatoday.in##.piki-ads-res
 khoborbela.com##.pitwAdv
 bdnews999.com,dailyajkerbarta.com,dailylalsabujerdesh.com,dainikkishoreganj.com,deshtime.com,dhakasomoy24.com,faridpurprotidin.com,gnewsbd24.com,kaleralo.com,priyochandpur.com,swadeshbangla24.com##.pitwAdvWrap
 knlslive.com##.pixelMainDiv
-prajavani.net##.pj-ad-card
 etharasambhala.com,hamdardtv.com##.plyr
 jamalpurlive.com##.popbox
 dhadingnews.com,dinamina.lk##.popmake-content
