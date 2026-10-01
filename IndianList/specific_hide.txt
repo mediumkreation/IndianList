@@ -692,7 +692,7 @@ aapninews.in,blivenews.com,chandaulisamachar.com,cricketkhabara.com,doonhorizon.
 5dariyanews.com###side-banner-ads
 arthikawaj.com,kapilvastupost.com,yazhnews.com###sidebar
 laxminews24x7.com###sidebar .e3lan
-chhatrapatitimes.com,navyugsandesh.com###sidebar .text-html
+navyugsandesh.com###sidebar .text-html
 farkindia.in###sidebar .text-html-box
 starsamachar.com###sidebar .text-muted
 bhorerkagoj.com###sidebar .textwidget
@@ -3359,7 +3359,7 @@ mekhadooth.com,sindhudurgsamachar.in,techvision24.com##.tdm_block img
 newsxpresslive.com##.tdm_block_image_info_box
 dhakanews24.com,digitalmalayalionline.com,mahaxpress.com,ratdinnews.net,suprobhat.com##.tdm_block_inline_image
 theprintlines.com##.tdm_block_inline_image img
-frontnewstoday.com,nalamidam.net,tazakhabar.in##.tdm_block_inline_image_simplified
+chhatrapatitimes.com,frontnewstoday.com,nalamidam.net,tazakhabar.in##.tdm_block_inline_image_simplified
 trendingnewshindi.live##.tds-button
 headlinestripura.in,tedmnews.com##.technology-section-ads
 aashanews.com##.text-4
