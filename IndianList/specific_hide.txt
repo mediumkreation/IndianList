@@ -1275,7 +1275,6 @@ epaper.lokmat.com##.ads_699
 shomoynews.net##.ads__square
 hindi.business-standard.com##.ads_box_grid
 dailyonusondhan.com,passengervoice.net##.ads_click_counter
-julmsejung.com##.ads_cot
 telugu.greatandhra.com##.ads_css_title
 padmatimes24.com##.ads_fix
 sandesh.com##.ads_new_styling
@@ -1843,7 +1842,7 @@ subhayug.com##.ds-scroll-ads
 manabadi.co.in##.dsc-banners
 fenionline.net##.dt-dynamic-banner-holder-others-dt
 jagonatore24.com##.dt-highlighted-news-2 aside.widget_text
-aeiodisha.com,dainikkhabarlayehain.com##.dt_navbar-banner-item
+aeiodisha.com,dainikkhabarlayehain.com,julmsejung.com##.dt_navbar-banner-item
 nepal1khabar.com##.dt_navbar-right img
 gramnagarbarta.com##.dtl_section figure.image
 dailytamilnadu.com##.dtn-skyscraper-slot
