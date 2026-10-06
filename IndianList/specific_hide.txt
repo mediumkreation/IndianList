@@ -3022,6 +3022,7 @@ bmnews24.net##.simple-ad img:not([src*="service_banner.jpg"])
 himalayonlinemedia.com##.simple-image
 rajbirajdainik.com.np##.simplified-ad-banner
 khabaristan.com##.single-728
+bankbimaarthonity.com##.single-ad-under-main-photo
 probashbarta.com##.single-add
 news71online.com##.single-block .col-sm-12 img
 khabaristan.com##.single-box
