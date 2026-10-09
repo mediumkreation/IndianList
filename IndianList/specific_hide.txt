@@ -3439,7 +3439,7 @@ bhaskarnewsagency.com##.theiaStickySidebar:has(> [class*="_image"])
 dailyprothomnoakhali.com##.themesBazar_widget
 bdsomachar24.com##.themesBazar_widget .wp-block-image
 somoyerkontha.com##.themesBazar_widget > .textwidget
-banglarchithi.com,hakkatha.com,khosbasbarta.com,ournews24.com##.themesBazar_widget img
+banglarchithi.com,hakkatha.com,khosbasbarta.com,muradnagarbarta24.com,ournews24.com##.themesBazar_widget img
 thepubliclivenews.in##.thepu-content
 thestellarnews.com##.thest-widget
 entevarthakal.com##.third_section_ads
