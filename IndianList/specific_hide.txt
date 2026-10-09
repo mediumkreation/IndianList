@@ -4078,7 +4078,7 @@ banglanewslive.co.in##[class^="hostinger-affiliate"]
 sarabangla.net##[class^="sb-ad-panel"]
 hamromat.com,koshiparionline.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
-vijayavani.net##[data-ad-id]
+gujaratsamachar.com,vijayavani.net##[data-ad-id]
 amadersundarban24.com,attariyaonline.com,citizenvoice.in,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
 ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com,setoshikhar.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
@@ -4146,6 +4146,7 @@ bangla.thereport24.com##[style*="height:80px;width:300px;"]
 kalerkotha.com,prabhasakshi.com##[style*="min-height:"]
 dailyusharbani.com,rangpur24.com,totthopratidin.com##[style*="min-width: 320px;"]
 bengali.oneindia.com##[style="min-height: 250px;"]
+gujaratsamachar.com##[style="min-height: 400px;"]
 otvkhabar.in##[style="width:300px;height:250px;"]
 gnttv.com,ibctamil.com##[tbl-feed-card]:has(.trc-content-sponsored)
 rtvonline.com##[title="Reachable Ads"]
