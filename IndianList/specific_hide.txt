@@ -813,7 +813,7 @@ fatehnagarnews.com,rghnews.com,skytipsbd.com,udaipurkiran.in###text-16
 anaicoddai.com,e-jaffna.com,manvadhikartimes.com,pehchanexpress.com,theblastkhabar.com,updatesatkhira.com###text-17
 achhisoch.com,akashgyanvatika.com,amaderparis.com,banglarkonthosor.com,hindustanlivetoday.com,newsnowbangla.com,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,biharhalchalnews.com,hindustanlivetoday.com,rodoshee.com,sambadsaradin.com,updatetimes.com###text-19
-abhibharat.com,anaicoddai.com,attachowk.com,bagerhatinfo.com,bihar.express,binodonnews24.com,bojrodhoni.com,ccnnews24.in,cgtazanews.com,cinemasthi.com,cinesnacks.net,communitynews24.com,crimenewsbd24.com,currentkhabar.com,currentnewz.in,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,inayam.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,jansamparklife.in,joyparajoy.com,karmalamadhanews24.com,komashisha.com,lokhitexpress.com,maharashtradesha.com,moviemandu.com,moviewingz.com,news39.net,parichowk.com,parvasinewspaper.com,peoplenews.lk,postpatrika.com,ptcnetwork.ca,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,starexpress.news,thesandeshwahak.com,todayexpressnews.com,udaipurkiran.in,udaipurnewschannel.in,udayindiahindi.in,vedantsamachar.in,vijaychowk.com,yarlosai.com###text-2
+abhibharat.com,anaicoddai.com,attachowk.com,bagerhatinfo.com,bihar.express,binodonnews24.com,bojrodhoni.com,ccnnews24.in,cgtazanews.com,cinemasthi.com,cinesnacks.net,communitynews24.com,crimenewsbd24.com,currentkhabar.com,currentnewz.in,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,himalayapost.com,hindi24news.com,inayam.com,indokalingtimes.com,jagatbhumi.com,jagprerna.com,jansamparklife.in,joyparajoy.com,karmalamadhanews24.com,komashisha.com,lokhitexpress.com,maharashtradesha.com,moviemandu.com,moviewingz.com,news39.net,parichowk.com,parvasinewspaper.com,peoplenews.lk,postpatrika.com,ptcnetwork.ca,punjabbaani.com,punjabimaaboli.com,republicbharatnews24.com,rninewsbihar.co.in,samacharvaarta.com,sidhakura.net,starexpress.news,thesandeshwahak.com,todayexpressnews.com,udaipurkiran.in,udaipurnewschannel.in,udayindiahindi.in,vedantsamachar.in,vijaychowk.com,yarlosai.com###text-2
 newsexpress18.in###text-2 img
 kanodnews.com###text-2 p~p
 amaderparis.com,hindi24news.com,kalmunainet.com,tnilive.com###text-20
@@ -851,7 +851,7 @@ atharvnews.com,biharpatrika.in,buzznox.com,chandankesari.com,communitynews24.com
 achhikhabar.com,recentnepal.com###text-50
 anaicoddai.com,bmdb.co,recentnepal.com###text-52
 aapkisafalta.com###text-54
-anaicoddai.com,himalayapost.com###text-57
+anaicoddai.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
 avikaluttarakhand.com,banglarkonthosor.com,barisaltoday.com,bdtodays.net,brajpatrika.com,clearnews.live,crimenewsbd24.com,dailypunjabtimes.com,hbharat.com,jagprerna.com,janadhikarmedia.com,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,nanonewsonline.in,news129.com,newsexpressindia.in,nnews24.com,shreekanchanpath.com,siwanbazar.com,sylhetnewsbd.com###text-6
@@ -3776,7 +3776,6 @@ onlinearthik.com,samabesikhabar.com##.widget_sso_advertisement
 ainnews.tv,atulyaloktantranews.com,awazeuttarpradesh.com,deshrupantor.com,fatafatnews.com,gangalahar.com,khabar36.com,khulnatimes.com,ottrancheithi.com,samaydarshan.in,shomoynews.com,theevakam.com##.widget_text
 banglarkotha24.com##.widget_text .custom-html-widget
 jenerakhun.com##.widget_text .td-all-devices
-himalayapost.com##.widget_text a[target="_new"] img
 sirajganjnews24.com##.widget_text code
 thejoharnews.com##.widget_text iframe[title]
 barishaltimes.com,bekhaufkhabar.com,dharitri.com,dmoitry.com,prothomshomoy.com,punjablivenews.in,skyhawktimes.com,swaviman.com##.widget_text img
@@ -4753,7 +4752,6 @@ haldwanilive.com##div[id^="haldw-"]
 hellobikaner.com##div[id^="hello-"]
 hillsmirror.com##div[id^="hills-"]
 himachalplus.com,himachalreport.com##div[id^="himac-"]
-himalayapost.com##div[id^="himal-"]
 sajhaonlinekhabar.com##div[id^="hwp-"]
 vedantbhoomi.com##div[id^="image_"]
 lokmat.com##div[id^="inArticle"]
