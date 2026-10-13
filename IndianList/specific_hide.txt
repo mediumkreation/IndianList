@@ -1568,6 +1568,7 @@ londonbdnews24.com##.block-left-banner
 londonbdnews24.com##.block-right-ads1:not(:has(> .block-body > div))
 bisshobanglanews24.com,londonbdnews24.com##.block-right-bottom-ads
 khabrainabhitak.org,panchkulasamachar.com,sportszone24.com##.block-widget
+ganeshhimalpress.com##.block.h-full img
 newsflash71.com##.block__2
 livekhagaria.in##.blocks-gallery-item
 newswayanad.in##.blockspare-blocks
@@ -2635,6 +2636,7 @@ mannarkkadlive.com##.navbar-right
 daijiworld.com##.navbar-static-top a[target="new"]
 bishwanathbd24.com##.navbar-top-banner
 nayabikalpa.com##.naya-bikalpa-advertisement
+ganeshhimalpress.com##.nd-card.mb-6
 amraikhabor.com,rojgarmanch.com##.ne-banner-layout1
 cgsandesh.com##.ne-sidebar > div:not(.sidebar-box)
 newsbreathe.com##.neder_advertisement_content_banner
