@@ -3291,7 +3291,7 @@ janatarsylhet24.com,matopath.com,teraisandesh.com##.td-main-content-wrap .td_blo
 digitalmalayalionline.com##.td-main-content-wrap .td_spot_img_all
 faridpurpost.com##.td-main-content-wrap .tdm-descr
 akkbd.com##.td-main-content-wrap .tdm_block img:not([src*="_n-1.gif"])
-bangabarta.com##.td-main-content-wrap .tdm_block_inline_image
+bangabarta.com,urjasanchar.com##.td-main-content-wrap .tdm_block_inline_image
 khabor24.in##.td-main-content-wrap .tdm_block_inline_text
 teknafnews.com##.td-main-content-wrap .vc_raw_html
 newsfireonline.com##.td-main-content-wrap .widget_text
@@ -3366,6 +3366,7 @@ samayviews.com##.tdi_86
 annapurnatimes.com##.tdm_block
 mekhadooth.com,sindhudurgsamachar.in,techvision24.com##.tdm_block img
 71newstoday.com##.tdm_block.tdm-content-horiz-left
+urjasanchar.com##.tdm_block_column_content
 newsxpresslive.com##.tdm_block_image_info_box
 dhakanews24.com,digitalmalayalionline.com,mahaxpress.com,ratdinnews.net,suprobhat.com##.tdm_block_inline_image
 theprintlines.com##.tdm_block_inline_image img
