@@ -600,7 +600,7 @@ lokmat.com###photoBanner
 jugantor.com###popAd
 dineshkhabar.com###popBlkAd
 amadershomoy.com###popUp
-dailymanam.com,deshprotidin.com###popup
+dailymanam.com,deshprotidin.com,nepalauto.com###popup
 socialsamvad.com###popup-overlay
 hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
