@@ -1941,8 +1941,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2856,7 +2856,7 @@ kannada.newskarnataka.com,samacharhouse.com##.py-5
 satyamlive.com##.quadss-location
 rajnitiprotidin.com##.qvzk
 purvanchal24.com##.r-emfs .imagewidget
-aarthikdainik.com,hetaudakhabar.com,khojpatrika.com,nepalipatra.com,samayasamachar.com,sulsule.com##.rd-ads
+hetaudakhabar.com,khojpatrika.com,nepalipatra.com,samayasamachar.com,sulsule.com##.rd-ads
 jhilko.com##.rd-ads img:not(.wp-image-2735)
 hetaudakhabar.com##.rd-between-ads
 hetaudakhabar.com##.rd-bottom-popup
@@ -4942,6 +4942,7 @@ tejpolicetimes.com##iframe[title="Advertorial"]
 deshsanchar.com,golmalnews.com##img.alignnone.size-full
 onstimes.com##img.attachment-full
 youthsofbirgunj.com##img.attachment-penci-full-thumb
+aarthikdainik.com##img.block.w-full
 fenireport.com##img.img-fluid[src*="/backend/logo/"]
 bangladeshglobal.com##img.max-w-full:not([src*="BLDA.jpg"])
 gournadi24.com##img.w-full.h-auto
