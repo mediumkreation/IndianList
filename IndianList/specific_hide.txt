@@ -5117,7 +5117,7 @@ tamiltradepost.com##section.slider-sec
 ainakhabar.com,amsanchar.com,arthapath.com,bikastimes.com,bizkhabar.com,dainikonline.com,deshkonews.com,drishtinews.com,etajakhabar.com,gaunbeshi.com,ghatanarabichar.com,harekpalnews.com,ijalas.com,imagekhabar.com,khabarghar.com,khabarhub.com,khabarkura.com,lalitkhabar.com,mayadevionline.com,mntvonline.com,momnepal.com,narayanionline.com,nepalpatra.com,onlinepana.com,pariwartankhabar.com,sabastaentertainment.com,sallerikhabar.com,taksarnews.com,thenepaltop.com##section.widget
 bizpati.com,suryakhabar.com,thuloparda.com##section.widget > figure
 abcnepal.tv,chakrapath.com,dainiknepal.com,kendrabindu.com,notebazar.com,onlinetvnepal.com,peoplenepal.com,puleso.com,sailungonline.com##section.widget figure
-actpronepal.com,janaandolan.com##section.widget figure img
+actpronepal.com,janaandolan.com,sherpakhabar.com##section.widget figure img
 clickmandu.com,hamroeconomy.com,healthaawaj.com,himaldaily.com,himalpost.com,janatatimes.com,khasokhas.com,livemandu.com,lumbinisanchar.com,nagarikkhabar.com,newsofnepal.com,postkhabar.com,prasashan.com,reportersnepal.com,sajhapana.com,thecinematimes.com,yobela.com,yohokhabar.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
