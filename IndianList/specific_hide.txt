@@ -2187,7 +2187,7 @@ pankourinews.com##.header .col-lg-8
 mbpratidin.com##.header .mom-e3lanat
 bdcrimenews.com##.header .pull-right
 kairalynews.com##.header .slide_img
-legendnews.in##.header--ad
+legendnews.in,pokharaviews.com##.header--ad
 jharkhandujala.com##.header-ad-bar
 bangladesherkhabor.net##.header-ad-section
 tamilsaga.com##.header-add
@@ -3624,6 +3624,7 @@ suddidina.com##.whistleAds
 newskoseli.com##.wid-1
 puthithu.com##.widget > .wp-block-image
 emungaru.com##.widget img[src^="data:"]
+pokharaviews.com##.widget--title-custom
 labanglatimes.com##.widget-banner
 eadarsha.com##.widget-below_header
 crimediarybd.com##.widget-body > p img
