@@ -3467,6 +3467,7 @@ manatelangana.news##.to-be-async-loaded-ad:has(p[style^="text-align:center"])
 samaysandeshnews.in##.top-ad-banner-container
 kasargodvartha.com,keralaonlinenews.com##.top-ad-d
 bengali.indianexpress.com##.top-ad-height .tbl-feed-card:has(.trc-content-sponsored)
+kalbela.com##.top-ad-main
 bigkhabar.com,cricket97.com,dpcnews24.com,urjakhabar.com##.top-add
 kolomerkotha.com##.top-add-img
 aajtak.in,ashanews.in##.top-add-section
@@ -4059,6 +4060,7 @@ argusnews.in##[class*="min-h-[306px]"]
 pudhari.news##[class*="mrec-slot__"]
 eyeofnepal.com##[class*="no-vigyapan-"]
 telugunow.com##[class*="nv-ad nv-ad"]
+kalbela.com##[class*="popup_"]
 ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
