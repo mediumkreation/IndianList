@@ -4053,6 +4053,7 @@ urjakhabar.com##[class*="common-banner-"]
 cinejosh.com##[class*="googleAd"]
 chakrikhobor.com##[class*="govt-post-ads"]
 dainikhawk.com##[class*="hawk-ad-"]
+khabarmantra.net##[class*="km-ad-"]
 gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
