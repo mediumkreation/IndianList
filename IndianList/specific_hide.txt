@@ -280,7 +280,6 @@ ajkerparibartan.com###content + .col-md-4 > div:nth-child(3)
 focusmohona.com###content .abv-container
 jagranbarta.com###content .elementor-widget-image
 sidhasatyakhabar.com###content .elementor-widget-image .size-full
-pnpnews.in###content .elementor-widget-shortcode
 humhindustanilive.com###content .master-slider-parent
 a4applenews.com###content .n2-section-smartslider
 nepalimato.com###content .news_portal_ads_banner
@@ -1873,6 +1872,7 @@ prothomsokal24.com##.eclipsewh-ad-content
 aajtak.in##.editorial-banner
 rupalibangladesh.com##.eid-magazine-2026
 jaijaikal.com##.elementor-12 .elementor-widget-image
+pnpnews.in##.elementor-32 .elementor-widget-shortcode
 mpcnews.in##.elementor-41 .elementor-widget-text-editor
 anugrahavision.com##.elementor-background-slideshow__slide
 aajkijandhara.com##.elementor-col-33 .elementor-section
