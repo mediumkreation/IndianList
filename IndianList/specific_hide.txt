@@ -1508,6 +1508,7 @@ voiceofdarbhanga.com##.bdaia-post-content p img
 nabaz-e-punjab.com,nalandalive.com##.bdaia-widget-e3
 seemanchallive.com##.bdaia-widget:not(#bdaia-widget-e3-4)
 bdsomoy24.com##.bdsom-content
+gangakhabar.com##.before-content-image
 npg.news##.before_story_ad
 gautamsandesh.com##.beforeheader_728
 belagavisuddi.com##.belag-content
@@ -1942,8 +1943,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
