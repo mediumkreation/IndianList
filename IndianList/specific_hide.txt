@@ -3462,6 +3462,8 @@ khabarhub.com##.title-top section
 aajkaal.in##.title__div-sm:has(+ .aajkaalBook)
 pchelpcenterbd.com##.title_below_ads
 krishideepam.in##.tm-adv-header
+timesnews24.com##.tn2-ad
+timesnews24.com##.tn2a-bottomad
 thenewspost.in##.tnp-home-ads-poll-section
 hamdardmediagroup.com,janprahar.com,jantakiawaz.org##.to-be-async-loaded-ad
 dishadaily.com##.to-be-async-loaded-ad#after_related_post
