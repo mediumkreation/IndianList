@@ -3354,6 +3354,7 @@ jnilive.mobi##.tdb_single_content a.td-modal-image
 bangabarta.com##.tdb_single_content a[href*="amzn.to"]
 pniindia.com##.tdb_single_content figure .blocks-gallery-grid:only-child
 chatganrbani.com##.tdb_single_content img
+swarajyasanvad.com##.tdb_single_current_post
 politicsnews24.com##.tdc-row-content-vert-center
 guruvayooronline.com##.tdi_107.td_block_slide
 guruvayooronline.com##.tdi_118
