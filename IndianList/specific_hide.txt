@@ -4054,6 +4054,7 @@ newstak.in##[class*="bg-gray"].text-center
 swarajdigital.in##[class*="bg-gray-100"].justify-center
 canadanepal.com,galaxykhabar.com,hamrokhelkud.com,sidhakura.com##[class*="bigyaapan"]
 jwalasandesh.com,madinews.com,mahilaswasthya.com,rangasansar.com##[class*="bigyapan"]
+theexposelive.com##[class*="bn-lg"]
 amaderrajshahibd.com##[class*="bnb-ad-"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
