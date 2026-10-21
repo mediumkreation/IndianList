@@ -3140,6 +3140,7 @@ banglalive.com##.sny-ads-panel
 kurunews.com##.sora-ads-full
 kaumudiplus.com##.sp-ad-row
 samudra-pari.com,samudrapari.com##.sp-full-width-ads
+indianheadline.in##.sp-slides-container
 laatsaab.com##.sp_simple_youtube
 flowersoriginals.com,ntvbd.com,twentyfournews.com##.space-ad
 alorkantho24.news##.spad
@@ -4129,7 +4130,7 @@ gujaratheadline24.com##[id^="gujar-"]
 haldwanisamachar.com##[id^="haldw-"]
 halvadkrantinews.in##[id^="halva-"]
 bhilwarahalchal.com##[id^="home_right_ad_"]
-india24plus.com##[id^="india-"]
+india24plus.com,indianheadline.in##[id^="india-"]
 chennaisudar.in,gtamilnews.com,tamilscreen.com##[id^="itro_"]
 janaaawajnews.com##[id^="janaa-"]
 jharkhanddigital.com##[id^="jhark-"]
