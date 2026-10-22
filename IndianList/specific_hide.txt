@@ -1240,7 +1240,7 @@ snn24.com##.addtop_header
 jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 bdnewsclub.com,nitharsanam.net##.adflexbox
-watchgujarat.com##.adimg
+iamkhabrilal.com,watchgujarat.com##.adimg
 truevisionnews.com##.adimg:not([src*="_aalapp.jpg"]):not([src*="_next tv.jpg"])
 aplamaharashtra.in,roorkeehub.com,samacharagency.com##.adore-adver
 dadailypunjabnews.com,jantantraa.com,pingara.com##.adore-adver-part
