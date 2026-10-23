@@ -2331,6 +2331,7 @@ samacharplus.com##.img-add
 khabarkunj.com##.img-ads
 neervely.ca##.img-ads > li > img
 newsbrahmanbaria.com##.img-advertise
+kannurmediaonline.in##.img-fluid.w-30
 chhattisgarhtimes.com##.img-my-ad
 velkinews.com##.img-responsive.center-block
 aapkikhabar.com##.imgOverlayAd
@@ -5052,6 +5053,7 @@ janwarta.com#?#.td_block_wrap:-abp-has(> div > h4 > span:-abp-contains(Ad))
 jharkhandvarta.com#?#div[class^="gb-element"]:-abp-properties(min-height)
 jujhartimes.in#?#.p-3 > h4:-abp-contains(Ads)
 k9media.live#?#[id^="AS_O_"] div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
+kannurmediaonline.in#?#.mb-3:-abp-has(> .section-title > h4:-abp-contains(Advertisement))
 kanvkanv.com#?#.sidebar-block-wrapper:has(a:-abp-contains(Advertisement))
 khabaraaptak.net#?#.widget:-abp-has(> .widget--title > h2:-abp-contains(Advertisement))
 khabardev.com#?#.list-category-posts-half:-abp-has(> .widget-title:-abp-contains(AD))
