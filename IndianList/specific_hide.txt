@@ -735,7 +735,7 @@ techshahin24.com###sidebar-wrapper .widget.HTML:not(#HTML14):not(#HTML7)
 sampattechno.com###sidebar-wrapper .widget.HTML:not(#HTML4)
 bbttimes.in###sidebar-wrapper .widget.Image
 bharatprawah.com###sidebar-wrapper .widget.Image:not(#Image4)
-abtaknews.com,desikhabar.in,digontonewsbd.com,indiasnews24.com,pradeepamonline.com###sidebar1
+abtaknews.com,desikhabar.in,digontonewsbd.com,evisionnews.in,indiasnews24.com,pradeepamonline.com###sidebar1
 dailypunorutthan.com,daynightnewsbd.com,jagonarsingdi24.com,newswin24.com###sidebaradvertise
 himaliawaj.com,jkcnews.com###simple-image-popup
 kulalaworld.com###simpleimage-13
