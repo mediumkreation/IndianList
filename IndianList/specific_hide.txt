@@ -2384,6 +2384,7 @@ lokshahilive.com##.items-right .h-text img
 aajtak.in,news1bharat.com##.itgdAdsPlaceholder
 digitalbagerhat.com##.itpolly_widget
 bartakontho.com,deshshamachar.com##.itpolly_widget > img
+dailydeshnews.com##.itpolly_widget figure.size-large
 alokitoshitalakha.com,dailyamarbhumi.com,nabajug.com##.itpolly_widget img
 fulbariapratidin.com##.itpolly_widget img:not([src*="White-Gold-Elegant-Best-Employee-"])
 dainikjharkhand.com##.ixnf
