@@ -615,7 +615,7 @@ bhalukanews.com###primary img[alt="ads"]
 dailynabochatona.com###primary-content .widget_media_image img:not([src*="e-Paper.png"])
 purbashabd24.com###primary-sidebar
 kalantor24.com###promotion
-aagyakhabar.com###protech_ads_roadblock-ad
+aagyakhabar.com,emadheshtoday.com###protech_ads_roadblock-ad
 himachal.punjabkesari.in###prrt
 koyilandydiary.com###random-image
 akhandbharatsamachar.com###recent-boxes2
