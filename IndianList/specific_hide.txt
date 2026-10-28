@@ -1122,6 +1122,7 @@ ajkerbangladeshsomoy.com,ajkercrimenews.com,ajkerdarpon.com,ajkernarsingdi.com,a
 onenews24bd.com##.add .size-full
 talash24.com##.add .textwidget
 vinnabarta.com##.add .textwidget p:has(> ins.adsbygoogle)
+kalerkhabor24.com##.add .widget_area
 bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 bddhaka.com,dailysirajganjkantha.com,jonaki.tv##.add .widget_area img
 alokitonarayanganj24.net##.add .widget_area img:not([src*="54342.jpg"])
