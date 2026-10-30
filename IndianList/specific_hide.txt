@@ -1914,7 +1914,7 @@ barishalcrimenews.com##.elementor-widget-flip-box
 dastakindia.com##.elementor-widget-foxiz-ad-image
 garhninad.com,sidelook.in##.elementor-widget-foxiz-banner
 navbihartime.com##.elementor-widget-foxiz-list-small-2
-cinemapressclub.com##.elementor-widget-he-advertisement-banner
+cinemapressclub.com,irelandmalayali.com##.elementor-widget-he-advertisement-banner
 khabriyanews.com##.elementor-widget-heading
 attingalvartha.com,atvodisha.com,chetanaonline.com,dainiksatkhirabarta.com,deshmadhesh.com,joharlive.com,kannadavahini.com,kasaragodchannel.com,lokshakti.in,mantavyanews.com,mbmnewsnetwork.com,motherlandpost.in,punjabkesari.com,satwadhara.news,thejharokha.com,todaypostlive.com##.elementor-widget-html
 bangladhara.com##.elementor-widget-html iframe
@@ -1946,8 +1946,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
