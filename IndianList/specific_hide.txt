@@ -1948,8 +1948,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -3590,7 +3590,7 @@ policemukhbir.com##.vc_figure .vc_box_border_blue
 lekhnathkhabar.com##.vc_grid-container-wrapper .wpb_content_element
 ayushindianews.com##.vc_images_carousel
 bangladeshmail.news,dailyceylon.lk,dunvalleymail.com,everestfujinews.com,karnaliheadlines.com,malayalimanasu.com,manvadhikarabhivyakti.com,newsdanka.com,politicsnews24.com,sarhadkasakshi.com,sathiyam.tv,thedeoriatimes.in,torrongonews.com,yarldeepam.com,zoom.lk##.vc_raw_html
-coastal-mirror.com,encounterindia.in,justkannada.in##.vc_raw_html img
+coastal-mirror.com,encounterindia.in,justkannada.in,priyodeshnews.com##.vc_raw_html img
 worldpunjabi.tv##.vc_raw_html:not(.tdi_128)
 sharpbharat.com##.vc_raw_html:not(.tdi_87)
 sankalpsavera.com##.vc_row.vc_row-has-fill
