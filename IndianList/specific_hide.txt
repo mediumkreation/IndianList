@@ -2253,8 +2253,8 @@ telugu.goodreturns.in##.headinglist > div
 tirangaacindianews.com##.headnBx .text-right
 webdunia.com##.health_insurance_client
 chttoday.com##.height-100
-krushinama.com##.herald-da
-hindnews.live,krishionline.com##.herald-txt-module
+krushinama.com,parbatnews.com##.herald-da
+hindnews.live,krishionline.com,parbatnews.com##.herald-txt-module
 jatiyoarthoniti.com##.hero-ads-one
 supportmeindia.com##.hero-section
 nepalsandesh.com##.hero-sidebar
@@ -4089,7 +4089,7 @@ ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
 hindi.news24online.com##[class*="rhsAds"]
-afnainews.com,eadarsha.com,ebikalpadainik.com,hdibharat.com,livemumbaimitra.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
+afnainews.com,eadarsha.com,ebikalpadainik.com,hdibharat.com,livemumbaimitra.com,parbatnews.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 chetanaonline.com##[class*="single-ad-"]
 upayuktha.com##[class*="slider-"]
