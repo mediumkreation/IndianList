@@ -2387,7 +2387,7 @@ aajtak.in,news1bharat.com##.itgdAdsPlaceholder
 digitalbagerhat.com##.itpolly_widget
 bartakontho.com,deshshamachar.com##.itpolly_widget > img
 dailydeshnews.com##.itpolly_widget figure.size-large
-alokitoshitalakha.com,dailyamarbhumi.com,nabajug.com##.itpolly_widget img
+alokitoshitalakha.com,dailyamarbhumi.com,dainikmathrevomirkantho.com,nabajug.com##.itpolly_widget img
 fulbariapratidin.com##.itpolly_widget img:not([src*="White-Gold-Elegant-Best-Employee-"])
 dainikjharkhand.com##.ixnf
 jaihindtimes.in##.jaihi-before-content
@@ -4036,7 +4036,7 @@ agamirsomoy.com##[class*=" h-[90px]"]
 dailytamilnadu.com,vikatan.com##[class*="-ad-"]
 prabhasakshi.com##[class*="-ad-container"]
 esakal.com##[class*="-ad-slot"]
-alorkhabor.com,dailymanobadhikercrimenews.com,dainikmathrevomirkantho.com##[class*="-ad-wrap"]
+alorkhabor.com,dailymanobadhikercrimenews.com##[class*="-ad-wrap"]
 ournews24.com##[class*="-add"]
 raftaar.in,telugutimes.net##[class*="-add-"]
 abpcrimenews.com##[class*="-ads"]
