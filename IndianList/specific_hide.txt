@@ -5098,6 +5098,7 @@ arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
 pressnote.in#?##main-content .main-carousel:-abp-has(> .title-wrapper > h2 > span:-abp-contains(Advertisement))
 pressnote.in#?##main-content .theiaStickySidebar:-abp-has(> div > .title-wrapper > h2 span:-abp-contains(Advertisement))
+marathimol.com#?#.gb-container:-abp-properties(min-height)
 arlivenews.com##marquee img
 meranews.com#?#p:-abp-contains(Advertisement)
 mirroruttarakhand.com#?#.widget-sidebar:has(> .widget-header > h3:-abp-contains(ADVT))
