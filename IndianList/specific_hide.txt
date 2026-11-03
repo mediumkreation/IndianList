@@ -2823,7 +2823,7 @@ hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 himalayapost.com##.post-wrap:has(> .otw-sidebar .widget_text)
 ankapatra.com##.post_cont-ads
 uttarakhandlivenews.com##.poster
-hamrokantipur.com,kalikadainik.com,nepsebajar.com,satkarpost.com##.posts__banner__ads
+hamrokantipur.com,kalikadainik.com,madhesh24.com,nepsebajar.com,satkarpost.com##.posts__banner__ads
 pavilion.com.bd##.powrMarkContainer
 sanghamam.com##.pr-0
 prabhatmantra.com##.prabh-before-content
@@ -4093,7 +4093,7 @@ ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
 hindi.news24online.com##[class*="rhsAds"]
-afnainews.com,eadarsha.com,ebikalpadainik.com,hdibharat.com,livemumbaimitra.com,parbatnews.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
+afnainews.com,eadarsha.com,ebikalpadainik.com,hdibharat.com,livemumbaimitra.com,madhesh24.com,parbatnews.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 chetanaonline.com##[class*="single-ad-"]
 upayuktha.com##[class*="slider-"]
