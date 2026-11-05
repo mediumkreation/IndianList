@@ -1171,7 +1171,7 @@ u71news.com##.add-right
 evartha.in,garshomonline.com##.add-row
 dainiktribuneonline.com,netizennepal.com,thebengalitimes.com##.add-sec
 nepalpostdainik.com##.add-sect
-bdsangbad.com,bdsomachar24.com,chandraganjprotidin.com,dinajpur24.com,dristyprotidin.com,malayalam.indiatoday.in,malisamajsocial.com,newsvisionbd.com,probashbarta.com,somoyersangbad.com,telegramnews24.net,thebengalitimes.com,virakesari.lk##.add-section
+bdsangbad.com,bdsomachar24.com,chandraganjprotidin.com,dinajpur24.com,dristyprotidin.com,malayalam.indiatoday.in,malisamajsocial.com,newsvisionbd.com,probashbarta.com,sangbadalochona.com,somoyersangbad.com,telegramnews24.net,thebengalitimes.com,virakesari.lk##.add-section
 moulvibazar24.com,newsdnntv.com##.add-section img
 shahoshikantho.com##.add-section img:not([src*="hotline-1024x160.jpg"])
 nandighoshatv.com##.add-section-home.right
@@ -1950,8 +1950,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
