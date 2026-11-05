@@ -1322,6 +1322,7 @@ radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 vasundharadeep.news##.adver-slider
 khabrainabhitak.org##.adver_banner
+gandakipatra.com##.adverr
 ada.lk,ajkerrajshahi.com,manithan.com,shyamalsylhet.net,tamilan24.com,uskhabaronline.com##.advert
 ada.lk##.advert-single
 inkhabar.com##.advertSection
@@ -3068,7 +3069,7 @@ beanibazarnews24.com##.single-news-widget > img.size-full
 dailybexpress.com,dakshinermashal.com,probashbarta.com,satkhiranews24.com,somoyersangbad.com,sylhetprothidin24.com##.single-page-add2
 bn.bd24report.com,notunerkotha.com##.single-page2-topAdd
 hamrodes.com##.single-post figure.wp-block-image
-epratibimba.com,nepalmamila.com,satyadeepsandesh.com,shubhakhabar.com##.single-post-advertisement
+epratibimba.com,gandakipatra.com,nepalmamila.com,satyadeepsandesh.com,shubhakhabar.com##.single-post-advertisement
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 newssanjal.com##.single-sidebar .post-carousel-1
@@ -4094,7 +4095,7 @@ ap7am.com##[class*="pr-"]
 britantnews.com##[class*="protech-banner-ads"] img
 britantnews.com##[class*="protech-sticky"] img.image
 hindi.news24online.com##[class*="rhsAds"]
-afnainews.com,eadarsha.com,ebikalpadainik.com,hdibharat.com,livemumbaimitra.com,madhesh24.com,parbatnews.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
+afnainews.com,eadarsha.com,ebikalpadainik.com,gandakipatra.com,hdibharat.com,livemumbaimitra.com,madhesh24.com,parbatnews.com,sudurkhabar.com,tajavarthalu.in##[class*="sgpb-"]
 kirandoot.com##[class*="sidebar"] aside.widget_text
 chetanaonline.com##[class*="single-ad-"]
 upayuktha.com##[class*="slider-"]
