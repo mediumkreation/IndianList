@@ -1222,6 +1222,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/add.gif
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/add2.gif
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/jamuna.jpg
+||dailyalokitosakal.net/ad-img/greatit.jpg
 ||dailyamaderbarisal.com/wp-content/uploads/2020/10/buy-website-bangladesh.jpg
 ||dailyamaderbarisal.com/wp-content/uploads/2020/10/engineerbd.png
 ||dailyapandesh.com/media/Advertisement/
@@ -2007,6 +2008,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||img.janatasamachar.de/uploads/bigyaapan/91282400.gif
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
+||img.utdstc.com^$third-party,domain=dailyalokitosakal.net
 ||imgur.com^$domain=karnalbreakingnews.com|pratyashatripura.in
 ||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khoborprotidin24.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|rajnagarbarta.com|wowsansar.com
 ||imgur.com^*wc6Qc9Y.jpg
