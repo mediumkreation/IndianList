@@ -128,7 +128,6 @@ alakhharyana.com,lokpatrika.in###ai_widget-2
 nationnewshindi.com###ai_widget-5
 spnewsworld.com###amazonautolinks_widgetbyid-2
 inextlive.com###aniview
-bonikbarta.com###article-middle2
 lokmatnews.in###articlePageBanner
 kannadavani.news###attachment_25628
 biharnation.in###attachment_28282
@@ -1950,8 +1949,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -4135,6 +4134,7 @@ esakal.com##[id*="_ad_slot"]
 instanews.city##[id*="_level_"]:not([data-mixin]):not(#right_level_2_1)
 morbiupdate.com##[id*="cat-a-"]
 nationalnews1.in##[id^="adCarousel"]
+bonikbarta.com##[id^="ad_"]
 oneindia.com##[id^="are-slot"]
 rupalibangladesh.com##[id^="banner-slider-"]
 dhankutakhabar.com##[id^="banner_"]
