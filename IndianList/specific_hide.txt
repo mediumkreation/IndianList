@@ -2530,7 +2530,7 @@ bastarkiaawaz.in##.masscie-marquee-wrap
 vijaykarnataka.com##.mastHeadData
 ayushindianews.com##.master-slider
 newshubinsight.in,newsspecial.in##.master-slider-main-widget
-awajnews.com,eveningkerala.com,veerdharanews.com##.master-slider-parent
+awajnews.com,eveningkerala.com,popcornkannada.com,veerdharanews.com##.master-slider-parent
 kanjirappallyreporters.com##.masthead-header-banner
 digitalkhabar.com##.masthead-middle-header .site-header-right
 bonikbarta.com##.max-h-full
@@ -3657,6 +3657,7 @@ prothomsokal24.com##.widget-content > img
 chandankesari.com,dailyinshort.com##.widget-header
 kusenews.com##.widget-header > img
 dailynewsindia.in##.widget-image-caption
+popcornkannada.com##.widget-shortcode img.size-full
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
 mirroruttarakhand.com##.widget-sidebar:has(.wp-video)
 bhilwarasamachar.in##.widget-slider-inner
