@@ -34,8 +34,6 @@ himachalmedia.co###HTML31
 himachalmedia.co###HTML32
 99samacharexpress.in,kurunews.com,yerahajawab.in###HTML33
 gramsamachar.com###HTML34
-haryana-news.in###HTML38
-haryana-news.in###HTML39
 36kaakda.in,99samacharexpress.in,battirepnews.com,chilahatiweb.com,cnblive.com,ekumaon.com,eluvannews.com,kanaighatnews.com,kolhapurlive.in,malwalive.com,media24media.com,nbcbangla.com,tamilarul.net###HTML4
 livenewsexpress.in,tamilarul.net###HTML40
 tamilarul.net###HTML42
@@ -707,7 +705,7 @@ badaunexpress.com,cholomanjobab24.com.bd,firstnewsbd.com,lekhaporabd.net,news24x
 lokhitkipukar.com###sidebar .ws-block-body > a > img
 khulasa.com###sidebar .ws-block-body > a img
 rjfnews.com###sidebar > .widget_media_image
-haryana-news.in,madhurdarpan.com###sidebar-container .widget.Image
+madhurdarpan.com###sidebar-container .widget.Image
 upayuktha.com###sidebar-container .widget.Image:not(#Image100)
 veerdharanews.com###sidebar-footer-4
 biharaaptak.com###sidebar-primary .widget_custom_html
@@ -4078,6 +4076,8 @@ amaderrajshahibd.com##[class*="bnb-ad-"]
 heronewsonline.com##[class*="boxzilla"]
 ekattorbanglanews.com##[class*="center-ads"]
 urjakhabar.com##[class*="common-banner-"]
+haryana-news.in##[class*="gb-media-"]
+haryana-news.in##[class*="gb-text-v2ad"]
 cinejosh.com##[class*="googleAd"]
 chakrikhobor.com##[class*="govt-post-ads"]
 dainikhawk.com##[class*="hawk-ad-"]
@@ -4963,6 +4963,7 @@ theruralpress.in##h4[id^="h-ro-no-"]
 narmadanchal.com##h5.wp-block-heading
 narmadanchal.com##h5.wp-block-heading + .wp-block-spacer
 boishakhionline.com##h5[style*="PEARL-ads.jpg"]
+haryana-news.in#?#.gb-container:-abp-properties(min-height)
 dainiksylhet.com##header .textwidget img
 khabor.com##header a[href*="/click-"]
 livekeralanews.com##header[id^="comp-"]
