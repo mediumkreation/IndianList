@@ -401,7 +401,7 @@ bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
 pressnote.in###heroVideo
 bhopalsamachar.com,uttarakhandhindinews.in###home-ads
-bijoyeralo.com,dailyusharbani.com,kalerkotha.com,kalerpost.com,rangpur24.com,sokalershironam.com,swadhinbangla.com###home-online-poll
+bijoyeralo.com,dailyusharbani.com,kalerkotha.com,kalerpost.com,prothomsurjadoy.com,rangpur24.com,sokalershironam.com,swadhinbangla.com###home-online-poll
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
 dainikvatibangla.com###id
@@ -1952,8 +1952,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2618,7 +2618,7 @@ sajhakuranews.com##.mt-15
 onlinepatrika.com##.mt-2 img
 azhimukham.com,damaulionline.com##.mt-3
 dailyprovatbela.com##.mt-3 .wp-block-image
-dailyusharbani.com,rangpur24.com,sokalershironam.com,swadhinbangla.com##.mt-3 > img
+dailyusharbani.com,prothomsurjadoy.com,rangpur24.com,sokalershironam.com,swadhinbangla.com##.mt-3 > img
 yugantarkhabar.com##.mt15 > a img
 sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
@@ -4030,6 +4030,7 @@ khabarpost.com##[alt="Ads"]
 banijyapost.com,cgwebnews.in,madhyom.com,newscircle.in,publicnext.com,unitednewskannada.com,vorerbangladesh.com##[alt="Advertisement"]
 ramroonline.com##[alt="RG Creations - Vertical Ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
+prothomsurjadoy.com##[alt="ad728"]
 kashishnews.com##[alt="add image"]
 nepaltoday.com.np##[alt="add"]
 nepaltimes.net##[alt="body Ad"]
