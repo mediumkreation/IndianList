@@ -4132,7 +4132,7 @@ hamromat.com,koshiparionline.com##[class^="sgpb-"]
 mediacops.in##[data-ad-channel]
 gujaratsamachar.com,vijayavani.net##[data-ad-id]
 amadersundarban24.com,attariyaonline.com,citizenvoice.in,ebikalpadainik.com,setohimalnews.com,telugumuchatlu.com,thedhakatimes.com,theutkal.in##[data-adid]
-ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com,setoshikhar.com##[data-adid] img
+chennaisudar.in,ctgpratidin.com,gurukulnews.com,infosamachar.com,nepaljanakhabar.com,newsnepalhd.com,setoshikhar.com##[data-adid] img
 positiveindia.net.in##[data-adid]:has(> img)
 khabaram.com##[data-adid][data-type="image"]
 npg.news##[data-category="banner_ad"]
