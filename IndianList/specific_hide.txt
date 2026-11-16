@@ -256,7 +256,7 @@ dailyamadercomilla.com###bottomadothers
 jaljalaonline.com,malayalamtodayonline.com###boxes
 simpaninews.com###brx-header .size-large
 probashtime.net###brxe-jugtas
-udaipurtimes.com###btm-widget
+bharattvlive.in,udaipurtimes.com###btm-widget
 ajkalerkontho.com###bunyad_ads_widget-3
 amankishaan.news###bxnzmefcd-3
 thehdnews.in###cactus-body-container .widget_custom_html
@@ -1722,7 +1722,7 @@ jagratilahar.com##.col-xs-12 .whatsapp > img
 uttarakhandpost.com##.colombiaRequestSend
 aapkikhabar.com,anugrahavision.com,bhadainimirror.com,chandaulisamachar.com,cricketkhabara.com,fashionnewsera.com,haryanakranti.com,heraldspot.com,keralaonlinenews.com,newshaat.com,newstodaynetwork.com,rochakkhabare.com,thechopal.com##.colombiaadcode
 livegoodmorning.com##.colombiainvalid
-3pm.in,aapkikhabar.com,atalnews24.com,dailyharyananews.com,ekhabartoday.com,haryanakranti.com,humarabikaner.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,metrojournalonline.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,palpalindia.in,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,udaipurtimes.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
+3pm.in,aapkikhabar.com,atalnews24.com,bharattvlive.in,dailyharyananews.com,ekhabartoday.com,haryanakranti.com,humarabikaner.com,kasargodvartha.com,kathir.news,lifestylenama.in,manoranjannama.com,metrojournalonline.com,nayaharyana.com,newsmoments.in,newsremind.com,newstm.in,newstodaynetwork.com,palpalindia.in,publicnewstv.in,rochakkhabare.com,samacharnama.com,samachartoday.co.in,skynews100.com,udaipurtimes.com,yuvaharyana.com,zabardastharyana.com##.colombiatracked
 livegoodmorning.com##.colombiatracked > iframe
 usanewsonline.com##.column-inner
 24livenewspaper.com##.comContent div[style*="min-height: 225px;"]
