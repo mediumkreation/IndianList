@@ -1930,6 +1930,7 @@ aafnokura.com,deskokhabar.com,humhindustaniusa.com,khabrimedia.com,thinakaran.lk
 simanapari.com##.elementor-widget-image .size-full:not([src*="simanapari-1.png"])
 andolana.in,anugrahavision.com,chatganews.com,chhattisgarhvoice.com,deshmadhesh.com,newsdeskkannada.com##.elementor-widget-image .size-large
 thecolomboexpress.com##.elementor-widget-image .size-large:not(.wp-image-61263)
+vijayatimes.com##.elementor-widget-image .size-large:not([src*="Vijaya-Times-logo.png"])
 dailybanglarchokh.com##.elementor-widget-image > a img:not([src*="banglarchokhLogo.png"])
 dailybanglarchokh.com##.elementor-widget-image > img:not([src*="banglarchokhLogo.png"])
 bhartiyakhabar.in##.elementor-widget-image figure
@@ -5250,6 +5251,7 @@ uthayannews.ca#?#.widget_text:-abp-has(.widget-title > span:-abp-contains(Advert
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(> div > div > a> div *:-abp-contains(Ad |) )
 utkalpratidin.com#?#div[id*="_O_"] div:-abp-has(div-gpt-ad > div > div > a> div *:-abp-contains(Ad:) )
 varchasvnews.com#?#.heading:-abp-has(> span:-abp-contains(Advt))
+vijayatimes.com##video.elementor-video
 visionnewsservice.in#?#.sidebar-widget > h2:-abp-contains(Advertisement)
 viznews.in#?#div:-abp-has(> .heading > span:-abp-contains(Advertisement))
 vtvgujarati.com#?#.pt-2:-abp-contains(ADVERTISEMENT)
