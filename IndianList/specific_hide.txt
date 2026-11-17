@@ -2427,6 +2427,7 @@ gmnewsbd.com##.khandakarit_widget:has(> div > p > ins.adsbygoogle)
 parchhayin.com##.kopa-adv-widget
 timesofadventure.com##.kopa-banner-300
 koyilandydiary.com##.koyil-widget
+prasthutha.news##.kp-ad-content
 krantiodishanews.com##.krant-after-content
 krantiodishanews.com##.krant-below-title
 krantiodishanews.in##.krant-middle2
@@ -2838,7 +2839,6 @@ prabhatmantra.com##.prabh-before-content
 mponlinenews.com,samarthsahara.com,varchasvnews.com,viznews.in##.prachar
 shabdapatra.com##.prachar-section-img
 pchelpcenterbd.com##.pragads
-prasthutha.news##.prast-top1
 colombotamil.lk##.premium-header-ad-wrap
 paathok.news##.prettyphoto
 deshprotikhon.com##.price-sensitive-ads a:not([href*="deshprotikhon.com"]) img
