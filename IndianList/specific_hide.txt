@@ -3772,7 +3772,6 @@ hollywoodkhabar.com##.widget_media_image:not(#block-23)
 khabarcgnews.com##.widget_media_image:not(#block-245)
 samajjagran.in##.widget_media_image:not(#block-31)
 smartindiadial.com##.widget_media_image:not(#block-6)
-news24x7india.com##.widget_media_image:not(#block-8)
 nuwakotexpress.com##.widget_media_image:not(#block-9)
 madhyantar.com##.widget_media_image:not(#media_image-125)
 pplnews.in##.widget_media_image:not(#media_image-13)
@@ -4207,6 +4206,7 @@ ejalalabad.com##[style*="height: 800px;"]
 digitalpati.com##[style*="height:200px;"]
 bangla.thereport24.com##[style*="height:80px;width:300px;"]
 kalerkotha.com,prabhasakshi.com##[style*="min-height:"]
+news24x7india.com##[style*="min-height:280px"]
 dailyusharbani.com,rangpur24.com,totthopratidin.com##[style*="min-width: 320px;"]
 bengali.oneindia.com##[style="min-height: 250px;"]
 gujaratsamachar.com##[style="min-height: 400px;"]
