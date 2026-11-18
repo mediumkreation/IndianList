@@ -851,6 +851,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||blogspot.com^$third-party,domain=amarsylhet24.com|manabadi.co.in
 ||blogspot.com^*/1579368906960.jpg$domain=balliaexpress.in
 ||blogspot.com^*/1581350903327.jpg$domain=balliaexpress.in
+||blogspot.com^*/1pic.jpg
 ||blogspot.com^*/250x250-$domain=timesofmalwa.in
 ||blogspot.com^*/Admission%2BOpen%2BAnju%2BGill%2BAcademy%2BSenior%2BSecondary%2BInternational%2BSchool%2BJaunpur%2B%2BKatghara%252C%2BSadar%252C%2BJaunpur%2B%2BContact%2B%2B7705012955%252C%2B7705012959.JPG
 ||blogspot.com^*/Adv%2B2-1.jpg$domain=balliaexpress.in
@@ -865,6 +866,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||blogspot.com^*/Gahna%2BKothi%2BJaunpur.jpg
 ||blogspot.com^*/Hoarding%2B10x20%2BFeet.jpg$domain=balliaexpress.in
 ||blogspot.com^*/hr%2Bad%2B
+||blogspot.com^*/iams-
 ||blogspot.com^*/IMG-20200127-WA0119.jpg$domain=balliaexpress.in
 ||blogspot.com^*/IMG-20200327-WA0043.jpg$domain=balliaexpress.in
 ||blogspot.com^*/IMG-20200328-WA0222.jpg$domain=balliaexpress.in
@@ -1768,9 +1770,12 @@ perfection-ias-upsc$domain=nextbihar.com
 ||goo.gl^$image,domain=kvartha.com
 ||googleusercontent.com^*/anita%20tukaram%20ingale%20shivane%20pune%20on%20independence%20day%20light%20show.webp
 ||googleusercontent.com^*/coolie-$domain=tamizhakam.com
+||googleusercontent.com^*/deo-jyotishi.jpg
+||googleusercontent.com^*/iams-advt+1.jpg
 ||googleusercontent.com^*/IMG-20250108-WA0001.jpg$domain=nawadalive.com
 ||googleusercontent.com^*/ITAD.jpeg$domain=jurirsomoy.com
 ||googleusercontent.com^*/nda%20road%20warje%20pune%20reporters%20union.webp
+||googleusercontent.com^*/poster.jpg
 ||googleusercontent.com^*/shree%20samartha%20residency%20by%20sudhir%20dhawade%20front%201.webp
 ||googleusercontent.com^*/sunbeam.jpg
 ||gopalganj.org/wp-content/uploads/2020/11/Quoraflix-Click-Button-696x82.jpg
