@@ -1188,6 +1188,7 @@ cgsandesh.com##.add-top-margin
 dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 kulalworld.com##.add1
+dainiksaveratimes.com##.add2_2
 sristybarta.com##.add:has(> div:only-child)
 khabareast.com##.add:has(> div[id$="advertisement"])
 dainikdishari.com##.add:not(.wp-image-3687)
@@ -3508,7 +3509,7 @@ aajtak.in,ashanews.in##.top-add-section
 purbakantho.com##.top-adds
 manoramaonline.com##.top-advt-block
 maharashtratimes.com,marathi.indiatimes.com,navbharattimes.indiatimes.com,samayam.com,vijaykarnataka.com##.top-atf-wrapper
-ap7am.com,dainiksaveratimes.com,khaskhabar.com,rajtimes24.com,sangbadprotidin.com##.top-banner
+ap7am.com,khaskhabar.com,rajtimes24.com,sangbadprotidin.com##.top-banner
 jamalpurlive.com##.top-bar
 ekuruvi.com##.top-bar-left-nav
 malayaleevision.com##.top-d
