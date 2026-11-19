@@ -1408,7 +1408,6 @@ pujibazarreport.com##.all_add_div
 sansarpost.com##.allrounder-advertisement
 bangalorewaves.com##.almanacheader
 aagolavartha.com,themangaloremirror.in##.alp-advert
-ibc24.in##.alt-balaji
 kutchkhabar.com##.amazingcarousel-list-container
 bucksvault.in##.amazon-auto-links-widget
 jagonarayanganj24.com##.amws-custom-widget-show-ad
@@ -1954,8 +1953,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -2314,7 +2313,6 @@ tips4blog.com##.hot_rwc_ads
 ghamasan.com##.hp-ad-con
 iamgujarat.com,indiatimes.com,maharashtratimes.com,vijaykarnataka.com##.hp-rhs-ads-container
 knrchannel.com##.hr_ad_block
-ibc24.in##.hr_banner
 boombd.com##.hs-line-3
 hamdardmediagroup.com##.html_content_wrapper
 citymirrors.in##.hustle-content
@@ -2628,6 +2626,7 @@ sandhannews.com##.mtphr-dnt-widget
 dcnewsbd.com##.mujib_logo
 janatasamachar.com##.mukhya-samachar > .full-bigyapan
 newscenternepal.com##.mvp-nav-top-right
+ibc24.in##.mx-auto.max-w-full
 aamsanchar.com,sajhamanch.com##.my-2
 kanakaionline.com##.my-2 img
 janobani.com##.my-3
@@ -4031,7 +4030,7 @@ samvadbharatnews.com##[alt*="Advertise"]
 varta24live.com##[alt*="Advertisement"]
 lionexpress.in##[alt*="Bilonaa Art"]
 khabarpost.com##[alt="Ads"]
-banijyapost.com,cgwebnews.in,madhyom.com,newscircle.in,publicnext.com,unitednewskannada.com,vorerbangladesh.com##[alt="Advertisement"]
+banijyapost.com,cgwebnews.in,ibc24.in,madhyom.com,newscircle.in,publicnext.com,unitednewskannada.com,vorerbangladesh.com##[alt="Advertisement"]
 ramroonline.com##[alt="RG Creations - Vertical Ad"]
 tamilvanakkam.com##[alt="Short Term Rental - Toronto"]
 prothomsurjadoy.com##[alt="ad728"]
