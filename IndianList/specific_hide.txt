@@ -1955,8 +1955,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -4511,7 +4511,7 @@ hitwicket.lk##div:has(> [data-adid])
 indiatimes.com##div:has(> [data-row-id="recommended-deals-widget"])
 zeenews.india.com##div:has(> [id*="-ad-"])
 raftaar.in##div:has(> [id^="div-ad-"])
-dailyamarshohor.com,lokmatnews.in##div:has(> [id^="div-gpt-ad"])
+dailyamarshohor.com,janobani.com,lokmatnews.in##div:has(> [id^="div-gpt-ad"])
 shortheadlines.com##div:has(> [id^="div-gpt-ad"]:only-child)
 jagonews24.com,lokmat.com,npg.news##div:has(> [id^="div-gpt-ad-"])
 spokesmanhindi.com##div:has(> [style="color:gray; text-align:center;"] ~ ins.adsbygoogle)
