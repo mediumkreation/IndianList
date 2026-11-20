@@ -2872,6 +2872,7 @@ asomiyapratidin.in,grehlakshmi.com,kalakaumudi.com,mayapuri.com,sathyamonline.co
 odishareporter.in##.publive-dynamic-container:has(> div[id^="div-gpt-ad-"])
 sambad.in##.publive-dynamic-container:has(div[id^="div-gpt-ad"])
 nakkheeran.in##.publive-slot-span
+athavannews.com##.pum
 bangabarta.com,cinemapressclub.com,dhadingupdate.com,industryhit.com,janayugomonline.com,kanakaionline.com,nepalpostdaily.com,onnnepal.com,pratidindaily.com,samajjagran.in,satyadeepsandesh.com,thejharokha.com,thinakaran.lk##.pum-content
 punjabnewslive.co.in##.punja-widget
 bharatheadline.in##.pv-ad-label-top
