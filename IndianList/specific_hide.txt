@@ -2355,7 +2355,7 @@ sudarshannews.in##.imgslider img:not([src*="pratibha.jpeg"])
 harekpal.com##.in-news-advertisement
 ekuruvi.com##.in-pan-ad
 aagyakhabar.com,abpcrimenews.com,afnainews.com,bethanchokkhabar.com,ekhabarnet.com,janasarokar.com,kalikadainik.com,khabarnp.com,moolbato.com,nagarikaawaj.com,nepsebajar.com,ournewscrew.com,pahilokhabar.com,sadaksanchar.com,sagarmathakhabar.com,samayahub.com,satkarpost.com,sawalnepal.com,vanipress.com,yuwadaily.com##.in__between_ads
-lokmatnews.in##.inarticleAd
+lokmat.com,lokmatnews.in##.inarticleAd
 lumbinisanchar.com##.index-ads
 amadershomoy.com##.index_ads_one
 amadershomoy.com##.index_ads_three
