@@ -1655,6 +1655,7 @@ chetaktimes.com##.cheta-before-content
 tamilmithran.com##.cine_ad
 citynewsrajasthan.com##.cityn-adlabel
 newsuperbharat.com##.click-zoom
+hindi.webdunia.com##.client_sponsored
 tamil.thesubeditor.com##.cls
 24jetnews.com,dmoitry.com##.cm-125x125-advertisement-widget
 amarsandesh.com##.cm-beside-slider-widget
