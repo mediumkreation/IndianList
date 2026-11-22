@@ -398,7 +398,6 @@ uttarbangasambad.com###header_custom_ad
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
-pressnote.in###heroVideo
 bhopalsamachar.com,uttarakhandhindinews.in###home-ads
 bijoyeralo.com,dailyusharbani.com,kalerkotha.com,kalerpost.com,prothomsurjadoy.com,rangpur24.com,sokalershironam.com,swadhinbangla.com###home-online-poll
 uttareralo24.com###home_page_ad
@@ -648,7 +647,6 @@ aarthiknews.com,techpana.com###roadBlock
 farwesttimesdaily.com###roadblockModal
 aajkijandhara.com###samvad-popupModal
 sanjeevnitoday.com###sanje-slider-30
-pressnote.in###sb-container
 kodanki.in###secondary
 prajasattaknews.com###secondary .ai-sticky-widget
 yugabdha.com###secondary .box-sec-bg
@@ -2808,6 +2806,7 @@ bdnews999.com,dailyajkerbarta.com,dailylalsabujerdesh.com,dainikkishoreganj.com,
 banglanewstv.net##.pitwAdvWrap img
 knlslive.com##.pixelMainDiv
 etharasambhala.com,hamdardtv.com##.plyr
+pressnote.in##.pn2-header__ad
 jamalpurlive.com##.popbox
 dhadingnews.com,dinamina.lk##.popmake-content
 dhangadhikhabar.com##.popover-ad
