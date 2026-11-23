@@ -4219,6 +4219,7 @@ news24x7india.com##[style*="min-height:280px"]
 dailyusharbani.com,rangpur24.com,totthopratidin.com##[style*="min-width: 320px;"]
 bengali.oneindia.com##[style="min-height: 250px;"]
 gujaratsamachar.com##[style="min-height: 400px;"]
+malayalam.timesnownews.com##[style="min-height:181px"]
 bd-journal.com##[style="text-align:center"] img
 otvkhabar.in##[style="width:300px;height:250px;"]
 gnttv.com,ibctamil.com##[tbl-feed-card]:has(.trc-content-sponsored)
