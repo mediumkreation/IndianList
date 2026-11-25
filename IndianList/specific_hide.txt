@@ -1958,8 +1958,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -3210,6 +3210,8 @@ tedmnews.com##.stay-connected-ads
 chitwanpress.com##.stickey-side .ad-title ~ a
 narayanidainik.com##.stickey-side .no-bod
 citysandesh.com##.stickey-side .no-bod img
+loksevanews24.com##.sticky .w-full.aspect-square
+loksevanews24.com##.sticky .w-full.my-2
 lastnewsbd.com##.sticky > div:nth-child(2)
 himachalabhiabhi.com##.sticky-button
 calcuttatelevisionnetwork.in##.sticky-md-top img
@@ -3657,6 +3659,7 @@ hamarchhattisgarh24.com##.w-full.my-2
 emalayalee.com##.w-full.my-2.group
 chetnamanch.com##.w-full.my-4
 gournadi24.com##.w-full.object-contain
+loksevanews24.com##.w-full.py-4
 nrn.news##.w-full.shadow-sm
 argusnews.in##.w-full:has(> .items-center > .uppercase.font-bold)
 cgkhabar.com##.w-full:has(> ins.adsbygoogle)
