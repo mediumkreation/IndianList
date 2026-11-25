@@ -39,9 +39,9 @@ gramsamachar.com###HTML34
 livenewsexpress.in,tamilarul.net###HTML40
 tamilarul.net###HTML42
 nallezhuth.com###HTML44
-36kaakda.in,99samacharexpress.in,abtakapakesath.com,atalnews24.com,battinews.com,chapainawabganjnews.com,chilahatiweb.com,eelanesan.com,hellodharnews.com,ladbharol.com,malabarflash.com,media24media.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
-atalnews24.com,ezhomelive.com,gossip99.com,kd24news.in,mathagal.net,media24media.com,rashtrasamarpan.com,taazakhoj.com,topbharat.in###HTML6
-chapainawabganjnews.com,hellodharnews.com,liveaaryaavart.com,livebihar24news.com,vyganews.com###HTML7
+36kaakda.in,99samacharexpress.in,abtakapakesath.com,atalnews24.com,battinews.com,chapainawabganjnews.com,chilahatiweb.com,eelanesan.com,hellodharnews.com,ladbharol.com,malabarflash.com,media24media.com,shivpurifirst.com,tapnewsindia.com,topbharat.in,visarnews.com###HTML5
+atalnews24.com,ezhomelive.com,gossip99.com,kd24news.in,mathagal.net,media24media.com,rashtrasamarpan.com,shivpurifirst.com,taazakhoj.com,topbharat.in###HTML6
+chapainawabganjnews.com,hellodharnews.com,liveaaryaavart.com,livebihar24news.com,shivpurifirst.com,vyganews.com###HTML7
 atalnews24.com,dailyhealthletters.com,gramsamachar.com,india2daynews.com,jaldhakanews.com,khantinews.blogspot.com,newssapata.com,nunworajasthan.co.in,rajsamachar.com,rashtrasamarpan.com,rknewsofindia.com,shaharaman.com,shomoysangbad.com,tonnalukal.com###HTML8
 balotranewstrack.com###HTML860
 battinatham.com,bhopalsamachar.com,jaldhakanews.com,kalviseithi.net,radionagarik.websoftitnepal.com,sahibganjnews.com,tonnalukal.com,top99breakingnews.blogspot.com###HTML9
@@ -400,7 +400,7 @@ uttarbangasambad.com###header_custom_ad
 newsview.lk###headerright
 bspabla.com###heatmapthemead-primary-sidebar
 sachkaujala.com###herald_video_widget-2
-bhopalsamachar.com,uttarakhandhindinews.in###home-ads
+bhopalsamachar.com,shivpurifirst.com,uttarakhandhindinews.in###home-ads
 bijoyeralo.com,dailyusharbani.com,kalerkotha.com,kalerpost.com,prothomsurjadoy.com,rangpur24.com,sokalershironam.com,swadhinbangla.com###home-online-poll
 uttareralo24.com###home_page_ad
 apkhabar.com,fonijkorea.net,khaptadmalikanews.com,neelkanthafm.com,nirakarankhabar.com,prabhatpheri.com.np###homeads
@@ -1958,8 +1958,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 kasaragodchannel.com#@#.elementor-widget-shortcode
+damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -5142,6 +5142,7 @@ marathimol.com#?#.gb-container:-abp-properties(min-height)
 arlivenews.com##marquee img
 meranews.com#?#p:-abp-contains(Advertisement)
 mirroruttarakhand.com#?#.widget-sidebar:has(> .widget-header > h3:-abp-contains(ADVT))
+mithilajanjankiaawaj.com#?#span:-abp-contains(Advertisement)
 mpjankrantinews.in#?#div[class^="gb-element"]:-abp-properties(min-height)
 munaadi.com#?#.mb-3:-abp-has(.section-title > h4:-abp-contains(Advertisement))
 myagdikali.com#?#.site-main > div:-abp-contains(Advertisement)
@@ -5280,4 +5281,3 @@ wayanadvision.in#?#.sidebar-widget:-abp-has(> h3:-abp-contains(Ad))
 yugvartanews.com#?#center:-abp-contains(ADVERTISEMENT)
 yuvaharyana.com#?#div[id^="AS_O_LHS"] > div:-abp-has(> div > a>div > h5:-abp-contains(Ad |))
 yuvakrantinews.in#?#.gb-container:-abp-properties(min-height)
-mithilajanjankiaawaj.com#?#span:-abp-contains(Advertisement)
