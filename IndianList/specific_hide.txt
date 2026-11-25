@@ -1958,8 +1958,8 @@ thurannakathu.com##.elementor-widget-penci-custom-sliders
 theeditor24.com##.elementor-widget-penci-featured-boxes
 unmai.in##.elementor-widget-pixwell-ad-image
 lakfmnews.lk##.elementor-widget-rt-image
-kasaragodchannel.com#@#.elementor-widget-shortcode
 damrua.com,dobrynews.in,graminujala.com,hamarahathras.com,manavadhikarsandesh.com,navinawaznews.com,nirbhiknazar.com,pandhurnahalchalnews.in,punjablivenews.in,rsnews24.com,samachardoot.in##.elementor-widget-shortcode
+kasaragodchannel.com#@#.elementor-widget-shortcode
 mohanagarnews.com##.elementor-widget-shortcode .entered:not(iframe)
 barisalbani.com##.elementor-widget-shortcode .size-full
 arohitodaynews.in,asiantimes.in,banglasangbad24.com,bharatsarathi.com,crimekhabarbihar.com,dainikdarpan24.com,dainiksamvad.in,gmbnews.in,indiadhuandhar.in,jharkhandjansandeshtimes.com,kelanchaltimes.in,mpcnews.in,mpnewsupdate.com,news9india.in,newsinbihar.com,newsinrajasthan.com,onlinebhaskar.com,pnews.co.in,themukhbir.com,thepubliclivenews.in##.elementor-widget-shortcode img
@@ -4111,6 +4111,7 @@ dainikhawk.com##[class*="hawk-ad-"]
 sangbad.net##[class*="insaafAd"]
 khabarmantra.net##[class*="km-ad-"]
 gsnewsbd.com##[class*="max-w-"] img:not([alt="logo"])
+drishyam.news##[class*="min-h-[100px]"]
 newsworldweb.in##[class*="min-h-[120px]"]
 prabhatkhabar.com##[class*="min-h-[125px]"]
 argusnews.in##[class*="min-h-[306px]"]
@@ -4494,7 +4495,7 @@ citynewsrajshahi.com##div:has(> .ad-block)
 samprotikee.com##div:has(> .ad-container)
 timesnowtamil.com##div:has(> .ad-div)
 bharatbarta.com##div:has(> .ads-wrp_txt)
-dainikhawk.com,kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
+dainikhawk.com,drishyam.news,kathir.news,thedailycampus.com##div:has(> .adsbygoogle)
 thuglak.com##div:has(> .adv)
 seemanchallive.com##div:has(> .bdaia-e3-container)
 prothomalo.com##div:has(> .dfp-ad-unit)
